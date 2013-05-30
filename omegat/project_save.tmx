@@ -23235,6 +23235,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T153313Z">
+        <seg>Die Syntax für die Definition der Verknüpfungen ist: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, wobei&lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; ein Code ist, der aus den unten stehenden Tabellen genommen wird und &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; ist eine Kombination von Tasten, die, wie von Nutzer festgelegt, gedrückt werden müssen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user&lt;f3&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T081851Z">
