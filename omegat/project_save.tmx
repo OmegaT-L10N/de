@@ -1106,6 +1106,14 @@ Um dem Projekt Dateien zufügen, klicken sie auf  die Schaltfläche Quelldateien
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T153355Z">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- (X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095557Z">
@@ -2305,6 +2313,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T082421Z">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; kann sein: &lt;e1&gt;getippt&lt;/e1&gt;, &lt;e2&gt;gedrückt&lt;/e2&gt;, &lt;e3&gt;losgelassen&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T153336Z">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; kann sein: &lt;e1&gt;Umschalten&lt;/e1&gt;, &lt;e2&gt;Steuerung&lt;/e2&gt;, &lt;e3&gt;strg&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28199,6 +28215,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T073632Z">
         <seg>an</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T153535Z">
+        <seg>und &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; kann irgendeine Taste auf Ihrer Tastatur sein</seg>
       </tuv>
     </tu>
     <tu>
