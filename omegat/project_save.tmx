@@ -4469,6 +4469,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Spell checking&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T155005Z">
+        <seg>&lt;p0&gt;Menü Optionen&lt;/p0&gt; &lt;s1&gt;Rechtschreibprüfung&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130429T053253Z">
@@ -7333,6 +7341,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T124659Z">
         <seg>Bevor Sie mit einer solchen Konvertierung beginnen, testen Sie alle Optionen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T154909Z">
+        <seg>Bevor die Rechtschreibprüfung benutzt werden kann, muss ein geeignetes Wörterbuch oder Wörterbücher (d.h. für Ihre Zielsprache) installiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13789,6 +13805,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, select &lt;g0&gt;&lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;Options &gt; Spell Checking&lt;/g2&gt;, then click &lt;g3&gt;Choose &lt;/g3&gt;beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T155020Z">
+        <seg>In OmegaT wählen sie &lt;g0&gt;&lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;Optionen &gt; Rechtschreibprüfung&lt;/g2&gt;, dann klicken Sie &lt;g3&gt;Auswählen &lt;/g3&gt;neben dem Feld Ordner der Wörterbuch Dateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a file manager a translation project looks and acts just like any other folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T090737Z">
@@ -14145,6 +14169,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130529T082144Z">
         <seg>In Anbetracht der Flexibilität können Sie für die Zielsprachen zusätzliche Ausnahmeregeln definieren, um sinnvollere und schlüssigere Segmente zu haben. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T155000Z">
+        <seg>In Ihrem Dateimanager legen Sie einen neuen Ordner an, der geeignet ist, um Rechtschreibung-Wörterbücher zu speichern (D:\Translations\spellcheckers im Beispiel unten).
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -16646,6 +16679,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to and select the folder you created for dictionaries.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T155048Z">
+        <seg>Navigieren Sie und wählen Sie den Ordner, den Sie für die Wörterbücher geschaffen haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ndonga</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T082355Z">
@@ -18740,6 +18781,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T142052Z">
         <seg>Phillip Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the dictionary files you wish to use in this folder.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T155128Z">
+        <seg>Platzieren Sie die Wörterbuch-Dateien, die Sie benutzen wollen, in diesen Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25019,6 +25068,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are essentially two ways in which you can do this.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T155146Z">
+        <seg>Es gibt im Grunde zwei Wege, auf denen Sie es tun können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T090730Z">
@@ -26232,6 +26289,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T060934Z">
         <seg>Um &lt;a0&gt;OmegaT&lt;/a0&gt; zu installieren, entpacken Sie einfach die &lt;e1&gt;OmegaT_X.X.X_Without_JRE.zip&lt;/e1&gt; Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install spelling dictionaries, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T154928Z">
+        <seg>Um Rechtschreibung-Wörterbücher zu installieren, gehen sie wie folgt vor:</seg>
       </tuv>
     </tu>
     <tu>
