@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T154059Z">
+        <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#!/bin/bash java
 java -jar OmegaT.jar $*</seg>
       </tuv>
@@ -6101,6 +6109,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow the translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T154000Z">
+        <seg>Erlauben Sie, dass die Übersetzung mit der Quelle sein kann</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translated tags to be in a different order</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T083823Z">
@@ -11395,6 +11411,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T154016Z">
+        <seg>Gehe zum nächsten nicht übersetzten Segment hält an, wenn es mindestens eine alternative Übersetzung gibt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="DE">
@@ -11783,6 +11807,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE">
         <seg> Verbergen '{0}' </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T154023Z">
+        <seg>Wenn es im Glossar-Fenster hervor gehoben ist und rechts angeklickt wird, wird an der Cursor Position in das Zielsegment eingesetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27258,6 +27290,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T094538Z">
         <seg>Sie können die Dateien später hinzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;Info.plist&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T154136Z">
+        <seg>Sie können dort auch mit "cd" in der Kommandozeile hinkommen und &lt;a4&gt;&lt;e5&gt;Info.plist&lt;/e5&gt; in einem Editor für Kommandozeilen wie emacs oder vi&lt;/a4&gt; öffnen.</seg>
       </tuv>
     </tu>
     <tu>
