@@ -1114,6 +1114,14 @@ Um dem Projekt Dateien zufügen, klicken sie auf  die Schaltfläche Quelldateien
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>, one can find:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T153732Z">
+        <seg>, kann man finden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- (X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095557Z">
@@ -3537,6 +3545,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T115655Z">
         <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; wird in Windows, UNIX und wie UNIX operierenden Systemen eingesetzt, wo die Tastatur eine &lt;k2&gt;Ctrl&lt;/k2&gt; oder &lt;k3&gt;Steuerung&lt;/k3&gt; Taste hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T153928Z">
+        <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6701,6 +6717,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T073604Z">
         <seg>Versuch &amp;Nummern beim Einfügen eines unscharfen Treffern zu ändern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T153939Z">
+        <seg>Versuch Nummern beim Einfügen eines unscharfen Treffern zu ändern</seg>
       </tuv>
     </tu>
     <tu>
@@ -10883,6 +10907,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in the default OmegaT shortcuts</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T153711Z">
+        <seg>Zum Beispiel unter den Standard OmegaT Verknüpfungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts&lt;f0&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T144533Z">
@@ -12745,6 +12777,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T153219Z">
         <seg>Wenn Sie die &lt;e2&gt;&lt;i3/&gt;fortgeschrittenen Optionen&lt;/e2&gt; aktivieren, können Sie die Suche mit dem Namen des Autors der Übersetzung und der Zeit der letzten Änderung verbinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T153750Z">
+        <seg>Wenn Sie &lt;k0&gt; &lt;k1&gt;Umschalten&lt;/k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; um ein Projekt zu öffnen, ändern Sie &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; wie folgt:</seg>
       </tuv>
     </tu>
     <tu>
