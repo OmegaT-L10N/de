@@ -7647,16 +7647,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cannot locate help file:</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Kann die Hilfedatei nicht lokalisieren:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130531T144439Z">
+        <seg>Hilfedatei kann nicht lokalisiert werden:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Cannot open the link {0}</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Kann den Link nicht öffnen {0}</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130531T144402Z">
+        <seg>Der Link kann nicht geöffnet werden {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17423,6 +17423,7 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Vorschlag: Zahl einmaliger Segmente</note>
       <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
@@ -26832,6 +26833,7 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>s. oben</note>
       <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
@@ -27670,8 +27672,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>User's Manual viewer does not support navigation to external links.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Anzeige für das Benutzerhandbuch unterstützt Navigation zu externen Links nicht.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130531T144435Z">
+        <seg>Anzeige für das Benutzerhandbuch unterstützt Navigation zu externen Links.</seg>
       </tuv>
     </tu>
     <tu>
