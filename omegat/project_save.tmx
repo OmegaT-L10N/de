@@ -10915,8 +10915,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T090145Z">
-        <seg>TM {0} für das Projekt konnte nicht geladen werden!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130531T135727Z">
+        <seg>TM {0} konnte für das Projekt nicht geladen werden!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13964,7 +13964,8 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>nicht sicher, ob gemeint ist, dass das Projekt (und nicht OmegaT) beendet und dann geöffnet werden muss. </note>
+      <note>nicht sicher, ob gemeint ist, dass das Projekt (und nicht OmegaT) beendet und dann geöffnet werden muss. 
+Ich würde eher schreiben: Damit die Änderungen wirksam werden, muss das Projekt beendet und anschließend geöffnet werden. </note>
       <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
