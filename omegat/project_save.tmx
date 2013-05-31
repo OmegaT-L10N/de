@@ -801,6 +801,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Proxy Login...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130531T134123Z">
+        <seg>&amp;Proxy-Login...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Quit</seg>
       </tuv>
       <tuv lang="DE">
@@ -10134,6 +10142,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <note>&amp;TransTipps aktivieren</note>
       <tuv lang="EN">
         <seg>Enable &amp;TransTips</seg>
       </tuv>
@@ -20499,7 +20508,7 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Spei&amp;chern und Ausgabe...</note>
+      <note>Spei&amp;chern und Export...</note>
       <tuv lang="EN">
         <seg>Sa&amp;ving and Output...</seg>
       </tuv>
