@@ -1638,14 +1638,6 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche Quelldat
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>--/-- (--/--, --)</seg>
-      </tuv>
-      <tuv lang="DE">
-        <seg>--/-- (--/--, --)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>--alignDir={location of translated files}</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T094217Z">
@@ -22001,8 +21993,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Quell/Ziellängen (Zeichen)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130531T142522Z">
+        <seg>Quell-/Ziellängen (Zeichen)</seg>
       </tuv>
     </tu>
     <tu>
