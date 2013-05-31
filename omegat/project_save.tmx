@@ -1104,13 +1104,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <note>nicht einheitlich mit Segment 4883: Vorschlag: Schaltfläche Dateien in den Quellordner kopieren... </note>
       <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T084228Z">
+      <tuv lang="DE" changeid="eugenieneumann" changedate="20130531T121146Z">
         <seg>(siehe im Benutzerthandbuch 'Dateien zum Übersetzen' &gt; 'Dateiformate' mit einer Liste der unterstützen Dateiformate.)
-Um dem Projekt Dateien zufügen, klicken sie auf  die Schaltfläche Quelldateien importieren... im Fenster Projektdateien oder rufen Sie die Funktion aus dem Projektmenü auf und wählen dabei die Quelldateien, die Sie importieren wollen.</seg>
+Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche Quelldateien importieren... im Fenster Projektdateien oder rufen Sie die Funktion aus dem Projektmenü auf und wählen dabei die Quelldateien aus, die Sie importieren möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1936,8 +1937,8 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T083541Z">
-        <seg>2) Vergrößern Sie den Speicher für OmegaT, indem Sie einen Wert für "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" in der Befehlszeile oder im Startskript für OmegaT einsetzen; momentan ist {0}MB eingestellt;</seg>
+      <tuv lang="DE" changeid="eugenieneumann" changedate="20130531T120239Z">
+        <seg>2) Vergrößern Sie den Speicherplatz für OmegaT, indem Sie einen Wert für "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" in der Befehlszeile oder im Startskript für OmegaT einsetzen; momentan ist {0}MB eingestellt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,14 +2363,6 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130522T185147Z">
         <seg>Wenn ein Projekt geöffnet wird, entdeckt &lt;a2&gt;OmegaT&lt;/a2&gt; automatisch Glossar-Dateien in diesem Ordner. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;auto&gt;</seg>
-      </tuv>
-      <tuv lang="DE">
-        <seg>&lt;auto&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8395,6 +8388,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <note>nicht einheitlich (s. Segment 4872). Vorschlag: Dateien in den Quellordner kopieren. </note>
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
@@ -9038,8 +9032,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T083926Z">
-        <seg>Derzeit verwendete Speicher durch VM: {0}MB; davon freier Speicher: {1}MB; maximal vorhanden: {2}MB;</seg>
+      <tuv lang="DE" changeid="eugenieneumann" changedate="20130531T120322Z">
+        <seg>Derzeitige Speichernutzung durch VM: {0}MB; davon freier Speicherplatz: {1}MB; maximal vorhanden: {2}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29232,8 +29226,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T084400Z">
-        <seg>Sie können die Dateien auch mit Ihrem bevorzugten Dateimanager in den Ordner 'source' Ihres Projekts kopieren und danach das Projekt mit Projekt-&gt; neu laden im Projektmenü erneut laden.</seg>
+      <tuv lang="DE" changeid="eugenieneumann" changedate="20130531T121227Z">
+        <seg>Sie können die Dateien auch mit Ihrem bevorzugten Dateimanager in den Ordner 'source' Ihres Projekts kopieren und anschließend das Projekt mit Projekt-&gt; neu laden im Projektmenü erneut laden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29483,8 +29477,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Ihr Projekt hat keine Dateien in einem unterstützten Format.</seg>
+      <tuv lang="DE" changeid="eugenieneumann" changedate="20130531T120436Z">
+        <seg>In Ihrem Projekt sind keine Dateien in einem unterstützten Format enthalten.</seg>
       </tuv>
     </tu>
     <tu>
