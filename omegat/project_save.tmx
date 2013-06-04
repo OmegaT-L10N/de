@@ -1961,14 +1961,6 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>50%-74%:</seg>
-      </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T133349Z">
-        <seg>50%-74%:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>6.</seg>
       </tuv>
       <tuv lang="DE">
@@ -1981,14 +1973,6 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE">
         <seg>7.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>75%-84%:</seg>
-      </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T133348Z">
-        <seg>75%-84%:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2009,26 +1993,10 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>85%-94%:</seg>
-      </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T133347Z">
-        <seg>85%-94%:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>9.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>9.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>95%-100%:</seg>
-      </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T133346Z">
-        <seg>95%-100%:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7623,8 +7591,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Zugriff auf Glossary Verzeichnis nicht möglich!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T222919Z">
+        <seg>Zugriff auf Glossarordner nicht möglich!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10666,24 +10634,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T091410Z">
-        <seg>Führe externen Befehl aus...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T223020Z">
+        <seg>Externer Befehl wird ausgeführt...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T091608Z">
-        <seg>Exit Code {0}: "{1}"</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T223346Z">
+        <seg>Exit-Code {0}: "{1}"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Exit code: {0}</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T091523Z">
-        <seg>Exit Code: {0}</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T223432Z">
+        <seg>Exit-Code {0}: "{1}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10795,8 +10763,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>External command failed.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T091626Z">
-        <seg>Externer Befehl misslungen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T223343Z">
+        <seg>Externer Befehl fehlgeschlagen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15641,8 +15609,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Loading TMX files...</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Lade TMX Dateien...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T222657Z">
+        <seg>Lade TMX-Dateien...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16193,8 +16161,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130504T161035Z">
-        <seg>Treffer Statistiken</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224538Z">
+        <seg>Treffer-Statistiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -18872,8 +18840,8 @@ your home folder.</seg>
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Schauen Sie ins Handbuch für Wiederherstellungsoptionen und senden Sie die nachfolgende Information, zusammen mit einer Beschreibung, wie es zum Fehler gekommen ist, an den Softwarehersteller.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T222642Z">
+        <seg>Konsultieren Sie das Handbuch übe Wiederherstellungsoptionen und senden Sie die nachfolgende Information, zusammen mit einer Beschreibung, wie es zum Fehler gekommen ist, an den Softwarehersteller.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19924,8 +19892,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>verbleibende Zeichen (mit Leerzeichen)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224449Z">
+        <seg>Verbleibende Zeichen (mit Leerzeichen)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19940,16 +19908,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Remaining Segments</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T133053Z">
-        <seg>Verbleibende Segments</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224235Z">
+        <seg>Verbleibende Segmente</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Remaining Words</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>verbleibende Wörter:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224322Z">
+        <seg>Verbleibende Wörter:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21909,8 +21877,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source file loading complete</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Laden der Quelldatei komplett</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T222651Z">
+        <seg>Quelldatei vollständig geladen</seg>
       </tuv>
     </tu>
     <tu>
@@ -26644,16 +26612,16 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>insgesamt Zeichen (mit Leerzeichen)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224445Z">
+        <seg>Zeichen Gesamt (mit Leerzeichen)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Zeichen insgesamt (ohne Leerzeichen)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224356Z">
+        <seg>Zeichen Gesamt (ohne Leerzeichen)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26668,8 +26636,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Total Words</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Wörter insgesamt</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224306Z">
+        <seg>Wörter Gesamt</seg>
       </tuv>
     </tu>
     <tu>
@@ -26804,7 +26772,7 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Translated documents created</seg>
       </tuv>
-      <tuv lang="DE">
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T223047Z">
         <seg>Übersetzte Dokumente erstellt</seg>
       </tuv>
     </tu>
@@ -27197,32 +27165,32 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Unique Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T133312Z">
-        <seg>einzigartige Zeichen (ohne Leerzeichen)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224451Z">
+        <seg>Einzigartige Zeichen (ohne Leerzeichen)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T133233Z">
-        <seg>einzigartige Zeichen (ohne Leerzeichen)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224411Z">
+        <seg>Einzigartige Zeichen (ohne Leerzeichen)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unique Remaining Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T133315Z">
-        <seg>verbleibende einzigartige Zeichen (ohne Leerzeichen)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224514Z">
+        <seg>Verbleibende einzigartige Zeichen (ohne Leerzeichen)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unique Remaining Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T133304Z">
-        <seg>verbleibende einzigartige Zeichen (ohne Leerzeichen)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224415Z">
+        <seg>Verbleibende einzigartige Zeichen (ohne Leerzeichen)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27261,8 +27229,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Unique Words</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T133132Z">
-        <seg>einzigartige Wörter</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130604T224325Z">
+        <seg>Einzigartige Wörter</seg>
       </tuv>
     </tu>
     <tu>
