@@ -954,6 +954,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Tokenizer Behavior:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130605T124305Z">
+        <seg>Verhalten des &amp;Quellsprachen-Tokenizers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T085731Z">
@@ -966,6 +974,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T134507Z">
         <seg>&amp;Tokenizer der Zielsprache:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Tokenizer Behavior:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130605T124256Z">
+        <seg>&amp;Target Tokenizer:</seg>
       </tuv>
     </tu>
     <tu>
