@@ -7407,8 +7407,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Both search types support the wildcard characters * and ?.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130605T142339Z">
-        <seg>Beide Sucharten unterstützen die Platzhalter * und ?.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130605T142748Z">
+        <seg>Beide Sucharten unterstützen die Jokerzeichen * und ?.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23014,8 +23014,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The '*' character matches zero or more characters (the search term 'run*' would match 'run', 'runs', and 'running', for example).</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Das Zeichen '*' findet Null oder mehr Zeichen (der Suchausdruck 'Druck*' würde z.B. 'Druck', 'Drucker', 'Druckerei' finden). </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130605T142743Z">
+        <seg>Das Zeichen '*' steht für null oder mehr Zeichen (der Suchausdruck 'Druck*' würde z.B. 'Druck', 'Drucker', 'Druckerei' finden). </seg>
       </tuv>
     </tu>
     <tu>
