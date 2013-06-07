@@ -2217,6 +2217,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;f3&gt;&lt;i4/&gt;tm&lt;/f3&gt; folder&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="DE-DE" changeid="helm" changedate="20130607T141648Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;f3&gt;&lt;i4/&gt;tm&lt;/f3&gt; Ordner&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;Sentence level segmentation&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="DE-DE" changeid="hasan" changedate="20130529T073842Z">
@@ -2229,6 +2237,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE-DE" changeid="helm" changedate="20130607T141627Z">
         <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;Hauptordner des Projekts&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/auto folder&lt;i4/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="DE-DE" changeid="helm" changedate="20130607T141716Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/auto Ordner&lt;i4/&gt;&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/penalty-xxx folders&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="DE-DE" changeid="helm" changedate="20130607T141731Z">
+        <seg>&lt;/v0&gt; &lt;v1&gt; &lt;t2&gt;&lt;i3/&gt;tm/penalty-xxx Ordner&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17515,6 +17539,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE-DE" changeid="helm" changedate="20130428T074007Z">
         <seg>Vorlage Anzeige Treffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match pane</seg>
+      </tuv>
+      <tuv lang="DE-DE" changeid="helm" changedate="20130607T141803Z">
+        <seg>Treffer Fenster</seg>
       </tuv>
     </tu>
     <tu>
