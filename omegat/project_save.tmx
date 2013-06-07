@@ -3201,6 +3201,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout folder and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
+      </tuv>
+      <tuv lang="DE-DE" changeid="helm" changedate="20130607T094340Z">
+        <seg>&lt;e0&gt;commit die lokalen Änderungen zum Server: &lt;/e0&gt;klicken Sie recht auf das lokale checkout Verzeichnis und wählen Sie &lt;g1&gt;SVN Commit....&lt;/g1&gt; Das Commit Fenster - siehe unten öffnet sich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
       </tuv>
       <tuv lang="DE-DE" changeid="hasan" changedate="20130508T151433Z">
@@ -23602,6 +23610,14 @@ instead.</seg>
         <seg>The contents of the checkout directory will be marked accordingly:</seg>
       </tuv>
       <tuv lang="DE-DE" changeid="hasan" changedate="20130509T121651Z">
+        <seg>Die Inhalte des checkout Verzeichnisses werden entsprechend markiert werden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of the checkout folder will be marked accordingly:</seg>
+      </tuv>
+      <tuv lang="DE-DE" changeid="helm" changedate="20130607T094249Z">
         <seg>Die Inhalte des checkout Verzeichnisses werden entsprechend markiert werden:</seg>
       </tuv>
     </tu>
