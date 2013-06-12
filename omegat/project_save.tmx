@@ -487,7 +487,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Vorschlag: Alles korrigieren</note>
       <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
@@ -816,12 +815,11 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Vorschlag: Letzte Änderung wi&amp;ederholen</note>
       <tuv lang="EN">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Letzten Befehl &amp;erneut anwenden</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235759Z">
+        <seg>Letzte Änderung &amp;erneut anwenden</seg>
       </tuv>
     </tu>
     <tu>
@@ -1009,12 +1007,11 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Vorschlag: Letzte Änderung &amp;rückgängig machen</note>
       <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Letzten Befehl &amp;rückgängig machen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235737Z">
+        <seg>Letzte Änderung &amp;rückgängig machen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,14 +1119,13 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <note>nicht einheitlich mit Segment 4883: Vorschlag: Schaltfläche Dateien in den Quellordner kopieren... </note>
       <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenieneumann" changedate="20130531T121146Z">
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235102Z">
         <seg>(siehe im Benutzerthandbuch 'Dateien zum Übersetzen' &gt; 'Dateiformate' mit einer Liste der unterstützen Dateiformate.)
-Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche Quelldateien importieren... im Fenster Projektdateien oder rufen Sie die Funktion aus dem Projektmenü auf und wählen dabei die Quelldateien aus, die Sie importieren möchten.</seg>
+Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche Dateien in den Quellordner kopieren... im Fenster Projektdateien oder rufen Sie die Funktion aus dem Projektmenü auf und wählen dabei die Quelldateien aus, die Sie importieren möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9166,12 +9162,11 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
-      <note>wie bereits notiert: Vorschlag: Dateien in den Quellordner kopie&amp;ren</note>
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T084555Z">
-        <seg>Kopie&amp;re Dateien in den Quellordner...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235152Z">
+        <seg>Dateien in den Quellordner kopie&amp;ren...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9207,12 +9202,11 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
-      <note>nicht einheitlich (s. Segment 4872). Vorschlag: Dateien in den Quellordner kopieren. </note>
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T084616Z">
-        <seg>Kopiere Dateien in den Quellordner...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235236Z">
+        <seg>Dateien in den Quellordner kopieren...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9416,16 +9410,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
-      <note>Vorschlag: Eintrag im &amp;Glossar anlegen</note>
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T085323Z">
-        <seg>Erzeuge Eintrag ins &amp;Glossar</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000027Z">
+        <seg>Eintrag im &amp;Glossar anlegen</seg>
       </tuv>
     </tu>
     <tu>
-      <note>der Einheitlichkeit halber: Zieldokumente statt Ziel-Dokumente</note>
       <tuv lang="EN">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
@@ -10610,12 +10602,11 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
-      <note>aus einem bestimmten Grund nicht übersetzt? Ansonsten Vorschlag: &amp;Team-Projekt herunterladen</note>
       <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T084515Z">
-        <seg>Download &amp;Team Projekt...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235455Z">
+        <seg>&amp;Team-Projekt herunterladen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10635,21 +10626,19 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
-      <note>Vorschlag: Media&amp;Wiki-Seite herunterladen...</note>
       <tuv lang="EN">
         <seg>Download Media&amp;Wiki Page...</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T084632Z">
-        <seg>Lade Media&amp;Wiki Seite herunter...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235518Z">
+        <seg>Media&amp;Wiki-Seite herunterladen....</seg>
       </tuv>
     </tu>
     <tu>
-      <note>s. oben</note>
       <tuv lang="EN">
         <seg>Download MediaWiki Page</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T084645Z">
-        <seg>Lade MediaWiki Seite herunter</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235653Z">
+        <seg>Media&amp;Wiki-Seite herunterladen</seg>
       </tuv>
     </tu>
     <tu>
@@ -10805,12 +10794,11 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
-      <note>Auswahl e&amp;xportieren</note>
       <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130429T061549Z">
-        <seg>E&amp;xportiere die Auswahl</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235936Z">
+        <seg>Auswahl e&amp;xportieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -11078,12 +11066,11 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
-      <note>&amp;TransTipps aktivieren</note>
       <tuv lang="EN">
         <seg>Enable &amp;TransTips</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T090012Z">
-        <seg>Aktiviere &amp;TransTipps</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000455Z">
+        <seg>&amp;TransTipps aktivieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -11719,12 +11706,11 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
-      <note>Externe TM&amp;X-Dateien</note>
       <tuv lang="EN">
         <seg>External TM&amp;Xs...</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T085902Z">
-        <seg>Externe TM&amp;Xs...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000324Z">
+        <seg>Externe TM&amp;X-Dateien...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13652,12 +13638,11 @@ Vorschlag: Datei: übersetzt / Anzahl der Segmente (Projekt: einmalig übersetzt
       </tuv>
     </tu>
     <tu>
-      <note>Vorschlag: Quellsegment &amp;einfügen</note>
       <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Quelle &amp;einfügen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235905Z">
+        <seg>Quellsegment &amp;einfügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -15618,21 +15603,19 @@ Ich würde eher schreiben: Damit die Änderungen wirksam werden, muss das Projek
       </tuv>
     </tu>
     <tu>
-      <note>Vorschlag: Fehlende Quell&amp;tags hinzufügen</note>
       <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T085156Z">
-        <seg>Füge fehlende Quell&amp;tags hinzu</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235949Z">
+        <seg>Fehlende Quell&amp;tags hinzufügen</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Vorschlag: Nächsten fehlenden Tag hinzufügen</note>
       <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T085231Z">
-        <seg>Füge nächsten fehlenden Tag hinzu</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000007Z">
+        <seg>Nächsten fehlenden Tag hinzufügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -15780,7 +15763,6 @@ Ich würde eher schreiben: Damit die Änderungen wirksam werden, muss das Projek
       </tuv>
     </tu>
     <tu>
-      <note>Vorschlag: Installation und Ausführung von OmegaT" im Benutzerhandbuch.</note>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
@@ -19393,7 +19375,6 @@ your home folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <note> </note>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
@@ -21335,12 +21316,11 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Durch &amp;Quellsegment ersetzen</note>
       <tuv lang="EN">
         <seg>Re&amp;place with Source</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Durch &amp;Quelle ersetzen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235915Z">
+        <seg>Durch &amp;Quellsegment ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -21840,12 +21820,11 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Vorschlag: Mit &amp;maschineller Übersetzung ersetzen</note>
       <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T085031Z">
-        <seg>Ersetze mit &amp;maschineller Übersetzung</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235834Z">
+        <seg>Mit &amp;maschineller Übersetzung ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -22241,7 +22220,7 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Spei&amp;chern und Export...</note>
+      <note>geht es bei dem Output nicht vielleicht um den "Export"?</note>
       <tuv lang="EN">
         <seg>Sa&amp;ving and Output...</seg>
       </tuv>
@@ -22954,21 +22933,19 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>&amp;Nächsten Treffer auswählen</note>
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T085411Z">
-        <seg>&amp;Nächsten Treffer wählen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000112Z">
+        <seg>&amp;Nächsten Treffer auswählen</seg>
       </tuv>
     </tu>
     <tu>
-      <note>&amp;Vorherigen Treffen auswählen</note>
       <tuv lang="EN">
         <seg>Select &amp;Previous Match</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T085441Z">
-        <seg>&amp;Vorherigen Treffer wählen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000122Z">
+        <seg>&amp;Vorherigen Treffer auswählen</seg>
       </tuv>
     </tu>
     <tu>
@@ -23028,56 +23005,51 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Tref&amp;fer auswählen</note>
       <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T085340Z">
-        <seg>Wähle Tref&amp;fer</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000046Z">
+        <seg>Tref&amp;fer auswählen</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Treffer #&amp;1 auswählen</note>
       <tuv lang="EN">
         <seg>Select Match #&amp;1</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Treffer wählen #&amp;1</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000138Z">
+        <seg>Treffer #&amp;1 auswählen</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Treffer #&amp;2 auswählen</note>
       <tuv lang="EN">
         <seg>Select Match #&amp;2</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Treffer wählen #&amp;2</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000149Z">
+        <seg>Treffer #&amp;2 auswählen</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Treffer #&amp;3 auswählen</note>
       <tuv lang="EN">
         <seg>Select Match #&amp;3</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Treffer wählen #&amp;3</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000205Z">
+        <seg>Treffer #&amp;3 auswählen</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Treffer #&amp;4 auswählen</note>
       <tuv lang="EN">
         <seg>Select Match #&amp;4</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Treffer wählen #&amp;4</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000223Z">
+        <seg>Treffer #&amp;4 auswählen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;5</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Treffer wählen #&amp;5</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000237Z">
+        <seg>Treffer #&amp;5 auswählen</seg>
       </tuv>
     </tu>
     <tu>
@@ -29899,12 +29871,11 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>&amp;Tab zum Fortbewegen verwenden</note>
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>&amp;Tab zum Fortbewegen benutzen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130612T000259Z">
+        <seg>&amp;Tab zum Fortbewegen verwenden</seg>
       </tuv>
     </tu>
     <tu>
@@ -31807,12 +31778,11 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"neu laden" nicht mit Großbuchstaben am Anfang? Nicht sicher, wie der Button aussieht. Vorschlag: Neu laden</note>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130604T204652Z">
-        <seg>Sie können die Dateien auch mit Ihrem bevorzugten Dateimanager in den Ordner 'source' Ihres Projekts kopieren und dann das Projekt mit Projekt-&gt; neu laden im Projektmenü erneut laden.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130611T235404Z">
+        <seg>Sie können die Dateien auch mit Ihrem bevorzugten Dateimanager in den Ordner 'source' Ihres Projekts kopieren und dann das Projekt mit Projekt-&gt; Erneut laden im Projektmenü erneut laden.</seg>
       </tuv>
     </tu>
     <tu>
