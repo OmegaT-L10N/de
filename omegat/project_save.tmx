@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -212,6 +212,110 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T195619Z">
         <seg>$&gt; java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101148Z">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${creationDate}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101334Z">
+        <seg>${creationDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${creationID}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101325Z">
+        <seg>${creationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${diff}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T100706Z">
+        <seg>${diff}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101215Z">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${filePath}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101228Z">
+        <seg>${filePath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101240Z">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101348Z">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${id}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T100622Z">
+        <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${noStemScore}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101132Z">
+        <seg>${noStemScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${score}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101119Z">
+        <seg>${score}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${sourceText}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T100639Z">
+        <seg>${sourceText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${targetText}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T100652Z">
+        <seg>${targetText}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1242,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche Dateien 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T145033Z">
+        <seg>(Die Definition von “einzigartig” ist anhängig von Groß- und Kleinschreibung: "Run" und "run" werden als Unterschiede behandelt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T122636Z">
@@ -1874,6 +1986,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche Dateien 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>103/114</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195438Z">
+        <seg>103/114</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>11 of the WIPO copyright treaty adopted on 20 December 1996, or</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154341Z">
@@ -1981,10 +2101,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>27/27</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195220Z">
+        <seg>27/27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>31175</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195347Z">
+        <seg>31175</seg>
       </tuv>
     </tu>
     <tu>
@@ -2069,6 +2205,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>9319/16338</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195305Z">
+        <seg>9319/16338</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>95%-100%:</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T133346Z">
@@ -2145,6 +2289,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T082011Z">
         <seg>&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/g0&gt;The window features a 3 column table with a link to the segment and its source and target contents:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151700Z">
+        <seg>&lt;/g0&gt;Das Fenster zeigt eine 3-spaltige Tabelle mit einem Link zum Segment und seinen Quell- und Zielinhalten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2409,6 +2561,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T060334Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; steht gebündelt mit Oracle Java JRE für Linux (Intel x86) und Windows Plattformen zur Verfügung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; main window</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192153Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Hauptfenster</seg>
       </tuv>
     </tu>
     <tu>
@@ -2785,6 +2945,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T201144Z">
         <seg>&lt;e0&gt;&lt;g1&gt;Segmentierung...&lt;/g1&gt; &lt;/e0&gt;Schaltfläche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;i1/&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g2&gt;Import Source Files..."&lt;/g2&gt; button.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T145921Z">
+        <seg>&lt;e0&gt;&lt;i1/&gt;Dateien zum Projekt hinzufügen: &lt;/e0&gt;Sie können Dateien zum Projekt hinzufügen, indem Sie auf die Schaltfläche "&lt;g2&gt;Quelldateien importieren..."&lt;/g2&gt; klicken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3647,8 +3815,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T132725Z">
-        <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt;: Schaut nach fehlenden oder falsch eingetragenen Tags in formatierten Dateien.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;g0&gt;Strg+T&lt;/g0&gt;: Schaut nach fehlenden oder falsch eingetragenen Tags in formatierten Dateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3695,32 +3863,32 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Tab&lt;/k4&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T125709Z">
-        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; oder &lt;k3&gt;Eingabe&lt;/k3&gt; oder &lt;k4&gt;Tabulator&lt;/k4&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; oder &lt;k3&gt;Eingabe&lt;/k3&gt; oder &lt;k4&gt;Tabulator&lt;/k4&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt;Enter&lt;/k3&gt; or &lt;k4&gt;Return&lt;/k4&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T164506Z">
-        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt;Eingabe&lt;/k3&gt; oder &lt;k4&gt;Zurück&lt;/k4&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt;Eingabe&lt;/k3&gt; oder &lt;k4&gt;Zurück&lt;/k4&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;Enter&lt;/k5&gt; &lt;/k3&gt; or &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;Tab&lt;/k8&gt; &lt;/k6&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T125802Z">
-        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt; &lt;/k0&gt; oder &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;Eingabe&lt;/k5&gt; &lt;/k3&gt; oder &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;Tabulator&lt;/k8&gt; &lt;/k6&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt; &lt;/k0&gt; oder &lt;k3&gt; &lt;k4&gt;Strg&lt;/k4&gt; &lt;k5&gt;Eingabe&lt;/k5&gt; &lt;/k3&gt; oder &lt;k6&gt; &lt;k7&gt;Strg&lt;/k7&gt; &lt;k8&gt;Tabulator&lt;/k8&gt; &lt;/k6&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; (see text)</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T123842Z">
-        <seg>&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; (siehe Text)</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; (siehe Text)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3743,224 +3911,224 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;#N&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T125056Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;#N&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;#N&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;C&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T121118Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;C&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;C&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;D&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T120524Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;D&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;D&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;E&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T120620Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;E&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;E&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;F&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T123818Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;F&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;F&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;I&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T122434Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;I&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;I&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;J&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T125851Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;J&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;J&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;L&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T120705Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;L&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;L&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;M&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T122535Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;M&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;M&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T120150Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;P&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T164515Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;P&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;P&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Q&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T120739Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Q&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Q&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;R&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T122356Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;R&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;R&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;S&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T120408Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;S&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;S&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+I&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T163945Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+I&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt+I&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+N&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T164550Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+P&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T164542Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+R&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T163918Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+R&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt+R&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+T&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T164036Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+T&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt+T&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T130033Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T130216Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T120349Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;T&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T164710Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;T&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;T&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;U&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T125626Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;U&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;U&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;V&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T121155Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;V&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;V&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;X&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T121129Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;X&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;X&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Y&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T122253Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Y&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Y&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Z&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T121237Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Z&lt;/k1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Z&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3975,64 +4143,64 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl+C&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T164738Z">
-        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160444Z">
+        <seg>&lt;k0&gt;Umschalt&lt;/k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T123235Z">
-        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Umschalt&lt;/k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T123708Z">
-        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Umschalt&lt;/k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;G&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T122805Z">
-        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Umschalt&lt;/k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T122730Z">
-        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Umschalt&lt;/k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T122830Z">
-        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Umschalt&lt;/k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T143458Z">
-        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;k0&gt;Umschalt&lt;/k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k2&gt;Ctrl&lt;/k2&gt; or &lt;k3&gt;Control&lt;/k3&gt; key.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T115655Z">
-        <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; wird in Windows, UNIX und wie UNIX operierenden Systemen eingesetzt, wo die Tastatur eine &lt;k2&gt;Ctrl&lt;/k2&gt; oder &lt;k3&gt;Steuerung&lt;/k3&gt; Taste hat.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;k1&gt;Strg&lt;/k1&gt; wird in Windows, UNIX und wie UNIX operierenden Systemen eingesetzt, wo die Tastatur eine &lt;k2&gt;Strg&lt;/k2&gt; oder &lt;k3&gt;Steuerung&lt;/k3&gt; Taste hat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4377,6 +4545,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE">
         <seg>&lt;one line to give the program's name and a brief idea of what it does.&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Comments&lt;/p0&gt; &lt;s1&gt;Comments pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T141809Z">
+        <seg>&lt;p0&gt;Kommentare&lt;/p0&gt; &lt;s1&gt;Kommentare Fenster&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4749,10 +4925,58 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Match Statistics&lt;/p0&gt; &lt;s1&gt;Menu Tools&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T155200Z">
+        <seg>&lt;p0&gt;Trefferstatistiken&lt;/p0&gt; &lt;s1&gt;Menü Extras&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches pane - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T072847Z">
+        <seg>&lt;p0&gt;Treffer&lt;/p0&gt; &lt;s1&gt;Treffer Fenster - Bild&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches pane setup - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T083233Z">
+        <seg>&lt;p0&gt;Treffer&lt;/p0&gt; &lt;s1&gt;Setup des Treffer-Fensters - Bild&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches statistics&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T132551Z">
         <seg>&lt;p0&gt;Treffer&lt;/p0&gt; &lt;s1&gt;Treffer Statistiken&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Help&lt;/p0&gt; &lt;s1&gt;Help browser&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T162658Z">
+        <seg>&lt;p0&gt;Menü Hilfe&lt;/p0&gt; &lt;s1&gt;Hilfe-Browser&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Help&lt;/p0&gt; &lt;s1&gt;User Manual...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T162723Z">
+        <seg>&lt;p0&gt;Menü Hilfe&lt;/p0&gt; &lt;s1&gt;Benutzerhandbuch...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing Behavior&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T191640Z">
+        <seg>&lt;p0&gt;Menü Optionen&lt;/p0&gt; &lt;s1&gt;Editierverhalten&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4805,10 +5029,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;File filters&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T175737Z">
+        <seg>&lt;p0&gt;Menü Optionen&lt;/p0&gt; &lt;s1&gt;Dateifilter&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Font...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T201653Z">
         <seg>&lt;p0&gt;Menü Optionen&lt;/p0&gt; &lt;s1&gt;Schriftart...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T180002Z">
+        <seg>&lt;p0&gt;Menü Optionen&lt;/p0&gt; &lt;s1&gt;Segmentierung&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4829,10 +5069,18 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T175235Z">
+        <seg>&lt;p0&gt;Menü Projekt&lt;/p0&gt; &lt;s1&gt;Eigenschaften&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;Match statistics&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130610T174839Z">
-        <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;Match statistics&lt;/s1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130608T083633Z">
+        <seg>&lt;p0&gt;Menü Extras&lt;/p0&gt; &lt;s1&gt;Treffer Statistiken&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4997,6 +5245,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT windows&lt;/p0&gt; &lt;s1&gt;Restoring to factory setup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T193014Z">
+        <seg>&lt;p0&gt;OmegaT Fenster&lt;/p0&gt; &lt;s1&gt;Ausgangszustand wiederherstellen&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT windows&lt;/p0&gt; &lt;s1&gt;Windows and panes in OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192940Z">
+        <seg>&lt;p0&gt;OmegaT Fenster&lt;/p0&gt; &lt;s1&gt;Fenster und Felder in OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T161345Z">
@@ -5025,6 +5289,38 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T124341Z">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project Settings&lt;/p0&gt; &lt;s1&gt;Editing Behavior&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T191704Z">
+        <seg>&lt;p0&gt;Projekteinstellungen&lt;/p0&gt; &lt;s1&gt;Editierverhalten&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project Settings&lt;/p0&gt; &lt;s1&gt;File filters&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T175723Z">
+        <seg>&lt;p0&gt;Projekteinstellungen&lt;/p0&gt; &lt;s1&gt;Dateifilter&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project Settings&lt;/p0&gt; &lt;s1&gt;Font&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T175503Z">
+        <seg>&lt;p0&gt;Projekteinstellungen&lt;/p0&gt; &lt;s1&gt;Schriftart&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project Settings&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T175950Z">
+        <seg>&lt;p0&gt;Projekteinstellungen&lt;/p0&gt; &lt;s1&gt;Segmentierung&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5543,8 +5839,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Case selection - Shift+F3&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T123937Z">
-        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Groß-/Kleinschreibung - Shift+F3&lt;/s1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Groß-/Kleinschreibung - Umschalt+F3&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Copy text - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T152453Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Text kopieren - Strg+C&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5565,10 +5869,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Insert text - Ctrl+I&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T073409Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Text einfügen - Strg+I&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Machine Translate - Ctrl+M&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130525T192831Z">
-        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Maschinelle Übersetzung - Ctrl+M&lt;/s1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Maschinelle Übersetzung - Strg+M&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Paste text - Ctrl+V&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T154606Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Text einfügen - Strg+V&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project files list - Ctrl+L&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142745Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Liste der Projektdateien - Strg+L&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5581,10 +5909,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Replace text - Ctrl+R&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T073353Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Text ersetzen - Strg+R&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search - Ctrl+F&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130528T151403Z">
-        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Suche - Ctrl+F&lt;/s1&gt;</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160350Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Suche - Strg+F&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Select All - Ctrl+A&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T152439Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Alle auswählen - Strg+A&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Selecting the match - Ctrl+N&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T073323Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Treffer auswählen - Strg+N&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5593,6 +5945,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T200236Z">
         <seg>&lt;p0&gt;Verknüpfungen&lt;/p0&gt; &lt;s1&gt;Tag Prüfung - Strg+T&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;copy text - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T162049Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Text kopieren - Strg+C&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Adding files to the project&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T145805Z">
+        <seg>&lt;p0&gt;Quelldateien&lt;/p0&gt; &lt;s1&gt;Dateien zum Projekt hinzufügen&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5677,6 +6045,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Translating updated source&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T083026Z">
+        <seg>&lt;p0&gt;Quelldateien&lt;/p0&gt; &lt;s1&gt;Übersetzung einer aktualisierten Quelle&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Hints&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T163030Z">
@@ -5693,6 +6069,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Statistics&lt;/p0&gt; &lt;s1&gt;Menu Tools&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T152411Z">
+        <seg>&lt;p0&gt;Statistiken&lt;/p0&gt; &lt;s1&gt;Menü Extras&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T125945Z">
@@ -5705,6 +6089,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T074807Z">
         <seg>&lt;p0&gt;TMX&lt;/p0&gt; &lt;s1&gt;Translation memories&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tag validation&lt;/p0&gt; &lt;s1&gt;Shortcuts, Tags&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151355Z">
+        <seg>&lt;p0&gt;Tag-Prüfung&lt;/p0&gt; &lt;s1&gt;Tastenkombinationen, Tags&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tag validation&lt;/p0&gt; &lt;s1&gt;Window - figure&lt;/s1&gt; &lt;s2&gt;Tags&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151730Z">
+        <seg>&lt;p0&gt;Tag-Prüfung&lt;/p0&gt; &lt;s1&gt;Fenster - Bild&lt;/s1&gt; &lt;s2&gt;Tags&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5925,6 +6325,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Matches&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T081546Z">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Treffer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Orphan segments&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T194526Z">
@@ -6045,6 +6453,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;User Interface&lt;/p0&gt; &lt;s1&gt;Match pane setup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T100613Z">
+        <seg>&lt;p0&gt;Benutzeroberfläche&lt;/p0&gt; &lt;s1&gt;Setup des Treffer-Fensters&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;User interface&lt;/p0&gt; &lt;s1&gt;Other windows&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130607T064631Z">
@@ -6053,10 +6469,130 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;User interface&lt;/p0&gt; &lt;s1&gt;Settings dialogs&lt;/s1&gt; &lt;s2&gt;Project Settings&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T175153Z">
+        <seg>&lt;p0&gt;Benutzeroberfläche&lt;/p0&gt; &lt;s1&gt;Dialoge der Einstellungen&lt;/s1&gt; &lt;s2&gt;Projekteinstellungen&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Counters&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195204Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Zähler&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Dictionary pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T134752Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Wörterbuch Fenster&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Editor pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T070244Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Das Editier-Fenster&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Fuzzy matches pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T072653Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Fenster der unscharfen Treffer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Fuzzy matches pane&lt;/s1&gt; &lt;t2&gt;Customizing&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082952Z">
+        <seg>&lt;p0Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Fenster der unscharfen Treffer&lt;/s1&gt; &lt;t2&gt;Anpassen&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T202941Z">
         <seg>&lt;p0&gt;Fenster und Ausschnitte in OmegaT&lt;/p0&gt; &lt;s1&gt;Der Ausschnitt Glossar&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Machine Translation pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T141838Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Fenster maschinelle Übersetzung&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Main window&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192142Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Hauptfenster&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Matches pane - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T072913Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Treffer Fenster - Bild&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Matches pane setup - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T083307Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Setup des Treffer-Fensters - Bild&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Multiple Translations pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T135148Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Fenster Vielfältige Übersetzungen&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Pane widgets&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192702Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Felder Widgets&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Project files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142711Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Projektdateien&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Search pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T150148Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Das Suchfenster&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Tag validation&lt;/s1&gt; &lt;s2&gt;Tags&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151415Z">
+        <seg>&lt;p0&gt;Fenster und Felder in OmegaT&lt;/p0&gt; &lt;s1&gt;Tag-Prüfung&lt;/s1&gt; &lt;s2&gt;Tags&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6079,8 +6615,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt;On an Apple Mac, use the &lt;k1&gt;Cmd&lt;/k1&gt; or &lt;k2&gt;Apple&lt;/k2&gt; key instead of the &lt;k3&gt;Ctrl&lt;/k3&gt; key</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130429T053237Z">
-        <seg>&lt;r0&gt;Hinweis:&lt;/r0&gt;Auf einem Apple Mac, benutzen Sie die&lt;k1&gt;Cmd&lt;/k1&gt; oder &lt;k2&gt;Apple&lt;/k2&gt; Taste anstelle der &lt;k3&gt;Ctrl (Strg)&lt;/k3&gt; Taste</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>&lt;r0&gt;Hinweis:&lt;/r0&gt;Auf einem Apple Mac, benutzen Sie die&lt;k1&gt;Cmd&lt;/k1&gt; oder &lt;k2&gt;Apple&lt;/k2&gt; Taste anstelle der &lt;k3&gt;Strg (Strg)&lt;/k3&gt; Taste</seg>
       </tuv>
     </tu>
     <tu>
@@ -6321,6 +6857,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T200143Z">
         <seg>Ein fixer Abzug von 5 wird hinzugefügt, wenn das entfernte Teil mit keinem anderen Segment übereinstimmt, so dass der Treffer nicht als 100%erscheint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A given source segment may require several different translations, depending on the context.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T135330Z">
+        <seg>Ein vorhandenes Quellsegment kann - abhängig vom Kontext - mehrere unterschiedliche Übersetzungen bedingen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6959,8 +7503,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U &lt;/k0&gt;to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;to move to the next translated segment).</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130429T065036Z">
-        <seg>Wenn Sie jedes Segment übersetzt haben, drücken Sie &lt;k0&gt;Ctrl+U &lt;/k0&gt;um zum nächsten nicht übersetzten Segment zu gehen (oder &lt;k1&gt;Ctrl+Shift+U &lt;/k1&gt;um zum nächsten übersetzten Segment zu gehen).</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>Wenn Sie jedes Segment übersetzt haben, drücken Sie &lt;k0&gt;Strg+U &lt;/k0&gt;um zum nächsten nicht übersetzten Segment zu gehen (oder &lt;k1&gt;Strg+Umschalt+U &lt;/k1&gt;um zum nächsten übersetzten Segment zu gehen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7223,8 +7767,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Alternatively, in the Editor window, select a word or phrase in the editing field (target text of the current segment) and hit &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130528T151654Z">
-        <seg>Alternativ dazu können Sie ein Wort oder einen Ausdruck im Bearbeitungsfeld (Zieltextfeld des aktiven Segments) auswählen und &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;drücken. </seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>Alternativ dazu können Sie ein Wort oder einen Ausdruck im Bearbeitungsfeld (Zieltextfeld des aktiven Segments) auswählen und &lt;k4&gt; &lt;k5&gt;Strg&lt;/k5&gt; &lt;k6&gt;F&lt;/k6&gt; &lt;/k4&gt;drücken. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7689,6 +8233,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As far as categories are concerned, the de facto industry standard of classifying matches into the following groups is used: Repetitions, Exact match, 95%-100%, 85%-94%, 75%-84%, 50%-74% and No match.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T155533Z">
+        <seg>Soweit Kategorien betroffen sind, wird der de facto Industrie-Standard zur Klassifizierung von Treffern in die folgenden Gruppen angewendet: Wiederholungen, Exakte Treffer, 95%-100%, 85%-94%, 75%-84%, 50%-74% und kein Treffer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T151442Z">
@@ -7853,6 +8405,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T151130Z">
         <seg>Authentifizierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Author of the match</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101333Z">
+        <seg>Autor des Treffers</seg>
       </tuv>
     </tu>
     <tu>
@@ -8835,8 +9395,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130530T155347Z">
-        <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T155553Z">
+        <seg>Ein Klick auf &lt;g0&gt;Neues Wörterbuch installieren&lt;/g0&gt; wird das Fenster für den Installer von Wörterbüchern öffnen, wo Sie die Wörterbücher auswählen können, die Sie installieren wollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9311,6 +9871,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T201021Z">
         <seg>Korrigieren Sie den Fehler notfalls (im obigen Fall ist es das fehlende &lt;i2&gt;&lt;/i2&gt; Paar) und drücken &lt;g0&gt;Strg+T&lt;/g0&gt; um zum Fenster zur Tag Prüfung zurückzukehren und andere Fehler zu korrigieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Correct the error if necessary and press &lt;g0&gt;Ctrl+T&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151831Z">
+        <seg>Korrigieren Sie den Fehler notfalls und drücken Sie &lt;g0&gt;Strg+T&lt;/g0&gt; um zum Fenster zur Tag Prüfung zurückzukehren und andere Fehler zu korrigieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9845,8 +10413,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>STRG+Shift+N</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>STRG+Umschalt+N</seg>
       </tuv>
     </tu>
     <tu>
@@ -9861,8 +10429,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Ctrl+Shift+P</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>STRG+Shift+P</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>STRG+Umschalt+P</seg>
       </tuv>
     </tu>
     <tu>
@@ -9919,6 +10487,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T194529Z">
         <seg>Angepasste Tag(s) regulärer Ausdruck</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing the Fuzzy matches pane</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T083048Z">
+        <seg>Fenster der unscharfen Treffer anpassen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9995,6 +10571,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Date of the match</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101343Z">
+        <seg>Datum des Treffers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="DE">
@@ -10067,6 +10651,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T071314Z">
+        <seg>Abhängig von Ihrem bevorzugten Editier-Verhalten kann das Editierfeld des nicht übersetzten Segments leer sein, den Quellext oder die Übersetzung beinhalten, deren Zeichenfolge dem gerade zu übersetzenden Teil am ähnlichsten ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T181415Z">
@@ -10095,6 +10687,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T140832Z">
         <seg>Installierte Wörterbücher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionaries are the electronic equivalents of printed dictionaries like Merriam Webster, Duden, Larousse etc., that you may have on your desk.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T134916Z">
+        <seg>Wörterbücher sind die elektronischen Entsprechungen von gedruckten Wörterbüchern wie Merriam Webster, Duden, Larousse usw., die Sie auf Ihrem Tisch haben könnten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10159,6 +10759,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130605T133209Z">
         <seg>Das eingegebene Verzeichnis mit Wörterbuchdateien existiert nicht!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary pane</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T134804Z">
+        <seg>Wörterbuch Fenster</seg>
       </tuv>
     </tu>
     <tu>
@@ -10975,6 +11583,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE">
         <seg>Bearbeiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing Behavior</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T191708Z">
+        <seg>Editierverhalten</seg>
       </tuv>
     </tu>
     <tu>
@@ -11947,6 +12563,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T144307Z">
+        <seg>Einträge der Dateien schließen ihre Namen, Typen von Dateifiltern, ihre Kodierung und die Anzahl der Segmente, die jede Datei enthält, ein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File filters</seg>
       </tuv>
       <tuv lang="DE">
@@ -12790,6 +13414,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T070057Z">
+        <seg>Praktisch betrachtet ist das wichtigste Paar an Zahlen das zweite: es besagt, wie viel Sie bisher getan haben, im Vergleich zur Gesamtzahl oder der zweiten Zahl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fula, Fulah, Pulaar, Pular</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T075657Z">
@@ -12806,10 +13438,34 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full path of the TMX</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101239Z">
+        <seg>Voller Pfade der TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Unscharfe Treffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuzzy matches can come from the &lt;f0&gt;/tm&lt;/f0&gt; folder as well - and not just from the internal translation memory in &lt;f1&gt;/omegaT,&lt;/f1&gt; as is the case for repetitions and exact matches.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T161741Z">
+        <seg>Unscharfe Treffer können auch aus dem &lt;f0&gt;/tm&lt;/f0&gt; Ordner kommen - und nicht nur von der internen TM in &lt;f1&gt;/omegaT,&lt;/f1&gt; wie es bei Wiederholungen und exakten Treffern der Fall ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuzzy matches pane</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T072703Z">
+        <seg>Fenster der unscharfen Treffer</seg>
       </tuv>
     </tu>
     <tu>
@@ -14112,6 +14768,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If one does not wish to use external TMs for counting, one will either have to empty the /tm folder or change the project setup (temporarily) so that the value for /tm points to a different location.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T162040Z">
+        <seg>Wenn man externe TMs beim Zählen nutzen möchte, muss man entweder den /tm Ordner leeren oder das Setup des Projekts (zeitweise) ändern, so dass der Wert für /tm auf einen anderen Ort verweist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T085009Z">
@@ -14220,6 +14884,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T125728Z">
         <seg>Ist das aktive Segment das letzte Segment in der Datei, geht es zum ersten Segment der nächsten Datei. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T135459Z">
+        <seg>Wenn die momentane Übersetzung des Segments nicht passt, kann der Nutzer &lt;g0&gt;Bearbeiten → Alternative Übersetzung erstellen&lt;/g0&gt; auswählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14368,6 +15040,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the translation for several identical source segments already exists in the translation memory of the project, these segments, together with other, already translated unique segments, will be classified as an "Exact match".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T161426Z">
+        <seg>Wenn die Übersetzung mehrerer identischer Quellsegmente in der TM des Projekts schon vorhanden ist, werden diese Segmente zusammen mit anderen zuvor übersetzten einzigartigen Segmenten als "Exakter Treffer" klassifiziert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T101221Z">
@@ -14396,6 +15076,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130606T050508Z">
         <seg>Wenn es andere Dateien mit dem Namen test.html in anderen Ordnern gibt, werden sie ignoriert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082358Z">
+        <seg>Wenn kein Name angezeigt wird, dann ist die Quelle die TM des internen Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14522,8 +15210,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130429T064301Z">
-        <seg>Wenn Sie an anderen Einstellungen dieses Dialogs interessiert sind, dann können Sie jederzeit zurückkehren, in dem Sie &lt;k0&gt;Ctrl+E&lt;/k0&gt; klicken.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>Wenn Sie an anderen Einstellungen dieses Dialogs interessiert sind, dann können Sie jederzeit zurückkehren, in dem Sie &lt;k0&gt;Strg+E&lt;/k0&gt; klicken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14580,6 +15268,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T193114Z">
         <seg>Wenn Sie glauben, dass Sie Daten der Übersetzung verloren haben, gehen Sie wie folgt vor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192600Z">
+        <seg>Wenn Sie nicht alle Felder sehen können (geöffnet oder minimiert), wird durch &lt;g0&gt; Optionen &gt; Hauptfenster wiederherstellen &lt;/g0&gt;sie in die Lage bringen, die in der Installation definiert wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14690,8 +15386,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you find the suggestion acceptable, press &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; to replace the target part of the opened segment with the suggestion.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130525T193054Z">
-        <seg>Wenn Sie den Vorschlag akzeptabel finden, drücken Sie &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; um den Zielteil des geöffneten Segments mit dem Vorschlag zu ersetzen.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>Wenn Sie den Vorschlag akzeptabel finden, drücken Sie &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Strg&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; um den Zielteil des geöffneten Segments mit dem Vorschlag zu ersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T134419Z">
+        <seg>Mit aktivierten TransTipps  (&lt;g0&gt;Optionen → TransTipps&lt;/g0&gt;) öffnet sich bei einem Rechtsklick in der Quelle auf ein hervorgehobenes Wort ein Popup Menü mit Übersetzungen, die von Ihrem Glossar vorgeschlagen werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14816,6 +15520,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;) and the &lt;e10&gt;GoTo segment&lt;/e10&gt; functions.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T072613Z">
+        <seg>Wenn Sie mit rechts auf das Editierfeld klicken, springt ein Menü auf, das Ihnen &lt;e0&gt; Ausschneiden, Kopieren, Einfügen&lt;/e0&gt; anbietet (d.h. die gleichen Funktionen wie &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Strg&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; und &lt;k7&gt; &lt;k8&gt;Strg&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;) und die &lt;e10&gt;Gehe zum Segment&lt;/e10&gt; Funktionen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T090627Z">
@@ -14836,6 +15548,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T153219Z">
         <seg>Wenn Sie die &lt;e2&gt;&lt;i3/&gt;fortgeschrittenen Optionen&lt;/e2&gt; aktivieren, können Sie die Suche mit dem Namen des Autors der Übersetzung und der Zeit der letzten Änderung verbinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T072136Z">
+        <seg>Wenn Sie wollen, dass die Übersetzung der Quelle entspricht, dann leeren Sie einfach das Editierfeld durch das Entfernen des gesamten Textes (wählen Sie alles mit &lt;k0&gt;Strg+A&lt;/k0&gt; und löschen Sie mit &lt;k1&gt;Del&lt;/k1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15028,6 +15748,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T120233Z">
         <seg>Einheiten von MediaWiki Seiten werden basierend auf der angegebenen URL importiert. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T083153Z">
+        <seg>Unter &lt;g0&gt;Optionen &gt; Externe TMXs&lt;/g0&gt; erlauben es eine Reihe von Variablen die Anzeige des Treffer-Fensters anzupassen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15338,6 +16066,22 @@ Ich würde eher schreiben: Damit die Änderungen wirksam werden, muss das Projek
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above case, the segments already translated are shown in yellow.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T070659Z">
+        <seg>Im obigen Beispiel werden die schon übersetzten Segmente in gelb angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082105Z">
+        <seg>Im obigen Beispiel ist das Quellsegment &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T154413Z">
@@ -15348,8 +16092,24 @@ Ich würde eher schreiben: Damit die Änderungen wirksam werden, muss das Projek
       <tuv lang="EN">
         <seg>In the above segment, for instance, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; would replace the Spanish version with the Slovenian suggestion.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130525T193148Z">
-        <seg>In dem obigen Segment zum Beispiel würde &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; die spanische Version mit dem slowenischen Vorschlag ersetzen.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>In dem obigen Segment zum Beispiel würde &lt;k4&gt; &lt;k5&gt;Strg&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; die spanische Version mit dem slowenischen Vorschlag ersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T141750Z">
+        <seg>Im unten angeführten Beispiel, schloss der Autor der PO Datei eine Warnung an den/die Übersetzer/in ein, die Länge der Übersetzung zu prüfen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the first and third case above tags are paired incorrectly, and in the second case the &lt; sign is missing from the starting tag.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151951Z">
+        <seg>Im ersten und dritten Fall oben sind die Tags nicht korrekt gepaart und im zweiten Fall fehlt das &lt; Zeichen beim beginnenden Tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15398,6 +16158,14 @@ Ich würde eher schreiben: Damit die Änderungen wirksam werden, muss das Projek
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T200802Z">
         <seg>Im stillen Modus werden im Log-Fenster weniger Infos erscheinen. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the window, the manual and two buttons are displayed: Back and Contents.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T162929Z">
+        <seg>In dem Fenster werden das Handbuch und zwei Schaltknöpfe gezeigt: Zurück und Inhalte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15519,6 +16287,14 @@ Ich würde eher schreiben: Damit die Änderungen wirksam werden, muss das Projek
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154343Z">
         <seg>Inclusion of a covered work</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101451Z">
+        <seg>Zum Andeuten, dass dieser Treffer unscharf ist (momentan nur zum Übersetzen von PO Dateien mit der #fuzzy mark Kennzeichnung)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16053,8 +16829,8 @@ Ich würde eher schreiben: Damit die Änderungen wirksam werden, muss das Projek
       <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the "Text Search" dialog at any time.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130430T164009Z">
-        <seg>Es ist oft sinnvoll nach Wörtern oder Ausdrücken im Quelltext und in Ihrer Übersetzung zu suchen. Drücken Sie daher jederzeit &lt;k0&gt;Ctrl+F&lt;/k0&gt; für den Dialog der Textsuche.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>Es ist oft sinnvoll nach Wörtern oder Ausdrücken im Quelltext und in Ihrer Übersetzung zu suchen. Drücken Sie daher jederzeit &lt;k0&gt;Strg+F&lt;/k0&gt; für den Dialog der Textsuche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16131,6 +16907,14 @@ Ich würde eher schreiben: Damit die Änderungen wirksam werden, muss das Projek
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the segment that is displayed in two parts.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T070754Z">
+        <seg>Es ist das Segment, das in zwei Teilen angezeigt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is therefore possible to select existing folders or create folders in locations that reflect your work flow and project management habits.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T090430Z">
@@ -16167,6 +16951,14 @@ Ich würde eher schreiben: Damit die Änderungen wirksam werden, muss das Projek
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T133609Z">
         <seg>Es sollte beachtet werden, dass &lt;a0&gt;OmegaT&lt;/a0&gt; im RTL-Modus ist; sowohl die Quell- als auch die Zieltexte werden im RTL-Modus anzeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It shows translation of terms found in the current segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101717Z">
+        <seg>Es zeigt die Übersetzung von Begriffen an, die im aktuellen Segment zu finden sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17236,6 +18028,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translation pane</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T141844Z">
+        <seg>Fenster Maschinelle Übersetzung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine Translations pane</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130607T064207Z">
@@ -17296,6 +18096,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130523T151855Z">
         <seg>Hauptfenster OmegaT, andere Fenster und Dialoge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Main Window - counters</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195216Z">
+        <seg>Hauptfenster - Zähler</seg>
       </tuv>
     </tu>
     <tu>
@@ -17606,8 +18414,24 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Match pane</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130607T141803Z">
+      <tuv lang="DE" changeid="helmut" changedate="20130607T063930Z">
         <seg>Treffer Fenster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match pane setup</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T100616Z">
+        <seg>Setup des Treffer-Fensters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match statistics</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T155204Z">
+        <seg>Treffer-Statistiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -17624,6 +18448,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T091400Z">
         <seg>Treffer können in der aktuellen Übersetzung oder in den TMX Dateien gefunden werden, die Sie in das Verzeichnis /tm/ gepackt haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches pane</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T072917Z">
+        <seg>Treffer Fenster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches pane setup</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T083325Z">
+        <seg>Setup des Treffer-Fensters</seg>
       </tuv>
     </tu>
     <tu>
@@ -17876,6 +18716,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T145641Z">
+        <seg>Eine Änderung der Segmentierungsregeln kann bewirken, dass sich die Zahl der Segmente/einzigartige Segmente ändert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mongolian</seg>
       </tuv>
       <tuv lang="DE">
@@ -17888,6 +18736,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T081125Z">
         <seg>Mehr kann in dem Artikel &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; von Joel Spolsky gefunden werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More in the chapter &lt;l1&gt;Machine translation&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142058Z">
+        <seg>Mehr dazu um Kapitel &lt;l1&gt;Maschinelle Übersetzung&lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18092,6 +18948,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple Translations pane</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T135210Z">
+        <seg>Fenster Vielfältige Übersetzungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MyMemory</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T142738Z">
@@ -18104,6 +18968,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T082203Z">
         <seg>Māori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of the TMX</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101227Z">
+        <seg>Name der TMX</seg>
       </tuv>
     </tu>
     <tu>
@@ -18500,6 +19372,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T145402Z">
+        <seg>Bedenken Sie jedoch, dass die Zahlen nicht angeben, wie relevant die Wiederholungen sind: sie könnten sich auf relativ lange Sätze beziehen, die einige Male wiederholt werden (gut für Sie) oder sie könnten sich auf eine Tabelle mit Schlüsselwörtern beziehen (nicht so gut für Sie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T153810Z">
@@ -18704,6 +19584,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T154847Z">
         <seg>Teammitglieder müssen erst registriert werden, bevor sie einem Projekt hinzugefügt werden können (Bedenke: in der freien Version von ProjectLocker dürfen Sie nur zwei Mitglieder pro Projekt haben).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that these totals are a good (or as good as they can be) approximation of the work involved in the project and thus can serve as a basis for your cost and price calculations.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T161001Z">
+        <seg>Bedenken Sie, dass diese Summe eine gute (oder so gut wie sie sein können) Schätzung des Arbeitsaufwandes für das Projekt sind und als Basis für Ihre Kalkulation der Kosten und Preise dienen kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18920,6 +19808,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T140202Z">
         <seg>Anzahl der Resultate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of the match from 1 to 5</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T100636Z">
+        <seg>Zahl der Treffer von 1 bis 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -19261,6 +20157,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is able to store translations that are identical to the source.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T072210Z">
+        <seg>OmegaT ist in der Lage Übersetzungen zu speichern, die mit der Quelle identisch sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T080320Z">
@@ -19331,6 +20235,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130606T053555Z">
         <seg>Das Hauptfenster von OmegaT besteht aus Hauptmenü, Statuszeile und verschiedenen Feldern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT match, including numbers, tags</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082909Z">
+        <seg>OmegaT Treffer, einschließlich Nummerierung und Tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -19703,6 +20615,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T162639Z">
+        <seg>Nach der Berechnung sind die Daten auch in &lt;f6&gt;omegat/project_stats_match.txt&lt;/f6&gt; enthalten. Bedenken Sie, dass die Datei einen Zeitstempel hat, da die Kalkulation (anders als die Standard-Statistik) für den Augenblick ist und schnell überholt sein kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once installed, the plugin will be used automatically by OmegaT, if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T090320Z">
@@ -19785,8 +20705,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target file, which will be created in the&lt;f1&gt; /target/&lt;/f1&gt;subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130430T102201Z">
-        <seg>Sobald Sie sichergestellt haben, dass keine Tags Fehler in Ihrer Übersetzung sind, drücken Sie &lt;k0&gt;Ctrl+D&lt;/k0&gt; um die Zieldatei zu erzeugen. Es wird im Unterordner&lt;f1&gt; /target/&lt;/f1&gt;Ihres Projektesordners angelegt werden.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>Sobald Sie sichergestellt haben, dass keine Tags Fehler in Ihrer Übersetzung sind, drücken Sie &lt;k0&gt;Strg+D&lt;/k0&gt; um die Zieldatei zu erzeugen. Es wird im Unterordner&lt;f1&gt; /target/&lt;/f1&gt;Ihres Projektesordners angelegt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19819,6 +20739,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T091404Z">
         <seg>Ein Mitglied des Teams, der Projekt Administrator, muss mit der Handhabung des Servers vertraut sein, d.h. wie ein Job angelegt wird, das Omegat Projekt importiert wird, die Zugangsrechte für die Teammitglieder vergeben wird, Konflikte gelöst werden, usw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One of the above segments is the current segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T070732Z">
+        <seg>Eines der obigen Segmente ist das aktuelle Segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19937,8 +20865,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open the Search window with &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k1&gt; and enter the word or phrase you wish to search for in the Search for box.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130528T151543Z">
-        <seg>Öffnen Sie das Suchfenster mit &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k1&gt; auf und geben Sie das Wort oder den Ausdruck an, nach dem Sie im Suchfenster suchen wollen.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160350Z">
+        <seg>Öffnen Sie das Suchfenster mit &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k1&gt; auf und geben Sie das Wort oder den Ausdruck an, nach dem Sie im Suchfenster suchen wollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19947,6 +20875,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T193245Z">
         <seg>Öffnen Sie das Projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the window with &lt;g0&gt;Ctrl+T.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151600Z">
+        <seg>Öffnen Sie das Fenster mit &lt;g0&gt;Strg+T.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19979,6 +20915,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T070245Z">
         <seg>Ein Fenster für die Befehlszeile öffnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening the user manual in this way also enables you to follow external links, as the built-in help browser does not accept external Internet links.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T163359Z">
+        <seg>Wenn Sie das Benutzerhandbuch auf diese Weise öffnen, können Sie externen Links folgen, da der eingebaute Hilfe-Browser keine externen Internet-Links akzeptiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20099,6 +21043,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Verwaiste Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphan segments&lt;i2/&gt; (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082508Z">
+        <seg>Verwaiste Segmente&lt;i2/&gt; (der Treffer #2) beschreiben Segmente, in der Standard TM des Projekts, die kein entsprechendes Quellsegment haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20335,6 +21287,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pane widgets</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192708Z">
+        <seg>Felder Widgets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Panjabi, Punjabi</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T082834Z">
@@ -20423,6 +21383,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Path of the TMX starting from the root of /tm</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101324Z">
+        <seg>Pfad der TMX beginnend mit dem Verzeichnis /tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T094141Z">
@@ -20459,6 +21427,30 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T202417Z">
         <seg>Achten Sie besonders auf Tag Paare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage adjusted</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101214Z">
+        <seg>Auf-/abgerundeter Prozentsatz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage with tokenizer</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101130Z">
+        <seg>Prozentsatz mit Tokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage without numbers and tags</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101147Z">
+        <seg>Prozentsatz ohne Nummerierung und Tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -20752,6 +21744,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T185946Z">
         <seg>Drücken Sie &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; um KRunner anzuzeigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;k0&gt;Ctrl+M &lt;/k0&gt;to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142028Z">
+        <seg>Drücken Sie &lt;k0&gt;Strg+M &lt;/k0&gt;um die Übersetzung des aktuellen Segments durch die vorgeschlagene Übersetzung zu ersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt;Enter&lt;/k0&gt; will move the Editor pane to the top of the file selected</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T144149Z">
+        <seg>Ein Druck auf &lt;k0&gt;Eingabe&lt;/k0&gt; wird das Editierfenster an den Anfang der gewählten Datei bringen</seg>
       </tuv>
     </tu>
     <tu>
@@ -21772,6 +22780,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repetitions stand for identical segments present several times in the text.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T161106Z">
+        <seg>Wiederholungen bedeuten identische Segmente, die mehrmals im Text vorkommen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions:</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T133340Z">
@@ -22645,6 +23661,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T072351Z">
+        <seg>Siehe &lt;e2&gt;Übersetzung bearbeiten&lt;/e2&gt; für weitere Details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130502T162301Z">
@@ -22757,6 +23781,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See chapter &lt;l2&gt;Menu and Keyboard shortcuts&lt;/l2&gt; for details.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142407Z">
+        <seg>Siehe das Kapitel &lt;l2&gt;Menü und Tastenkombinationen&lt;/l2&gt; für Details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See chapter&lt;l3&gt; File filters &lt;/l3&gt;for more on the subject.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T121758Z">
@@ -22769,6 +23801,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T135726Z">
         <seg>Siehe Einstellung Schriftart unter &lt;l0&gt;Verschiedenes&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T134939Z">
+        <seg>Siehe mehr dazu im Kapitel zu &lt;l0&gt;Wörterbüchern&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22813,6 +23853,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T145741Z">
+        <seg>Siehe das Kapitel &lt;e0&gt;Segmentierunsgregeln&lt;/e0&gt; für weitere Informationen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the chapter on &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130529T084149Z">
@@ -22821,10 +23869,26 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the chapter&lt;e3&gt; &lt;l4&gt;Searches&lt;/l4&gt; &lt;/e3&gt;for more information about the search window.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151330Z">
+        <seg>Siehe das Kapitel&lt;e3&gt; &lt;l4&gt;Suche&lt;/l4&gt; &lt;/e3&gt;für mehr Informationen zum Suchfenster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the section Preventing data loss for ways and means of protecting your work.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T200015Z">
         <seg>Siehe das Kapitel Datenverlust vermeiden für die Hinweise, wie man seine Arbeit schützen kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the&lt;e1&gt; Main Menu&lt;/e1&gt; appendix for a full description of all menus and menu items.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142224Z">
+        <seg>Siehe die Anlage&lt;e1&gt; Hauptmenü&lt;/e1&gt; für eine komplette Beschreibung aller Menüs und Menüelemente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22841,6 +23905,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Segment außerhalb der TU-Variante getroffen. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment marker</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T071005Z">
+        <seg>Segment Markierung</seg>
       </tuv>
     </tu>
     <tu>
@@ -23133,6 +24205,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T134516Z">
+        <seg>Wenn Sie eines davon wählen, wird es in das Zielsegment an der momentanen Position des Cursors eingefügt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="DE">
@@ -23229,6 +24309,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Settings dialogs</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T175213Z">
+        <seg>Dialoge der Einstellungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130512T122709Z">
@@ -23287,8 +24375,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Shift+Ctrl+R</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Shift+STRG+R</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>Umschalt+STRG+R</seg>
       </tuv>
     </tu>
     <tu>
@@ -23319,8 +24407,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T115440Z">
-        <seg>Tastenkombinationen wurden durch das Drücken von &lt;k0&gt;Ctrl&lt;/k0&gt; und einem Buchstaben aktiviert.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>Tastenkombinationen wurden durch das Drücken von &lt;k0&gt;Strg&lt;/k0&gt; und einem Buchstaben aktiviert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23337,6 +24425,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T133015Z">
         <seg>Sollte OmegaT den Eindruck erwecken, dass es sich OmegaT unstet verhält, ist es wichtig, diese Datei oder den relevanten Teil davon in jedweden Fehlerbericht aufzunehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195027Z">
+        <seg>Wenn Sie den Überblick über die Änderungen, die Sie an der Benutzeroberfläche gemacht habe, verlieren sollten, können Sie jederzeit &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Optionen → Hauptfenster wiederherstellen&lt;/g0&gt; benutzen, um zum ursprünglichen Layout zurückzukehren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23421,6 +24517,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplifying the original text formatting in the source file before commencing translation greatly contributes to reducing the number of tags.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T152358Z">
+        <seg>Eine Vereinfachung der Formatierung im Originaltext vor Beginn der Übersetzung kann entscheidend zur Reduzierung der Tags beitragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since tags are included in the text itself, it is possible to use segmentation rules to create segments with fewer tags.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T202605Z">
@@ -23501,6 +24605,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082221Z">
+        <seg>So ist es mit dem nächsten zwei Treffern und der Treffer #4 ist ähnlich, aber anders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130522T190505Z">
@@ -23549,6 +24661,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T141556Z">
+        <seg>Einige Dateiformate, die auf Übersetzungarbeit spezialisiert sind, zum Beispiel PO, erlauben das Einfügen von Kommentaren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130605T133956Z">
@@ -23569,6 +24689,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T201214Z">
         <seg>Manche Tag-Änderungen sind notwendig und auch gutartig, einige werden aber bei der Erstellung der Zieldokumente Probleme verursachen. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some tag scenarios flagged in the tag validation window are necessary and are benign, others will cause problems when the translated document is created.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T152244Z">
+        <seg>Einige Szenarien von Tags, die im Fenster der Tag-Prüfung ausgewiesen werden, sind notwendig und unkritisch, andere werden zu Problemen führen, wenn das übersetzte Dokument erstellt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23765,6 +24893,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source text of the match</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T100650Z">
+        <seg>Quelltext des Treffers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154340Z">
@@ -23801,6 +24937,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T083536Z">
         <seg>Süd Sotho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spaces between segments are not taken into account in the last column.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T161029Z">
+        <seg>Leerzeichen zwischen Segmenten werden in der letzten Spalte nicht mit berechnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23961,6 +25105,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Zu wiederholende Schritte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text, you are translated, that has been updated.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101116Z">
+        <seg>Zeichenfolge, die die Unterschiede zwischen der Quelle und dem Treffer anzeigt.&lt;e0&gt; Hinweis:&lt;/e0&gt; benutzen Sie dies, falls der Text, den Sie übersetzen, aktualisiert wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24341,6 +25493,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag errors are cases in which the tags in the translation do not correspond in order and number to the original segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T152041Z">
+        <seg>Tag Fehler sind Fälle, in denen die Tags in der Übersetzung in Anordnung und Anzahl nicht denen im Originalsegment entsprechen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag errors are tag sequences in the translation in which the same tag order and number as in the original segment is not reproduced.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T201206Z">
@@ -24493,6 +25653,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151755Z">
+        <seg>Die Tags werden für den leichten Vergleich zwischen dem Original und dem übersetzten Inhalt in fettem Blau hervorgehoben. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tags are numbered incrementally by tag group.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T154804Z">
@@ -24577,6 +25745,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T082636Z">
         <seg>Zielbegriff:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target text of the match</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T100704Z">
+        <seg>Zieltext des Treffers</seg>
       </tuv>
     </tu>
     <tu>
@@ -24950,6 +26126,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T145529Z">
+        <seg>Die Datei &lt;f0&gt;project_stats.txt&lt;/f0&gt; im omegat Ordner ihres Projekts enthält detailliertere Segment Informationen, getrennt nach Dateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;project_save.tmx&lt;/f1&gt; file contains all the segments that have been recorded in memory since you started the project.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T075201Z">
@@ -24984,8 +26168,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties...&lt;/g6&gt; &lt;/m0&gt; dialog is used to define and modify the project folders and languages.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130527T195722Z">
-        <seg>Der Dialog &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Projekt&lt;/g5&gt; &lt;g6&gt;Eigenschaften...&lt;/g6&gt; &lt;/m0&gt; wird benutzt, um Projektordner und -sprachen zu definieren und zu ändern.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160350Z">
+        <seg>Der Dialog &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Strg&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Projekt&lt;/g5&gt; &lt;g6&gt;Eigenschaften...&lt;/g6&gt; &lt;/m0&gt; wird benutzt, um Projektordner und -sprachen zu definieren und zu ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25062,6 +26246,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T070455Z">
+        <seg>Das Editier-Fenster zeigt den Text des teilweise übersetzten Dokuments an: der schon übersetzte Text wird als Übersetzung angezeigt, während der nicht übersetzte Text in der Originalsprache angezeigt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Free Software Foundation may publish revised and/or new versions of</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154406Z">
@@ -25090,6 +26282,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154333Z">
         <seg>The GNU General Public License is a free, copyleft license for</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T101641Z">
+        <seg>Das Glossar-Fenster ermöglicht Ihnen Zugriff auf Ihre eigene Sammlung von Ausdrücken und spezieller Terminologie, die Sie in Ihren Glossar-Dateien aufgebaut haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25126,10 +26326,34 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Match Statistics are tab-separated and you can use &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; to copy/paste them, for instance into a spreadsheet or into your cost-accounting application.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T162246Z">
+        <seg>Die Treffer Statistiken sind durch Tabulator getrennt und sie können &lt;g0&gt;Strg+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Strg+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Strg+V &lt;i5/&gt;&lt;/g4&gt;nutzen, um sie zu kopieren/einfügen, zum Beispiel in eine Tabelle oder Ihre Anwendung zur Kostenberechnung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T143625Z">
         <seg>Der PO Filter gab eine Ausnahme aus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Project Files Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142941Z">
+        <seg>Das Fenster Projektdateien zeigt folgende Information an:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Project Files window lists the project files and displays other project information.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142842Z">
+        <seg>Das Fenster Projektdateien listet die Projektdateien auf und zeigt weitere Informationen zum Projekt an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25473,6 +26697,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents can be customized using following variables:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T100533Z">
+        <seg>Die Inhalte können unter Verwendung folgender Variablen angepasst werden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130523T194117Z">
@@ -25525,6 +26757,14 @@ instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T125049Z">
         <seg>Das Kontrollzeichen entsprechend x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The counters in the lower right corner keep track of the progress of the translation (numbers in the left hand column refer to the figure above):</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195141Z">
+        <seg>Die Zähler in der unteren rechten Ecke verfolgen den Fortschritt der Übersetzung (Zahlen in der linken Spalte beziehen sich auf die obige Abbildung):</seg>
       </tuv>
     </tu>
     <tu>
@@ -25618,10 +26858,26 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T145145Z">
+        <seg>Der Unterschied zwischen "Zahl der Segmente" und "Zahl der einzigartigen Segmente" gibt einen ungefähren Eindruck von der Anzahl an Wiederholungen im Text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T131413Z">
         <seg>Der Anzeigemodus der übersetzten Dokumente muss in der Anwendung (wie Microsoft Word) geändert werden, die allgemein für Anzeige oder Modifizierung benutzt wird (schauen Sie in den entsprechenden Handbüchern nach Details).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T070627Z">
+        <seg>Der angezeigte Text ist in Segmente aufgeteilt und Sie können durch das Dokument blättern und auf irgendein Segment doppelklicken, um es zu öffnen und zu bearbeiten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25714,6 +26970,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The figure above shows the default match display template.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T100500Z">
+        <seg>Das obige Bild zeigt die Standard-Vorlage, zur Anzeige der Treffer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file &lt;f0&gt;project_save.tmx&lt;/f0&gt; contains all the segments that have been translated since you started the project.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T200255Z">
@@ -25774,6 +27038,14 @@ instead.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Als erstes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first segment and its contents will be classified as "no match", and the rest of them as a repetition of the first.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T161227Z">
+        <seg>Das erste Segment und sein Inhalt wird als "kein Treffer" klassifiziert, der Rest davon ist Wiederholung des ersten Segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25954,6 +27226,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The help browser (which displays this manual) can be opened by pressing &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; or navigating to &lt;g2&gt;&lt;i3/&gt;Help → User Manual...&lt;/g2&gt; in the main menu.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T162843Z">
+        <seg>Der Hilfe_Browser (der dieses Handbuch anzeigt) kann durch Drücken von &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; oder Navigieren zu &lt;g2&gt;&lt;i3/&gt;Hilfe → Benutzerhandbuch...&lt;/g2&gt; im Hauptmenü geöffnet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
       <tuv lang="DE">
@@ -26059,6 +27339,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082321Z">
+        <seg>Die Zeile mit dem Prozentsatz des Treffers beinhaltet auch den Namen der TM&lt;i1/&gt;, in der der Treffer enthalten ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T195411Z">
@@ -26131,10 +27419,26 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T141940Z">
+        <seg>Wenn das Fenster maschinelle Übersetzung geöffnet ist, enthält es Vorschläge von Werkzeugen für maschinelle Übersetzungen für das aktuelle Segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main OmegaT application.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>OmegaT Hauptanwendung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main menu provides access to all &lt;a0&gt;OmegaT&lt;/a0&gt; functions.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142128Z">
+        <seg>Das Hauptmenü bietet Zugriff auf alle &lt;a0&gt;OmegaT&lt;/a0&gt; Funktionen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26147,10 +27451,42 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main window consists of several panes, the main menu and a status bar.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192233Z">
+        <seg>Das Hauptfenster besteht aus mehreren Feldern, dem Hauptmenü und einer Statusleiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The match statistics are accessed via&lt;g0&gt;Tools&gt;Match Statistics.&lt;/g0&gt; The evaluation is rather CPU intensive and can be time-consuming, so a progress bar is shown during the calculation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T155354Z">
+        <seg>Zugriff auf die Treffer Statistiken gibt es über &lt;g0&gt;Extras&gt;Treffer-Statistiken.&lt;/g0&gt; Die Auswertung ist CPU intensiv und kann dauern, daher wird während der Berechnung eine Leiste zum Fortschritt angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T073253Z">
+        <seg>Der Treffer Betrachter zeigt die ähnlichsten Segmente aus den translation memories an, sowohl aus internen Projekt-TMs, die in Echtzeit erstellt werden, während Sie die Übersetzung anfertigen, als auch von zusätzlichen TMs, die Sie aus früheren Jobs importiert haben oder von Ihrem Kunden oder Übersetzungsagentur erhalten haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The matches will be displayed in bold blue.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T153629Z">
         <seg>Die Treffer werden in fettem Blau dargestellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The matching percentage is roughly equivalent to taking the number of common words in the matched and the matching segment and dividing by the number of words in the longer of the two.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T081820Z">
+        <seg>Die Prozentzahl des Treffers entspricht grob dem Verhältnis der allgemeinen Wörter in dem verglichenen und vergleichendem Segment, dividiert durch die Anzahl der Wörter in dem längeren Segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26191,6 +27527,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE">
         <seg>Die aktuellste Info über OmegaT befindet sich hier: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most frequently used functions are accessible with keyboard shortcuts, so once you become accustomed to them, you will no longer need to browse through the menus while translating.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142339Z">
+        <seg>Die am häufigsten verwendeten Funktionen sind über Tastenkombinationen zu erreichen, so dass, wenn Sie mit ihnen vertraut sind, nicht mehr die Menüs durchsuchen müssen, wenn Sie übersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26275,6 +27619,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The number of unique segments, if needed, is provided in the standard statistics window, regardless of whether they have been translated or not.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T161531Z">
+        <seg>Die Anzahl der einzigartigen Segmente wird, falls benötigt, im Standard Statistik Fenster gezeigt, unabhängig davon, ob sie übersetzt wurden oder nicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T092444Z">
@@ -26311,6 +27663,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T193455Z">
         <seg>Die Online Version von Google Translate erlaubt es dem Nutzer, den Vorschlag zu korrigieren und das korrigierte Segment einzusenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The only difference with matches from the &lt;f2&gt;project_save&lt;/f2&gt; translation memory is that external TMs cannot give exact matches, only 100%.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T161850Z">
+        <seg>Der einzige Unterschied zu der &lt;f2&gt;project_save&lt;/f2&gt; TM besteht darin, dass externe TMs keine exakten Treffer ergeben können, nur 100%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26491,6 +27851,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T070141Z">
+        <seg>Das Projekt im Beispiel ist offensichtlich beendet, da alle einzigartigen Segmente übersetzt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project setting allows one can enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130523T062935Z">
@@ -26591,6 +27959,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154351Z">
         <seg>The requirement to provide Installation Information does not include a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rest of the categories (50-100%) involves untranslated segments with a fuzzy match.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T161620Z">
+        <seg>Der Rest der Kategorien (50-100%) betrifft unübersetzte Segmente mit einem unscharfen Treffer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26699,6 +28075,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search window consists of a text field for search strings or keywords, flags and radio buttons for setting up the search and a display area containing the results of the search.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151259Z">
+        <seg>Das Suchfenster besteht aus einem Textfeld für eine Zeichenfolge oder Schlüsselwörter, Flaggen oder Radio Schaltflächen, um die Suche zu gestalten und ein Anzeigefeld, das die Resultate der Suche enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second argument &lt;l2&gt;--pseudotranslatetype&lt;/l2&gt; is optional.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T141717Z">
@@ -26755,6 +28139,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082016Z">
+        <seg>Der ausgewählte unscharfe Treffer wird in Fettschrift hervorgehoben, Wörter, die in dem Text, den Sie übersetzen, fehlen, werden blau und zusätzliche Wörter zum fehlenden Teil werden grün gefärbt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T155234Z">
@@ -26791,6 +28183,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T151559Z">
         <seg>Der Server sorgt dafür, dass widersprüchliche Änderungen, die entstehen, wenn zwei Mitglieder an den gleichen Inhalten arbeiten, gelöst werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T144628Z">
+        <seg>Der Satz von &lt;e0&gt;Einzigartigen &lt;/e0&gt;Segmenten wird durch den Abzug aller duplizierten Segmente von allen Segmenten berechnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26875,6 +28275,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T102018Z">
+        <seg>Das Quellsegment im unten stehenden Beispiel war “&lt;e0&gt;Context menu command&lt;/e0&gt;”, wie in den unscharfen Treffern oben und die Begriffe, die in den Glossaren gefunden wurden, vorhanden bei (Microsoft's Term collection und dem Glossar der slowenischen Linux User group).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source subfolder contains files to be translated.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T094514Z">
@@ -26903,6 +28311,30 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T163340Z">
         <seg>Die Rechtschreibprüfung legt die zu nutzende Sprache anhand des Sprachcodes der Zielsprache fest: wenn die Zielsprache brasilianisches Portugiesisch (PT_BR) ist, müssen die Unterverzeichnisse der Wörterbücher die zwei Dateien mit dem Namen &lt;e0&gt;pt_br.aff&lt;e0/&gt; und &lt;e1&gt;pt_br.dic&lt;e1/&gt; enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The statistics shown is available as a tab-separated &lt;f1&gt;project_stats.txt&lt;/f1&gt; file (subfolder &lt;f2&gt;omegat&lt;/f2&gt;), ready to be loaded into a spreadsheet program for the user's convenience.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T155057Z">
+        <seg>Die gezeigten Statistiken stehen als ein durch Tabulator getrennte Datei &lt;f1&gt;project_stats.txt&lt;/f1&gt; (im Unterordner &lt;f2&gt;omegat&lt;/f2&gt;) zu Verfügung, bereit um in ein Tabellenkalkulationsprogramm zum Nutzen des Benutzers geladen zu werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The statistics window - accessed via &lt;e0&gt;Tools&gt;Statistics &lt;/e0&gt;- shows the statistics of the current OmegaT project, both in the summary form as well as in detail for every file to be translated.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T154738Z">
+        <seg>Das Fenster Statistiken - zu erreichen über &lt;e0&gt;Extras&gt;Statistiken &lt;/e0&gt;- zeigt die Statistiken des momentanen OmegaT Projekts an, sowohl als Zusammenfassung als auch als Detail für jede zu übersetzende Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The status bar displays work-flow related messages at the bottom of the main window.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142550Z">
+        <seg>Die Status-Leiste zeigte Nachrichten über den Arbeitsverlauf am unteren Rand des Hauptfensters an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26947,6 +28379,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tag validation window detects and lists any tag errors and inconsistencies in the translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151544Z">
+        <seg>Das Fenster Tag-Prüfung entdeckt und listet alle Fehler von Tags und Unstimmigkeiten in der Übersetzung auf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
       </tuv>
       <tuv lang="DE">
@@ -26975,6 +28415,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T080612Z">
         <seg>Zieldateinamenmuster verwendet eine spezielle Syntax; wenn Sie dieses Feld bearbeiten möchten, müssen Sie &lt;e0&gt;Bearbeiten...&lt;/e0&gt;anklicken und den Dialog &lt;i1/&gt;Dialog Muster bearbeiten benutzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T135542Z">
+        <seg>Der Zieltext, der danach eingegeben wird, wird als alternative Übersetzung des Quellsegmentes behandelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27051,6 +28499,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The top match is 100%, because all words match.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082135Z">
+        <seg>Der Haupttreffer hat 100%, weil alle Wörter übereinstimmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130605T135044Z">
@@ -27079,6 +28535,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T141329Z">
         <seg>Die Übersetzung in dieser TMX kann entweder </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T141347Z">
+        <seg>Der/die Übersetzer/in kann Notizen zum geöffneten Segment hinzufügen, zum Beispiel, um später zum Segment zurückzukommen und die Übersetzung zu erneuern, zu schauen, ob alternative Übersetzungen korrekt sind oder um KollegInnen nach ihrer Meinung zu fragen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27115,6 +28579,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: &lt;i0/&gt;the marker is &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T070957Z">
+        <seg>Der obere Teil ist die Quellsprache, in fetten Buchstaben mit einem grünen Hintergrund; der untere Teil ist das Feld zum Bearbeiten, das mit einer Markierung endet: &lt;i0/&gt;die Markierung ist &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt; wobei nnnn die Nummer des Segments im Projekt ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user interface</seg>
       </tuv>
       <tuv lang="DE">
@@ -27127,6 +28599,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE">
         <seg>Das Benutzerhandbuch ist ein HTML-Dokument mit Links zu verschiedenen Kapiteln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user manual is located in the docs subfolder under the OmegaT installation folder, so you may can, for instance, view the English documentation by opening the &lt;f0&gt;docs/en/index.html &lt;/f0&gt;file in your browser.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T163225Z">
+        <seg>Das Benutzerhandbuch ist im docs Unterordner unterhalb des OmegaT Installationsodner angesiedelt, so dass Sie zum Beispiel die englische Dokumentation durch das Öffnen von &lt;f0&gt;docs/en/index.html &lt;/f0&gt;in Ihrem Browser betrachten können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27259,6 +28739,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are actually three match estimates available (66/66/30 in the case of the match #4 above).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082630Z">
+        <seg>Es gibt eigentlich drei Schätzungen der Treffer (66/66/30 im Falle des Treffers #4 oben).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T101152Z">
@@ -27365,8 +28853,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+T&lt;/k0&gt; before you generate your translated file, to validate that your tags are correct.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130430T101956Z">
-        <seg>Drücken Sie daher &lt;k0&gt;Ctrl+T&lt;/k0&gt; bevor Sie das übersetzte Dokument erzeugen, um zu prüfen, dass Ihre Tags korrekt sind.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>Drücken Sie daher &lt;k0&gt;Strg+T&lt;/k0&gt; bevor Sie das übersetzte Dokument erzeugen, um zu prüfen, dass Ihre Tags korrekt sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27408,6 +28896,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154355Z">
         <seg>These actions infringe copyright if you do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are the files present in the Source files folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T143107Z">
+        <seg>Das sind die Dateien, die sich im Ordner für die Quelldateien in einem Format, das OmegaT erkennen kann, befinden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27464,6 +28960,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T080704Z">
         <seg>Sie werden normalerweise mit Textverarbeitungsprogrammen oder HTML-Editoren erstellt. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are defined as follows:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082642Z">
+        <seg>Sie sind folgendermaßen definiert:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27636,6 +29140,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142649Z">
+        <seg>Die Leiste stellt dem Benutzer Feedback zu bestimmten Operationen, die ablaufen, zur Verfügung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
       <tuv lang="DE">
@@ -27704,6 +29216,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T153828Z">
         <seg>Dieser Befehl wird nach der Anlage der übersetzten Dokumente ausgeführt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This copies the selected files to the &lt;f3&gt;source&lt;/f3&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T150003Z">
+        <seg>Das wird die ausgewählten Dateien in den &lt;f3&gt;source&lt;/f3&gt; Ordner kopieren und das Projekt neu laden, um die Dateien zu importieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27852,6 +29372,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This information is computed for segments as well as for words and for characters (without and including spaces).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T155616Z">
+        <seg>Die Information wird für Segmente als auch für Wörter und Zeichen (mit oder ohne Leerzeichen) berechnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is acceptable, provided the enclosing group totally encloses the enclosed group.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T192113Z">
@@ -27996,6 +29524,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is useful for documents that contain trade marks, names or other proper nouns, or parts in a third language that do not require translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T072322Z">
+        <seg>Das ist sinnvoll bei Dokumenten, die Warenzeichen, Namen oder andere Eigennamen enthalten, oder Teile in einer dritten Sprache sind, die nicht übersetzt werden müssen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T085842Z">
@@ -28024,6 +29560,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T133121Z">
         <seg>Das ist sinnvoll, wenn es sich um Texte handelt, in denen inline Formate keinen wirklichen Sinn machen (z.B. OCRed PDF, schlecht konvertierte .odt oder .docx, usw.) Nur inline Tags weren entfernt, so dass es normalerweise kein Problem mit dem Öffnen der Zieldokumente gibt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is where you type and edit your translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T070319Z">
+        <seg>Hier tippen Sie Ihre Übersetzung ein und bearbeiten sie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28236,6 +29780,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This way the translator can be provided the context about the segment to be translated.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T141647Z">
+        <seg>Auf diese Weise kann der/die Übersetzer/in den Kontext es zu übersetzendes Segmentes erfahren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will actually do a checkout of the project in a local folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T123810Z">
@@ -28272,6 +29824,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T201054Z">
         <seg>Das wird sie praktisch in den "nicht übersetzten" Status zurücksetzen, weil sie den Segmenten in der TM nicht mehr entsprechen, obwohl die alte Übersetzung noch da ist. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This, however, should generally be avoided once you have started translating the project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T145710Z">
+        <seg>Das sollte jedoch vermieden werden, sobald Sie mit der Übersetzung begonnen haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28764,6 +30324,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To open a new search window, use &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; in the Main window.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151118Z">
+        <seg>Um ein neues Suchfenster zu öffnen, benutzen Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; im Hauptfenster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To participate in the development of OmegaT, get in touch with the developers at:</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T141805Z">
@@ -28790,8 +30358,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the Project Settings dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130430T102714Z">
-        <seg>Um an die ursprünglichen Einstellungen des Projekts erinnert zu werden, öffnen Sie den Dialog zu Einstellungen des Projekts mit &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>Um an die ursprünglichen Einstellungen des Projekts erinnert zu werden, öffnen Sie den Dialog zu Einstellungen des Projekts mit &lt;k0&gt;Strg+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28846,8 +30414,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To see a list of files in the project, open the Project Files dialog by pressing &lt;k1&gt;Ctrl+L&lt;/k1&gt;.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130430T102800Z">
-        <seg>Um eine Liste der Dateien im Projekt zu sehen, öffnen Sie den Dialog Projektdateien, indem Sie &lt;k1&gt;Ctrl+L&lt;/k1&gt; drücken.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>Um eine Liste der Dateien im Projekt zu sehen, öffnen Sie den Dialog Projektdateien, indem Sie &lt;k1&gt;Strg+L&lt;/k1&gt; drücken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28936,6 +30504,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130522T185130Z">
         <seg>Um ein vorhandenes Glossar zu verwenden, legen Sie es einfach beim Erzeugen des Projektes in den &lt;f1&gt;/glossary&lt;/f1&gt; Ordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the selected match in your translation, use &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; to replace the target field with the match or use &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T073721Z">
+        <seg>Um den ausgewählten Treffer in Ihrer Übersetzung einzusetzen, benutzen Sie &lt;g5&gt;Strg+R&lt;/g5&gt;&lt;i6/&gt;, um das Zielfeld durch den Treffer zu ersetzen oder benutzen Sie &lt;g7&gt;Strg+I &lt;i8/&gt;&lt;/g7&gt; um ihn an der Position des Cursors einzusetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29895,6 +31471,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; to open and &lt;k2&gt;Esc&lt;/k2&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T142914Z">
+        <seg>Benutzen Sie &lt;g0&gt;Strg+L&lt;i1/&gt;&lt;/g0&gt; um es zu öffnen und &lt;k2&gt;Esc&lt;/k2&gt; um es zu schließen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use Shift+F3 &lt;i0/&gt;to cycle through the three alternatives.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T124105Z">
@@ -29931,6 +31515,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T155825Z">
         <seg>Nutze die Installationssprache in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T071104Z">
+        <seg>Nutzen Sie den oberen Teil als Referenz und ersetzen oder ändern Sie den Inhalt des Editierfelds durch Ihrfe Übersetzung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29975,10 +31567,58 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used to adjust the handling of supported file formats (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;File Filters...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T175933Z">
+        <seg>wird gebraucht, um die Handhabe der unterstützten Dateiformate anzupassen (Zugriff über &lt;m0&gt; &lt;g1&gt;Optionen&lt;/g1&gt; &lt;g2&gt;Dateifilter...&lt;/g2&gt; &lt;/m0&gt;, Schließen mit &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to change how &lt;a0&gt;OmegaT&lt;/a0&gt; behaves when you iterate between the segments (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Behavior...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192121Z">
+        <seg>wird gebraucht, um zu zeigen, wie &lt;a0&gt;OmegaT&lt;/a0&gt; sich verhält, wenn sich zwischen den Segmenten wiederholen (Zugriff über &lt;m1&gt; &lt;g2&gt;Optionen&lt;/g2&gt; &lt;g3&gt;Verhalten...&lt;/g3&gt; &lt;/m1&gt;, Schließen mit &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to change the way your text is segmented into sentences (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Segmentation&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T191550Z">
+        <seg>wird gebraucht, um die Art, wie Ihr Text in Sätze segmentiert wird, zu ändern (Zugriff über &lt;m0&gt; &lt;g1&gt;Optionen&lt;/g1&gt; &lt;g2&gt;Segmentierung&lt;/g2&gt; &lt;/m0&gt;, Schließen mit &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to display the match statistics of the project, select &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Match statistics&lt;/g3&gt; &lt;/m0&gt;to open it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T175107Z">
+        <seg>wird benutzt, um die Statistiken der Treffer eines Projekts anzuzeigen, wählen Sie &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Extras&lt;/g1&gt; &lt;g3&gt;Trefferstatistiken&lt;/g3&gt; &lt;/m0&gt;um es zu öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used to display the user manual (open with &lt;k0&gt;F1&lt;/k0&gt;, close with &lt;k1&gt;Esc)&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130607T065710Z">
         <seg>wird benutzt, um das Benutzerhandbuch anzuzeigen (zu öffnen mit &lt;k0&gt;F1&lt;/k0&gt;, zu schließen mit &lt;k1&gt;Esc)&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to modify the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; to display source, translation, matches and glossary terms, (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T175704Z">
+        <seg>wird benutzt, um die Schriftart, die &lt;a0&gt;OmegaT&lt;/a0&gt; verwendet, zu ändern, die Quelle, Übersetzung, Treffer und Begriffe im Glossar anzuzeigen (Zugriff über &lt;m1&gt; &lt;g2&gt;Optionen&lt;/g2&gt; &lt;g3&gt;Schrifart...&lt;/g3&gt; &lt;/m1&gt;, Schließen mit &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to modify the project folders and languages (access via &lt;g0&gt;Ctrl+E &lt;/g0&gt;shortcut or &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;properties...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T175445Z">
+        <seg>wird benutzt, um die Ordner und Sprachen des Projekts zu ändern (Zugriff über &lt;g0&gt;Strg+E &lt;/g0&gt;Tastenkombination oder &lt;m1&gt; &lt;g2&gt;Projekt&lt;/g2&gt; &lt;g3&gt;Eigenschaften...&lt;/g3&gt; &lt;/m1&gt;, Schließen mit &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30609,8 +32249,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>When active, &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; will insert the suggestion into the target part of the current segment.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T134859Z">
-        <seg>Wenn aktiv, wird &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; den Vorschlag in das Zeilteil des momentanen Segments einfügen.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>Wenn aktiv, wird &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; den Vorschlag in das Zeilteil des momentanen Segments einfügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30707,6 +32347,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Wenn diese Datei ausgeführt wird, werden die darin enthaltenen Befehle automatisch ausgeführt. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this is done the panes display a tab at the top.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T193159Z">
+        <seg>Wenn dies gemacht wird, zeigen die Felder oben einen TAB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30873,8 +32521,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated document, which will be created in the /target/ subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130429T065252Z">
-        <seg>Wann immer Sie sehen wollen, wie Ihre Übersetzung im endgültigen Format aussieht, drücken Sie &lt;k2&gt;Ctrl+D&lt;/k2&gt;, um das übersetzte Dokument zu erzeugen, was im Unterverzeichnis /target/ Ihres Projekt erstellt wird.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
+        <seg>Wann immer Sie sehen wollen, wie Ihre Übersetzung im endgültigen Format aussieht, drücken Sie &lt;k2&gt;Strg+D&lt;/k2&gt;, um das übersetzte Dokument zu erzeugen, was im Unterverzeichnis /target/ Ihres Projekt erstellt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31455,6 +33103,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T150124Z">
+        <seg>Sie können Quelldateien auf von Internet-Seiten hinzufügen, die in MediaWiki geschrieben wurden, indem Sie auf &lt;g4&gt; "Von MediaWiki importieren"&lt;/g4&gt; klicken und die entsprechende URL angeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also enable project-specific file filters, which will only be used on the current project, by selecting the &lt;e1&gt;File Filters...&lt;/e1&gt; option in Project Properties.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130511T160609Z">
@@ -31467,6 +33123,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T080930Z">
         <seg>Sie können auch &lt;u6&gt;Fehlerberichte&lt;/u6&gt; und &lt;u7&gt;Anfragen für Verbesserungen einreichten.&lt;/u7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also have several search windows open simultaneously.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151039Z">
+        <seg>Sie können auch mehrere Suchfenster gleichzeitig geöffnet haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T134724Z">
+        <seg>Sie können auch die von Ihnen bevorzugte Alternative im Glossar Fenster hervorheben und es mit einem Rechtsklick auf die Auswahl in das Ziel einfügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31503,6 +33175,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T141439Z">
+        <seg>Sie können die Notizen mit &lt;g0&gt;Gehe zu → Nächste Notiz&lt;/g0&gt; und &lt;g1&gt;Gehe zu → Vorherige Notiz&lt;/g1&gt; durchsuchen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change or add filename patterns for files to be handled by each file.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T074506Z">
@@ -31519,6 +33199,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192354Z">
+        <seg>Sie können die Position jedes Feldes ändern oder es in ein gesondertes Fenster abkoppeln durch Klicken und Ziehen des Feldes mit seinem Namen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can check that yourself by selecting the item &lt;e0&gt;File Filters&lt;/e0&gt; in the menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T194819Z">
@@ -31529,8 +33217,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>You can create a glossary by pressing &lt;g0&gt;Ctrl+Shift+G&lt;/g0&gt;, or copy existing glossaries to the&lt;f1&gt;/glossary/&lt;/f1&gt;subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130430T163843Z">
-        <seg>Sie können ein Glossar durch das Drücken von &lt;g0&gt;Ctrl+Shift+G&lt;/g0&gt; erstellen oder kopieren Sie vorhandene Glossare in den Unterordner &lt;f1&gt;/glossary/&lt;/f1&gt;Ihres Projektordners. OmegaT wird automatisch Wörter in ihnen nachschlagen.</seg>
+      <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
+        <seg>Sie können ein Glossar durch das Drücken von &lt;g0&gt;Strg+Umschalt+G&lt;/g0&gt; erstellen oder kopieren Sie vorhandene Glossare in den Unterordner &lt;f1&gt;/glossary/&lt;/f1&gt;Ihres Projektordners. OmegaT wird automatisch Wörter in ihnen nachschlagen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31579,6 +33267,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T153535Z">
         <seg>Sie können sich entscheiden, diese Segmente gar nicht zu übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T135725Z">
+        <seg>Sie können eine der Alternativen - zum Beispiel die wahrscheinlichste unter ihnen - als die Standard-Übersetzung definieren, indem Sie &lt;g1&gt;Bearbeiten → als Standard-Übersetzung benutzen&lt;/g1&gt; wählen</seg>
       </tuv>
     </tu>
     <tu>
@@ -31662,6 +33358,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T154657Z">
         <seg>Sie können sie in einem Internet Browser öffnen, um Zugang zu externen Links zu haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can overlap panes if desired.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T193048Z">
+        <seg>Sie können Felder überlappen lassen, wenn es gewünscht wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31750,6 +33454,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T125314Z">
         <seg>Sie können zwischen verschiedenen Arten der Anzeigen wechseln, wenn Sie auf &lt;k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (der Buchstabe O und nicht die Zahl 0) klicken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use &lt;g3&gt;Ctrl+A &lt;i4/&gt;&lt;/g3&gt;&lt;g5&gt;, Ctrl+C &lt;i6/&gt;&lt;/g5&gt;, &lt;g7&gt;Ctrl+V &lt;i8/&gt;&lt;/g7&gt; to copy/paste the contents.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T155135Z">
+        <seg>Sie können &lt;g3&gt;Strg+A &lt;i4/&gt;&lt;/g3&gt;&lt;g5&gt;, Strg+C &lt;i6/&gt;&lt;/g5&gt;, &lt;g7&gt;Strg+V &lt;i8/&gt;&lt;/g7&gt; zum Kopieren und Einfügen benutzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the search window to find specific segments in a project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T151016Z">
+        <seg>Sie können das Suchfenster benutzen, um spezifische Segmente in Ihrem Projekt zu finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31886,6 +33606,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Sie können suchen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.&lt;i1/&gt; Of course, pressing &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T073537Z">
+        <seg>Sie können einen andere durch das Drücken von &lt;g0&gt;Strg+2, 3, 4, or 5&lt;/g0&gt; auswählen.&lt;i1/&gt; Natürlich wird das Drücken von &lt;k2&gt; &lt;k3&gt;Strg&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; keine Wirkung haben, wenn es keinen Treffer #5 gibt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33872,6 +35600,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>default OmegaT match - number of matched words - with numerals and tags ignored - divided by the total word count</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082846Z">
+        <seg>Standard OmegaT Treffer - Zahl der übereinstimmenden Wörter - Nummerierung und Tags werden ignoriert - geteilt durch die Zahl aller Wörter</seg>
       </tuv>
     </tu>
     <tu>
@@ -36724,6 +38460,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>match percentage when the tokenizer plugin is used</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T082726Z">
+        <seg>Prozentsatz des Treffers, wenn das Tokenizer Plugin benutzt wird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>material by anyone who conveys the material (or modified versions of</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T151013Z">
@@ -36736,6 +38480,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154355Z">
         <seg>material under section 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>maximizes the pane</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192801Z">
+        <seg>maximiert das Feld</seg>
       </tuv>
     </tu>
     <tu>
@@ -36816,6 +38568,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154417Z">
         <seg>might be different; for a GUI interface, you would use an "about box".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192749Z">
+        <seg>minimiert das Feld, so dass nur sein Name am unteren Rand des Fensters gezeigt wird</seg>
       </tuv>
     </tu>
     <tu>
@@ -37040,6 +38800,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T082201Z">
         <seg>mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>multi-word entry in the glossary</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T134110Z">
+        <seg>Eintrag mehrerer Wörter im Glossar</seg>
       </tuv>
     </tu>
     <tu>
@@ -37320,6 +39088,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>nr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number of segments - translated vs total for the current file</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195300Z">
+        <seg>Anzahl der Segmente - übersetzt vs Summe für die aktuelle Datei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number of source and target characters in the current segment</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195510Z">
+        <seg>Zahl der Quell- und Zielzeichen im aktuellen Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number of unique segments - translated vs total in the project</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195345Z">
+        <seg>Anzahl der einzigartigen Segmente - übersetzt vs Summe im Projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -38108,6 +39900,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>project statistics</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T155141Z">
+        <seg>Projektstatistiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectCloseMenuItem</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T154843Z">
@@ -38316,6 +40116,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>puts the pane back within the main window</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192917Z">
+        <seg>bringt das Feld wieder in das Hauptfenster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>qu</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T082933Z">
@@ -38520,6 +40328,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T134934Z">
         <seg>reserviert für den zukünftigen Gebrauch durch Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>restores the layout before the maximizing step</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192825Z">
+        <seg>stellt das Layout vor der Maximierung wieder her</seg>
       </tuv>
     </tu>
     <tu>
@@ -39477,6 +41293,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the file currently available in the Editor pane is highlighted with a blue background.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T144044Z">
+        <seg>die Datei, die momentan im Editierfenster vorhaden ist, wird durch einen blauen Hintergrund hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the interface presents a list of user commands or options, such as a</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154337Z">
@@ -39489,6 +41313,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154419Z">
         <seg>the library.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the list of all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T143000Z">
+        <seg>die Liste aller übersetzbaren Dateien im Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39553,6 +41385,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154340Z">
         <seg>the terms of this License in conveying all material for which you do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130611T144442Z">
+        <seg>die Gesamtzahl der Segmente, die Zahl der einzigartigen Segmente im gesamten Projekt und die Zahl der schon übersetzten Segmente werden unten angezeigt</seg>
       </tuv>
     </tu>
     <tu>
@@ -39853,6 +41693,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>total number of segments (including repeats) in the project</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T195430Z">
+        <seg>Gesamtzahl der Segmente im Projekt (Wiederholungen eingeschlossen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tr</seg>
       </tuv>
       <tuv lang="DE">
@@ -40041,6 +41889,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154406Z">
         <seg>under version 3 of the GNU Affero General Public License into a single</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>undocks the pane from the main window</seg>
+      </tuv>
+      <tuv lang="DE" changeid="helmut" changedate="20130610T192855Z">
+        <seg>koppelt das Feld vom Hauptfenster ab</seg>
       </tuv>
     </tu>
     <tu>
