@@ -11939,6 +11939,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T130818Z">
+        <seg>Fehler  '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T132033Z">
