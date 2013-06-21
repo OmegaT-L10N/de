@@ -19667,8 +19667,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Zu beachten: DocBook werden nicht nur durch die Dateierweiterung erkannt, sie müssen auch eine DOCTYPE-Deklaration beinhalten:  &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... für DocBook 4, oder eine Namespace: xmlns="http://docbook.org/ns/docbook" für DocBook 5</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T134323Z">
+        <seg>Zu beachten: DocBook-Dateien werden nicht nur durch die Dateierweiterung erkannt, sie müssen auch eine DOCTYPE-Deklaration haben: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... für DocBook 4 oder einen Namesraum: xmlns="http://docbook.org/ns/docbook" für DocBook 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -25155,8 +25155,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>SubRip Subtitles Files</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T144225Z">
-        <seg>SubRip Untertitel Dateien</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T134352Z">
+        <seg>SubRip-Untertitel-Dateien</seg>
       </tuv>
     </tu>
     <tu>
