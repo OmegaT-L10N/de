@@ -346,8 +346,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T143448Z">
-        <seg>&amp;Erlaube leere Übersetzung in den Zieldateien</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T103749Z">
+        <seg>L&amp;eeres Segment in den Zieldateien erlaubt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1026,8 +1026,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Skip PO header</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T143529Z">
-        <seg>&amp;Überspringe PO Kopfzeile</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T105344Z">
+        <seg>PO-Header über&amp;springen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2991,8 +2991,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130512T123053Z">
-        <seg>&lt;e0&gt;Erlaube leere Übersetzung in der Zieldatei&lt;/e0&gt;:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T103830Z">
+        <seg>L&amp;eeres Segment in der Zieldateie erlaubt</seg>
       </tuv>
     </tu>
     <tu>
@@ -7889,8 +7889,8 @@ The current setting is {0}MB;</seg>
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Ein Ausnahmefehler ist während des Parsingprozesses der TMX -Datei{0} geschehen. Die TMX Datei wird nicht geladen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T111555Z">
+        <seg>Während des Parsingprozesses der TMX-Datei {0} ist ein Ausnahmefehler aufgetreten. Die TMX-Datei wird nicht geladen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8419,8 +8419,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T143609Z">
-        <seg>Ersetze automatisch 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in Kopfzeile</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T105055Z">
+        <seg>'nplurals=INTEGER; &amp;plural=EXPRESSION;' im Header automatisch ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -12018,6 +12018,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <note>nachprüfen	</note>
       <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
@@ -12205,8 +12206,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Ausnahme beim Parsing</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T111408Z">
+        <seg>Ausnahme beim Parsing:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12485,8 +12486,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Fataler Fehler in der Zeile {0}, Spalte {1} während des Parsingprozesses:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T112014Z">
+        <seg>Schwerer Fehler in Zeile {0}, Spalte {1} während des Parsingprozesses:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14079,8 +14080,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Hier können Sie das Quelldateinamenmuster für die vom Filter zu bearbeitende Dateien einstellen, die Dateinamen von übersetzten Dateien anpassen, und die Kodierungen für die Quell- und Zieldateien bestimmen </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T102712Z">
+        <seg>Hier können Sie die Quelldateinamenmuster für die vom Filter zu bearbeitenden Dateien einstellen, die Dateinamen von übersetzten Dateien anpassen und die Kodierungen für die Quell- und Zieldateien bestimmen. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17419,8 +17420,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LaTeX Files</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>LaTeX Dateien</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T103445Z">
+        <seg>LaTeX-Dateien</seg>
       </tuv>
     </tu>
     <tu>
@@ -17467,8 +17468,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Sprache nicht definiert für die TU-Variante. </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T113730Z">
+        <seg>Es ist keine Sprache für die TU-Variante definiert. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19667,16 +19668,16 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Anmerkung: Quelldateienkodierung betrifft nur die HHC und HHK Dateien, die keine Kodierungdefinition beinhalten</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T103230Z">
+        <seg>Anmerkung: Die Einstellung Kodierung der Quelldatei betrifft nur die HHC und HHK Dateien, die keine Kodierungdefinition beinhalten.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Anmerkung: Quelldateienkodierung betrifft nur die HTML Dateien, die intern keine Kodierungsdefinition beinhalten.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T103249Z">
+        <seg>Anmerkung: Die Einstellung Kodierung der Quelldatei betrifft nur die HTML Dateien, die intern keine Kodierungsdefinition beinhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20100,8 +20101,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files)</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130513T080225Z">
-        <seg>OmegaT identifiziert die Quelldateikodierung mit Hilfe der Deklaration, wenn sie existiert (HTML-Dateien, XML basierende Dateien). </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T103042Z">
+        <seg>OmegaT identifiziert die Kodierung der Quelldatei mit Hilfe der Deklaration, wenn sie existiert (HTML-Dateien, XML basierende Dateien). </seg>
       </tuv>
     </tu>
     <tu>
@@ -21204,18 +21205,26 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T105226Z">
+        <seg>PDF-Input</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO Files</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>PO Dateien</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T103448Z">
+        <seg>PO-Dateien</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T143331Z">
-        <seg>PO Filter Optionen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T103459Z">
+        <seg>PO-Filter-Optionen</seg>
       </tuv>
     </tu>
     <tu>
@@ -21246,8 +21255,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>PO header will be skipped and left unchanged, if this option is checked.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130512T162250Z">
-        <seg>Wenn diese Option aktiviert ist, wird die PO Kopfzeile übersprungen und unverändert gelassen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T104909Z">
+        <seg>Wenn diese Option aktiviert ist, wird der PO-Header übersprungen und bleibt unverändert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21554,8 +21563,8 @@ a description of how this error was produced.</seg>
 ({1})
 to determine the source of the error and try again.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Bitte die Log-Datei anschauen({1}), um die Fehlerursache zu bestimmen, und nochmal versuchen. </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T111739Z">
+        <seg>Prüfen Sie die Log-Datei ({1}), um die Fehlerursache zu bestimmen und versuchen Sie es erneut. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22347,16 +22356,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Reading TMX file {0}</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Lese die TMX Datei {0}</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T111007Z">
+        <seg>TMX-Datei {0} wird gelesen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Reading of TMX file complete</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Die TMX Datei zu Ende gelesen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T111255Z">
+        <seg>Lesen der TMX-Datei vollständig</seg>
       </tuv>
     </tu>
     <tu>
@@ -22371,8 +22380,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Wiederherstellbarer Fehler in der Zeile {0}, Spalte {1} während des Parsingprozesses:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T112136Z">
+        <seg>Behebbarer Fehler in Zeile {0}, Spalte {1} während des Parsingprozesses:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23900,8 +23909,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Segment außerhalb der TU-Variante getroffen. </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T113803Z">
+        <seg>Das Segment befindet sich außerhalb der TU-Variante. </seg>
       </tuv>
     </tu>
     <tu>
@@ -24556,8 +24565,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Skip PO header</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130512T162159Z">
-        <seg>Überspringe PO Kopfzeile</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T104839Z">
+        <seg>PO-Header überspringen</seg>
       </tuv>
     </tu>
     <tu>
@@ -24764,16 +24773,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Muster für den Namen der Quelldatei</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T102549Z">
+        <seg>Quelldateinamenmuster</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source Filename Pattern:</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Muster für den Namen der Quelldatei</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T102730Z">
+        <seg>Quelldateinamenmuster</seg>
       </tuv>
     </tu>
     <tu>
@@ -24868,8 +24877,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Ausgangssegment für bestimmte Übersetzungseinheiten (TUs) nicht gefunden. </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T114016Z">
+        <seg>Das Ausgangssegment wurde für bestimmte Übersetzungseinheiten (TUs) nicht gefunden. </seg>
       </tuv>
     </tu>
     <tu>
@@ -25404,8 +25413,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Die TMX Datei wurde mit der OmegaT 1.4.x Version oder früher erzeugt. </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T114728Z">
+        <seg>Die TMX-Datei wurde mit der OmegaT-Version 1.4.x oder einer früheren Version erzeugt. </seg>
       </tuv>
     </tu>
     <tu>
@@ -26333,8 +26342,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T143625Z">
-        <seg>Der PO Filter gab eine Ausnahme aus:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T105210Z">
+        <seg>Der PO-Filter meldete eine Ausnahme:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26381,8 +26390,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Die TMX Datei wird weiter geladen. </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T114540Z">
+        <seg>Die TMX-Datei wird weiter geladen. </seg>
       </tuv>
     </tu>
     <tu>
@@ -26390,17 +26399,17 @@ current folder will be used instead.</seg>
         <seg>The TMX file will not be loaded
 Please try to correct the error and reload the project.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Die TMX Datei wird nicht geladen 
-Bitte versuchen Sie, den Fehler zu korrigieren, und dann das Projekt nochmal zu laden.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T112532Z">
+        <seg>Die TMX-Datei wird nicht geladen 
+Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Die Ausgangssprache in TMX ({0}) ist anders als die Projektausgangssprache ({1}).</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T114333Z">
+        <seg>Die TMX-Quellsprache ({0}) unterscheidet sich von der Quellsprache des Projekts ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27826,8 +27835,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130603T094814Z">
-        <seg>Das Projekt und die TMX Quellsprache sollten natürlich identisch sein - NL in unserem Beispiel.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T114221Z">
+        <seg>Das Projekt und die TMX-Quellsprache sollten identisch sein - NL in diesem Beispiel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30707,8 +30716,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Translated File Encoding</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Kodierung der übersetzten Datei </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T103324Z">
+        <seg>Kodierung der übersetzten Datei</seg>
       </tuv>
     </tu>
     <tu>
@@ -30723,8 +30732,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Namensschema für die übersetzte Datei </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T103438Z">
+        <seg>Namensmuster für die übersetzte Datei </seg>
       </tuv>
     </tu>
     <tu>
@@ -30747,8 +30756,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Translated documents created</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130604T223047Z">
-        <seg>Übersetzte Dokumente erstellt</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T122841Z">
+        <seg>Übersetzte Dokumente wurden erstellt</seg>
       </tuv>
     </tu>
     <tu>
@@ -30884,16 +30893,16 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Übersetzungseinheit (TU) vor TMX-Kopfzeile angetroffen. </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T112930Z">
+        <seg>Die Übersetzungseinheit (TU) befindet sich vor dem TMX-Header. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Translation unit variant encountered outside translation unit.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Übersetzungseinheitsvariante außerhalb TU angetroffen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T112924Z">
+        <seg>Die Variante der Übersetzungseinheit befindet sich außerhalb der TU.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31278,8 +31287,8 @@ configuration folder cannot be reliably determined.</seg>
 {0}
 on line {1}, column {2}.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Nichtbehebbarer Fehler während des Parsingprozesses der TMX-Datei  {0}auf der Zeile {1}, Spalte {2}.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T112303Z">
+        <seg>Nicht behebbarer Fehler während des Parsingprozesses der TMX-Datei {0} in Zeile {1}, Spalte {2}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31366,16 +31375,16 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Upgrading translation memories</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Aufrüstung von TMs</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T114904Z">
+        <seg>Aktualisierung von TMs</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Aufrüsten...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T114817Z">
+        <seg>Aktualisieren...</seg>
       </tuv>
     </tu>
     <tu>
@@ -31926,16 +31935,16 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Variant skipped.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Variante übersprungen </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T112943Z">
+        <seg>Variante übersprungen. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Variants in the following languages will be displayed: {0}</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Die Varianten in folgenden Sprachen werden angezeigt: {0}</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T111438Z">
+        <seg>Die Varianten werden in den folgenden Sprachen angezeigt: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31968,14 +31977,6 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T085046Z">
         <seg>Versionskontrolle - Einleitung</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Version: {0}</seg>
-      </tuv>
-      <tuv lang="DE">
-        <seg>Version: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32134,8 +32135,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Warnung in der Zeile {0}, Spalte {1} während des Parsingprozesses:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T111803Z">
+        <seg>Warnung in Zeile {0}, Spalte {1} während des Parsingprozesses:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36251,8 +36252,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>for instance from &lt;f0&gt;.txt&lt;/f0&gt; to &lt;f1&gt;.jp&lt;/f1&gt; for Japanese plain texts: in the &lt;e2&gt;Text files&lt;/e2&gt; section of the file filters dialog, add new &lt;e3&gt;Source Filename Pattern&lt;/e3&gt; (&lt;f4&gt;*.jp&lt;/f4&gt; for this example) and select the appropriate parameters for the source and target encoding</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130527T135252Z">
-        <seg>zum Beispiel von &lt;f0&gt;.txt&lt;/f0&gt; nach &lt;f1&gt;.jp&lt;/f1&gt; für rein japanische Texte: in dem Absatz &lt;e2&gt;Textdateien&lt;/e2&gt; des Dialogs zu den Dateifiltern, fügen Sie ein neues &lt;e3&gt;Muster für Name der Quelldatei&lt;/e3&gt; (&lt;f4&gt;*.jp&lt;/f4&gt; in diesem Beispiel) und wählen Sie die entsprechenden Parameter für die Kodierung der Quelle und des Zieles</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130621T102506Z">
+        <seg>zum Beispiel von &lt;f0&gt;.txt&lt;/f0&gt; nach &lt;f1&gt;.jp&lt;/f1&gt; für rein japanische Texte: in dem Absatz &lt;e2&gt;Textdateien&lt;/e2&gt; des Dialogs zu den Dateifiltern, fügen Sie ein neues &lt;e3&gt;Quelldateinamenmuster&lt;/e3&gt; (&lt;f4&gt;*.jp&lt;/f4&gt; in diesem Beispiel) und wählen Sie die entsprechenden Parameter für die Kodierung der Quelle und des Zieles</seg>
       </tuv>
     </tu>
     <tu>
