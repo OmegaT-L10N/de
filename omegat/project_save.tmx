@@ -9733,8 +9733,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T120218Z">
-        <seg>Die ausgewählten Dateien werden in das &lt;f0&gt;/source&lt;/f0&gt; Verzeichnis kopiert, das Projekt wird danach erneut gestartet, um die neuen Dateien zu laden.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T153817Z">
+        <seg>Die ausgewählten Dateien werden in den Ordner &lt;f0&gt;/source&lt;/f0&gt; kopiert, das Projekt wird danach erneut gestartet, um die neuen Dateien zu laden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10117,8 +10117,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Creates the translated documents in the project's Target folder and creates translation memory files (level1, level2 and omegat tmx files) in the project's root folder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T143719Z">
-        <seg>Erzeugt die übersetzten Dokumente im Ordner Target des Projekts und erzeugt Dateien der translation memory (level1, level2 und omegat tmx Dateien) im Stammverzeichnis des Projekts.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T153855Z">
+        <seg>Erzeugt die übersetzten Dokumente im Zielordner des Projekts und erzeugt Dateien der translation memory (level1, level2 und omegat tmx Dateien) im Stammordner des Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15241,8 +15241,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130606T053124Z">
-        <seg>Wenn Sie &lt;a0&gt;OmegaT&lt;/a0&gt; nicht normal ausführen können (keine grafische Umgebung zur Verfügung steht): kopieren Sie die Einstellungen von einer anderen &lt;a1&gt;OmegaT&lt;/a1&gt; Installation auf einer anderen Maschine in ein spezifisches Verzeichnis.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T153919Z">
+        <seg>Wenn Sie &lt;a0&gt;OmegaT&lt;/a0&gt; nicht normal ausführen können (keine grafische Umgebung zur Verfügung steht): kopieren Sie die Einstellungen von einer anderen &lt;a1&gt;OmegaT&lt;/a1&gt; Installation auf einer anderen Maschine in einen spezifischen Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26767,8 +26767,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The created target documents are located in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130526T120611Z">
-        <seg> Die übersetzten Dokumente befinden sich im Verzeichnis &lt;f0&gt;/target&lt;/f0&gt;.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T153826Z">
+        <seg> Die übersetzten Dokumente befinden sich im Ordner &lt;f0&gt;/target&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
