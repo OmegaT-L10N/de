@@ -4471,8 +4471,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat is a folder, the dot preceding its name makes it invisible unless you type ls -a or an equivalent command)</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130606T045233Z">
-        <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat ist ein Verzeichnis, der Punkt am Anfang macht es unsichtbar, außer wenn Sie &lt;c1&gt;ls -a&lt;/c1&gt; oder einen entsprechenden Befehl eingeben.)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152940Z">
+        <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat ist ein Ordner, der Punkt am Anfang macht ihn unsichtbar, außer wenn Sie &lt;c1&gt;ls -a&lt;/c1&gt; oder einen entsprechenden Befehl eingeben.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16866,8 +16866,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>It is provided as a compressed file (zip or tar archive) that you must extract to the folder of your choice for installation.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130515T154406Z">
-        <seg>Es kommt als eine komprimierte Datei (zip oder tar Archiv), die Sie, um sie zu installieren, in ein Verzeichnis Ihrer Wahl extrahieren müssen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152957Z">
+        <seg>Es kommt als eine komprimierte Datei (zip oder tar Archiv), die Sie, um sie zu installieren, in einen Ordner Ihrer Wahl extrahieren müssen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17917,14 +17917,6 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T081831Z">
         <seg>Luxemburgisch, Letzeburgesch</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>MAC OS X</seg>
-      </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130513T135942Z">
-        <seg>MAC OS X</seg>
       </tuv>
     </tu>
     <tu>
