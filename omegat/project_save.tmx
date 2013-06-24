@@ -3679,8 +3679,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout folder and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130607T094340Z">
-        <seg>&lt;e0&gt;commit die lokalen Änderungen zum Server: &lt;/e0&gt;klicken Sie recht auf das lokale checkout Verzeichnis und wählen Sie &lt;g1&gt;SVN Commit....&lt;/g1&gt; Das Commit Fenster - siehe unten öffnet sich.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152313Z">
+        <seg>&lt;e0&gt;commit die lokalen Änderungen zum Server: &lt;/e0&gt;machen Sie einen Rechtsklick auf den lokale Checkout-Ordner und wählen Sie &lt;g1&gt;SVN Commit....&lt;/g1&gt; Das Commit Fenster - siehe unten öffnet sich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9243,16 +9243,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check the changes to be made - i.e. the folders and files added in this case.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130509T121918Z">
-        <seg>Überprüfen Sie die Änderungen, die gemacht werden sollen - d.h. die Verzeichnisse und Dateien, die in diesem Fall hinzugefügt wurden.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152326Z">
+        <seg>Überprüfen Sie die Änderungen, die gemacht werden sollen - d.h. die Ordner und Dateien, die in diesem Fall hinzugefügt wurden.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130509T123454Z">
-        <seg>Überprüfen Sie die Inhalte des Verzeichnisses, um sicherzustellen, dass die lokale Kopie der Ablage und die entsprechenden Dateien und Ordner mit der neuesten Server Version übereinstimmen:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152404Z">
+        <seg>Überprüfen Sie die Inhalte des Ordners, um sicherzustellen, dass die lokale Kopie der Ablage und die entsprechenden Dateien und Ordner mit der neuesten Server Version übereinstimmen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29802,8 +29802,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>This will actually do a checkout of the project in a local folder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130509T123810Z">
-        <seg>Das wird in Wirklichkeit ein checkout des Projektes in einem lokalen Verzeichnis machen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152451Z">
+        <seg>Damit wird ein Checkout des Projektes in einem lokalen Ordner ausgeführt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30506,8 +30506,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To update the local files, right-click on the checkout folder and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130606T045026Z">
-        <seg>Um die lokalen Dateien zu aktualisieren, klicken Sie rechts auf das checkout Verzeichnis und wählen &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152352Z">
+        <seg>Um die lokalen Dateien zu aktualisieren, klicken Sie rechts auf den Checkout-Ordner und wählen Sie &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32237,8 +32237,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130513T074137Z">
-        <seg>Wenn OmegaT auf eine Datei in seinem Quellverzeichnis stößt, versucht es, den Filter mit Hilfe der Dateiendung zu bestimmen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152504Z">
+        <seg>Wenn OmegaT auf eine Datei in seinem Quellordner stößt, versucht es, den Filter mit Hilfe der Dateiendung zu bestimmen.</seg>
       </tuv>
     </tu>
     <tu>
