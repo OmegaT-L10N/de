@@ -4455,8 +4455,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130513T135438Z">
-        <seg>&lt;s0&gt;&lt;Irgendwas&gt;\OmegaT&lt;/s0&gt; (&lt;Irgendwas&gt; entspricht dem  "home" Verzeichnis, wie es von Java bestimmt wird.)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152916Z">
+        <seg>&lt;s0&gt;&lt;Irgendwas&gt;\OmegaT&lt;/s0&gt; (&lt;Irgendwas&gt; entspricht dem Ordner "home", wie es von Java bestimmt wird.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12695,8 +12695,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130606T045215Z">
-        <seg>Dateien im Verzeichnis &lt;f7&gt;source&lt;/f7&gt; werden dann hier erzeugt, ob übersetzt oder nicht, mit der gleichen Hierarchie wie im Unterordner source.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152855Z">
+        <seg>Dateien im Ordner &lt;f7&gt;source&lt;/f7&gt; werden dann hier erzeugt, ob übersetzt oder nicht, mit der gleichen Hierarchie wie im Unterordner source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14921,8 +14921,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130513T094757Z">
-        <seg>Sind die zu übersetzenden Dateien Teil einer Baumstruktur (wie in einer Webseite), braucht man nur das Hauptverzeichnis anzugeben und OmegaT wird den gesamten Inhalt beibehalten und dabei die Baumstruktur beibehalten.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152845Z">
+        <seg>Sind die zu übersetzenden Dateien Teil einer Baumstruktur (wie in einer Webseite), braucht man nur den Hauptordner anzugeben und OmegaT wird den gesamten Inhalt beibehalten sowie die Baumstruktur beibehalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16113,8 +16113,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130513T090828Z">
-        <seg>Im folgenden Beispiel enthält das Verzeichnis &lt;f0&gt;my projects&lt;/f0&gt; drei OmegaT Projekte:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152729Z">
+        <seg>Im folgenden Beispiel enthält der Ordner &lt;f0&gt;my projects&lt;/f0&gt; drei OmegaT-Projekte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17765,14 +17765,6 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T162058Z">
         <seg>Linux und OS X Nutzer mögen diese Datei sinnvoll finden.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Linux/Solaris/FreeBSD</seg>
-      </tuv>
-      <tuv lang="DE">
-        <seg>Linux/Solaris/FreeBSD</seg>
       </tuv>
     </tu>
     <tu>
@@ -19579,8 +19571,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130513T094623Z">
-        <seg>Bedenken Sie, dass die Struktur des Quellverzeichnisses jede von Ihnen gewünschte Form annehmen kann.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T152753Z">
+        <seg>Bedenken Sie, dass die Struktur des Quellordners jede von Ihnen gewünschte Form annehmen kann.</seg>
       </tuv>
     </tu>
     <tu>
