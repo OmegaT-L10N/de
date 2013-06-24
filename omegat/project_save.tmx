@@ -14745,8 +14745,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130624T154501Z">
-        <seg>Wenn nichts angegeben ist, wird OmegaT die vorgegebenen Werte benutzen (OmegaT dir im Stammordner des Benutzers, oder wenn nicht verfügbar: im momentan verwendeten Verzeichnis).</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T155101Z">
+        <seg>Sofern nichts anderes bestimmt ist, nimmt OmegaT wieder die Standardwerte an (der OmegaT-Ordner im Stammordner des Benutzers, oder wenn nicht verfügbar: der aktuell verwendete Ordner).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19988,8 +19988,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130527T084204Z">
-        <seg>OmegaT erstellt zugleich Sicherheitskopien von project_save.tmx.YEARMMDDHHNN.bak im gleichen Unterverzeichnis jedes Mal, wenn ein Projekt geöffnet oder neu geladen wird.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T155139Z">
+        <seg>OmegaT erstellt zugleich Sicherheitskopien von project_save.tmx.YEARMMDDHHNN.bak im gleichen Unterordner jedes Mal, wenn ein Projekt geöffnet oder neu geladen wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25707,8 +25707,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130527T084919Z">
-        <seg>Seien Sie besonders vorsichtig, wenn Sie mitten im Projekt an den Dateien im Verzeichnis &lt;l0&gt;/source&lt;/l0&gt; Änderungen vornehmen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T155151Z">
+        <seg>Seien Sie besonders vorsichtig, wenn Sie mitten im Projekt an den Dateien im Ordner &lt;l0&gt;/source&lt;/l0&gt; Änderungen vornehmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32485,8 +32485,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130527T084129Z">
-        <seg>Wenn Sie Ihre Dateien übersetzen, speichert &lt;a2&gt;OmegaT&lt;/a2&gt; Ihren Fortschritt in der Translation Memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; im &lt;l4&gt;/omegat&lt;/l4&gt; Unterverzeichnis Ihres Projekts.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T155125Z">
+        <seg>Wenn Sie Ihre Dateien übersetzen, speichert &lt;a2&gt;OmegaT&lt;/a2&gt; Ihren Fortschritt in der Translation Memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; im &lt;l4&gt;/omegat&lt;/l4&gt;-Unterordner Ihres Projekts.</seg>
       </tuv>
     </tu>
     <tu>
