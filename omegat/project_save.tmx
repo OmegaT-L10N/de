@@ -15289,8 +15289,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130606T050418Z">
-        <seg>Wenn Sie &lt;a0&gt;OmegaT&lt;/a0&gt; nicht normal ausführen können (keine grafische Umgebung zur Verfügung steht): kopieren Sie die Einstellungen von einer anderen &lt;a1&gt;OmegaT&lt;/a1&gt; Installation auf einer anderen Maschine in ein spezifisches Verzeichnis.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T153546Z">
+        <seg>Wenn Sie &lt;a0&gt;OmegaT&lt;/a0&gt; nicht normal ausführen können (keine grafische Umgebung zur Verfügung steht): kopieren Sie die Einstellungen von einer anderen &lt;a1&gt;OmegaT&lt;/a1&gt; Installation auf einer anderen Maschine in einen spezifischen Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20790,8 +20790,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Only the file test.html at the root of the source folder will be translated.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130606T050457Z">
-        <seg>Nur die Datei test.html im Stamm des Quellverzeichnisses wird übersetzt.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T153705Z">
+        <seg>Nur die Datei test.html im Stamm des Quellordners wird übersetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20806,8 +20806,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Only the file test.html in the folder dir-10 will be processed.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130606T050514Z">
-        <seg>Nur die Datei test.html im Verzeichnis dir-10 wird verarbeitet.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T153716Z">
+        <seg>Nur die Datei test.html im Ordner dir-10 wird verarbeitet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27937,8 +27937,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The relevant files are &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; and can be found in the user home folder (e.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130606T050428Z">
-        <seg>Die relevanten Dateien sind &lt;l2&gt;filters.conf&lt;/l2&gt; und &lt;l3&gt;segmentation.conf&lt;/l3&gt; und können im home Verzeichnis des Nutzers gefunden werden (z.B. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; unter Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; unter Linux)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T153649Z">
+        <seg>Die relevanten Dateien sind &lt;l2&gt;filters.conf&lt;/l2&gt; und &lt;l3&gt;segmentation.conf&lt;/l3&gt; und können im Ordner Home des Benutzers gefunden werden (z.B. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; unter Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; unter Linux)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32517,8 +32517,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130606T051156Z">
-        <seg>Wann immer Sie sehen wollen, wie Ihre Übersetzung im endgültigen Format aussieht, drücken Sie &lt;k2&gt;Strg+D&lt;/k2&gt;, um das übersetzte Dokument zu erzeugen, was im Unterverzeichnis /target/ Ihres Projekt erstellt wird.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T153737Z">
+        <seg>Wann immer Sie sehen wollen, wie Ihre Übersetzung im endgültigen Format aussieht, drücken Sie &lt;k2&gt;Strg+D&lt;/k2&gt;, um das übersetzte Dokument zu erzeugen, was im Unterordner /target/ Ihres Projekt erstellt wird.</seg>
       </tuv>
     </tu>
     <tu>
