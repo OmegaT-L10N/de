@@ -3743,8 +3743,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;several projects on the same subject: &lt;/e0&gt;keep the project structure, and change source and target folders (Source = source/order1, target = target/order1 etc).</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130606T053319Z">
-        <seg>&lt;e0&gt;mehrere Projekte zum gleichen Thema: &lt;/e0&gt;behalten Sie die Struktur des Projektes bei und wechseln Sie die Quell- und Zielverzeichnisse (Quelle = source/order1, Ziel = target/order1 usw).</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T155219Z">
+        <seg>&lt;e0&gt;mehrere Projekte zum gleichen Thema: &lt;/e0&gt;behalten Sie die Struktur des Projektes bei und wechseln Sie die Quell- und Zielordner (Quelle = source/order1, Ziel = target/order1 usw).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28305,8 +28305,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130530T163340Z">
-        <seg>Die Rechtschreibprüfung legt die zu nutzende Sprache anhand des Sprachcodes der Zielsprache fest: wenn die Zielsprache brasilianisches Portugiesisch (PT_BR) ist, müssen die Unterverzeichnisse der Wörterbücher die zwei Dateien mit dem Namen &lt;e0&gt;pt_br.aff&lt;e0/&gt; und &lt;e1&gt;pt_br.dic&lt;e1/&gt; enthalten.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T155208Z">
+        <seg>Die Rechtschreibprüfung legt die zu nutzende Sprache anhand des Sprachcodes der Zielsprache fest: wenn die Zielsprache brasilianisches Portugiesisch (PT_BR) ist, müssen die Unterordner der Wörterbücher die zwei Dateien mit dem Namen &lt;e0&gt;pt_br.aff&lt;e0/&gt; und &lt;e1&gt;pt_br.dic&lt;e1/&gt; enthalten.</seg>
       </tuv>
     </tu>
     <tu>
