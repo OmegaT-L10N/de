@@ -14745,8 +14745,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130606T053146Z">
-        <seg>Wenn nichts angegeben ist, wird OmegaT die vorgegebenen Werte benutzen (OmegaT dir im Nutzerverzeichnis, oder wenn nicht verfügbar: im momentan verwendeten Verzeichnis).</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T154501Z">
+        <seg>Wenn nichts angegeben ist, wird OmegaT die vorgegebenen Werte benutzen (OmegaT dir im Stammordner des Benutzers, oder wenn nicht verfügbar: im momentan verwendeten Verzeichnis).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27921,8 +27921,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The relevant files &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; can be found in the user home folder (E.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130624T153950Z">
-        <seg>Die relevanten Dateien sind &lt;l2&gt;filters.conf&lt;/l2&gt; und &lt;l3&gt;segmentation.conf&lt;/l3&gt; und können im Ordner Home des Benutzers gefunden werden (z.B. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; unter Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; unter Linux)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T154538Z">
+        <seg>Die relevanten Dateien sind &lt;l2&gt;filters.conf&lt;/l2&gt; und &lt;l3&gt;segmentation.conf&lt;/l3&gt; und können im Stammordner des Benutzers gefunden werden (z.B. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; unter Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; unter Linux)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27937,8 +27937,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The relevant files are &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; and can be found in the user home folder (e.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130624T153649Z">
-        <seg>Die relevanten Dateien sind &lt;l2&gt;filters.conf&lt;/l2&gt; und &lt;l3&gt;segmentation.conf&lt;/l3&gt; und können im Ordner Home des Benutzers gefunden werden (z.B. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; unter Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; unter Linux)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T154519Z">
+        <seg>Die relevanten Dateien sind &lt;l2&gt;filters.conf&lt;/l2&gt; und &lt;l3&gt;segmentation.conf&lt;/l3&gt; und können im Stammordner des Benutzers gefunden werden (z.B. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; unter Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; unter Linux)</seg>
       </tuv>
     </tu>
     <tu>
