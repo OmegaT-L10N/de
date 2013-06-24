@@ -738,8 +738,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T070600Z">
-        <seg>&amp;Definiere Dateifilterregeln projektspezifisch</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T140400Z">
+        <seg>&amp;Dateifilterregeln projektspezifisch definieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -14087,8 +14087,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130621T102712Z">
-        <seg>Hier können Sie die Quelldateinamenmuster für die vom Filter zu bearbeitenden Dateien einstellen, die Dateinamen von übersetzten Dateien anpassen und die Kodierungen für die Quell- und Zieldateien bestimmen. </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T140252Z">
+        <seg>Hier können Sie die Quelldateinamenmuster für die vom Filter zu bearbeitenden Dateien einstellen, den Dateinamen übersetzter Dateien festlegen und die Kodierungen für die Quell- und Zieldateien bestimmen. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19699,8 +19699,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Anmerkung: Sie können nicht bei allen Filtern eine Kodierung wählen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T140323Z">
+        <seg>Anmerkung: Es kann nicht bei allen Filtern eine Kodierung gewählt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21931,8 +21931,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Project Specific File Filters</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T070516Z">
-        <seg>Projekt spezifische Dateifilter</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T140335Z">
+        <seg>Projektspezifische Dateifilter</seg>
       </tuv>
     </tu>
     <tu>
