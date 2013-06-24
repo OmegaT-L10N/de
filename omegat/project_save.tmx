@@ -8899,8 +8899,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130602T201853Z">
-        <seg>Als Standard ist der \tm Ordner unterhalb des Projekthauptverzeichnisses (z.B. &lt;e0&gt;\MyProject\tm)&lt;/e0&gt;, Sie können aber im Dialog Projekt Eigenschaften eine andere Stelle festlegen, wenn Sie möchten.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T155535Z">
+        <seg>Als Standard ist der \tm Ordner unterhalb des Hauptordners des Projekts (z.B. &lt;e0&gt;\MyProject\tm)&lt;/e0&gt;, Sie können aber im Dialog Projekt Eigenschaften eine andere Stelle festlegen, wenn Sie möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10037,8 +10037,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Legen Sie ein Verzeichnis ("repository") an einer Stelle auf der Festplatte an, wo sich die TMs für ein Thema oder für einen Kunden sammeln lassen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T155546Z">
+        <seg>Legen Sie einen Ordner ("repository") an einer Stelle auf der Festplatte an, wo sich die TMs für ein Thema oder für einen Kunden sammeln lassen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16209,8 +16209,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130602T201747Z">
-        <seg>In dem Fall müssen Sie die TM, die Sie benutzen wollen, in das &lt;e0&gt;/tm&lt;/e0&gt; oder &lt;e1&gt;/tm&lt;/e1&gt;/auto Unterverzeichnis platzieren: im ersten Fall erhalten Sie Treffer in der Ansicht der unscharfen Treffer und im zweiten Fall werden diese TMs benutzt, um Ihren Quelltext vorzuübersetzen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T155502Z">
+        <seg>In dem Fall müssen Sie die TM, die Sie verwenden wollen, in den Unterordner &lt;e0&gt;/tm&lt;/e0&gt; oder &lt;e1&gt;/tm&lt;/e1&gt;/auto ablegen: im ersten Fall erhalten Sie Treffer in der Ansicht der unscharfen Treffer und im zweiten Fall werden diese TMs benutzt, um Ihren Quelltext vorzuübersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32429,8 +32429,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130602T201157Z">
-        <seg>Wenn man Zieldokumente in einem &lt;a0&gt;OmegaT&lt;/a0&gt; Projekt erzeugt, wird die TM des Projektes in der Form von drei Dateien im Projekthauptverzeichnis Ihres &lt;a1&gt;OmegaT&lt;/a1&gt; Projekts gespeichert (siehe die Beschreibung oben).</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T155409Z">
+        <seg>Wenn Sie Zieldokumente in einem &lt;a0&gt;OmegaT&lt;/a0&gt;-Projekt erzeugen, wird die TM des Projekts in der Form von drei Dateien im Hauptordner Ihres &lt;a1&gt;OmegaT&lt;/a1&gt;-Projekts gespeichert (siehe die Beschreibung oben).</seg>
       </tuv>
     </tu>
     <tu>
