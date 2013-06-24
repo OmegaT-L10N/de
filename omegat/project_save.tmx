@@ -232,14 +232,6 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>${creationID}</seg>
-      </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130611T101325Z">
-        <seg>${creationID}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>${diff}</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T100706Z">
@@ -8971,8 +8963,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Zielverzeichnis kann nicht erstellt werden:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T161357Z">
+        <seg>Zielordner kann nicht erstellt werden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13647,8 +13639,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary Folder:</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130624T144928Z">
-        <seg>Glossar-Verzeichnis:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T161525Z">
+        <seg>Glossarordner:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21382,8 +21374,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Path of the TMX starting from the root of /tm</seg>
       </tuv>
-      <tuv lang="DE" changeid="helmut" changedate="20130611T101324Z">
-        <seg>Pfad der TMX beginnend mit dem Verzeichnis /tm</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T161347Z">
+        <seg>Pfad der TMX beginnend mit dem Ordner /tm</seg>
       </tuv>
     </tu>
     <tu>
@@ -22787,8 +22779,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working folder (the folder you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130624T161323Z">
-        <seg>Ersetzen Sie &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; mit dem Namen der Datei, die Sie erzeugen möchten, entweder absolut oder relativ zum Arbeitsordner (das Verzeichnis, aus dem Sie &lt;a1&gt;OmegaT&lt;/a1&gt; starten).</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T161337Z">
+        <seg>Ersetzen Sie &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; mit dem Namen der Datei, die Sie erzeugen möchten, entweder absolut oder relativ zum Arbeitsordner (der Ordner, aus dem Sie &lt;a1&gt;OmegaT&lt;/a1&gt; starten).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24787,8 +24779,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Verzeichnis mit Quelldateien:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T161504Z">
+        <seg>Quelldateiordner:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30738,8 +30730,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder:</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130624T144909Z">
-        <seg>Verzeichnis mit Zieldateien:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T161515Z">
+        <seg>Zieldateiordner:</seg>
       </tuv>
     </tu>
     <tu>
