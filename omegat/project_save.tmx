@@ -442,8 +442,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Choose...</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>&amp;Wählen...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T163355Z">
+        <seg>&amp;Wählen Sie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10709,8 +10709,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Dictionary File Folder</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T140840Z">
-        <seg>Verzeichnis für Wörterbücher:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T163340Z">
+        <seg>Ordner Wörterbuchdateien</seg>
       </tuv>
     </tu>
     <tu>
@@ -10741,8 +10741,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Dictionary file folder:</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Verzeichnis für Wörterbücher:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T163333Z">
+        <seg>Ordner Wörterbuchdateien</seg>
       </tuv>
     </tu>
     <tu>
@@ -16955,8 +16955,8 @@ their defaults as a result of the location change.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Es war unmöglich, im Konfigurationsverzeichnis ein Skriptverzeichnis anzulegen. </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T163234Z">
+        <seg>Es konnte im Konfigurationsordner kein Skriptordner angelegt werden. </seg>
       </tuv>
     </tu>
     <tu>
@@ -26647,8 +26647,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Stattdessen wird das Konfigurationsverzeichnis benutzt.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130624T163256Z">
+        <seg>Stattdessen wird der Konfigurationsordner verwendet.</seg>
       </tuv>
     </tu>
     <tu>
