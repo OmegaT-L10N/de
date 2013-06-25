@@ -13855,8 +13855,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>HHC Datei zu groß!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T133341Z">
+        <seg>Die HHC-Datei ist zu groß!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13865,6 +13865,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154407Z">
         <seg>HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T133325Z">
+        <seg>HTML-Hilfe-Compiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -19651,8 +19659,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130621T103230Z">
-        <seg>Anmerkung: Die Einstellung Kodierung der Quelldatei betrifft nur die HHC und HHK Dateien, die keine Kodierungdefinition beinhalten.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T133414Z">
+        <seg>Anmerkung: Die Einstellung Kodierung der Quelldatei betrifft nur die HHC- und HHK-Dateien, die keine Kodierungdeklaration beinhalten.</seg>
       </tuv>
     </tu>
     <tu>
