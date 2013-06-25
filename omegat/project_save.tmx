@@ -16418,8 +16418,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Den &amp;besten unscharfen Treffer einfügen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T144948Z">
+        <seg>Den &amp;besten Fuzzy-Match einfügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -33804,6 +33804,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>[abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T144950Z">
+        <seg>[fuzzy]</seg>
       </tuv>
     </tu>
     <tu>
