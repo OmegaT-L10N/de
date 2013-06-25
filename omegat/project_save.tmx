@@ -346,8 +346,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Die Übersetzung &amp;kann mit der Quelle identisch sein</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T144625Z">
+        <seg>Die Übersetzung &amp;darf mit dem Quellsegment übereinstimmen</seg>
       </tuv>
     </tu>
     <tu>
@@ -12261,8 +12261,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Export the segment to text files</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Exportiere das Segment in Textdateien</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T144701Z">
+        <seg>Das Segment in Textdateien exportieren</seg>
       </tuv>
     </tu>
     <tu>
