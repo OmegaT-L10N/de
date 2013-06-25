@@ -1252,8 +1252,8 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche Dateien 
       <tuv lang="EN">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>(X)HTML Filteroptionen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T113921Z">
+        <seg>(X)HTML-Filteroptionen</seg>
       </tuv>
     </tu>
     <tu>
@@ -7271,8 +7271,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Kodierungsdeklaration in HTML und XHTML Dateien zufügen oder ändern:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T113936Z">
+        <seg>Kodierungsdeklaration in HTML- und XHTML-Dateien hinzufügen oder verändern:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14431,8 +14431,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Hat die HTML-Datei eine Kodierungsdeklaration, dann wird er benutzt und Werte in diesem Dialog werden ignoriert. </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T113917Z">
+        <seg>Enthält die HTML-Datei eine Kodierungsdeklaration, wird sie ohne Berücksichtigung der angegebenen Werte in diesem Dialogfenster verwendet. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20750,8 +20750,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Nur wenn die (X)HTML Datei einen &amp;header hat</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T114007Z">
+        <seg>Nur bei vorhandenem &amp;Header in der (X)HTML-Datei. </seg>
       </tuv>
     </tu>
     <tu>
