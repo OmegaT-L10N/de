@@ -29850,8 +29850,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Zum Beispiel sollten Regel für kanadisches Französisch (FR-CA) höher sein als Regel für Französisch (\FR. \ *), und höher als Grundeinstellung (.*). </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130625T141310Z">
+        <seg>So sollte z. B. die Regel für kanadisches Französisch (FR-CA) über der Regel für Französisch (FR.*) und der Standardeinstellung stehen (.*). </seg>
       </tuv>
     </tu>
     <tu>
