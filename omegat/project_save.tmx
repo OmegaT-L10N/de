@@ -471,6 +471,7 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <note>überprüfen</note>
       <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
@@ -10797,8 +10798,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T141331Z">
-        <seg>Zeige &amp;Nichts</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T152757Z">
+        <seg>&amp;Keine anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -10837,16 +10838,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T141412Z">
-        <seg>Anzeige aller &amp;Segmente</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T152714Z">
+        <seg>&amp;Alle Segmente anzeigen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T141352Z">
-        <seg>Anzeige des aktuellen &amp;Segments</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T152653Z">
+        <seg>Aktuelles &amp;Segment anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -18244,8 +18245,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T141447Z">
-        <seg>Markiere &amp;nicht umbrechbare Felder</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T152734Z">
+        <seg>&amp;nicht umbrechbare Felder</seg>
       </tuv>
     </tu>
     <tu>
