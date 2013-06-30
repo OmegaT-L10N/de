@@ -386,8 +386,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>&amp;Automatisch die Rechtschreibung prüfen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T151045Z">
+        <seg>Rechtschreibung &amp;automatisch prüfen</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,8 +674,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T140857Z">
-        <seg>&amp;Installiere neues Wörterbuch...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T151159Z">
+        <seg>Neues Wörterbuch &amp;installieren...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7247,8 +7247,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add To Dictionary</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Dem Wörterbuch hinzufügen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T150957Z">
+        <seg>Zum Wörterbuch hinzufügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -15689,8 +15689,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Alles ignorieren</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T150951Z">
+        <seg>Alle ignorieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -19164,8 +19164,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>No need to save project, because no changes were made</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Projekt speichern nicht nötig, da keine Änderungen gemacht wurden</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T150837Z">
+        <seg>Speichern des Projekts ist nicht notwendig, da keine Änderungen vorgenommen wurden</seg>
       </tuv>
     </tu>
     <tu>
@@ -21587,8 +21587,8 @@ to determine the source of the error and try again.</seg>
       <tuv lang="EN">
         <seg>Please select a dictionary file folder first</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130624T163443Z">
-        <seg>Wählen Sie bitte zuerst einen Ordner Wörterbücherdateien aus</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T151446Z">
+        <seg>Wählen Sie zuerst einen Ordner Wörterbücherdateien aus</seg>
       </tuv>
     </tu>
     <tu>
@@ -21932,16 +21932,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Project compiling end</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Projekt zusammenstellen - Ende</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T150922Z">
+        <seg>Projekt kompilieren - Ende</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Project compiling start</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Projekt zusammenstellen - Start</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T150917Z">
+        <seg>Projekt kompilieren - Start</seg>
       </tuv>
     </tu>
     <tu>
@@ -24996,8 +24996,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Spellchecker Setup</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Rechtschreibprüfung - Setup</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T151009Z">
+        <seg>Rechtschreibprüfung - Einstellungen</seg>
       </tuv>
     </tu>
     <tu>
@@ -29131,16 +29131,16 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Dieser Aufruf DARF NICHT in swing thread erfolgen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T150725Z">
+        <seg>Dieser Aufruf DARF NICHT im Swing-Thread erfolgen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This call MUST be in swing thread</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Dieser Aufruf MUSS in swing thread erfolgen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T150715Z">
+        <seg>Dieser Aufruf MUSS im Swing-Thread erfolgen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30988,8 +30988,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>URL of online dictionaries:</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T140913Z">
-        <seg>URL des Online Wörterbuchs:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T151222Z">
+        <seg>URL des Online-Wörterbuchs:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31068,8 +31068,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Unable to uninstall the selected dictionary</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Kann das gewählte Wörterbuch nicht deinstallieren</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T151404Z">
+        <seg>Das gewählte Wörterbuch kann nicht deinstalliert werden</seg>
       </tuv>
     </tu>
     <tu>
@@ -31132,8 +31132,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Uninstalling failed</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Deinstallatioin fehlgeschlagen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T151413Z">
+        <seg>Deinstallation fehlgeschlagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -33006,8 +33006,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Sie deinstallieren das Wörterbuch, das im aktuellen Projekt die Rechtschreibung prüft.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130630T151335Z">
+        <seg>Sie deinstallieren das Wörterbuch, mit dem im aktuellen Projekt die Rechtschreibung geprüft wird.</seg>
       </tuv>
     </tu>
     <tu>
