@@ -11775,8 +11775,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Ende des Datenstroms erreicht - kein Abschlussblock gefunden!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T173958Z">
+        <seg>Das Ende des Datenstroms wurde erreicht - kein Endblock gefunden!</seg>
       </tuv>
     </tu>
     <tu>
