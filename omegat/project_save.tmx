@@ -7536,8 +7536,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T145214Z">
-        <seg>Gleiche das Projekt erneut an {0} an</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T142049Z">
+        <seg>Projekt-Alignment gegen {0} durchführen</seg>
       </tuv>
     </tu>
     <tu>
@@ -22021,6 +22021,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T142217Z">
+        <seg>Projekt ist schreibgeschützt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project management</seg>
       </tuv>
       <tuv lang="DE">
@@ -27821,8 +27829,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T145238Z">
-        <seg>Das Projekt kann nicht verifiziert werden</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T142100Z">
+        <seg>Das Projekt kann nicht überprüft werden</seg>
       </tuv>
     </tu>
     <tu>
@@ -28661,8 +28669,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T145431Z">
-        <seg>Die beschreibbare Glossardatei ist nicht im Glossarordner.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T142156Z">
+        <seg>Die beschreibbare Glossardatei befindet sich nicht im Glossarordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30839,8 +30847,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Translation memory folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T145350Z">
-        <seg>Ordner für TM {0} existiert nicht.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T142141Z">
+        <seg>Translation-Memory-Ordner {0} existiert nicht:</seg>
       </tuv>
     </tu>
     <tu>
