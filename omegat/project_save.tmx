@@ -8788,8 +8788,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Both search types support the wildcard characters * and ?.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130605T142748Z">
-        <seg>Beide Sucharten unterstützen die Jokerzeichen * und ?.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T172957Z">
+        <seg>Beide Sucharten unterstützen die Platzhalter * und ?.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12016,8 +12016,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130624T162554Z">
-        <seg>Fehler beim Durchsuchen des Ordnerbaums!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T173152Z">
+        <seg>Fehler beim Durchsuchen der Verzeichnisstruktur!</seg>
       </tuv>
     </tu>
     <tu>
@@ -26117,16 +26117,16 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The '*' character matches zero or more characters (the search term 'run*' would match 'run', 'runs', and 'running', for example).</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130605T142822Z">
-        <seg>Das Zeichen '*' steht für null oder mehr Zeichen (der Suchausdruck 'Druck*' würde z.B. nach 'Druck', 'Drucker', 'Druckerei' suchen). </seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T173035Z">
+        <seg>Das Zeichen '*' steht für null oder mehr Zeichen (der Suchausdruck 'Druck*' würde z.B. nach 'Druck', 'Drucker' und 'Druckerei' suchen). </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The '?' character matches exactly one character ('run?' would match 'runs' and 'rung', for example, but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Das '?' entspricht genau einem Zeichen ('in?' würde z.B. 'ins' und 'int' entsprechen, nicht aber 'in' oder 'innen').</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T173111Z">
+        <seg>Das Zeichen '?' entspricht genau einem Zeichen ('in?' würde z.B. 'ins' und 'int' entsprechen, nicht aber 'in' oder 'innen').</seg>
       </tuv>
     </tu>
     <tu>
