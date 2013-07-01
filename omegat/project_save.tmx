@@ -9020,16 +9020,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cannot locate help file:</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130531T144439Z">
-        <seg>Hilfedatei kann nicht lokalisiert werden:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T162301Z">
+        <seg>Die Hilfedatei kann nicht lokalisiert werden:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Cannot open the link {0}</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130531T144402Z">
-        <seg>Der Link kann nicht geöffnet werden {0}</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T162320Z">
+        <seg>Der folgende Link kann nicht geöffnet werden: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -19858,12 +19858,11 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Vorschlag: Zahl einmaliger Segmente</note>
       <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Zahl einzigartiger Segmente</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T162230Z">
+        <seg>Anzahl einmaliger Segmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -30841,12 +30840,11 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>s. oben</note>
       <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Übersetzte einzigartige Segmente</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T162243Z">
+        <seg>Übersetzte einmalige Segmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -31799,8 +31797,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>User's Manual viewer does not support navigation to external links.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130531T144536Z">
-        <seg>Anzeige für das Benutzerhandbuch unterstützt keine Navigation zu externen Links.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T162345Z">
+        <seg>Die Anzeige des Benutzerhandbuchs unterstützt keine Navigation zu externen Links.</seg>
       </tuv>
     </tu>
     <tu>
