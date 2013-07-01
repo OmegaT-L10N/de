@@ -1277,16 +1277,16 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche Dateien 
       <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>(Abschluss-Tag)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T173756Z">
+        <seg>(Endtag)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>(comment tag)</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>(Kommentar-Tag)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T173716Z">
+        <seg>(Kommentartag)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9655,8 +9655,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Verwirrung durch falschen Start eines Kommentar-Tags!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T173650Z">
+        <seg>Verwirrung durch Fehlstart des Kommentartags!</seg>
       </tuv>
     </tu>
     <tu>
@@ -25604,8 +25604,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Tag-Name:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T173709Z">
+        <seg>Tagname:</seg>
       </tuv>
     </tu>
     <tu>
