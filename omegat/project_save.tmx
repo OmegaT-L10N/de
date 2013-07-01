@@ -12471,8 +12471,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Projektdateien konnten nicht erstellt werden!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T161402Z">
+        <seg>Die Projektdateien konnten nicht erstellt werden!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12487,8 +12487,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Ausgewähltes Projekt konnte nicht geladen werden!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T161354Z">
+        <seg>Das ausgewählte Projekt konnte nicht geladen werden!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17014,8 +17014,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130625T131948Z">
-        <seg>Es war nicht möglich, die Zieldokumente zu erzeugen, da einige Tags fehlen bzw. beschädigt sind.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T161504Z">
+        <seg>Es war nicht möglich, die Zieldokumente zu erstellen, weil einige Tags fehlen bzw. beschädigt sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21622,8 +21622,8 @@ to determine the source of the error and try again.</seg>
       <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130625T132030Z">
-        <seg>Bitte korrigieren Sie die Tags, bevor Sie erneut die Option Zieldokumente erzeugen verwenden.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T161538Z">
+        <seg>Bitte korrigieren Sie die Tagfehler, bevor Sie erneut die Option Zieldokumente erstellen verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31977,8 +31977,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Validating Tags...</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Tags prüfen...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T161437Z">
+        <seg>Überprüfen der Tags...</seg>
       </tuv>
     </tu>
     <tu>
