@@ -12063,16 +12063,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Das als binäre Escape-Zeichen kodierte Binärzeichen beinhaltet falsch formatierte Daten ({0})!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T174108Z">
+        <seg>Das als binäre Escapezeichen kodierte Binärzeichen beinhaltet falsch formatierte Daten ({0})!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Escaped character never terminated!</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Das Escape-Zeichen wurde nicht beendet!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T174030Z">
+        <seg>Das Escapezeichen wurde nicht beendet!</seg>
       </tuv>
     </tu>
     <tu>
