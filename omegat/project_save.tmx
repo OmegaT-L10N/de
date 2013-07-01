@@ -2422,6 +2422,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T152900Z">
+        <seg>&lt;Keine Vorschläge&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;User Home&gt;</seg>
       </tuv>
       <tuv lang="DE">
@@ -2738,6 +2746,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T191450Z">
         <seg>&lt;b0&gt;Diese Formatierung&lt;/b0&gt; wird hierher dupliziert.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T152902Z">
+        <seg>&lt;b&gt;{0}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11887,8 +11903,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T155258Z">
-        <seg>Fehler bei der Korrektur der Tags</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T152834Z">
+        <seg>Es ist ein Fehler bei der Korrektur der Tags aufgetreten</seg>
       </tuv>
     </tu>
     <tu>
@@ -21590,8 +21606,8 @@ to determine the source of the error and try again.</seg>
       <tuv lang="EN">
         <seg>Please redo tag validation.</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T155340Z">
-        <seg>Bitte führen Sie die Tag Prüfung erneut aus.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130701T152851Z">
+        <seg>Bitte führen Sie die Tagprüfung erneut aus.</seg>
       </tuv>
     </tu>
     <tu>
