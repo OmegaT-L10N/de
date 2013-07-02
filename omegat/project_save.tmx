@@ -635,8 +635,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130630T162209Z">
-        <seg>Der Befehl &amp;Gehe zum nächsten nicht übersetzten Segment hält an, wenn es mindestens eine alternative Übersetzung gibt</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T154736Z">
+        <seg>Der Befehl &amp;Gehe zum nächsten nicht übersetzten Segment wird nicht weiter ausgeführt, wenn mindestens eine alternative Übersetzung vorliegt</seg>
       </tuv>
     </tu>
     <tu>
@@ -7688,8 +7688,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow tag editing</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130625T145411Z">
-        <seg>Bearbeitung von Tags erlauben</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T154801Z">
+        <seg>Bearbeitung von Tags zulassen</seg>
       </tuv>
     </tu>
     <tu>
