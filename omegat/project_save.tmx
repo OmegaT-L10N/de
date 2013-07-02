@@ -7922,8 +7922,8 @@ The current setting is {0}MB;</seg>
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130621T111555Z">
-        <seg>Während des Parsingprozesses der TMX-Datei {0} ist ein Ausnahmefehler aufgetreten. Die TMX-Datei wird nicht geladen.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T135720Z">
+        <seg>Während des Parsingprozesses der TMX-Datei {0} ist eine Ausnahme aufgetreten. Die TMX-Datei wird nicht geladen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10127,8 +10127,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Erzeugt von: {0}</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T135525Z">
+        <seg>Erstellt von: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24915,8 +24915,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Quellsprache:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T135551Z">
+        <seg>Quellsprache: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31996,8 +31996,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Variants in the following languages will be displayed: {0}</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130621T111438Z">
-        <seg>Die Varianten werden in den folgenden Sprachen angezeigt: {0}</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T135609Z">
+        <seg>Varianten werden in den folgenden Sprachen angezeigt: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32030,6 +32030,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T085046Z">
         <seg>Versionskontrolle - Einleitung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T135528Z">
+        <seg>Version: {0}</seg>
       </tuv>
     </tu>
     <tu>
