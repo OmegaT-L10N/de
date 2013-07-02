@@ -1171,8 +1171,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>'{0}' menu selected</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T140624Z">
-        <seg>'{0}' Menü ausgewählt</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T171701Z">
+        <seg>Das Menü '{0}' ist ausgewählt</seg>
       </tuv>
     </tu>
     <tu>
@@ -9380,8 +9380,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130630T141856Z">
-        <seg>Auf das '{0}' Menüelement klicken</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T171637Z">
+        <seg>Auf das Menüelement '{0}'  klicken</seg>
       </tuv>
     </tu>
     <tu>
@@ -12175,16 +12175,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Event: new entry activated</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Ereignis: neuer Eintrag aktiviert</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T171726Z">
+        <seg>Ereignis: Neuer Eintrag aktiviert</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Event: new file activated ({0})</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Ereignis: neue Datei aktiviert ({0})</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T171719Z">
+        <seg>Ereignis: Neue Datei aktiviert ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -17243,8 +17243,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Java: {0} ver.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Java: {0} ver.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T171612Z">
+        <seg>Java: {0} Ver.</seg>
       </tuv>
     </tu>
     <tu>
