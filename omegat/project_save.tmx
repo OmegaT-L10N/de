@@ -21763,8 +21763,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Speichern der Voreinstellungen nicht möglich!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T135325Z">
+        <seg>Speichern der Voreinstellungen fehlgeschlagen!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31122,8 +31122,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Unable to read file</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Die Datei kann nicht gelesen werden</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T135431Z">
+        <seg>Datei kann nicht gelesen werden</seg>
       </tuv>
     </tu>
     <tu>
@@ -31372,8 +31372,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Version der Projektdatei ({0}) wird nicht unterstützt!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T135507Z">
+        <seg>Version ({0}) der Projektdatei wird nicht unterstützt!</seg>
       </tuv>
     </tu>
     <tu>
