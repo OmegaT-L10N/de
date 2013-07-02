@@ -12059,7 +12059,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
-      <note>nachprüfen	</note>
       <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
@@ -12071,8 +12070,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Escaped character never terminated!</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130701T174030Z">
-        <seg>Das Escapezeichen wurde nicht beendet!</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T133630Z">
+        <seg>Nicht abgeschlossenes Escapezeichen!</seg>
       </tuv>
     </tu>
     <tu>
