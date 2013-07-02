@@ -12028,12 +12028,11 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
-      <note>s. oben</note>
       <tuv lang="EN">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130702T140959Z">
-        <seg>Error unload plugin from class '{0}': {1}</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T141209Z">
+        <seg>Fehler beim Entladen des Plug-Ins aus Klasse '{0}': {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31116,8 +31115,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130621T100228Z">
-        <seg>Die Filterkonfigurationsdatei kann nicht geparst werden</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T141315Z">
+        <seg>Die Filterkonfigurationsdatei kann nicht analysiert werden</seg>
       </tuv>
     </tu>
     <tu>
