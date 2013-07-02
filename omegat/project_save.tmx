@@ -11149,6 +11149,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DocBook</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T142500Z">
+        <seg>DocBook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook (*.xml)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T122626Z">
@@ -11959,8 +11967,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Error in file {0}, line {1}</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Fehler in Datei {0}, in Zeile: {1}</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T142428Z">
+        <seg>Fehler in Datei {0}, Zeile: {1}</seg>
       </tuv>
     </tu>
     <tu>
