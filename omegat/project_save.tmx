@@ -9610,12 +9610,11 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
-      <note>überprüfen</note>
       <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130701T140653Z">
-        <seg>Ein Commit ist nicht möglich, weil die Remote-Übersetzung von einer anderen Person geändert wurde.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T180206Z">
+        <seg>Das Ausführen des Commits ist nicht möglich, weil die Remote-Übersetzung von einer anderen Person geändert wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32930,8 +32929,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Will be synchronized next time.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130701T140717Z">
-        <seg>Wird beim nächsten Mal synchronisiert.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T180246Z">
+        <seg>Eine Synchronisation wird beim nächsten Mal ausgeführt.</seg>
       </tuv>
     </tu>
     <tu>
