@@ -434,8 +434,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Check simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T083436Z">
-        <seg>&amp;Prüfe einfache printf-variable (z.B., %s, %d)</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T160758Z">
+        <seg>Einfache printf-Variablen (z.B. %s, %d) &amp;prüfen</seg>
       </tuv>
     </tu>
     <tu>
@@ -499,8 +499,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130428T083406Z">
-        <seg>Printf-variable &amp;nicht prüfen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T160613Z">
+        <seg>Printf-Variablen &amp;nicht prüfen</seg>
       </tuv>
     </tu>
     <tu>
