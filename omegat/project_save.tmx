@@ -1027,8 +1027,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Source (segment {0}):</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>&amp;Quelle (segment {0}):</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T172520Z">
+        <seg>&amp;Quelle (Segment {0}):</seg>
       </tuv>
     </tu>
     <tu>
@@ -33388,8 +33388,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130630T151335Z">
-        <seg>Sie deinstallieren das Wörterbuch, mit dem im aktuellen Projekt die Rechtschreibung geprüft wird.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20130702T172447Z">
+        <seg>Sie sind dabei, das Wörterbuch zu deinstallieren, mit dem im aktuellen Projekt die Rechtschreibung geprüft wird.</seg>
       </tuv>
     </tu>
     <tu>
