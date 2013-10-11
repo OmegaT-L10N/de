@@ -1122,8 +1122,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>&amp;Benutzerhandbuch...</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131011T221207Z">
+        <seg>&amp;Handbuch...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20628,16 +20628,16 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT version {0}</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130702T145951Z">
-        <seg>OmegaT Version {0}</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131011T221322Z">
+        <seg>OmegaT-Version {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT version {0}, update {1}</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130702T150000Z">
-        <seg>OmegaT Version {0}, Update {1}</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131011T221331Z">
+        <seg>OmegaT-Version {0}, Update {1}</seg>
       </tuv>
     </tu>
     <tu>
