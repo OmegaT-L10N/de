@@ -666,8 +666,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Insert Match</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Treffer &amp;einfügen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110251Z">
+        <seg>Match e&amp;infügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,8 +746,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20131011T220956Z">
-        <seg>&amp;Treffer-Statistik</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110413Z">
+        <seg>&amp;Match-Statistik</seg>
       </tuv>
     </tu>
     <tu>
@@ -4975,8 +4975,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Match Statistics&lt;/p0&gt; &lt;s1&gt;Menu Tools&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130702T162807Z">
-        <seg>&lt;p0&gt;Trefferstatistiken&lt;/p0&gt; &lt;s1&gt;Menü "Extras"&lt;/s1&gt;</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T105238Z">
+        <seg>&lt;p0&gt;Match-Statistiken&lt;/p0&gt; &lt;s1&gt;Menü "Extras"&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8273,8 +8273,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Arrays dürfen nicht Null sein</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110836Z">
+        <seg>Matrizen dürfen nicht Null sein</seg>
       </tuv>
     </tu>
     <tu>
@@ -12245,8 +12245,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Exact match:</seg>
       </tuv>
-      <tuv lang="DE" changeid="helm" changedate="20130427T133345Z">
-        <seg>Exakter Treffer</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110441Z">
+        <seg>Exakter Match:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19410,8 +19410,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130701T165333Z">
-        <seg>Kein Treffer:</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110454Z">
+        <seg>Kein Match:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22569,8 +22569,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>R&amp;eplace with Match</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Mit &amp;Treffer ersetzen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110258Z">
+        <seg>Mit &amp;Match ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -24313,16 +24313,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130612T000112Z">
-        <seg>&amp;Nächsten Treffer auswählen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110324Z">
+        <seg>&amp;Nächsten Match auswählen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select &amp;Previous Match</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130612T000122Z">
-        <seg>&amp;Vorherigen Treffer auswählen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110327Z">
+        <seg>&amp;Vorherigen Match auswählen</seg>
       </tuv>
     </tu>
     <tu>
@@ -24393,40 +24393,40 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Select Match #&amp;1</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130612T000138Z">
-        <seg>Treffer #&amp;1 auswählen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110334Z">
+        <seg>Match #&amp;1 auswählen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;2</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130612T000149Z">
-        <seg>Treffer #&amp;2 auswählen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110336Z">
+        <seg>Match #&amp;2 auswählen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;3</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130612T000205Z">
-        <seg>Treffer #&amp;3 auswählen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110339Z">
+        <seg>Match #&amp;3 auswählen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;4</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130612T000223Z">
-        <seg>Treffer #&amp;4 auswählen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110341Z">
+        <seg>Match #&amp;4 auswählen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;5</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130612T000237Z">
-        <seg>Treffer #&amp;5 auswählen</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131014T110344Z">
+        <seg>Match #&amp;5 auswählen</seg>
       </tuv>
     </tu>
     <tu>
