@@ -3079,8 +3079,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; , &lt;e2&gt;Spellchecker, LanguageTool:&lt;/e2&gt; OmegaT supports an extensive use of dictionaries and glossaries.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130502T093749Z">
-        <seg>&lt;e0&gt;Wörterbücher, Glossare&lt;/e0&gt;, &lt;e1&gt;maschinelle Übersetzung&lt;/e1&gt; , &lt;e2&gt;Rechtschreibprüfung, SprachTool:&lt;/e2&gt; OmegaT unterstützt eine umfangreiche Nutzung von Wörterbüchern und Glossaren.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20131205T230035Z">
+        <seg>&lt;e0&gt;Wörterbücher, Glossare&lt;/e0&gt;, &lt;e1&gt;Maschinelle Übersetzung&lt;/e1&gt;, &lt;e2&gt;Rechtschreibprüfung, LanguageTool:&lt;/e2&gt; OmegaT unterstützt eine umfangreiche Nutzung von Wörterbüchern und Glossaren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17683,6 +17683,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T120642Z">
         <seg>LanguageTool.jar (LGPL-Lizenz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool.jar (LGPL license)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20131205T225948Z">
+        <seg>LanguageTool.jar (LGPL license)</seg>
       </tuv>
     </tu>
     <tu>
