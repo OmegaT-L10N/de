@@ -17159,6 +17159,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20140204T130006Z">
+        <seg>Sobald das Plug-in installiert ist, wird es von OmegaT benutzt, wenn unter &lt;g0&gt;Optionen &gt; Sprachprüfung&lt;/g0&gt; aktiviert ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will contain glossaries you will be using in the project.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T092038Z">
@@ -26674,8 +26682,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The LanguageTool plugin is included in OmegaT.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20140204T125816Z">
-        <seg>Das LanguageTool ist in OmegaT bereits enthalten.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20140204T130018Z">
+        <seg>Das LanguageTool-Plug-in ist in OmegaT bereits enthalten.</seg>
       </tuv>
     </tu>
     <tu>
