@@ -10157,8 +10157,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Create the "plugins" folder first, if it does not exist.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130503T090203Z">
-        <seg>Legen Sie den "plugins" Ordner erst an, wenn er noch nicht existiert.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20140304T205223Z">
+        <seg>Wenn der Ordner „plugin" noch nicht existiert, legen Sie ihn zuerst an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29518,6 +29518,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's 12 place holders available for scripts.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="eugenie" changedate="20140304T205308Z">
+        <seg>Das wird ein neues Untermenü zu&lt;g0&gt; Optionen &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; hinzufügen. Unter dem Untermenü &lt;g2&gt;Scripting&lt;/g2&gt; gibt es fünf Platzhalter für Skripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This adds a new submenu&lt;g0&gt; Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting.&lt;/g1&gt; Below the &lt;g2&gt;Scripting&lt;/g2&gt; submenu , there's five place holders available for scripts.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T153910Z">
@@ -31778,8 +31786,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Unzip the files, and put them all in the "plugins" folder located in OmegaT installation folder, that is the folder that contains the OmegaT.jar.</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130503T090138Z">
-        <seg>Entpacken Sie die Dateien und platzieren Sie sie in den "plugins" Ordner, der sich im OmegaT Installationsordner befindet, also da, wo OmegaT.jar ist.</seg>
+      <tuv lang="DE" changeid="eugenie" changedate="20140304T205123Z">
+        <seg>Entpacken Sie die Dateien und platzieren Sie sie in den Ordner „plugins", der sich im OmegaT-Installationsordner befindet. Dieser Ordner enthält OmegaT.jar.</seg>
       </tuv>
     </tu>
     <tu>
