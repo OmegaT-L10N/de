@@ -13,7 +13,7 @@
         <files targetFilenamePattern="${filename}" sourceFilenameMask="*.pot"/>
     </filter>
     <filter enabled="true" className="org.omegat.filters2.text.bundles.ResourceBundleFilter">
-        <files targetFilenamePattern="${nameOnly}_${targetLocale}.${extension}" sourceFilenameMask="*.properties"/>
+        <files targetFilenamePattern="${nameOnly}_de.${extension}" sourceFilenameMask="*.properties"/>
     </filter>
     <filter enabled="true" className="org.omegat.filters3.xml.xhtml.XHTMLFilter">
         <files targetFilenamePattern="${filename}" sourceFilenameMask="*.html"/>
