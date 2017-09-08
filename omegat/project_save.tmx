@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10088M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -175,6 +175,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T102853Z" creationid="karsten" creationdate="20150919T102853Z">
+        <seg>Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>#N is a digit from 1 to 5.</seg>
       </tuv>
@@ -319,6 +328,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T123238Z" creationid="karsten" creationdate="20150918T220443Z">
+        <seg>&amp;Projektdateien zeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
@@ -364,6 +382,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Beenden &amp;immer bestätigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Diese Schriftart auf das Fenster Projektdateien &amp;anwenden</seg>
       </tuv>
     </tu>
     <tu>
@@ -423,6 +450,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175157Z" creationid="karsten" creationdate="20150919T175121Z">
+        <seg>&amp;TaaS-Sammlungen durchsuchen...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
@@ -471,6 +507,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T221425Z" creationid="karsten" creationdate="20150918T221425Z">
+        <seg>&amp;Gegenwärtiges Quelldokument</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
@@ -487,6 +532,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T221212Z" creationid="karsten" creationdate="20150918T220937Z">
+        <seg>&amp;Wörterbücher</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Display tags</seg>
       </tuv>
@@ -500,6 +554,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T160613Z">
         <seg>Printf-Variablen &amp;nicht prüfen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Download</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175733Z" creationid="karsten" creationdate="20150919T175733Z">
+        <seg>Herunterla&amp;den</seg>
       </tuv>
     </tu>
     <tu>
@@ -583,6 +646,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T201553Z" creationid="karsten" creationdate="20150918T201553Z">
+        <seg>&amp;Beenden</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
@@ -607,11 +679,29 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T141935Z" creationid="karsten" creationdate="20150919T141647Z">
+        <seg>Kürzel "f" für &lt;it pos="end"&gt;-Tags erz&amp;wingen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
       <tuv lang="DE">
         <seg>&amp;Vor im Verlauf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T221142Z">
+        <seg>&amp;Glossare</seg>
       </tuv>
     </tu>
     <tu>
@@ -647,6 +737,24 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T141923Z" creationid="karsten" creationdate="20150919T141740Z">
+        <seg>Attribute type and ctype beim erstellen von &lt;ph&gt;-Tag-Kürzeln &amp;ignorieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T122903Z" creationid="karsten" creationdate="20150919T122903Z">
+        <seg>&amp;In Übersetzungen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Index entries</seg>
       </tuv>
@@ -668,6 +776,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131014T110251Z">
         <seg>Match e&amp;infügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Treffer &amp;einfügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -716,6 +833,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131011T223638Z">
         <seg>&amp;Zeilenumbrüchen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T170532Z" creationid="karsten" creationdate="20150919T170532Z">
+        <seg>&amp;Laden...</seg>
       </tuv>
     </tu>
     <tu>
@@ -943,11 +1069,65 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T201619Z" creationid="karsten" creationdate="20150918T201619Z">
+        <seg>Filte&amp;r entfernen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T133125Z" creationid="karsten" creationdate="20150919T133125Z">
+        <seg>Unübersetzte Zeicheketten in Zieldateien entfe&amp;rnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T201321Z" creationid="karsten" creationdate="20150918T201321Z">
+        <seg>E&amp;rsetzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T201539Z" creationid="karsten" creationdate="20150918T201539Z">
+        <seg>Nächstes e&amp;rsetzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Reset This Colour</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T223752Z" creationid="karsten" creationdate="20150919T223752Z">
+        <seg>Diese Fa&amp;rbe zurücksetzen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Hauptfenster &amp;wiederherstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T220518Z" creationid="karsten" creationdate="20150918T220518Z">
+        <seg>&amp;Hauptordner</seg>
       </tuv>
     </tu>
     <tu>
@@ -964,6 +1144,24 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE">
         <seg>&amp;Speichern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T201631Z" creationid="karsten" creationdate="20150918T201631Z">
+        <seg>&amp;Speichern unter...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T170539Z" creationid="karsten" creationdate="20150919T170539Z">
+        <seg>&amp;Speichern...</seg>
       </tuv>
     </tu>
     <tu>
@@ -999,6 +1197,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175823Z" creationid="karsten" creationdate="20150919T175823Z">
+        <seg>Au&amp;swählen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
@@ -1007,11 +1214,29 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T093639Z" creationid="karsten" creationdate="20150919T093639Z">
+        <seg>Relevante Empfehlungen automati&amp;sch anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Size</seg>
       </tuv>
       <tuv lang="DE">
         <seg>&amp;Größe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T201449Z" creationid="karsten" creationdate="20150918T201449Z">
+        <seg>Über&amp;springen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1028,6 +1253,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T172520Z">
         <seg>&amp;Quelle (Segment {0}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T221227Z" creationid="karsten" creationdate="20150918T221227Z">
+        <seg>&amp;Quelldateien</seg>
       </tuv>
     </tu>
     <tu>
@@ -1063,6 +1297,24 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;TaaS Terminology Lookup</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175317Z" creationid="karsten" creationdate="20150919T175317Z">
+        <seg>&amp;TaaS-Terminologie nachschlagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T221245Z" creationid="karsten" creationdate="20150918T221245Z">
+        <seg>&amp;Zieldateien</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Target Language Tokenizer:</seg>
       </tuv>
@@ -1092,6 +1344,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE">
         <seg>&amp;Extras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Übersetzt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1140,6 +1401,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE">
         <seg>&amp;Ansicht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T221742Z" creationid="karsten" creationdate="20150918T221742Z">
+        <seg>&amp;Beschreibbares Glossar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1195,6 +1465,15 @@ java -jar OmegaT.jar $*</seg>
         <seg>(+{0} more)</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T173604Z">
+        <seg>(+{0} mehr)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="DE">
         <seg>(+{0} mehr)</seg>
       </tuv>
     </tu>
@@ -1366,6 +1645,15 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131206T231129Z">
         <seg>* Diese Tasten verhalten sich anders, wenn sich der Cursor außerhalb des bearbeitbaren Segments befindet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T124411Z" creationid="karsten" creationdate="20150919T124411Z">
+        <seg>+{0} weitere</seg>
       </tuv>
     </tu>
     <tu>
@@ -1753,6 +2041,15 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T134909Z" creationid="karsten" creationdate="20150919T134909Z">
+        <seg>---- Anmerkungen zur Lokalisierung ----</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>--/--</seg>
       </tuv>
@@ -1950,6 +2247,24 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
       <tuv lang="DE">
         <seg>0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173621Z" creationid="karsten" creationdate="20150919T173621Z">
+        <seg>1 Konflikt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173557Z" creationid="karsten" creationdate="20150919T173557Z">
+        <seg>1 Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -6684,6 +6999,24 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T141119Z" creationid="karsten" creationdate="20150919T141119Z">
+        <seg>&lt;trans-unit&gt; &amp;resname-Attribut, falls verfügbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T140747Z" creationid="karsten" creationdate="20150919T140747Z">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
       </tuv>
@@ -7180,6 +7513,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T093725Z" creationid="karsten" creationdate="20150919T093725Z">
+        <seg>A&amp;utomatische Vervollständigung</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
@@ -7225,6 +7567,15 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T142108Z">
         <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Aaron Madlon-Kay (integration manager)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20151004T090737Z" creationid="karsten" creationdate="20151004T090556Z">
+        <seg>Aaron Madlon-Kay (Integrationsmanager)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7308,6 +7659,42 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T181124Z" creationid="karsten" creationdate="20150919T181124Z">
+        <seg>Aktives Quellsegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T181212Z" creationid="karsten" creationdate="20150919T181212Z">
+        <seg>Text des aktiven Quellsegments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T181255Z" creationid="karsten" creationdate="20150919T181255Z">
+        <seg>Aktives Zielsegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Active segment target text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T181324Z" creationid="karsten" creationdate="20150919T181324Z">
+        <seg>Text des aktiven Zielsegments</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
@@ -7332,6 +7719,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T172726Z" creationid="karsten" creationdate="20150919T172726Z">
+        <seg>Zeichen mit Doppelklick oder durch Markieren und Drücken der Einfügen-Taste zur benutzerdefinierten Zeichentabelle hinzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Add glossary entry</seg>
       </tuv>
@@ -7353,6 +7749,24 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130529T084012Z">
         <seg>Fügen Sie die &lt;e0&gt;Davor&lt;/e0&gt; und&lt;e1&gt; Danach&lt;/e1&gt; Muster hinzu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T124620Z" creationid="karsten" creationdate="20150919T124620Z">
+        <seg>{0} Glossareinträge aus {1} hinzuigefügt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174723Z" creationid="karsten" creationdate="20150919T174723Z">
+        <seg>Hinzugefügt: {1}, Gelöscht: {2}, Verändert: {3} (Konflikte: {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -7588,6 +8002,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T155227Z" creationid="karsten" creationdate="20150919T155227Z">
+        <seg>Aggressive Schriftartersetzung</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Akan</seg>
       </tuv>
@@ -7625,6 +8048,15 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T095103Z">
         <seg>Alle HTML Dateien werden übersetzt - merken Sie sich, dass die Periode im üblichen *.html maskiert (\.) werden muss, so wie es in den Regeln für reguläre Ausdrücke festgelegt ist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>All domains</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175746Z" creationid="karsten" creationdate="20150919T175746Z">
+        <seg>Alle Fachgebiete</seg>
       </tuv>
     </tu>
     <tu>
@@ -7724,11 +8156,29 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Zulassen, dass übersetzte Tags anders angeordnet sind</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Allow translated tags to be in a different order</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T161315Z">
         <seg>Zulassen, dass übersetzte Tags anders angeordnet sind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T125926Z" creationid="karsten" creationdate="20150919T125926Z">
+        <seg>Übersetzung leerer Quellsegmente erlau&amp;ben</seg>
       </tuv>
     </tu>
     <tu>
@@ -7924,11 +8374,38 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>An error occurred while downloading the dictionary.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T154542Z" creationid="karsten" creationdate="20150919T154542Z">
+        <seg>Beim Download des Wörterbuchs ist ein Fehler aufgetreten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T225007Z" creationid="karsten" creationdate="20150919T225007Z">
+        <seg>Beim Öffnen ist ein Fehler aufgetreten.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T171920Z">
         <seg>Es ist ein Fehler bei dem Versuch aufgetreten, einen neuen Ordner anzulegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T161657Z" creationid="karsten" creationdate="20150919T161657Z">
+        <seg>Beim Start des Konsoleprozesses ist ein Fehler aufgetreten: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7979,6 +8456,15 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154337Z">
         <seg>An interactive user interface displays "Appropriate Legal Notices"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T224919Z" creationid="karsten" creationdate="20150919T224919Z">
+        <seg>Ein Element "{0}" existiert bereits an diesem Ort.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8246,6 +8732,15 @@ The TMX file will not be loaded.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset all custom colours?</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T223854Z" creationid="karsten" creationdate="20150919T223854Z">
+        <seg>Sollen alle benutzerdefinierten Farben zurückgesetzt werden?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Arguments are added after the initial &lt;e0&gt;"java"&lt;/e0&gt;, and before the &lt;e1&gt;"-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar"&lt;/e1&gt;.</seg>
       </tuv>
@@ -8504,6 +8999,33 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T125624Z" creationid="karsten" creationdate="20150919T125540Z">
+        <seg>Automatische Synchronisierung mit Editorfenster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T170500Z" creationid="karsten" creationdate="20150919T170500Z">
+        <seg>Auto-Text-Konfiguration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T170604Z" creationid="karsten" creationdate="20150919T170604Z">
+        <seg>Auto-Text-Datei (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Automatic Java Properties Aligner</seg>
       </tuv>
@@ -8525,6 +9047,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130511T154035Z">
         <seg>Die Änderungen von Dateinamen für die Zieldokumente durch die Ersetzung übersetzbarer Inhalte zu automatisieren. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T164159Z" creationid="karsten" creationdate="20150919T164159Z">
+        <seg>Autotext-Einträge</seg>
       </tuv>
     </tu>
     <tu>
@@ -8600,11 +9131,29 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T124359Z" creationid="karsten" creationdate="20150919T124359Z">
+        <seg>Beim Beenden zurück zum ursprünglichen Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Back-ups of the project translation memory are produced regularly (see next chapter), and &lt;f0&gt;project_save.tmx&lt;/f0&gt; is also saved/updated when the project is closed or loaded again.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T141044Z">
         <seg>Backups der translation memory des Projekts werden regelmäßig produziert (siehe das nächste Kapitel) und &lt;f0&gt;project_save.tmx&lt;/f0&gt; wird auch gespeichert/aktualisiert, wenn das Projekt geschlossen oder erneut geladen wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T181040Z" creationid="karsten" creationdate="20150919T181040Z">
+        <seg>Hintergrund</seg>
       </tuv>
     </tu>
     <tu>
@@ -8781,6 +9330,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Benjamin Siband</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T222636Z" creationid="karsten" creationdate="20150919T222636Z">
+        <seg>Steuerzeichen für bidirektionalen Text</seg>
       </tuv>
     </tu>
     <tu>
@@ -9008,6 +9566,24 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T102949Z" creationid="karsten" creationdate="20150919T102949Z">
+        <seg>Alle Daten in die Zwischenablage k&amp;opieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T221452Z" creationid="karsten" creationdate="20150918T221452Z">
+        <seg>G&amp;egenwärtiges Zieldokument</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Camtasia for Windows</seg>
       </tuv>
@@ -9053,6 +9629,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T164507Z">
         <seg>Der folgende Zielordner kann nicht erstellt werden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Cannot install</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Installation fehlgeschlagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9128,6 +9713,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Change date</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174243Z" creationid="karsten" creationdate="20150919T174132Z">
+        <seg>Ánderungsdatum</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Change the encoding of your files to Unicode</seg>
       </tuv>
@@ -9168,6 +9762,24 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Geän&amp;dert nach:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Changer</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174259Z" creationid="karsten" creationdate="20150919T174225Z">
+        <seg>Bearbeiter</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case or Title case).</seg>
       </tuv>
@@ -9197,6 +9809,24 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T200736Z">
         <seg>Wenn diese Kennzeichnung geändert wird, ändert sich an der Segmentierung von schon existierenden Übersetzungen nichts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T164210Z" creationid="karsten" creationdate="20150919T164210Z">
+        <seg>Zeichentabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T172507Z" creationid="karsten" creationdate="20150919T172507Z">
+        <seg>Optionen für Zeichentabellen-Autovervollständigung</seg>
       </tuv>
     </tu>
     <tu>
@@ -9237,6 +9867,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131013T170857Z">
         <seg>&amp;Alle printf-Variablen prüfen (z. B. %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Einfache printf-Variablen (z.B. %s, %d) &amp;prüfen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9384,6 +10023,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T172919Z" creationid="karsten" creationdate="20150919T172919Z">
+        <seg>Leeren</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
@@ -9504,6 +10152,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T102235Z" creationid="karsten" creationdate="20150919T102235Z">
+        <seg>&amp;Schließen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Close</seg>
       </tuv>
@@ -9583,6 +10240,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE">
         <seg>Komme&amp;ntare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T172416Z" creationid="karsten" creationdate="20150919T172416Z">
+        <seg>Kommentar</seg>
       </tuv>
     </tu>
     <tu>
@@ -9687,6 +10353,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE">
         <seg>Deinstallation bestätigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Conflict resolution</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173935Z" creationid="karsten" creationdate="20150919T173935Z">
+        <seg>Konfliktauflösung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Conflict {0} of {1}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174004Z" creationid="karsten" creationdate="20150919T174004Z">
+        <seg>Konflikt {0} von {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10042,6 +10726,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T154433Z" creationid="karsten" creationdate="20150919T154433Z">
+        <seg>Der angegebene Ordner konnte nicht  angelegt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
@@ -10058,11 +10751,29 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Count &amp;protected text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T154226Z" creationid="karsten" creationdate="20150919T154226Z">
+        <seg>Geschützten Text und &amp;benutzerdefinierte Tags in Statistik berücksichtigen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131011T235038Z">
         <seg>&amp;Glossareintrag erstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Eintrag im &amp;Glossar anlegen</seg>
       </tuv>
     </tu>
     <tu>
@@ -10079,6 +10790,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130630T162143Z">
         <seg>Alternative Übersetzung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T220301Z" creationid="karsten" creationdate="20150918T215024Z">
+        <seg>Gegenwärtig übersetztes &amp;Dokument erstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -10239,6 +10959,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T150128Z">
         <seg>Zieldokumente werden erstellt: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Creation date</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174310Z" creationid="karsten" creationdate="20150919T174310Z">
+        <seg>Erstellungsdatum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174318Z" creationid="karsten" creationdate="20150919T174318Z">
+        <seg>Ersteller</seg>
       </tuv>
     </tu>
     <tu>
@@ -10546,6 +11284,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Derzeitige Speichernutzung durch VM: {0}MB; davon freier Speicherplatz: {1}MB; maximal vorhanden: {2}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
       </tuv>
@@ -10559,6 +11306,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T164805Z">
         <seg>Zur Zeit unterstützt &lt;a1&gt;OmegaT&lt;/a1&gt; folgende reine Textformate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T180845Z" creationid="karsten" creationdate="20150919T180845Z">
+        <seg>Benutzerdefinierte Farbauswahl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T172820Z" creationid="karsten" creationdate="20150919T172820Z">
+        <seg>Benutzedefinierte Tabelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -10706,6 +11471,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174013Z" creationid="karsten" creationdate="20150919T174013Z">
+        <seg>Gelöscht</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
@@ -10746,11 +11520,56 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175411Z" creationid="karsten" creationdate="20150919T175411Z">
+        <seg>Beschreibung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Detail View</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174045Z" creationid="karsten" creationdate="20150919T174045Z">
+        <seg>Detailansicht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173643Z" creationid="karsten" creationdate="20150919T173643Z">
+        <seg>Keine Details verfügbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T163651Z" creationid="karsten" creationdate="20150919T163651Z">
+        <seg>Erkenne...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Developers that use the GNU GPL protect your rights with two steps:</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154335Z">
         <seg>Developers that use the GNU GPL protect your rights with two steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T093257Z" creationid="karsten" creationdate="20150919T093257Z">
+        <seg>Wörterbuc&amp;h</seg>
       </tuv>
     </tu>
     <tu>
@@ -10858,11 +11677,29 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Didier Briel</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20151004T090737Z" creationid="karsten" creationdate="20151004T090556Z">
+        <seg>Didier Briel</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Didier Briel (development manager)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T142021Z">
         <seg>Didier Briel (Entwicklungsmanager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Didier Briel is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20151004T090308Z" creationid="karsten" creationdate="20151004T090308Z">
+        <seg>Didier Briel ist der OmegaT-Projektmanager.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10895,6 +11732,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T151020Z">
         <seg>Disclaimer of Warranty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T170510Z" creationid="karsten" creationdate="20150919T170510Z">
+        <seg>Anzeige</seg>
       </tuv>
     </tu>
     <tu>
@@ -10951,6 +11797,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130630T152653Z">
         <seg>Aktuelles &amp;Segment anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T123425Z" creationid="karsten" creationdate="20150919T123425Z">
+        <seg>Anzeigen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11058,6 +11913,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T165742Z" creationid="karsten" creationdate="20150919T165742Z">
+        <seg>Eintráge als "&lt;Ziel&gt; → &lt;Quelle&gt;" anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
@@ -11111,6 +11975,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE">
         <seg>Dmitri Gabinski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Die Erstellung von Zieldokumenten bei Problemen mit Tags verweigern</seg>
       </tuv>
     </tu>
     <tu>
@@ -11194,6 +12067,33 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T124129Z" creationid="karsten" creationdate="20150919T124129Z">
+        <seg>Möchten Sie fortsetzen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T154401Z" creationid="karsten" creationdate="20150919T154401Z">
+        <seg>Möchten Sie es anlegen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T224919Z" creationid="karsten" creationdate="20150919T224919Z">
+        <seg>Soll es durch das hierhergezogene Element ersetzt weerden?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
@@ -11271,6 +12171,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T164846Z">
         <seg>DokuWiki Dateien (*.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175603Z" creationid="karsten" creationdate="20150919T175603Z">
+        <seg>Fachgebiet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173920Z" creationid="karsten" creationdate="20150919T173920Z">
+        <seg>Fertig</seg>
       </tuv>
     </tu>
     <tu>
@@ -11354,6 +12272,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T180052Z" creationid="karsten" creationdate="20150919T180052Z">
+        <seg>Sammlung {0} herunterladen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Download in this case from:</seg>
       </tuv>
@@ -11418,11 +12345,65 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Drop TMX files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T224659Z" creationid="karsten" creationdate="20150919T224659Z">
+        <seg>TMX-Dateien hierher ziehen, um sie zum Projekt hinzuzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Drop a project here to open it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T224747Z" creationid="karsten" creationdate="20150919T224747Z">
+        <seg>Ein Projekt hierher ziehen, um es zu öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Drop files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T224544Z" creationid="karsten" creationdate="20150919T224544Z">
+        <seg>Dateien hierher ziehen, um sie zum Projekt hinzuzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T224626Z" creationid="karsten" creationdate="20150919T224626Z">
+        <seg>Glossardateien hierher ziehen, um sie zum Projekt hinzuzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T151344Z">
         <seg>Duplizieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T142657Z" creationid="karsten" creationdate="20150919T142657Z">
+        <seg>Reservetext für &amp;Kompatibilität</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Duplicate segments: {0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T100250Z" creationid="karsten" creationdate="20150919T100250Z">
+        <seg>Wiederholungen des Segments: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11495,6 +12476,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE">
         <seg>Satz&amp;segmentierung aktivieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T103420Z" creationid="karsten" creationdate="20150919T103420Z">
+        <seg>&amp;Ausnahmen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11850,6 +12840,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T164125Z" creationid="karsten" creationdate="20150919T164125Z">
+        <seg>Rebase beenden</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>End*</seg>
       </tuv>
@@ -11946,6 +12945,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T170521Z" creationid="karsten" creationdate="20150919T170521Z">
+        <seg>Einträge</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Entries with modified tags</seg>
       </tuv>
@@ -11999,6 +13007,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T174314Z">
         <seg>Fehler beim Dekodieren des Benutzernamens und des Kennworts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Error extracting MT result from MyMemory, response:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T160103Z" creationid="karsten" creationdate="20150919T160103Z">
+        <seg>Fehler beim Extrahieren des Ergebnisses der Maschinenübersetzung von MyMemory. Fehlermeldung:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12103,6 +13120,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T141209Z">
         <seg>Fehler beim Entladen des Plug-Ins aus Klasse '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T180307Z" creationid="karsten" creationdate="20150919T180307Z">
+        <seg>Fehler beim Aktualisieren der Glossardatei</seg>
       </tuv>
     </tu>
     <tu>
@@ -12618,6 +13644,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174434Z" creationid="karsten" creationdate="20150919T174434Z">
+        <seg>Datei</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
@@ -12746,6 +13781,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T103223Z" creationid="karsten" creationdate="20150919T103223Z">
+        <seg>Datei {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>File/ subfolder</seg>
       </tuv>
@@ -12759,6 +13803,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T161906Z">
         <seg>Datei: übersetzt / Anzahl der Segmente (Projekt: einmalig übersetzt / Anzahl einmaliger Segmente, Gesamtzahl der Segmente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T101849Z" creationid="karsten" creationdate="20150919T101624Z">
+        <seg>Datei: einmalige übersetzt % (einmalige verbleibend) / Projekt: einmalige übersetzt % (einmalige verbleibend), Segmente gesamt</seg>
       </tuv>
     </tu>
     <tu>
@@ -12831,6 +13884,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130512T122542Z">
         <seg>Filteroptionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T102209Z" creationid="karsten" creationdate="20150919T102209Z">
+        <seg>Filter:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12943,6 +14005,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T162503Z">
         <seg>Der Ordner existiert bereits und ist nicht leer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Folder does not exist</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T154318Z" creationid="karsten" creationdate="20150919T154318Z">
+        <seg>Ordner existiert nicht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T170012Z" creationid="karsten" creationdate="20150919T170012Z">
+        <seg>Groß/Kleinschreibung des geschriebenen Texts folgen</seg>
       </tuv>
     </tu>
     <tu>
@@ -13071,6 +14151,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131130T164447Z">
         <seg>Für fortgeschrittene Benutzer werden der Befehlszeilenmodus und seine Möglichkeiten im Kapitel erklärt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T103242Z" creationid="karsten" creationdate="20150919T103242Z">
+        <seg>Für alle Dateien:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13554,11 +14643,47 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T222842Z" creationid="karsten" creationdate="20150919T222842Z">
+        <seg>100%-Treffer aus dem TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150922T164520Z" creationid="karsten" creationdate="20150922T164520Z">
+        <seg>100%-Treffer im selben Kontext</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T070057Z">
         <seg>Praktisch betrachtet ist das wichtigste Paar an Zahlen das zweite: es besagt, wie viel Sie bisher getan haben, im Vergleich zur Gesamtzahl oder der zweiten Zahl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T222903Z" creationid="karsten" creationdate="20150919T222903Z">
+        <seg>Aus dem auto-TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T222706Z" creationid="karsten" creationdate="20150919T222706Z">
+        <seg>Aus dem TM</seg>
       </tuv>
     </tu>
     <tu>
@@ -13583,6 +14708,33 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T101239Z">
         <seg>Voller Pfade der TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T172802Z" creationid="karsten" creationdate="20150919T172802Z">
+        <seg>Gesamte Tabelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T172408Z" creationid="karsten" creationdate="20150919T172408Z">
+        <seg>Gesamter Text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T152204Z" creationid="karsten" creationdate="20150919T152030Z">
+        <seg>Gesamter Text, einschließlich Tags und Zahlen</seg>
       </tuv>
     </tu>
     <tu>
@@ -13791,6 +14943,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131011T233643Z">
         <seg>Glossar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T165621Z" creationid="karsten" creationdate="20150919T165621Z">
+        <seg>Optionen für Glossar-Autovervollständigung</seg>
       </tuv>
     </tu>
     <tu>
@@ -14482,6 +15643,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T140558Z" creationid="karsten" creationdate="20150919T140558Z">
+        <seg>ILIAS-Sprachdatei</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING</seg>
       </tuv>
@@ -14575,6 +15745,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T154729Z">
         <seg>Ikonen und Logo Grafiken. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T140641Z" creationid="karsten" creationdate="20150919T140641Z">
+        <seg>Kennung für alternative Übersetzungen</seg>
       </tuv>
     </tu>
     <tu>
@@ -14735,6 +15914,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE">
         <seg>Wenn aktiviert, werden Quell-Segmente angezeigt und grün gekennzeichnet. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T165439Z" creationid="karsten" creationdate="20150919T165439Z">
+        <seg>Wenn markiert, werden Einträge alphabetisch sortiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T165254Z" creationid="karsten" creationdate="20150919T165254Z">
+        <seg>Wenn markiert, erscheinen längere Einträge in der Liste zuoberst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15884,6 +17081,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T142111Z" creationid="karsten" creationdate="20150919T142111Z">
+        <seg>Attribute type and ctype beim erstellen von &lt;&amp;bpt&gt;- und &lt;ept&gt;-Tag-Kürzeln ignorieren</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Import From MediaWiki...</seg>
       </tuv>
@@ -16076,6 +17282,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T122445Z" creationid="karsten" creationdate="20150919T122445Z">
+        <seg>In Kommentaren</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>In determining whether a product is a consumer product,</seg>
       </tuv>
@@ -16112,6 +17327,15 @@ their defaults as a result of the location change.</seg>
         <seg>In no&amp;tes</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T135451Z">
+        <seg>In No&amp;tizen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="DE">
         <seg>In No&amp;tizen</seg>
       </tuv>
     </tu>
@@ -16565,6 +17789,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Insert Match or Selection Into Translation</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Treffer in die Übersetzung einfügen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
@@ -16822,6 +18055,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction to tokenizers and scripts</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Kos Ivantsov" changedate="20170908T215507Z" creationid="Kos Ivantsov" creationdate="20170908T215507Z">
+        <seg>Einführung in die Verwendung von Tokenizern und Scripte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inuktitut</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T080108Z">
@@ -16834,6 +18075,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T080052Z">
         <seg>Inupiaq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Invalid API key</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T160151Z" creationid="karsten" creationdate="20150919T160151Z">
+        <seg>Ungültiger API-key</seg>
       </tuv>
     </tu>
     <tu>
@@ -16866,6 +18116,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Ärger mit OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Is default translation</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174338Z" creationid="karsten" creationdate="20150919T174338Z">
+        <seg>Standardübersetzung</seg>
       </tuv>
     </tu>
     <tu>
@@ -17206,6 +18465,15 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T223728Z" creationid="karsten" creationdate="20150919T223728Z">
+        <seg>Element:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Its contents will always be sorted alphabetically by the source segment.</seg>
       </tuv>
@@ -17267,6 +18535,24 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Japanisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Jar used for plugins: {0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T125756Z" creationid="karsten" creationdate="20150919T125756Z">
+        <seg>Jar genutzt für Plugins: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Java Resource Bundles Filter Options</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T135158Z" creationid="karsten" creationdate="20150919T135158Z">
+        <seg>Java-Resource-Bundles-Filteroptionen</seg>
       </tuv>
     </tu>
     <tu>
@@ -17371,6 +18657,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T155118Z">
         <seg>Beitritt ist nicht notwendig, aber Sie erlangen dadurch Zugang zu weiteren Diensten, wie Dateien, Fragebögen und der Möglichkeit, an Diskussionen zu OmegaT teilzunehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T101928Z" creationid="karsten" creationdate="20150919T101928Z">
+        <seg>Springe zum zuletzt bearbeiteten Segment...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17982,6 +19277,15 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T135057Z" creationid="karsten" creationdate="20150919T135057Z">
+        <seg>Zeilenlänge:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Lingala</seg>
       </tuv>
@@ -18011,6 +19315,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T162058Z">
         <seg>Linux und OS X Nutzer mögen diese Datei sinnvoll finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174037Z" creationid="karsten" creationdate="20150919T174037Z">
+        <seg>Listenansicht</seg>
       </tuv>
     </tu>
     <tu>
@@ -18494,6 +19807,15 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Marc Prior (webmaster)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20151004T090931Z" creationid="karsten" creationdate="20151004T090931Z">
+        <seg>Marc Prior (Webmaster)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Marc Prior is the coordinator of the OmegaT project.</seg>
       </tuv>
@@ -18539,6 +19861,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T161016Z">
         <seg>&amp;Nicht übersetzte Segmente markieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T154739Z" creationid="karsten" creationdate="20150919T154739Z">
+        <seg>Automatisch übersetzte Segmente markieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -18646,11 +19977,38 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T180546Z" creationid="karsten" creationdate="20150919T180546Z">
+        <seg>Maske</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130604T224538Z">
         <seg>Treffer-Statistiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T085305Z" creationid="karsten" creationdate="20150919T085305Z">
+        <seg>Trefferstatistik pro &amp;Datei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T103046Z" creationid="karsten" creationdate="20150919T103046Z">
+        <seg>Trefferstatistik pro Datei</seg>
       </tuv>
     </tu>
     <tu>
@@ -18694,6 +20052,60 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T223332Z" creationid="karsten" creationdate="20150919T223332Z">
+        <seg>Geänderte Treffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150922T170036Z" creationid="karsten" creationdate="20150922T170036Z">
+        <seg>Textteil im aktiven Treffer, der gelöscht wird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150922T170102Z" creationid="karsten" creationdate="20150922T170102Z">
+        <seg>Textteil im inaktiven Treffer, der gelöscht wird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150922T165922Z" creationid="karsten" creationdate="20150922T164654Z">
+        <seg>Textteil im aktiven Treffer, der eingefügt wird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150922T165951Z" creationid="karsten" creationdate="20150922T165725Z">
+        <seg>Textteil im inaktiven Treffer, der eingefügt wird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Matches Unchanged</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T223349Z" creationid="karsten" creationdate="20150919T223349Z">
+        <seg>Unveränderte Treffer</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
@@ -18726,6 +20138,15 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T135125Z" creationid="karsten" creationdate="20150919T135125Z">
+        <seg>Maximale Zeilenlänge:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
@@ -18739,6 +20160,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Maxym Mykhalchuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Speicher</seg>
       </tuv>
     </tu>
     <tu>
@@ -18795,6 +20225,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154337Z">
         <seg>Mere interaction with a user through</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173427Z" creationid="karsten" creationdate="20150919T173427Z">
+        <seg>Zusammenführen</seg>
       </tuv>
     </tu>
     <tu>
@@ -18867,6 +20306,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T174039Z">
         <seg>Die Client-ID bzw. das Client-Secret des Microsoft Translators ist nicht verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173705Z" creationid="karsten" creationdate="20150919T173327Z">
+        <seg>Mein</seg>
       </tuv>
     </tu>
     <tu>
@@ -18966,6 +20414,42 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T220434Z" creationid="karsten" creationdate="20150919T220434Z">
+        <seg>Änderungsinfo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T153957Z" creationid="karsten" creationdate="20150919T153452Z">
+        <seg>Muster für Bearbeitungsinfo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T153949Z" creationid="karsten" creationdate="20150919T153730Z">
+        <seg>Muster für Bearbeitungsinfo für Segmente ohne Datum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T220451Z" creationid="karsten" creationdate="20150919T220451Z">
+        <seg>Änderungsinfotext</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
@@ -19003,6 +20487,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T181358Z">
         <seg>Monolingual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T100344Z" creationid="karsten" creationdate="20150919T100344Z">
+        <seg>Weiter</seg>
       </tuv>
     </tu>
     <tu>
@@ -19075,6 +20568,33 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T163518Z">
         <seg>Trauern und Bedauern&lt;p&gt;404 nicht mit uns&lt;p&gt;Verloren im Paradies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T102138Z" creationid="karsten" creationdate="20150919T102138Z">
+        <seg>Nach &amp;unten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T102112Z" creationid="karsten" creationdate="20150919T102112Z">
+        <seg>An &amp;erste Stellle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T102156Z" creationid="karsten" creationdate="20150919T102156Z">
+        <seg>An &amp;Letzte Stelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -19198,11 +20718,29 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T130002Z" creationid="karsten" creationdate="20150919T130002Z">
+        <seg>Mozilla-DTD-Filteroptionen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Mozilla DTD files</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130621T132545Z">
         <seg>Mozilla-DTD-Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T134640Z" creationid="karsten" creationdate="20150919T134640Z">
+        <seg>Mozilla Lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -19246,11 +20784,38 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T155857Z" creationid="karsten" creationdate="20150919T155857Z">
+        <seg>MyMemory (menschliche Übersetzung)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>MyMemory (machine)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T155916Z" creationid="karsten" creationdate="20150919T155916Z">
+        <seg>MyMemory (Maschinenübersetzung)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Māori</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T082203Z">
         <seg>Māori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175357Z" creationid="karsten" creationdate="20150919T175357Z">
+        <seg>Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -19334,6 +20899,15 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174441Z" creationid="karsten" creationdate="20150919T174441Z">
+        <seg>Weiter</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
@@ -19375,11 +20949,29 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T085118Z" creationid="karsten" creationdate="20150919T085118Z">
+        <seg>Nächstes uni&amp;kales Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Nächstes nicht übersetztes Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Next →</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174120Z" creationid="karsten" creationdate="20150919T174120Z">
+        <seg>Weiter →</seg>
       </tuv>
     </tu>
     <tu>
@@ -19519,11 +21111,47 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T151444Z" creationid="karsten" creationdate="20150919T151444Z">
+        <seg>Keine Tags, keine Zahlen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T151255Z">
         <seg>Geschützte Leerzeichen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T222429Z" creationid="karsten" creationdate="20150919T222429Z">
+        <seg>Geschützte Leerzeichen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T220343Z" creationid="karsten" creationdate="20150919T220343Z">
+        <seg>Nicht-einmalige Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Non-unique segments background</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T220414Z" creationid="karsten" creationdate="20150919T220414Z">
+        <seg>Hintergrund von nicht-einmaligen Segmenten</seg>
       </tuv>
     </tu>
     <tu>
@@ -19612,6 +21240,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Keine gültige XML-Datei!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Not present</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174029Z" creationid="karsten" creationdate="20150919T174029Z">
+        <seg>Nicht vorhanden</seg>
       </tuv>
     </tu>
     <tu>
@@ -20063,6 +21700,15 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Anzahl der Ergebnisse: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Nr of results: {0}</seg>
       </tuv>
@@ -20084,6 +21730,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Anzahl der Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Anzahl der Ergebnisse:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20597,6 +22252,14 @@ your home folder.</seg>
         <seg>OmegaT stores your translations and proposes possible translations from similar segments in registered in the translation memory files.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131130T152355Z">
+        <seg>OmegaT speichert Ihre Übersetzungen und schlägt mögliche Übersetzungen aus ähnlichen Segmenten vor, die in den TM-Dateien enthalten sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Kos Ivantsov" changedate="20170908T215348Z" creationid="Kos Ivantsov" creationdate="20170908T215348Z">
         <seg>OmegaT speichert Ihre Übersetzungen und schlägt mögliche Übersetzungen aus ähnlichen Segmenten vor, die in den TM-Dateien enthalten sind.</seg>
       </tuv>
     </tu>
@@ -21129,6 +22792,15 @@ your home folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T102626Z" creationid="karsten" creationdate="20150919T102626Z">
+        <seg>Bisherige Projekte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Open XML Filter Options</seg>
       </tuv>
@@ -21294,6 +22966,15 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T162606Z">
         <seg>Menü "Optionen"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T135037Z" creationid="karsten" creationdate="20150919T135037Z">
+        <seg>Optionen zur Begrenzung der Zeilenlänge in Zieldokumenten (0 = keine Beschränkung)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21885,6 +23566,15 @@ to determine the source of the error and try again.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T163953Z" creationid="karsten" creationdate="20150919T163953Z">
+        <seg>Bitte prüfen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Please enter username/password</seg>
       </tuv>
@@ -21914,6 +23604,24 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T152851Z">
         <seg>Bitte führen Sie die Tagprüfung erneut aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173542Z" creationid="karsten" creationdate="20150919T173542Z">
+        <seg>Konflikte lösen durch Auswählen einer Übersetzung für jedes Segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Please restart the application to correctly display the new colours.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T224004Z" creationid="karsten" creationdate="20150919T224004Z">
+        <seg>Die Anwendung neu starten, damit die neuen Farben angewendet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21990,11 +23698,29 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T154542Z" creationid="karsten" creationdate="20150919T154542Z">
+        <seg>Bitte versuchen Sie es erneut.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131011T222204Z">
         <seg>Geben Sie bitte hier die URL der MediaWiki-Seite ein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T125827Z" creationid="karsten" creationdate="20150919T125827Z">
+        <seg>Plugin erfolgreich geladen aus Klasse '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -22070,6 +23796,24 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>&lt;br&gt;Drücken Sie &lt;u&gt;{0}&lt;/u&gt;, um zu den folgenden Vorschlägen zu gelangen &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>&lt;br&gt;Drücken Sie&lt;u&gt;{0}&lt;/u&gt;, um zu den folgenden Vorschlägen zurückzukehren: &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Pressing &lt;k0&gt;Enter&lt;/k0&gt; will move the Editor pane to the top of the file selected</seg>
       </tuv>
@@ -22094,6 +23838,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174537Z" creationid="karsten" creationdate="20150919T174537Z">
+        <seg>Zurück</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
@@ -22115,6 +23868,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Vorheriges Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T140728Z" creationid="karsten" creationdate="20150919T140728Z">
+        <seg>Vorheriger und &amp;nächster Absatz</seg>
       </tuv>
     </tu>
     <tu>
@@ -22174,6 +23936,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Processing...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173947Z" creationid="karsten" creationdate="20150919T173947Z">
+        <seg>Verarbeite...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Program specifies that a certain numbered version of the GNU General</seg>
       </tuv>
@@ -22211,6 +23982,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Projektdateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Project Files ({0})</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T095653Z">
+        <seg>Projektdateien{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22622,6 +24402,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Mit &amp;Treffer ersetzen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
@@ -22651,6 +24440,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130710T201729Z">
         <seg>Filter ent&amp;fernen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T201409Z" creationid="karsten" creationdate="20150918T201409Z">
+        <seg>Alle &amp;Ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -22878,6 +24676,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T222120Z" creationid="karsten" creationdate="20150918T221935Z">
+        <seg>Übersetzung identisch mit Quelle</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Regular expression</seg>
       </tuv>
@@ -23078,6 +24885,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150922T164319Z" creationid="karsten" creationdate="20150922T164319Z">
+        <seg>Zu löschender Text im Zielsegment</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
@@ -23118,6 +24934,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T103152Z" creationid="karsten" creationdate="20150919T103152Z">
+        <seg>Wiederholungen von anderen Dateien:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Repetitions stand for identical segments present several times in the text.</seg>
       </tuv>
@@ -23126,11 +24951,29 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T103121Z" creationid="karsten" creationdate="20150919T103121Z">
+        <seg>Wiederholungen innerhalb dieser Datei:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Repetitions:</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T133340Z">
         <seg>Wiederholungen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T222916Z" creationid="karsten" creationdate="20150919T222916Z">
+        <seg>Ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -23144,6 +24987,15 @@ language you would like to translate to.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Replace Translation with Match</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Übersetzung mit Treffer ersetzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Replace Translation with Match or Selection</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Übersetzung mit Treffer ersetzen</seg>
@@ -23203,6 +25055,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Durch Quelle ersetzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T103436Z" creationid="karsten" creationdate="20150919T103436Z">
+        <seg>Ersetzen mit:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23270,6 +25131,24 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T180120Z" creationid="karsten" creationdate="20150919T180120Z">
+        <seg>Anforderungsfehler: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Request to TaaS: {0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174756Z" creationid="karsten" creationdate="20150919T174756Z">
+        <seg>Anfrage an TaaS: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
@@ -23299,6 +25178,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T122714Z">
         <seg>ResX files (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Reset &amp;All Colours</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T223816Z" creationid="karsten" creationdate="20150919T223816Z">
+        <seg>&amp;Alle Farben zurücksetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -23355,6 +25243,24 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130630T163945Z">
         <seg>Ergebnis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175922Z" creationid="karsten" creationdate="20150919T175922Z">
+        <seg>Empfange Liste von Sammlungen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T180019Z" creationid="karsten" creationdate="20150919T180019Z">
+        <seg>Emfange Liste der Fachgebiete...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23502,6 +25408,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T122827Z" creationid="karsten" creationdate="20150919T122827Z">
+        <seg>L&amp;eerzeichen findet auch geschütztes Leerzeichen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>S&amp;witch Case To</seg>
       </tuv>
@@ -23555,6 +25470,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130621T133708Z">
         <seg>SVG-Bilderdateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>SVG Image</seg>
       </tuv>
     </tu>
     <tu>
@@ -23694,6 +25618,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Save auto-populated status</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T144107Z" creationid="karsten" creationdate="20150919T144107Z">
+        <seg>Status automatisch übersetzter Segmente speichern</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
@@ -23806,6 +25739,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T160931Z" creationid="karsten" creationdate="20150919T160931Z">
+        <seg>Ergebnis des Skripts</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
@@ -23859,6 +25801,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Projekt durchsuchen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150918T221800Z" creationid="karsten" creationdate="20150918T221800Z">
+        <seg>Suchen und Ersetzen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24278,6 +26229,24 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T215944Z" creationid="karsten" creationdate="20150919T215944Z">
+        <seg>Segmentmarkerhintergrund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Segment marker text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T215930Z" creationid="karsten" creationdate="20150919T215930Z">
+        <seg>Segmentmarkertext</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Segment number...</seg>
       </tuv>
@@ -24299,6 +26268,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130621T132652Z">
         <seg>Quelltext absatzweise segmentieren bei:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Segment {0,number,#}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T100329Z" creationid="karsten" creationdate="20150919T100329Z">
+        <seg>Segment {0,number,#}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24355,6 +26333,24 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T220028Z" creationid="karsten" creationdate="20150919T220028Z">
+        <seg>Segmente mit Anmerkungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T220111Z" creationid="karsten" creationdate="20150919T220111Z">
+        <seg>Text von Segmenten mit Anmerkungen</seg>
       </tuv>
     </tu>
     <tu>
@@ -24486,6 +26482,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175953Z" creationid="karsten" creationdate="20150919T175953Z">
+        <seg>TaaS-Fachgebiet auswählen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Select it and confirm with OK.</seg>
       </tuv>
@@ -24603,6 +26608,24 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Serbisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Server (original)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173316Z" creationid="karsten" creationdate="20150919T173316Z">
+        <seg>Server (original)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173344Z" creationid="karsten" creationdate="20150919T173344Z">
+        <seg>Server (aktualisiert)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24763,6 +26786,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T083358Z">
         <seg>Shona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T172347Z" creationid="karsten" creationdate="20150919T172347Z">
+        <seg>Kürzel</seg>
       </tuv>
     </tu>
     <tu>
@@ -25102,6 +27134,24 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T152117Z" creationid="karsten" creationdate="20150919T144216Z">
+        <seg>Unscharfe Treffer bewerten mit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174403Z" creationid="karsten" creationdate="20150919T174403Z">
+        <seg>Quelle</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Source Code.</seg>
       </tuv>
@@ -25174,6 +27224,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175530Z" creationid="karsten" creationdate="20150919T175530Z">
+        <seg>Quelleinträge</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Source file loading complete</seg>
       </tuv>
@@ -25222,6 +27281,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T084856Z" creationid="karsten" creationdate="20150919T084856Z">
+        <seg>Quelle des ausgewählten &amp;Treffers</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Source of the work are being offered to the general public at no</seg>
       </tuv>
@@ -25243,6 +27311,24 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Quellsegmentierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T215957Z" creationid="karsten" creationdate="20150919T215957Z">
+        <seg>Quellsegmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T220013Z" creationid="karsten" creationdate="20150919T220013Z">
+        <seg>Quellsegmenttext</seg>
       </tuv>
     </tu>
     <tu>
@@ -25374,6 +27460,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T223309Z" creationid="karsten" creationdate="20150919T223309Z">
+        <seg>Rechtschreibprüfung</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Spellchecker Setup</seg>
       </tuv>
@@ -25398,11 +27493,29 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T142943Z" creationid="karsten" creationdate="20150919T142943Z">
+        <seg>Bei Zeilenumbruch &amp;neuen Absatz beginnen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130625T131615Z">
         <seg>Neuen Absatz beginnen bei:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T164112Z" creationid="karsten" creationdate="20150919T164112Z">
+        <seg>Rebase starten</seg>
       </tuv>
     </tu>
     <tu>
@@ -25467,6 +27580,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Status-Leiste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T151422Z" creationid="karsten" creationdate="20150919T151422Z">
+        <seg>Stammformreduktion, keine Tags, keine Zahlen</seg>
       </tuv>
     </tu>
     <tu>
@@ -25734,6 +27856,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>TMs</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
@@ -25814,6 +27945,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>TaaS Collections</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175350Z" creationid="karsten" creationdate="20150919T175350Z">
+        <seg>TaaS-Sammlungen</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
@@ -25835,6 +27975,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenieneumann" changedate="20130531T132738Z">
         <seg>Tag&amp;prüfung...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Tag Processing Options</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Tagprüfungsoptionen</seg>
       </tuv>
     </tu>
     <tu>
@@ -26102,6 +28251,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175551Z" creationid="karsten" creationdate="20150919T175551Z">
+        <seg>Zieleinträge</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Target filename</seg>
       </tuv>
@@ -26206,6 +28364,24 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Team synchronization: Saving translation in {0} s</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T163630Z" creationid="karsten" creationdate="20150919T163630Z">
+        <seg>Teamsynchronisation: Übersetzung wird in {0} s gespeichert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T163528Z" creationid="karsten" creationdate="20150919T163528Z">
+        <seg>Teamsynchronisation: Warten auf Fertigstellung des Segments...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Team...</seg>
       </tuv>
@@ -26262,6 +28438,15 @@ language you would like to translate to.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T165933Z" creationid="karsten" creationdate="20150919T165933Z">
+        <seg>Termini mit mehreren Zieltermini</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
@@ -26283,6 +28468,15 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Textfilteroptionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T124027Z" creationid="karsten" creationdate="20150919T124027Z">
+        <seg>Textersetzung</seg>
       </tuv>
     </tu>
     <tu>
@@ -26687,6 +28881,15 @@ current folder will be used instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T135248Z" creationid="karsten" creationdate="20150919T135248Z">
+        <seg>Ausnahmefehler des Java-Resource-Bundles-Filters:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The KMenuEditor appears.</seg>
       </tuv>
@@ -26732,6 +28935,15 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T162246Z">
         <seg>Die Treffer Statistiken sind durch Tabulator getrennt und sie können &lt;g0&gt;Strg+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Strg+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Strg+V &lt;i5/&gt;&lt;/g4&gt;nutzen, um sie zu kopieren/einfügen, zum Beispiel in eine Tabelle oder Ihre Anwendung zur Kostenberechnung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T133514Z" creationid="karsten" creationdate="20150919T133514Z">
+        <seg>Ausnahmefehler des Mozilla-DTD-Filters:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27499,6 +29711,15 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The following options apply to the 3.x filter only</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T141334Z" creationid="karsten" creationdate="20150919T141334Z">
+        <seg>Die folgenden Optionen betreffen nur 3.x-Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
@@ -27977,6 +30198,15 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
         <seg>Die Namen der Dateien müssen dem Sprachcode Ihrer Zeilsprache entsprechen wie sie im Dialog zu den Eigenschaften des Projekts definiert wurden (&lt;g0&gt;Projekt &gt; Eigenschaften&lt;/g0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The new colours have been saved.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T224004Z" creationid="karsten" creationdate="20150919T224004Z">
+        <seg>Die neuen Farben wurden gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28708,6 +30938,33 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The specified dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Wählen Sie zuerst einen Ordner Wörterbücherdateien aus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The specified dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T154401Z" creationid="karsten" creationdate="20150919T154401Z">
+        <seg>Das angegebene Wörterbuch existiert nicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The specified translation direction is not supported</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T160710Z" creationid="karsten" creationdate="20150919T160710Z">
+        <seg>Die angegebene Sprachrichtung wird nicht unterstützt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
@@ -28852,6 +31109,15 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The text could not be translated</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T160616Z" creationid="karsten" creationdate="20150919T160616Z">
+        <seg>Der Text konnte nicht übersetzt werden</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files.</seg>
       </tuv>
@@ -28873,6 +31139,15 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T164840Z">
         <seg>Der Text wird als reine Textdatei exportiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The text size exceeds the maximum</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T160554Z" creationid="karsten" creationdate="20150919T160554Z">
+        <seg>Die Textmenge ist zu groß</seg>
       </tuv>
     </tu>
     <tu>
@@ -29477,6 +31752,15 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>This API key has been blocked</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T160225Z" creationid="karsten" creationdate="20150919T160225Z">
+        <seg>Dieser API-key worde gesperrt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
       </tuv>
@@ -29514,6 +31798,15 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T200753Z">
         <seg>Diese TM wird nach und nach während der Übersetzung gefüllt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T163953Z" creationid="karsten" creationdate="20150919T163953Z">
+        <seg>Diese URL scheint ungültig zu sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29786,6 +32079,24 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T155616Z">
         <seg>Die Information wird für Segmente als auch für Wörter und Zeichen (mit oder ohne Leerzeichen) berechnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T163823Z" creationid="karsten" creationdate="20150919T163823Z">
+        <seg>Dies ist ein Git-Repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T163900Z" creationid="karsten" creationdate="20150919T163900Z">
+        <seg>Dies ist ein Subversion-Repository.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31069,6 +33380,15 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T122950Z" creationid="karsten" creationdate="20150919T122950Z">
+        <seg>Über&amp;setzt oder unübersetzt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>TransTips</seg>
       </tuv>
@@ -31173,6 +33493,15 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T102721Z" creationid="karsten" creationdate="20150919T102721Z">
+        <seg>Zieldokument erstellt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Translated documents created</seg>
       </tuv>
@@ -31197,11 +33526,29 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T220240Z" creationid="karsten" creationdate="20150919T220240Z">
+        <seg>Übersetzte Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T160252Z">
         <seg>Übersetzte Segmente werden mit dem ursprünglichen Text oben und dem übersetzten Text unten gezeigt, bei den noch nicht übersetzten Segmenten wird nur der ursprüngliche Text gezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T220309Z" creationid="karsten" creationdate="20150919T220309Z">
+        <seg>Text von übersetzten Segmenten</seg>
       </tuv>
     </tu>
     <tu>
@@ -31218,6 +33565,15 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T144355Z">
         <seg>Projekt wird übersetzt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174428Z" creationid="karsten" creationdate="20150919T174428Z">
+        <seg>Übersetzung</seg>
       </tuv>
     </tu>
     <tu>
@@ -31445,6 +33801,15 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T122839Z" creationid="karsten" creationdate="20150919T122839Z">
+        <seg>U&amp;nübersetzt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>URL of online dictionaries:</seg>
       </tuv>
@@ -31514,6 +33879,15 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T170510Z">
         <seg>Die Projektdatei kann nicht gelesen werden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T172336Z" creationid="karsten" creationdate="20150919T172336Z">
+        <seg>Daten konnten nicht gespeichert werden</seg>
       </tuv>
     </tu>
     <tu>
@@ -31677,6 +34051,15 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T102012Z" creationid="karsten" creationdate="20150919T102012Z">
+        <seg>Einmalige Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Unique:</seg>
       </tuv>
@@ -31735,6 +34118,15 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Unsupported SVN error</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T162136Z" creationid="karsten" creationdate="20150919T162136Z">
+        <seg>Nicht unterstützter SVN-Fehler</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
@@ -31775,6 +34167,24 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T220139Z" creationid="karsten" creationdate="20150919T220125Z">
+        <seg>Unübersetzte Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T220213Z" creationid="karsten" creationdate="20150919T220213Z">
+        <seg>Text von unübersetzten Segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Untranslated segments will hereby remain in the source language.</seg>
       </tuv>
@@ -31788,6 +34198,15 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140304T205123Z">
         <seg>Entpacken Sie die Dateien und platzieren Sie sie in den Ordner „plugins", der sich im OmegaT-Installationsordner befindet. Dieser Ordner enthält OmegaT.jar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T175612Z" creationid="karsten" creationdate="20150919T175612Z">
+        <seg>Stand</seg>
       </tuv>
     </tu>
     <tu>
@@ -31924,6 +34343,33 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T161058Z">
         <seg>TAB zum Fortbewegen benutzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173810Z" creationid="karsten" creationdate="20150919T173810Z">
+        <seg>Meine nutzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173829Z" creationid="karsten" creationdate="20150919T173829Z">
+        <seg>Originale nutzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173842Z" creationid="karsten" creationdate="20150919T173842Z">
+        <seg>Aktualisierte nutzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -32503,6 +34949,15 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Vincent Bidaux (documentation manager)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20151004T090931Z" creationid="karsten" creationdate="20151004T090931Z">
+        <seg>Vincent Bidaux (Dokumentationsmanager)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Visio</seg>
       </tuv>
@@ -32588,6 +35043,15 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130621T111803Z">
         <seg>Warnung in Zeile {0}, Spalte {1} während des Parsingprozesses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173258Z" creationid="karsten" creationdate="20150919T173258Z">
+        <seg>Achtung!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32711,6 +35175,15 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T165109Z" creationid="karsten" creationdate="20150919T165109Z">
+        <seg>Wenn markiert, enthält die Glossar-Autovervollständigung auch den Quelltext.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>When enabled, all the formatting tags are removed from source segments.</seg>
       </tuv>
@@ -32820,6 +35293,15 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T133944Z">
         <seg>Wird zwischen RTL und LTR Sprachen übersetzt, wird der Übersetzer wahrscheinlich oft zwischen LTR und RTL-Modi wechseln müssen, um die Tags in der Quelle richtig zu lesen und sie in der Zielsprache richtig einzugeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T141246Z" creationid="karsten" creationdate="20150919T141246Z">
+        <seg>Falls nicht verfügbar, wird die ID als Reserve genutzt</seg>
       </tuv>
     </tu>
     <tu>
@@ -33012,6 +35494,15 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T152224Z">
         <seg>Leerraum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T222440Z" creationid="karsten" creationdate="20150919T222440Z">
+        <seg>Leerzeichen</seg>
       </tuv>
     </tu>
     <tu>
@@ -33287,6 +35778,15 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T180231Z" creationid="karsten" creationdate="20150919T180231Z">
+        <seg>Falsche Antwort vom TaaS-Dienst</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Wrong response from engine</seg>
       </tuv>
@@ -33439,6 +35939,15 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T140246Z" creationid="karsten" creationdate="20150919T140246Z">
+        <seg>Excel 2003 XML</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>XSLT is most often used to convert data between different XML schemas or to convert XML data into web pages or PDF documents.</seg>
       </tuv>
@@ -33495,6 +36004,24 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Yandex Translate</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T155921Z" creationid="karsten" creationdate="20150919T155921Z">
+        <seg>Yandex Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Yandex Translate - No API Key Specified</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T160201Z" creationid="karsten" creationdate="20150919T160130Z">
+        <seg>Yandex Translate - Kein API-Key angegeben</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Yiddish</seg>
       </tuv>
@@ -33519,6 +36046,15 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T124129Z" creationid="karsten" creationdate="20150919T124129Z">
+        <seg>{0} Segmente werden modifiziert.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You are not required to accept this License in order to receive or</seg>
       </tuv>
@@ -33532,6 +36068,15 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154357Z">
         <seg>You are not responsible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173258Z" creationid="karsten" creationdate="20150919T173258Z">
+        <seg>Der HunspellTokenizer für dei Sprache {0} wird benutzt, aber es ist Kein Rechtschreibwörterbuch für die Sprache installiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34865,6 +37410,15 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T073232Z">
         <seg>aka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Alle &amp;Resultate anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -36540,6 +39094,15 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T161600Z" creationid="karsten" creationdate="20150919T161600Z">
+        <seg>Erweiterungen:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>extent that warranties are provided), that licensees may convey the</seg>
       </tuv>
@@ -36617,6 +39180,15 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T075617Z">
         <seg>fij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T123439Z" creationid="karsten" creationdate="20150919T123439Z">
+        <seg>Dateinamen</seg>
       </tuv>
     </tu>
     <tu>
@@ -41204,6 +43776,15 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20151004T093004Z" creationid="karsten" creationdate="20151004T093004Z">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>slk</seg>
       </tuv>
@@ -43060,11 +45641,56 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T100959Z" creationid="karsten" creationdate="20150919T100959Z">
+        <seg>{0} ({1} verbleibend) / {2} ({3} verbleibend), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T124427Z" creationid="karsten" creationdate="20150919T124427Z">
+        <seg>{0} +{1} weitere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173608Z" creationid="karsten" creationdate="20150919T173608Z">
+        <seg>{0} Konflikte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T143559Z">
         <seg>{0} geladen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T173553Z" creationid="karsten" creationdate="20150919T173553Z">
+        <seg>{0} Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0}/{1}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174055Z" creationid="karsten" creationdate="20150919T174055Z">
+        <seg>{0}/{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -43089,6 +45715,15 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T162247Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>← Back</seg>
+      </tuv>
+      <tuv lang="DE" changeid="karsten" changedate="20150919T174112Z" creationid="karsten" creationdate="20150919T174112Z">
+        <seg>← Zurück</seg>
       </tuv>
     </tu>
     <tu>
