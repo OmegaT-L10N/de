@@ -6997,6 +6997,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T092644Z" creationid="BVB" creationdate="20180826T092644Z">
+        <seg>&lt;s3&gt;Der Nachteil&lt;/s3&gt;: Zurzeit kann diese Version nicht in Verbindung mit Plugins genutzt werden, sodass nicht alle Funktionen zur Verfügung stehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T082123Z">
@@ -14579,6 +14587,38 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T092741Z" creationid="BVB" creationdate="20180826T092741Z">
+        <seg>Zur Installation auf Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T092725Z" creationid="BVB" creationdate="20180826T092725Z">
+        <seg>Für die Installation auf Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T092706Z" creationid="BVB" creationdate="20180826T092706Z">
+        <seg>Zur Installation auf Windowssystemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T092818Z" creationid="BVB" creationdate="20180826T092818Z">
+        <seg>Für die Installation auf anderen Betriebssystemen (wie FreeBSD und Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T092347Z">
@@ -19647,6 +19687,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T092727Z" creationid="BVB" creationdate="20180826T092727Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux (Intel) Users</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T185428Z">
@@ -19859,6 +19907,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180823T105731Z" creationid="BVB" creationdate="20180823T105731Z">
         <seg>MS Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T092708Z" creationid="BVB" creationdate="20180826T092708Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -36388,6 +36444,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T162743Z">
         <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Ihre Seite wurde nicht gefunden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T092646Z" creationid="BVB" creationdate="20180826T092646Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
