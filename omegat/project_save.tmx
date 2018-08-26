@@ -18005,6 +18005,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, if an OmegaT user finds a 100% match in a Level 2 OmegaT TMX file, it can be accepted without requiring adaptation, but the same would not be true for a Level 2 TMX file produced by a different CAT tool (or vice-versa).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T130112Z" creationid="BVB" creationdate="20180826T130112Z">
+        <seg>Mit anderen Worten, wenn ein OmegaT-Benutzer eine 100%ige Übereinstimmung in einer OmegaT TMX-Datei der Stufe 2 findet, kann sie akzeptiert werden, ohne dass eine Anpassung erforderlich ist. Das gleiche gilt jedoch nicht für eine TMX-Datei der Stufe 2, die von einem anderen CAT-Tool erstellt wurde und umgekehrt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T192310Z">
@@ -33763,6 +33771,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T191853Z">
         <seg>Diese Formatierung wurde gelöscht werden.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This has repercussions for workflows in which CAT tool users (typically customers) expect to receive translation memory files and to have 100% matches inserted automatically.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T130337Z" creationid="BVB" creationdate="20180826T130337Z">
+        <seg>Dies hat Auswirkungen auf Arbeitsabläufe, in denen CAT-Tool-Benutzer (in der Regel Kunden) erwarten, dass sie Translation Memory-Dateien erhalten und 100%ige Treffer automatisch eingefügt werden.</seg>
       </tuv>
     </tu>
     <tu>
