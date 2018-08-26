@@ -7053,6 +7053,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T185909Z" creationid="BVB" creationdate="20180826T185909Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Neueste Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T185747Z" creationid="BVB" creationdate="20180826T185747Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T105408Z" creationid="BVB" creationdate="20180826T105408Z">
@@ -32638,6 +32654,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T190209Z" creationid="BVB" creationdate="20180826T190209Z">
+        <seg>Der perfekte Begleiter für diejenigen unter uns, die keine Komplexität, sondern Effizienz brauchen; Glossare, automatische Vervollständigung und automatische Übersetzung machen meine Arbeit in der literarischen Übersetzung so viel effizienter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T065353Z">
@@ -37301,6 +37325,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180823T092335Z" creationid="BVB" creationdate="20180823T092335Z">
         <seg>Benutzerhandbücher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T190014Z" creationid="BVB" creationdate="20180826T190014Z">
+        <seg>Benutzerprofil</seg>
       </tuv>
     </tu>
     <tu>
