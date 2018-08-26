@@ -20024,6 +20024,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 1 TMX files contain no formatting information.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T125850Z" creationid="BVB" creationdate="20180826T125850Z">
+        <seg>Level 1 TMX-Dateien enthalten keine Formatierungsinformationen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 2 TMX files contain formatting information, but these files are typically only compatible when the same CAT tool is used.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T125919Z" creationid="BVB" creationdate="20180826T125919Z">
+        <seg>Level 2 TMX-Dateien enthalten Formatierungsinformationen, aber diese Dateien sind normalerweise nur kompatibel, wenn dasselbe CAT-Tool verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T045940Z">
@@ -30507,6 +30523,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX standard exists both in different &lt;s0&gt;versions&lt;/s0&gt; and in different &lt;s1&gt;levels&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T125701Z" creationid="BVB" creationdate="20180826T125701Z">
+        <seg>Der TMX-Standard existiert sowohl in verschiedenen &lt;s0&gt;Versionen&lt;/s0&gt; als auch auf verschiedenen &lt;s1&gt;Ebenen&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T154612Z">
@@ -31013,6 +31037,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The distinction is important for compatibility purposes.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T125728Z" creationid="BVB" creationdate="20180826T125728Z">
+        <seg>Die Unterscheidung ist wichtig für die Kompatibilität.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; 3.0 includes the User Manual and the readme.txt document.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T151700Z">
@@ -31490,6 +31522,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T075635Z">
         <seg>Die level2 Datei schließt &lt;a0&gt;OmegaT&lt;/a0&gt; spezifische Tags in korrekte TMX Tags ein, so dass die Datei mit ihrer Formatierungsinformation in einem anderen CAT Programm, das TMX 2 Niveau unterstützt - und in &lt;a1&gt;OmegaT&lt;/a1&gt; selber - einsetzbar ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The levels refer to the formatting information that is contained in the TMX file:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T125833Z" creationid="BVB" creationdate="20180826T125833Z">
+        <seg>Die Ebenen beziehen sich auf die Formatierungsinformationen, die in der TMX-Datei enthalten sind:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32546,6 +32586,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T155208Z">
         <seg>Die Rechtschreibprüfung legt die zu nutzende Sprache anhand des Sprachcodes der Zielsprache fest: wenn die Zielsprache brasilianisches Portugiesisch (PT_BR) ist, müssen die Unterordner der Wörterbücher die zwei Dateien mit dem Namen &lt;e0&gt;pt_br.aff&lt;e0/&gt; und &lt;e1&gt;pt_br.dic&lt;e1/&gt; enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The standard is still undergoing development; this is what the different versions refer to.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T125809Z" creationid="BVB" creationdate="20180826T125809Z">
+        <seg>Der Standard befindet sich noch in der Entwicklung; Darauf beziehen sich die verschiedenen Versionen.</seg>
       </tuv>
     </tu>
     <tu>
