@@ -17285,6 +17285,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T104750Z" creationid="BVB" creationdate="20180826T104750Z">
+        <seg>Wenn Sie die OmegaT-Version mit JRE installieren, obwohl die JRE bereits auf Ihrem Computer installiert ist, wird die JRE von OmegaT separat installiert und steht nicht in Konflikt mit ihr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130511T161041Z">
@@ -18073,6 +18081,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>In einem solchen Fall könnte ein sinnvolles Vorgehen sein:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T104720Z" creationid="BVB" creationdate="20180826T104720Z">
+        <seg>Wählen Sie in diesem Fall nicht die Standardversion aus. Wählen Sie eine andere Version (z. B. Standard oder Neueste) und wählen Sie dann eine Version mit der Kennzeichnung "Java nicht enthalten" aus.</seg>
       </tuv>
     </tu>
     <tu>
