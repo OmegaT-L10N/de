@@ -7005,6 +7005,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T105408Z" creationid="BVB" creationdate="20180826T105408Z">
+        <seg>&lt;s0&gt;Linux-Benutzer&lt;/s0&gt;: Die meisten Linux-Distributionen werden mit einer Java-Laufzeitumgebung ausgeliefert, einige Open-Source-Implementierungen funktionieren jedoch nicht ordnungsgemäß mit OmegaT (obwohl dies möglicherweise nicht sofort offensichtlich ist).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T105327Z" creationid="BVB" creationdate="20180826T105327Z">
+        <seg>&lt;s0&gt;Mac OS X-Benutzer&lt;/s0&gt;: Die JRE wird standardmäßig auf Mac OS X installiert. Es gibt daher keine Version für Mac OS X mit der JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T092534Z" creationid="BVB" creationdate="20180826T092534Z">
@@ -17041,6 +17057,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T145215Z">
         <seg>Wenn Sie einen Mac und eine Verknüpfung &lt;k0&gt; &lt;k1&gt;Umschalten&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; zu den &lt;m4&gt; &lt;g5&gt;Extras&lt;/g5&gt; &lt;g6&gt;Statistiken&lt;/g6&gt; &lt;/m4&gt; hinzufügen wollen, füge Sie die folgende Zeile in &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt; ein:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T105533Z" creationid="BVB" creationdate="20180826T105533Z">
+        <seg>Wenn Sie bei Linux relativ neu sind, empfehlen wir Ihnen, eine OmegaT-Version mit der JRE zu wählen.</seg>
       </tuv>
     </tu>
     <tu>
