@@ -23291,6 +23291,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is tolerant when reading TMX files: it will accept files with en-GB, en-US, en, EN, etc.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T132432Z" creationid="BVB" creationdate="20180826T132432Z">
+        <seg>OmegaT ist tolerant beim Lesen von TMX-Dateien: Es akzeptiert Dateien mit en-GB, en-US, en, EN usw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T085941Z">
@@ -23431,6 +23439,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T044957Z">
         <seg>OmegaT unterstützt importierte TMX Dateien der Versionen 1.1-1.4b (beide Level 1 und Level 2). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT supports language codes in the format "xx", "XX", "xx-YY" and "XX-YY", where xx or XX is the language, yy or YY the region.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T132253Z" creationid="BVB" creationdate="20180826T132253Z">
+        <seg>OmegaT unterstützt Sprachcodes im Format "xx", "XX", "xx-YY" und "XX-YY", wobei xx oder XX die Sprache, yy oder YY der Region ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29068,6 +29084,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Zu wiederholende Schritte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strictly speaking, the ISO standard for language codes requires "xx-YY" (for example: "en-GB" for British English); although this variant is supported by OmegaT, the default convention offered by OmegaT is "XX-YY", e.g. "EN-GB".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T132402Z" creationid="BVB" creationdate="20180826T132402Z">
+        <seg>Streng genommen erfordert der ISO-Standard für Sprachcodes "xx-YY" (zum Beispiel: "en-GB" für britisches Englisch); Obwohl diese Variante von OmegaT unterstützt wird, ist die Standardkonvention, die von OmegaT angeboten wird, "XX-YY", z. B. "EN-GB".</seg>
       </tuv>
     </tu>
     <tu>
