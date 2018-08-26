@@ -11739,6 +11739,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T101823Z" creationid="BVB" creationdate="20180826T101823Z">
+        <seg>Detaillierte Anleitung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Details unavailable</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T173643Z" creationid="karsten" creationdate="20150919T173643Z">
@@ -18726,6 +18734,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T102153Z" creationid="BVB" creationdate="20180826T102153Z">
+        <seg>Sie ist eine aktuellere Version als die Standardversion und beinhaltet neue Funktionen, die in letzterer nicht enthalten sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T161046Z">
@@ -18943,6 +18959,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will however lack some of the features of the "Latest" version.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T101741Z" creationid="BVB" creationdate="20180826T101741Z">
+        <seg>Es werden jedoch einige der Funktionen der "neuesten" Version fehlen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="DE">
@@ -18963,6 +18987,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T075300Z">
         <seg>Seine Inhalte werden immer alphabetisch nach den Quellsegmenten sortiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T101707Z" creationid="BVB" creationdate="20180826T101707Z">
+        <seg>Die Dokumentation, zumindest auf Englisch, ist in der Regel relativ aktuell.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19611,6 +19643,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T095327Z" creationid="BVB" creationdate="20180826T095327Z">
         <seg>Neueste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T101853Z" creationid="BVB" creationdate="20180826T101853Z">
+        <seg>Neueste Version - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24222,6 +24262,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Reintext-Dateien enthalten nur Text, deswegen ist ihre Übersetzung ebenso einfach wie das Tippen der Übersetzung. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T101746Z" creationid="BVB" creationdate="20180826T101746Z">
+        <seg>Plattform</seg>
       </tuv>
     </tu>
     <tu>
@@ -29764,6 +29812,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140204T130018Z">
         <seg>Das LanguageTool-Plug-in ist in OmegaT bereits enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T101914Z" creationid="BVB" creationdate="20180826T101914Z">
+        <seg>Die neueste Version benötigt Java {{site.data.versions.latest.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46897,6 +46953,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T162236Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T101837Z" creationid="BVB" creationdate="20180826T101837Z">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T101832Z" creationid="BVB" creationdate="20180826T101832Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
