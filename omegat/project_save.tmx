@@ -18037,6 +18037,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In practice, it is therefore possible for translators to deliver translation memories to customers and vice-versa, and for the recipient to use these files for immediate or future reference; if the files are to be used within an automated workflow, however, the constraint described above applies.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T131620Z" creationid="BVB" creationdate="20180826T131620Z">
+        <seg>In der Praxis ist es daher für Übersetzer möglich, Übersetzungsspeicher für Kunden bereitzustellen und umgekehrt für den Empfänger, diese Dateien für eine unmittelbare oder zukünftige Bezugnahme zu verwenden; Wenn die Dateien jedoch in einem automatisierten Arbeitsablauf verwendet werden sollen, gilt die oben beschriebene Einschränkung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In practice, this command will therefore be something like this:</seg>
       </tuv>
       <tuv lang="DE">
@@ -23459,6 +23467,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses the international TMX standard as its native translation memory format.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T131205Z" creationid="BVB" creationdate="20180826T131205Z">
+        <seg>OmegaT verwendet den internationalen TMX-Standard als natives Translation-Memory-Format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131130T143755Z">
@@ -28420,6 +28436,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T124348Z" creationid="BVB" creationdate="20180826T124348Z">
         <seg>Einige CAT-Tools lösen dieses Problem zumindest für MS Word, indem sie in Word selbst arbeiten. die meisten anderen CAT-Werkzeuge konvertieren nach RTF und zurück, oft unsichtbar für den Übersetzer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some CAT tools still employ dedicated proprietary translation memory formats, but virtually all support the import and export of TMX files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T131244Z" creationid="BVB" creationdate="20180826T131244Z">
+        <seg>Einige CAT-Tools verwenden immer noch dedizierte proprietäre Translation-Memory-Formate, aber praktisch alle unterstützen den Import und Export von TMX-Dateien.</seg>
       </tuv>
     </tu>
     <tu>
