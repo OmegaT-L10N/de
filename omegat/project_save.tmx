@@ -16837,6 +16837,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the checker's changes are to be included in a translation memory repository maintained by the customer, the changes need to be made &lt;i0&gt;before&lt;/i0&gt; the final documents are created.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T134545Z" creationid="BVB" creationdate="20180826T134545Z">
+        <seg>Wenn die Änderungen des Prüfers in ein vom Kunden gepflegtes Translation-Memory-Repository aufgenommen werden sollen, müssen die Änderungen vorgenommen werden, &lt;i0&gt;bevor&lt;/i0&gt; die endgültigen Dokumente erstellt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T125847Z">
@@ -31213,6 +31221,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The customer wishes to receive a translation memory against which texts can be run in the future: in other words, to "pretranslate" future texts against an existing translation memory.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T134929Z" creationid="BVB" creationdate="20180826T134929Z">
+        <seg>Der Kunde möchte ein Translation Memory erhalten, gegen das in Zukunft Texte geprüft werden können, um also zukünftige Texte mit einem vorhandenen Translation Memory "vorzuübersetzen".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data are exported when the segment is opened.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T154851Z">
@@ -33118,6 +33134,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translation may for example be passed to a checker for editing.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T134410Z" creationid="BVB" creationdate="20180826T134410Z">
+        <seg>Die Übersetzung kann beispielsweise an einen Prüfer zur Bearbeitung übergeben werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translation stage is only part of the customer's workflow.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T134345Z" creationid="BVB" creationdate="20180826T134345Z">
@@ -33883,6 +33907,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Das kann auf zwei Arten erreicht werden: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be done either within the CAT tool concerned, or in some cases in an external bilingual file format which the tool is capable of reading.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T134613Z" creationid="BVB" creationdate="20180826T134613Z">
+        <seg>Dies kann entweder innerhalb des betreffenden CAT-Tools oder in einigen Fällen in einem externen zweisprachigen Dateiformat erfolgen, das das Tool lesen kann.</seg>
       </tuv>
     </tu>
     <tu>
