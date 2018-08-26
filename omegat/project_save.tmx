@@ -3005,6 +3005,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T132950Z" creationid="BVB" creationdate="20180826T132950Z">
+        <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; kann auch für diesen Zweck verwendet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130606T053428Z">
@@ -15435,6 +15443,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary files</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T133004Z" creationid="BVB" creationdate="20180826T133004Z">
+        <seg>Glossardateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130523T060806Z">
@@ -23241,6 +23257,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is also capable of reading glossaries in TBX, the industry-standard format for glossary files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T133227Z" creationid="BVB" creationdate="20180826T133227Z">
+        <seg>OmegaT kann auch Glossare in TBX, dem Standardformat für Glossardateien, lesen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is capable of handling the current Microsoft Office formats directly, without conversion to or from other formats.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T122411Z" creationid="BVB" creationdate="20180826T122411Z">
@@ -23663,6 +23687,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T093553Z" creationid="BVB" creationdate="20180826T093553Z">
         <seg>OmegaT wird normalerweise auf jedem Linuxsystem laufen, auf dem eine passende Version der Java Runtime Environment (JRE) installiert werden kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT's glossary files are plain-text files in the format:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T133047Z" creationid="BVB" creationdate="20180826T133047Z">
+        <seg>Die Glossardateien von OmegaT sind Klartextdateien im Format:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28548,6 +28580,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T141556Z">
         <seg>Einige Dateiformate, die auf Übersetzungarbeit spezialisiert sind, zum Beispiel PO, erlauben das Einfügen von Kommentaren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some other CAT tools are able to import and export glossary files in this format, or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T133202Z" creationid="BVB" creationdate="20180826T133202Z">
+        <seg>Einige andere CAT-Tools können Glossardateien in diesem Format oder in einem ähnlichen Klartextformat importieren und exportieren, das sehr einfach daraus erzeugt werden kann (z. B. durch Suchen und Ersetzen in Microsoft Word).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46266,6 +46306,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154352Z">
         <seg>source code form), and must require no special password or key for</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T133128Z" creationid="BVB" creationdate="20180826T133128Z">
+        <seg>Quellterm &lt;tab&gt; Zielterm &lt;tab&gt; zusätzliche Information</seg>
       </tuv>
     </tu>
     <tu>
