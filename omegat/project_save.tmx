@@ -10515,6 +10515,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility problems may be caused by differences in the language codes employed.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T132222Z" creationid="BVB" creationdate="20180826T132222Z">
+        <seg>Kompatibilitätsprobleme können durch Unterschiede in den verwendeten Sprachcodes verursacht werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compiling OmegaT from source</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T082240Z" creationid="BVB" creationdate="20180826T082240Z">
@@ -29400,6 +29408,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX files are in the Unicode encoding, but may be UTF-8 or UTF-16.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T131943Z" creationid="BVB" creationdate="20180826T131943Z">
+        <seg>TMX-Dateien sind in der Unicode-Codierung, aber möglicherweise UTF-8 oder UTF-16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T092603Z">
@@ -29412,6 +29428,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T194234Z">
         <seg>TMX Dateien enthalten generell Übersetzungseinheiten mit mehreren in Frage kommenden Sprachen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX files produced on Windows systems may begin with a byte-order mark (BOM).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T132033Z" creationid="BVB" creationdate="20180826T132033Z">
+        <seg>TMX-Dateien, die auf Windows-Systemen erstellt werden, können mit einer Byte-Order-Markierung (BOM) beginnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33787,6 +33811,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130512T122002Z">
         <seg>Der Dialog führt verfügbare Dateifilter auf. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This differences do not generally lead to compatibility problems.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T132138Z" creationid="BVB" creationdate="20180826T132138Z">
+        <seg>Diese Unterschiede führen nicht generell zu Kompatibilitätsproblemen.</seg>
       </tuv>
     </tu>
     <tu>
