@@ -15163,6 +15163,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Further points to note regarding TMX files:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T131653Z" creationid="BVB" creationdate="20180826T131653Z">
+        <seg>Weitere Hinweise zu TMX-Dateien:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131008T191257Z">
@@ -22225,6 +22233,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not all CAT tools are equally strict in their observance of these definitions; consequently, some CAT tools are unable to open TMX files produced by certain other CAT tools directly.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T131746Z" creationid="BVB" creationdate="20180826T131746Z">
+        <seg>Nicht alle CAT-Tools sind gleichermaßen streng in der Einhaltung dieser Definitionen; Folglich können einige CAT-Tools TMX-Dateien, die von bestimmten anderen CAT-Tools erstellt wurden, nicht direkt öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not present</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T174029Z" creationid="karsten" creationdate="20150919T174029Z">
@@ -23197,6 +23213,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T122411Z" creationid="BVB" creationdate="20180826T122411Z">
         <seg>OmegaT ist in der Lage, die aktuellen Microsoft Office-Formate direkt und ohne Konvertierung in oder von andere(n) Formate(n) zu verarbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is generally observant of the conditions and tolerant of other tools' failure to observe them; should problems arise here, however, they can generally be resolved fairly easily by a search &amp; replace in a text editor of the illegal character in the TMX file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T131908Z" creationid="BVB" creationdate="20180826T131908Z">
+        <seg>OmegaT beobachtet im Allgemeinen die Bedingungen und toleriert die Nichteinhaltung anderer Werkzeuge durch sie; Sollten hier Probleme auftreten, können diese jedoch in der Regel recht einfach durch Suchen und Ersetzen in einem Texteditor des unzulässigen Zeichens in der TMX-Datei gelöst werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30583,6 +30607,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130621T114333Z">
         <seg>Die TMX-Quellsprache ({0}) unterscheidet sich von der Quellsprache des Projekts ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX standard contains definitions of what characters are permissible.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T131709Z" creationid="BVB" creationdate="20180826T131709Z">
+        <seg>Der TMX-Standard enthält Definitionen, welche Zeichen zulässig sind.</seg>
       </tuv>
     </tu>
     <tu>
