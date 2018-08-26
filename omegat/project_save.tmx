@@ -17869,6 +17869,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to Trados, however, several other CAT tools also support the "uncleaned RTF" format, notably Wordfast Classic.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T141954Z" creationid="BVB" creationdate="20180826T141954Z">
+        <seg>Zusätzlich zu Trados unterstützen auch einige andere CAT-Tools das "unbereinigte RTF"-Format, insbesondere Wordfast Classic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130523T061522Z">
@@ -19275,6 +19283,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T092502Z">
         <seg>Es kann sein, dass die translation memories, die in dem &lt;f0&gt;tm&lt;/f0&gt; Unterordner zur Verfügung stehen, Segmente mit identischem Quelltext, aber unterschiedlichen Zielen enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It owes its origins to the use of MS Word as an interface for the Trados CAT tool.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T141847Z" creationid="BVB" creationdate="20180826T141847Z">
+        <seg>Es verdankt seinen Ursprung der Verwendung von MS Word als Schnittstelle für das CAT-Tool von Trados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30859,6 +30875,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Trados "uncleaned" RTF file format, often referred to simply as "uncleaned files", has for many years been the most common bilingual file format used in translation workflows.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T141813Z" creationid="BVB" creationdate="20180826T141813Z">
+        <seg>Das "unbereinigte" RTF-Dateiformat von Trados, oft einfach als "unbereinigte Dateien" bezeichnet, ist seit vielen Jahren das gebräuchlichste zweisprachige Dateiformat, das in Übersetzungsworkflows verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T154612Z">
@@ -31529,6 +31553,14 @@ instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T155425Z">
         <seg>Die Dateien sind unformatierte reine Textdateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The filters available are mainly for file formats peculiar to the IT industry rather than end-user files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T141626Z" creationid="BVB" creationdate="20180826T141626Z">
+        <seg>Die verfügbaren Filter sind hauptsächlich für Dateiformate, die für die IT-Industrie typisch sind, und nicht für Endbenutzerdateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35627,6 +35659,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T112209Z" creationid="BVB" creationdate="20180826T092142Z">
         <seg>Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trados "uncleaned RTF"</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T141712Z" creationid="BVB" creationdate="20180826T141712Z">
+        <seg>Trados "unbereinigtes RTF"</seg>
       </tuv>
     </tu>
     <tu>
