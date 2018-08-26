@@ -3029,6 +3029,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T204501Z" creationid="BVB" creationdate="20180826T204501Z">
+        <seg>&lt;a0&gt;Das Sponsoring der Entwicklung hat bereits dazu geführt, dass bestimmte Features hinzugefügt wurden.&lt;/a0&gt; Wenn Sie bereit sind, die Arbeit zur Implementierung Ihres gewünschten Features zu finanzieren, wenden Sie sich bitte privat an das Entwicklungsteam, um ein Angebot zu erhalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T164009Z">
@@ -19752,6 +19760,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T204625Z" creationid="BVB" creationdate="20180826T204625Z">
+        <seg>Es ist auch möglich, dass von externen Entwicklern in Auftrag gegebene Entwicklungen in OmegaT implementiert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T092502Z">
@@ -24392,6 +24408,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T093553Z" creationid="BVB" creationdate="20180826T093553Z">
         <seg>OmegaT wird normalerweise auf jedem Linuxsystem laufen, auf dem eine passende Version der Java Runtime Environment (JRE) installiert werden kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T204349Z" creationid="BVB" creationdate="20180826T204349Z">
+        <seg>OmegaT-Entwickler, die alle Freiwillige sind, sind vielleicht eher bereit, ein RFE zu implementieren, wenn die Entwicklungsarbeit vom Anforderer finanziert wird.</seg>
       </tuv>
     </tu>
     <tu>
