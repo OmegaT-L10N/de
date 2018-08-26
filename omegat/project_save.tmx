@@ -1522,6 +1522,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T124550Z" creationid="BVB" creationdate="20180826T124550Z">
+        <seg>(OmegaT ist in dieser Hinsicht alles andere als einzigartig: viele andere CAT-Werkzeuge konvertieren Quelldateien in ein anderes Format, manchmal im Hintergrund, ohne dass der Übersetzer dies bemerkt, bevor sie übersetzt werden.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="DE">
@@ -18623,6 +18631,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, they must first be converted manually to Office Open XML (MS Office 2007/2010) or Open Document format (LibreOffice or OpenOffice.org) before they can be handled in OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T124443Z" creationid="BVB" creationdate="20180826T124443Z">
+        <seg>Stattdessen müssen sie zuerst manuell in Office Open XML (MS Office 2007/2010) oder Open Document (LibreOffice oder OpenOffice.org) konvertiert werden, bevor sie in OmegaT verarbeitet werden können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180822T160156Z" creationid="BVB" creationdate="20180822T160156Z">
@@ -22901,6 +22917,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T154413Z">
         <seg>OmegaT wird eine Liste aller Segmente, in denen alle angegebenen Wörter vorkommen, anzeigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not support these formats directly.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T124406Z" creationid="BVB" creationdate="20180826T124406Z">
+        <seg>OmegaT unterstützt diese Formate nicht direkt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28252,6 +28276,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140130T162231Z">
         <seg>Somali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some CAT tools solve this problem, at least for MS Word, by working within Word itself; most other CAT tools convert to RTF and back, often invisibly for the translator.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T124348Z" creationid="BVB" creationdate="20180826T124348Z">
+        <seg>Einige CAT-Tools lösen dieses Problem zumindest für MS Word, indem sie in Word selbst arbeiten. die meisten anderen CAT-Werkzeuge konvertieren nach RTF und zurück, oft unsichtbar für den Übersetzer.</seg>
       </tuv>
     </tu>
     <tu>
