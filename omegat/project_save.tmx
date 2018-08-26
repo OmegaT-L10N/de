@@ -7807,8 +7807,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180826T081621Z" creationid="BVB" creationdate="20180826T081621Z">
-        <seg>Fügt dem OmegaT-Glossar die Erkennung von flektierten Formen und Funktionen zur unscharfen Funktionen zu..</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T081728Z" creationid="BVB" creationdate="20180826T081621Z">
+        <seg>Fügt dem OmegaT-Glossar die Erkennung von flektierten Formen und Funktionen zur unscharfen Suche (Fuzzy-Matching) zu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22474,6 +22474,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT text export function</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T081810Z" creationid="BVB" creationdate="20180826T081810Z">
+        <seg>OmegaT-Funktionen zum Textexport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT thus takes the TUV segments corresponding to the project's source and target language codes and uses them as the source and target segments respectively.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T193628Z">
@@ -35076,6 +35084,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T161742Z">
         <seg>Rechtschreibung-Wörterbücher benutzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the OmegaT text export function (scripting interface).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T082130Z" creationid="BVB" creationdate="20180826T082130Z">
+        <seg>OmegaT-Funktionen zum Textexport (Scripting-Interface).</seg>
       </tuv>
     </tu>
     <tu>
