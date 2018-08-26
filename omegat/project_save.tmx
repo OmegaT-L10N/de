@@ -208,6 +208,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T093934Z" creationid="BVB" creationdate="20180826T093934Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$ ant jar release</seg>
       </tuv>
       <tuv lang="DE">
@@ -16945,6 +16953,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T153919Z">
         <seg>Wenn Sie &lt;a0&gt;OmegaT&lt;/a0&gt; nicht normal ausführen können (keine grafische Umgebung zur Verfügung steht): kopieren Sie die Einstellungen von einer anderen &lt;a1&gt;OmegaT&lt;/a1&gt; Installation auf einer anderen Maschine in einen spezifischen Ordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T094213Z" creationid="BVB" creationdate="20180826T094213Z">
+        <seg>Wenn Sie unsicher sind, ob schon eine passende JRE auf Ihrem System installiert ist, können Sie immer noch eine OmegaT-Version mit JRE herunterladen und installieren.</seg>
       </tuv>
     </tu>
     <tu>
