@@ -4221,6 +4221,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T093026Z" creationid="BVB" creationdate="20180826T093026Z">
+        <seg>&lt;i1&gt;OmegaT kann auf jedem Betriebssystem installiert werden, das in der Lage ist, Java Runtime Envronment 1.6 laufen zu lassen.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T183054Z">
@@ -27123,6 +27131,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T125558Z">
         <seg>Wählen Sie dies Menüelement, falls die derzeitige Übersetzung nicht zutrifft und fügen Sie die alternative Übersetzung ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180826T093237Z" creationid="BVB" creationdate="20180826T093237Z">
+        <seg>Wählen Sie, ob Sie OmegaT einschließlich oder ohne Java Runtime Environment (JRE) herunterladen möchten.</seg>
       </tuv>
     </tu>
     <tu>
