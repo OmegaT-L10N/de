@@ -1522,6 +1522,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180827T061612Z" creationid="BVB" creationdate="20180827T061612Z">
+        <seg>(Nicht zu verwechseln mit der "Text Export"-Funktion, die es auch ermöglicht, Skripte mit OmegaT zu verwenden, aber auf einer grundlegenderen Ebene.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T124550Z" creationid="BVB" creationdate="20180826T124550Z">
@@ -8959,6 +8967,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apertium Plugin</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180827T061730Z" creationid="BVB" creationdate="20180827T061730Z">
+        <seg>Apertium-Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apertium uses a shallow-transfer machine translation engine which processes the input text in stages, as in an assembly line: de-formatting, morphological analysis, part-of-speech disambiguation, shallow structural transfer, lexical transfer, morphological generation, and re-formatting.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T195942Z">
@@ -13471,6 +13487,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE">
         <seg>Erlaubt einen von der Groß-Kleinschreibung unabhängigen Vergleich (voreingestellt macht das Muster einen Unterschied zwischen Gross- und Kleinschreibung). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables external scripts to access OmegaT's functionality.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180827T061522Z" creationid="BVB" creationdate="20180827T061522Z">
+        <seg>Ermöglicht externen Skripten den Zugriff auf die Funktionalität von OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19264,6 +19288,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180827T061753Z" creationid="BVB" creationdate="20180827T061753Z">
+        <seg>Integriert die Apertium-Funktionalität zur maschinellen Übersetzung in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180822T160156Z" creationid="BVB" creationdate="20180822T160156Z">
@@ -23586,6 +23618,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Okapi Filters Plugin</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180827T061628Z" creationid="BVB" creationdate="20180827T061628Z">
+        <seg>Okapi Filter-Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140130T160640Z">
@@ -26567,6 +26607,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T131643Z">
         <seg>Protecting Users' Legal Rights From Anti-Circumvention Law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180827T061653Z" creationid="BVB" creationdate="20180827T061653Z">
+        <seg>Bietet Filter für die Verarbeitung weiterer Dateiformate, einschließlich Trados TTX.</seg>
       </tuv>
     </tu>
     <tu>
