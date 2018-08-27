@@ -10971,6 +10971,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributed by Henry Pijffers.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180827T062519Z" creationid="BVB" creationdate="20180827T062519Z">
+        <seg>Zur Verfügung gestellt von Henry Pijffers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T082130Z">
@@ -20117,6 +20125,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180827T062504Z" creationid="BVB" creationdate="20180827T062504Z">
         <seg>Java-Befehlszeilenskript zum Zusammenführen von zwei oder mehr TMX-Dateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180827T062629Z" creationid="BVB" creationdate="20180827T062629Z">
+        <seg>Java-Befehlszeilenskript zum Entfernen von "überflüssigen" Übersetzungseinheiten aus einer TMX-Datei: Löscht alle TUs ohne Zielsegment oder in denen das Zielsegment identisch mit dem Quellsegment ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30603,6 +30619,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMXCleaner</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180827T062530Z" creationid="BVB" creationdate="20180827T062530Z">
+        <seg>TMXCleaner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMXMerger</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180827T062422Z" creationid="BVB" creationdate="20180827T062422Z">
@@ -36805,6 +36829,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toxic</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180827T062636Z" creationid="BVB" creationdate="20180827T062636Z">
+        <seg>Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tra&amp;nsTips</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T085957Z">
@@ -38387,6 +38419,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180827T061933Z" creationid="BVB" creationdate="20180827T061933Z">
         <seg>Dienstprogramme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180827T062903Z" creationid="BVB" creationdate="20180827T062903Z">
+        <seg>Dienstprogramm zum Konvertieren von Trados TagEditor-Dateien (TTX) in ein Zwischenformat, damit sie in OmegaT übersetzt werden können.</seg>
       </tuv>
     </tu>
     <tu>
