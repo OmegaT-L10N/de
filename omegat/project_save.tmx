@@ -7877,6 +7877,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T065357Z" creationid="BVB" creationdate="20180829T065357Z">
+        <seg>Zugriff auf Projektinhalte / aktuelles Quelldokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T065439Z" creationid="BVB" creationdate="20180829T065439Z">
+        <seg>Zugriff auf Projektinhalte / aktuelles Zieldokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Project Contents/Dictionaries</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T065127Z" creationid="BVB" creationdate="20180829T065127Z">
@@ -7897,6 +7913,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T065032Z" creationid="BVB" creationdate="20180829T065032Z">
         <seg>Zugriff auf Projektinhalte / Root</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T065230Z" creationid="BVB" creationdate="20180829T065230Z">
+        <seg>Zugriff auf Projektinhalte / Quelldateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T065251Z" creationid="BVB" creationdate="20180829T065251Z">
+        <seg>Zugriff auf Projektinhalte / Zieldateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T065527Z" creationid="BVB" creationdate="20180829T065527Z">
+        <seg>Zugriff auf Projektinhalte / beschreibbares Glossare</seg>
       </tuv>
     </tu>
     <tu>
@@ -48077,6 +48117,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T065400Z" creationid="BVB" creationdate="20180829T065400Z">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T065440Z" creationid="BVB" creationdate="20180829T065440Z">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectAccessDictionaryMenuItem</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T065130Z" creationid="BVB" creationdate="20180829T065130Z">
@@ -48097,6 +48153,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T065036Z" creationid="BVB" creationdate="20180829T065036Z">
         <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T065233Z" creationid="BVB" creationdate="20180829T065233Z">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T065253Z" creationid="BVB" creationdate="20180829T065253Z">
+        <seg>projectAccessTargetMenuItem</seg>
       </tuv>
     </tu>
     <tu>
