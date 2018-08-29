@@ -3373,6 +3373,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2016 Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T063123Z" creationid="BVB" creationdate="20180829T063123Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; unterliegt dem Copyright © 2000-2016 Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich und Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; can be accessed from the Mac OS X Services.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T055954Z">
@@ -10749,6 +10757,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130429T064421Z">
         <seg>Klicken Sie auf Quelldateien importieren... um die Quelldateien auszuwählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T063455Z" creationid="BVB" creationdate="20180829T063455Z">
+        <seg>kKlicken auf &lt;g0&gt;Extras &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; öffnet das Skriptingfenster: &lt;s2&gt; &lt;s3&gt;Skriptingfenster&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24282,6 +24298,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T063236Z" creationid="BVB" creationdate="20180829T063236Z">
+        <seg>OmegaT erlaubt das Ausführen von Skripten, die in verschiedenen Skriptsprachen geschrieben wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT allows you to do this by marking the characters/words that have a special formatting with easy-to-handle tags.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T122207Z">
@@ -28936,6 +28960,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140304T204152Z">
         <seg>Das Scripting-Plug-in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T063141Z" creationid="BVB" creationdate="20180829T063141Z">
+        <seg>Skripte</seg>
       </tuv>
     </tu>
     <tu>
@@ -38724,6 +38756,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T101339Z">
         <seg>Nutzung: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T063249Z" creationid="BVB" creationdate="20180829T063249Z">
+        <seg>Benutzung</seg>
       </tuv>
     </tu>
     <tu>
