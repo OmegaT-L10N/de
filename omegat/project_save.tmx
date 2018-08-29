@@ -10145,6 +10145,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T064713Z" creationid="BVB" creationdate="20180829T064713Z">
+        <seg>Standardmäßig werden Skripte im Ordner "scripts" im OmegaT-Installationsordner (dem Ordner, der die OmegaT.jar enthält) gespeichert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T155535Z">
@@ -13239,6 +13247,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130611T235653Z">
         <seg>Media&amp;Wiki-Seite herunterladen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T064917Z" creationid="BVB" creationdate="20180829T064917Z">
+        <seg>MediaWiki-Seite herunterladen</seg>
       </tuv>
     </tu>
     <tu>
@@ -28964,6 +28980,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T064837Z" creationid="BVB" creationdate="20180829T064837Z">
+        <seg>Skriptsprachen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripting plugin</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140304T204152Z">
@@ -30368,6 +30392,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T134214Z" creationid="BVB" creationdate="20180826T134214Z">
         <seg>Einige CAT-Tools, insbesondere TRADOS, sind in der Lage, eine Vielzahl von Dateiformaten, einschließlich Desktop-Publishing-Formaten, zu importieren und sie in dem betreffenden Werkzeug für die Übersetzung vorzubereiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T064823Z" creationid="BVB" creationdate="20180829T064823Z">
+        <seg>Einige zusätzliche Skripte finden Sie hier: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40984,6 +41016,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T064751Z" creationid="BVB" creationdate="20180829T064751Z">
+        <seg>Sie können dort neue Skripts hinzufügen, sodass sie in der Liste der verfügbaren Skripts im Skriptfenster angezeigt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add the files to it later.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T094538Z">
@@ -45221,10 +45261,34 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T064850Z" creationid="BVB" creationdate="20180829T064850Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T064843Z" creationid="BVB" creationdate="20180829T064843Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T152601Z">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T064753Z" creationid="BVB" creationdate="20180829T064753Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
@@ -48033,6 +48097,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T144732Z">
         <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T064855Z" creationid="BVB" creationdate="20180829T064855Z">
+        <seg>projectOpenRecentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
