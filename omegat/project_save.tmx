@@ -4685,6 +4685,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; moves back to the previous pane.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T062100Z" creationid="BVB" creationdate="20180829T062100Z">
+        <seg>&lt;k1&gt;Strg+Umschalt+Tab&lt;/k1&gt; geht zurück zum vorherigen Fenster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k2&gt;Ctrl&lt;/k2&gt; or &lt;k3&gt;Control&lt;/k3&gt; key.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
@@ -20108,6 +20116,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Es ist möglich, die Projekteigenschaften während einer Übersetzungssitzung zu modifizieren. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T061946Z" creationid="BVB" creationdate="20180829T061946Z">
+        <seg>Es ist möglich, mit &lt;k0&gt;Strg + Tab&lt;/k0&gt; von einem Bereich zum nächsten (z. B. vom Editor zum Fuzzy-Matches-Bereich) zu wechseln.</seg>
       </tuv>
     </tu>
     <tu>
