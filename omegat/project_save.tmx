@@ -20122,8 +20122,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180829T061946Z" creationid="BVB" creationdate="20180829T061946Z">
-        <seg>Es ist möglich, mit &lt;k0&gt;Strg + Tab&lt;/k0&gt; von einem Bereich zum nächsten (z. B. vom Editor zum Fuzzy-Matches-Bereich) zu wechseln.</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T062141Z" creationid="BVB" creationdate="20180829T061946Z">
+        <seg>Es ist möglich, mit &lt;k0&gt;Strg+Tab&lt;/k0&gt; von einem Bereich zum nächsten (z. B. vom Editor zum Fuzzy-Matches-Bereich) zu wechseln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31238,8 +31238,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert Match or Selection &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180829T061855Z" creationid="BVB" creationdate="20180829T061855Z">
-        <seg>Systemweite Kommandos alles Auswählen (&lt;k0&gt;Strg+A&lt;/k0&gt;), einfügen (&lt;e1&gt;Strg+V&lt;/e1&gt;), ausschneiden (&lt;e2&gt;Strg+X&lt;/e2&gt;), kopieren (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Treffer oder Auswahl einfügen &lt;e4&gt;(Strg+I&lt;/e4&gt;) und Quelle einfügen (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) funktionieren pinzipiell nur auf den Text innerhalb des gerade geöffneten Segments.</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T062133Z" creationid="BVB" creationdate="20180829T061855Z">
+        <seg>UmschaltSystemweite Kommandos alles Auswählen (&lt;k0&gt;Strg+A&lt;/k0&gt;), einfügen (&lt;e1&gt;Strg+V&lt;/e1&gt;), ausschneiden (&lt;e2&gt;Strg+X&lt;/e2&gt;), kopieren (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Treffer oder Auswahl einfügen &lt;e4&gt;(Strg+I&lt;/e4&gt;) und Quelle einfügen (&lt;e5&gt;Ctrl+Umschalt+I&lt;/e5&gt;) funktionieren pinzipiell nur auf den Text innerhalb des gerade geöffneten Segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34744,6 +34744,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T144121Z">
         <seg>Die Kombination wählt den Nten Treffer im Trefferfenster (der erste Treffer ist als Standard gewählt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcuts &lt;k2&gt;Ctrl+A&lt;/k2&gt; and &lt;k3&gt;Ctrl+C&lt;/k3&gt; work in panes, allowing to copy all or some of the information to the clipboard.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T062414Z" creationid="BVB" creationdate="20180829T062414Z">
+        <seg>Die Tastenkürzel &lt;k2&gt;Strg+A&lt;/k2&gt; und &lt;k3&gt;Strg+C &lt;/k3&gt; funktionieren in Feldern und ermöglichen, alle oder einige der Informationen in die Zwischenablage zu kopieren.</seg>
       </tuv>
     </tu>
     <tu>
