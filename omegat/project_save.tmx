@@ -11909,24 +11909,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Ctrl+3</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130504T155227Z">
-        <seg>STRG+3</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073233Z">
+        <seg>Strg+3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+4</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130504T155242Z">
-        <seg>STRG+4</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073305Z">
+        <seg>Strg+4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+5</seg>
       </tuv>
-      <tuv lang="DE" changeid="hasan" changedate="20130504T155257Z">
-        <seg>STRG+5</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073322Z">
+        <seg>Strg+5</seg>
       </tuv>
     </tu>
     <tu>
@@ -12171,6 +12171,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073640Z" creationid="BVB" creationdate="20180829T073640Z">
+        <seg>Strg-Umschalt+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+R</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T065801Z" creationid="BVB" creationdate="20180829T065657Z">
@@ -12179,10 +12187,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073356Z" creationid="BVB" creationdate="20180829T073356Z">
+        <seg>Strg-Umschalt+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+T</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T065820Z" creationid="BVB" creationdate="20180829T065736Z">
         <seg>Strg+Umschalt+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073432Z" creationid="BVB" creationdate="20180829T073432Z">
+        <seg>Strg-Umschalt+U</seg>
       </tuv>
     </tu>
     <tu>
@@ -23402,10 +23426,26 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073414Z" creationid="BVB" creationdate="20180829T073414Z">
+        <seg>Nächstes übersetztes Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T085118Z" creationid="karsten" creationdate="20150919T085118Z">
         <seg>Nächstes uni&amp;kales Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Unique Segment</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073502Z" creationid="BVB" creationdate="20180829T073502Z">
+        <seg>Nächstes eindeutiges Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -29918,8 +29958,24 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Select Match #3</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180829T070231Z" creationid="BVB" creationdate="20180829T070231Z">
-        <seg>Match #3 auswählen</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073225Z" creationid="BVB" creationdate="20180829T070231Z">
+        <seg>Treffer #3 auswählen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #4</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073252Z" creationid="BVB" creationdate="20180829T073252Z">
+        <seg>Treffer #4 auswählen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #5</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073337Z" creationid="BVB" creationdate="20180829T073337Z">
+        <seg>Treffer #5 auswählen</seg>
       </tuv>
     </tu>
     <tu>
@@ -44149,6 +44205,30 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073346Z" creationid="BVB" creationdate="20180829T073346Z">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073358Z" creationid="BVB" creationdate="20180829T073358Z">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editRegisterUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073340Z" creationid="BVB" creationdate="20180829T073340Z">
+        <seg>editRegisterUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editReplaceInProjectMenuItem</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T070102Z" creationid="BVB" creationdate="20180829T070102Z">
@@ -44833,6 +44913,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T160603Z">
         <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180829T073434Z" creationid="BVB" creationdate="20180829T073434Z">
+        <seg>gotoNextTranslatedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
