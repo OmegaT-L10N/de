@@ -34893,6 +34893,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new format can also serve as a useful way of handling the legacy .doc, .xls and .ppt formats, since they can be converted to their MS Office 2007 counterparts, translated in OmegaT, and converted back again.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T125912Z" creationid="BVB" creationdate="20180901T125912Z">
+        <seg>Das neue Format kann auch als nützlicher Weg zur Bearbeitung der älteren Formate .doc, .xls und .ppt dienen, da sie in ihre Pendants in MS Office 2007 konvertiert, in OmegaT übersetzt und wieder zurückkonvertiert werden können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T202119Z">
@@ -37512,6 +37520,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This procedure is therefore an alternative for translators who would prefer not to use OpenOffice.org for this purpose.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T125935Z" creationid="BVB" creationdate="20180901T125935Z">
+        <seg>Dieses Verfahren ist daher eine Alternative für Übersetzer, die OpenOffice.org zu diesem Zweck nicht verwenden möchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T151026Z">
@@ -39436,6 +39452,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T140858Z">
         <seg>Unbekannter Plug-In-Typ in '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unlike the legacy .doc, .xls and .ppt formats, these files can be handled directly in OmegaT, with no loss of formatting as a result of conversion to and from other formats.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T125820Z" creationid="BVB" creationdate="20180901T125820Z">
+        <seg>Im Gegensatz zu den älteren Formaten .doc, .xls und .ppt können diese Dateien direkt in OmegaT verarbeitet werden, ohne dass die Formatierung durch Konvertierung in andere Formate verloren geht.</seg>
       </tuv>
     </tu>
     <tu>
