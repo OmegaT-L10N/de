@@ -15355,6 +15355,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Find the lines:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T085555Z" creationid="BVB" creationdate="20180901T085555Z">
+        <seg>Suchen Sie die Zeilen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T132851Z">
@@ -19570,6 +19578,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T151951Z">
         <seg>Im ersten und dritten Fall oben sind die Tags nicht korrekt gepaart und im zweiten Fall fehlt das &lt; Zeichen beim beginnenden Tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt; open the file &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T085535Z" creationid="BVB" creationdate="20180901T085535Z">
+        <seg>Öffnen Sie im Ordner &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt; in einem Texteditor die Datei &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/util/gui&lt;/c0&gt; open the file &lt;c1&gt;Styles.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T085732Z" creationid="BVB" creationdate="20180901T085732Z">
+        <seg>Öffnen Sie im Ordner &lt;c0&gt;src/org/omegat/util/gui&lt;/c0&gt; mit einem Texteditor die Datei&lt;c1&gt;Styles.java&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43175,6 +43199,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T085609Z" creationid="BVB" creationdate="20180901T085609Z">
+        <seg>und</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T153535Z">
@@ -43219,6 +43251,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>und viele, viele andere sehr hilfsbereite Personen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T085639Z" creationid="BVB" creationdate="20180901T085639Z">
+        <seg>und ersetzen Sie &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; mit &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43475,6 +43515,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T073852Z">
         <seg>az</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>b = Styles.COLOR_GREEN;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T085616Z" creationid="BVB" creationdate="20180901T085616Z">
+        <seg>b = Styles.COLOR_GREEN;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49459,6 +49507,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154353Z">
         <seg>restrictions" within the meaning of section 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T085557Z" creationid="BVB" creationdate="20180901T085557Z">
+        <seg>return Styles.createAttributeSet(fg, Styles.COLOR_GREEN, true, null);</seg>
       </tuv>
     </tu>
     <tu>
