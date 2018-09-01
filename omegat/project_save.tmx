@@ -15541,8 +15541,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>For OmegaT 4.0 and later, no additional software is required.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180901T081609Z" creationid="BVB" creationdate="20180901T081609Z">
-        <seg>Für OmegaT 4.0 und später ist keine zusätzliche Software nötig.</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T082050Z" creationid="BVB" creationdate="20180901T081609Z">
+        <seg>Für OmegaT 4.0 und neuer ist keine zusätzliche Software nötig.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18282,6 +18282,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T154659Z">
         <seg>Wenn Sie nicht mit systemweiten Tastenkombinationen im Konflikt stehen, dann sollten sie innerhalb von OmegaT zur Verfügung stehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this is all you're interested in, you can skip to step 3a.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T082244Z" creationid="BVB" creationdate="20180901T082244Z">
+        <seg>Wenn das alles ist, was Sie interessiert, können Sie mit Schritt 3a fortfahren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24655,6 +24663,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T094125Z">
         <seg>OmegaT 2.0, LiesMich Datei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 4.0 or later</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T082038Z" creationid="BVB" creationdate="20180901T082038Z">
+        <seg>OmegaT 4.0 oder neuer</seg>
       </tuv>
     </tu>
     <tu>
@@ -41965,6 +41981,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can run OmegaT directly from the command line with</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T082154Z" creationid="BVB" creationdate="20180901T082154Z">
+        <seg>Sie können OmegaT direkt von der Befehlszeile ausführen mit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130512T194439Z">
@@ -43719,6 +43743,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T082008Z" creationid="BVB" creationdate="20180901T082008Z">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T071434Z">
@@ -45291,6 +45323,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154353Z">
         <seg>governed by this License along with a term that is a further</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T082156Z" creationid="BVB" creationdate="20180901T082156Z">
+        <seg>gradlew run</seg>
       </tuv>
     </tu>
     <tu>
