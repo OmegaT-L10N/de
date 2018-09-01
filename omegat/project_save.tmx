@@ -2282,6 +2282,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/** Number of fuzzy matches to display */</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T090301Z" creationid="BVB" creationdate="20180901T090301Z">
+        <seg>/** Number of fuzzy matches to display */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="DE">
@@ -11587,6 +11595,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2011-2012</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T090405Z" creationid="BVB" creationdate="20180901T090405Z">
+        <seg>Copyright Marc Prior 2011-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2013 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T150053Z">
@@ -15651,6 +15667,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For both examples, compile and test as described above.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T090403Z" creationid="BVB" creationdate="20180901T090403Z">
+        <seg>Für beide Beispiele kompilieren und testen Sie wie oben beschrieben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For both users' and</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154335Z">
@@ -19602,6 +19626,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T151951Z">
         <seg>Im ersten und dritten Fall oben sind die Tags nicht korrekt gepaart und im zweiten Fall fehlt das &lt; Zeichen beim beginnenden Tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;/src/org/omegat/util&lt;/c0&gt; open the file &lt;c1&gt;OConsts.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T090223Z" creationid="BVB" creationdate="20180901T090223Z">
+        <seg>Öffnen Sie im Ordner &lt;c0&gt;/src/org/omegat/util&lt;/c0&gt; mit einem Texteditor die Datei &lt;c1&gt;OConsts.java&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43287,6 +43319,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;= 5&lt;/c0&gt; with &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T090336Z" creationid="BVB" creationdate="20180901T090336Z">
+        <seg>und ersetzen Sie &lt;c0&gt;= 5&lt;/c0&gt; mit &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180901T085639Z" creationid="BVB" creationdate="20180901T085639Z">
@@ -49275,6 +49315,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180901T085744Z" creationid="BVB" creationdate="20180901T085744Z">
         <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>public static final int MAX_NEAR_STRINGS = 5;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T090303Z" creationid="BVB" creationdate="20180901T090303Z">
+        <seg>public static final int MAX_NEAR_STRINGS = 5;</seg>
       </tuv>
     </tu>
     <tu>
