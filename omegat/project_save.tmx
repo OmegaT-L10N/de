@@ -9377,6 +9377,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T151823Z" creationid="BVB" creationdate="20180901T151823Z">
+        <seg>Ab Version 2.1.8 werden diese vielen Tags standardmäßig zu einem einzigen Tag aggregiert (verdichtet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T151442Z">
@@ -19222,6 +19230,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T151258Z" creationid="BVB" creationdate="20180901T151258Z">
+        <seg>In OmegaT-Versionen vor 2.1.8 führte jede Formatierungsänderung in einer MS Office 2007-Datei zu einer langen Reihe von mehreren Tags, was die Handhabung dieses Dateiformats oft unpraktisch machte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131205T222227Z">
@@ -27264,6 +27280,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T132705Z" creationid="BVB" creationdate="20180826T132705Z">
         <seg>Hinweise zu proprietären Translation-Memory-Dateien:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Points to note when using the .docx, .xlsx and .pptx formats in OmegaT</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T151211Z" creationid="BVB" creationdate="20180901T151211Z">
+        <seg>Zu beachtende Punkte bei Verwendung der Formate .docx, .xlsx und .pptx in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
