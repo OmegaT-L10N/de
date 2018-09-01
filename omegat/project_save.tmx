@@ -8261,6 +8261,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;i0&gt;target&lt;/i0&gt; column of the original file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T075112Z" creationid="BVB" creationdate="20180901T075112Z">
+        <seg>Nachdem Sie die Übersetzung abgeschlossen und die übersetzten Dokumente erstellt haben, kopieren Sie die übersetzte Spalte aus der übersetzten Datei zurück in die &lt;i0&gt;Ziel&lt;/i0&gt;-Spalte der Originaldatei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After copying the required files into the checkout directory you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T121320Z">
@@ -9793,6 +9801,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful to preserve these in the same way that you would handle OmegaT's own inline tags (the inline tag functionality of OmegaT, such as the tag validation function, is not available in this case, however).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T074937Z" creationid="BVB" creationdate="20180901T074937Z">
+        <seg>Achten Sie darauf, diese auf die gleiche Weise zu bewahren, wie Sie OmegaTs eigene Inline-Tags handhaben würden (die Inline-Tag-Funktionalität von OmegaT, wie die Tag-Validierungsfunktion, ist in diesem Fall jedoch nicht verfügbar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T200231Z">
@@ -11311,6 +11327,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T121544Z" creationid="BVB" creationdate="20180826T121544Z">
         <seg>Umgekehrt, wo Produkte eindeutig nicht direkt kompatibel sind, ist es oft möglich, Verfahren zu finden, mit denen sie zusammenarbeiten können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Convert the file back to RTF format.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T075136Z" creationid="BVB" creationdate="20180901T075136Z">
+        <seg>Konvertieren Sie die RTF-Datei zurück ins OpenOffice.org-Format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19202,6 +19226,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T161148Z">
         <seg>Damit die Änderungen wirksam werden, muss das Projekt beendet und dann wieder geöffnet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order for this procedure to be used, the Déjà Vu user must prepare the source text file and supply it to the translator in the Déjà Vu "External View" format.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180901T075254Z" creationid="BVB" creationdate="20180901T075254Z">
+        <seg>Damit dieses Verfahren verwendet werden kann, muss der Déjà Vu-Benutzer die Quelltextdatei vorbereiten und sie dem Übersetzer im Déjà Vu "External View" -Format zur Verfügung stellen.</seg>
       </tuv>
     </tu>
     <tu>
