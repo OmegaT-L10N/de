@@ -1586,6 +1586,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The greater ease of tag handling with .docx files comes at the cost of a slight loss in control over formatting.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180903T123842Z" creationid="BVB" creationdate="20180903T123842Z">
+        <seg>(Die leichtere Handhabung von Tags mit DOCX-Dateien geht mit einem leichten Verlust der Kontrolle über die Formatierung einher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T132641Z" creationid="BVB" creationdate="20180826T132641Z">
@@ -15927,6 +15935,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T194919Z">
         <seg>Zum Beispiel, wenn Sie eine tschechische Textdatei haben (sehr wahrscheinlich in &lt;e2&gt;ISO-8859-2&lt;/e2&gt; geschrieben), müssen Sie nur die Erweiterung von &lt;l3&gt;.txt&lt;/l3&gt; zu &lt;l4&gt;.txt2&lt;/l4&gt; ändern, und &lt;a5&gt;OmegaT&lt;/a5&gt; wird den Inhalt dieser Datei richtig interpretieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, without the "aggregate tags" function, where a word in the source text is in bold and italics, the translator could choose to render it in bold only, or in italics only.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180903T124335Z" creationid="BVB" creationdate="20180903T124335Z">
+        <seg>Zum Beispiel ohne die Funktion "aggregate tags", bei der ein Wort im Quelltext fett und kursiv dargestellt wird, kann der Übersetzer für die Ausgabe nur fett oder nur kursiv wählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40182,6 +40198,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T102811Z" creationid="BVB" creationdate="20180826T102811Z">
         <seg>Benutzer, die bereits Erfahrung mit OmegaT haben, bevorzugen oft die neueste Version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users wishing to translate MS Office 2007 files should therefore upgrade to OmegaT version 2.1.8 or later.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180903T123806Z" creationid="BVB" creationdate="20180903T123806Z">
+        <seg>Benutzer, die MS Office 2007-Dateien übersetzen möchten, sollten daher auf OmegaT Version 2.1.8 oder höher aktualisieren.</seg>
       </tuv>
     </tu>
     <tu>
