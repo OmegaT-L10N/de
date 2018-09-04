@@ -9353,8 +9353,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>Apply styles to delimiters</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180904T165317Z" creationid="BVB" creationdate="20180904T165317Z">
-        <seg>Stile auf Trennzeichen anwenden</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165505Z" creationid="BVB" creationdate="20180904T165317Z">
+        <seg>Formatierungen auf Trennzeichen anwenden</seg>
       </tuv>
     </tu>
     <tu>
@@ -13387,6 +13387,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165516Z" creationid="BVB" creationdate="20180904T165516Z">
+        <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diptik</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T060131Z" creationid="BVB" creationdate="20180829T060131Z">
@@ -14631,6 +14639,38 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T070636Z" creationid="BVB" creationdate="20180904T070636Z">
         <seg>End Sub&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End Sub&lt;br28/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165652Z" creationid="BVB" creationdate="20180904T165652Z">
+        <seg>End Sub&lt;br28/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End With&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165554Z" creationid="BVB" creationdate="20180904T165554Z">
+        <seg>End With&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End With&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165624Z" creationid="BVB" creationdate="20180904T165624Z">
+        <seg>End With&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End With&lt;br27/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165650Z" creationid="BVB" creationdate="20180904T165650Z">
+        <seg>End With&lt;br27/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26445,6 +26485,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Error Resume Next&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165511Z" creationid="BVB" creationdate="20180904T165511Z">
+        <seg>On Error Resume Next&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Linux</seg>
       </tuv>
       <tuv lang="DE">
@@ -28168,6 +28216,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T111421Z" creationid="BVB" creationdate="20180826T111421Z">
         <seg>Informationen zum Datenschutz: OmegaT Java Webstart speichert keine Ihrer Daten auf den Webservern von OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private Sub AddTw4winStyles()&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165508Z" creationid="BVB" creationdate="20180904T165508Z">
+        <seg>Private Sub AddTw4winStyles()&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31417,6 +31473,30 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130630T162355Z">
         <seg>Leere Übersetzung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set sExt = ActiveDocument.Styles.Add(Name:="tw4winExternal", _&lt;br20/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165627Z" creationid="BVB" creationdate="20180904T165627Z">
+        <seg>Set sExt = ActiveDocument.Styles.Add(Name:="tw4winExternal", _&lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set sInt = ActiveDocument.Styles.Add(Name:="tw4winInternal", _&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165601Z" creationid="BVB" creationdate="20180904T165601Z">
+        <seg>Set sInt = ActiveDocument.Styles.Add(Name:="tw4winInternal", _&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set sMark = ActiveDocument.Styles.Add(Name:="tw4winMark", _&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165523Z" creationid="BVB" creationdate="20180904T165523Z">
+        <seg>Set sMark = ActiveDocument.Styles.Add(Name:="tw4winMark", _&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37656,8 +37736,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>This HowTo explains how to produce an "uncleaned RTF" file from an OmegaT project.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180904T164127Z" creationid="BVB" creationdate="20180904T164127Z">
-        <seg>Dieses HowTo erklärt, wie man eine "ungereinigte RTF"-Datei aus einem OmegaT-Projekt erstellt.</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165823Z" creationid="BVB" creationdate="20180904T164127Z">
+        <seg>Dieses HowTo erklärt, wie man eine "unbereinigte RTF"-Datei aus einem OmegaT-Projekt erstellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42422,6 +42502,30 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180823T101326Z" creationid="BVB" creationdate="20180823T101326Z">
         <seg>Mit Links zu detaillierteren HOWTOs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With sExt.Font&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165636Z" creationid="BVB" creationdate="20180904T165636Z">
+        <seg>With sExt.Font&lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With sInt.Font&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165613Z" creationid="BVB" creationdate="20180904T165613Z">
+        <seg>With sInt.Font&lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With sMark.Font&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165532Z" creationid="BVB" creationdate="20180904T165532Z">
+        <seg>With sMark.Font&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51023,6 +51127,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sExt.LanguageID = wdNoProofing&lt;br22/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165633Z" creationid="BVB" creationdate="20180904T165633Z">
+        <seg>sExt.LanguageID = wdNoProofing&lt;br22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sInt.LanguageID = wdNoProofing&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165610Z" creationid="BVB" creationdate="20180904T165610Z">
+        <seg>sInt.LanguageID = wdNoProofing&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sa</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T083111Z">
@@ -53267,6 +53387,118 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T162247Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .ColorIndex = wdGray50&lt;br26/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165647Z" creationid="BVB" creationdate="20180904T165647Z">
+        <seg>  .ColorIndex = wdGray50&lt;br26/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .ColorIndex = wdRed&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165622Z" creationid="BVB" creationdate="20180904T165622Z">
+        <seg>  .ColorIndex = wdRed&lt;br18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .ColorIndex = wdViolet&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165550Z" creationid="BVB" creationdate="20180904T165550Z">
+        <seg>  .ColorIndex = wdViolet&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Hidden = True&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165544Z" creationid="BVB" creationdate="20180904T165544Z">
+        <seg>  .Hidden = True&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Name = "Courier"&lt;br16/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165615Z" creationid="BVB" creationdate="20180904T165615Z">
+        <seg>  .Name = "Courier"&lt;br16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Name = "Courier"&lt;br24/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165639Z" creationid="BVB" creationdate="20180904T165639Z">
+        <seg>  .Name = "Courier"&lt;br24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Name = "Courier"&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165535Z" creationid="BVB" creationdate="20180904T165535Z">
+        <seg>  .Name = "Courier"&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Size = 11&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165618Z" creationid="BVB" creationdate="20180904T165618Z">
+        <seg>  .Size = 11&lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Size = 11&lt;br25/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165641Z" creationid="BVB" creationdate="20180904T165641Z">
+        <seg>  .Size = 11&lt;br25/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Size = 11&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165538Z" creationid="BVB" creationdate="20180904T165538Z">
+        <seg>  .Size = 11&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>  .Subscript = True&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165547Z" creationid="BVB" creationdate="20180904T165547Z">
+        <seg>  .Subscript = True&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165603Z" creationid="BVB" creationdate="20180904T165603Z">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br21/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165630Z" creationid="BVB" creationdate="20180904T165630Z">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br21/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165525Z" creationid="BVB" creationdate="20180904T165525Z">
+        <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
