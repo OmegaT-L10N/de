@@ -11051,8 +11051,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Click on Macros and select levelformat (or whatever name you gave to your macro), then Edit.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180904T070248Z" creationid="BVB" creationdate="20180904T070248Z">
-        <seg>Klicken Sie auf Makros und wählen Sie Format übertragen (oder den Namen, den Sie Ihrem Makro gegeben haben), dann Bearbeiten.</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070517Z" creationid="BVB" creationdate="20180904T070248Z">
+        <seg>Klicken Sie auf Makros und wählen Sie FormatUebertragen (oder den Namen, den Sie Ihrem Makro gegeben haben), dann Bearbeiten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16275,6 +16275,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For levelformat, this should be:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070339Z" creationid="BVB" creationdate="20180904T070339Z">
+        <seg>Für Format übertragen sollte dies sein:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on this, and how to apply and follow the GNU GPL, see</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154418Z">
@@ -19936,8 +19944,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In the Macro name box, type a name for the macro, such as "levelformat".</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180904T065145Z" creationid="BVB" creationdate="20180904T065145Z">
-        <seg>Geben Sie in das Feld Makroname einen Namen für das Makro ein, z. B. "Format übertragen".</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070427Z" creationid="BVB" creationdate="20180904T065145Z">
+        <seg>Geben Sie in das Feld Makroname einen Namen für das Makro ein, z. B. "FormatUebertragen".</seg>
       </tuv>
     </tu>
     <tu>
@@ -34300,6 +34308,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T091953Z">
         <seg>Die Kontrollkästchen in der unteren Hälfte des Dialogs haben folgenden Zweck:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The code of your macro(s) will be displayed.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070306Z" creationid="BVB" creationdate="20180904T070306Z">
+        <seg>Der Code Ihrer Makros wird angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
