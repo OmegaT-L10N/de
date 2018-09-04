@@ -201,6 +201,16 @@
     <tu>
       <tuv lang="EN">
         <seg># Google Translate v2 API key
+#GOOGLE_API_KEY="-Dgoogle.api.key=0123456789A0123456789B0123456789C0123456789D"</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173705Z" creationid="BVB" creationdate="20180904T173705Z">
+        <seg># Google Translate v2 API key
+#GOOGLE_API_KEY="-Dgoogle.api.key=0123456789A0123456789B0123456789C0123456789D"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Google Translate v2 API key
 -Dgoogle.api.key=xxxxx</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T173409Z" creationid="BVB" creationdate="20180904T173409Z">
@@ -2653,6 +2663,38 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T173253Z" creationid="BVB" creationdate="20180904T173253Z">
         <seg>3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173432Z" creationid="BVB" creationdate="20180904T173432Z">
+        <seg>3.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173543Z" creationid="BVB" creationdate="20180904T173543Z">
+        <seg>3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.7.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173617Z" creationid="BVB" creationdate="20180904T173617Z">
+        <seg>3.7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.8.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173701Z" creationid="BVB" creationdate="20180904T173701Z">
+        <seg>3.8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9223,6 +9265,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T173403Z" creationid="BVB" creationdate="20180904T173403Z">
         <seg>Und entfernen Sie "#" am Zeilenkopf von -Dgoogle.api.key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And remove "#" at the line head.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173731Z" creationid="BVB" creationdate="20180904T173731Z">
+        <seg>Und entfernen Sie "#" am Zeilenkopf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15939,6 +15989,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T190812Z">
         <seg>Schließlich speichern Sie die Änderungen mit &lt;e0&gt;Datei - Speichern.&lt;/e0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and select your preferred editor to open the file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173656Z" creationid="BVB" creationdate="20180904T173656Z">
+        <seg>Suchen Sie die Datei OmegaT.app/Contents/MacOS/OmegaT.sh und wählen Sie Ihren bevorzugten Editor, um die Datei zu öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23061,6 +23119,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac users:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173541Z" creationid="BVB" creationdate="20180904T173541Z">
+        <seg>Mac-Benutzer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T085948Z">
@@ -30040,6 +30106,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on OmegaT.app and select "Show Package Contents".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173614Z" creationid="BVB" creationdate="20180904T173614Z">
+        <seg>Klicken Sie mit der rechten Maustaste auf OmegaT.app und wählen Sie "Paketinhalt anzeigen".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T064043Z" creationid="BVB" creationdate="20180829T064043Z">
@@ -30380,6 +30454,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Speichern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save OmegaT.l4J.ini (and if necessary, move it back to the OmegaT folder).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173531Z" creationid="BVB" creationdate="20180904T173531Z">
+        <seg>Speichern Sie OmegaT.l4J.ini (und verschieben Sie sie ggf. wieder in den OmegaT-Ordner).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38584,6 +38666,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T161758Z">
         <seg>Die Lizenz bezieht sich auf die Dokumentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This line defines GOOGLE_API_KEY.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173808Z" creationid="BVB" creationdate="20180904T173808Z">
+        <seg>Diese Zeile legt den GOOGLE_API_KEY fest.</seg>
       </tuv>
     </tu>
     <tu>
