@@ -9641,6 +9641,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic hyphenation also adds unnecessary tags, so disable it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T060314Z" creationid="BVB" creationdate="20180904T060314Z">
+        <seg>Die automatische Silbentrennung fügt außerdem unnötige Tags hinzu, also deaktivieren Sie sie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130511T154035Z">
@@ -17876,6 +17884,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If every single word in OmegaT is enclosed within tags, it is possible that Word has attempted to spell-check the text without access to a suitable spelling dictionary, and has therefore marked each word as mis-spelt.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T060228Z" creationid="BVB" creationdate="20180904T060228Z">
+        <seg>Wenn jedes einzelne Wort in OmegaT in Tags eingeschlossen ist, hat Word möglicherweise versucht, den Text ohne Zugriff auf ein geeignetes Rechtschreibwörterbuch zu überprüfen und hat daher jedes Wort als falsch geschrieben markiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130517T125448Z">
@@ -20884,6 +20900,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T204625Z" creationid="BVB" creationdate="20180826T204625Z">
         <seg>Es ist auch möglich, dass von externen Entwicklern in Auftrag gegebene Entwicklungen in OmegaT implementiert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may be necessary to do this for each document, in which case the procedure in Word 2007 is: Click the Page Layout tab; in the Page Setup group, click Hyphenation; then click None.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T060430Z" creationid="BVB" creationdate="20180904T060430Z">
+        <seg>Dies ist möglicherweise für jedes Dokument erforderlich. In diesem Fall lautet die Vorgehensweise in Word 2007: Klicken Sie auf die Registerkarte Seitenlayout; Klicken Sie in der Gruppe Seiteneinrichtung auf Silbentrennung; Klicken Sie dann auf Keine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26131,6 +26155,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T210917Z" creationid="BVB" creationdate="20180826T203541Z">
         <seg>Wenn ein Vorschlag nicht angenommen wird, kann es daran liegen, dass die gewünschte Funktion bereits implementiert wurde oder dass es Gründe gibt, warum sie nicht implementiert werden kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One solution is to switch off automatic spelling checking in Word.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T060256Z" creationid="BVB" creationdate="20180904T060256Z">
+        <seg>Eine Lösung besteht darin, die automatische Rechtschreibprüfung in Word zu deaktivieren.</seg>
       </tuv>
     </tu>
     <tu>
