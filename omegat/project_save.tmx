@@ -2044,8 +2044,8 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       <tuv lang="EN">
         <seg>- level the formatting from these paragraphs using the macro as described above, then re-insert the formatting; or</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180904T063327Z" creationid="BVB" creationdate="20180904T063036Z">
-        <seg>- die Formatierung aus diesen Absätzen mit dem oben beschriebenen Makro anpassen, fügen Sie dann die Formatierung erneut ein oder</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T063437Z" creationid="BVB" creationdate="20180904T063036Z">
+        <seg>- die Formatierung aus diesen Absätzen mit dem oben beschriebenen Makro anpassen; Fügen Sie dann die Formatierung erneut ein oder</seg>
       </tuv>
     </tu>
     <tu>
@@ -2060,8 +2060,8 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       <tuv lang="EN">
         <seg>- mark only the text up to the beginning of the formatted part, copy this text and paste it back over itself, then repeat the process on the text after the formatted part.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180904T063226Z" creationid="BVB" creationdate="20180904T063226Z">
-        <seg>- markieren Sie nur den Text bis zum Anfang des formatierten Teils, kopieren Sie diesen Text und fügen Sie ihn wieder über sich selbst ein, wiederholen Sie dann den Vorgang im Text nach dem formatierten Teil.</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T063426Z" creationid="BVB" creationdate="20180904T063226Z">
+        <seg>- nur den Text bis zum Anfang des formatierten Teils markieren; Kopieren Sie diesen Text und fügen Sie ihn wieder über sich selbst ein, wiederholen Sie dann den Vorgang im Text nach dem formatierten Teil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10161,6 +10161,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Brief instructions for creating the macro (in MS Office 2007) are provided below.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T063759Z" creationid="BVB" creationdate="20180904T063759Z">
+        <seg>Kurze Anweisungen zum Erstellen des Makros (in MS Office 2007).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T055247Z" creationid="BVB" creationdate="20180829T055247Z">
@@ -12039,6 +12047,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T153855Z">
         <seg>Erzeugt die übersetzten Dokumente im Zielordner des Projekts und erzeugt Dateien der translation memory (level1, level2 und omegat tmx Dateien) im Stammordner des Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a macro to level the character formatting of a paragraph</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T063506Z" creationid="BVB" creationdate="20180904T063506Z">
+        <seg>Erstellen eines Makros zum Anpassen der Zeichenformatierung eines Absatzes</seg>
       </tuv>
     </tu>
     <tu>
@@ -42430,6 +42446,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T050338Z">
         <seg>Wenn Sie Probleme haben, können Sie sich die Benutzergruppe um Rat fragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can automate the above procedure somewhat by creating a macro.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T063532Z" creationid="BVB" creationdate="20180904T063532Z">
+        <seg>Sie können den obigen Vorgang etwas automatisieren, indem Sie ein Makro erstellen.</seg>
       </tuv>
     </tu>
     <tu>
