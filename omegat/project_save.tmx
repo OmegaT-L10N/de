@@ -20568,6 +20568,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Trados segment delimiters</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T164902Z" creationid="BVB" creationdate="20180904T164902Z">
+        <seg>Fügen Sie Trados-Segmentbegrenzer ein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert match</seg>
       </tuv>
       <tuv lang="DE">
@@ -21052,6 +21060,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T183412Z">
         <seg>Sie gilt nicht für die Web Start Versionen, die automatisch aktualisiert werden, und auch nicht für Plattform übergreifende Versionen, die auf Windows installiert sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It does not enable them to "translate" bilingual files supplied by their customers.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T164847Z" creationid="BVB" creationdate="20180904T164847Z">
+        <seg>Es ermöglicht ihnen nicht, zweisprachige Dateien ihrer Kunden zu "übersetzen".</seg>
       </tuv>
     </tu>
     <tu>
@@ -39236,6 +39252,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154336Z">
         <seg>To prevent this, the GPL assures that</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To produce a bilingual OpenOffice.Org file containing the Trados segment delimiters, close the OmegaT project, then run the following AutoIt script (requires Windows) on the project's project_save.tmx file:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T165129Z" creationid="BVB" creationdate="20180904T165129Z">
+        <seg>Um eine zweisprachige OpenOffice.Org-Datei zu erstellen, die die Trados-Segmentbegrenzer enthält, schließen Sie das OmegaT-Projekt, und führen Sie dann das folgende AutoIt-Skript (erfordert Windows) für die Projektdatei des Projekts: project_save.tmx aus:</seg>
       </tuv>
     </tu>
     <tu>
