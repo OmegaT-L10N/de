@@ -2362,6 +2362,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dgoogle.api.key=XXXXXXXX</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174254Z" creationid="BVB" creationdate="20180904T174254Z">
+        <seg>-Dgoogle.api.key=XXXXXXXX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.</seg>
       </tuv>
       <tuv lang="DE">
@@ -2661,6 +2669,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.11</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174220Z" creationid="BVB" creationdate="20180904T174220Z">
+        <seg>3.11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.2.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T172854Z" creationid="BVB" creationdate="20180904T172854Z">
@@ -2753,6 +2769,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE">
         <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.1.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174422Z" creationid="BVB" creationdate="20180904T174422Z">
+        <seg>4.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8373,6 +8397,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the following argument to the launch command:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174252Z" creationid="BVB" creationdate="20180904T174252Z">
+        <seg>Fügen Sie dem Startbefehl das folgende Argument hinzu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T124620Z" creationid="karsten" creationdate="20150919T124620Z">
@@ -11687,6 +11719,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE">
         <seg>&amp;Inhalte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Configuration in OmegaT</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174419Z" creationid="BVB" creationdate="20180904T174419Z">
+        <seg>Konfiguration in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -22501,6 +22541,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Lettisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch OmegaT</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174435Z" creationid="BVB" creationdate="20180904T174435Z">
+        <seg>Starten Sie OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -34904,6 +34952,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The basic launch command with the Google Translate API added will therefore be:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174355Z" creationid="BVB" creationdate="20180904T174355Z">
+        <seg>Der grundlegende Startbefehl mit der hinzugefügten Google Translate API lautet daher:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic rule is that the sequence of tags must be preserved in the same order.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T181531Z">
@@ -41550,6 +41606,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T110126Z" creationid="BVB" creationdate="20180826T110126Z">
         <seg>Eilige Benutzer können stattdessen die unsignierte Version verwenden; Wenn Sie Probleme beim Starten der App haben, lesen Sie, &lt;a0&gt;wie Sie eine App von einem unbekannten Entwickler öffnen&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users launching OmegaT from the command line or by a script:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174216Z" creationid="BVB" creationdate="20180904T174216Z">
+        <seg>Benutzer, die OmegaT über die Befehlszeile oder ein Skript starten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48523,6 +48587,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T081523Z">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174400Z" creationid="BVB" creationdate="20180904T174400Z">
+        <seg>java -jar -Dgoogle.api.key=XXXXXXXX OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
