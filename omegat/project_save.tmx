@@ -1432,10 +1432,42 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>' levelformat macro&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070604Z" creationid="BVB" creationdate="20180904T070604Z">
+        <seg>' FormatUebertragen macro&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T153418Z">
         <seg>'*' entspricht Null oder mehr Zeichen, von der momentanen Position in einem gegebenen Wort bis zu seinem Ende.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070554Z" creationid="BVB" creationdate="20180904T070554Z">
+        <seg>'&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070606Z" creationid="BVB" creationdate="20180904T070606Z">
+        <seg>'&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070611Z" creationid="BVB" creationdate="20180904T070611Z">
+        <seg>'&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10689,6 +10721,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the line:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070654Z" creationid="BVB" creationdate="20180904T070654Z">
+        <seg>Ändern Sie die Zeile:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code (see &lt;x1/&gt; for a list of language codes).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130529T083753Z">
@@ -14491,6 +14531,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End Sub&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070636Z" creationid="BVB" creationdate="20180904T070636Z">
+        <seg>End Sub&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T173958Z">
@@ -16277,8 +16325,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>For levelformat, this should be:</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180904T070339Z" creationid="BVB" creationdate="20180904T070339Z">
-        <seg>Für Format übertragen sollte dies sein:</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070537Z" creationid="BVB" creationdate="20180904T070339Z">
+        <seg>Für FormatUebertragen sollte dies sein:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18024,6 +18072,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154352Z">
         <seg>If additional permissions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If all has gone according to plan, your macro should now work.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070744Z" creationid="BVB" creationdate="20180904T070744Z">
+        <seg>Wenn alles nach Plan verlaufen ist, sollte Ihr Makro jetzt funktionieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25011,6 +25067,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now simply place the cursor anywhere in the paragraph and press Ctrl+Shift+9 (or whatever other keyboard shortcut you selected), and you should see the formatting disappear.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T071045Z" creationid="BVB" creationdate="20180904T071045Z">
+        <seg>Platzieren Sie den Cursor einfach irgendwo im Absatz und drücken Sie Strg + Umschalt + 9 (oder welche andere Tastenkombination Sie ausgewählt haben) und Sie sollten sehen, dass die Formatierung verschwindet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
       <tuv lang="DE">
@@ -29948,6 +30012,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save with Ctrl+S, and close the macro editing window.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070729Z" creationid="BVB" creationdate="20180904T070729Z">
+        <seg>Speichern Sie mit Strg + S und schließen Sie das Fenster zum Bearbeiten von Makros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save...</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T141149Z">
@@ -31009,6 +31081,62 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180827T065213Z" creationid="BVB" creationdate="20180827T065213Z">
         <seg>Auswahl alternativer Symbole zur Verwendung mit OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.Copy&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070629Z" creationid="BVB" creationdate="20180904T070629Z">
+        <seg>Selection.Copy&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveDown Unit:=wdParagraph, Count:=1, Extend:=wdExtend&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070623Z" creationid="BVB" creationdate="20180904T070623Z">
+        <seg>Selection.MoveDown Unit:=wdParagraph, Count:=1, Extend:=wdExtend&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveLeft Unit:=wdWord, Count:=1, Extend:=wdExtend&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070626Z" creationid="BVB" creationdate="20180904T070626Z">
+        <seg>Selection.MoveLeft Unit:=wdWord, Count:=1, Extend:=wdExtend&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.MoveUp Unit:=wdParagraph, Count:=1&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070619Z" creationid="BVB" creationdate="20180904T070619Z">
+        <seg>Selection.MoveUp Unit:=wdParagraph, Count:=1&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070656Z" creationid="BVB" creationdate="20180904T070656Z">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070632Z" creationid="BVB" creationdate="20180904T070632Z">
+        <seg>Selection.PasteAndFormat (wdPasteDefault)&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection.PasteSpecial DataType:=wdPasteText</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070704Z" creationid="BVB" creationdate="20180904T070704Z">
+        <seg>Selection.PasteSpecial DataType:=wdPasteText</seg>
       </tuv>
     </tu>
     <tu>
@@ -32281,6 +32409,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Segmentierung auf Strukturebene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sub levelformat()&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070551Z" creationid="BVB" creationdate="20180904T070551Z">
+        <seg>Sub FormatUebertragen()&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38984,6 +39120,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To test it, add some formatting to your Word document, for example by making one word bold.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070811Z" creationid="BVB" creationdate="20180904T070811Z">
+        <seg>Um es zu testen, fügen Sie Ihrem Word-Dokument einige Formatierungen hinzu, indem Sie beispielsweise ein Wort fett formatieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T204925Z" creationid="BVB" creationdate="20180826T201929Z">
@@ -43739,6 +43883,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>___________________</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070640Z" creationid="BVB" creationdate="20180904T070640Z">
+        <seg>___________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>___________________&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070541Z" creationid="BVB" creationdate="20180904T070541Z">
+        <seg>___________________&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51707,6 +51867,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154405Z">
         <seg>to the third party based on the extent of your activity of conveying</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T070702Z" creationid="BVB" creationdate="20180904T070702Z">
+        <seg>zu:</seg>
       </tuv>
     </tu>
     <tu>
