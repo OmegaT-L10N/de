@@ -220,6 +220,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Google Translate v2 API key
+GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173812Z" creationid="BVB" creationdate="20180904T173812Z">
+        <seg># Google Translate v2 API key
+GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154059Z">
@@ -2643,6 +2653,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.10</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174013Z" creationid="BVB" creationdate="20180904T174013Z">
+        <seg>3.10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.2.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T172854Z" creationid="BVB" creationdate="20180904T172854Z">
@@ -2695,6 +2713,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T173701Z" creationid="BVB" creationdate="20180904T173701Z">
         <seg>3.8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.9</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173946Z" creationid="BVB" creationdate="20180904T173946Z">
+        <seg>3.9</seg>
       </tuv>
     </tu>
     <tu>
@@ -22791,6 +22817,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux users:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174011Z" creationid="BVB" creationdate="20180904T174011Z">
+        <seg>Linux-Benutzer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux users: both MS Office 2007 and the Microsoft compatibility plug-in run on &lt;a0&gt;Crossover Linux.&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T075138Z" creationid="BVB" creationdate="20180901T151023Z">
@@ -23315,6 +23349,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T084220Z">
         <seg>Stellen Sie sicher, dass Sie ein freies Microsoft Konto haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that you have the Kaptain launcher installed (&lt;a0&gt;refer if necessary to the Linux Howto)&lt;/a0&gt;, then enter the Google Translate API key in the relevant field on the Connectivity tab.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T174148Z" creationid="BVB" creationdate="20180904T174148Z">
+        <seg>Stellen Sie sicher, dass Sie den Kaptain-Launcher installiert haben (&lt;a0&gt;greifen Sie gegebenenfalls auf das Linux-Howto zurück)&lt;/a0&gt; und geben Sie dann den Google Translate API-Schlüssel in das entsprechende Feld auf der Registerkarte Konnektivität ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30462,6 +30504,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T173531Z" creationid="BVB" creationdate="20180904T173531Z">
         <seg>Speichern Sie OmegaT.l4J.ini (und verschieben Sie sie ggf. wieder in den OmegaT-Ordner).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173959Z" creationid="BVB" creationdate="20180904T173959Z">
+        <seg>Speichern Sie OmegaT.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53217,6 +53267,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T060203Z" creationid="BVB" creationdate="20180829T060203Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>where "XXXXXXXX" is your Google Translate API key.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180904T173945Z" creationid="BVB" creationdate="20180904T173945Z">
+        <seg>wobei "XXXXXXXX" Ihr Google Übersetzer API-Schlüssel ist.</seg>
       </tuv>
     </tu>
     <tu>
