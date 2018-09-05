@@ -9085,6 +9085,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you should be able to translate the Infix XML file with good results using earlier versions of OmegaT by means of the HTML filter.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T051849Z" creationid="BVB" creationdate="20180905T051849Z">
+        <seg>Alternativ sollten Sie in der Lage sein, die Infix-XML-Datei mit guten Ergebnissen zu übersetzen, indem Sie frühere Versionen von OmegaT mithilfe des HTML-Filters verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T154300Z">
@@ -19526,10 +19534,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are using OmegaT version 2.3 or later, simply place the XML file exported from Infix as described above in the /source folder of your OmegaT project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T051727Z" creationid="BVB" creationdate="20180905T051727Z">
+        <seg>Wenn Sie OmegaT Version 2.3 oder höher verwenden, legen Sie einfach die XML-Datei aus Infix wie oben beschrieben in den Ordner /source Ihres OmegaT-Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131011T235406Z">
         <seg>Wenn Sie einen authentifizierten Proxy verwenden, geben Sie hier Ihren Benutzernamen und Kennwort ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using an earlier version of OmegaT, upgrading your OmegaT installation is recommended.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T051746Z" creationid="BVB" creationdate="20180905T051746Z">
+        <seg>Wenn Sie eine frühere Version von OmegaT verwenden, wird ein Upgrade Ihrer OmegaT-Installation empfohlen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25667,6 +25691,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: OmegaT's Infix filter maps the &lt;BR/&gt; of Infix to &lt;brx/&gt; tags.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T052101Z" creationid="BVB" creationdate="20180905T052101Z">
+        <seg>Hinweis: Der Infix-Filter von OmegaT ordnet das &lt;BR/&gt; von Infix &lt;brx/&gt;-Tags zu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T153740Z">
@@ -29784,6 +29816,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131008T185850Z">
         <seg>Neu laden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reload your OmegaT project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T051932Z" creationid="BVB" creationdate="20180905T051932Z">
+        <seg>Laden Sie Ihr OmegaT-Projekt neu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40264,6 +40304,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this filter, simply change the file extension of the XML file exported by Infix from .xml to .html.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T051915Z" creationid="BVB" creationdate="20180905T051915Z">
+        <seg>Um diesen Filter zu verwenden, ändern Sie einfach die Dateiendung der von Infix exportierten XML-Datei von .xml nach .html.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizer plugin</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T125941Z">
@@ -44225,6 +44273,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T055435Z">
         <seg>Sie können die &lt;e0&gt;Eigenschaften&lt;/e0&gt; sowie den Teil &lt;e1&gt;VMOptions&lt;/e1&gt; ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can now translate the text (see screenshot).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T051958Z" creationid="BVB" creationdate="20180905T051958Z">
+        <seg>Sie können den Text jetzt übersetzen (siehe Screenshot).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48763,6 +48819,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T182845Z" creationid="BVB" creationdate="20180904T182845Z">
         <seg>infix1.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix2.png</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T052000Z" creationid="BVB" creationdate="20180905T052000Z">
+        <seg>infix2.png</seg>
       </tuv>
     </tu>
     <tu>
