@@ -9663,6 +9663,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance of fonts in OmegaT on Linux</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074014Z" creationid="BVB" creationdate="20180905T074014Z">
+        <seg>Aussehen von Schriften in OmegaT unter Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="DE">
@@ -9797,6 +9805,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T171428Z">
         <seg>Dadurch werden alle Einstellungen auf ihre Standardwerte zurückgesetzt, so dass das System ein unerwartetes, jedoch korrektes Verhalten aufweisen könnte. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As already mentioned, a bash launch script is provided with OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T073334Z" creationid="BVB" creationdate="20180905T073334Z">
+        <seg>Wie bereits erwähnt, wird mit OmegaT ein Bash-Startskript geliefert</seg>
       </tuv>
     </tu>
     <tu>
@@ -10893,6 +10909,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T155535Z">
         <seg>Als Standard ist der \tm Ordner unterhalb des Hauptordners des Projekts (z.B. &lt;e0&gt;\MyProject\tm)&lt;/e0&gt;, Sie können aber im Dialog Projekt Eigenschaften eine andere Stelle festlegen, wenn Sie möchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, the bash launch script is executable, but your system may change its permissions (e.g. during unpacking of the archive) and you may have to make it executable again.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T073623Z" creationid="BVB" creationdate="20180905T073623Z">
+        <seg>Standardmäßig ist das Bash-Startskript ausführbar, aber Ihr System kann seine Berechtigungen ändern (z. B. während des Entpackens des Archivs) und Sie müssen es möglicherweise erneut ausführbar machen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23065,6 +23089,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching OmegaT from a launch script</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T073226Z" creationid="BVB" creationdate="20180905T073226Z">
+        <seg>OmegaT mit dem Startskript starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT from the command line</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T071532Z" creationid="BVB" creationdate="20180905T071532Z">
@@ -27593,6 +27625,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T123626Z">
         <seg>Sobald das Teamprojekt erzeugt wurde, brauchen Teammitglieder nur &lt;a0&gt;OmegaT&lt;/a0&gt; für den Zugriff auf das Teamprojekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once this has been copied or linked to your execution path (done automatically if you use the installation script provided), you can launch OmegaT by hitting &lt;i0&gt;Alt+F2&lt;/i0&gt;, then typing in &lt;i1&gt;omegat&lt;/i1&gt; and conforming with ENTER.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T073534Z" creationid="BVB" creationdate="20180905T073534Z">
+        <seg>Sobald dies kopiert oder mit Ihrem Ausführungspfad verknüpft wurde (automatisch ausgeführt, wenn Sie das mitgelieferte Installationsskript verwenden), können Sie OmegaT starten, indem Sie &lt;i0&gt;Alt + F2&lt;/i0&gt; drücken und dann &lt;i1&gt;omegat&lt;/i1&gt; eingeben und mit ENTER bestätigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35688,6 +35728,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The appearance of fonts in OmegaT on Linux may differ widely, according to:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074048Z" creationid="BVB" creationdate="20180905T074048Z">
+        <seg>Das Erscheinungsbild von Fonts in OmegaT unter Linux kann sich nach folgenden Kriterien stark unterscheiden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T065748Z">
@@ -36366,6 +36414,14 @@ instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T141626Z" creationid="BVB" creationdate="20180826T141626Z">
         <seg>Die verfügbaren Filter sind hauptsächlich für Dateiformate, die für die IT-Industrie typisch sind, und nicht für Endbenutzerdateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first (with the cd command) is needed if your launch script is not in the same folder as OmegaT.jar.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T073143Z" creationid="BVB" creationdate="20180905T073143Z">
+        <seg>Der erste (mit dem Befehl cd) wird benötigt, wenn sich Ihr Startskript nicht im selben Ordner wie OmegaT.jar befindet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37269,6 +37325,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The possibilities are numerous, and the procedures for implementing them no less numerous, owing to the plethora of distributions.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T073951Z" creationid="BVB" creationdate="20180905T073951Z">
+        <seg>Die Möglichkeiten sind zahlreich, und die Verfahren, um sie zu implementieren, sind wegen der Vielzahl von Distributionen nicht weniger zahlreich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T083111Z">
@@ -37673,6 +37737,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T071557Z">
         <seg>Der zweite Befehl ist der Befehl, der &lt;a1&gt;OmegaT&lt;/a1&gt; startet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second is needed if the Java version you wish to use is not the default installation at system level.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T073200Z" creationid="BVB" creationdate="20180905T073200Z">
+        <seg>Die zweite ist erforderlich, wenn die Java-Version, die Sie verwenden möchten, nicht die Standardinstallation auf Systemebene ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40704,6 +40776,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make launching OmegaT even more user-friendly, add it to your application launch menu, or place a launch icon for it on your desktop or in your desktop panel.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T073806Z" creationid="BVB" creationdate="20180905T073806Z">
+        <seg>Um das Starten von OmegaT noch benutzerfreundlicher zu gestalten, fügen Sie es zum Startmenü Ihrer Anwendung hinzu oder legen Sie ein Start-Icon dafür auf Ihrem Desktop oder in Ihrer Schnellstartleiste an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make sure that the tokenizers are being used, open a project and check the log information from the console.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T194640Z">
@@ -42662,6 +42742,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T162345Z">
         <seg>Die Anzeige des Benutzerhandbuchs unterstützt keine Navigation zu externen Links.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User-friendly launching of OmegaT</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T073639Z" creationid="BVB" creationdate="20180905T073639Z">
+        <seg>Benutzerfreundlicher Start von OmegaT</seg>
       </tuv>
     </tu>
     <tu>
