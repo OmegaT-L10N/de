@@ -13483,6 +13483,30 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delete any launch scripts and remove any custom entries for OmegaT in your desktop.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074858Z" creationid="BVB" creationdate="20180905T074858Z">
+        <seg>Löschen Sie alle Start-Skripte und entfernen Sie benutzerdefinierte Einträge für OmegaT auf Ihrem Desktop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete the OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074519Z" creationid="BVB" creationdate="20180905T074519Z">
+        <seg>Löschen Sie den OmegaT-Programmordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete the folder /home/&lt;user&gt;/.omegat of any user account from which OmegaT has been launched.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074644Z" creationid="BVB" creationdate="20180905T074644Z">
+        <seg>Löschen Sie den Ordner /home/&lt;user&gt;/.omegat von jedem Benutzerkonto, von dem aus OmegaT gestartet wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete*</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130502T154927Z">
@@ -35358,6 +35382,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java version used (the same font may appear quite different on Sun and OpenJDK versions of Java)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074343Z" creationid="BVB" creationdate="20180905T074245Z">
+        <seg>die verwendete Java-Version (die gleiche Schriftart kann in Sun- und OpenJDK-Versionen von Java anders aussehen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The KMenuEditor appears.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T190023Z">
@@ -35730,8 +35762,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="EN">
         <seg>The appearance of fonts in OmegaT on Linux may differ widely, according to:</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180905T074048Z" creationid="BVB" creationdate="20180905T074048Z">
-        <seg>Das Erscheinungsbild von Fonts in OmegaT unter Linux kann sich nach folgenden Kriterien stark unterscheiden:</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074220Z" creationid="BVB" creationdate="20180905T074048Z">
+        <seg>Das Aussehen von Schriftarten in OmegaT unter Linux kann sich nach folgenden Kriterien stark unterscheiden:Das Erscheinungsbild von Fonts in OmegaT unter Linux kann sich nach folgenden Kriterien stark unterscheiden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35772,6 +35804,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Die verfügbaren Optionen sind:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The available/selected fonts</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074345Z" creationid="BVB" creationdate="20180905T074311Z">
+        <seg>die verfügbaren / ausgewählten Schriftarten</seg>
       </tuv>
     </tu>
     <tu>
@@ -36592,6 +36632,14 @@ instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T161358Z">
         <seg>Das folgende Fenster zeigt ein Beispiel einer a) englischen Quelle b) spanischen und c) slowenischen Übersetzung von Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The font size</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074339Z" creationid="BVB" creationdate="20180905T074339Z">
+        <seg>der Schriftgröße</seg>
       </tuv>
     </tu>
     <tu>
@@ -39263,6 +39311,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can easily be restored again in the future.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074552Z" creationid="BVB" creationdate="20180905T074552Z">
+        <seg>Das kann in der Zukunft einfach wiederhergestellt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
       <tuv lang="DE">
@@ -40888,6 +40944,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remove all traces of OmegaT from your system:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074455Z" creationid="BVB" creationdate="20180905T074455Z">
+        <seg>Um alle Spuren auf Ihrem System zu beseitigen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To resolve this, open the original PDF file again in Infix.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T053359Z" creationid="BVB" creationdate="20180905T053359Z">
@@ -41988,6 +42052,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T185221Z" creationid="BVB" creationdate="20180826T185221Z">
         <seg>Unicode (UTF-8) Unterstützung: kann mit nicht-lateinischen Alphabeten verwendet werden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uninstalling OmegaT</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074434Z" creationid="BVB" creationdate="20180905T074434Z">
+        <seg>OmegaT deinstallieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -43854,6 +43926,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T143443Z" creationid="BVB" creationdate="20180826T121511Z">
         <seg>Wenn der Verkäufer eines Softwareprodukts behauptet, dass sein Produkt mit einer anderen Software kompatibel ist, ist diese Kompatibilität selten 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether anti-aliasing is enabled (this is a command-line launch option, but you can also set it in the kaptain launch script)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T074424Z" creationid="BVB" creationdate="20180905T074424Z">
+        <seg>Ob Anti-Aliasing aktiviert ist (dies ist eine Befehlszeilen-Startoption, aber Sie können sie auch im Kaptain-Startskript festlegen)</seg>
       </tuv>
     </tu>
     <tu>
