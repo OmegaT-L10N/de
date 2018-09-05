@@ -7613,6 +7613,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s1&gt;In order to prevent two or more translators from working on the same language at the same time, it is therefore very important that you make an entry in the localization plan when you begin work on a translation.&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T093342Z" creationid="BVB" creationdate="20180905T093342Z">
+        <seg>&lt;s1&gt;Um zu verhindern, dass zwei oder mehr Übersetzer gleichzeitig an derselben Sprache arbeiten, ist es sehr wichtig, dass Sie einen Eintrag im Lokalisierungsplan eingeben, wenn Sie mit der Arbeit an einer Übersetzung beginnen.&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T092534Z" creationid="BVB" creationdate="20180826T092534Z">
@@ -9241,6 +9249,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T191634Z" creationid="BVB" creationdate="20180826T191634Z">
         <seg>Obwohl viele Benutzer dies wissen, ist ihre Reaktion oft "Aber ich kann nicht programmieren!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although not essential, we recommend that you also join the &lt;a0&gt;OmegaT localizers' mailing list&lt;/a0&gt; (also known as "OmT-l10n").</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T093857Z" creationid="BVB" creationdate="20180905T093857Z">
+        <seg>Obwohl nicht unbedingt erforderlich, empfehlen wir Ihnen, auch der &lt;a0&gt;OmegaT Übersetzer-Mailingliste&lt;/a0&gt; (auch bekannt als "OmT-l10n") beizutreten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14659,6 +14675,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the files for translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T094002Z" creationid="BVB" creationdate="20180905T093941Z">
+        <seg>Laden Sie die Dateien für die Übersetzung herunter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the most recent files (OmegaT-tokenizers_0.4_2-2.1.zip at the time of this writing).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T140657Z">
@@ -17151,6 +17175,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180827T065244Z" creationid="BVB" creationdate="20180827T065244Z">
         <seg>Zum Testen und Demonstrieren von OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the &lt;s0&gt;OmegaT program and documentation&lt;/s0&gt;, these are either the &lt;a1&gt;"Full" package&lt;/a1&gt; or the &lt;a2&gt;"Minimal" package&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T094140Z" creationid="BVB" creationdate="20180905T094140Z">
+        <seg>Für &lt;s0&gt;das OmegaT-Programm und die Dokumentation&lt;/s0&gt;, sind es entweder das &lt;a1&gt;"Full"-Paket&lt;/a1&gt; oder das &lt;a2&gt;"Minimal"-Paket&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36868,6 +36900,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The full package contains the user manual, the instant start manual, the user interface resource bundle and the readme file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T094216Z" creationid="BVB" creationdate="20180905T094216Z">
+        <seg>Das vollständige Paket enthält das Benutzerhandbuch, das Sofortstarthandbuch, das Benutzeroberflächen-Ressourcenpaket und die Readme-Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130517T124537Z">
@@ -37265,6 +37305,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T100849Z">
         <seg>Die Botschaften, die Sie normalerweise in der Statusleiste finden würden, werden nicht angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The minimal package contains the same files as the full package, except for the main user manual.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T094235Z" creationid="BVB" creationdate="20180905T094235Z">
+        <seg>Das Minimalpaket enthält dieselben Dateien wie das Gesamtpaket, mit Ausnahme des Hauptbenutzerhandbuchs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37713,6 +37761,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T090101Z">
         <seg>Die Absicht bei Modus Konsole ist es, OmegaT als Übersetzungswerkzeug in einer Scripting-Umgebung zu benutzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The purpose of the plan is to prevent two or more translators from working on the same translation without being aware of it (duplication of effort).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T093303Z" creationid="BVB" creationdate="20180905T093303Z">
+        <seg>Der Zweck des Plans besteht darin, zu verhindern, dass zwei oder mehr Übersetzer an derselben Übersetzung arbeiten, ohne sich dessen bewusst zu sein (Doppelarbeit).</seg>
       </tuv>
     </tu>
     <tu>
