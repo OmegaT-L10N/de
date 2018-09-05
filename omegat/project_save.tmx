@@ -4685,6 +4685,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i0&gt;If you changed the file extension to .html, change the extension of the translated file back to .xml.&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T052337Z" creationid="BVB" creationdate="20180905T052337Z">
+        <seg>&lt;i0&gt;Wenn Sie die Dateiendung in .html geändert haben, ändern Sie die Erweiterung der übersetzten Datei zurück in .xml.&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T112915Z" creationid="BVB" creationdate="20180826T093026Z">
@@ -8633,6 +8641,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180901T075112Z" creationid="BVB" creationdate="20180901T075112Z">
         <seg>Nachdem Sie die Übersetzung abgeschlossen und die übersetzten Dokumente erstellt haben, kopieren Sie die übersetzte Spalte aus der übersetzten Datei zurück in die &lt;i0&gt;Ziel&lt;/i0&gt;-Spalte der Originaldatei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After completing your translation, create the translated document in the usual way (Ctrl+S, Ctrl+D).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T052229Z" creationid="BVB" creationdate="20180905T052229Z">
+        <seg>Nach Abschluss der Übersetzung erstellen Sie das übersetzte Dokument wie gewohnt (Strg + S, Strg + D).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23245,6 +23261,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T172852Z" creationid="BVB" creationdate="20180904T172852Z">
         <seg>Suchen Sie die Konfigurationsdatei OmegaT.l4J.ini (der Standardspeicherort ist C:\Programme (x86)\OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locate the translated XML file in the OmegaT project's /target folder.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T052256Z" creationid="BVB" creationdate="20180905T052256Z">
+        <seg>Suchen Sie die übersetzte XML-Datei im Ordner /target des OmegaT-Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38723,6 +38747,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131130T163607Z">
         <seg>Die folgende Dokumentation stellt sowohl eine Anleitung als auch ein Handbuch dar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This enables the HTML segmentation rule to be used to choose whether or not segmentation should occur at these points.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T052201Z" creationid="BVB" creationdate="20180905T052201Z">
+        <seg>Dadurch kann die HTML-Segmentierungsregel verwendet werden, um auszuwählen, ob an diesen Punkten eine Segmentierung erfolgen soll oder nicht.</seg>
       </tuv>
     </tu>
     <tu>
