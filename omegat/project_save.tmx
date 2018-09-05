@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Standard", "Latest", "/trunk" and "Webstart".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061730Z" creationid="BVB" creationdate="20180905T061730Z">
+        <seg>"Standard", "Neueste", "/trunk" und "Webstart".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Tag groups" in this context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T154847Z">
@@ -1654,6 +1662,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T073631Z" creationid="BVB" creationdate="20180904T073631Z">
         <seg>(Zeichnen Sie wie oben beschrieben auf, aber nehmen Sie nur den Befehl Strg + C auf, gefolgt von Strg + V.) Sie können dann Text zwischen den Punkten markieren, an denen sich die Formatierung ändert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Refer to the "Downloads" page on the OmegaT website for details of the differences.)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061911Z" creationid="BVB" creationdate="20180905T061911Z">
+        <seg>(Greifen Sie für Details und Unterschiede auf die Downloadseite auf der OmegaT-Webseite zurück.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9781,6 +9797,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T061608Z" creationid="BVB" creationdate="20180904T061608Z">
         <seg>Wie bereits erwähnt, ist dieses Problem mit MS Word nicht einzigartig für OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As an open-source application, OmegaT has been included by many Linux distributions in their repositories, so you may be able to install it by this route.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062329Z" creationid="BVB" creationdate="20180905T062329Z">
+        <seg>Als Open-Source-Anwendung wurde OmegaT von vielen Linux-Distributionen in ihre Repositories integriert, sodass Sie es möglicherweise auf diesem Weg installieren können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19094,6 +19118,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If so, this makes installation much easier.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061335Z" creationid="BVB" creationdate="20180905T061335Z">
+        <seg>Wenn es so ist, macht es die Installation viel einfacher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131205T231040Z">
@@ -19954,6 +19986,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T202439Z">
         <seg>Wenn Sie die Tags in OmegaT sehen müssen, aber den größten Teil der Formatierung im übersetzten Dokument nicht beibehalten müssen, können Sie ruhig Tags bei der Übersetzung auslassen. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you obtain the Oracle version of Java directly from Oracle, installation is likely to be straightforward, but you will have to configure it manually in order to make it the default version at system level.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061450Z" creationid="BVB" creationdate="20180905T061450Z">
+        <seg>Wenn Sie die Oracle-Version von Java direkt von Oracle beziehen, ist die Installation wahrscheinlich unkompliziert, Sie müssen sie jedoch manuell konfigurieren, um sie zur Standardversion auf Systemebene zu machen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32109,6 +32149,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a version without or with JRE depending upon your Java situation (see above).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062252Z" creationid="BVB" creationdate="20180905T062252Z">
+        <seg>Wählen Sie abhängig von Ihrer Java-Situation (siehe oben) eine Version mit oder ohne JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select it and confirm with OK.</seg>
       </tuv>
       <tuv lang="DE">
@@ -32201,6 +32249,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130630T165639Z">
         <seg>Ausgewählte Maschine: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting and downloading OmegaT</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061649Z" creationid="BVB" creationdate="20180905T061649Z">
+        <seg>Auswahl und Download von OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -34734,6 +34790,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Latest" version is recommended.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061750Z" creationid="BVB" creationdate="20180905T061750Z">
+        <seg>Die "Neueste" Version wird empfohlen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Professional" version of Infix has a further function of interest to translators: XML text export.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T181607Z" creationid="BVB" creationdate="20180904T181607Z">
@@ -36264,6 +36328,14 @@ instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T121355Z">
         <seg>Mit den folgenden zwei Schritten wird die Version auf dem Server auf den aktuellen Stand gebracht:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following versions of OmegaT are available for Linux:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061715Z" creationid="BVB" creationdate="20180905T061715Z">
+        <seg>Die folgenden Versionen von OmegaT sind für Linux verfügbar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37845,6 +37917,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The third option, i.e. installing an OmegaT version with Java included at local level, is always the "safe" option, and is recommended.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061630Z" creationid="BVB" creationdate="20180905T061630Z">
+        <seg>Die dritte Option, d.h. das Installieren einer OmegaT-Version mit Java, die auf lokaler Ebene enthalten ist, ist immer die "sichere" Option und wird empfohlen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tmx file can be given any name you specify.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T141501Z">
@@ -39339,6 +39419,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T085900Z">
         <seg>Es gibt kein Problem für Dateien, die ein Zeichen-Kodierungsset von 16 bit in Unicode verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is not recommended, particularly if you are unfamiliar with Linux.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061603Z" creationid="BVB" creationdate="20180905T061603Z">
+        <seg>Dies wird nicht empfohlen, besonders wenn Sie mit Linux nicht vertraut sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43758,6 +43846,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T134322Z" creationid="BVB" creationdate="20180826T134322Z">
         <seg>Ohne Vorbereitung auf diese Weise kann das ursprüngliche Dateiformat für den Übersetzer zugänglich sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without/with JRE included, i.e. the cross-platform without JRE, e.g. "OmegaT_2.1.7_02_Beta_Without_JRE.zip" and the Linux-specific version with JRE, e.g. "OmegaT_2.1.7_02_Beta_Linux.tar.bz2".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062201Z" creationid="BVB" creationdate="20180905T062201Z">
+        <seg>Inklusiv oder ohne JRE, d. h. Cross-Plattform ohne JRE, z. B. "OmegaT_2.1.7_02_Beta_Without_JRE.zip" und die Lunux-spezifische Version mit JRE, z. B. "OmegaT_2.1.7_02_Beta_Linux.tar.bz2".</seg>
       </tuv>
     </tu>
     <tu>
