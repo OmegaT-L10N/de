@@ -12347,6 +12347,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2010-2012</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T075143Z" creationid="BVB" creationdate="20180905T075143Z">
+        <seg>Copyright Marc Prior 2010-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright Marc Prior 2011</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T053903Z" creationid="BVB" creationdate="20180905T053903Z">
@@ -27295,8 +27303,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT will now run on the OpenJDK Java implementation supplied with some Linux distributions, but some functions (such as the full set of command-line options) may not be available; a different font set may be supplied; and some glitches have been reported, such as with window display and the segmentation function.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180905T060947Z" creationid="BVB" creationdate="20180905T060947Z">
-        <seg>OmegaT wird nun auf der OpenJDK-Java-Implementierung ausgeführt, die mit einigen Linux-Distributionen geliefert wird, aber einige Funktionen (z. B. die vollständigen Befehlszeilenoptionen) sind möglicherweise nicht verfügbar. eine andere Schriftart kann geliefert werden; und einige Störungen wurden berichtet, wie mit der Fensteranzeige und der Segmentierungsfunktion.</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T080421Z" creationid="BVB" creationdate="20180905T060947Z">
+        <seg>OmegaT wird nun auf der OpenJDK-Java-Implementierung ausgeführt, die mit einigen Linux-Distributionen geliefert wird, aber einige Funktionen (z. B. die vollständigen Befehlszeilenoptionen) sind möglicherweise nicht verfügbar, eine andere Schriftart kann geliefert werden und einige Störungen wurden berichtet, so wie bei der Fensteranzeige und der Segmentierungsfunktion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40666,8 +40674,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To do this, open a terminal (also known as a console or command-line window; common programs for this are konsole (KDE) and gnome-terminal (GNOME)), and type:</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180905T060638Z" creationid="BVB" creationdate="20180905T060638Z">
-        <seg>Öffnen Sie dazu ein Terminal (auch Konsolen- oder Befehlszeilenfenster genannt; gemeinsame Programme hierfür sind Konsole (KDE) und gnome-terminal (GNOME)) und geben Sie ein:</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T075543Z" creationid="BVB" creationdate="20180905T060638Z">
+        <seg>Öffnen Sie dazu ein Terminal (auch Konsolen- oder Befehlszeilenfenster genannt; Übliche Programme hierfür sind Konsole (KDE) und gnome-terminal (GNOME)) und geben Sie ein:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42060,6 +42068,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T074434Z" creationid="BVB" creationdate="20180905T074434Z">
         <seg>OmegaT deinstallieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uninstalling OmegaT will not remove any OmegaT projects from your system, unless you have placed such projects within the OmegaT program or configuration files folder(s), which is not a good location for them in any case.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T075141Z" creationid="BVB" creationdate="20180905T075141Z">
+        <seg>Durch das Deinstallieren von OmegaT werden keine OmegaT-Projekte von Ihrem System entfernt, es sei denn, Sie haben solche Projekte in das OmegaT-Programm oder in die Ordner mit den Konfigurationsdateien gestellt, was in keinem Fall ein guter Ort dafür ist.</seg>
       </tuv>
     </tu>
     <tu>
