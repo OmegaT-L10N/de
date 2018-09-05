@@ -10017,6 +10017,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the time of writing, OmegaT will run much better with the Oracle version of Java (see above).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062452Z" creationid="BVB" creationdate="20180905T062452Z">
+        <seg>Zum Zeitpunkt des Schreibens wird OmegaT mit der Oracle-Version von Java viel besser laufen (siehe oben).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g0&gt;OK &lt;/g0&gt;to continue.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130429T064153Z">
@@ -17027,6 +17035,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the kaptain script to work, however, you must first install kaptain.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T063214Z" creationid="BVB" creationdate="20180905T063214Z">
+        <seg>Damit das Kaptain-Skript funktioniert, müssen Sie zuerst Kaptain installieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T080657Z">
@@ -18944,6 +18960,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T093133Z">
         <seg>Von Beginn ist es klar, dass Übersetzungen in einer vorhandenen TM (oder in TMs) alle korrekt sind, man kann sie in den &lt;e0&gt; tm/auto&lt;/e0&gt; Ordner packen, um nicht viele Vorfälle von &lt;e1&gt; [fuzzy]&lt;/e1&gt; bestätigen zu müssen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If it is not in your distribution's repository, you can &lt;a0&gt;download it from kaptain.sourceforge.net&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T071216Z" creationid="BVB" creationdate="20180905T071216Z">
+        <seg>Wenn es nicht im Repository Ihrer Distribution ist, können Sie es &lt;a0&gt;von kaptain.sourceforge.net herunterladen&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24729,6 +24753,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More functions will usually be found in the "Latest" version.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062554Z" creationid="BVB" creationdate="20180905T062554Z">
+        <seg>Mehr Funktionen findet man normalerweise in der "neusten" Version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More in the chapter &lt;l1&gt;Machine translation&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T142058Z">
@@ -24758,6 +24790,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154355Z">
         <seg>Moreover, your license from a particular copyright holder is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most Linux distributions use the OpenJDK version of Java by default.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062427Z" creationid="BVB" creationdate="20180905T062427Z">
+        <seg>Die meisten Linuxdistributionen benutzen standardmäßig die OpenJDK-Version von Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25603,6 +25643,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note however that:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062346Z" creationid="BVB" creationdate="20180905T062346Z">
+        <seg>Beachten Sie trotzdem, das:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T153810Z">
@@ -25743,6 +25791,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T121724Z">
         <seg>Bedenken Sie, dass in dem Menü &lt;g2&gt;Optionen-&gt;Dateifilter&lt;/g2&gt; die globalen Filter des Benutzers geändert werden, nicht die Filter des Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that it is easy to install multiple versions of OmegaT on Linux without conflicts.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062619Z" creationid="BVB" creationdate="20180905T062619Z">
+        <seg>Beachten Sie, dass es einfach ist, mehrere Versionen von OmegaT unter Linux ohne Konflikte zu installieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35230,6 +35286,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Linux version of OmegaT is now supplied with its own installation script, linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062703Z" creationid="BVB" creationdate="20180905T062703Z">
+        <seg>Die Linux-Version von OmegaT wird jetzt mit einem eigenen Installationsskript, linux-install.sh, ausgeliefert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Mac OS X equivalent is the application Terminal located in Applications → Utilities.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T070505Z">
@@ -35314,6 +35378,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T191610Z" creationid="BVB" creationdate="20180826T191610Z">
         <seg>Das OmegaT-Projekt würde von einer größeren Unterstützung von Freiwilligen in fast allen Bereichen profitieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT version usually supplied is the "Standard" version.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062512Z" creationid="BVB" creationdate="20180905T062512Z">
+        <seg>Die OmegaT-Version, die normalerweise geliefert wird, ist die "Standard" -Version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35572,6 +35644,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Die verfügbaren Optionen sind:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The bash script is a very basic file that can be edited manually with command-line options for launching and configuring OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062944Z" creationid="BVB" creationdate="20180905T062944Z">
+        <seg>Das Bash-Skript ist eine sehr einfache Datei, die manuell mit Befehlszeilenoptionen zum Starten und Konfigurieren von OmegaT bearbeitet werden kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36146,6 +36226,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file is commented to help you.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T063149Z" creationid="BVB" creationdate="20180905T063149Z">
+        <seg>Die Datei ist kommentiert, um Ihnen zu helfen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T154958Z">
@@ -36512,6 +36600,14 @@ instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T090540Z">
         <seg>Die Einträge sind nicht durch Tabulator getrennt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The kaptain script (or "grammar", as kaptain scripts are termed) enables you to select launch and configuration options from a user-friendly GUI.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T063026Z" creationid="BVB" creationdate="20180905T063026Z">
+        <seg>Das Kaptain-Skript (oder "Grammatik", wie Kaptain-Skripte bezeichnet werden) ermöglicht Ihnen die Auswahl von Start- und Konfigurationsoptionen über eine benutzerfreundliche GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38702,6 +38798,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They will however always access the same user configuration files (unless launched from a different user account).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062643Z" creationid="BVB" creationdate="20180905T062643Z">
+        <seg>Sie greifen jedoch immer auf die gleichen Benutzerkonfigurationsdateien zu (es sei denn, sie werden von einem anderen Benutzerkonto gestartet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Third-party Java versions: until relatively recently, OmegaT ran only on Oracle/Sun's own Java.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T060823Z" creationid="BVB" creationdate="20180905T060823Z">
@@ -39780,6 +39884,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T131644Z">
         <seg>This requirement modifies the requirement in section 4 to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062713Z" creationid="BVB" creationdate="20180905T062713Z">
+        <seg>Dieses Skript:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44594,6 +44706,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can customize the kaptain launch script so that your preferences are the defaults; simply edit the omegat.kaptn file in a text editor.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T063132Z" creationid="BVB" creationdate="20180905T063132Z">
+        <seg>Sie können das Kaptain-Startskript so anpassen, dass Ihre Voreinstellungen die Standardeinstellungen sind. Bearbeiten Sie einfach die omegat.kaptn-Datei in einem Texteditor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can decide not to check at all, check for simple printf variables (like %s %d etc) or for print variables of all types.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T194312Z">
@@ -44649,6 +44769,14 @@ on line {1}, column {2}.</seg>
       <tuv lang="DE">
         <seg>Eine detailliertere Statistik befindet sich in der Datei:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can for example use it to select the user interface language, assign more memory to OmegaT, or enter a Google Translate password.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T063050Z" creationid="BVB" creationdate="20180905T063050Z">
+        <seg>Sie können damit beispielsweise die Sprache der Benutzeroberfläche auswählen, OmegaT mehr Speicher zuweisen oder ein Google Übersetzer-Passwort eingeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47063,6 +47191,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>creates links from /usr/local/bin to the launch scripts.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062917Z" creationid="BVB" creationdate="20180905T062917Z">
+        <seg>erstellt Links von /usr/local/bin zu den Startskripten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cs</seg>
       </tuv>
       <tuv lang="DE">
@@ -49243,6 +49379,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154349Z">
         <seg>included in conveying the object code work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>includes bash and kaptain launch scripts;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062848Z" creationid="BVB" creationdate="20180905T062848Z">
+        <seg>enthält Bash- und Kaptain-Startskripte;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51643,6 +51787,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T131645Z">
         <seg>place (gratis or for a charge), and offer equivalent access to the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>places the OmegaT program files in /opt/omegat/OmegaT-&lt;version&gt;;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T062748Z" creationid="BVB" creationdate="20180905T062748Z">
+        <seg>speichert die OmegaT-Programmdateien in /opt/omegat/OmegaT-&lt;version&gt;;</seg>
       </tuv>
     </tu>
     <tu>
