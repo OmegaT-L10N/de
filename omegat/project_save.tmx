@@ -1608,6 +1608,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you have translated into a language which is not your operating system language, see below, "How OmegaT handles localized versions".)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T103811Z" creationid="BVB" creationdate="20180905T103811Z">
+        <seg>(Wenn Sie in eine Sprache übersetzt haben, die nicht Ihre Betriebssystemsprache ist, lesen Sie weiter unten "So behandelt OmegaT übersetzte Versionen".)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T085938Z" creationid="BVB" creationdate="20180826T085938Z">
@@ -21118,6 +21126,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the /docs/ folder of the OmegaT program, create a sub-folder with the ISO code of your operating system language (rename the existing folder temporarily if it already exists), and copy the manual into this folder.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T103711Z" creationid="BVB" creationdate="20180905T103711Z">
+        <seg>Erstellen Sie im Ordner /docs/ des Programms OmegaT einen Unterordner mit dem ISO-Code Ihrer Betriebssystemsprache (benennen Sie den vorhandenen Ordner vorübergehend um, falls dieser bereits existiert), und kopieren Sie das Handbuch in diesen Ordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt; &lt;g2&gt;New...&lt;/g2&gt; &lt;/m1&gt;&lt;i3/&gt; and type a name for your project.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130429T060656Z">
@@ -29680,6 +29696,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T173947Z" creationid="karsten" creationdate="20150919T173947Z">
         <seg>Verarbeite...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Produce a screenshot of OmegaT in your language (after translating the user interface).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T103855Z" creationid="BVB" creationdate="20180905T103855Z">
+        <seg>Erstellen Sie einen Screenshot von OmegaT in Ihrer Sprache (nach der Übersetzung der Benutzeroberfläche).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38973,6 +38997,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then launch OmegaT normally.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T103731Z" creationid="BVB" creationdate="20180905T103731Z">
+        <seg>Starten Sie OmegaT dann normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then move the end of the highlighting one character to the left so that it does not include the paragraph mark.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T081933Z" creationid="BVB" creationdate="20180904T062548Z">
@@ -40107,6 +40139,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T192113Z">
         <seg>Das ist akzeptabel, so lange die umgebende Gruppe die umgebene Gruppe komplett einschließt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is also optional, but if you have been able to launch OmegaT with your localized bundle (see above), it will enhance the quality of your translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T103950Z" creationid="BVB" creationdate="20180905T103950Z">
+        <seg>Dies ist auch optional, aber wenn Sie OmegaT mit Ihrem übersetzten Paket starten konnten (siehe oben), wird es die Qualität Ihrer Übersetzung verbessern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41376,6 +41416,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To produce a screenshot, launch OmegaT and create a suitable screen for a screenshot, such as the "Create new project" dialog showing typical paths.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T104134Z" creationid="BVB" creationdate="20180905T104134Z">
+        <seg>Um einen Screenshot zu erstellen, starten Sie OmegaT und erstellen Sie einen geeigneten Bildschirm für einen Screenshot, z. B. den Dialog "Neues Projekt erstellen" mit typischen Pfaden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To protect your rights, we need to prevent others from denying you</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154334Z">
@@ -41508,6 +41556,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T082805Z">
         <seg>Um das OmegaT Projekt finanziell zu unterstützen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To test display of the Instant Start Guide at launch:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T103611Z" creationid="BVB" creationdate="20180905T103611Z">
+        <seg>So testen Sie die Anzeige des Instant Start Guide beim Start:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55318,6 +55374,15 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Is the name of MY translation of the ressource bundle really bundle_EN.properties?</note>
+      <tuv lang="EN">
+        <seg>where [full path to OmegaT] is the full path to the folder containing the OmegaT program, and [name of bundle with full path] is the name of your translation of the resource bundle (bundle_en.properties, unless you have changed the name) including the full path to its location.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T103536Z" creationid="BVB" creationdate="20180905T103536Z">
+        <seg>wobei [vollständiger Pfad zu OmegaT] der vollständige Pfad zu dem Ordner ist, der das OmegaT-Programm enthält, und [Name des Pakets mit vollständigem Pfad] der Name Ihrer Übersetzung des Ressourcenpakets (bundle_en.properties, sofern Sie den Namen nicht geändert haben) einschließlich des vollständigen Pfads zu seinem Standort.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>where to find the applicable terms.</seg>
       </tuv>
@@ -55841,8 +55906,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>     java -jar OmegaT.jar resource-bundle=[name of bundle with full path]</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180905T103105Z" creationid="BVB" creationdate="20180905T103105Z">
-        <seg>     java -jar OmegaT.jar resource-bundle=[Name des Bundles mit vollen Pfad]</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T103136Z" creationid="BVB" creationdate="20180905T103105Z">
+        <seg>     java -jar OmegaT.jar resource-bundle=[Name des Pakets mit vollen Pfad]</seg>
       </tuv>
     </tu>
     <tu>
