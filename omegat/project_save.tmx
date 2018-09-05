@@ -1938,6 +1938,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>*If you do not already have an Microsoft account, you will need to register one first.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150724Z" creationid="BVB" creationdate="20180905T150724Z">
+        <seg>*Wenn Sie noch kein Microsoft-Konto haben, müssen Sie zuerst eines registrieren.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T124411Z" creationid="karsten" creationdate="20150919T124411Z">
@@ -1978,10 +1986,34 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Access the above website and [Sign in] to Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150656Z" creationid="BVB" creationdate="20180905T150656Z">
+        <seg>- Greifen Sie auf die oben genannte Website zu und melden Sie sich bei Microsoft Azure Marketplace an.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150803Z" creationid="BVB" creationdate="20180905T150803Z">
+        <seg>- Nachdem Sie sich bei Microsoft Azure Marketplace angemeldet haben, können Sie ein Abonnement für die Verwendung von Microsoft Translator erhalten.&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Android resource (*.xml)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095613Z">
         <seg>- Android resource (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150403Z" creationid="BVB" creationdate="20180905T150403Z">
+        <seg>- Mithilfe der Microsoft Translator-API können Sie die maschinelle Übersetzung von Microsoft Translator im Fenster Maschinelle Übersetzung von OmegaT verwenden.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2194,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- To use Microsoft Translator API, you need to register your Application in Microsoft Azure Marketplace.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150440Z" creationid="BVB" creationdate="20180905T150440Z">
+        <seg>- Um die Microsoft Translator-API zu verwenden, müssen Sie Ihre Anwendung in Microsoft Azure Marketplace registrieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Typo3 LocManager (*.xml)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095647Z">
@@ -2198,6 +2238,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095649Z">
         <seg>- WiX Localization (*.wxl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- You may pick from any of the available subscription offers, shown in the right area of the page.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150828Z" creationid="BVB" creationdate="20180905T150828Z">
+        <seg>- Sie können aus einem der verfügbaren Abonnement-Angebote auswählen, die im rechten Bereich der Seite angezeigt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3525,6 +3573,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150620Z" creationid="BVB" creationdate="20180905T150620Z">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T132950Z" creationid="BVB" creationdate="20180826T132950Z">
@@ -3665,6 +3721,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130529T202810Z">
         <seg>&lt;br1&gt; ist ein einzelner Tag und beeinflusst den umgebenden Text nicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150625Z" creationid="BVB" creationdate="20180905T150625Z">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150658Z" creationid="BVB" creationdate="20180905T150658Z">
+        <seg>&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150727Z" creationid="BVB" creationdate="20180905T150727Z">
+        <seg>&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20486,6 +20566,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150857Z" creationid="BVB" creationdate="20180905T150857Z">
+        <seg>Wenn Sie das Basis-Abonnement (kostenlos, bis zu 2 Millionen Zeichen pro Monat) auswählen möchten, klicken Sie oben in der Abonnementliste auf [ANMELDEN].&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T153750Z">
@@ -27645,6 +27733,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150538Z" creationid="BVB" creationdate="20180905T150538Z">
+        <seg>OmegaT verwendet die Informationen "Client ID" und "Client secret", mit denen Sie sich registriert haben.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131130T144549Z">
@@ -30664,6 +30760,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150918T222120Z" creationid="karsten" creationdate="20150918T221935Z">
         <seg>Übersetzung identisch mit Quelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register your application</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T151008Z" creationid="BVB" creationdate="20180905T151008Z">
+        <seg>Registrieren Sie Ihre Anwendung</seg>
       </tuv>
     </tu>
     <tu>
@@ -34409,6 +34513,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154340Z">
         <seg>Sublicensing is not allowed; section 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscription</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T150616Z" creationid="BVB" creationdate="20180905T150616Z">
+        <seg>Anmeldung (zur Zeit nicht möglich)</seg>
       </tuv>
     </tu>
     <tu>
