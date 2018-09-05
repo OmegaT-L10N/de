@@ -2490,6 +2490,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072956Z" creationid="BVB" creationdate="20180905T072956Z">
+        <seg>/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>0.</seg>
       </tuv>
       <tuv lang="DE">
@@ -19630,6 +19638,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are relying on or wish to use a Java installation that is not installed at system level, this will not be sufficient: you must also instruct your system where to find Java.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072702Z" creationid="BVB" creationdate="20180905T072702Z">
+        <seg>Wenn Sie auf eine Java-Installation angewiesen sind oder diese verwenden möchten, die nicht auf Systemebene installiert ist, reicht dies nicht aus: Sie müssen Ihr System auch anweisen, wo Java zu finden ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131130T143351Z">
@@ -19914,6 +19930,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T200437Z" creationid="BVB" creationdate="20180826T193507Z">
         <seg>Wenn Sie OmegaT nützlich gefunden haben und Ihre Dankbarkeit zum Ausdruck bringen möchten, indem Sie eine &lt;a0&gt;Spende&lt;/a0&gt; auf unser Paypal Konto tätigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have installed a version of OmegaT with JRE supplied, the launch script supplied already contains this path for you.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072749Z" creationid="BVB" creationdate="20180905T072749Z">
+        <seg>Wenn Sie eine Version von OmegaT mit JRE installiert haben, enthält bereits das mitgelieferte Startskript diesen Pfad für Sie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have installed an additional version of Java but have not made it the default version at system level, you must include the whole path of the Java binary in the launch command.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072815Z" creationid="BVB" creationdate="20180905T072815Z">
+        <seg>Wenn Sie eine zusätzliche Version von Java installiert haben, diese jedoch nicht zur Standardversion auf Systemebene gemacht haben, müssen Sie den gesamten Pfad der Java-Binärdatei in den Startbefehl einfügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21084,6 +21116,14 @@ their defaults as a result of the location change.</seg>
       <tuv lang="DE" changeid="helmut" changedate="20130530T155000Z">
         <seg>In Ihrem Dateimanager legen Sie einen neuen Ordner an, der geeignet ist, um Rechtschreibung-Wörterbücher zu speichern (D:\Translations\spellcheckers im Beispiel unten).
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In your launch script, do not confuse the path to OmegaT.jar and the path to the java command.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T073042Z" creationid="BVB" creationdate="20180905T073042Z">
+        <seg>Verwechseln Sie in Ihrem Startskript nicht den Pfad zu OmegaT.jar und den Pfad zum Java-Befehl.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25134,6 +25174,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T155048Z">
         <seg>Navigieren Sie und wählen Sie den Ordner, den Sie für die Wörterbücher geschaffen haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate to the folder containing the file OmegaT.jar, e.g.:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072400Z" creationid="BVB" creationdate="20180905T072400Z">
+        <seg>Gehen Sie zum Ordner, der die Datei OmegaT.jar, enthält, z. B.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35696,6 +35744,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The basic launch command is:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072608Z" creationid="BVB" creationdate="20180905T072608Z">
+        <seg>Der grundlegende Startbefehl ist:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic launch command with the Google Translate API added will therefore be:</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T174355Z" creationid="BVB" creationdate="20180904T174355Z">
@@ -35832,6 +35888,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command is case-sensitive.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072629Z" creationid="BVB" creationdate="20180905T072629Z">
+        <seg>Der Befehl unterscheidet zwischen Groß- und Kleinschreibung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command to launch &lt;a3&gt;OmegaT&lt;/a3&gt; with assignment of 1024 MB (1 gigabyte) of memory is therefore:</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T081519Z">
@@ -35844,6 +35908,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Der Befehl, OmegaT zu starten, lautet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command will therefore be (in this case):</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072954Z" creationid="BVB" creationdate="20180905T072954Z">
+        <seg>Der Befehl ist deshalb (in diesem Fall):</seg>
       </tuv>
     </tu>
     <tu>
@@ -38341,6 +38413,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then enter the launch command itself, and confirm with ENTER.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072518Z" creationid="BVB" creationdate="20180905T072518Z">
+        <seg>Dann geben Sie das Startkommando selbst ein und bestätigen mit ENTER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then move the end of the highlighting one character to the left so that it does not include the paragraph mark.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T081933Z" creationid="BVB" creationdate="20180904T062548Z">
@@ -40036,6 +40116,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T152451Z">
         <seg>Damit wird ein Checkout des Projektes in einem lokalen Ordner ausgeführt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will be something like /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java; make a note of where Java is installed during installation so that you can find it again.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072903Z" creationid="BVB" creationdate="20180905T072903Z">
+        <seg>Dies wird etwas wie /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java sein; Notieren Sie sich, wo Java während der Installation installiert wird, damit Sie es erneut finden können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46127,6 +46215,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and confirm with ENTER.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072423Z" creationid="BVB" creationdate="20180905T072423Z">
+        <seg>und bestätigen Sie mit ENTER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and control, on terms that prohibit them from making any copies of</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154340Z">
@@ -46787,6 +46883,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T074156Z">
         <seg>cat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd /opt/omegat/OmegaT_2.3.4</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T072401Z" creationid="BVB" creationdate="20180905T072401Z">
+        <seg>cd /opt/omegat/OmegaT_2.3.4</seg>
       </tuv>
     </tu>
     <tu>
