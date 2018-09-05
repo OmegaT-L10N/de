@@ -18628,6 +18628,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Java is already installed on your system (which is probably the case) and you plan to use this existing, system-wide Java installation in conjunction with OmegaT, first check that it is suitable.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060605Z" creationid="BVB" creationdate="20180905T060605Z">
+        <seg>Wenn Java bereits auf Ihrem System installiert ist (was wahrscheinlich der Fall ist) und Sie diese vorhandene systemweite Java-Installation in Verbindung mit OmegaT verwenden möchten, prüfen Sie zunächst, ob diese geeignet ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T060544Z">
@@ -18888,6 +18896,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T092318Z" creationid="BVB" creationdate="20180826T092318Z">
         <seg>Wählen Sie im Zweifelsfall diese Version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If it does not, you still have the option to install a local version of Java or a different version of Java at system level.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061046Z" creationid="BVB" creationdate="20180905T061046Z">
+        <seg>Ist dies nicht der Fall, haben Sie immer noch die Möglichkeit, eine lokale Version von Java oder eine andere Version von Java auf Systemebene zu installieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19606,6 +19622,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unsure whether your Java version is suitable, you can:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061004Z" creationid="BVB" creationdate="20180905T061004Z">
+        <seg>Wenn Sie nicht sicher sind, ob Ihre Java-Version geeignet ist, können Sie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using Linux or Macintosh, obtain and install the relevant Crossover version before installing Iceni Infix Professional.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T182528Z" creationid="BVB" creationdate="20180904T182528Z">
@@ -19770,6 +19794,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T124017Z">
         <seg>Wenn Sie Namen von Ordnern eingeben, die noch nicht existieren, wird &lt;a0&gt;OmegaT&lt;/a0&gt; sie für Sie anlegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you establish that the version of Java installed at system level is not compatible with OmegaT and you wish to replace this Java version with the Oracle Java version, check first whether an Oracle package is available for your Linux distribution (SUSE, Ubuntu, etc.).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061300Z" creationid="BVB" creationdate="20180905T061300Z">
+        <seg>Wenn Sie feststellen, dass die auf Systemebene installierte Java-Version nicht mit OmegaT kompatibel ist und Sie diese Java-Version durch die Oracle Java-Version ersetzen möchten, prüfen Sie zunächst, ob ein Oracle-Paket für Ihre Linux-Distribution (SUSE, Ubuntu usw.) verfügbar ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21304,6 +21336,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061111Z" creationid="BVB" creationdate="20180905T061111Z">
+        <seg>Installieren Sie eine zweite, nicht standardmäßige Version von Java auf Systemebene, und starten Sie OmegaT explizit mit dieser Version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install the OmegaT version with Java included.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061139Z" creationid="BVB" creationdate="20180905T061139Z">
+        <seg>Installieren Sie die OmegaT-Version mit Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T092005Z" creationid="BVB" creationdate="20180826T092005Z">
@@ -21840,6 +21888,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is particularly aimed at users who are new to Linux.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060503Z" creationid="BVB" creationdate="20180905T060503Z">
+        <seg>Es richtet sich insbesondere an Benutzer, die neu in Linux sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to modify the project properties during a translation session.</seg>
       </tuv>
       <tuv lang="DE">
@@ -22213,6 +22269,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T125756Z" creationid="karsten" creationdate="20150919T125756Z">
         <seg>Jar genutzt für Plugins: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060505Z" creationid="BVB" creationdate="20180905T060505Z">
+        <seg>Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -26387,6 +26451,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not run satisfactorily on all versions of Java.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060532Z" creationid="BVB" creationdate="20180905T060532Z">
+        <seg>OmegaT läuft nicht auf allen Java-Versionen zufriedenstellend.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT does not support these formats directly.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T124406Z" creationid="BVB" creationdate="20180826T124406Z">
@@ -27001,6 +27073,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T085309Z" creationid="BVB" creationdate="20180826T085309Z">
         <seg>OmegaT-Videos auf dem Qabiria-YouTube-Kanal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will now run on the OpenJDK Java implementation supplied with some Linux distributions, but some functions (such as the full set of command-line options) may not be available; a different font set may be supplied; and some glitches have been reported, such as with window display and the segmentation function.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060947Z" creationid="BVB" creationdate="20180905T060947Z">
+        <seg>OmegaT wird nun auf der OpenJDK-Java-Implementierung ausgeführt, die mit einigen Linux-Distributionen geliefert wird, aber einige Funktionen (z. B. die vollständigen Befehlszeilenoptionen) sind möglicherweise nicht verfügbar. eine andere Schriftart kann geliefert werden; und einige Störungen wurden berichtet, wie mit der Fensteranzeige und der Segmentierungsfunktion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27803,6 +27883,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T135037Z" creationid="karsten" creationdate="20150919T135037Z">
         <seg>Optionen zur Begrenzung der Zeilenlänge in Zieldokumenten (0 = keine Beschränkung)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oracle (formerly Sun) Java versions: check the system requirements in the OmegaT documentation (readme.txt) for the precise Oracle Java version required (i.e. whether your version of Java is sufficiently recent).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060754Z" creationid="BVB" creationdate="20180905T060754Z">
+        <seg>Java-Versionen von Oracle (früher Sun): Überprüfen Sie die Systemanforderungen in der OmegaT-Dokumentation (readme.txt) auf die genaue Oracle Java-Version, die erforderlich ist (d. h. ob Ihre Version von Java ausreichend aktuell ist).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32589,6 +32677,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simply install an OmegaT version without Java and see whether it works.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T061020Z" creationid="BVB" creationdate="20180905T061020Z">
+        <seg>Installieren Sie einfach eine OmegaT-Version ohne Java und sehen Sie, ob es funktioniert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simultaneous processing of multiple-file projects</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T184751Z" creationid="BVB" creationdate="20180826T184751Z">
@@ -37223,8 +37319,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The screenshot shows an example: &lt;i0/&gt; Remove the line break.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180905T053548Z" creationid="BVB" creationdate="20180905T053548Z">
-        <seg>Der Screenshot zeigt ein Beispiel:&lt;i0/&gt; Entfernen Sie den Zeilenumbruch.</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060219Z" creationid="BVB" creationdate="20180905T053548Z">
+        <seg>Der Screenshot zeigt ein Beispiel:&lt;i0/&gt;. Entfernen Sie den Zeilenumbruch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37601,6 +37697,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T090259Z">
         <seg>Das System pflegt die Versionen der geteilten Daten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The system will output details of the Java version already installed at system level.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060705Z" creationid="BVB" creationdate="20180905T060705Z">
+        <seg>Das System gibt Details der Java-Version aus, die bereits auf Systemebene installiert ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38518,6 +38622,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Third-party Java versions: until relatively recently, OmegaT ran only on Oracle/Sun's own Java.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060823Z" creationid="BVB" creationdate="20180905T060823Z">
+        <seg>Java-Versionen von Drittanbietern: Bis vor kurzem lief OmegaT nur auf Oracle / Suns eigenem Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Third-party software</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180827T065729Z" creationid="BVB" creationdate="20180827T065729Z">
@@ -38618,6 +38730,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T180338Z" creationid="BVB" creationdate="20180904T180338Z">
         <seg>Dieses HowTo enthält Informationen zur Verwendung von OmegaT und Iceni Infix zum Übersetzen von PDF-Dateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo provides information on using OmegaT on Linux.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060426Z" creationid="BVB" creationdate="20180905T060426Z">
+        <seg>Dieses HowTo enthält Informationen zur Verwendung von OmegaT unter Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40076,6 +40196,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T071218Z" creationid="BVB" creationdate="20180904T071218Z">
         <seg>Klicken Sie dazu auf die Hauptschaltfläche "Office" und dann auf Word-Optionen (unten rechts im Dialogfeld).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do this, open a terminal (also known as a console or command-line window; common programs for this are konsole (KDE) and gnome-terminal (GNOME)), and type:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060638Z" creationid="BVB" creationdate="20180905T060638Z">
+        <seg>Öffnen Sie dazu ein Terminal (auch Konsolen- oder Befehlszeilenfenster genannt; gemeinsame Programme hierfür sind Konsole (KDE) und gnome-terminal (GNOME)) und geben Sie ein:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49347,6 +49475,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T141552Z">
         <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;filename&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -version</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T060643Z" creationid="BVB" creationdate="20180905T060643Z">
+        <seg>java -version</seg>
       </tuv>
     </tu>
     <tu>
