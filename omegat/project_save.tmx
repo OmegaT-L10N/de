@@ -1658,6 +1658,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Note: these are the English files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T094549Z" creationid="BVB" creationdate="20180905T094549Z">
+        <seg>(Hinweis: Das sind die englischen Dateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T124550Z" creationid="BVB" creationdate="20180826T124550Z">
@@ -20294,6 +20302,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a2&gt;OmegaT webmaster&lt;/a2&gt;.)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T094733Z" creationid="BVB" creationdate="20180905T094733Z">
+        <seg>Wenn Sie es vorziehen, aus einer anderen Sprache zu übersetzen, in der OmegaT bereits übersetzt wurde, wenden Sie sich bitte an den &lt;a2&gt;OmegaT-Webmaster&lt;/a2&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;) and the &lt;e10&gt;GoTo segment&lt;/e10&gt; functions.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T072613Z">
@@ -20378,6 +20394,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T132738Z">
         <seg>Wenn Sie die Standardkonfiguration des Filters rückgängig machen möchten, klicken Sie auf &lt;e2&gt;Standardeinstelllungen.&lt;/e2&gt; Sie können den Namen auch direkt im Feld Dateinamenmuster der Zieldatei im Dialog Dateifilter ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to translate the &lt;s0&gt;OmegaT web pages&lt;/s0&gt;, download the &lt;a1&gt;website localization package&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T094528Z" creationid="BVB" creationdate="20180905T094528Z">
+        <seg>Wenn Sie die &lt;s0&gt;OmegaT-Webseiten&lt;/s0&gt; übersetzen möchten, laden Sie das &lt;a1&gt;Webseiten-Übersetzungspaket&lt;/a1&gt; herunter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23757,6 +23781,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180827T065318Z" creationid="BVB" creationdate="20180827T065318Z">
         <seg>Übersetzungsressourcen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localizations of the OmegaT user interface and documentation are generally updated in step with new releases of OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T094805Z" creationid="BVB" creationdate="20180905T094805Z">
+        <seg>Übersetzungen der Benutzeroberfläche von OmegaT und der Dokumentation werden in der Regel im Gleichschritt mit den neuen Versionen von OmegaT aktualisiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35758,6 +35790,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT website includes files in HTML and, as of 2011, PHP format.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T094827Z" creationid="BVB" creationdate="20180905T094827Z">
+        <seg>Die OmegaT-Website enthält Dateien in HTML und ab 2011 im PHP-Format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Open Document Format is an international standard and has replaced the former proprietary (but open) Star Office file format (two different but very similar file formats).</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T124853Z" creationid="BVB" creationdate="20180826T124853Z">
@@ -41360,6 +41400,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To translate the latter in OmegaT, you must register the .php extension with the HTML and XHTML filter as follows:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T094855Z" creationid="BVB" creationdate="20180905T094855Z">
+        <seg>Um das letztere in OmegaT zu übersetzen, müssen Sie die Erweiterung .php mit dem HTML- und XHTML-Filter wie folgt registrieren:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To untar the &lt;e1&gt;.tar.gz&lt;/e1&gt; file:</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T185811Z">
@@ -45641,6 +45689,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130522T163801Z">
         <seg>Sie definieren dessen Ort und Namen im Dialog zu den Projekteigenschaften.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not have to translate a complete package; you can, for instance, translate just the user interface (Bundle.properties), or just the instant start tutorial.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T094418Z" creationid="BVB" creationdate="20180905T094418Z">
+        <seg>Sie müssen kein komplettes Paket übersetzen; Sie können beispielsweise nur die Benutzeroberfläche (Bundle.properties) oder nur die Sofortstartanleitung zum sofortigen Start übersetzen.</seg>
       </tuv>
     </tu>
     <tu>
