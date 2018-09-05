@@ -1746,6 +1746,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This is not the case for the website localization files.)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102122Z" creationid="BVB" creationdate="20180905T102122Z">
+        <seg>(Dies ist bei den Website-Übersetzungsdateien nicht der Fall.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T122636Z">
@@ -8185,6 +8193,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T140603Z">
         <seg>Ein Tokenizer Paket aus dem Lucene Projekt wird als OmegaT plugin unter http://sourceforge.net/projects/omegat-plugins/files/ verbreitet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A translation may also be provided for information, but it has no legal validity.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102629Z" creationid="BVB" creationdate="20180905T102629Z">
+        <seg>Eine Übersetzung kann auch zur Information zur Verfügung gestellt werden, hat jedoch keine rechtliche Gültigkeit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16563,6 +16579,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Firstly, only the original English is legally valid.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102606Z" creationid="BVB" creationdate="20180905T102606Z">
+        <seg>Erstens ist nur das ursprüngliche Englisch rechtsgültig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fix</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T152246Z">
@@ -19518,6 +19542,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the document you are translating contains it, please do &lt;s0&gt;not&lt;/s0&gt; translate the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102540Z" creationid="BVB" creationdate="20180905T102540Z">
+        <seg>Wenn das Dokument, das Sie übersetzen, sie enthält, bitte &lt;s0&gt;nicht&lt;/s0&gt; die GPL (GNU Public License) oder die GFDL (GNU Free Documentation License) übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130522T184828Z">
@@ -20162,6 +20194,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130523T061931Z">
         <seg>Wenn Sie ein bestehendes System zur Behandlung von Terminologie haben - zum Beispiel MultiTerm - dann geht das, es biete den Export terminologischer Daten anhand des TBX Formats an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have any questions, the &lt;a0&gt;OmT-l10n list&lt;/a0&gt; is the best place to post them.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102337Z" creationid="BVB" creationdate="20180905T102337Z">
+        <seg>Wenn Sie Fragen haben, ist die &lt;a0&gt;OmT-l10n-Liste&lt;/a0&gt; der beste Ort, um sie zu veröffentlichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23341,6 +23381,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T174435Z" creationid="BVB" creationdate="20180904T174435Z">
         <seg>Starten Sie OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch OmegaT from the command line (MS-DOS window) with the following commands (if you are unsure how to do this, refer to the OmegaT user manual)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T103022Z" creationid="BVB" creationdate="20180905T103022Z">
+        <seg>Starten Sie OmegaT über die Befehlszeile (MS-DOS-Fenster) mit den folgenden Befehlen (wenn Sie sich nicht sicher sind, wie das geht, lesen Sie das OmegaT Benutzerhandbuch)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29163,6 +29211,14 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please keep translations of files in their original format, and do not change the file names.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102742Z" creationid="BVB" creationdate="20180905T102742Z">
+        <seg>Bitte bewahren Sie Übersetzungen von Dateien in ihrem ursprünglichen Format auf und ändern Sie die Dateinamen nicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please make sure that a build.xml file is present in that folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T101632Z">
@@ -31933,6 +31989,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search the web and you will probably find the translations.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102722Z" creationid="BVB" creationdate="20180905T102722Z">
+        <seg>Durchsuchen Sie das Web und Sie werden wahrscheinlich die Übersetzungen finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
       <tuv lang="DE">
@@ -31993,6 +32057,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T154224Z">
         <seg>Die Suche nach &lt;l0&gt;open file&lt;/l0&gt; wird daher alle Vorkommnisse der Zeichenfolge &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt; finden, aber nicht &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; oder &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secondly, unless yours is a very uncommon language, both documents have in all probability already been translated.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102651Z" creationid="BVB" creationdate="20180905T102651Z">
+        <seg>Zweitens, wenn Ihre Sprache nicht sehr ungewöhnlich ist, wurden beide Dokumente aller Wahrscheinlichkeit nach bereits übersetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35093,6 +35165,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Test your translation (optional).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102927Z" creationid="BVB" creationdate="20180905T102927Z">
+        <seg>Testen Sie Ihre Übersetzung (optional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Testing</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T192731Z" creationid="BVB" creationdate="20180826T192731Z">
@@ -36976,6 +37056,14 @@ instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T131137Z" creationid="BVB" creationdate="20180826T131137Z">
         <seg>Die Formatierungsinformationen, die in den höheren Ebenen enthalten sind, sind für das "andere" Werkzeug bedeutungslos, aber die Textinformationen können immer noch angezeigt, Fuzzy-Übereinstimmungen gefunden werden, usw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The formatting is retained automatically if you use OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102803Z" creationid="BVB" creationdate="20180905T102803Z">
+        <seg>Die Formatierung bleibt automatisch erhalten, wenn Sie OmegaT verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41432,6 +41520,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To test the user interface:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102946Z" creationid="BVB" creationdate="20180905T102946Z">
+        <seg>So testen Sie die Benutzeroberfläche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T204925Z" creationid="BVB" creationdate="20180826T201929Z">
@@ -43850,6 +43946,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We are grateful for all translations, but it simplifies our work considerably if files are returned in the same format (and not as Word files, for example).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102914Z" creationid="BVB" creationdate="20180905T102914Z">
+        <seg>Wir sind dankbar für alle Übersetzungen, aber es vereinfacht unsere Arbeit erheblich, wenn Dateien im selben Format (und zum Beispiel nicht als Word-Dateien) zurückgegeben werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We could not find the page you are looking for.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180822T152626Z" creationid="BVB" creationdate="20180822T152626Z">
@@ -45573,6 +45677,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can modify, correct, add or delete information at your own discretion.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102249Z" creationid="BVB" creationdate="20180905T102249Z">
+        <seg>Sie können Informationen nach eigenem Ermessen ändern, korrigieren, hinzufügen oder löschen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can now translate the text (see screenshot).</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T051958Z" creationid="BVB" creationdate="20180905T051958Z">
@@ -45777,6 +45889,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T094418Z" creationid="BVB" creationdate="20180905T094418Z">
         <seg>Sie müssen kein komplettes Paket übersetzen; Sie können beispielsweise nur die Benutzeroberfläche (Bundle.properties) oder nur die Sofortstartanleitung zum sofortigen Start übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have complete freedom in how you translate.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T102215Z" creationid="BVB" creationdate="20180905T102215Z">
+        <seg>Sie haben völlige Freiheit darin, wie Sie übersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47539,6 +47659,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T071434Z">
         <seg>cd C:\Programme\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd [full path to OmegaT]&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T103035Z" creationid="BVB" creationdate="20180905T103035Z">
+        <seg>cd [voller Pfad zu OmegaT]&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55707,6 +55835,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T165547Z" creationid="BVB" creationdate="20180904T165547Z">
         <seg>  .Subscript = True&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>     java -jar OmegaT.jar resource-bundle=[name of bundle with full path]</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T103105Z" creationid="BVB" creationdate="20180905T103105Z">
+        <seg>     java -jar OmegaT.jar resource-bundle=[Name des Bundles mit vollen Pfad]</seg>
       </tuv>
     </tu>
     <tu>
