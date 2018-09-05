@@ -27663,8 +27663,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Once this has been copied or linked to your execution path (done automatically if you use the installation script provided), you can launch OmegaT by hitting &lt;i0&gt;Alt+F2&lt;/i0&gt;, then typing in &lt;i1&gt;omegat&lt;/i1&gt; and conforming with ENTER.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180905T073534Z" creationid="BVB" creationdate="20180905T073534Z">
-        <seg>Sobald dies kopiert oder mit Ihrem Ausführungspfad verknüpft wurde (automatisch ausgeführt, wenn Sie das mitgelieferte Installationsskript verwenden), können Sie OmegaT starten, indem Sie &lt;i0&gt;Alt + F2&lt;/i0&gt; drücken und dann &lt;i1&gt;omegat&lt;/i1&gt; eingeben und mit ENTER bestätigen.</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T082525Z" creationid="BVB" creationdate="20180905T073534Z">
+        <seg>Sobald dieses kopiert oder mit Ihrem Ausführungspfad verknüpft wurde (automatisch ausgeführt, wenn Sie das mitgelieferte Installationsskript verwenden), können Sie OmegaT starten, indem Sie &lt;i0&gt;Alt + F2&lt;/i0&gt; drücken und dann &lt;i1&gt;omegat&lt;/i1&gt; eingeben und mit ENTER bestätigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35770,8 +35770,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="EN">
         <seg>The appearance of fonts in OmegaT on Linux may differ widely, according to:</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180905T074220Z" creationid="BVB" creationdate="20180905T074048Z">
-        <seg>Das Aussehen von Schriftarten in OmegaT unter Linux kann sich nach folgenden Kriterien stark unterscheiden:Das Erscheinungsbild von Fonts in OmegaT unter Linux kann sich nach folgenden Kriterien stark unterscheiden:</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T082602Z" creationid="BVB" creationdate="20180905T074048Z">
+        <seg>Das Aussehen von Schriftarten in OmegaT unter Linux kann sich nach folgenden Kriterien stark unterscheiden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37383,8 +37383,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The possibilities are numerous, and the procedures for implementing them no less numerous, owing to the plethora of distributions.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180905T073951Z" creationid="BVB" creationdate="20180905T073951Z">
-        <seg>Die Möglichkeiten sind zahlreich, und die Verfahren, um sie zu implementieren, sind wegen der Vielzahl von Distributionen nicht weniger zahlreich.</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T082550Z" creationid="BVB" creationdate="20180905T073951Z">
+        <seg>Die Möglichkeiten sind zahlreich und die Verfahren, um sie zu implementieren, sind wegen der Vielzahl von Distributionen nicht weniger zahlreich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40300,6 +40300,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T073835Z" creationid="BVB" creationdate="20180904T073835Z">
         <seg>Das überträgt die Formatierung auf Textabschnitte mit der gleichen gewünschten Formatierung und Sie müssen keine gelöschten Formatierungen wiederherstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T082956Z" creationid="BVB" creationdate="20180905T082831Z">
+        <seg>Dies führt zum Löschen aller vorgenommenen Benutzerkonfigurationseinstellungen (z. B. Änderungen der Segmentierungsregeln) und - wenn der Ordner "ordnungsgemäß" gelöscht wird, d. h. nicht einfach in den Papierkorb verschoben wird - kann nicht wiederhergestellt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43948,8 +43956,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Whether anti-aliasing is enabled (this is a command-line launch option, but you can also set it in the kaptain launch script)</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180905T074424Z" creationid="BVB" creationdate="20180905T074424Z">
-        <seg>Ob Anti-Aliasing aktiviert ist (dies ist eine Befehlszeilen-Startoption, aber Sie können sie auch im Kaptain-Startskript festlegen)</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180905T082736Z" creationid="BVB" creationdate="20180905T074424Z">
+        <seg>ob Anti-Aliasing aktiviert ist (dies ist eine Befehlszeilen-Startoption, aber Sie können sie auch im Kaptain-Startskript festlegen)</seg>
       </tuv>
     </tu>
     <tu>
