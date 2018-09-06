@@ -286,6 +286,14 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073341Z" creationid="BVB" creationdate="20180906T073341Z">
+        <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154059Z">
@@ -10793,6 +10801,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below these lines, insert the lines</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073445Z" creationid="BVB" creationdate="20180906T073445Z">
+        <seg>Fügen Sie unter den Zeilen diese Zeilen ein:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beneath these lines, you can also insert the code:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072936Z" creationid="BVB" creationdate="20180906T072936Z">
+        <seg>Unterhalb dieser Zeilen können Sie auch den Code einfügen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bengali</seg>
       </tuv>
       <tuv lang="DE">
@@ -11445,6 +11469,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T101506Z">
         <seg>Ändern Sie die Dateierweiterung von &lt;l1&gt;.txt&lt;/l1&gt; zu &lt;l2&gt;.utf8&lt;/l2&gt; und &lt;a3&gt;OmegaT&lt;/a3&gt; wird die Datei automatisch als eine UTF-8-Datei interpretieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the file extension, in this case to .tmx, by changing the line:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073217Z" creationid="BVB" creationdate="20180906T073217Z">
+        <seg>Ändern Sie die Dateiendung, in diesem Fall zu .tmx, indem Sie die Zeilen ändern:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20998,6 +21030,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In TMXFilter.java:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073042Z" creationid="BVB" creationdate="20180906T073042Z">
+        <seg>In TMXFilter.java:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a file manager a translation project looks and acts just like any other folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T152709Z">
@@ -21482,6 +21522,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T151951Z">
         <seg>Im ersten und dritten Fall oben sind die Tags nicht korrekt gepaart und im zweiten Fall fehlt das &lt; Zeichen beim beginnenden Tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder /src/org/omegat, open the file Bundle.properties in a text editor and find the lines</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073340Z" creationid="BVB" creationdate="20180906T073340Z">
+        <seg>Öffnen Sie mit einem Texteditor im Ordner /src/org/omegat die Datei Bundle.properties und suchen Sie diese Zeilen</seg>
       </tuv>
     </tu>
     <tu>
@@ -37226,6 +37274,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filter will however still work if you do not do this.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072909Z" creationid="BVB" creationdate="20180906T072909Z">
+        <seg>Der Filter funktioniert jedoch weiterhin, wenn Sie dies nicht tun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The filters available are mainly for file formats peculiar to the IT industry rather than end-user files.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T141626Z" creationid="BVB" creationdate="20180826T141626Z">
@@ -39670,6 +39726,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These define subsegments that are presented outside the segment in which they are contained (footnotes are a good example).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072726Z" creationid="BVB" creationdate="20180906T072726Z">
+        <seg>Diese definieren Subsegmente, die außerhalb des Segments dargestellt werden, in dem sie enthalten sind (Fußnoten sind ein gutes Beispiel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These file filters are excellent, and the risk of damaging the formatting of a LibreOffice, OpenOffice.org, etc. file during translation in OmegaT is extremely low.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T144207Z" creationid="BVB" creationdate="20180826T125042Z">
@@ -41184,6 +41248,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will make the display of the TMX files neater, but again, it is not absolutely essential.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073038Z" creationid="BVB" creationdate="20180906T073038Z">
+        <seg>Dadurch wird die Darstellung der TMX-Dateien besser, aber auch hier ist es nicht unbedingt notwendig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T082956Z" creationid="BVB" creationdate="20180905T082831Z">
@@ -41548,6 +41620,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>To do so, attach the following notices to the program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do this for the TMX filter, insert the line</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072756Z" creationid="BVB" creationdate="20180906T072756Z">
+        <seg>Fügen Sie für den TMX-Filter die Zeile ein</seg>
       </tuv>
     </tu>
     <tu>
@@ -47847,6 +47927,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>beneath the line</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072810Z" creationid="BVB" creationdate="20180906T072810Z">
+        <seg>unterhalb der Zeile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>beyond what the individual works permit.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154343Z">
@@ -48707,6 +48795,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T125421Z">
         <seg>Standard Justierung, so wie sie von der Sprache vorgegeben ist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineIntactTags(new String[]&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072938Z" creationid="BVB" creationdate="20180906T072938Z">
+        <seg>defineIntactTags(new String[]&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineOutOfTurnTags(new String[] { "sub", });</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072759Z" creationid="BVB" creationdate="20180906T072759Z">
+        <seg>defineOutOfTurnTags(new String[] { "sub", });</seg>
       </tuv>
     </tu>
     <tu>
@@ -53575,6 +53679,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>public Instance[] getDefaultInstances() {&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073225Z" creationid="BVB" creationdate="20180906T073225Z">
+        <seg>public Instance[] getDefaultInstances() {&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>public statement of acceptance of a version permanently authorizes you</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154406Z">
@@ -56396,6 +56508,102 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T165525Z" creationid="BVB" creationdate="20180904T165525Z">
         <seg>    Type:=wdStyleTypeCharacter)&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "bpt",&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072954Z" creationid="BVB" creationdate="20180906T072954Z">
+        <seg>   "bpt",&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ept",&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072956Z" creationid="BVB" creationdate="20180906T072956Z">
+        <seg>   "ept",&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "header",&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072947Z" creationid="BVB" creationdate="20180906T072947Z">
+        <seg>   "header",&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "it",&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072958Z" creationid="BVB" creationdate="20180906T072958Z">
+        <seg>   "it",&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ph",&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072952Z" creationid="BVB" creationdate="20180906T072952Z">
+        <seg>   "ph",&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "prop",&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072950Z" creationid="BVB" creationdate="20180906T072950Z">
+        <seg>   "prop",&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   "ut",&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073002Z" creationid="BVB" creationdate="20180906T073002Z">
+        <seg>   "ut",&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073344Z" creationid="BVB" creationdate="20180906T073344Z">
+        <seg>   HELPANDMANUAL_FILTER_NAME=Help &amp; Manual Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   return new Instance[] { new Instance("*.tmx", null, null), };</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073231Z" creationid="BVB" creationdate="20180906T073231Z">
+        <seg>   return new Instance[] { new Instance("*.tmx", null, null), };</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073228Z" creationid="BVB" creationdate="20180906T073228Z">
+        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   {&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T072944Z" creationid="BVB" creationdate="20180906T072944Z">
+        <seg>   {&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   });</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T073006Z" creationid="BVB" creationdate="20180906T073006Z">
+        <seg>   });</seg>
       </tuv>
     </tu>
     <tu>
