@@ -9381,6 +9381,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although it might seem strange to want to translate TMX files (the usual reason for creating a file filter), the addition of a TMX filter has the interesting effect that it enables TMX files in any location to be searched for from within any OmegaT project using the "Search Files" function, something not possible in the standard OmegaT build.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T070535Z" creationid="BVB" creationdate="20180906T070535Z">
+        <seg>Obwohl es seltsam erscheinen mag, TMX-Dateien zu übersetzen (der übliche Grund für das Erstellen eines Dateifilters), hat das Hinzufügen eines TMX-Filters den interessanten Effekt, dass TMX-Dateien an jedem Ort in einem beliebigen OmegaT-Projekt mit der Funktion "Datei suchen" gesucht werden können, was im Standard OmegaT Build nicht möglich ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T191634Z" creationid="BVB" creationdate="20180826T191634Z">
@@ -39858,6 +39866,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180830T054841Z" creationid="BVB" creationdate="20180830T054841Z">
         <seg>Dieses HowTo beschreibt, wie Sie OmegaT in Verbindung mit Atril's Déjà Vu CAT-Werkzeug verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo explains how to create a new file filter for use with OmegaT by describing the creation of a rudimentary file filter for the TMX format.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T070111Z" creationid="BVB" creationdate="20180906T070111Z">
+        <seg>In diesem HowTo wird erläutert, wie man einen neuen Dateifilter für OmegaT erstellt, indem die Erstellung eines rudimentären Dateifilters für das TMX-Format beschrieben wird.</seg>
       </tuv>
     </tu>
     <tu>
