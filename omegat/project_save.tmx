@@ -17003,6 +17003,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For compiling OmegaT from the source code, see &lt;a0&gt;Compiling OmegaT from Source HowTo&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T070809Z" creationid="BVB" creationdate="20180906T070809Z">
+        <seg>Um OmegaT aus dem Quelltext zu erstellen, schauen Sie sich das &lt;a0&gt;HowTo OmegaT aus den Quellen kompilieren&lt;/a0&gt; an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details, see the &lt;a0&gt;Déjà Vu "External View" HOWTO&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T143042Z" creationid="BVB" creationdate="20180826T143042Z">
@@ -20974,6 +20982,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In both files, search for (matching the case) and replace:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T071430Z" creationid="BVB" creationdate="20180906T071430Z">
+        <seg>Suchen und ersetzen Sie (Groß- und Kleinschreibung beachten) in beiden Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T060457Z">
@@ -21563,6 +21579,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T201548Z">
         <seg>In diesem Dialog kann die Schriftart, die &lt;a0&gt;OmegaT&lt;/a0&gt; in folgendem Fenster definieren:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this example, the Help &amp; Manual filter has been selected as a basis.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T071015Z" creationid="BVB" creationdate="20180906T071015Z">
+        <seg>In diesem Beispiel wurde als Basis der Filter Hilfe &amp; Handbuch ausgewählt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this folder, rename the two files HelpandManualDialect.java and HelpandManualFilter.java to TmxDialect.java and TmxFilter.java respectively.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T071255Z" creationid="BVB" creationdate="20180906T071255Z">
+        <seg>Bennen Sie in diesem Ordner die zwei Dateien HelpandManualDialect.java und HelpandManualFilter.java in TmxDialect.java beziehungsweise um.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24085,6 +24117,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T172852Z" creationid="BVB" creationdate="20180904T172852Z">
         <seg>Suchen Sie die Konfigurationsdatei OmegaT.l4J.ini (der Standardspeicherort ist C:\Programme (x86)\OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locate the folder src/org/omegat/filters3/xml, and make a copy the subfolder /helpandmanual, naming it /tmx.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T071125Z" creationid="BVB" creationdate="20180906T071125Z">
+        <seg>Finden Sie den Ordner src/org/omegat/filters3/xml und machen Sie eine Kopie des Unterordners /helpandmanual, nennen Sie ihn /tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28483,6 +28523,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T160350Z">
         <seg>Öffnen Sie das Suchfenster mit &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k1&gt; auf und geben Sie das Wort oder den Ausdruck an, nach dem Sie im Suchfenster suchen wollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the files TMXDialect.java and TMX filter in a text editor.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T071323Z" creationid="BVB" creationdate="20180906T071323Z">
+        <seg>Öffnen Sie die Dateien TMXDialect.java und TMX filter in einem Texteditor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32961,6 +33009,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T062252Z" creationid="BVB" creationdate="20180905T062252Z">
         <seg>Wählen Sie abhängig von Ihrer Java-Situation (siehe oben) eine Version mit oder ohne JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select an existing filter for a format similar to that for the new filter.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180906T070935Z" creationid="BVB" creationdate="20180906T070935Z">
+        <seg>Wählen Sie einen Filter für ein Format, dass dem für den neuen Filter ähnlich ist.</seg>
       </tuv>
     </tu>
     <tu>
