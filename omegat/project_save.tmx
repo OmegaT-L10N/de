@@ -1672,6 +1672,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T172631Z" creationid="BVB" creationdate="20180911T172631Z">
+        <seg>(Wenn Optionen&gt; Ansicht&gt; "Das erste nicht eindeutige Segment beim Markieren nicht eindeutiger Segmente einschließen" ausgewählt ist, werden alle nicht eindeutigen Segmente einschließlich des ersten auf diese Weise markiert.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you have translated into a language which is not your operating system language, see below, "How OmegaT handles localized versions".)</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T103811Z" creationid="BVB" creationdate="20180905T103811Z">
@@ -40021,6 +40029,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user can therefore see immediately that a segment in grey, rather than black, has already been checked.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T172547Z" creationid="BVB" creationdate="20180911T172547Z">
+        <seg>Der Benutzer kann daher sofort sehen, dass ein Segment in Grau statt in Schwarz bereits überprüft wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user group also serves as the main point of contact between users and the project team.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180823T071032Z" creationid="BVB" creationdate="20180823T071032Z">
@@ -41596,6 +41612,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T093507Z">
         <seg>Das ist sinnvoll, wenn OmegaT auf einem Server läuft, wo TMX Dateien automatisch in das Projekt eingespeist werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T172207Z" creationid="BVB" creationdate="20180911T172207Z">
+        <seg>Dies ist nützlich, wenn eine Übersetzung geprüft wird, da möglicherweise nur die erste Instanz identischer Segmente überprüft werden muss.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47063,6 +47087,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180906T072046Z" creationid="BVB" creationdate="20180906T072016Z">
         <seg>Sie können die Zeile löschen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can disable the auto-propagation function with Project &gt; Properties &gt; uncheck the "Auto-propagation of Translations" box.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T173110Z" creationid="BVB" creationdate="20180911T173110Z">
+        <seg>Sie können die Funktion Autoprogagierung unter Projekt &gt; Eigenschaften &gt; Automatische Weitergabe von Übersetzungen deaktivieren.</seg>
       </tuv>
     </tu>
     <tu>
