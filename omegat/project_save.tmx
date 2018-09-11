@@ -9381,6 +9381,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other instances of the same segment that were previously the "default translation" will now be brought into line with this translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T174744Z" creationid="BVB" creationdate="20180911T174744Z">
+        <seg>Alle anderen Instanzen desselben Segments, die zuvor die "Standard-Übersetzung" waren, werden jetzt mit dieser Übersetzung in Übereinstimmung gebracht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All other non-permissive additional terms are considered "further</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154353Z">
@@ -20906,6 +20914,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T163615Z">
         <seg>Wenn es um eine Menge von schon übersetzten Texten geht und es stellt sich heraus, dass die Spracheinstellung im Projekt falsch ist (Sie gaben pt_BR als Sprache an, aber es keine pt_BR Vokabeln zum Beispiel), können Sie einfache die entsprechenden Dateien kopieren und sie umbenennen (z.B. von &lt;e0&gt;pt_PT.aff&lt;/e0&gt; und &lt;e1&gt;pt_PT.dic&lt;/e1&gt; zu &lt;e2&gt;pt_BR.aff&lt;/e2&gt; und &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have already translated an instance of a non-unique segment and wish to make a different instance of the non-unique segment the default translation without changing the translation of the instance you have already translated, you must first set the status of the segment you have already translated to "alternative translation" using "Create Alternative Translation".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T175203Z" creationid="BVB" creationdate="20180911T175203Z">
+        <seg>Wenn Sie eine Instanz eines nicht eindeutigen Segments bereits übersetzt haben und eine andere Instanz des nicht eindeutigen Segments zur Standardübersetzung machen möchten, ohne die Übersetzung der bereits übersetzten Instanz zu ändern, müssen Sie zunächst den Status des Segments, das Sie schon übersetzt haben, zur alternativen Übersetzung machen (Rechtsklick mit der Maus, "Alternative Übersetzung (erstellen)".</seg>
       </tuv>
     </tu>
     <tu>
@@ -42128,6 +42144,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will make the current translation the default translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T174717Z" creationid="BVB" creationdate="20180911T174717Z">
+        <seg>Das macht die aktuelle Übersetzung zur Standardübersetzung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will make the display of the TMX files neater, but again, it is not absolutely essential.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180906T073038Z" creationid="BVB" creationdate="20180906T073038Z">
@@ -42732,6 +42756,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T055751Z">
         <seg>Um mehrere Ausgaben von &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; zu starten, doppelklicken Sie auf die Datei &lt;e2&gt;JavaApplicationStub&lt;/e2&gt;, die sich in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt; befindet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make an alternative translation the default translation, right-click with the mouse and select "Use as Default Translation".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T174655Z" creationid="BVB" creationdate="20180911T174655Z">
+        <seg>Um eine alternative Übersetzung zur Standardübersetzung zu machen, klicken Sie mit der rechten Maustaste und wählen Sie "Als Standardübersetzung verwenden".</seg>
       </tuv>
     </tu>
     <tu>
@@ -47210,6 +47242,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180822T153818Z" creationid="BVB" creationdate="20180822T153818Z">
         <seg>Sie können zur &lt;a0&gt;Startseite&lt;/a0&gt; gehen und - hoffentlich - die benötigte Information dort finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can have as many "alternative translations" as you like of identical segments, but there can only be one default translation (or none at all).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T174534Z" creationid="BVB" creationdate="20180911T174534Z">
+        <seg>Sie können so viele "alternative Übersetzungen" von identischen Segmenten haben, wie Sie möchten, aber es kann nur eine Standardübersetzung geben (oder keine).</seg>
       </tuv>
     </tu>
     <tu>
