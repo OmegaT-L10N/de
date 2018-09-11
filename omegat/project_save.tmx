@@ -3853,6 +3853,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Create Alternative Translation&lt;/b0&gt;: makes the segment unique.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T215753Z" creationid="Michael Motzkus" creationdate="20180911T215753Z">
+        <seg>&lt;b0&gt;Alternative Übersetzung (erstellen)&lt;/b0&gt;: Macht das Segment eindeutig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T193631Z">
@@ -3885,10 +3893,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Mark Non-Unique Segments&lt;/b0&gt;: identical segments are marked in grey (changes the display, but not the behaviour).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T215557Z" creationid="Michael Motzkus" creationdate="20180911T215557Z">
+        <seg>&lt;b0&gt;Markiere nicht-eindeutige Segmente&lt;/b0&gt;: Identische Segmente werden grau markiert (ändert die Anzeige, aber nicht das Verhalten).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;None&lt;/b0&gt; (default behaviour): all identical segments are automatically translated the same way.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T215415Z" creationid="Michael Motzkus" creationdate="20180911T215415Z">
-        <seg>&lt;b0&gt;Keine&lt;/b0&gt; (Standardverhalten): alle identischen Segmente werden automatisch gleich übersetzt..</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T215617Z" creationid="Michael Motzkus" creationdate="20180911T215415Z">
+        <seg>&lt;b0&gt;Keine&lt;/b0&gt; (Standardverhalten): Alle identischen Segmente werden automatisch gleich übersetzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Remove Translation&lt;/b0&gt;: deletes the content of the segment, causing (when Enter is pressed) the default translation to be inserted.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T220207Z" creationid="Michael Motzkus" creationdate="20180911T220207Z">
+        <seg>&lt;b0&gt;Übersetzung löschen&lt;/b0&gt;: Löscht den Inhalt des Segments und bewirkt, dass (wenn Enter gedrückt wird) die Standard-Übersetzung eingefügt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3913,6 +3937,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T191450Z">
         <seg>&lt;b0&gt;Diese Formatierung&lt;/b0&gt; wird hierher dupliziert.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Use as Default Translation&lt;/b0&gt;: causes the active segment to be made the default translation and therefore all previous "default translation" segments to be brought into line with it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T220357Z" creationid="Michael Motzkus" creationdate="20180911T220357Z">
+        <seg>&lt;b0&gt;Als Standardübersetzung verwenden&lt;/b0&gt;: Bewirkt, dass das aktive Segment zur Standardübersetzung wird und daher alle vorherigen "Standardübersetzungs"-Segmente damit in Einklang gebracht werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11829,6 +11861,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Änderungen an diesem Befehl schließen Erweiterungen mit "Argumenten" ein. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes to this segment have no effect upon other segments, nor do changes to the "default translation" affect it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T220108Z" creationid="Michael Motzkus" creationdate="20180911T220108Z">
+        <seg>Änderungen an diesem Segment haben keine Auswirkungen auf andere Segmente, noch haben Änderungen an der "Standardübersetzung" Auswirkungen auf das Segment.</seg>
       </tuv>
     </tu>
     <tu>
