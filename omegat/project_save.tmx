@@ -5453,6 +5453,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k7&gt;unoconv -f html &lt;i8&gt;file&lt;/i8&gt;&lt;/k7&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T160450Z" creationid="BVB" creationdate="20180911T160450Z">
+        <seg>&lt;k7&gt;unoconv -f html &lt;i8&gt;Datei&lt;/i8&gt;&lt;/k7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T153928Z">
@@ -36409,6 +36417,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T155946Z" creationid="BVB" creationdate="20180911T155705Z">
         <seg>Dass Sie daran gedacht haben, im OmegaT Strg + S, Strg + D zu drücken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That you have set the auto-refresh interval in the browser.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T160651Z" creationid="BVB" creationdate="20180911T160651Z">
+        <seg>Dass Sie das automatische Aktualisierungsintervall im Browser eingestellt haben.</seg>
       </tuv>
     </tu>
     <tu>
