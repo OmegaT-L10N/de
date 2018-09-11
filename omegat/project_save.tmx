@@ -11465,6 +11465,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT uses automatic match propagation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T171649Z" creationid="BVB" creationdate="20180911T171553Z">
+        <seg>Standardmäßig verwendet OmegaT automatische Match-Propagierung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T125158Z">
@@ -19632,6 +19640,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154353Z">
         <seg>If a license document contains</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T171949Z" creationid="BVB" creationdate="20180911T171949Z">
+        <seg>Wenn ein Segment bereits übersetzt wurde und später ein identisches Segment im Text geändert wird, wird das frühere Segment an das geänderte Segment angepasst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31052,6 +31068,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Propagation</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T171739Z" creationid="BVB" creationdate="20180911T171307Z">
+        <seg>Propagierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Propagation and one-to-many matching</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180823T105526Z" creationid="BVB" creationdate="20180823T105526Z">
@@ -33525,6 +33549,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segments which occur more than once are described in OmegaT as "non-unique segments".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T172020Z" creationid="BVB" creationdate="20180911T172020Z">
+        <seg>Segmente, die mehr als einmal vorkommen, werden in OmegaT als "nicht eindeutige Segmente" beschrieben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segments with notes</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T220028Z" creationid="karsten" creationdate="20150919T220028Z">
@@ -33873,6 +33905,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130630T165639Z">
         <seg>Ausgewählte Maschine: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T172131Z" creationid="BVB" creationdate="20180911T172131Z">
+        <seg>Wenn Sie Ansicht&gt; Nicht eindeutige Segmente markieren auswählen, wird nur die erste Instanz eines nicht eindeutigen Segments in Schwarz angezeigt und die zweite und nachfolgende Instanzen werden in Grau angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40766,6 +40806,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo describes OmegaT's functions for automatic match propagation and one-to-many matching.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T171723Z" creationid="BVB" creationdate="20180911T171215Z">
+        <seg>Dieses HowTo beschreibt OmegaTs automatische Match-Propagierung und Eins-zu-viele-Abgleichsfunktionen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180901T081006Z" creationid="BVB" creationdate="20180901T081006Z">
@@ -41652,6 +41700,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T141313Z">
         <seg>Das heißt zum Beispiel, dass Sie ein Projekt nicht beenden müssen, an dem Sie gerade arbeiten, wenn Sie ein weiteres zusätzliches TM hinzufügen wollen: Sie laden das Projekt einfach erneut und die Änderungen, die Sie gemacht haben, werden einbezogen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that as soon as a segment is translated, the same translation is automatically inserted into all identical segments.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T171915Z" creationid="BVB" creationdate="20180911T171915Z">
+        <seg>Das bedeutet, dass, sobald ein Segment übersetzt ist, die gleiche Übersetzung automatisch in alle identischen Segmente eingefügt wird.</seg>
       </tuv>
     </tu>
     <tu>
