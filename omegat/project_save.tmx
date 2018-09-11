@@ -5445,6 +5445,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k3&gt;abiword --to=html &lt;i4&gt;file&lt;/i4&gt;&lt;/k3&gt;&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T160430Z" creationid="BVB" creationdate="20180911T160430Z">
+        <seg>&lt;k3&gt;abiword --to=html &lt;i4&gt;Datei&lt;/i4&gt;&lt;/k3&gt;&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;key&gt;VMOptions&lt;/key&gt; &lt;string&gt;-Xmx1024M&lt;/string&gt; &lt;key&gt;Arguments&lt;/key&gt; &lt;array&gt; &lt;string&gt;--ITokenizer=org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;/string&gt; &lt;string&gt;--ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;/string&gt; &lt;/array&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T153928Z">
@@ -17315,6 +17323,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For Abiword:&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T160421Z" creationid="BVB" creationdate="20180911T160421Z">
+        <seg>Für Abiword:&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For LibreOffice+Unoconv:&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T160439Z" creationid="BVB" creationdate="20180911T160439Z">
+        <seg>Für LibreOffice+Unoconv:&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T152834Z">
@@ -19644,6 +19668,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If all is well, an .html version of the file will be produced:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T160418Z" creationid="BVB" creationdate="20180911T160418Z">
+        <seg>Wenn alles gut ist, wird eine .html-Version der Datei erstellt:&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130522T163717Z">
@@ -20162,6 +20194,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130522T184828Z">
         <seg>Falls die Datei schon existiert, wird kein Versuch unternommen, das Format oder den Satz an Schriftzeichen zu verifizieren: die neuen Einträge werden immer durch Tabulator getrennt und in UTF-8 sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the file displayed in the browser is not being updated, check the following:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155557Z" creationid="BVB" creationdate="20180911T155557Z">
+        <seg>Wenn die im Browser angezeigte Datei nicht aktualisiert wird, überprüfen Sie das Folgende:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21578,6 +21618,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154350Z">
         <seg>In determining whether a product is a consumer product,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In each case, &lt;i0&gt;file&lt;/i0&gt; is the name of a .docx or .odt file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T160321Z" creationid="BVB" creationdate="20180911T160321Z">
+        <seg>In jedem Fall ist, &lt;i0&gt;Datei&lt;/i0&gt; der Name einer .docx- oder .odt-Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29863,6 +29911,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pay attention to lower/upper case.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155505Z" creationid="BVB" creationdate="20180911T155505Z">
+        <seg>Achten Sie auf Groß-/Kleinschreibung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;e0&gt;omegat&lt;/e0&gt; instead of &lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T071735Z">
@@ -36337,6 +36393,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T192236Z" creationid="BVB" creationdate="20180826T192236Z">
         <seg>Das heißt, es sind nur noch ein paar Tausend übrig!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That the file conversion utility is installed properly and is working.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T160025Z" creationid="BVB" creationdate="20180911T155927Z">
+        <seg>Dass das Dateikonvertierungswerkzeug ordentlich installiert wurde und funktioniert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That you are remembering to hit Ctrl+s, Ctrl+d in OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155946Z" creationid="BVB" creationdate="20180911T155705Z">
+        <seg>Dass Sie daran gedacht haben, im OmegaT Strg + S, Strg + D zu drücken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44059,6 +44131,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Until/unless you do, there will be no changes to detect/display!</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155917Z" creationid="BVB" creationdate="20180911T155917Z">
+        <seg>Solange Sie das nicht tun, werden Änderungen nicht entdeckt / angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T220139Z" creationid="karsten" creationdate="20150919T220125Z">
@@ -47146,6 +47226,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T073223Z" creationid="BVB" creationdate="20180911T073223Z">
         <seg>Sie können die oben beschriebene Browser-Lösung immer noch verwenden, um eine Vorschau der Übersetzungen dieser Dateien anzuzeigen, aber Sie benötigen dann a) einen Konverter zum Konvertieren der Datei in das .html-Format und b) ein Dienstprogramm, um den Konverter automatisch zu starten, so dass Sie die Konvertierung nicht manuell starten müssen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can test this with the relevant command below on the command line (terminal/console/DOS prompt).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T160232Z" creationid="BVB" creationdate="20180911T160232Z">
+        <seg>Sie können es mit dem entsprechenden Kommando unten auf der Kommandozeile testen  (Terminal/Konsole/DOS-Eingabeaufforderung).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56917,6 +57005,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T153652Z" creationid="BVB" creationdate="20180911T153652Z">
         <seg>wish priorview.tcl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wish8.5 priorview.tcl</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155439Z" creationid="BVB" creationdate="20180911T155439Z">
+        <seg>wish8.5 priorview.tcl</seg>
       </tuv>
     </tu>
     <tu>
