@@ -1664,6 +1664,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Do not confuse this folder with the "dictionary" folder in OmegaT projects.) Then select the URL (website address) of an online repository from which to download the dictionary or dictionaries, and paste this URL into the "URL of online dictionaries" field.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230016Z" creationid="Michael Motzkus" creationdate="20180911T230016Z">
+        <seg>(Verwechseln Sie diesen Ordner nicht mit dem "dictionary"-Ordner in OmegaT-Projekten.) Wählen Sie dann eine URL (Webadresse) und kopieren Sie diese URL in das Feld "URL des Onlinewörterbuchs".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Download from the links provided; Linux users may prefer to install from their distribution's repositories, where this is possible)</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T152953Z" creationid="BVB" creationdate="20180911T152953Z">
@@ -8361,6 +8369,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Eine Liste von möglichen Argumenten folgt. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A list of repository URLs is provided below.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230146Z" creationid="Michael Motzkus" creationdate="20180911T230146Z">
+        <seg>Eine Liste von Repository-URLs wird unten bereitgestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22315,6 +22331,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T201548Z">
         <seg>In diesem Dialog kann die Schriftart, die &lt;a0&gt;OmegaT&lt;/a0&gt; in folgendem Fenster definieren:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this dialog, select or create a dictionary file folder on your hard drive.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T225601Z" creationid="Michael Motzkus" creationdate="20180911T225601Z">
+        <seg>Erstellen Sie in diesem Dialog einen Wörterbuchdateienordner auf Ihrer Festplatte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41779,6 +41803,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Das ist die Voreinstellung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the folder in which the spelling dictionary files will be placed.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T225626Z" creationid="Michael Motzkus" creationdate="20180911T225626Z">
+        <seg>Das ist der Ordner, in dem die Wörterbuchdateien gespeichert werden.</seg>
       </tuv>
     </tu>
     <tu>
