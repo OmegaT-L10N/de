@@ -9293,6 +9293,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All being well, Priorview should appear when launched as described above.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153900Z" creationid="BVB" creationdate="20180911T153900Z">
+        <seg>Wenn alles gut läuft, sollte Priorview erscheinen, wenn Sie es wie oben beschrieben starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All being well, your translation will come out looking like the original, but translated.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T052541Z" creationid="BVB" creationdate="20180905T052541Z">
@@ -28693,6 +28701,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On this, select:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153953Z" creationid="BVB" creationdate="20180911T153913Z">
+        <seg>Darin wählen Sie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On warn the errors are printed but the program continues.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T200148Z">
@@ -40005,6 +40021,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then type in:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153646Z" creationid="BVB" creationdate="20180911T153646Z">
+        <seg>Dann schreiben Sie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131011T222644Z">
@@ -42392,6 +42416,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To launch Priorview, open a command prompt/terminal/console and type in:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153520Z" creationid="BVB" creationdate="20180911T153520Z">
+        <seg>Um Priorview zu starten, öffnen Sie ein(e) Kommandozeile/Terminal/Konsole und schreiben:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To launch from the command line, open a terminal window (root permissions are not needed).</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T071938Z" creationid="BVB" creationdate="20180905T071938Z">
@@ -44627,6 +44659,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Priorview</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153819Z" creationid="BVB" creationdate="20180911T153819Z">
+        <seg>Priorview benutzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using TMX with alternative language pairs</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T060535Z">
@@ -45283,6 +45323,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When actuated, this launches your browser with a dummy page instructing you to set the automatic refresh function, which you should then do, and then to hit Ctrl+s, Ctrl+d in OmegaT to launch automatic updating of the browser.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154344Z" creationid="BVB" creationdate="20180911T154344Z">
+        <seg>Wenn dies aktiviert wird, startet Ihr Browser mit einer Dummy-Seite, die Sie anweist, die automatische Aktualisierungsfunktion einzustellen, was Sie dann tun sollten und dann Strg + S, Strg + D in OmegaT zu drücken, um die automatische Aktualisierung des Browsers zu starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When another window is on the foreground, click on the main window to bring it to the foreground or press &lt;k0&gt;Esc&lt;/k0&gt; to close the other window.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T141945Z">
@@ -45499,6 +45547,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have selected all of these, the Start button appears.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154228Z" creationid="BVB" creationdate="20180911T154228Z">
+        <seg>Wenn Sie das alles ausgewählt haben, erscheint der Start-Button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you left-click on the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T154444Z">
@@ -45647,6 +45703,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T091507Z">
         <seg>Mit Fortschritt der Übersetzung werden neue Dateien (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx und project_name-level2.tmx&lt;/f4&gt;) erzeugt (und im Prozess der Übersetzung) in diesem Ordner aktualisiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whilst Priorview is running, you can:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154407Z" creationid="BVB" creationdate="20180911T154407Z">
+        <seg>Während Priorview läuft, können Sie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46962,6 +47026,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T073359Z">
         <seg>Sie können aussuchen, welche der folgenden Elemente zu übersetzen sind:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can simplify launching by writing a script file, i.e. a plain-text file containing these two lines.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153808Z" creationid="BVB" creationdate="20180911T153808Z">
+        <seg>Sie können es einfach starten, in dem Sie eine Skriptdatei schreiben, das heißt eine Klartextdatei, die diese zwei Zeilen enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48892,6 +48964,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>cd &lt;Ordner mit der Datei OmegaT.jar&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;i0&gt;path&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153537Z" creationid="BVB" creationdate="20180911T153537Z">
+        <seg>cd &lt;i0&gt;Pfad&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55648,6 +55728,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the browser you have installed;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154012Z" creationid="BVB" creationdate="20180911T154012Z">
+        <seg>den Browser, den Sie installiert haben;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the conditions stated below.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154340Z">
@@ -55672,10 +55760,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the file conversion utility that you have installed.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154200Z" creationid="BVB" creationdate="20180911T154200Z">
+        <seg>das Dateikonvertierungswerkzeug, das Sie installiert haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the file currently available in the Editor pane is highlighted with a blue background.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T144044Z">
         <seg>die Datei, die momentan im Editierfenster vorhaden ist, wird durch einen blauen Hintergrund hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the frequency with which the script is to check whether this file has changed (polling interval);</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154136Z" creationid="BVB" creationdate="20180911T154136Z">
+        <seg>die Häufigkeit, mit der das Skript überprüfen soll, ob sich die Datei geändert hat (Abfrageintervall);</seg>
       </tuv>
     </tu>
     <tu>
@@ -55700,6 +55804,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T143000Z">
         <seg>die Liste aller übersetzbaren Dateien im Projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the name of the target file (in /target in your OmegaT project);</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153949Z" creationid="BVB" creationdate="20180911T153949Z">
+        <seg>den Namen der ZIeldatei (in /target in Ihrem OmegaT-Projekt);</seg>
       </tuv>
     </tu>
     <tu>
@@ -56631,6 +56743,14 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>where &lt;i0&gt;path&lt;/i0&gt; is the full pathname of the folder in which you placed preview.tcl.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153636Z" creationid="BVB" creationdate="20180911T153636Z">
+        <seg>wo &lt;i0&gt;Pfad&lt;/i0&gt; der volle Pfadname des Ordner ist, in dem Sie preview.tcl gespeichert haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Is the name of MY translation of the ressource bundle really bundle_EN.properties?</note>
       <tuv lang="EN">
         <seg>where [full path to OmegaT] is the full path to the folder containing the OmegaT program, and [name of bundle with full path] is the name of your translation of the resource bundle (bundle_en.properties, unless you have changed the name) including the full path to its location.</seg>
@@ -56677,6 +56797,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T121629Z">
         <seg>Fenster, ähnlich wie das unten, wird auftauchen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wish priorview.tcl</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153652Z" creationid="BVB" creationdate="20180911T153652Z">
+        <seg>wish priorview.tcl</seg>
       </tuv>
     </tu>
     <tu>
