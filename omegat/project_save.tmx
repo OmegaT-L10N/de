@@ -36984,6 +36984,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The change will then become visible after a delay of at most the interval you selected (plus the time taken by OmegaT to save and produce the target files).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T072027Z" creationid="BVB" creationdate="20180911T072027Z">
+        <seg>Die Änderung wird dann nach einer Verzögerung von höchstens dem von Ihnen gewählten Intervall sichtbar (zuzüglich der Zeit, die OmegaT benötigt, um die Zieldateien zu speichern und zu erzeugen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T125207Z">
@@ -42396,6 +42404,15 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T185811Z">
         <seg>Um die &lt;e1&gt;.tar.gz&lt;/e1&gt; Datei zu entpacken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>At least as of OmegaT 4.1.5 this instruction is wrong. To create "the target document" it is Ctrl + Shift + D.</note>
+      <tuv lang="EN">
+        <seg>To update the display, you must still save and create your target document in OmegaT with Ctrl+s, Ctrl+d.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T071303Z" creationid="BVB" creationdate="20180911T071303Z">
+        <seg>Um die Anzeige zu aktualisieren, müssen Sie Ihr Zieldokument in OmegaT mit Strg + S, Strg + Umschalt + D speichern und erstellen.</seg>
       </tuv>
     </tu>
     <tu>
