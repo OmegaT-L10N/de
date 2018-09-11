@@ -3437,6 +3437,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download Abiword here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T074159Z" creationid="BVB" creationdate="20180911T074159Z">
+        <seg>&lt;a0&gt;Laden Sie Abiword hier herunter&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Download LibreOffice here&lt;/a0&gt;; &lt;a1&gt;download the Unoconv plug-in here&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T074607Z" creationid="BVB" creationdate="20180911T074607Z">
+        <seg>&lt;a0&gt;Laden Sie LibreOffice hier herunter;&lt;/a0&gt;; &lt;a1&gt;Laden Sie das Unoconv-Plugin hier herunter&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T182517Z" creationid="BVB" creationdate="20180826T182517Z">
@@ -22640,6 +22656,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be used to convert .docx and .odt files to .html format, but to do so from the command line, it also requires Unoconv, a plug-in.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T074513Z" creationid="BVB" creationdate="20180911T074513Z">
+        <seg>Es kann auch benutzt werden, um .docx- und .odt-Dateien ins .html-Format  zu konvertieren, aber um das von der Kommandozeileaus zu tun, benötigt es auch Unoconv, ein Plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T141619Z">
@@ -24125,6 +24149,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T062357Z" creationid="BVB" creationdate="20180904T062357Z">
         <seg>Manuelles Anpassen der Zeichenformatierung eines Absatzes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is a fully featured office suite similar to Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T074321Z" creationid="BVB" creationdate="20180911T074321Z">
+        <seg>LibreOffice ist eine vollständig ausgestattete Sammlung von Büroanwendungen, ähnlich zu Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28661,6 +28693,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have installed either Abiword or the LibreOffice+Unoconv combination, you can convert the target files produced by OmegaT to html format in order for them to be read by the browser.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T074848Z" creationid="BVB" creationdate="20180911T074848Z">
+        <seg>Wenn Sie einmal Abiword oder die Kombination LibreOffice+Unoconv installiert haben, können Sie von OmegaT erstellte ZIeldateien ins HTML-Format konvertieren, um vom Browser gelesen werden zu können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target file, which will be created in the&lt;f1&gt; /target/&lt;/f1&gt;subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
@@ -31408,6 +31448,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T202347Z">
         <seg>Wenn Ihnen Tags Probleme machen und die Formatierung für die Übersetzung nicht unbedingt wichtig ist, ziehen Sie in Betracht, dass die Entfernung der Tags der einfachste Weg zur Beseitigung von Problemen ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember that you will first have to save in OmegaT and produce the translated documents, then launch the conversion utility, then wait for the display to be updated in the browser.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T075131Z" creationid="BVB" creationdate="20180911T075131Z">
+        <seg>Denken Sie daran, dass Sie erst in OmegaT spichern und die übersetzten Dokumente erstellen, dann das Konertierungswerkzeug starten und dann darauf warten müssen, dass die Ansicht im Browser aktualisiert wird.</seg>
       </tuv>
     </tu>
     <tu>
