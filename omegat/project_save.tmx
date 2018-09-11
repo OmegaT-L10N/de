@@ -1656,6 +1656,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Download from the links provided; Linux users may prefer to install from their distribution's repositories, where this is possible)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T152953Z" creationid="BVB" creationdate="20180911T152953Z">
+        <seg>(Laden Sie es von den bereitgestellten Links herunter; Linuxbenutzer mögen es vorziehen, es aus den Repositories Ihrer Distributionen zu installieren, wo es möglich ist)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(For more detailed instructions, refer to your instruction manual or click &lt;a0&gt;here&lt;/a0&gt;, &lt;a1&gt;here&lt;/a1&gt; or &lt;a2&gt;here&lt;/a2&gt;.)</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T063903Z" creationid="BVB" creationdate="20180904T063903Z">
@@ -3413,6 +3421,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Abiword&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153032Z" creationid="BVB" creationdate="20180911T153032Z">
+        <seg>&lt;a0&gt;Abiword&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;CodeZapper&lt;/a0&gt; (inexpensive)</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T061711Z" creationid="BVB" creationdate="20180904T061711Z">
@@ -3461,10 +3477,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; together with the &lt;a1&gt;"ReloadEvery" add-on for Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T152635Z" creationid="BVB" creationdate="20180911T152635Z">
+        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; zusammen mit dem &lt;a1&gt;"ReloadEvery"Addon für Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Follow this link to apply to Google&lt;/a0&gt; for the Google Translate API v2 key.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T172509Z" creationid="BVB" creationdate="20180904T172509Z">
         <seg>&lt;a0&gt;Folgen Sie diesem Link, um sich bei Google&lt;/a0&gt; für den Google Translate API v2-Schlüssel zu bewerben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;LibreOffice&lt;/a0&gt; together with the &lt;a1&gt;Unoconv plug-in&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153106Z" creationid="BVB" creationdate="20180911T153106Z">
+        <seg>&lt;a0&gt;LibreOffice&lt;/a0&gt; zusammen mit dem &lt;a1&gt;Unoconv-Plugin&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3653,6 +3685,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T152537Z" creationid="BVB" creationdate="20180911T152537Z">
+        <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T204501Z" creationid="BVB" creationdate="20180826T204501Z">
@@ -3761,6 +3801,38 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130529T202748Z">
         <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;a1&gt;Priorview&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153319Z" creationid="BVB" creationdate="20180911T153319Z">
+        <seg>&lt;b0&gt;&lt;a1&gt;Priorview&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;a1&gt;Tcl/Tk&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153112Z" creationid="BVB" creationdate="20180911T153112Z">
+        <seg>&lt;b0&gt;&lt;a1&gt;Tcl/Tk&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;A browser&lt;/b0&gt;, specifically either:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T152535Z" creationid="BVB" creationdate="20180911T152535Z">
+        <seg>&lt;b0&gt;Einen Browser&lt;/b0&gt;, speziell entweder:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;A conversion utility&lt;/b0&gt;, specifically either:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153031Z" creationid="BVB" creationdate="20180911T153031Z">
+        <seg>&lt;b0&gt;Ein Konvertierungswerkzeug&lt;/b0&gt;, speziell entweder:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9401,6 +9473,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T134816Z">
         <seg>Erlaubt es Ihnen, die angebotenen Werkzeuge für maschinelle Übersetzung zu aktivieren/deaktivieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Almost any current version of Tcl/Tk will probably be suitable, but you must have both Tcl (the scripting interpreter) and Tk (the graphical component).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153316Z" creationid="BVB" creationdate="20180911T153316Z">
+        <seg>Wahrscheinlich wird fast jede aktuelle Version von Tcl/Tk passend sein, aber Sie müssen beides haben, Tcl (den Skriptinterpreter) und Tk (die grafische Komponente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22348,6 +22428,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Installieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install Firefox first (if you do not already have it installed), then ReloadEvery.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T152738Z" creationid="BVB" creationdate="20180911T152738Z">
+        <seg>Installieren Sie zuerst Firefox (wenn Sie ihn noch nicht installiert haben), dann ReloadEvery.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42240,6 +42328,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To install Priorview, simply unpack the zip archive at any suitable location on your hard drive.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153407Z" creationid="BVB" creationdate="20180911T153407Z">
+        <seg>Um Priorview zu installieren, entpacken Sie es einfach an einen passenden Ort auf Ihrer Festplatte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To install spelling dictionaries, follow this procedure:</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154928Z">
@@ -53538,8 +53634,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>or</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>or</seg>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T153043Z">
+        <seg>oder</seg>
       </tuv>
     </tu>
     <tu>
