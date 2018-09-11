@@ -11145,6 +11145,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Besides being available from the repositories above, spelling dictionaries are available as part of LibreOffice and OpenOffice.org installations.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T231025Z" creationid="Michael Motzkus" creationdate="20180911T231025Z">
+        <seg>Unabhängig davon, dass sie in den oben genannten Repositories zur Verfügung stehen, sind Rechtschreibwörterbücher als Teil von LibreOffice- und OpenOffice.org-Installationen verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T172054Z" creationid="BVB" creationdate="20180904T172054Z">
@@ -22094,6 +22102,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Options &gt; Spell Checking dialog, select or create a dictionary file folder on your hard drive.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230613Z" creationid="Michael Motzkus" creationdate="20180911T230613Z">
+        <seg>Wählen oder erstellen Sie im Dialog Optionen &gt; Einstellungen &gt; Rechtschreibprüfung Einen Wörterbuchdateienordner auf Ihrer Festplatte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Slovenian version both words have been translated as nouns.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T192648Z">
@@ -22828,6 +22844,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T140958Z">
         <seg>Installation fehlgeschlagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing new spelling dictionaries manually</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230346Z" creationid="Michael Motzkus" creationdate="20180911T230311Z">
+        <seg>Neue Rechtschreibwörterbücher manuell installieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -24597,6 +24621,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T062357Z" creationid="BVB" creationdate="20180904T062357Z">
         <seg>Manuelles Anpassen der Zeichenformatierung eines Absatzes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice and more recent versions of OpenOffice.org now use the "extensions" format for these dictionaries, in which the files are supplied in a a zip archive with the extension .oxt.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T231223Z" creationid="Michael Motzkus" creationdate="20180911T231223Z">
+        <seg>LibreOffice und neuere Versionen von OpenOffice.org benutzen nun das "extensions"-Format für diese Wörterbücher, in welchem diese Dateien in einem ZIP-Archiv mit der Dateiendung .oxt bereitgestellt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27775,6 +27807,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T182305Z" creationid="BVB" creationdate="20180904T182305Z">
         <seg>Beziehen und installieren Sie Iceni Infix Professional von der &lt;a0&gt;Iceni-Webseite&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Obtain the .dic and .aff files of the dictionary you wish to use, and place these files in this folder.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230734Z" creationid="Michael Motzkus" creationdate="20180911T230734Z">
+        <seg>Besorgen Sie die  .dic- und .aff-Dateien des Wörterbuchs, das Sie benutzen möchten und speichern Sie diese Dateien in diesem Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44153,6 +44193,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URLs of repositories of spelling dictionaries:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230236Z" creationid="Michael Motzkus" creationdate="20180911T230236Z">
+        <seg>URLs von Repositories mit Rechtschreibwörterbüchern:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154407Z">
@@ -51472,6 +51520,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230256Z" creationid="Michael Motzkus" creationdate="20180911T230256Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230259Z" creationid="Michael Motzkus" creationdate="20180911T230259Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://belazar.info/</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T193602Z">
@@ -51552,6 +51616,78 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://download.services.openoffice.org/files/contrib/dictionaries/&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230239Z" creationid="Michael Motzkus" creationdate="20180911T230239Z">
+        <seg>http://download.services.openoffice.org/files/contrib/dictionaries/&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230305Z" creationid="Michael Motzkus" creationdate="20180911T230305Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230307Z" creationid="Michael Motzkus" creationdate="20180911T230307Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230301Z" creationid="Michael Motzkus" creationdate="20180911T230301Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230303Z" creationid="Michael Motzkus" creationdate="20180911T230303Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230247Z" creationid="Michael Motzkus" creationdate="20180911T230247Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230251Z" creationid="Michael Motzkus" creationdate="20180911T230251Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230244Z" creationid="Michael Motzkus" creationdate="20180911T230244Z">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230241Z" creationid="Michael Motzkus" creationdate="20180911T230241Z">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://git-scm.com/</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T085049Z">
@@ -51572,6 +51708,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T080323Z">
         <seg>http://groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230253Z" creationid="Michael Motzkus" creationdate="20180911T230253Z">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51620,6 +51764,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T144537Z">
         <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T230309Z" creationid="Michael Motzkus" creationdate="20180911T230309Z">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
