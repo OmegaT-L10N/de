@@ -1754,6 +1754,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Other methods of closing Priorview will not delete the temporary files.)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154928Z" creationid="BVB" creationdate="20180911T154928Z">
+        <seg>(Andere Methoden Priorview zu schließen wird die temporären Dateien nicht löschen.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Record as described above, but only recording the command Ctrl+C followed by Ctrl+V.) You can then highlight text between the points at which formatting changes.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T073631Z" creationid="BVB" creationdate="20180904T073631Z">
@@ -8117,6 +8125,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A European Commission press release (in .odt format) in OmegaT and below it the instantaneous target text displayed in Opera.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155022Z" creationid="BVB" creationdate="20180911T155022Z">
+        <seg>Eine Pressemitteilung der Europäischen Kommission (im .odt-Format) in OmegaT und darunter der in Opera angezeigte sofortige Zieltext.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T162436Z">
@@ -11133,6 +11149,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T172957Z">
         <seg>Beide Sucharten unterstützen die Platzhalter * und ?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bottom right: the Priorview utility.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155051Z" creationid="BVB" creationdate="20180911T155051Z">
+        <seg>Unten rechts: das Priorview-Werkzeug.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14199,6 +14223,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T181415Z">
         <seg>Abhängig von den Regeln der Segmentierung kann das Paar von Tags auf zwei folgende Segmente aufgeteilt werden und die Prüfung der Tags wird einen Fehler als Vorsicht ausgeben und beide Segmente markieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending upon the version of Tcl/Tk that you have installed, you may have to add the version number to the wish command, e.g.:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155436Z" creationid="BVB" creationdate="20180911T155436Z">
+        <seg>Abhängig von der Tcl/Tk-Version, die Sie installiert haben, kann es sein, dass Sie die Versionsnummer zu Ihrem wish-Kommando hinzufügen müssen, z. B.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19508,6 +19540,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Priorview fails to launch:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155309Z" creationid="BVB" creationdate="20180911T155309Z">
+        <seg>Wenn Priorview nicht startet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T060544Z">
@@ -20170,6 +20210,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T094706Z">
         <seg>Wenn der Parameter nicht festgelegt ist, werden alle Dateien verarbeitet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the path to the location of priorview.tcl contains spaces, put it in quotes, e.g.:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155231Z" creationid="BVB" creationdate="20180911T155231Z">
+        <seg>Wenn der Pfad zum Ort von priorview.tcl Leerzeichen enthält, setzen Sie ihn in Anführungszeichen, z. B.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28741,6 +28789,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once Priorview has been launched, however, you cannot select a different browser or conversion utility; these options are therefore hidden after launch.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154652Z" creationid="BVB" creationdate="20180911T154652Z">
+        <seg>Nachdem Priorview gestartet wurde, können Sie jedoch keinen anderen Browser oder ein anderes Konvertierungsdienstprogramm auswählen. Diese Optionen sind daher nach dem Start verborgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T203734Z" creationid="BVB" creationdate="20180826T203734Z">
@@ -36934,6 +36990,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Quit button closes Priorview and also deletes the temporary files that it creates.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154844Z" creationid="BVB" creationdate="20180911T154844Z">
+        <seg>Der Beenden-Button schließt Priorview und löscht auch die temporären Dateien, die es erstellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Scripting dialog allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T154044Z">
@@ -38257,6 +38321,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T071514Z" creationid="BVB" creationdate="20180905T071514Z">
         <seg>Die Startskripte werden in diesem Fall nicht in Ihren Ausführungspfad geschrieben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The layout shown here is just for the sake of example; you can of course arrange the windows as you like.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155125Z" creationid="BVB" creationdate="20180911T155125Z">
+        <seg>Das hier gezeigte Layout dient nur als Beispiel; Sie können natürlich die Fenster so anordnen, wie Sie möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42628,6 +42700,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130511T154143Z">
         <seg>Um zu sehen, mit welchen Dateiformaten OmegaT umgehen kann, sehen Sie das Menü &lt;g0&gt;Optionen &gt; Dateifilter ... &lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select a different browser or conversion utility, you must close Priorview and relaunch it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154801Z" creationid="BVB" creationdate="20180911T154801Z">
+        <seg>Um einen anderen Browser oder ein anderes Konvertierungswerkzeug auszuwählen, müssen Sie Priorview beenden und erneut starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48936,6 +49016,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd "C:\My Files\priorview"</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T155244Z" creationid="BVB" creationdate="20180911T155244Z">
+        <seg>cd "C:\Eigene Dateien\priorview"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd /opt/omegat/OmegaT_2.3.4</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T072401Z" creationid="BVB" creationdate="20180905T072401Z">
@@ -49052,6 +49140,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T074211Z">
         <seg>cha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>change the polling interval.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154559Z" creationid="BVB" creationdate="20180911T154559Z">
+        <seg>das Abfrageintervall ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51732,6 +51828,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T131644Z">
         <seg>interfaces that do not display Appropriate Legal Notices, your</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>interrupt and restart it;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154422Z" creationid="BVB" creationdate="20180911T154422Z">
+        <seg>es unterbrechen und neustarten;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55020,6 +55124,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>segmentation.conf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>select a new file (if you are working in a project containing several files, you do not have to relaunch Priorview when you reach the end of one file; you can simply select the next);</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T154528Z" creationid="BVB" creationdate="20180911T154528Z">
+        <seg>eine neue Datei auswählen (wenn Sie in einem Projekt arbeiten, das mehrere Dateien enthält, müssen Sie Priorview nicht neu starten, wenn Sie das Ende einer Datei erreicht haben; Sie können einfach die nächste Datei auswählen);</seg>
       </tuv>
     </tu>
     <tu>
