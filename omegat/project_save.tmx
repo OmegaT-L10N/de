@@ -37657,6 +37657,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The content of a segment can be deleted completely either by means of the keyboard shortcuts Ctrl+A &gt; Ctrl+X &gt; Enter, by right-clicking with the mouse and the Remove Translation menu item, or simply by using the delete key (repeatedly).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T175639Z" creationid="BVB" creationdate="20180911T175639Z">
+        <seg>Der Inhalt eines Segments kann entweder mit den Tastenkombinationen Strg + A &gt; Strg + X, mit der rechten Maustaste und dem Menübefehl Übersetzung löschen entfernt werden oder einfach mit der Löschtaste (wiederholt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T155407Z">
@@ -41383,6 +41391,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This has the effect of deleting the "alternative translation" status at the same time; the translation of the segment will therefore revert to that of the default translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T175350Z" creationid="BVB" creationdate="20180911T175350Z">
+        <seg>Dies hat zur Folge, dass gleichzeitig der Status "alternative Übersetzung" gelöscht wird; Die Übersetzung des Segments wird daher zu der der Standardübersetzung zurückgesetzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T173140Z" creationid="BVB" creationdate="20180911T173140Z">
@@ -42900,6 +42916,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T074455Z" creationid="BVB" creationdate="20180905T074455Z">
         <seg>Um alle Spuren auf Ihrem System zu beseitigen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove the "alternative translation" status of a single segment and bring it back into line with the "default translation", simply delete the content of the segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T175240Z" creationid="BVB" creationdate="20180911T175240Z">
+        <seg>Um den Status "alternative Übersetzung" eines einzelnen Segments zu entfernen und an die "Standardübersetzung" anzupassen, löschen Sie einfach den Inhalt des Segments.</seg>
       </tuv>
     </tu>
     <tu>
