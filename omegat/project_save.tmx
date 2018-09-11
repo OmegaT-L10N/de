@@ -12097,6 +12097,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check that the .dic and .aff files for your language are present in the spelling dictionary folder, and that their names correspond to the target language code.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T232638Z" creationid="Michael Motzkus" creationdate="20180911T232638Z">
+        <seg>Stellen Sie sicher, dass die .dic- und .aff-Dateien in Ihrem Rechtschreibwörterbücherordner vorhanden sind und dass ihre Namen mit der Zielsprache übereinstimmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that you have write permissions for the spelling dictionary folder you have selected.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T232503Z" creationid="Michael Motzkus" creationdate="20180911T232503Z">
+        <seg>Stellen Sie sicher, dass Sie Schreibrechte in dem von Ihnen ausgewählten Rechtsschreibwörterbuchordner haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T084837Z">
@@ -20322,6 +20338,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T074328Z">
         <seg>Ist der passende Filter gefunden, wird die Datei mit dem Filter für die Verarbeitung freigegeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the automatic installation process does not work: check that your Internet connection is working; if so, try a different repository URL.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T232402Z" creationid="Michael Motzkus" creationdate="20180911T232402Z">
+        <seg>Wenn der automatische Installationsprozess nicht funktioniert, stellen Sie sicher, dass Ihre Internetverbindung funktioniert; Wenn ja, probieren Sie eine andere Repository-URL.</seg>
       </tuv>
     </tu>
     <tu>
