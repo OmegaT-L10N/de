@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Non-unique segment" covers both default and alternative translations.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T220839Z" creationid="Michael Motzkus" creationdate="20180911T220839Z">
+        <seg>"Nicht eindeutiges Segment" umfasst sowohl Standard- als auch alternative Übersetzungen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Object code" means any non-source</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154337Z">
@@ -11553,6 +11561,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the Go To Next Untranslated Segment command (Ctrl+U) skips to the next untranslated segment, skipping propagated translations in the process.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T221040Z" creationid="Michael Motzkus" creationdate="20180911T221040Z">
+        <seg>Der Befehl Gehe zum nächsten nicht übersetzten Segment (Strg + U) springt standardmäßig zum nächsten nicht übersetzten Segment und überspringt dabei die übertragenen Übersetzungen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the bash launch script is executable, but your system may change its permissions (e.g. during unpacking of the archive) and you may have to make it executable again.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T073623Z" creationid="BVB" creationdate="20180905T073623Z">
@@ -12715,6 +12731,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consequently, segments that are marked (with the grey font) as being non-unique are marked as non-unique irrespective of whether alternative translations have been created or not.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T220945Z" creationid="Michael Motzkus" creationdate="20180911T220945Z">
+        <seg>Folglich werden Segmente, die (mit der grauen Schrift) als nicht eindeutig markiert sind, als nicht eindeutig markiert, unabhängig davon, ob alternative Übersetzungen erstellt wurden oder nicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
       </tuv>
       <tuv lang="DE">
@@ -13503,6 +13527,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T050603Z">
         <seg>Eine translation memory für ausgewählte Dokumente erzeugen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating an "alternative translation" therefore relies upon identical segments having different preceding or following segments.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T220701Z" creationid="Michael Motzkus" creationdate="20180911T220701Z">
+        <seg>Das Erstellen einer "alternativen Übersetzung" hängt daher von identischen Segmenten mit unterschiedlichen vorhergehenden oder folgenden Segmenten ab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17883,6 +17915,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For some file types, OmegaT differentiates between identical segments by referring to their preceding and following segments.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T220523Z" creationid="Michael Motzkus" creationdate="20180911T220523Z">
+        <seg>Bei einigen Dateitypen unterscheidet OmegaT zwischen identischen Segmenten, indem sie sich auf seine vorhergehenden und folgenden Segmente bezieht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For subsequent use, all is needed is opening the project like any other &lt;a0&gt;OmegaT&lt;/a0&gt; project.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T124148Z">
@@ -19648,6 +19688,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T060605Z" creationid="BVB" creationdate="20180905T060605Z">
         <seg>Wenn Java bereits auf Ihrem System installiert ist (was wahrscheinlich der Fall ist) und Sie diese vorhandene systemweite Java-Installation in Verbindung mit OmegaT verwenden möchten, prüfen Sie zunächst, ob diese geeignet ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T221550Z" creationid="Michael Motzkus" creationdate="20180911T221550Z">
+        <seg>Wenn Optionen &gt; Editierverhalten &gt; "Der Befehl Gehe zum nächsten nicht übersetzten Segment wird nicht weiter ausgeführt, wenn mindestens eine alternative Übersetzung vorliegt" ausgewählt ist und mindestens eine alternative Übersetzung eines nicht eindeutigen Segments erstellt wurde, behandelt diese Funktion alle Instanzen dieses Segments (ob Standard oder alternative Übersetzungen) als nicht übersetzt, d. h. überspringt sie nicht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30480,6 +30528,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T132705Z" creationid="BVB" creationdate="20180826T132705Z">
         <seg>Hinweise zu proprietären Translation-Memory-Dateien:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Points to note</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T220406Z" creationid="Michael Motzkus" creationdate="20180911T220406Z">
+        <seg>Zu beachtende Punkte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46111,6 +46167,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T143443Z" creationid="BVB" creationdate="20180826T121511Z">
         <seg>Wenn der Verkäufer eines Softwareprodukts behauptet, dass sein Produkt mit einer anderen Software kompatibel ist, ist diese Kompatibilität selten 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where two segments also have identical preceding and following segments (for example when an entire page appears twice in the text), they cannot be translated differently from each other in OmegaT, i.e. it is not possible to make one of them an "alternative translation".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T220801Z" creationid="Michael Motzkus" creationdate="20180911T220801Z">
+        <seg>Wenn zwei Segmente auch identische vorangehende und folgende Segmente haben (zum Beispiel wenn eine ganze Seite zweimal im Text erscheint), können sie in OmegaT nicht unterschiedlich voneinander übersetzt werden, d. h. es ist nicht möglich, eine von ihnen zu einer "alternativen Übersetzung" zu machen .</seg>
       </tuv>
     </tu>
     <tu>
