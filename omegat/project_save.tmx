@@ -17451,6 +17451,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For cases where two or more identical segments require different translations, OmegaT offers "one-to-many matching".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T173435Z" creationid="BVB" creationdate="20180911T173435Z">
+        <seg>In Fällen, bei denen zwei oder mehr Segmente unterschiedliche Übersetzungen erfordern, bietet OmegaT "Eins-zu-viele-Abgleich".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For compiling OmegaT from the source code, see &lt;a0&gt;Compiling OmegaT from Source HowTo&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180906T070809Z" creationid="BVB" creationdate="20180906T070809Z">
@@ -21682,6 +21690,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>In vielen Fällen jedoch ist es notwendig, einen LTR Text in RTL-Text einzubetten. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases, the translator will wish to translate identical segments within a project in the same way.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T173322Z" creationid="BVB" creationdate="20180911T173322Z">
+        <seg>In den meisten Fällen möchte der Übersetzer identische Segmente innerhalb eines Projekts gleich übersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28685,6 +28701,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT's one-to-many matching function first assumes that identical segments are to be translated in the same way.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T173811Z" creationid="BVB" creationdate="20180911T173811Z">
+        <seg>OmegaTs Funktion Eins-zu-viele-Abgleich nimmt zuerst an, dass identische Segmente gleich übersetzt werden sollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130430T101058Z">
@@ -29075,6 +29099,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T060256Z" creationid="BVB" creationdate="20180904T060256Z">
         <seg>Eine Lösung besteht darin, die automatische Rechtschreibprüfung in Word zu deaktivieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One-to-many matching</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T173159Z" creationid="BVB" creationdate="20180911T173159Z">
+        <seg>Eins-zu-viele-Abgleich</seg>
       </tuv>
     </tu>
     <tu>
@@ -41335,6 +41367,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T173140Z" creationid="BVB" creationdate="20180911T173140Z">
+        <seg>Dies hat zur Folge, dass alle Instanzen von nicht eindeutigen Segmenten zu alternativen Übersetzungen werden (siehe "Eins-zu-viele-Abgleich" unten).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your&lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (.bat file), if you are using one.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T183939Z">
@@ -41920,6 +41960,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This segment can be now translated as desired without other instances of it automatically being made identical to it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T174129Z" creationid="BVB" creationdate="20180911T174129Z">
+        <seg>Dieses Segment kann jetzt wie gewünscht übersetzt werden, ohne dass andere Instanzen automatisch damit identisch gemacht werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131206T221835Z">
@@ -41948,6 +41996,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T061103Z" creationid="BVB" creationdate="20180904T061103Z">
         <seg>Dieser Tag kann anscheinend nicht entfernt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This translation is described as the "default translation".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T173830Z" creationid="BVB" creationdate="20180911T173830Z">
+        <seg>Diese Übersetzung wird "Standardübersetzung" genannt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42772,6 +42828,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T142423Z" creationid="BVB" creationdate="20180905T104134Z">
         <seg>Um einen Screenshot zu erstellen, starten Sie OmegaT und bereiten Sie ein geeignetes Beispiel für einen Screenshot vor, z. B. den Dialog "Neues Projekt erstellen" mit typischen Pfaden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To produce a translation that is different from the "default translation", right-click with the mouse within the segment and select "Create Alternative Translation".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="BVB" changedate="20180911T174033Z" creationid="BVB" creationdate="20180911T174033Z">
+        <seg>Um eine Übersetzung zu erstellen, die anders ist als die Standardübersetzung, klicken Sie mit der rechten Maustaste innerhalb des Segments und wählen Sie "Alternative Übersetzung (erstellen)". </seg>
       </tuv>
     </tu>
     <tu>
