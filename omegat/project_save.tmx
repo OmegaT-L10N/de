@@ -1866,6 +1866,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The tokenizer can be used with versions 2.0.x and 2.1.0, but this requires both a different version of the tokenizer, and a different installation procedure.) Users are advised to upgrade to the latest beta version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T062510Z" creationid="Michael Motzkus" creationdate="20180912T062510Z">
+        <seg>(Der Tokenizer kann mit den Versionen 2.0.x und 2.1.0 verwendet werden, aber das erfordert eine andere Version des Tokenizers und ein anderes Installationsverfahren.) Benutzern wird empfohlen, auf die neueste Beta-Version von OmegaT zu aktualisieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T132641Z" creationid="BVB" creationdate="20180826T132641Z">
@@ -8085,6 +8093,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT version 2.1.0 and older&lt;/s0&gt;: the current tokenizer is not compatible with these versions.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T062404Z" creationid="Michael Motzkus" creationdate="20180912T062404Z">
+        <seg>&lt;s0&gt;OmegaT-Version 2.1.0 und älter&lt;/s0&gt;: Der aktuelle Tokenizer ist nicht kompatibel mit diesen Versionen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T182841Z" creationid="BVB" creationdate="20180826T182704Z">
@@ -8101,10 +8117,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Platform-neutral version (on Windows)&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT.bat).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T063530Z" creationid="Michael Motzkus" creationdate="20180912T063530Z">
+        <seg>&lt;s0&gt;Plattformneutrale Versionen (unter Windows)&lt;/s0&gt;: Finden Sie Ihre OmegaT-Startskriptdatei (OmegaT.bat).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Webstart version of OmegaT&lt;/s0&gt;: the tokenizer is not compatible with the Webstart version of OmegaT.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T062226Z" creationid="Michael Motzkus" creationdate="20180912T062226Z">
         <seg>&lt;s0&gt;Webstart-Version von OmegaT&lt;/s0&gt;: Der Tokenizer ist nicht kompatibel mit der Webstart-Version von OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Windows versions of OmegaT&lt;/s0&gt;: in order for OmegaT (any version) to be used with the tokenizer, it must be launched from a launch script file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T062658Z" creationid="Michael Motzkus" creationdate="20180912T062658Z">
+        <seg>&lt;s0&gt;Windows-Versionen von OmegaT&lt;/s0&gt;: Um OmegaT (alle Versionen) mit dem Tokenizer zu benutzen, muss es mit einer Startskriptdatei gestartet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8481,6 +8513,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T134205Z">
         <seg>Ein Hinweis: Es könnte weniger Aufwand sein, eine einfache Version des Textes zu übersetzen und den nötigen Stil später in der entsprechenden Anwendung einzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A launch script file is not supplied with the Windows OmegaT versions.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T062752Z" creationid="Michael Motzkus" creationdate="20180912T062752Z">
+        <seg>Eine Startskriptdatei wird mit Windowsversionen von OmegaT nicht mitgeliefert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9321,6 +9361,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T101945Z" creationid="BVB" creationdate="20180905T101945Z">
         <seg>Nach dem Herunterladen des Zip-Archivs des vollständigen oder minimalen Pakets oder des Webseiten-Übersetzungspakets entpacken Sie das Archiv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After downloading, place the file in the main OmegaT folder (the folder containing the file OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T063033Z" creationid="Michael Motzkus" creationdate="20180912T063033Z">
+        <seg>Speichern Sie die Datei nach dem Herunterladen in den OmegaT-Hauptordner (den Ordner, der die Datei OmegaT.jar enthält).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21162,6 +21210,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T051746Z" creationid="BVB" creationdate="20180905T051746Z">
         <seg>Wenn Sie eine frühere Version von OmegaT verwenden, wird ein Upgrade Ihrer OmegaT-Installation empfohlen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using the Windows version with JRE, download the file &lt;a1&gt;OmegaT_with_JRE.bat&lt;/a1&gt;; If you are using the Windows version without JRE, download the file &lt;a2&gt;OmegaT_without_JRE.bat&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T062925Z" creationid="Michael Motzkus" creationdate="20180912T062925Z">
+        <seg>Wenn Sie die Windowsversion mit JRE benutzen, laden Sie die Datei &lt;a1&gt;OmegaT_with_JRE.bat&lt;/a1&gt; herunter; Wenn Sie die Windowsversion ohne JRE benutzen, laden Sie die Datei &lt;a2&gt;OmegaT_without_JRE.bat&lt;/a2&gt; herunter.</seg>
       </tuv>
     </tu>
     <tu>
