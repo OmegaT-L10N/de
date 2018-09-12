@@ -10473,6 +10473,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As for te-basic-source, but for the target text.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T035839Z" creationid="Michael Motzkus" creationdate="20180912T035839Z">
+        <seg>Wie te-basic-source, aber für den Zieltext.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As is so often the case with things technical (and things translation), there are catches.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T052933Z" creationid="BVB" creationdate="20180905T052933Z">
@@ -10525,6 +10533,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T133825Z">
         <seg>Wie oben beschrieben, OmegaT Tags sind LTR-Zeichenketten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As such, it does nothing not already done by the OmegaT Editor pane; its purpose is to illustrate how the text can be extracted from a script file and made available for further scripts.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T035740Z" creationid="Michael Motzkus" creationdate="20180912T035740Z">
+        <seg>Als solches tut es nichts, was nicht bereits im OmegaT-Editor getan wurde. Es soll verdeutlichen, wie der Text aus einer Skriptdatei extrahiert und für weitere Skripte zur Verfügung gestellt werden kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11205,6 +11221,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T231025Z" creationid="Michael Motzkus" creationdate="20180911T231025Z">
         <seg>Unabhängig davon, dass sie in den oben genannten Repositories zur Verfügung stehen, sind Rechtschreibwörterbücher als Teil von LibreOffice- und OpenOffice.org-Installationen verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Besides displaying the source text, this script provides an entry box into which the user can type a string (e.g. a word).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T040019Z" creationid="Michael Motzkus" creationdate="20180912T040019Z">
+        <seg>Neben der Anezige des Quelltexts bietet dieses Skript eine Eingabebox in welche der Benutzer eine Zeichenkette eingeben kann (z. B. ein Wort)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38121,6 +38145,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The content of the script window is editable and can be copied and pasted back into the OmegaT Editor pane.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T035802Z" creationid="Michael Motzkus" creationdate="20180912T035802Z">
+        <seg>Der Inhalt des Skriptfensters ist editierbar und kann kopiert und wieder in den OmegaT-Editor-Bereich eingefügt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T155111Z">
@@ -40661,6 +40693,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The warning takes the form of the text in the script window being highlighted in yellow.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T040430Z" creationid="Michael Motzkus" creationdate="20180912T040430Z">
+        <seg>Die Warnung hat die Form, dass der Text im Skriptfenster gelb hervorgehoben wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The web pages are not licensed for re-use.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T105926Z" creationid="BVB" creationdate="20180905T105926Z">
@@ -42508,6 +42548,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T131644Z">
         <seg>This requirement modifies the requirement in section 4 to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script displays the source text in a separate window.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T035638Z" creationid="Michael Motzkus" creationdate="20180912T035638Z">
+        <seg>Dieses Skript zeigt den Quelltext in einem seperaten Fenster an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46279,6 +46327,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T154344Z" creationid="BVB" creationdate="20180911T154344Z">
         <seg>Wenn dies aktiviert wird, startet Ihr Browser mit einer Dummy-Seite, die Sie anweist, die automatische Aktualisierungsfunktion einzustellen, was Sie dann tun sollten und dann Strg + S, Strg + D in OmegaT zu drücken, um die automatische Aktualisierung des Browsers zu starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When an OmegaT segment containing this string is opened, the script outputs a warning.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T040115Z" creationid="Michael Motzkus" creationdate="20180912T040115Z">
+        <seg>Wenn ein OmegaT-Segment geöffnet wird, das diese Zeichenkette enthält, gibt das Skript eine Warnung aus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56692,6 +56748,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T035604Z" creationid="Michael Motzkus" creationdate="20180912T035604Z">
         <seg>te-basic-source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-basic-target</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T035805Z" creationid="Michael Motzkus" creationdate="20180912T035805Z">
+        <seg>te-basic-target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-warning</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T035840Z" creationid="Michael Motzkus" creationdate="20180912T035840Z">
+        <seg>te-warning</seg>
       </tuv>
     </tu>
     <tu>
