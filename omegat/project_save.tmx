@@ -2314,6 +2314,22 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- On Linux, on the command line&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T064130Z" creationid="Michael Motzkus" creationdate="20180912T064130Z">
+        <seg>- Unter Linux auf der Kommandozeile&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- On Windows, by clicking on the launch script file</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T064206Z" creationid="Michael Motzkus" creationdate="20180912T064206Z">
+        <seg>- Unter Windows durch Klicken auf die Startskriptdatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- OpenOffice.org / OpenDocument (*.odt, *.ott, *.ods, *.ots, *.odp, *.otp)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095552Z">
@@ -8085,6 +8101,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux versions/systems&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT or OmegaT.sh).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T063717Z" creationid="Michael Motzkus" creationdate="20180912T063717Z">
+        <seg>&lt;s0&gt;Linux-Versionen/-Systems&lt;/s0&gt;: Finden Sie Ihre OmegaT-Startskriptdatei (OmegaT oder OmegaT.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T105327Z" creationid="BVB" creationdate="20180826T105327Z">
@@ -9401,6 +9425,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T151635Z">
         <seg>Nach Schachtelung:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After preparing for installation (see above), install the tokenizer as follows:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T064353Z" creationid="Michael Motzkus" creationdate="20180912T064353Z">
+        <seg>Nach den Installationsvorbereitungen (siehe oben), installieren Sie den Tokenizer wie folgt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12325,6 +12357,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T201847Z">
         <seg>Überprüfen Sie, ob &lt;u0&gt;Translate API service &lt;/u0&gt;aktiviert wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that OmegaT is launched when you execute the launch script file:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T064109Z" creationid="Michael Motzkus" creationdate="20180912T064109Z">
+        <seg>Überprüfen Sie, dass OmegaT gestartet wird, wenn Sie die Startskriptdatei öffnen:&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23284,6 +23324,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154850Z">
         <seg>Rechtschreibung-Wörterbücher installieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing the tokenizer</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T064228Z" creationid="Michael Motzkus" creationdate="20180912T064228Z">
+        <seg>Den Tokenizer installieren</seg>
       </tuv>
     </tu>
     <tu>
