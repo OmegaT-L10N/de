@@ -2388,8 +2388,8 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       <tuv lang="EN">
         <seg>- The content of the segment target text, when the segment is opened&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T024027Z" creationid="Michael Motzkus" creationdate="20180912T024027Z">
-        <seg>- Der Inhalt des Segmentzieltextes, wenn das Segment geöffnet ist&lt;br1/&gt;</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T050912Z" creationid="Michael Motzkus" creationdate="20180912T024027Z">
+        <seg>- Der Inhalt des Zieltextes des Segments, wenn das Segment geöffnet ist&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10595,8 +10595,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T041249Z" creationid="Michael Motzkus" creationdate="20180912T041249Z">
-        <seg>Wie der Name schon sagt, entfernt dieses Skript automatisch die Tags aus einem OmegaT (Ziel-)Segment.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T051808Z" creationid="Michael Motzkus" creationdate="20180912T041249Z">
+        <seg>Wie sein Name vermuten lässt, entfernt dieses Skript automatisch die Tags aus einem OmegaT (Ziel-)Segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10707,8 +10707,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>At present, the data exported are:</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T023905Z" creationid="Michael Motzkus" creationdate="20180912T023905Z">
-        <seg>Derzeit sind die exportieren Daten:</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T050711Z" creationid="Michael Motzkus" creationdate="20180912T023905Z">
+        <seg>Derzeit sind die exportierten Daten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11323,8 +11323,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Besides displaying the source text, this script provides an entry box into which the user can type a string (e.g. a word).</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T040019Z" creationid="Michael Motzkus" creationdate="20180912T040019Z">
-        <seg>Neben der Anezige des Quelltexts bietet dieses Skript eine Eingabebox in welche der Benutzer eine Zeichenkette eingeben kann (z. B. ein Wort)</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T051605Z" creationid="Michael Motzkus" creationdate="20180912T040019Z">
+        <seg>Neben der Anzeige des Quelltexts bietet dieses Skript eine Eingabebox, in welche der Benutzer eine Zeichenkette eingeben kann (z. B. ein Wort).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36815,8 +36815,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Tcl/tk can be obtained from a number of sources; tcl.activestate.com is one popular source.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T025950Z" creationid="Michael Motzkus" creationdate="20180912T025950Z">
-        <seg>Tcl/tk kann aus einer Reihe von Quellen erhalten werden; tcl.activestate.com ist eine beliebte Quelle.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T051150Z" creationid="Michael Motzkus" creationdate="20180912T025950Z">
+        <seg>Tcl/Tk kann aus einer Reihe von Quellen erhalten werden; tcl.activestate.com ist eine beliebte Quelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36831,8 +36831,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Tcl/tk must be installed, if it is not already.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T025825Z" creationid="Michael Motzkus" creationdate="20180912T025825Z">
-        <seg>Zuerst muss Tcl/tk installiert werden, wenn es das nicht schon ist.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T051150Z" creationid="Michael Motzkus" creationdate="20180912T025825Z">
+        <seg>Zuerst muss Tcl/Tk installiert werden, wenn es das nicht schon ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38315,8 +38315,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The content of the script window is editable and can be copied and pasted back into the OmegaT Editor pane.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T035802Z" creationid="Michael Motzkus" creationdate="20180912T035802Z">
-        <seg>Der Inhalt des Skriptfensters ist editierbar und kann kopiert und wieder in den OmegaT-Editor-Bereich eingefügt werden.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T051510Z" creationid="Michael Motzkus" creationdate="20180912T035802Z">
+        <seg>Der Inhalt des Skriptfensters ist editierbar und kann kopiert und wieder in den OmegaT-Editorbereich eingefügt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40599,8 +40599,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The text export function exports data from within the current OmegaT project to plain-text files.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T023814Z" creationid="Michael Motzkus" creationdate="20180912T023814Z">
-        <seg>Die Textexportfunktion exportiert Daten aus dem bestehenden &lt;a0&gt;OmegaT&lt;/a0&gt;-Projekt in reine Textdateien.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T050639Z" creationid="Michael Motzkus" creationdate="20180912T023814Z">
+        <seg>Die Textexportfunktion exportiert Daten aus dem bestehenden OmegaT.Project-Projekt in reine Textdateien.t</seg>
       </tuv>
     </tu>
     <tu>
@@ -43562,8 +43562,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To launch a script:</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T031618Z" creationid="Michael Motzkus" creationdate="20180912T031618Z">
-        <seg>Um ein Skript starten:</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T051450Z" creationid="Michael Motzkus" creationdate="20180912T031618Z">
+        <seg>Um ein Skript zu starten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56458,8 +56458,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>selection.txt - contains the text highlighted by the user, when Ctrl-Shift-C is pressed or Edit &gt; Export Selection is selected</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T025640Z" creationid="Michael Motzkus" creationdate="20180912T025640Z">
-        <seg>selection.txt - enthält den vom Benutzer markierten Text,, wenn Strg + Umschalt + C gedrückt oder Bearbeiten &gt; Auswahl exportieren ausgewählt wird.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T051141Z" creationid="Michael Motzkus" creationdate="20180912T025640Z">
+        <seg>selection.txt - enthält den vom Benutzer markierten Text, wenn Strg + Umschalt + C gedrückt oder Bearbeiten &gt; Auswahl exportieren ausgewählt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56682,8 +56682,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>source.txt - contains the source text of the segment&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T025356Z" creationid="Michael Motzkus" creationdate="20180912T025356Z">
-        <seg>source.txt - enthält den Quelltext des Segments</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T050934Z" creationid="Michael Motzkus" creationdate="20180912T025356Z">
+        <seg>source.txt - enthält den Quelltext des Segments&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
