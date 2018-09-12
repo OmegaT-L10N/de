@@ -8965,6 +8965,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090532Z" creationid="Michael Motzkus" creationdate="20180912T090532Z">
+        <seg>Konfigurationsordner öffnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T065357Z" creationid="BVB" creationdate="20180829T065357Z">
@@ -14551,6 +14559,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T180845Z" creationid="karsten" creationdate="20150919T180845Z">
         <seg>Benutzerdefinierte Farbauswahl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090431Z" creationid="Michael Motzkus" creationdate="20180912T090431Z">
+        <seg>Benutzerdefinierte Farben...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22318,6 +22334,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T091040Z" creationid="Michael Motzkus" creationdate="20180912T091040Z">
+        <seg>Falls kein Tokenizer für die aktuellen Sprachen vorhanden ist, verwendet OmegaT stattdessen Hunspell (in diesem Fall stellen Sie sicher, dass entsprechende Hunspell-Wörterbücher installiert sind).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T060457Z">
@@ -24040,6 +24064,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090928Z" creationid="Michael Motzkus" creationdate="20180912T090928Z">
+        <seg>Es ist möglich, einen anderen Tokenizer (Sprach-Tokenizer) oder eine andere Version des Tokenizers (Tokenizer-Verhalten) im Fenster Projekteigenschaften auszuwählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to use Apertium to build machine translation systems for a variety of language pairs; to that end, Apertium uses simple XML-based standard formats to encode the linguistic data needed (either by hand or by converting existing data), which are compiled using the provided tools into the high-speed formats used by the engine.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T201133Z">
@@ -25005,6 +25037,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140103T170442Z">
         <seg>Sprachen - ISO-639-Codeliste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages selection</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090617Z" creationid="Michael Motzkus" creationdate="20180912T090617Z">
+        <seg>Sprachauswahl</seg>
       </tuv>
     </tu>
     <tu>
@@ -28763,6 +28803,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090821Z" creationid="Michael Motzkus" creationdate="20180912T090821Z">
+        <seg>OmegaT wählt entsprechend den Spracheinstellungen des Projekts automatisch einen Tokenizer für die Quell- und die Zielsprache.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT can align Java .properties in console mode.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T201120Z">
@@ -29489,6 +29537,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T085309Z" creationid="BVB" creationdate="20180826T085309Z">
         <seg>OmegaT-Videos auf dem Qabiria-YouTube-Kanal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T091126Z" creationid="Michael Motzkus" creationdate="20180912T091126Z">
+        <seg>OmegaT wird nicht starten, wenn Tokenizer im Ordner /plugin gefunden wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32852,6 +32908,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T091208Z" creationid="Michael Motzkus" creationdate="20180912T091208Z">
+        <seg>Entfernen Sie alle Tokenizer aus dem /plugin-Ordner, bevor Sie OmegaT starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing tags</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T143155Z">
@@ -34065,6 +34129,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T083340Z">
         <seg>Suchen Sie nach der gewünschten Sprachkombination - zum Beispiel auf der o.a. &lt;u0&gt;&lt;i1/&gt;StarDict Platform&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T092010Z" creationid="Michael Motzkus" creationdate="20180912T092010Z">
+        <seg>Suchen Sie nach den benötigten Sprachkombinationen - zum Beispiel in den &lt;u0&gt;&lt;i1/&gt;Wörterbuchlinks im OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36913,6 +36985,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Tagprüfungsoptionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090457Z" creationid="Michael Motzkus" creationdate="20180912T090457Z">
+        <seg>Tag-Verarbeitung...</seg>
       </tuv>
     </tu>
     <tu>
@@ -44457,10 +44537,26 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090608Z" creationid="Michael Motzkus" creationdate="20180912T090608Z">
+        <seg>Tokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130509T135814Z">
         <seg>Tokenizer (oder "Abstammer") verbessern die Qualität von Treffern, indem sie gebeugte Wörter in der Quelle und den Daten der translation memory erkennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT and active by default.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090700Z" creationid="Michael Motzkus" creationdate="20180912T090700Z">
+        <seg>Tokenizer sind in OmegaT enthalten und standardmäßig aktiv.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53168,6 +53264,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090559Z" creationid="Michael Motzkus" creationdate="20180912T090559Z">
+        <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://datamarket.azure.com/account</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T083856Z">
@@ -53236,6 +53340,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T064843Z" creationid="BVB" creationdate="20180829T064843Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T091212Z" creationid="Michael Motzkus" creationdate="20180912T091212Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
     </tu>
     <tu>
@@ -55536,6 +55648,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090534Z" creationid="Michael Motzkus" creationdate="20180912T090534Z">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T161102Z">
@@ -55552,6 +55672,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090404Z" creationid="Michael Motzkus" creationdate="20180912T090404Z">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsAutoCompleteGlossaryMenuItem</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090113Z" creationid="Michael Motzkus" creationdate="20180912T090113Z">
@@ -55564,6 +55692,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090042Z" creationid="Michael Motzkus" creationdate="20180912T090042Z">
         <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090434Z" creationid="Michael Motzkus" creationdate="20180912T090434Z">
+        <seg>optionsColorsSelectionMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -55612,6 +55748,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T161253Z">
         <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsSaveOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090459Z" creationid="Michael Motzkus" creationdate="20180912T090459Z">
+        <seg>optionsSaveOptionsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
