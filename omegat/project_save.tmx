@@ -18323,6 +18323,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if you are translating from Chinese to Dutch, try:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T074540Z" creationid="Michael Motzkus" creationdate="20180912T074507Z">
+        <seg>Versuchen Sie zum Beispiel, wenn Sie von Chinesisch nach Niederländisch übersetzen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, plain text files.</seg>
       </tuv>
       <tuv lang="DE">
@@ -48448,6 +48456,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T200118Z">
         <seg>Sie können die Sprachen entweder manuell einfügen oder ein Drop-down Menü benutzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can eliminate this problem by specifying a tokenizer for the target language as well (where available), with the argument --ITokenizerTarget=.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T074308Z" creationid="Michael Motzkus" creationdate="20180912T074308Z">
+        <seg>Sie können dieses Problem beheben, indem Sie mit dem Argument "--ITokenizerTarget=" auch einen Tokenizer für die Zielsprache angeben (sofern verfügbar).</seg>
       </tuv>
     </tu>
     <tu>
