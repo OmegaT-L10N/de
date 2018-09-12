@@ -21360,8 +21360,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you have been using the tokenizer plug-in with an earlier version of OmegaT and have upgraded to version 3.0.0 or later of OmegaT, delete the tokenizer plug-in files from your plug-in folder.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T060927Z" creationid="Michael Motzkus" creationdate="20180912T060927Z">
-        <seg>Wenn Sie das Tokenizer-Plugin miz früheren Versionen von OmegaT benutzt haben und auf Version 3.3.0 oder später von OmegaT aktualisiert haben, löschen Sie die Plugin-Dateien aus Ihrem Plugin-Ordner.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T061009Z" creationid="Michael Motzkus" creationdate="20180912T060927Z">
+        <seg>Wenn Sie das Tokenizer-Plugin mit früheren Versionen von OmegaT benutzt haben und auf Version 3.0.0 oder später von OmegaT aktualisiert haben, löschen Sie die Plugin-Dateien aus Ihrem Plugin-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23892,6 +23892,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T141847Z" creationid="BVB" creationdate="20180826T141847Z">
         <seg>Es verdankt seinen Ursprung der Verwendung von MS Word als Schnittstelle für das CAT-Tool von Trados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It provides better fuzzy and glossary matches in OmegaT, by computing the roots ("stemming") of the source words.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T061534Z" creationid="Michael Motzkus" creationdate="20180912T061534Z">
+        <seg>Es liefert bessere Fuzzy- und Glossarmatches in OmegaT, indem die Wurzeln ("Stemmen") der Quellwörter berechnet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37774,6 +37782,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT tokenizer is a plugin for OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T061043Z" creationid="Michael Motzkus" creationdate="20180912T061043Z">
+        <seg>Der OmegaT-Tokenizer ist ein Plugin für OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT version usually supplied is the "Standard" version.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T081713Z" creationid="BVB" creationdate="20180905T062512Z">
@@ -38870,8 +38886,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following information is therefore applicable only if you are using a version of OmegaT earlier than 3.0.0.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T060014Z" creationid="Michael Motzkus" creationdate="20180912T060014Z">
-        <seg>Die folgende Information trifft deshalb nur zu, wenn Sie eine frühere OmegaT-Version als 3.3.0 benutzen.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T060942Z" creationid="Michael Motzkus" creationdate="20180912T060014Z">
+        <seg>Die folgende Information trifft deshalb nur zu, wenn Sie eine frühere OmegaT-Version als 3.0.0 benutzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40679,8 +40695,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T055843Z" creationid="Michael Motzkus" creationdate="20180912T055843Z">
-        <seg>Das Tokenizer-Plugin wurde in OmegaT in Version 3.3.0 integriert.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T060936Z" creationid="Michael Motzkus" creationdate="20180912T055843Z">
+        <seg>Das Tokenizer-Plugin wurde in OmegaT in Version 3.0.0 integriert.</seg>
       </tuv>
     </tu>
     <tu>
