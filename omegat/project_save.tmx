@@ -9167,8 +9167,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add the argument --ITokenizer= followed by the full name of this tokenizer (by copying the entire line, inserting a space) to the end of the launch command in your OmegaT launch script file.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070420Z" creationid="Michael Motzkus" creationdate="20180912T070420Z">
-        <seg>Fügewn Sie das Argument --ITokenizer= hinzu, gefolgt vom vollen Namen des Tokenizers (durch Kopieren der ganzen Zeile und einem Leerzeichen) an das Ende des Startkommandos in Ihrer OmegaT-Startskriptdatei.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070432Z" creationid="Michael Motzkus" creationdate="20180912T070420Z">
+        <seg>Fügen Sie das Argument --ITokenizer= hinzu, gefolgt vom vollen Namen des Tokenizers (durch Kopieren der ganzen Zeile und einem Leerzeichen) an das Ende des Startkommandos in Ihrer OmegaT-Startskriptdatei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16971,6 +16971,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Execute this file, and OmegaT should now launch with the tokenizer function.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070858Z" creationid="Michael Motzkus" creationdate="20180912T070858Z">
+        <seg>Führen Sie diese Datei aus, OmegaT sollte nun mit der Tokenizer-Funktion starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T164650Z">
@@ -18199,6 +18207,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE">
         <seg>Das ist zum Beispiel der umgekehrte Schrägstrich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, to use the English tokenizer (when translating from English), your launch command might now be:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070549Z" creationid="Michael Motzkus" creationdate="20180912T070549Z">
+        <seg>Zum Beispiel, um den englischen Tokenizer zu benutzen (wenn aus dem Englischen übersetzt wird), sollte Ihr Startkommando nun heißen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21994,6 +22010,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180827T061910Z" creationid="BVB" creationdate="20180827T061910Z">
         <seg>Wichtig: Um die Plug-Ins verwenden zu können, müssen Sie möglicherweise eine neuere Version von OmegaT installieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Important: this whole command must appear on one line (even if it appears to be on two lines in the display in which you are reading this).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070814Z" creationid="Michael Motzkus" creationdate="20180912T070814Z">
+        <seg>Wichtig: Das ganze Kommando muss in einer Zeile erscheinen (selbst wenn es in dem Editor, in dem sie es lesen, aussieht, als wäre es in zwei Zeilen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30267,6 +30291,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T135037Z" creationid="karsten" creationdate="20150919T135037Z">
         <seg>Optionen zur Begrenzung der Zeilenlänge in Zieldokumenten (0 = keine Beschränkung)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or if you are translating from Turkish, it might now be:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070638Z" creationid="Michael Motzkus" creationdate="20180912T070638Z">
+        <seg>Oder wenn Sie aus dem Türkischen übersetzen, sollte es nun heißen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44136,6 +44168,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To test, check whether glossary entries are displayed even when the current OmegaT segment contains a term in an inflected form from that in the glossary.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T071945Z" creationid="Michael Motzkus" creationdate="20180912T071945Z">
+        <seg>Überprüfen Sie zum Testen, ob Glossareinträge angezeigt werden, auch wenn das aktuelle OmegaT-Segment einen Begriff in flektierter Form aus dem Glossar enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T204925Z" creationid="BVB" creationdate="20180826T201929Z">
@@ -53644,6 +53684,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballEnglishTokenizer</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070549Z" creationid="Michael Motzkus" creationdate="20180912T070549Z">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballEnglishTokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070641Z" creationid="Michael Motzkus" creationdate="20180912T070641Z">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
       </tuv>
     </tu>
     <tu>
