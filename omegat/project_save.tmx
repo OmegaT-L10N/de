@@ -1770,6 +1770,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Note to Ubuntu users: the font implementation of the default tcl/tk installation in Ubuntu at the present time (version 9.10) is appalling, but can be rectified.)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T030351Z" creationid="Michael Motzkus" creationdate="20180912T030351Z">
+        <seg>(Bemerkung für Ubuntu-Benutzer: Die Schriftimplementierung der Standard-Tcl/Tk-Installation in Ubuntu ist zur Zeit (Version 9.10) erschreckend, kann aber behoben werden.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Note: these are the English files.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T094549Z" creationid="BVB" creationdate="20180905T094549Z">
@@ -25249,6 +25257,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac OSX users should install tcl/tk from their system media and Linux users should find it in their distribution's repository, if it is not already installed by default.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T030142Z" creationid="Michael Motzkus" creationdate="20180912T030142Z">
+        <seg>Mac OS X-Benutzer sollten Tcl/Tk von ihrem Systemmedium installieren und Linuxbenutzer sollten es in den Repositories ihrer Distribution finden, falls es nicht schon standardmäßig installiert ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac users should instead use &lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;key&lt;/k6&gt; &lt;/k4&gt; instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T115737Z">
@@ -36541,6 +36557,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tcl/tk can be obtained from a number of sources; tcl.activestate.com is one popular source.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T025950Z" creationid="Michael Motzkus" creationdate="20180912T025950Z">
+        <seg>Tcl/tk kann aus einer Reihe von Quellen erhalten werden; tcl.activestate.com ist eine beliebte Quelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tcl/tk must be installed, if it is not already.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T025825Z" creationid="Michael Motzkus" creationdate="20180912T025825Z">
+        <seg>Zuerst muss Tcl/tk installiert werden, wenn es das nicht schon ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tcl/tk utility providing a formatted layout preview of translated files.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180827T064854Z" creationid="BVB" creationdate="20180827T064854Z">
@@ -38421,6 +38453,14 @@ instead.</seg>
         <seg>The files are unformatted plain text files.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T155425Z">
+        <seg>Die Dateien sind unformatierte reine Textdateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files are unformatted plain-text files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T025734Z" creationid="Michael Motzkus" creationdate="20180912T025734Z">
         <seg>Die Dateien sind unformatierte reine Textdateien.</seg>
       </tuv>
     </tu>
@@ -45535,6 +45575,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T194918Z">
         <seg>Bei Verwendung des Konsolenmodus könnte man die Erstellung einer lokalisierten Oberfläche zu einem Teil des Bauprozesses machen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the sample scripts</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T025749Z" creationid="Michael Motzkus" creationdate="20180912T025749Z">
+        <seg>Nutzung der Beispielskripte</seg>
       </tuv>
     </tu>
     <tu>
@@ -56024,6 +56072,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>selection.txt - contains the text highlighted by the user, when Ctrl-Shift-C is pressed or Edit &gt; Export Selection is selected</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T025640Z" creationid="Michael Motzkus" creationdate="20180912T025640Z">
+        <seg>selection.txt - enthält den vom Benutzer markierten Text,, wenn Strg + Umschalt + C gedrückt oder Bearbeiten &gt; Auswahl exportieren ausgewählt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sentenceCaseMenuItem</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T072720Z" creationid="BVB" creationdate="20180829T072720Z">
@@ -56236,6 +56292,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T133128Z" creationid="BVB" creationdate="20180826T133128Z">
         <seg>Quellterm &lt;tab&gt; Zielterm &lt;tab&gt; zusätzliche Information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>source.txt - contains the source text of the segment&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T025356Z" creationid="Michael Motzkus" creationdate="20180912T025356Z">
+        <seg>source.txt - enthält den Quelltext des Segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -56500,6 +56564,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T162246Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target.txt - contains the target text of the segment&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T025415Z" creationid="Michael Motzkus" creationdate="20180912T025415Z">
+        <seg>target.txt - enthält den Zieltext des Elements&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
