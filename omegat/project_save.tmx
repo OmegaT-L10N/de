@@ -8101,6 +8101,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Webstart version of OmegaT&lt;/s0&gt;: the tokenizer is not compatible with the Webstart version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T062226Z" creationid="Michael Motzkus" creationdate="20180912T062226Z">
+        <seg>&lt;s0&gt;Webstart-Version von OmegaT&lt;/s0&gt;: Der Tokenizer ist nicht kompatibel mit der Webstart-Version von OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1&gt;In order to prevent two or more translators from working on the same language at the same time, it is therefore very important that you make an entry in the localization plan when you begin work on a translation.&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T093342Z" creationid="BVB" creationdate="20180905T093342Z">
@@ -11237,6 +11245,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154909Z">
         <seg>Bevor die Rechtschreibprüfung benutzt werden kann, muss ein geeignetes Wörterbuch oder Wörterbücher (d.h. für Ihre Zielsprache) installiert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before using the tokenizer with OmegaT, you must first ensure that your version of OmegaT is suitable and prepared for use with it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T062125Z" creationid="Michael Motzkus" creationdate="20180912T062125Z">
+        <seg>Bevor Sie den Tokenizer mit OmegaT verwenden, müssen Sie zuerst sicherstellen, dass Ihre Version von OmegaT dafür geeignet und vorbereitet ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18011,6 +18027,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, it will recognize inflected words in texts and display the corresponding glossary entry, even if the glossary entry contains only the uninflected form of a word.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T062052Z" creationid="Michael Motzkus" creationdate="20180912T062052Z">
+        <seg>Es erkennt zum Beispiel flektierte Wörter in Texten und zeigt den entsprechenden Glossareintrag an, auch wenn der Glossareintrag nur die nicht-abgeleitete Form eines Wortes enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130529T082329Z">
@@ -21666,6 +21690,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T050229Z">
         <seg>Wenn Sie solche Dateien als Bezugsübersetzungen in OmegaT verwenden wollen, müssen Sie repariert werden, sonst wird OmegaT einen Fehler melden und sie nicht laden können. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to use the tokenizer, install the standard version of OmegaT (latest beta version) for your system.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T062327Z" creationid="Michael Motzkus" creationdate="20180912T062327Z">
+        <seg>Wenn Sie den Tokenizer benutzen möchten, installieren Sie die Standardversion von OmegaT (neueste Betaversion) für Ihr System.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31088,6 +31120,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T135325Z">
         <seg>Speichern der Voreinstellungen fehlgeschlagen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preparation</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T062100Z" creationid="Michael Motzkus" creationdate="20180912T062100Z">
+        <seg>Vorbereitung</seg>
       </tuv>
     </tu>
     <tu>
