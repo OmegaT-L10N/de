@@ -9725,6 +9725,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T032103Z" creationid="Michael Motzkus" creationdate="20180912T032103Z">
+        <seg>Alternativ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T154300Z">
@@ -11865,6 +11873,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change folder (directory) to the script folder, e.g. (on Windows XP systems):</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T032306Z" creationid="Michael Motzkus" creationdate="20180912T032306Z">
+        <seg>Ändern Sie den Ordner (das Verzeichnis) zum Skriptordner, z. B. (auf Windows XP-Systemen):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the encoding of your files to Unicode</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154447Z">
@@ -13087,6 +13103,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T054942Z">
         <seg>Kopieren Sie die Dokumente, für die Sie eine translation memory brauchen, in den Quellordner des Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T031951Z" creationid="Michael Motzkus" creationdate="20180912T031951Z">
+        <seg>Kopieren Sie das Skript in den OmegaT-"Skriptordner", d. h. den Ordner, der source.txt usw. enthält. (Die Skripte können prinzipiell überall gespeichert werden, aber dann müssen sie unter Hinzufügen des Skriptpfades bearbeitet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14431,6 +14455,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T141503Z">
         <seg>Je nach Situation sind daher verschiedene Strategien möglich, zum Beispiel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending upon how your system is configured, it may be possible to launch the scripts simply by clicking on them with the mouse.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T032056Z" creationid="Michael Motzkus" creationdate="20180912T032056Z">
+        <seg>Abhängig davon, wie Ihr System konfiguriert ist, kann es möglich sein, die Skripte einfach durch Mausklick zu öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20162,6 +20194,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T171505Z">
         <seg>Wenn der Zugriff auf den gewünschten Speicherort später gewährt wird, wird dieser Speicherort verwendet und sämtliche Einstellungen werden aufgrund der Änderung des Speicherorts auf ihre Standardwerte zurückgesetzt. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If multiple functions were to be used at the same time in practice, it would be more efficient to combine them in a single script file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T031515Z" creationid="Michael Motzkus" creationdate="20180912T031515Z">
+        <seg>Wenn mehrere Funktionen gleichzeitig in der Praxis verwendet würden, wäre es effizienter, sie in einer einzigen Skriptdatei zu kombinieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29591,6 +29631,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open a command-line window (DOS prompt, terminal, console)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T032133Z" creationid="Michael Motzkus" creationdate="20180912T032133Z">
+        <seg>Öffnen Sie ein Kommandozeilenfenster (DOS-Prompt, Terminal, Konsole)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open a command-line window (console, DOS window).</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180901T081750Z" creationid="BVB" creationdate="20180901T081750Z">
@@ -38386,6 +38434,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The example scripts provided &lt;a0&gt;here&lt;/a0&gt; all launch a window, but scripts that carry out functions in the background are quite conceivable.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T031556Z" creationid="Michael Motzkus" creationdate="20180912T031556Z">
+        <seg>Die Beispielskripte &lt;a0&gt;hier&lt;/a0&gt; starten alle ein Fenster, aber Skripte, die Funktionen im Hintergrund ausführen, sind durchaus denkbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T123702Z">
@@ -43212,6 +43268,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T153520Z" creationid="BVB" creationdate="20180911T153520Z">
         <seg>Um Priorview zu starten, öffnen Sie ein(e) Kommandozeile/Terminal/Konsole und schreiben:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch a script:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T031618Z" creationid="Michael Motzkus" creationdate="20180912T031618Z">
+        <seg>Um ein Skript starten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49884,6 +49948,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T153537Z" creationid="BVB" creationdate="20180911T153537Z">
         <seg>cd &lt;i0&gt;Pfad&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T035231Z" creationid="Michael Motzkus" creationdate="20180912T035231Z">
+        <seg>cd C:\Dokumente und Einstellungen\Benutzername\Anwendungsdaten\OmegaT\script</seg>
       </tuv>
     </tu>
     <tu>
