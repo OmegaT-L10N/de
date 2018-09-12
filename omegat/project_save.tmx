@@ -21838,6 +21838,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to use different tokenizers because you translate from more than one language, create a separate OmegaT launch script file for each tokenizer you wish to use.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T072134Z" creationid="Michael Motzkus" creationdate="20180912T072134Z">
+        <seg>Wenn Sie unterschiedliche Tokenizer benutzen möchten, weil Sie aus mehr als einer Sprache übersetzen, erstellen Sie eine seperate OmegaT-Startskriptdatei für jeden Tokenizer, den Sie benutzen möchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T050229Z">
@@ -27198,6 +27206,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T104305Z" creationid="BVB" creationdate="20180905T104238Z">
         <seg>Nennen Sie das Bild NewImage.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name the launch script files appropriately, for example "OmegaT-EN.bat" for the launch script file containing the command with the English tokenizer and "OmegaT-TR.bat" for the launch script file containing the command with the Turkish tokenizer.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T072540Z" creationid="Michael Motzkus" creationdate="20180912T072540Z">
+        <seg>Benennen Sie die Startskriptdateien entsprechend, zum Beispiel "OmegaT-EN.bat" für die Startskriptdatei, die den Befehl mit dem englischen Tokenizer enthält und "OmegaT-TR.bat" für die Startskriptdatei, die den Befehl mit dem türkischen Tokenizer enthält.</seg>
       </tuv>
     </tu>
     <tu>
