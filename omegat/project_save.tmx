@@ -9933,6 +9933,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example use of this function is as follows.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T040622Z" creationid="Michael Motzkus" creationdate="20180912T040622Z">
+        <seg>Ein Beispiel für die Verwendung dieser Funktion ist wie folgt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T194809Z">
@@ -10501,6 +10509,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T095429Z" creationid="BVB" creationdate="20180826T095429Z">
         <seg>Wie der Name schon sagt, ist die "neueste" Version von Omegat aktueller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T041249Z" creationid="Michael Motzkus" creationdate="20180912T041249Z">
+        <seg>Wie der Name schon sagt, entfernt dieses Skript automatisch die Tags aus einem OmegaT (Ziel-)Segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21846,6 +21862,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, if supported by the hardware and operating system (this is not always the case), a beep will sound.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T040540Z" creationid="Michael Motzkus" creationdate="20180912T040540Z">
+        <seg>Zusätzlich, wenn von der Hardware und vom Betriebssystem unterstützt (das ist nicht immer der Fall), ertönt ein Piepton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, the package &lt;a0&gt;te-scripts.zip&lt;/a0&gt; contains some very simple tcl/tk scripts which are intended to illustrate use of the function.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T023703Z" creationid="Michael Motzkus" creationdate="20180912T023703Z">
@@ -22490,6 +22514,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131205T224051Z">
         <seg>In diesem Fall würde der reguläre Ausdruck ^s^s+ verwendet werden, um die fehlerhaften Segmente anzuzeigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, a "reminder" in each relevant segment may be helpful.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T041137Z" creationid="Michael Motzkus" creationdate="20180912T041137Z">
+        <seg>In diesem Fall kann eine "Erinnerung" in jedem relevanten Segment hilfreich sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31828,6 +31860,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rather than find all the cases of "abc" and correcting them before proceeding (which is possible, but has drawbacks), she could simply decide to correct them in course of the next draft.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T041039Z" creationid="Michael Motzkus" creationdate="20180912T041039Z">
+        <seg>Anstatt alle Fälle von "abc" zu finden und sie vor dem Fortfahren zu korrigieren (was möglich ist, aber Nachteile hat), könnte er einfach entscheiden, sie im Laufe des nächsten Entwurfs zu korrigieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rather, create two separate .zip or tar.gz files, one containing the target documents only, and the other containing the tmx files.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T105351Z" creationid="BVB" creationdate="20180905T105351Z">
@@ -34689,6 +34729,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T055748Z">
         <seg>Translation memories teilen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>She then discovers that "abc" should be translated as "def".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T040847Z" creationid="Michael Motzkus" creationdate="20180912T040847Z">
+        <seg>Er entdeckt dann, dass "abc" als "def" übersetzt werden sollte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40565,6 +40613,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translator has a text containing the phrase "abc", and has completed a first draft of it, translating "abc" as "abc".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T040820Z" creationid="Michael Motzkus" creationdate="20180912T040820Z">
+        <seg>Der Übersetzer hat einen Text, der den Ausdruck "abc" enthält, und hat einen ersten Entwurf davon abgeschlossen, der "abc" als "abc" übersetzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T094612Z">
@@ -42256,6 +42312,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is useful when &lt;i0&gt;checking&lt;/i0&gt; tag-heavy segments on the screen, since it is easy to overlook missing or double spaces, for example.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T041405Z" creationid="Michael Motzkus" creationdate="20180912T041405Z">
+        <seg>Dies ist nützlich, wenn taglastige Segmente auf dem Bildschirm &lt;i0&gt;überprüft&lt;/i0&gt; werden, da beispielsweise fehlende oder doppelte Leerzeichen leicht übersehen werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T172207Z" creationid="BVB" creationdate="20180911T172207Z">
@@ -42556,6 +42620,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T035638Z" creationid="Michael Motzkus" creationdate="20180912T035638Z">
         <seg>Dieses Skript zeigt den Quelltext in einem seperaten Fenster an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script displays the target segment in a particular font (hard-coded in the script, but can be edited) rather than the default font.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T041452Z" creationid="Michael Motzkus" creationdate="20180912T041452Z">
+        <seg>Dieses Skript zeigt das Zielsegment in einer bestimmten Schriftart (fest im Skript codiert, kann jedoch bearbeitet werden) anstelle der Standardschriftart an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56756,6 +56828,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T035805Z" creationid="Michael Motzkus" creationdate="20180912T035805Z">
         <seg>te-basic-target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-notags</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T041140Z" creationid="Michael Motzkus" creationdate="20180912T041140Z">
+        <seg>te-notags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te-tags</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T041407Z" creationid="Michael Motzkus" creationdate="20180912T041407Z">
+        <seg>te-tags</seg>
       </tuv>
     </tu>
     <tu>
