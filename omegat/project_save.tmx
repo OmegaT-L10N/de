@@ -9165,6 +9165,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the argument --ITokenizer= followed by the full name of this tokenizer (by copying the entire line, inserting a space) to the end of the launch command in your OmegaT launch script file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070420Z" creationid="Michael Motzkus" creationdate="20180912T070420Z">
+        <seg>Fügewn Sie das Argument --ITokenizer= hinzu, gefolgt vom vollen Namen des Tokenizers (durch Kopieren der ganzen Zeile und einem Leerzeichen) an das Ende des Startkommandos in Ihrer OmegaT-Startskriptdatei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add the following argument to the launch command:</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T174252Z" creationid="BVB" creationdate="20180904T174252Z">
@@ -12473,6 +12481,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose a tokenizer from the following list, according to your &lt;s0&gt;source&lt;/s0&gt; language:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065943Z" creationid="Michael Motzkus" creationdate="20180912T065943Z">
+        <seg>Suchen Sie einen Ihrer &lt;s0&gt;Quell&lt;/s0&gt;-Sprache entsprechenden Tokenizer aus der folgenden Liste:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose the .png file type</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T104203Z" creationid="BVB" creationdate="20180905T104203Z">
@@ -14727,6 +14743,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T155436Z" creationid="BVB" creationdate="20180911T155436Z">
         <seg>Abhängig von der Tcl/Tk-Version, die Sie installiert haben, kann es sein, dass Sie die Versionsnummer zu Ihrem wish-Kommando hinzufügen müssen, z. B.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending upon your system configuration, the launch command may be slightly different.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065751Z" creationid="Michael Motzkus" creationdate="20180912T065751Z">
+        <seg>Abhängig von Ihrer Systemkonfiguration, kann das Startkommando leicht abweichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38296,6 +38320,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The basic form of this command is:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065619Z" creationid="Michael Motzkus" creationdate="20180912T065619Z">
+        <seg>Die grundlegende Form des Kommandos ist:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic launch command is:</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T072608Z" creationid="BVB" creationdate="20180905T072608Z">
@@ -39401,6 +39433,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T092800Z">
         <seg>Das letzte Segment mit dem identischen Text wird daher vorherrschen (Hinweis: es macht natürlich mehr Sinn, erst einmal zu verhindern, dass dies passiert).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The launch file script contains the OmegaT launch command.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065548Z" creationid="Michael Motzkus" creationdate="20180912T065548Z">
+        <seg>Die Startskriptdatei enthält das OmegaT-Startkommando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55404,6 +55444,246 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154405Z">
         <seg>or that patent license was granted, prior to 28 March 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneArabicTokenizer&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065944Z" creationid="Michael Motzkus" creationdate="20180912T065944Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneArabicTokenizer&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneBrazilianTokenizer&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065946Z" creationid="Michael Motzkus" creationdate="20180912T065946Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneBrazilianTokenizer&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065951Z" creationid="Michael Motzkus" creationdate="20180912T065951Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneChineseTokenizer&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065948Z" creationid="Michael Motzkus" creationdate="20180912T065948Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneChineseTokenizer&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneCzechTokenizer&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065953Z" creationid="Michael Motzkus" creationdate="20180912T065953Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneCzechTokenizer&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneDutchTokenizer&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065955Z" creationid="Michael Motzkus" creationdate="20180912T065955Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneDutchTokenizer&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065957Z" creationid="Michael Motzkus" creationdate="20180912T065957Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneFrenchTokenizer&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneGermanTokenizer&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065959Z" creationid="Michael Motzkus" creationdate="20180912T065959Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneGermanTokenizer&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneGreekTokenizer&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070001Z" creationid="Michael Motzkus" creationdate="20180912T070001Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneGreekTokenizer&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LucenePersianTokenizer&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070003Z" creationid="Michael Motzkus" creationdate="20180912T070003Z">
+        <seg>org.omegat.plugins.tokenizer.LucenePersianTokenizer&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneRussianTokenizer&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070006Z" creationid="Michael Motzkus" creationdate="20180912T070006Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneRussianTokenizer&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneSmartChineseTokenizer&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070004Z" creationid="Michael Motzkus" creationdate="20180912T070004Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneSmartChineseTokenizer&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneThaiTokenizer&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070008Z" creationid="Michael Motzkus" creationdate="20180912T070008Z">
+        <seg>org.omegat.plugins.tokenizer.LuceneThaiTokenizer&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballDanishTokenizer&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070012Z" creationid="Michael Motzkus" creationdate="20180912T070012Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballDanishTokenizer&lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballDutchTokenizer&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070013Z" creationid="Michael Motzkus" creationdate="20180912T070013Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballDutchTokenizer&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballEnglishTokenizer&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070015Z" creationid="Michael Motzkus" creationdate="20180912T070015Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballEnglishTokenizer&lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballFinnishTokenizer&lt;br16/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070016Z" creationid="Michael Motzkus" creationdate="20180912T070016Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballFinnishTokenizer&lt;br16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballFrenchTokenizer&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070017Z" creationid="Michael Motzkus" creationdate="20180912T070017Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballFrenchTokenizer&lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballGerman2Tokenizer&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070019Z" creationid="Michael Motzkus" creationdate="20180912T070019Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballGerman2Tokenizer&lt;br18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballGermanTokenizer&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070021Z" creationid="Michael Motzkus" creationdate="20180912T070021Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballGermanTokenizer&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballHungarianTokenizer&lt;br20/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070023Z" creationid="Michael Motzkus" creationdate="20180912T070023Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballHungarianTokenizer&lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballItalianTokenizer&lt;br21/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070041Z" creationid="Michael Motzkus" creationdate="20180912T070041Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballItalianTokenizer&lt;br21/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballNorwegianTokenizer&lt;br22/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070043Z" creationid="Michael Motzkus" creationdate="20180912T070043Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballNorwegianTokenizer&lt;br22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballPorterTokenizer&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070045Z" creationid="Michael Motzkus" creationdate="20180912T070045Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballPorterTokenizer&lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballPortugueseTokenizer&lt;br24/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070047Z" creationid="Michael Motzkus" creationdate="20180912T070047Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballPortugueseTokenizer&lt;br24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballRomanianTokenizer&lt;br25/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070049Z" creationid="Michael Motzkus" creationdate="20180912T070049Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballRomanianTokenizer&lt;br25/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballRussianTokenizer&lt;br26/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070050Z" creationid="Michael Motzkus" creationdate="20180912T070050Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballRussianTokenizer&lt;br26/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballSpanishTokenizer&lt;br27/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070051Z" creationid="Michael Motzkus" creationdate="20180912T070051Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballSpanishTokenizer&lt;br27/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballSwedishTokenizer&lt;br28/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070054Z" creationid="Michael Motzkus" creationdate="20180912T070054Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballSwedishTokenizer&lt;br28/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T070057Z" creationid="Michael Motzkus" creationdate="20180912T070057Z">
+        <seg>org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
       </tuv>
     </tu>
     <tu>
