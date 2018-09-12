@@ -13339,6 +13339,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the files that you have unzipped from the tokenizer package directly into this sub-folder.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T064855Z" creationid="Michael Motzkus" creationdate="20180912T064855Z">
+        <seg>Kopieren Sie die Dateien, die Sie aus dem Tokenizer-Paket entpackt haben, direkt in diesen Unterordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T031951Z" creationid="Michael Motzkus" creationdate="20180912T031951Z">
@@ -15727,6 +15735,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE">
         <seg>Herunterladen in dem Fall von:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download the &lt;a0&gt;tokenizer zip package (for OmegaT version 2.1.1 and later)&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T064507Z" creationid="Michael Motzkus" creationdate="20180912T064507Z">
+        <seg>Laden Sie das &lt;a0&gt;Tokenizer Zip-Paket (für OmegaT Versionen 2.1.1 und neuer)&lt;/a0&gt; herunter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22670,6 +22686,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the main OmegaT program folder (i.e. the folder containing the file OmegaT.jar), create a sub-folder called "plugins", if a sub-folder with this name does not already exist.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T064800Z" creationid="Michael Motzkus" creationdate="20180912T064800Z">
+        <seg>Erstellen Sie im OmegaT-Hauptprogrammordner (d. h. dem Ordner, der die Datei OmegaT.jar enthält) einen Unterordner genannt "plugins", wenn ein Ordner mit demselben Namen nicht schon existiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the main folder of the source code, open the file manifest-template.mf in a text editor.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180906T073926Z" creationid="BVB" creationdate="20180906T073926Z">
@@ -23340,6 +23364,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Schnellstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, launch a text editor (such as Notepad or Wordpad), then open the launch script file with File &gt; Open.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065329Z" creationid="Michael Motzkus" creationdate="20180912T065329Z">
+        <seg>Starten Sie stattdessen einen Texteditor (so wie Notepad oder Wordpad), öffnen Sie die Startskriptdatei dann mit Datei &gt; Öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30019,6 +30051,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T154457Z">
         <seg>Öffnen Sie die Ansicht&lt;e0&gt; Projects&lt;/e0&gt; Ihres Kontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open your launch script file in a text editor.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T064935Z" creationid="Michael Motzkus" creationdate="20180912T064935Z">
+        <seg>Öffnen Sie Ihre Startskriptdatei in einem Texteditor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45403,6 +45443,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unzip the files from the tokenizer zip package.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T064607Z" creationid="Michael Motzkus" creationdate="20180912T064607Z">
+        <seg>Entpacken Sie die Dateien aus dem Tokenizer Zip-Paket.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unzip the files, and put them all in the "plugins" folder located in OmegaT installation folder, that is the folder that contains the OmegaT.jar.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140304T205123Z">
@@ -47291,6 +47339,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows users (in particular): do &lt;s0&gt;not&lt;/s0&gt; simply click on this file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065143Z" creationid="Michael Motzkus" creationdate="20180912T065143Z">
+        <seg>Windowsbenutzer (im Speziellen): Klicken Sie &lt;s0&gt;nicht&lt;/s0&gt; einfach auf diese Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows users who are not already using Firefox can &lt;a1&gt;download it from www.mozilla.org&lt;/a1&gt;; most Linux users will already have it installed, or can install it via their distributions' repositories.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T102522Z" creationid="BVB" creationdate="20180911T064045Z">
@@ -48634,6 +48690,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T102215Z" creationid="BVB" creationdate="20180905T102215Z">
         <seg>Sie haben völlige Freiheit darin, wie Sie übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also be able to right-click with the mouse on the file, then select a text editor in which to open it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T065514Z" creationid="Michael Motzkus" creationdate="20180912T065514Z">
+        <seg>Sie können auch mit der rechten Maustaste auf die Datei klicken, dann einen Texteditor auswählen, in dem sie geöffnet werden soll.</seg>
       </tuv>
     </tu>
     <tu>
