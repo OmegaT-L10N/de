@@ -2210,6 +2210,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T024215Z" creationid="Michael Motzkus" creationdate="20180912T024215Z">
+        <seg>- Markierter Text im Zieltext, wenn das entsprechende Tastaturkürzel gedrückt ist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- INI (key=value) files (*.ini)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095444Z">
@@ -2318,6 +2326,22 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095547Z">
         <seg>- Tagged Textdateiformate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- The content of the segment source text, when the segment is opened&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T023947Z" creationid="Michael Motzkus" creationdate="20180912T023947Z">
+        <seg>- Der Inhalt des Quelltexts des Segments, wenn das Segment geöffnet ist&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- The content of the segment target text, when the segment is opened&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T024027Z" creationid="Michael Motzkus" creationdate="20180912T024027Z">
+        <seg>- Der Inhalt des Segmentzieltextes, wenn das Segment geöffnet ist&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10549,6 +10573,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130529T075545Z">
         <seg>In jeder Position des Cursors werden Regeln, die aus einem &lt;e0&gt;Davor &lt;/e0&gt;und &lt;e1&gt;Danach &lt;/e1&gt;Muster bestehen, angewendet, um zu sehen, ob irgend welche &lt;e2&gt; Davor&lt;/e2&gt; Muster für den Text auf der linken Seite und das dazu gehörige &lt;e3&gt;Danach&lt;/e3&gt; Muster für en Text auf der rechten Seite des Cursors zutreffen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At present, the data exported are:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T023905Z" creationid="Michael Motzkus" creationdate="20180912T023905Z">
+        <seg>Derzeit sind die exportieren Daten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21726,6 +21758,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, the package &lt;a0&gt;te-scripts.zip&lt;/a0&gt; contains some very simple tcl/tk scripts which are intended to illustrate use of the function.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T023703Z" creationid="Michael Motzkus" creationdate="20180912T023703Z">
+        <seg>Zusätzlich enthält das Paket &lt;a0&gt;te-scripts.zip&lt;/a0&gt; einige sehr einfache Tcl/Tk-Skripte, die die Verwendung der Funktion veranschaulichen sollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In all other cases no tag validation is done.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T200731Z">
@@ -31508,6 +31548,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Purpose</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T023708Z" creationid="Michael Motzkus" creationdate="20180912T023708Z">
+        <seg>Zweck</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Push failed.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T150542Z">
@@ -40181,6 +40229,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text export function exports data from within the current OmegaT project to plain-text files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T023814Z" creationid="Michael Motzkus" creationdate="20180912T023814Z">
+        <seg>Die Textexportfunktion exportiert Daten aus dem bestehenden &lt;a0&gt;OmegaT&lt;/a0&gt;-Projekt in reine Textdateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T155249Z">
@@ -41154,6 +41210,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T121209Z" creationid="BVB" creationdate="20180826T120930Z">
         <seg>Dieses HOWTO beschreibt OmegaTs Kompatibilität mit ausgewählten anderen Softwareprodukten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HOWTO describes the function and possible uses for it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T023421Z" creationid="Michael Motzkus" creationdate="20180912T023421Z">
+        <seg>Dieses HOWTO beschreibt die Funktion und mögliche Anwendungen dafür.</seg>
       </tuv>
     </tu>
     <tu>
