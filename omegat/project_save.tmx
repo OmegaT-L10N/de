@@ -21198,6 +21198,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T062643Z" creationid="Michael Motzkus" creationdate="20180917T062643Z">
+        <seg>Wenn wir im Fall von Segmenten mit mehreren möglichen Zielinhalten Fehlübersetzungen vermeiden wollen, bewirkt das Auswählen der Checkbox, dass &lt;e0&gt;Gehe zum nächsten unübersetzten Element&lt;/e0&gt; beim nächsten solchen Element anhält, unabhängig davon, ob es schon übersetzt wurde oder nicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt; Go To Next Untranslated Segment&lt;/e0&gt;stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T160000Z">
@@ -32952,6 +32960,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130630T162411Z">
         <seg>Übersetzung löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T062906Z" creationid="Michael Motzkus" creationdate="20180917T062906Z">
+        <seg>Das Entfernen eines gesamten Tags bleibt in diesem Fall möglich, indem Sie Strg + Rücktaste / Löschen verwenden oder alles auswählen (Strg + Umschalt + Links / Rechts) und dann löschen (Löschen oder Strg + X).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45453,6 +45469,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131130T142945Z">
         <seg>Unveränderte Sätze werden automatisch übersetzt, bei aktualisierten Sätzen wird die Übersetzung des ähnlichsten, älteren Satzes angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T062739Z" creationid="Michael Motzkus" creationdate="20180917T062739Z">
+        <seg>Deaktivieren Sie diese Option, um Schäden an den Tags (d. h. Teilweises Löschen) während der Bearbeitung zu vermeiden.</seg>
       </tuv>
     </tu>
     <tu>
