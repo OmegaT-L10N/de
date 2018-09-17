@@ -6277,6 +6277,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Priorities&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T081553Z" creationid="Michael Motzkus" creationdate="20180917T081553Z">
+        <seg>&lt;p0&gt;Glossare&lt;/p0&gt; &lt;s1&gt;Prioritäten&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Problems with glossaries&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T090409Z">
@@ -10749,6 +10757,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T203242Z" creationid="BVB" creationdate="20180826T203242Z">
         <seg>Wie überall im OmegaT-Projekt wird die Programmierung von OmegaT von Freiwilligen durchgeführt und entsprechend der Projektphilosophie liegen die Entwicklungen und Verbesserungen, die sie für OmegaT machen, letztendlich in ihrem Ermessen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T082128Z" creationid="Michael Motzkus" creationdate="20180917T082128Z">
+        <seg>Da Einträge Wörter aus Prioritäts- und Nichtprioritätsglossaren mischen können, werden die Wörter aus dem Prioritätsglossar fett dargestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28565,8 +28581,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T081413Z" creationid="Michael Motzkus" creationdate="20180917T081413Z">
-        <seg>Nichts spricht zum Beispiel gegen den Einsatz von Notepad++ unter Windows, GEdit in Linux oder auch ein Tabellenkalkulationsprogramm zu diesem Zweck, jede Anwendung, die UTF-8 (oder UTF-16 LE) und Leerzeichen anzeigen kann (so dass Ihnen nicht das benötigte TAB-Zeichen fehlt), kann benutzt werden.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T081519Z" creationid="Michael Motzkus" creationdate="20180917T081413Z">
+        <seg>Nichts spricht zum Beispiel gegen den Einsatz von Notepad++ unter Windows, GEdit in Linux oder auch ein Tabellenkalkulationsprogramm zu diesem Zweck, jede Anwendung, die UTF-8 (oder UTF-16 LE) und Leerzeichen anzeigen kann (so dass Ihnen nicht das benötigte &lt;k1&gt;TAB&lt;/k1&gt;-Zeichen fehlt), kann benutzt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31912,6 +31928,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T194147Z">
         <seg>Printf Variable - nicht prüfen, einzeln markieren, alle prüfen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Priority glossary</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T081654Z" creationid="Michael Motzkus" creationdate="20180917T081627Z">
+        <seg>Bevorzugtes Glossar</seg>
       </tuv>
     </tu>
     <tu>
@@ -39892,6 +39916,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T082205Z" creationid="Michael Motzkus" creationdate="20180917T082205Z">
+        <seg>Die Glossardatei hat nicht die korrekte Erweiterung (.tab, .utf8 oder .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The glossary file is empty.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T090519Z">
@@ -40921,6 +40953,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154336Z">
         <seg>The resulting work is called a "modified version" of the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T081835Z" creationid="Michael Motzkus" creationdate="20180917T081835Z">
+        <seg>Die Ergebnisse des bevorzugten Glossars (standardmäßig glossar/glossary.txt) werden an erster Stelle im Glossarbereich und in Übersetzungstipps angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
