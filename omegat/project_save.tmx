@@ -7493,6 +7493,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PDF files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071337Z" creationid="Michael Motzkus" creationdate="20180917T071337Z">
+        <seg>&lt;p0&gt;Quelldateien&lt;/p0&gt; &lt;s1&gt;PDF-Dateien&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130517T125144Z">
@@ -7729,6 +7737,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T123026Z">
         <seg>&lt;p0&gt;Zieldateien&lt;/p0&gt; &lt;s1&gt;Dateiformate&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;PDF text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071320Z" creationid="Michael Motzkus" creationdate="20180917T071320Z">
+        <seg>&lt;p0&gt;Zieldateien&lt;/p0&gt; &lt;s1&gt;PDF-Textdateien&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21814,6 +21830,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071734Z" creationid="Michael Motzkus" creationdate="20180917T071734Z">
+        <seg>Wenn Sie Textformatierungen (sowie andere Dinge wie Zeichnungen) in Ihrer Übersetzung wiederherstellen müssen, haben Sie drei Möglichkeiten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T202439Z">
@@ -30831,6 +30855,22 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF files</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071349Z" creationid="Michael Motzkus" creationdate="20180917T071349Z">
+        <seg>PDF-Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071403Z" creationid="Michael Motzkus" creationdate="20180917T071403Z">
+        <seg>PDF-Dateien sind ein Sonderfall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDF files fall into two categories: true and "scanned" PDFs.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T180420Z" creationid="BVB" creationdate="20180904T180420Z">
@@ -32468,6 +32508,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RELAX NG schema for XML (*.rng)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071204Z" creationid="Michael Motzkus" creationdate="20180917T071204Z">
+        <seg>RELAX NG-Schema für XML (*.rng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTF (Rich Text Format):</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T124554Z" creationid="BVB" creationdate="20180826T124554Z">
@@ -34064,6 +34112,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T180753Z" creationid="BVB" creationdate="20180904T180753Z">
         <seg>Gescannte PDFs sind nicht Gegenstand dieses HowTo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron (*.sch)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071151Z" creationid="Michael Motzkus" creationdate="20180917T071151Z">
+        <seg>Schematron (*.sch)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42158,6 +42214,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071547Z" creationid="Michael Motzkus" creationdate="20180917T071547Z">
+        <seg>Sie enthalten Textformatierungsinformationen, aber solche Informationen können von&lt;a0&gt; OmegaT&lt;/a0&gt; nicht wiederverwendet werden, um Zieldateien zu erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They contain the one and the same translation memory contents in different forms, to be used in future projects.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T091622Z">
@@ -43692,6 +43756,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154340Z">
         <seg>Those thus making or running the covered works</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071635Z" creationid="Michael Motzkus" creationdate="20180917T071635Z">
+        <seg>PDF-Dateien werden daher als reine Textdateien behandelt und Ausgabedateien sind reine Textdateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46075,6 +46147,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071933Z" creationid="Michael Motzkus" creationdate="20180917T071933Z">
+        <seg>Verwenden Sie den Standardfilter (PDF-Eingabe) von &lt;a0&gt;OmegaT&lt;/a0&gt;, übersetzen Sie, erstellen Sie eine Zieldatei (es wird eine reine Textdatei sein), fügen Sie relevante Formatierungen und Elemente manuell hinzu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/Resources/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154255Z">
@@ -48103,6 +48183,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T142418Z">
         <seg>Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast TXML (*.txml)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071051Z" creationid="Michael Motzkus" creationdate="20180917T071051Z">
+        <seg>Wordfast TXML (*.txml)</seg>
       </tuv>
     </tu>
     <tu>
