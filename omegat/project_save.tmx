@@ -22134,6 +22134,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T065443Z" creationid="Michael Motzkus" creationdate="20180917T065443Z">
+        <seg>Ignorieren des Dateikontexts beim Identifizieren von Segmenten mit alternativen Übersetzungen: Standardmäßig verwendet OmegaT den Namen der Quelldatei als Teil der Identifikation einer alternativen Übersetzung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T142111Z" creationid="karsten" creationdate="20150919T142111Z">
@@ -22530,6 +22538,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T135451Z">
         <seg>In No&amp;tizen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T065219Z" creationid="Michael Motzkus" creationdate="20180917T065219Z">
+        <seg>In nicht segmentierten Projekten ist es durch Deaktivieren dieser Option möglich, diese zu behalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31572,6 +31588,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces (for layout matters) that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T065350Z" creationid="Michael Motzkus" creationdate="20180917T065350Z">
+        <seg>Platz für alle Tags beibehalten: Aktivieren Sie diese Option, wenn die Quelldokumente (aus Layoutgründen) signifikante Leerzeichen enthalten, die nicht ignoriert werden dürfen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; to show KRunner.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T185946Z">
@@ -32984,6 +33008,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131011T220921Z">
         <seg>Öffnende und schließende Leerzeichen in nicht segmentierten Projekten entfernen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T065059Z" creationid="Michael Motzkus" creationdate="20180917T065059Z">
+        <seg>Entfernen Sie führende und nachfolgende Leerzeichen in nicht-segmentierten Projekten: Standardmäßig entfernt OmegaT führende und nachfolgende Leerzeichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53604,6 +53636,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130512T123014Z">
         <seg>wenn die Regel der Satzsegmentierung aktiv sind, wird der Text je nach den hier gewählten Optionen weiter segmentiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments, or some sort of ID depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T065543Z" creationid="Michael Motzkus" creationdate="20180917T065543Z">
+        <seg>Wenn die Option aktiviert ist, wird der Name der Quelldatei nicht verwendet, und alternative Übersetzungen werden in jeder Datei wirksam, solange der andere Kontext (vorherige / nächste Segmente oder eine vom Dateiformat abhängige Art von ID) übereinstimmt.</seg>
       </tuv>
     </tu>
     <tu>
