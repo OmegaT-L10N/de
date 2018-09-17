@@ -4437,6 +4437,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T070234Z" creationid="Michael Motzkus" creationdate="20180917T070136Z">
+        <seg>&lt;e0&gt;Leerzeichen im übersetzten Dokument komprimieren&lt;/e0&gt;: Mehrere fortlaufende Leerzeichen werden im übersetzten Dokument in ein einzelnes Leerzeichen umgewandelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131206T230640Z">
@@ -4793,6 +4801,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131130T165757Z">
         <seg>&lt;e0&gt;Projekteinstellungen&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT-&lt;/a2&gt;Dateien und -Ordner:&lt;/e1&gt; Ein Projekt, das mit OmegaT bearbeitet wird, ist eine Aufgabe, die OmegaT als CAT-Tool leisten kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: all commented parts (between &lt;!-- and --&gt;) won't be copied in the translated document.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T070355Z" creationid="Michael Motzkus" creationdate="20180917T070355Z">
+        <seg>&lt;e0&gt;HTML-Kommentare in übersetzten Dokumenten entfernen&lt;/e0&gt;: alle kommentierten Teile (zwischen &lt;!-- und --&gt;) werden nicht in das übersetzte Dokument kopiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25601,6 +25617,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T070656Z" creationid="Michael Motzkus" creationdate="20180917T070656Z">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T174037Z" creationid="karsten" creationdate="20150919T174037Z">
@@ -25845,6 +25869,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140103T182459Z">
         <seg>Luxemburgisch, Lëtzebuergesch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MAC OS X</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T070700Z" creationid="Michael Motzkus" creationdate="20180917T070700Z">
+        <seg>MAC OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -48507,6 +48539,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can access that folder directly with the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu entry.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071046Z" creationid="Michael Motzkus" creationdate="20180917T071046Z">
+        <seg>Sie können auf den Ordner direkt über den &lt;m0&gt;&lt;g1&gt;Optionsmenüeintrag&lt;/g1&gt; &lt;g2&gt;Konfigurationsordner öffnen&lt;/g2&gt;&lt;/m0&gt; zugreifen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T185920Z">
@@ -48647,6 +48687,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T141439Z">
         <seg>Sie können die Notizen mit &lt;g0&gt;Gehe zu → Nächste Notiz&lt;/g0&gt; und &lt;g1&gt;Gehe zu → Vorherige Notiz&lt;/g1&gt; durchsuchen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T070600Z" creationid="Michael Motzkus" creationdate="20180917T070600Z">
+        <seg>Sie können für jeden Dateifilter Dateinamenmuster für Dateien ändern oder hinzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53604,6 +53652,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154418Z">
         <seg>if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific GUI settings</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T070650Z" creationid="Michael Motzkus" creationdate="20180917T070650Z">
+        <seg>Falls vorhanden, enthält es projektspezifische Einstellungen für die Benutzeroberfläche.</seg>
       </tuv>
     </tu>
     <tu>
