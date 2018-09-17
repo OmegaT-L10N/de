@@ -11889,6 +11889,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T063932Z" creationid="Michael Motzkus" creationdate="20180917T063932Z">
+        <seg>Standardmäßig zeigt der Editor zunächst 2.000 Segmente an und lädt nach und nach mehr, wenn Sie hoch oder runter scrollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, 512 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T081423Z">
@@ -12501,6 +12509,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T194911Z">
         <seg>Schauen Sie auf der Website wegen der neuesten Liste eingeführter Sprachpaare nach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T063054Z" creationid="Michael Motzkus" creationdate="20180917T063054Z">
+        <seg>Aktivieren Sie diese Option, um bei jedem Verlassen eines Segments über Unterschiede zwischen den Tags für Quell- und Zielsegmente zu warnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T063554Z" creationid="Michael Motzkus" creationdate="20180917T063511Z">
+        <seg>Aktivieren Sie diese Option um in der Datei &lt;f0&gt;&lt;/f0&gt;project_save.tmx&lt;/f&gt; aufzuzeichnen, dass ein Segment automatisch übersetzt wurde, so dass es in einer bestimmten Farbe im Editor angezeigt wird, wenn die Option "Automatisch übersetzte Segmente markieren" im Menü Ansicht ausgewählt ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23228,6 +23252,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T091724Z">
         <seg>Dieser anfänglich leere Ordner wird Wörterbücher enthalten, die Sie zum Projekt hinzugefügt haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially load this many segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T063733Z" creationid="Michael Motzkus" creationdate="20180917T063733Z">
+        <seg>Zu Beginn diese Anzahl von Segmenten laden</seg>
       </tuv>
     </tu>
     <tu>
