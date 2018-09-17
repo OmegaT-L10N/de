@@ -3965,6 +3965,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T073715Z" creationid="Michael Motzkus" creationdate="20180917T073715Z">
+        <seg>&lt;b0&gt;&lt;STRG + N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130529T202748Z">
@@ -4101,10 +4109,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T073725Z" creationid="Michael Motzkus" creationdate="20180917T073725Z">
+        <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b&gt;{0}&lt;/b&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T152902Z">
         <seg>&lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T073732Z" creationid="Michael Motzkus" creationdate="20180917T073732Z">
+        <seg>&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4729,6 +4753,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T054912Z">
         <seg>&lt;e0&gt;Bedenken Sie: &lt;/e0&gt;Es gibt natürlich andere Wege und Mittel, um eine einfache Datei mit durch Tabulator getrennte Einträge zu erzeugen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T073423Z" creationid="Michael Motzkus" creationdate="20180917T073423Z">
+        <seg>&lt;e0&gt;Hinweis:&lt;/e0&gt; Die obigen Informationen gelten nur für PDF-Dateien mit einer Textebene.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8537,6 +8569,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T200143Z">
         <seg>Ein fixer Abzug von 5 wird hinzugefügt, wenn das entfernte Teil mit keinem anderen Segment übereinstimmt, so dass der Treffer nicht als 100%erscheint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T073957Z" creationid="Michael Motzkus" creationdate="20180917T073957Z">
+        <seg>Ein fester Abzug von 5 wird hinzugefügt, wenn das entfernte Teil mit keinem anderen Segment übereinstimmt, so dass der Treffer nicht als 100% erscheint.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21662,6 +21702,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T073703Z" creationid="Michael Motzkus" creationdate="20180917T073703Z">
+        <seg>Wenn Sie eine PDF-Datei aus gescannten Seiten erstellt haben (manchmal werden solche Dateien als "tote" PDFs bezeichnet), müssen Sie ein OCR-Programm (Optical Character Recognition / optische Zeichenerkennung) verwenden, um den Text zu erkennen und in ein Format konvertieren, das OmegaT bearbeiten kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T101510Z" creationid="BVB" creationdate="20180826T101510Z">
@@ -22202,6 +22250,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Quelldateien importieren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T073347Z" creationid="Michael Motzkus" creationdate="20180917T073347Z">
+        <seg>Importieren Sie die Quelldatei in &lt;u0&gt; LibreOffice Draw &lt;/ u0&gt;, speichern Sie sie als ODG-Datei, übersetzen und exportieren Sie sie nach Bedarf in PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25317,6 +25373,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T195500Z">
         <seg>OmegaT im Konsolenmodus starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching this function – &lt;g0&gt;Ctrl+Shift+V&lt;i1/&gt;&lt;/g0&gt; - opens a window containing all segments in the file containing suspected broken or bad tags in the translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T074503Z" creationid="Michael Motzkus" creationdate="20180917T074503Z">
+        <seg>Das Starten dieser Funktion – &lt;g0&gt;Strg + T&lt;i1/&gt;&lt;/g0&gt; -  öffnet ein Fenster, das alle Segmente in der Datei enthält, bei denen der Verdacht besteht, dass die Übersetzung beschädigte oder fehlerhafte Tag enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47451,6 +47515,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When looking for fuzzy matches, the remove pattern is ignored.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T073905Z" creationid="Michael Motzkus" creationdate="20180917T073905Z">
+        <seg>Wenn nach unscharfen Treffern geschaut wird, wird das Muster zum Entfernen ignoriert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T094638Z">
@@ -54132,6 +54204,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154351Z">
         <seg>is a consumer product regardless of whether the product has substantial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is a single tag and does not affect any surrounding text.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T073756Z" creationid="Michael Motzkus" creationdate="20180917T073756Z">
+        <seg>&lt;br1&gt; ist ein einzelner Tag und beeinflusst den umgebenden Text nicht.</seg>
       </tuv>
     </tu>
     <tu>
