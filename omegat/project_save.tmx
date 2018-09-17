@@ -21638,6 +21638,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T064308Z" creationid="Michael Motzkus" creationdate="20180917T064308Z">
+        <seg>Wenn Sie einen leistungsstarken Rechner haben und / oder Sie es nicht mögen, wie sich die Scroll-Leiste beim nachladen verhält, können Sie diese Anzahl erhöhen. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T163615Z">
@@ -32964,6 +32972,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags including the leading and trailing ones.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T064746Z" creationid="Michael Motzkus" creationdate="20180917T064746Z">
+        <seg>Entfernen Sie führende und nachfolgende Tags: Deaktivieren Sie diese Option, um alle Tags einschließlich der führenden und nachfolgenden Tags anzuzeigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131011T220921Z">
@@ -39034,6 +39050,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog allows to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T064707Z" creationid="Michael Motzkus" creationdate="20180917T064707Z">
+        <seg>Dieser Dialog erlaubt, die folgenden Optionen zu aktivieren oder zu deaktivieren:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog can be accessed via the &lt;i0/&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt; item in the Main menu.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T201805Z">
@@ -42539,6 +42563,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T144745Z">
         <seg>In diesem Dialogfenster können die Quelldateinamenmuster von Dateien, die mit dem Filter bearbeitet werden, eingestellt, die Dateinamen der Zieldateien festgelegt und die Kodierungen gewählt werden, um die Datei zu laden und deren Übersetzung zu speichern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog lists available file filters, where the filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T064626Z" creationid="Michael Motzkus" creationdate="20180917T064626Z">
+        <seg>Dieser Dialog zeigt verfügbare Filter an, wobei Filter, die im aktuellen Projekt benutzt werden, fett dargestellt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47015,6 +47047,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131013T171023Z">
         <seg>Warnung: Änderungen der Tagordnung können zu einer Beschädigung der Zieldatei führen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT write text before the first tag (it is a technical tag that must always begin the segment).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T065018Z" creationid="Michael Motzkus" creationdate="20180917T065018Z">
+        <seg>Warnung: Schreiben Sie in Microsoft Open XML-Formaten KEINEN Text vor den ersten Tag (Es ist ein technischer Tag und muss dem Segment voran stehen).</seg>
       </tuv>
     </tu>
     <tu>
