@@ -22422,6 +22422,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T080003Z" creationid="Michael Motzkus" creationdate="20180917T080003Z">
+        <seg>Neben dem reinen Textformat wird auch das TBX-Format&lt;i0/&gt; als schreibgeschütztes Glossarformat unterstützt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130523T061522Z">
@@ -28751,6 +28759,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T163701Z">
         <seg>Natürlich ist es klüger, eine kleine Pause einzulegen und die korrekte Version der Rechtschreibprüfung herunterzuladen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T075835Z" creationid="Michael Motzkus" creationdate="20180917T075835Z">
+        <seg>Natürlich muss die Codierung kompatibel mit den beiden enthaltenen Sprachen sein, daher wird Unicode empfohlen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39394,6 +39410,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The encoding of glossaries is determined automatically.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T075753Z" creationid="Michael Motzkus" creationdate="20180917T075753Z">
+        <seg>Die Kodierung von Glossaren wird automatisch bestimmt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="DE">
@@ -39446,6 +39470,14 @@ instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T123702Z">
         <seg>Die exportierten Inhalte werden in die Datei &lt;f1&gt;selection.txt&lt;/f1&gt;, die sich im Ordner für die bevorzugten Einstellungen des Nutzers befindet (siehe &lt;x2/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T075153Z" creationid="Michael Motzkus" creationdate="20180917T075153Z">
+        <seg>Die Erweiterung muss &lt;f0&gt;.txt&lt;/f0&gt; oder &lt;f1&gt;.utf8&lt;/f1&gt; sein (wenn nicht, wird sie hinzugefügt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40093,6 +40125,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T080123Z" creationid="Michael Motzkus" creationdate="20180917T080123Z">
+        <seg>Der Speicherort der &lt;f1&gt;.tbx&lt;/f1&gt;-Datei muss innerhalb des &lt;f2&gt;/glossary&lt;/f2&gt;-Ordners sein, es kann aber auch ein Unterordner (z. B. &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;) sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the file must be within the &lt;f1&gt;/glossary&lt;/f1&gt;folder, but it can be in a deeper directory (e.g., &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130522T163942Z">
@@ -40105,6 +40145,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130606T045359Z">
         <seg>Die Datei muss sich im Ordner &lt;f1&gt;/glossary&lt;/f1&gt; befinden, kann aber auch in einem Ordner darunter sein (z.B. &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T075720Z" creationid="Michael Motzkus" creationdate="20180917T075720Z">
+        <seg>Der Speicherort der Datei muss innerhalb des &lt;f2&gt;/glossary&lt;/f2&gt;-Ordners sein, es kann aber auch ein Unterordner (z. B. &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;) sein.</seg>
       </tuv>
     </tu>
     <tu>
