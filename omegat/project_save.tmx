@@ -13707,6 +13707,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Correct the error if necessary (in the case above it is the missing &lt;i2&gt;&lt;/i2&gt; pair) and press &lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T075103Z" creationid="Michael Motzkus" creationdate="20180917T074921Z">
+        <seg>Korrigieren Sie den Fehler falls nötig (im obigen Fall fehlt das &lt;i2&gt;&lt;/i2&gt;-Paar) und drücken Sie &lt;g0&gt;Strg + Umschalt + V&lt;/g0&gt; um zum Fenster zur Tagprüfung zurückzukehren und andere Fehler zu korrigieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Correct the error if necessary (in the case above it is the missing &lt;i2&gt;&lt;/i2&gt; pair) and press &lt;g0&gt;Ctrl+T&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130520T201021Z">
@@ -41705,6 +41713,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T155510Z">
         <seg>Der ganze Prozess kann gesteuert und kontrolliert werden mitteln des auf Tck/Tcl basierendem Scripting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The window that opens when &lt;g2&gt;Ctrl+Shift+V&lt;/g2&gt; is pressed features a 3-column table with a link to the segment, the original segment and the target segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T074825Z" creationid="Michael Motzkus" creationdate="20180917T074825Z">
+        <seg>Das Fenster, das sich mit &lt;g2&gt;Strg + Umschalt + V&lt;/g2&gt; öffnet, stellt eine dreispaltige Tabelle mit  einem Link zum Segment - dem Originalsegment und dem Zielsegment - bereit.</seg>
       </tuv>
     </tu>
     <tu>
