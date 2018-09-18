@@ -13266,12 +13266,12 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Added a comment (Anmerkung) from the translator because no one can understand the translation in parentheses, </note>
+      <note>Added a comment (Anmerkung) from the translator because no one can understand the translation in parentheses, not even the translator.</note>
       <tuv lang="EN">
         <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T103825Z" creationid="Michael Motzkus" creationdate="20180918T103825Z">
-        <seg>Ändert die Groß - / Kleinschreibung des markierten Texts im Zielsegment zur gewählten Option (Kleinschreibung, Großschreibung, Groß/klein oder Sentence case). Anmerkung des Übersetzers: Kleinschreibung = alle Buchstaben klein, Großschreibung = alle Buchstaben groß, Groß-/klein = alle Wörter beginnen mit einem Großbuchstaben, Sentence case  = erster Buchstabe eines Satzes groß, alle anderen Buchstaben des Satzes klein.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T104042Z" creationid="Michael Motzkus" creationdate="20180918T103825Z">
+        <seg>Ändert die Groß - / Kleinschreibung des markierten Texts im Zielsegment zur gewählten Option (Kleinschreibung, Großschreibung, Groß/klein oder Sentence case / Satzfall). Anmerkung des Übersetzers: Kleinschreibung = alle Buchstaben klein, Großschreibung = alle Buchstaben groß, Groß-/klein = alle Wörter beginnen mit einem Großbuchstaben, Sentence case / Satzfall  = erster Buchstabe eines Satzes groß, alle anderen Buchstaben des Satzes klein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15900,6 +15900,15 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T174013Z" creationid="karsten" creationdate="20150919T174013Z">
         <seg>Gelöscht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Missing s, should be: Deletes the translation and sets </note>
+      <tuv lang="EN">
+        <seg>Deletes the translation and set the segment as untranslated.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T104658Z" creationid="Michael Motzkus" creationdate="20180918T104658Z">
+        <seg>Löscht die Übersetzung und markiert das Segment als unübersetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35295,6 +35304,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Translation</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T104446Z" creationid="Michael Motzkus" creationdate="20180918T104446Z">
+        <seg>Übersetzung löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180827T070857Z" creationid="BVB" creationdate="20180827T070857Z">
@@ -37222,6 +37239,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130612T000046Z">
         <seg>Tref&amp;fer auswählen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T104338Z" creationid="Michael Motzkus" creationdate="20180918T104338Z">
+        <seg>Treffer auswählen</seg>
       </tuv>
     </tu>
     <tu>
@@ -49068,6 +49093,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T060524Z" creationid="BVB" creationdate="20180904T060524Z">
         <seg>Verwenden Sie Suchen und Ersetzen, um doppelte Leerzeichen zu entfernen (ersetzen Sie sie durch ein einzelnes Leerzeichen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Shift+F3 &lt;i0/&gt;to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T104257Z" creationid="Michael Motzkus" creationdate="20180918T104257Z">
+        <seg>Benutzen Sie Umschalt + F3 &lt;i0/&gt;um zwischen den vier Alternativen zu wechseln.</seg>
       </tuv>
     </tu>
     <tu>
