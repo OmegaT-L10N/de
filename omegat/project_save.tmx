@@ -7125,6 +7125,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Drag and drop&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T065016Z" creationid="Michael Motzkus" creationdate="20180918T065016Z">
+        <seg>&lt;p0&gt;OmegaT benutzen&lt;/p0&gt; &lt;s1&gt;Drag und Drop&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T072200Z">
@@ -16067,6 +16075,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag and drop</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T065031Z" creationid="Michael Motzkus" creationdate="20180918T065031Z">
+        <seg>Drag und Drop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag and drop &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; onto the Dock.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T054317Z">
@@ -22714,6 +22730,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180911T173322Z" creationid="BVB" creationdate="20180911T173322Z">
         <seg>In den meisten Fällen möchte der Übersetzer identische Segmente innerhalb eines Projekts gleich übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T065936Z" creationid="Michael Motzkus" creationdate="20180918T065936Z">
+        <seg>Auf den meisten Systemen ist es möglich, ein Projekt durch das ZIehen der  &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei auf das OmegaT-Icon auf dem Desktop zu öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46543,6 +46567,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T084822Z">
         <seg>Benutzen Sie es, falls OmegaT den Inhalt des Projekts nicht synchronisieren soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T064918Z" creationid="Michael Motzkus" creationdate="20180918T064918Z">
+        <seg>Benutzen Sie die Datei &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt;  in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; um &lt;a4&gt;OmegaT&lt;/a4&gt; von der Kommandozeile aus zu starten.</seg>
       </tuv>
     </tu>
     <tu>
