@@ -21833,12 +21833,11 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>There ssems to be no option "Use Terms Appearing Separately in the Source Text" in OmegaT 3.6, in OmegaT 4.5.5_1 :: de it is still untranslated.</note>
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; option is ON, the glossary entry "itema itemb" will be found in the source text "itema other word itemb".</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T162243Z" creationid="Michael Motzkus" creationdate="20180918T162243Z">
-        <seg>Wenn die Option &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; aktiviert ist, wird der Glossareintrag "itema itemb" im Quelltext als "itema other word itemb" gefunden.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T163642Z" creationid="Michael Motzkus" creationdate="20180918T162243Z">
+        <seg>Wenn die Option &lt;g0&gt;Unscharfe Treffer für Mehrwortbenennungen&lt;/g0&gt; aktiviert ist, wird der Glossareintrag "EintragA EintragB" gefunden, wenn im Quelltext "EintragA anderesWort EintragB" steht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40765,6 +40764,15 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T091934Z">
         <seg>Das "&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;" Argument veranlasst &lt;a1&gt;OmegaT&lt;/a1&gt;, statt der Sprache des Betriebssystems die angegebene Sprache zu verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Has to be translated in OmegaT 4.1.5_1 :: de</note>
+      <tuv lang="EN">
+        <seg>The &lt;e0&gt;Replace Glossary Hits when Inserting Source Text&lt;/e0&gt; option allows to replace automatically glossary hits with the target term when source text is inserted.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T164628Z" creationid="Michael Motzkus" creationdate="20180918T164628Z">
+        <seg>Die Option &lt;e0&gt;Replace Glossary Hits when Inserting Source Text&lt;/e0&gt; erlaubt Glossartreffer automatisch mit dem Zielbegriff zu ersetzen, wenn der Quelltext eingefügt wird.</seg>
       </tuv>
     </tu>
     <tu>
