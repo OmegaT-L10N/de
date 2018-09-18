@@ -15295,6 +15295,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customer ID (corresponds to &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T080906Z" creationid="Michael Motzkus" creationdate="20180918T080906Z">
+        <seg>Kunden-ID (entspricht dem &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt;-Kommandozeilenparameter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing the Fuzzy matches pane</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T083048Z">
@@ -23930,6 +23938,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T135027Z" creationid="BVB" creationdate="20180826T135027Z">
         <seg>Damit dieser Prozess so automatisch wie möglich abläuft, müssen insbesondere zwei Bedingungen erfüllt sein: Erstens muss das Translation Memory Formatierungsinformationen enthalten (siehe oben); und zweitens müssen die Segmentierungsregeln, die auf den Text angewendet werden, dieselben sein wie die, die angewendet wurden, als das Translation Memory (oder ein Teil davon) erzeugt wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to be able to use Yandex Translate in OmegaT, you need to &lt;u0&gt;obtain an API key from Yandex&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T081633Z" creationid="Michael Motzkus" creationdate="20180918T081633Z">
+        <seg>Um Yandex Translate in OmegaT benutzen zu können, müssen Sie  sich &lt;u0&gt;einen API-Schlüssel von Yandex besorgen&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33380,8 +33396,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Primary Account Key (corresponds to &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; command-line parameter)</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T080757Z" creationid="Michael Motzkus" creationdate="20180918T080757Z">
-        <seg>Primärer Account-Schlüssel (entspricht dem &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; Kommandozeilenparameter)</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T080917Z" creationid="Michael Motzkus" creationdate="20180918T080757Z">
+        <seg>Primärer Account-Schlüssel (entspricht dem &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt;-Kommandozeilenparameter)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42211,6 +42227,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The obtained API key needs to be passed to OmegaT at startup through &lt;c0&gt;yandex.api.key&lt;/c0&gt; command-line parameter.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T081806Z" creationid="Michael Motzkus" creationdate="20180918T081806Z">
+        <seg>Der besorgte API-Schlüssel muss OmegaT beim Start durch den &lt;c0&gt;yandex.api.key&lt;/c0&gt; -Kommandozeilenparameter übergeben werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The omegat folder contains the &lt;f0&gt;project_save.tmx&lt;/f0&gt; and possibly a number of backup TMX files.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T075115Z">
@@ -46296,6 +46320,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do that edit OmegaT launcher or see chapter &lt;l1&gt;Installing and Running&lt;/l1&gt; to learn how to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082018Z" creationid="Michael Motzkus" creationdate="20180918T082018Z">
+        <seg>Bearbeiten Sie dafür den OmegaT-Starter oder schauen Sie sich das Kapitel &lt;l1&gt;Installieren und Ausführen&lt;/l1&gt; an, um zu erfahren, wie Sie OmegaT von der Kommandozeile aus starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this for the TMX filter, insert the line</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180906T072756Z" creationid="BVB" creationdate="20180906T072756Z">
@@ -46348,6 +46380,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130512T122518Z">
         <seg>Wählen Sie den Filter aus der Liste und klicken Sie &lt;e1&gt;Bearbeiten&lt;/e1&gt;, um zu bestimmen, welche Dateien in welchen Kodierungen vom Filter bearbeitet werden. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enable MS Translator in OmegaT edit its launcher or see chapter &lt;l0&gt;Installing and Running&lt;/l0&gt; to learn how to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T081232Z" creationid="Michael Motzkus" creationdate="20180918T081232Z">
+        <seg>Um MS Translator in OmegaT zu aktivieren, bearbeiten Sie seinen Starter oder schauen Sie sich das Kapitel &lt;l0&gt;Installieren und Ausführen von OmegaT&lt;/l0&gt; an, um zu erfahren, wie man OmegaT auf der Kommandozeile startet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62865,5 +62905,16 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">doc_src/MachineTranslation.xml</prop>
+      <prop type="prev">To enable MS Translator in OmegaT edit its launcher or see chapter &lt;l0&gt;Installing and Running&lt;/l0&gt; to learn how to start OmegaT from the command line.</prop>
+      <prop type="next">Yandex Translate</prop>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Yandex Translate&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T081304Z" creationid="Michael Motzkus" creationdate="20180918T081304Z">
+        <seg>&lt;p0&gt;Maschinelle Übersetzung&lt;/p0&gt; &lt;s1&gt;Yandex Translate&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
