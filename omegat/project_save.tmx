@@ -12011,6 +12011,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T171805Z" creationid="Michael Motzkus" creationdate="20180918T171805Z">
+        <seg>Autovervollständigung kann im Zielsegment mit dem Tastaturkürzel &lt;e0&gt;Strg + Leertaste&lt;/e0&gt; aufgerufen werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completion</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T170948Z" creationid="Michael Motzkus" creationdate="20180918T170948Z">
@@ -13785,6 +13793,22 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T171637Z">
         <seg>Auf das Menüelement '{0}'  klicken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T171454Z" creationid="Michael Motzkus" creationdate="20180918T171454Z">
+        <seg>Klicken Sie auf &lt;g0&gt;Auto-text...&lt;/g0&gt;, um die Autotext-Optionen zu konfigurieren und Einträge hinzuzufügen oder zu entfernen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Character Table...&lt;/g0&gt; to set the Character table auto-completer options.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T171652Z" creationid="Michael Motzkus" creationdate="20180918T171652Z">
+        <seg>Click on &lt;g0&gt;Zeichentabelle...&lt;/g0&gt;, um die Optionen für Zeichentabellen-Autovervollständigung zu konfigurieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21854,6 +21878,14 @@ menu, a prominent item in the list meets this criterion.</seg>
         <seg>If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T172150Z" creationid="Michael Motzkus" creationdate="20180918T172150Z">
+        <seg>Wenn die Option &lt;e0&gt;Relevante Empfehlungen automatisch anzeigen&lt;/e0&gt; aktiviert ist, wird die Autovervollständigung beim Tippen des ersten Buchstabens eines übersetzten Glossareintrags oder "&lt;" im Fall von Tags automatisch gestartet.</seg>
       </tuv>
     </tu>
     <tu>
