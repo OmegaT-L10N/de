@@ -26045,6 +26045,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T174240Z" creationid="Michael Motzkus" creationdate="20180918T174240Z">
+        <seg>Sie erlaubt Ihnen auch, verschiedene Optionen zur Tagprüfung zu konfigurieren und benutzerdefinierte Tags zu erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also contains installation instructions.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T085402Z">
@@ -39898,8 +39906,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Tag Processing...</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090457Z" creationid="Michael Motzkus" creationdate="20180912T090457Z">
-        <seg>Tag-Verarbeitung...</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T173807Z" creationid="Michael Motzkus" creationdate="20180912T090457Z">
+        <seg>Tagprüfung...</seg>
       </tuv>
     </tu>
     <tu>
@@ -50931,6 +50939,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T133944Z">
         <seg>Wird zwischen RTL und LTR Sprachen übersetzt, wird der Übersetzer wahrscheinlich oft zwischen LTR und RTL-Modi wechseln müssen, um die Tags in der Quelle richtig zu lesen und sie in der Zielsprache richtig einzugeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When translating software-related files: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T174013Z" creationid="Michael Motzkus" creationdate="20180918T174013Z">
+        <seg>Übersetzen von softwarebezogenen Dateien: Erlaubt Ihnen, die Tagprüfungsoptionen so zu konfigurieren, dass auch Programmiervariablen (%...) überprüft werden.</seg>
       </tuv>
     </tu>
     <tu>
