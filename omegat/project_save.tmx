@@ -21825,6 +21825,15 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>There ssems to be no option "Use Terms Appearing Separately in the Source Text" in OmegaT 3.6, in OmegaT 4.5.5_1 :: de it is still untranslated.</note>
+      <tuv lang="EN">
+        <seg>If &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; option is ON, the glossary entry "itema itemb" will be found in the source text "itema other word itemb".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T162243Z" creationid="Michael Motzkus" creationdate="20180918T162243Z">
+        <seg>Wenn die Option &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; aktiviert ist, wird der Glossareintrag "itema itemb" im Quelltext als "itema other word itemb" gefunden.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
