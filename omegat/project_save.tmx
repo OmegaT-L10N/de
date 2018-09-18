@@ -2762,6 +2762,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T062503Z" creationid="Michael Motzkus" creationdate="20180918T062503Z">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.</seg>
       </tuv>
       <tuv lang="DE">
@@ -3673,6 +3681,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130602T193006Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; erstellt auch Sicherheitskopien nach &lt;f1&gt;project_save.tmx.YEARMMDDHHNN.bak&lt;/f1&gt; im gleichen Unterordner jedes Mal. wenn ein Projekt geöffnet oder neu geladen wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; contains the Java JRE 1.8</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T062517Z" creationid="Michael Motzkus" creationdate="20180918T062517Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; enthält die Java JRE 1.8</seg>
       </tuv>
     </tu>
     <tu>
@@ -9409,6 +9425,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T080216Z">
         <seg>Fortgeschrittene Nutzer können mehr Informationen erhalten, wenn sie &lt;e0&gt;man java&lt;/e0&gt; ins Terminalfenster eintippen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advice: if OmegaT works slowly in Remote Desktop sessions under Windows, you may use this option:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T062500Z" creationid="Michael Motzkus" creationdate="20180918T062500Z">
+        <seg>Rat: Wenn OmegaT in Remote Desktop-Sitzungen unter Windows langsam arbeitet, können Sie diese Option benutzen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49290,6 +49314,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T062334Z" creationid="BVB" creationdate="20180904T062334Z">
         <seg>Sie können die Formatierung von Absätzen im Wesentlichen dadurch verbessern, dass Sie ganze Absätze in MS Word kopieren und über sich selbst einfügen, so dass der gesamte Absatz die Formatierung des ersten Zeichens annimmt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;Configuration.properties&lt;/e1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T062929Z" creationid="Michael Motzkus" creationdate="20180918T062929Z">
+        <seg>Sie können das Verhalten von OmegaT ändern, indem Sie die &lt;e0&gt;Eigenschaften&lt;/e0&gt; sowie die Datei &lt;e1&gt;configuration.properties&lt;/e1&gt; im Paket bearbeiten.</seg>
       </tuv>
     </tu>
     <tu>
