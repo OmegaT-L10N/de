@@ -21983,6 +21983,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T144930Z" creationid="Michael Motzkus" creationdate="20180918T144930Z">
+        <seg>Wenn aktiviert, werden geschützte Leerzeichen mit einem grauen Hintergrund angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T130545Z">
@@ -22003,6 +22011,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Wenn aktiviert, werden Quell-Segmente angezeigt und grün gekennzeichnet. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in /tm/auto for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T145446Z" creationid="Michael Motzkus" creationdate="20180918T145446Z">
+        <seg>Wenn diese Option aktiviert ist, wird der Hintergrund aller Segmente, in denen das Zielsegment automatisch ausgefüllt wurde (z. B. von TMX in /tm/auto), farbig angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22035,6 +22051,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Wenn aktiviert, werden nicht übersetzte Segmente violett gekennzeichnet. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, white spaces will be displayed with a small dot.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T145230Z" creationid="Michael Motzkus" creationdate="20180918T145230Z">
+        <seg>Wenn aktiviert, werden (typografische) Weißräume mit einem kleinen Punkt angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41501,6 +41525,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The colours are displayed as long as the "Save auto-populated status" (in Options/Editing behaviour..) option is checked.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T145715Z" creationid="Michael Motzkus" creationdate="20180918T145715Z">
+        <seg>Die Farben werden so lange angezeigt, wie "Status automatisch übersetzter Segmente speichern" (unter Optionen / Bearbeitungsverhalten ...) aktiviert ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command is case-sensitive.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T072629Z" creationid="BVB" creationdate="20180905T072629Z">
@@ -46247,6 +46279,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130510T090204Z">
         <seg>Diese Option ermöglicht es Ihnen, die Übersetzung einzufügen, ohne dass der Quelltext entfernt werden muss und dadurch zwei Schritte mit den Tasten (&lt;e0&gt;Strg+A &lt;/e0&gt;und &lt;e1&gt;Entf) überflüssig macht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T145316Z" creationid="Michael Motzkus" creationdate="20180918T145316Z">
+        <seg>Diese Option zeigt &lt;u0&gt;bidirektionale Steuerzeichen&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56665,6 +56705,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T145319Z" creationid="Michael Motzkus" creationdate="20180918T145319Z">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://sourceforge.net/projects/omegat-plugins/files</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T085902Z">
@@ -56901,6 +56949,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T073046Z">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T145233Z" creationid="Michael Motzkus" creationdate="20180918T145233Z">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
       </tuv>
     </tu>
     <tu>
