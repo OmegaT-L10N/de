@@ -5683,6 +5683,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;D&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082714Z" creationid="Michael Motzkus" creationdate="20180918T082714Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;D&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
@@ -13483,6 +13491,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082448Z" creationid="Michael Motzkus" creationdate="20180918T082448Z">
+        <seg>Ein Klick auf eines speichert das aktuelle Projekt, schließt es und öffnet das andere Projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on the text in question will display a text box and formatting marks.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T053459Z" creationid="BVB" creationdate="20180905T053459Z">
@@ -14487,6 +14503,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated Document</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082650Z" creationid="Michael Motzkus" creationdate="20180918T082608Z">
+        <seg>Aktuell übersetztes Projekt erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Current Translated Documents</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T064941Z" creationid="BVB" creationdate="20180829T064941Z">
@@ -14639,10 +14663,26 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082121Z" creationid="Michael Motzkus" creationdate="20180918T082121Z">
+        <seg>Erstellt eine lokale Kopie eines entfernten OmegaT-Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creates and opens a new project.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Erzeugt und öffnet ein neues Projekt. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates the target document corresponding to the current document in translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082833Z" creationid="Michael Motzkus" creationdate="20180918T082833Z">
+        <seg>Erstellt das dem aktuell übersetzten Dokument entsprechende Zieldokument.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16555,6 +16595,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download Team Project...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082053Z" creationid="Michael Motzkus" creationdate="20180918T082053Z">
+        <seg>Team Project herunterladen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download and install the Java Development Kit (JDK)</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180901T081515Z" creationid="BVB" creationdate="20180901T081515Z">
@@ -16631,6 +16679,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130524T185453Z">
         <seg>Das richtige Paket herunterladen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloads units from MediaWiki pages, based on the URL entered.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082552Z" creationid="Michael Motzkus" creationdate="20180918T082552Z">
+        <seg>Lädt auf Basis der eingegeben URL Teile von MediaWiki-Seiten herunter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20039,6 +20095,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T180331Z">
         <seg>Starten der Ausführung von Git '{0}' </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Give access to the five last edited projects.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082353Z" creationid="Michael Motzkus" creationdate="20180918T082315Z">
+        <seg>Bietet Zugriff auf die letzten fünf bearbeiteten Projekte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29096,6 +29160,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082025Z" creationid="Michael Motzkus" creationdate="20180918T082025Z">
+        <seg>Neu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130522T185628Z">
@@ -31997,6 +32069,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082126Z" creationid="Michael Motzkus" creationdate="20180918T082126Z">
+        <seg>Öffnen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T143325Z">
@@ -32071,8 +32151,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="EN">
         <seg>Opens a previously created project.</seg>
       </tuv>
-      <tuv lang="DE">
-        <seg>Öffnet ein zuvor geschaffenes Projekt. </seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082327Z">
+        <seg>Öffnet ein zuvor erstelltes Projekt. </seg>
       </tuv>
     </tu>
     <tu>
