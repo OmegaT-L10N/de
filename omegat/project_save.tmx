@@ -21825,6 +21825,14 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T163044Z" creationid="Michael Motzkus" creationdate="20180918T163044Z">
+        <seg>Wenn die Option &lt;g0&gt;Stammformreduktion für Glossareinträge nutzen&lt;/g0&gt; bei einem englischen Quelltext EINGESCHALTET ist, wird der Glossareintrag "element" angezeigt, wenn der Quelltext "elements" enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>There ssems to be no option "Use Terms Appearing Separately in the Source Text" in OmegaT 3.6, in OmegaT 4.5.5_1 :: de it is still untranslated.</note>
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; option is ON, the glossary entry "itema itemb" will be found in the source text "itema other word itemb".</seg>
@@ -22759,6 +22767,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T080636Z">
         <seg>Wenn die Sprache des Systems des Benutzers nicht verfügbar ist, nimmt &lt;a6&gt;OmegaT&lt;/a6&gt; als Standard die englische Sprache. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the option is OFF, the glossary entry above will not be found.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T162346Z" creationid="Michael Motzkus" creationdate="20180918T162346Z">
+        <seg>Wenn die Option AUSGESCHALTET ist, wird der oben genannte Glossareintrag nicht gefunden.</seg>
       </tuv>
     </tu>
     <tu>
