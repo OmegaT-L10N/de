@@ -5699,6 +5699,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T152847Z" creationid="Michael Motzkus" creationdate="20180918T152847Z">
+        <seg>&lt;g0&gt;Strg + Umschalt + V&lt;/g0&gt;: prüft auf fehlende oder falsch gesetzte Tags in formatierten Dateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Ctrl+T&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
@@ -13018,6 +13026,15 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Menu entry "Automatically Fetch Translations"  isn't translated yet in OmegaT 4.1.5_1 :: de.</note>
+      <tuv lang="EN">
+        <seg>By unchecking &lt;e0&gt;Automatically Fetch Translations&lt;/e0&gt; option, machine translations will be fetched only upon invoking &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; (&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; on OS X) on the current segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T154132Z" creationid="Michael Motzkus" creationdate="20180918T154132Z">
+        <seg>Durch Deaktivieren der Option &lt;e0&gt;Übersetzungen automatisch abrufen&lt;/e0&gt; werden maschinelle Übersetzungen nur nach Drücken von &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; (&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; auf OS X) im aktuellen Segment abgerufen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
@@ -16572,6 +16589,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T153107Z" creationid="Michael Motzkus" creationdate="20180918T153107Z">
+        <seg>Zeigt die Trefferstatistik für jede Datei des Projekts an: Anzahl der Wiederholungen, genaue Treffer, unscharfe Treffer und kein-Treffer für Segmente, Wörter und Zeichen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T133601Z">
@@ -19398,6 +19423,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180906T070809Z" creationid="BVB" creationdate="20180906T070809Z">
         <seg>Um OmegaT aus dem Quelltext zu erstellen, schauen Sie sich das &lt;a0&gt;HowTo OmegaT aus den Quellen kompilieren&lt;/a0&gt; an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T153358Z" creationid="Michael Motzkus" creationdate="20180918T153358Z">
+        <seg>Aus Gründen der Vertraulichkeit möchten Sie möglicherweise nicht alle Segmente an das maschinelle Übersetzungsprogramm senden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32774,6 +32807,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens a dialog box where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut (see &lt;l0&gt;Scripts window&lt;/l0&gt;)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T153321Z" creationid="Michael Motzkus" creationdate="20180918T153321Z">
+        <seg>Öffnet ein Dialogfeld, in dem der Speicherort von Skripten festgelegt werden kann und wo Skripte geschrieben, ausgeführt und einer Verknüpfung zugeordnet werden können (siehe &lt;l0&gt;Skriptfenster&lt;/l0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T101902Z" creationid="Michael Motzkus" creationdate="20180918T101902Z">
@@ -36313,6 +36354,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Same as above, but only for the current document in translation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T152944Z" creationid="Michael Motzkus" creationdate="20180918T152944Z">
+        <seg>Das Gleiche wie oben, aber nur für das aktuell übersetzte Dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samoan</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140130T161904Z">
@@ -36654,6 +36703,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140304T204152Z">
         <seg>Das Scripting-Plug-in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T153115Z" creationid="Michael Motzkus" creationdate="20180918T153115Z">
+        <seg>Skripting</seg>
       </tuv>
     </tu>
     <tu>
