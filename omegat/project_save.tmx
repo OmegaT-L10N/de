@@ -5875,6 +5875,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;K&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T101834Z" creationid="Michael Motzkus" creationdate="20180918T101834Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;K&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;L&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T160349Z">
@@ -13255,6 +13263,15 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Ändert den gekennzeichneten Text im Zieltext wie gewünscht (zu klein geschrieben, groß geschrieben oder als Titel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Added a comment (Anmerkung) from the translator because no one can understand the translation in parentheses, </note>
+      <tuv lang="EN">
+        <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T103825Z" creationid="Michael Motzkus" creationdate="20180918T103825Z">
+        <seg>Ändert die Groß - / Kleinschreibung des markierten Texts im Zielsegment zur gewählten Option (Kleinschreibung, Großschreibung, Groß/klein oder Sentence case). Anmerkung des Übersetzers: Kleinschreibung = alle Buchstaben klein, Großschreibung = alle Buchstaben groß, Groß-/klein = alle Wörter beginnen mit einem Großbuchstaben, Sentence case  = erster Buchstabe eines Satzes groß, alle anderen Buchstaben des Satzes klein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23624,6 +23641,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T102026Z" creationid="Michael Motzkus" creationdate="20180918T102026Z">
+        <seg>Wenn Sie (in irgendeinem Bereich) eine Textzeichenfolge auswählen bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g3&gt;Suchen nach&lt;/g3&gt; eingefügt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092338Z" creationid="Michael Motzkus" creationdate="20180918T092338Z">
@@ -32597,6 +32622,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T101902Z" creationid="Michael Motzkus" creationdate="20180918T101902Z">
+        <seg>Öffnet ein neues &lt;l0&gt;Suchen und Ersetzen-Fenster&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T123827Z">
@@ -39205,6 +39238,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130504T155453Z">
         <seg>in Großschreibung ändern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch case to</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T102150Z" creationid="Michael Motzkus" creationdate="20180918T102150Z">
+        <seg>Groß- / Kleinschreibung ändern</seg>
       </tuv>
     </tu>
     <tu>
