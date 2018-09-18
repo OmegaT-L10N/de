@@ -382,6 +382,14 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># MyMemory email</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T075156Z" creationid="Michael Motzkus" creationdate="20180918T075156Z">
+        <seg># MyMemory email</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154059Z">
@@ -2860,6 +2868,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T174254Z" creationid="BVB" creationdate="20180904T174254Z">
         <seg>-Dgoogle.api.key=XXXXXXXX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dmymemory.api.email=your@email-address.com</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T075334Z" creationid="Michael Motzkus" creationdate="20180918T075334Z">
+        <seg>-Dmymemory.api.email=ihre@email-adresse.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -28824,6 +28840,22 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MyMemory provides also &lt;e0&gt;Human translations&lt;/e0&gt; originating from professional translators, LSPs, customers and multilingual web content.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T075615Z" creationid="Michael Motzkus" creationdate="20180918T075615Z">
+        <seg>MyMemory bietet auch &lt;e0&gt;menschliche Übersetzungen&lt;/e0&gt; von professionellen Übersetzern, LSPs, Kunden und mehrsprachigem Webinhalt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory your@email-address.com</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T075228Z" creationid="Michael Motzkus" creationdate="20180918T075228Z">
+        <seg>MyMemory ihre@email-adresse.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Māori</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T082203Z">
@@ -46272,6 +46304,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To get these translations, you must upload your source file &lt;u1&gt;on their site&lt;/u1&gt; that generates a TMX file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T075756Z" creationid="Michael Motzkus" creationdate="20180918T075756Z">
+        <seg>Um diese Übersetzungen zu bekommen, müssen Sie die Quelldatei &lt;u1&gt;auf deren Webseite&lt;/u1&gt; hochladen, die die TMX-Datei erstellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To identify yourself as a valid user for the Google services, you use your private unique key sent to you by Google, when you have registered for the service.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T154359Z">
@@ -49591,6 +49631,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T090304Z">
         <seg>Wenn im Modus Konsole gestartet wird kein GUI geladen (es wird in jeder Konsole arbeiten) und das vorhandene Projekt wird automatisch verarbeitet, wie verlangt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When starting OmegaT from the command line, specify in the command:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T075318Z" creationid="Michael Motzkus" creationdate="20180918T075318Z">
+        <seg>Wenn Sie OmegaT von der Kommandozeile starten, geben Sie dieses Kommando ein:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55648,6 +55696,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://mymemory.translated.net/</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T075448Z" creationid="Michael Motzkus" creationdate="20180918T075448Z">
+        <seg>http://mymemory.translated.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://omegat.sourceforge.net/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T065158Z">
@@ -56372,6 +56428,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130529T084725Z">
         <seg>in regulären Ausdrücken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in the Kaptain launcher (Linux only), enter the address in the corresponding field on the "Online Services" tab.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T075446Z" creationid="Michael Motzkus" creationdate="20180918T075446Z">
+        <seg>Im Kaptain-Starter (nur Linux), geben Sie die Adresse in das entsprechende Feld im Tab "Online Services" ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in the OmegaT.l4J.ini file (Windows only), change:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T075153Z" creationid="Michael Motzkus" creationdate="20180918T075153Z">
+        <seg>In der Datei OmegaT.l4J.ini andern Sie (nur Windows):</seg>
       </tuv>
     </tu>
     <tu>
