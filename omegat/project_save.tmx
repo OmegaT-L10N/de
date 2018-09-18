@@ -18283,6 +18283,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (without the #) will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T064512Z" creationid="Michael Motzkus" creationdate="20180918T064512Z">
+        <seg>Zum Beispiel: &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (ohne die #) startet &lt;a2&gt;OmegaT&lt;/a2&gt; mit der japanischen Benutzeroberfläche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130512T194330Z">
@@ -18539,6 +18547,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, &lt;string&gt;-Xmx2048M&lt;/string&gt; will launch OmegaT with 2 gigas of memory.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T064730Z" creationid="Michael Motzkus" creationdate="20180918T064730Z">
+        <seg>Zum Beispiel: &lt;string&gt;-Xmx2048M&lt;/string&gt; startet OmegaT mit 2 Gigabyte Arbeitsspeicher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130512T171539Z">
@@ -18599,6 +18615,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T104200Z" creationid="BVB" creationdate="20180826T104200Z">
         <seg>Für die meisten Benutzer sind sie uninteressant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For pre-defined options, remove the # before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T064401Z" creationid="Michael Motzkus" creationdate="20180918T064401Z">
+        <seg>Für vordefinierte Optionen entfernen Sie die # vor einem Parameter, um sie zu aktivieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30731,6 +30755,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T162213Z">
         <seg>Menü "Optionen"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;e0&gt;Configuration.properties&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T064238Z" creationid="Michael Motzkus" creationdate="20180918T064238Z">
+        <seg>Optionen werden durch Modifizieren von &lt;e0&gt;Configuration.properties&lt;/e0&gt; geändert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44216,6 +44248,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and change the content of &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T064637Z" creationid="Michael Motzkus" creationdate="20180918T064637Z">
+        <seg>Um die verfügbare Menge an Arbeitsspeicher zu ändern, bearbeiten Sie die Datei &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; und ändern Sie den Inhalt von &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T152649Z">
@@ -44588,6 +44628,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T055751Z">
         <seg>Um mehrere Ausgaben von &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; zu starten, doppelklicken Sie auf die Datei &lt;e2&gt;JavaApplicationStub&lt;/e2&gt;, die sich in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt; befindet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T064831Z" creationid="Michael Motzkus" creationdate="20180918T064831Z">
+        <seg>Um mehrere Instanzen von &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; zu starten, klicken Sie doppelt auf die Datei &lt;e2&gt;OmegaT.sh&lt;/e2&gt; in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48927,6 +48975,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T094538Z">
         <seg>Sie können die Dateien später hinzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;Configuration.properties&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T064151Z" creationid="Michael Motzkus" creationdate="20180918T064124Z">
+        <seg>Sie kommen auch direkt mit "cd" von der Kommandozeile aus in den Ordner und &lt;a4&gt;&lt;e5&gt;&gt;Configuration.properties&lt;/e5&gt; mit einem Editor wie emacs oder vi&lt;/a4&gt; öffnen.</seg>
       </tuv>
     </tu>
     <tu>
