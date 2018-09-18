@@ -2406,6 +2406,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Ctrl+M (or Command+M on Mac) will replace the current segment translation with that machine translation.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T095657Z" creationid="Michael Motzkus" creationdate="20180918T095646Z">
+        <seg>- Strg + M (oder Command+M auf dem Mac) ersetzt die aktuelle Segmentübersetzung mit der Maschinellen Übersetzung.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- DTD files (*.DTD)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095452Z">
@@ -2796,6 +2804,14 @@ Translated to singular.</note>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095649Z">
         <seg>- WiX Localization (*.wxl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- You can check your usage limit in your account by accessing the above page.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T100116Z" creationid="Michael Motzkus" creationdate="20180918T095830Z">
+        <seg>- Wenn Sie die oben genannte Seite aufrufen, können Sie Ihr Nutzungslimit in Ihrem Konto überprüfen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4207,6 +4223,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130515T164009Z">
         <seg>&lt;a0&gt;Sie können OmegaT&lt;/a0&gt; zum Übersetzen von Dateien in einer Reihe von Formaten benutzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/account/datasets&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T095806Z" creationid="Michael Motzkus" creationdate="20180918T095806Z">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/account/datasets&lt;/a0&gt; &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14615,6 +14639,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Will Helton and OmegaT Japanese Localization Team 2012-2015&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T100350Z" creationid="Michael Motzkus" creationdate="20180918T100350Z">
+        <seg>Copyright Will Helton und OmegaT Japanese Localization Team 2012-2015&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright information</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T105842Z" creationid="BVB" creationdate="20180905T105842Z">
@@ -21215,6 +21247,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T091057Z" creationid="BVB" creationdate="20180826T083527Z">
         <seg>Wie Wordpress-XLiff-Dateien übersetzt werden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How will I know when I reach my monthly usage limit?</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T100003Z" creationid="Michael Motzkus" creationdate="20180918T095803Z">
+        <seg>Woher weiß ich, wann ich mein monatliches Nutzungslimit erreiche?</seg>
       </tuv>
     </tu>
     <tu>
@@ -40198,6 +40238,14 @@ control those activities.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T095300Z" creationid="BVB" creationdate="20180826T095300Z">
         <seg>Die "Standard"-Version von OmegaT beinhaltet ein vollständiges Benutzerhandbuch und wird für gewöhnlich einige Zeit getestet worden sein, um Fehler zu beseitigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Status" field displays the limit like as "1,998,890 Characters remaining" for example.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T100240Z" creationid="Michael Motzkus" creationdate="20180918T100228Z">
+        <seg>Das Stausfeld zeigt das Limit an, wie zum Beispiel "1.998.890 Zeichen verbleiben".&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -63316,8 +63364,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>   - If you find a message including "Bad Request" in Machine Translation window, check if the values "Client ID" and "Client secret" are appropriate.&lt;br4/&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T095533Z" creationid="Michael Motzkus" creationdate="20180918T095533Z">
-        <seg>   - Wenn Sie eine Meldung mit dem Inhalt "Ungültige Anfrage" erhalten, prüfen Sie, ob die Werte "Client ID" und "Client Secret" stimmen.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T095549Z" creationid="Michael Motzkus" creationdate="20180918T095533Z">
+        <seg>   - Wenn Sie eine Meldung mit dem Inhalt "Ungültige Anfrage" erhalten, prüfen Sie, ob die Werte "Client ID" und "Client Secret" stimmen.&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
