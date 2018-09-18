@@ -6035,10 +6035,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;S&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T104924Z" creationid="Michael Motzkus" creationdate="20180918T104924Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;S&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T084311Z" creationid="Michael Motzkus" creationdate="20180918T084311Z">
         <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;U&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T105327Z" creationid="Michael Motzkus" creationdate="20180918T105327Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;U&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15848,6 +15864,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Define the translation as being empty.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T104724Z" creationid="Michael Motzkus" creationdate="20180918T104724Z">
+        <seg>Definiert die Übersetzung als leer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Definitions.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T131642Z">
@@ -15903,7 +15927,6 @@ unpacking, reading or copying.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Missing s, should be: Deletes the translation and sets </note>
       <tuv lang="EN">
         <seg>Deletes the translation and set the segment as untranslated.</seg>
       </tuv>
@@ -24696,6 +24719,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T104843Z" creationid="Michael Motzkus" creationdate="20180918T104843Z">
+        <seg>Im Editor wird die Übersetzung als &lt;LEER&gt; angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Macro name box, type a name for the macro, such as "levelformat".</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T070427Z" creationid="BVB" creationdate="20180904T065145Z">
@@ -24882,6 +24913,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180901T074107Z" creationid="BVB" creationdate="20180901T074107Z">
         <seg>Genauso können Benutzer von CAT-Tools, einschließlich OmegaT, die Déjà Vu nicht besitzen, Dateien übersetzen, die von einem Déjà Vu-Benutzer erstellt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the target document, nothing will appear for this segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T104749Z" creationid="Michael Motzkus" creationdate="20180918T104749Z">
+        <seg>Im Zieldokument wird in diesem Segment nichts erscheinen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29318,6 +29357,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Bewegt das Editierfeld zum vorherigen Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T105402Z" creationid="Michael Motzkus" creationdate="20180918T105402Z">
+        <seg>Geht zum nächsten schon übersetzten Element, ignoriert unübersetzte Segmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49221,6 +49268,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130527T202015Z">
         <seg>Nutzen Sie die Schaltfläche, um einen Dialog zu öffnen, aktivieren Sie den Kasten &lt;g0&gt;Projektspezifische Segmentierungsregeln&lt;/g0&gt;, und fahren Sie dann fort, die Segmentierungsregeln wie gewünscht zu ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this command to register the translation to be identical to the source, even if "Allow translation to be equal to source" (in Options/Editing Behaviour...) is not checked.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T105250Z" creationid="Michael Motzkus" creationdate="20180918T105250Z">
+        <seg>Verwenden Sie diesen Befehl, um die Übersetzung als identisch mit der Quelle zu registrieren, auch wenn "Die Übersetzung darf mit dem Quellsegment übereinstimmen" (unter Optionen / Bearbeitungsverhalten ...) nicht aktiviert ist.</seg>
       </tuv>
     </tu>
     <tu>
