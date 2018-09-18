@@ -5691,6 +5691,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T083658Z" creationid="Michael Motzkus" creationdate="20180918T083658Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
@@ -5703,6 +5711,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T160426Z">
         <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T083643Z" creationid="Michael Motzkus" creationdate="20180918T083643Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9413,6 +9429,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090532Z" creationid="Michael Motzkus" creationdate="20180912T090532Z">
         <seg>Konfigurationsordner öffnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T082932Z" creationid="Michael Motzkus" creationdate="20180918T082932Z">
+        <seg>Projektdateien zeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -20107,6 +20131,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gives access to the project folders.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T083004Z" creationid="Michael Motzkus" creationdate="20180918T083004Z">
+        <seg>Bietet Zugriff auf den Projektordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T145538Z">
@@ -21928,6 +21960,22 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T083618Z" creationid="Michael Motzkus" creationdate="20180918T083618Z">
+        <seg>Wenn in einem Fuzzy-Match Texte ausgewählt sind, wird nur diese Auswahl an der Cursor-Position eingefügt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T083511Z" creationid="Michael Motzkus" creationdate="20180918T083511Z">
+        <seg>Wenn in einem Fuzzy-Match Texte ausgewählt sind, wird nur diese Auswahl das ganze Zielsegment ersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131205T231040Z">
@@ -22148,6 +22196,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T102540Z" creationid="BVB" creationdate="20180905T102540Z">
         <seg>Wenn das Dokument, das Sie übersetzen, sie enthält, bitte &lt;s0&gt;nicht&lt;/s0&gt; die GPL (GNU Public License) oder die GFDL (GNU Free Documentation License) übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the documents are not available, the entry is greyed out.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T083359Z" creationid="Michael Motzkus" creationdate="20180918T083359Z">
+        <seg>Wenn die Dokumente nicht verfügbar sind, ist dieser Eintrag ausgegraut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23744,6 +23800,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T023703Z" creationid="Michael Motzkus" creationdate="20180912T023703Z">
         <seg>Zusätzlich enthält das Paket &lt;a0&gt;te-scripts.zip&lt;/a0&gt; einige sehr einfache Tcl/Tk-Skripte, die die Verwendung der Funktion veranschaulichen sollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T083156Z" creationid="Michael Motzkus" creationdate="20180918T083156Z">
+        <seg>Zusätzlich erlauben zwei Menüeinträge das direkte Öffnen des aktuellen Quell- und Zieldokuments und des beschreibbaren Glossars.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38755,8 +38819,8 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert Match or Selection &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180829T062133Z" creationid="BVB" creationdate="20180829T061855Z">
-        <seg>UmschaltSystemweite Kommandos alles Auswählen (&lt;k0&gt;Strg+A&lt;/k0&gt;), einfügen (&lt;e1&gt;Strg+V&lt;/e1&gt;), ausschneiden (&lt;e2&gt;Strg+X&lt;/e2&gt;), kopieren (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Treffer oder Auswahl einfügen &lt;e4&gt;(Strg+I&lt;/e4&gt;) und Quelle einfügen (&lt;e5&gt;Ctrl+Umschalt+I&lt;/e5&gt;) funktionieren pinzipiell nur auf den Text innerhalb des gerade geöffneten Segments.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T083935Z" creationid="BVB" creationdate="20180829T061855Z">
+        <seg>Systemweite Kommandos alles Auswählen (&lt;k0&gt;Strg + A&lt;/k0&gt;), einfügen (&lt;e1&gt;Strg + V&lt;/e1&gt;), ausschneiden (&lt;e2&gt;Strg + X&lt;/e2&gt;), kopieren (&lt;e3&gt;Ctrl + C)&lt;/e3&gt;, Treffer oder Auswahl einfügen &lt;e4&gt;(Strg + I&lt;/e4&gt;) und Quelle einfügen (&lt;e5&gt;Ctrl + Umschalt+I&lt;/e5&gt;) funktionieren pinzipiell nur auf dem Text innerhalb des gerade geöffneten Segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41218,6 +41282,14 @@ instead.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140304T202616Z">
         <seg>The documentation is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. [Nicht rechtskräftig:] Die Dokumentation wird in der Hoffnung verbreitet, dass sie nützlich ist, jedoch OHNE JEGLICHE GEWÄHRLEISTUNG; selbst ohne die implizite GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documents are opened by the application chosen by the operating system.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T083253Z" creationid="Michael Motzkus" creationdate="20180918T083253Z">
+        <seg>Die Dokumente werden mit der Anwendung geöffnet, die das Betriebssystem auswählt.</seg>
       </tuv>
     </tu>
     <tu>
