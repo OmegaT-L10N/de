@@ -6155,6 +6155,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;F1:&lt;/k0&gt; Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T181352Z" creationid="Michael Motzkus" creationdate="20180918T181352Z">
+        <seg>&lt;k0&gt;F1:&lt;/k0&gt; Öffnet dieses Handbuch im Standardwebbrowser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl+C&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T160444Z">
@@ -27262,8 +27270,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Language Checker</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130630T161642Z">
-        <seg>Sprach-Checker</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T181136Z">
+        <seg>LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -50907,6 +50915,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T152954Z">
         <seg>Wenn Sie Dateien durchsuchen (und nicht translation memories), beschränkt &lt;a0&gt;OmegaT&lt;/a0&gt; die Suche auf Dateien im Format der Quelldateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When selected, LanguageTool checks the translations, and underline potential issues in blue.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T181312Z" creationid="Michael Motzkus" creationdate="20180918T181312Z">
+        <seg>Wenn ausgewählt, überprüft LanguageTool die Übersetzungen und unterstreicht mögliche Probleme blau.</seg>
       </tuv>
     </tu>
     <tu>
