@@ -382,6 +382,54 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T093715Z" creationid="Michael Motzkus" creationdate="20180918T093715Z">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T094319Z" creationid="Michael Motzkus" creationdate="20180918T094319Z">
+        <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+-Dmicrosoft.api.client_id=my_clientid1
+-Dmicrosoft.api.client_secret=your Client secret</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T094028Z" creationid="Michael Motzkus" creationdate="20180918T094028Z">
+        <seg># Microsoft Translator credentials
+-Dmicrosoft.api.client_id=my_clientid1
+-Dmicrosoft.api.client_secret=your Client secret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T094354Z" creationid="Michael Motzkus" creationdate="20180918T094354Z">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># MyMemory email</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T075156Z" creationid="Michael Motzkus" creationdate="20180918T075156Z">
@@ -2246,6 +2294,38 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Add the following options to launch OmegaT (where Client ID: my_clientid1)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T094505Z" creationid="Michael Motzkus" creationdate="20180918T094505Z">
+        <seg>- Fügen Sie die folgenden Optionen zu, um OmegaT zu starten (Client ID: my_clientid1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T093759Z" creationid="Michael Motzkus" creationdate="20180918T093759Z">
+        <seg>- Nach dem Bearbeien der OmegaT.l4J.ini (Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After editing OmegaT.sh (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T094347Z" creationid="Michael Motzkus" creationdate="20180918T094347Z">
+        <seg>- Nach dem Bearbeien von OmegaT.sh (Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After registering, check if your application has been displayed on the "Registered Applications" in the page.&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T093359Z" creationid="Michael Motzkus" creationdate="20180918T093359Z">
+        <seg>- Prüfen Sie nach der Registrierung, ob Ihre Anwendung auf der Seite "Registrierte Anwendungen" angezeigt wird.&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T150803Z" creationid="BVB" creationdate="20180905T150803Z">
@@ -2258,6 +2338,22 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095613Z">
         <seg>- Android resource (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T093712Z" creationid="Michael Motzkus" creationdate="20180918T093712Z">
+        <seg>- Vor dem Bearbeiten der OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.sh&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T094317Z" creationid="Michael Motzkus" creationdate="20180918T094317Z">
+        <seg>- Vor dem Bearbeiten von OmegaT.sh&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,6 +2426,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095408Z">
         <seg>- Kodierter Text (*.UTF8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and edit the following lines with your preferred plain-text editor:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T094255Z" creationid="Michael Motzkus" creationdate="20180918T094255Z">
+        <seg>- Finden Sie die Datei OmegaT.app/Contents/MacOS/OmegaT.sh und bearbeiten Sie die folgenden Zeilen mit Ihrem bevorzugten reinen Texteditor:&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2430,6 +2534,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T093646Z" creationid="Michael Motzkus" creationdate="20180918T093646Z">
+        <seg>- Finden Sie die Datei OmegaT.l4J.ini (im OmegaT-Programmordner) und bearbeiten Sie die folgenden Zeilen mit Ihrem bevorzugten reinen Texteditor:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Magento CE Locale CSV (*.csv)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095520Z">
@@ -2442,6 +2554,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095555Z">
         <seg>- Microsoft Open XML (*.docx, *.xlsx, *.pptx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- OmegaT uses "Client ID" and "Client secret" information of which you registered.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T093526Z" creationid="Michael Motzkus" creationdate="20180918T093526Z">
+        <seg>- OmegaT benutzt "Client ID"- und "Client secret"-Information, welche Sie registriert haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,10 +2622,42 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Remove "#" at the line heads, and replace "xxxxx" with your "Client ID" and "Client secret."&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T094024Z" creationid="Michael Motzkus" creationdate="20180918T094024Z">
+        <seg>- Entfernen Sie "#" am Zeilenanfang und ersetzen Sie "xxxxx" mit Ihrer "Client ID" und Ihrem "Client-Passwort."&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- ResX files (*.resx)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095611Z">
         <seg>- ResX files (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Right-click on OmegaT.app and select "Show Package Contents."&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T094138Z" creationid="Michael Motzkus" creationdate="20180918T094114Z">
+        <seg>Klicken Sie mit der rechten Maustaste auf OmegaT.app und wählen Sie "Paketinhalt anzeigen".&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.l4J.ini.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T094043Z" creationid="Michael Motzkus" creationdate="20180918T094043Z">
+        <seg>- Speichern Sie die OmegaT.l4J.ini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T094410Z" creationid="Michael Motzkus" creationdate="20180918T094410Z">
+        <seg>Speichern Sie OmegaT.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4041,6 +4193,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a14&gt;https://datamarket.azure.com/developer/applications&lt;/a14&gt; &lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T093412Z" creationid="Michael Motzkus" creationdate="20180918T093412Z">
+        <seg>&lt;a14&gt;https://datamarket.azure.com/developer/applications&lt;/a14&gt; &lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T132950Z" creationid="BVB" creationdate="20180826T132950Z">
@@ -4301,6 +4461,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T152902Z">
         <seg>&lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T093649Z" creationid="Michael Motzkus" creationdate="20180918T093649Z">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T093408Z" creationid="Michael Motzkus" creationdate="20180918T093408Z">
+        <seg>&lt;br13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31341,6 +31517,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T121802Z" creationid="BVB" creationdate="20180826T121802Z">
         <seg>OmegaT läuft auf jedem Betriebssystem, auf dem eine geeignete Version der Java Runtime Environment (JRE) ausgeführt werden kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT setting</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T093425Z" creationid="Michael Motzkus" creationdate="20180918T093425Z">
+        <seg>OmegaT-Einstellung</seg>
       </tuv>
     </tu>
     <tu>
@@ -63066,8 +63250,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>   - Client ID: Any string ex.) my_clientid1&lt;br8/&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092801Z" creationid="Michael Motzkus" creationdate="20180918T092734Z">
-        <seg>   - Client ID: Eine Zeichenkette, z. B. meine_clientid1&lt;br8/&gt;</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092931Z" creationid="Michael Motzkus" creationdate="20180918T092734Z">
+        <seg>   - Client ID: Eine Zeichenfolge, z. B. meine_clientid1&lt;br8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -63082,8 +63266,16 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092832Z" creationid="Michael Motzkus" creationdate="20180918T092832Z">
-        <seg>   - Name: Eine Zeichenkette, z. B. meine_anwendung01&lt;br9/&gt;</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092943Z" creationid="Michael Motzkus" creationdate="20180918T092832Z">
+        <seg>   - Name: Eine Zeichenfolge, z. B. meine_anwendung01&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Redirect URI: Any URI (Invalid URL required when using Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T093300Z" creationid="Michael Motzkus" creationdate="20180918T093149Z">
+        <seg>   - Redirect URI / Umleitungs-URI: Irgendeine URI (Wenn Sie Microsoft Translator benutzen, ist eine UNGÜLTIGE URI erforderlich.), z. B. http://dummy/&lt;br11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
