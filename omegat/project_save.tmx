@@ -6579,6 +6579,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T074054Z" creationid="Michael Motzkus" creationdate="20180918T074054Z">
+        <seg>&lt;p0&gt;Maschinelle Übersetzung&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Troubleshooting&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T201200Z">
@@ -12488,6 +12496,15 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>This is no longer right. MyMemory allows up to 1000 WORDS(!) per day without specifying an e-mail address.</note>
+      <tuv lang="EN">
+        <seg>By default, MyMemory allows a maximum of 100 requests per day.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T074706Z" creationid="Michael Motzkus" creationdate="20180918T074126Z">
+        <seg>Standardmäßig erlaubt MyMemory die Abfrage von 1.000 Wörtern pro Tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
@@ -12557,6 +12574,15 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Indem Sie eine Tag-Gruppe löschen, entfernen Sie die dazu gehörende Formatierung in der übersetzten Datei. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>This is no longer right. MyMemory allows up to 10000 WORDS(!) per day with specifying an e-mail address.</note>
+      <tuv lang="EN">
+        <seg>By specifying an email address, it is possible to use 1000 requests per day instead of 100 ones.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T074947Z">
+        <seg>Durch Angabe einer Emailadresse ist es möglich, 10.000 Wörter pro Tag abzufragen.</seg>
       </tuv>
     </tu>
     <tu>
