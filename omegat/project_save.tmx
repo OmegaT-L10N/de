@@ -2294,6 +2294,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Click [REGISTER] shown below "Registered Applications."&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092627Z" creationid="Michael Motzkus" creationdate="20180918T092627Z">
+        <seg>- Klicken Sie [Registrieren Sie) unten "Anwendung registrieren."&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- DTD files (*.DTD)</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095452Z">
@@ -2482,6 +2490,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130501T095609Z">
         <seg>- QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Register an application with the following infomation:&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092702Z" creationid="Michael Motzkus" creationdate="20180918T092702Z">
+        <seg>- Registrieren Sie eine Anwendung mit den folgenden Informationen:&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4089,6 +4105,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092519Z" creationid="Michael Motzkus" creationdate="20180918T092519Z">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a4&gt;www.tutorialspoint.com/tcl-tk/&lt;/a4&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T042628Z" creationid="Michael Motzkus" creationdate="20180912T042628Z">
@@ -4309,6 +4333,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T150658Z" creationid="BVB" creationdate="20180905T150658Z">
         <seg>&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092523Z" creationid="Michael Motzkus" creationdate="20180918T092523Z">
+        <seg>&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -63028,6 +63060,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T103136Z" creationid="BVB" creationdate="20180905T103105Z">
         <seg>     java -jar OmegaT.jar resource-bundle=[Name des Pakets mit vollen Pfad]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client ID: Any string ex.) my_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092801Z" creationid="Michael Motzkus" creationdate="20180918T092734Z">
+        <seg>   - Client ID: Eine Zeichenkette, z. B. meine_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client secret: Use string displayed by default&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092919Z" creationid="Michael Motzkus" creationdate="20180918T092919Z">
+        <seg>   - Client-Passwort: Verwenden Sie die standardmäßig angezeigte Zeichenfolge&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T092832Z" creationid="Michael Motzkus" creationdate="20180918T092832Z">
+        <seg>   - Name: Eine Zeichenkette, z. B. meine_anwendung01&lt;br9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
