@@ -11140,6 +11140,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An ignored file or folder:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T071331Z" creationid="Michael Motzkus" creationdate="20180919T071331Z">
+        <seg>Ein/e ignorierte/r Datei oder Ordner:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T201823Z" creationid="BVB" creationdate="20180826T201823Z">
@@ -13778,6 +13786,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T172919Z" creationid="karsten" creationdate="20150919T172919Z">
         <seg>Leeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T071257Z" creationid="Michael Motzkus" creationdate="20180919T071257Z">
+        <seg>Klicken Sie auf &lt;g0&gt;Ausnahmen...&lt;/g0&gt;, um Dateien und Ordner festzulegen, die von &lt;a1&gt;OmegaT&lt;/a1&gt; ignoriert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45828,8 +45844,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T070529Z" creationid="Michael Motzkus" creationdate="20180919T070529Z">
-        <seg>D</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T070825Z" creationid="Michael Motzkus" creationdate="20180919T070529Z">
+        <seg>Dieser Bereich erlaubt die Eingabe eines externen Nachbereitungskommandos (zum Beispiel ein Skript, das Dateinamen ändert), das jedes Mal ausgeführt wird, nachdem "Zieldokumente erstellen" benutzt wurde. </seg>
       </tuv>
     </tu>
     <tu>
@@ -46087,6 +46103,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T203109Z" creationid="BVB" creationdate="20180826T203109Z">
         <seg>Dies stellt sicher, dass die Interessen der Benutzer geschützt werden, und hat auch dazu geführt, dass OmegaT die &lt;a0&gt;Softpedia "100% FREE"-Garantie&lt;/a0&gt; erhalten hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T071043Z" creationid="Michael Motzkus" creationdate="20180919T071043Z">
+        <seg>Dieses externe Programm kann keine "Pipes", usw. einschließen, so dass empfohlen wird, ein Skript aufzurufen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58096,6 +58120,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154341Z">
         <seg>is effected by exercising rights under this License with respect to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not copied in /target folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T071509Z" creationid="Michael Motzkus" creationdate="20180919T071509Z">
+        <seg>wird während des Erstellens der Zieldokumente nicht in den Ordner /target kopiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not displayed in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T071401Z" creationid="Michael Motzkus" creationdate="20180919T071401Z">
+        <seg>wird im Bearbeitungsfenster nicht angezeigt,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not taken into account in statistics,</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T071424Z" creationid="Michael Motzkus" creationdate="20180919T071424Z">
+        <seg>wird bei Statistiken nicht berücksichtigt,</seg>
       </tuv>
     </tu>
     <tu>
