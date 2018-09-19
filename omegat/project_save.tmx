@@ -17800,6 +17800,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T063951Z" creationid="Michael Motzkus" creationdate="20180919T063951Z">
+        <seg>Segmentierung auf Satzebene aktivieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Save...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T134824Z">
@@ -20618,6 +20626,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T121013Z" creationid="BVB" creationdate="20180826T121013Z">
         <seg>Generelle Anmerkungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generalities</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T063603Z" creationid="Michael Motzkus" creationdate="20180919T063603Z">
+        <seg>Allgemeines</seg>
       </tuv>
     </tu>
     <tu>
@@ -23555,6 +23571,14 @@ User Product is transferred to the recipient in perpetuity or for a
 fixed term (regardless of how the transaction is characterized), the
 Corresponding Source conveyed under this section must be accompanied
 by the Installation Information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T064638Z" creationid="Michael Motzkus" creationdate="20180919T064638Z">
+        <seg>Wenn Sie mitten in einer Übersetzung entscheiden, von satzweiser zu absatzweiser Übersetzung zu wechseln, wird das interne Translation Memory nicht geändert (OmegaT kann alte Translation Memories aktualisieren, die keine Satzsegmentierung verwendet haben, aber nicht umgekehrt). Dennoch wird OmegaT versuchen, absatzbezogene Fuzzy Matches zu erstellen, in dem es existierende Satzübersetzungen verbindet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37156,6 +37180,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l0&gt;Tokenizers Appendix&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T063837Z" creationid="Michael Motzkus" creationdate="20180919T063837Z">
+        <seg>Siehe &lt;l0&gt;Tokenizer-Anhang&lt;/l0&gt; für Details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130513T091917Z">
@@ -48189,6 +48221,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090700Z" creationid="Michael Motzkus" creationdate="20180912T090700Z">
         <seg>Tokenizer sind in OmegaT enthalten und standardmäßig aktiv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T063807Z" creationid="Michael Motzkus" creationdate="20180919T063807Z">
+        <seg>Den ausgewählten Sprachen entsprechende Tokenizer werden angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
