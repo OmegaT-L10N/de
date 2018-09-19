@@ -8035,6 +8035,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search and replace - Ctrl+K&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T072429Z" creationid="Michael Motzkus" creationdate="20180919T072429Z">
+        <seg>&lt;p0&gt;Tastenkombinationen&lt;/p0&gt; &lt;s1&gt;Suchen und Ersetzen - Strg + K&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Select All - Ctrl+A&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130611T152439Z">
@@ -19604,6 +19612,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T072216Z" creationid="Michael Motzkus" creationdate="20180919T072216Z">
+        <seg>Zum Beispiel wird &lt;e0&gt;a+&lt;/e0&gt; dem aaa in &lt;e1&gt;aaabbb&lt;/e1&gt; entsprechen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T131120Z">
@@ -25033,6 +25049,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T071821Z" creationid="Michael Motzkus" creationdate="20180919T071821Z">
+        <seg>Im Dialogfenster Ausnahmemuster ist es möglich, Muster hinzuzufügen oder zu entfernen oder eines durch das Auswählen einer Zeile und Drücken von F2 zu ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Macro name box, type a name for the macro, such as "levelformat".</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T070427Z" creationid="BVB" creationdate="20180904T065145Z">
@@ -26441,6 +26465,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T201133Z">
         <seg>Es ist möglich, Apertium zu nutzen, um maschinelle Übersetzungssysteme für eine Vielzahl von Sprachpaaren zu schaffen: aus dem Grund verwendet Apertium einfache auf XML basierende Standardformate, um die notwendigen linguistischen Daten zu kodieren (entweder manuell oder durch Konvertieren bestehende Daten), die bei der Nutzung der bereit gestellten Werkzeuge zu den Formaten mit hoher Geschwindigkeit zusammengestellt werden, die das Modul benutzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T072045Z" creationid="Michael Motzkus" creationdate="20180919T072045Z">
+        <seg>Es ist möglich, Platzhalter gemäß &lt;u0&gt;Ant-Syntax&lt;/u0&gt; zu benutzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32928,6 +32960,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T072728Z" creationid="Michael Motzkus" creationdate="20180919T072728Z">
+        <seg>Öffnen Sie das Fenster Suchen und Ersetzen mit&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; und geben Sie das Wort oder den Ausdruck das / den Sie übersetzen möchten in die Box &lt;e3&gt;Suchen nach&lt;/e3&gt;  ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search window with &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k1&gt; and enter the word or phrase you wish to search for in the Search for box.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T160350Z">
@@ -36980,6 +37020,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T072257Z" creationid="Michael Motzkus" creationdate="20180919T072257Z">
+        <seg>Suchen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T164842Z">
@@ -36992,6 +37040,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Projekt durchsuchen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T072319Z" creationid="Michael Motzkus" creationdate="20180919T072319Z">
+        <seg>Suchen und Ersetzen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -57480,6 +57536,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T090559Z" creationid="Michael Motzkus" creationdate="20180912T090559Z">
         <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180919T071515Z" creationid="Michael Motzkus" creationdate="20180919T071515Z">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
       </tuv>
     </tu>
     <tu>
