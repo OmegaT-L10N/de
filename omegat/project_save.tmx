@@ -838,6 +838,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T135950Z" creationid="Michael Motzkus" creationdate="20181018T135950Z">
+        <seg>Menü leeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="DE">
@@ -3032,6 +3040,20 @@ Translated to singular.</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T124838Z" creationid="Michael Motzkus" creationdate="20181018T124838Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Zu benutzender Quell- oder Zielsprachen-Tokenizer 
+		(überschreibt Projekteinstellungen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--alignDir={location of translated files}</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T094217Z">
@@ -3052,6 +3074,46 @@ Translated to singular.</note>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T071143Z" creationid="Michael Motzkus" creationdate="20180918T071143Z">
         <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T122506Z" creationid="Michael Motzkus" creationdate="20181018T122506Z">
+        <seg>--config-file=&lt;path&gt;
+		Java .properties-Datei zum Laden der Standardeinstellungen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T124547Z" creationid="Michael Motzkus" creationdate="20181018T124547Z">
+        <seg>--disable-location-save
+		Zuletzt geöffnetes Verzeichnis der Dateiauswahl nicht speichern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T123917Z" creationid="Michael Motzkus" creationdate="20181018T122818Z">
+        <seg>--disable-project-locking
+		Nicht versuchen, die omega.project-Datei des Projekts zu sperren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T122130Z" creationid="Michael Motzkus" creationdate="20181018T122130Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Einen anderen als den Standardmodus (GUI) angeben .</seg>
       </tuv>
     </tu>
     <tu>
@@ -3096,6 +3158,16 @@ Translated to singular.</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T124614Z" creationid="Michael Motzkus" creationdate="20181018T124614Z">
+        <seg>--no-team
+		Teamprojektfunktionen deaktivieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--output-tag-validation-={regexp}</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T100110Z">
@@ -3112,6 +3184,52 @@ Translated to singular.</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T131043Z" creationid="Michael Motzkus" creationdate="20181018T131043Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+		Womit die pseudoübersetzte TMX ausgefüllt werden soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T121919Z" creationid="Michael Motzkus" creationdate="20181018T121919Z">
+        <seg>--remote-project
+		Eine omegat.project-Datei von einer Url als &lt;Projekt-
+		pfad&gt; herunterladen und das Projekt laden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T122658Z" creationid="Michael Motzkus" creationdate="20181018T122658Z">
+        <seg>--resource-bundle=&lt;path&gt;
+		Java .properties-Datei für den Text der Benutzeroberfläche
+	--config-dir=&lt;path&gt;
+		Verzeichnis zum Laden / Speichern der Konfigurationsdateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T130212Z" creationid="Michael Motzkus" creationdate="20181018T130212Z">
+        <seg>--script=&lt;path&gt;
+		Eine Skriptdatei, die bei Projektereignissen ausgeführt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--source-pattern={regexp}</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T092118Z">
@@ -3124,6 +3242,16 @@ Translated to singular.</note>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130526T195624Z">
         <seg>--source-pattern={regexp}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T130224Z" creationid="Michael Motzkus" creationdate="20181018T130224Z">
+        <seg>--tag-validation=[abort|warn]
+		Tagüberprüfung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3164,6 +3292,16 @@ Translated to singular.</note>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T062503Z" creationid="Michael Motzkus" creationdate="20180918T062503Z">
         <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T121600Z" creationid="Michael Motzkus" creationdate="20181018T121600Z">
+        <seg>-h, --help
+		Informationen zur Benutzung anzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9978,6 +10116,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T130317Z" creationid="Michael Motzkus" creationdate="20181018T130317Z">
+        <seg>Abbruch: Mit Fehler beenden, wenn Tags ungültig sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aborted.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T144413Z">
@@ -14440,6 +14586,18 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T131309Z" creationid="Michael Motzkus" creationdate="20181018T131309Z">
+        <seg>Kommandos:
+	-h, --help
+		Informationen zur Benutzung anzeigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comme&amp;nts</seg>
       </tuv>
       <tuv lang="DE">
@@ -14700,6 +14858,42 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180827T065140Z" creationid="BVB" creationdate="20180827T065140Z">
         <seg>Besteht aus einem Muster-Handbuch für Schüler mit Anweisungen für Trainer zur Anpassung und Beispielressourcen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T131111Z" creationid="Michael Motzkus" creationdate="20181018T131111Z">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		Verzeichnis der übesetzten Dateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T130952Z" creationid="Michael Motzkus" creationdate="20181018T130952Z">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		Speicherort der pseudoübersetzten TMX-Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T130622Z" creationid="Michael Motzkus" creationdate="20181018T130622Z">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		Regex-Liste der Quelldateien, die bearbeitet werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22839,6 +23033,16 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If invoked in a git working tree or svn checkout, the results
+		will be staged/added.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T132724Z" creationid="Michael Motzkus" creationdate="20181018T132724Z">
+        <seg>Wenn in einem Git Working Tree oder Svn Checkout aufgerufen, werden die 
+		Ergebnisse hinzugefügt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it does not, you still have the option to install a local version of Java or a different version of Java at system level.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T061046Z" creationid="BVB" creationdate="20180905T061046Z">
@@ -24841,6 +25045,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T140016Z" creationid="Michael Motzkus" creationdate="20181018T140016Z">
+        <seg>Importieren der Wiki-Seite fehlgeschlagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing and exporting translation memories</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130603T044926Z">
@@ -26096,6 +26308,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T132803Z" creationid="Michael Motzkus" creationdate="20181018T132803Z">
+        <seg>Angelegtes {0}-{1} Teamprojekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T144324Z">
@@ -26644,6 +26864,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180829T060149Z" creationid="BVB" creationdate="20180829T060149Z">
         <seg>Invantive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T121517Z" creationid="Michael Motzkus" creationdate="20181018T121517Z">
+        <seg>Rufe Sie für Details `team -h` auf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30919,6 +31147,18 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T130105Z" creationid="Michael Motzkus" creationdate="20181018T130105Z">
+        <seg>Optionen ohne GUI:
+	--quiet
+		Ausgabe der Kommandozeile reduzieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T151255Z">
@@ -33555,6 +33795,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T135919Z" creationid="Michael Motzkus" creationdate="20181018T135919Z">
+        <seg>Bisherige Projekte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Recent Project</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T102626Z" creationid="karsten" creationdate="20150919T102626Z">
@@ -33879,6 +34127,22 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T135037Z" creationid="karsten" creationdate="20150919T135037Z">
         <seg>Optionen zur Begrenzung der Zeilenlänge in Zieldokumenten (0 = keine Beschränkung)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T121452Z" creationid="Michael Motzkus" creationdate="20181018T115941Z">
+        <seg>Optionen:
+	Keine: Benutzeroberfläche starten
+	Nur Projektpfad: Benutzeroberfläche starten und angegebenes Projekt laden.
+	Team
+		Teasmprojekttool.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34535,6 +34799,18 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T072513Z" creationid="BVB" creationdate="20180904T072513Z">
         <seg>Wählen Sie ein Symbol und dann OK &gt; OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T134342Z" creationid="Michael Motzkus" creationdate="20181018T134342Z">
+        <seg>Speichern Sie Quelldateien in ./source zusätzliches
+Material in ./tm, ./glossary, und ./dictionary wie benötigt, Übertragen
+Sie dann alles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37181,6 +37457,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T135647Z" creationid="Michael Motzkus" creationdate="20181018T135647Z">
+        <seg>Wird auf Java {0} ({1}-bit) ausgeführt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130519T134638Z">
@@ -38080,10 +38364,26 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Help &gt; User's Manual for more information.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T131144Z" creationid="Michael Motzkus" creationdate="20181018T131144Z">
+        <seg>Siehe Hilfe &gt; Benutzerhandbuch für weitere Informationen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T173803Z">
         <seg>Bitte lesen Sie das OmegaT-Handbuch für Anleitungen und Hinweise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T124859Z" creationid="Michael Motzkus" creationdate="20181018T124859Z">
+        <seg>Siehe OmegaT.jar/META-INF/MANIFEST.MF für gültige Werte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38100,6 +38400,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T124319Z">
         <seg>Siehe zusätzliche Referenzen und Beispiele unten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T122207Z" creationid="Michael Motzkus" creationdate="20181018T122207Z">
+        <seg>Siehe unten für Details.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50626,8 +50934,16 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181014T141223Z" creationid="Michael Motzkus" creationdate="20181014T141223Z">
-        <seg>Benutzung: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T115931Z" creationid="Michael Motzkus" creationdate="20181014T141223Z">
+        <seg>Benutzung: java -jar OmegaT.jar [&lt;Optionen&gt;] [&lt;Projektpfad&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T131213Z" creationid="Michael Motzkus" creationdate="20181018T131213Z">
+        <seg>Benutzung: java -jar OmegaT.jar team &lt;Kommando&gt; [&lt;Optionen&gt;]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -51764,6 +52080,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T084908Z">
         <seg>Wallonisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T130353Z" creationid="Michael Motzkus" creationdate="20181018T130353Z">
+        <seg>Warnen: Ungültige Tags auf Standardausgabe anzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59106,6 +59430,16 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T131609Z" creationid="Michael Motzkus" creationdate="20181018T131609Z">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Minimales Teamprojekt mit den angegebenen Sprachen initialisieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>interfaces specified for a particular programming language, one that</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154337Z">
@@ -65064,6 +65398,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T101832Z" creationid="BVB" creationdate="20180826T101832Z">
         <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181018T131147Z" creationid="Michael Motzkus" creationdate="20181018T131147Z">
+        <seg>{0}</seg>
       </tuv>
     </tu>
     <tu>
