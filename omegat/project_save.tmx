@@ -28235,6 +28235,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181022T150244Z" creationid="Michael Motzkus" creationdate="20181022T150244Z">
+        <seg>Die Keyword-Suche stimmt mit allen durch Leerzeichen getrennten Stichwörtern überein, unabhängig von ihrer Reihenfolge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T172933Z">
@@ -36957,6 +36965,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T161104Z">
         <seg>Regulärer Ausdruck für Fragmente, die aus der Übersetzung entfernt werden sollten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181022T150349Z" creationid="Michael Motzkus" creationdate="20181022T150349Z">
+        <seg>Die Suche nach regulären Ausdrücken entspricht regulären Java-Ausdrücken, wie im Benutzerhandbuch dokumentiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50847,9 +50863,9 @@ these rights or asking you to surrender the rights.</seg>
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181022T150029Z" creationid="Michael Motzkus" creationdate="20181022T150029Z">
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181022T150148Z" creationid="Michael Motzkus" creationdate="20181022T150029Z">
         <seg>Suche nach:
-Exact searches match the whole search string.</seg>
+Exakte Suchvorgänge stimmen mit der gesamten Suchzeichenfolge überein.</seg>
       </tuv>
     </tu>
     <tu>
