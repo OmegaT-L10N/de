@@ -25790,6 +25790,7 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Superfluous ")" or missing "(".</note>
       <tuv lang="EN">
         <seg>In other words, if an OmegaT user finds a 100% match in a Level 2 OmegaT TMX file, it can be accepted without requiring adaptation, but the same would not be true for a Level 2 TMX file produced by a different CAT tool (or vice-versa).</seg>
       </tuv>
@@ -28807,8 +28808,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Level 2 TMX files contain formatting information, but these files are typically only compatible when the same CAT tool is used.</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180826T125919Z" creationid="BVB" creationdate="20180826T125919Z">
-        <seg>Level 2 TMX-Dateien enthalten Formatierungsinformationen, aber diese Dateien sind normalerweise nur kompatibel, wenn dasselbe CAT-Tool verwendet wird.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181101T091641Z" creationid="BVB" creationdate="20180826T125919Z">
+        <seg>Level 2 TMX-Dateien enthalten Formatierungsinformationen, aber diese Dateien sind normalerweise nur kompatibel, wenn das selbe CAT-Tool verwendet wird.</seg>
       </tuv>
     </tu>
     <tu>
