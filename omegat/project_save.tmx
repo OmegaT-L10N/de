@@ -188,8 +188,8 @@ country that you have reason to believe are valid.</seg>
       <tuv lang="EN">
         <seg>"Non-unique segment" covers both default and alternative translations.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T220839Z" creationid="Michael Motzkus" creationdate="20180911T220839Z">
-        <seg>"Nicht eindeutiges Segment" umfasst sowohl Standard- als auch alternative Übersetzungen.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181102T204208Z" creationid="Michael Motzkus" creationdate="20180911T220839Z">
+        <seg>"Nicht einmaliges Segment" umfasst sowohl Standard- als auch alternative Übersetzungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1926,8 +1926,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="EN">
         <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T222344Z" creationid="BVB" creationdate="20180911T172631Z">
-        <seg>(Wenn Optionen &gt; Ansicht &gt; "Das erste nicht eindeutige Segment beim Markieren nicht eindeutiger Segmente einschließen" ausgewählt ist, werden alle nicht eindeutigen Segmente einschließlich des ersten auf diese Weise markiert.)</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181102T204157Z" creationid="BVB" creationdate="20180911T172631Z">
+        <seg>(Wenn Optionen &gt; Ansicht &gt; "Das erste nicht einmalige Segment beim Markieren nicht einmaliger Segmente einschließen" ausgewählt ist, werden alle nicht einmaligen Segmente einschließlich des ersten auf diese Weise markiert.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4607,8 +4607,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Create Alternative Translation&lt;/b0&gt;: makes the segment unique.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T215753Z" creationid="Michael Motzkus" creationdate="20180911T215753Z">
-        <seg>&lt;b0&gt;Alternative Übersetzung (erstellen)&lt;/b0&gt;: Macht das Segment eindeutig.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181102T204206Z" creationid="Michael Motzkus" creationdate="20180911T215753Z">
+        <seg>&lt;b0&gt;Alternative Übersetzung (erstellen)&lt;/b0&gt;: Macht das Segment einmalig.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4647,8 +4647,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Mark Non-Unique Segments&lt;/b0&gt;: identical segments are marked in grey (changes the display, but not the behaviour).</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T215557Z" creationid="Michael Motzkus" creationdate="20180911T215557Z">
-        <seg>&lt;b0&gt;Markiere nicht-eindeutige Segmente&lt;/b0&gt;: Identische Segmente werden grau markiert (ändert die Anzeige, aber nicht das Verhalten).</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181102T204203Z" creationid="Michael Motzkus" creationdate="20180911T215557Z">
+        <seg>&lt;b0&gt;Markiere nicht-einmalige Segmente&lt;/b0&gt;: Identische Segmente werden grau markiert (ändert die Anzeige, aber nicht das Verhalten).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14920,8 +14920,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Consequently, segments that are marked (with the grey font) as being non-unique are marked as non-unique irrespective of whether alternative translations have been created or not.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T220945Z" creationid="Michael Motzkus" creationdate="20180911T220945Z">
-        <seg>Folglich werden Segmente, die (mit der grauen Schrift) als nicht eindeutig markiert sind, als nicht eindeutig markiert, unabhängig davon, ob alternative Übersetzungen erstellt wurden oder nicht.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181102T204213Z" creationid="Michael Motzkus" creationdate="20180911T220945Z">
+        <seg>Folglich werden Segmente, die (mit der grauen Schrift) als nicht einmalig markiert sind, als nicht einmalig markiert, unabhängig davon, ob alternative Übersetzungen erstellt wurden oder nicht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22865,8 +22865,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T221550Z" creationid="Michael Motzkus" creationdate="20180911T221550Z">
-        <seg>Wenn Optionen &gt; Editierverhalten &gt; "Der Befehl Gehe zum nächsten nicht übersetzten Segment wird nicht weiter ausgeführt, wenn mindestens eine alternative Übersetzung vorliegt" ausgewählt ist und mindestens eine alternative Übersetzung eines nicht eindeutigen Segments erstellt wurde, behandelt diese Funktion alle Instanzen dieses Segments (ob Standard oder alternative Übersetzungen) als nicht übersetzt, d. h. überspringt sie nicht.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181102T204214Z" creationid="Michael Motzkus" creationdate="20180911T221550Z">
+        <seg>Wenn Optionen &gt; Editierverhalten &gt; "Der Befehl Gehe zum nächsten nicht übersetzten Segment wird nicht weiter ausgeführt, wenn mindestens eine alternative Übersetzung vorliegt" ausgewählt ist und mindestens eine alternative Übersetzung eines nicht einmaligen Segments erstellt wurde, behandelt diese Funktion alle Instanzen dieses Segments (ob Standard oder alternative Übersetzungen) als nicht übersetzt, d. h. überspringt sie nicht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24619,8 +24619,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you have already translated an instance of a non-unique segment and wish to make a different instance of the non-unique segment the default translation without changing the translation of the instance you have already translated, you must first set the status of the segment you have already translated to "alternative translation" using "Create Alternative Translation".</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180911T175203Z" creationid="BVB" creationdate="20180911T175203Z">
-        <seg>Wenn Sie eine Instanz eines nicht eindeutigen Segments bereits übersetzt haben und eine andere Instanz des nicht eindeutigen Segments zur Standardübersetzung machen möchten, ohne die Übersetzung der bereits übersetzten Instanz zu ändern, müssen Sie zunächst den Status des Segments, das Sie schon übersetzt haben, zur alternativen Übersetzung machen (Rechtsklick mit der Maus, "Alternative Übersetzung (erstellen)".</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181102T204201Z" creationid="BVB" creationdate="20180911T175203Z">
+        <seg>Wenn Sie eine Instanz eines nicht einmaligen Segments bereits übersetzt haben und eine andere Instanz des nicht einmaligen Segments zur Standardübersetzung machen möchten, ohne die Übersetzung der bereits übersetzten Instanz zu ändern, müssen Sie zunächst den Status des Segments, das Sie schon übersetzt haben, zur alternativen Übersetzung machen (Rechtsklick mit der Maus, "Alternative Übersetzung (erstellen)".</seg>
       </tuv>
     </tu>
     <tu>
@@ -47985,8 +47985,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
       </tuv>
-      <tuv lang="DE" changeid="BVB" changedate="20180911T173140Z" creationid="BVB" creationdate="20180911T173140Z">
-        <seg>Dies hat zur Folge, dass alle Instanzen von nicht eindeutigen Segmenten zu alternativen Übersetzungen werden (siehe "Eins-zu-viele-Abgleich" unten).</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20181102T204158Z" creationid="BVB" creationdate="20180911T173140Z">
+        <seg>Dies hat zur Folge, dass alle Instanzen von nicht einmaligen Segmenten zu alternativen Übersetzungen werden (siehe "Eins-zu-viele-Abgleich" unten).</seg>
       </tuv>
     </tu>
     <tu>
