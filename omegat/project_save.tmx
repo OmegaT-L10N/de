@@ -11662,6 +11662,22 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091438Z" creationid="Michael Motzkus" creationdate="20190129T091438Z">
+        <seg>Ein Fehler ist aufgetreten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091449Z" creationid="Michael Motzkus" creationdate="20190129T091449Z">
+        <seg>Beim Laden des Skripts ist ein Fehler aufgetreten: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T154542Z" creationid="karsten" creationdate="20150919T154542Z">
@@ -38019,6 +38035,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091536Z" creationid="Michael Motzkus" creationdate="20190129T091536Z">
+        <seg>Skriptordner wird aktualisiert "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regardless of what server hosts the</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T151012Z">
@@ -40720,6 +40744,14 @@ Der Ort einer Suche ist standardmäßig das Projekt und kann auf alle Dateien in
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091454Z" creationid="Michael Motzkus" creationdate="20190129T091454Z">
+        <seg>Wählen Sie den Skriptordner aus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T175953Z" creationid="karsten" creationdate="20150919T175953Z">
@@ -40740,6 +40772,14 @@ Der Ort einer Suche ist standardmäßig das Projekt und kann auf alle Dateien in
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T064026Z" creationid="BVB" creationdate="20180904T064026Z">
         <seg>Wählen Sie Word-Optionen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091458Z" creationid="Michael Motzkus" creationdate="20190129T091458Z">
+        <seg>Wählen Sie eine Skriptdatei aus</seg>
       </tuv>
     </tu>
     <tu>
@@ -58622,6 +58662,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154340Z">
         <seg>can regenerate automatically from other parts of the Corresponding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091421Z" creationid="Michael Motzkus" creationdate="20190129T091421Z">
+        <seg>abgebrochen ({0} ms abgelaufen)</seg>
       </tuv>
     </tu>
     <tu>
