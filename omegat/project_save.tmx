@@ -1238,6 +1238,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091323Z" creationid="Michael Motzkus" creationdate="20190129T091323Z">
+        <seg>Sprachprüfung (&amp;Language Checker)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T090106Z">
@@ -1762,6 +1770,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131011T220943Z">
         <seg>&amp;Statistik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091230Z" creationid="Michael Motzkus" creationdate="20190129T091230Z">
+        <seg>Nur für diese &amp;Sitzung speichern</seg>
       </tuv>
     </tu>
     <tu>
@@ -13863,6 +13879,22 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130621T133551Z">
         <seg>Camtasia für Windows-Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091345Z" creationid="Michael Motzkus" creationdate="20190129T091345Z">
+        <seg>Abbrechen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091400Z" creationid="Michael Motzkus" creationdate="20190129T091400Z">
+        <seg>Abbruch funktioniert nur bei Skripts, die explizit auf Abbruch prüfen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33186,6 +33218,14 @@ otherwise be available to you under applicable patent law.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091340Z" creationid="Michael Motzkus" creationdate="20190129T091340Z">
+        <seg>Mich benachrichtigen, wenn ein Segment mehrere Übersetzungen hat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T084959Z" creationid="Michael Motzkus" creationdate="20190129T084959Z">
@@ -33360,6 +33400,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154407Z">
         <seg>OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091130Z" creationid="Michael Motzkus" creationdate="20190129T091130Z">
+        <seg>OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -40968,6 +41016,14 @@ Der Ort einer Suche ist standardmäßig das Projekt und kann auf alle Dateien in
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091209Z" creationid="Michael Motzkus" creationdate="20190129T091209Z">
+        <seg>Der Server versteht die "Übersetzen"-Methode nicht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090118Z" creationid="Michael Motzkus" creationdate="20190129T090118Z">
@@ -43536,6 +43592,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091123Z" creationid="Michael Motzkus" creationdate="20190129T091123Z">
+        <seg>Test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Test your translation (optional).</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180905T102927Z" creationid="BVB" creationdate="20180905T102927Z">
@@ -43548,6 +43612,14 @@ this License.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T192731Z" creationid="BVB" creationdate="20180826T192731Z">
         <seg>Testen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091128Z" creationid="Michael Motzkus" creationdate="20190129T091128Z">
+        <seg>Wird getestet...</seg>
       </tuv>
     </tu>
     <tu>
@@ -59326,6 +59398,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180823T101337Z" creationid="BVB" creationdate="20180823T101337Z">
         <seg>docx-Kompatibilität</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T091415Z" creationid="Michael Motzkus" creationdate="20190129T091415Z">
+        <seg>erledigt ({0} ms abgelaufen)</seg>
       </tuv>
     </tu>
     <tu>
