@@ -774,6 +774,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090527Z" creationid="Michael Motzkus" creationdate="20190129T090527Z">
+        <seg>Übersetzungen &amp;automatisch abrufen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130630T151045Z">
@@ -1830,6 +1838,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090555Z" creationid="Michael Motzkus" creationdate="20190129T090555Z">
+        <seg>N&amp;ur nicht-übersetzte Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Upper Case</seg>
       </tuv>
       <tuv lang="DE">
@@ -2116,6 +2132,14 @@ Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Datei
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180911T232131Z" creationid="Michael Motzkus" creationdate="20180911T232131Z">
         <seg>(Es wird - natürlich - bolivianisches statt mexikanischem Spanisch überprüfen!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090749Z" creationid="Michael Motzkus" creationdate="20190129T090749Z">
+        <seg>(Lassen Sie das Kennwort leer, wenn Sie einen API-Schlüssel verwenden.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10198,6 +10222,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090716Z" creationid="Michael Motzkus" creationdate="20190129T090643Z">
+        <seg>API-Schlüssel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T071125Z" creationid="Michael Motzkus" creationdate="20180918T071125Z">
@@ -11374,6 +11406,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T152604Z">
         <seg>Alternative Orte für einige der Ordner können während der Projekterstellung oder während der Übersetzung gewählt werden. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternative Language</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090601Z" creationid="Michael Motzkus" creationdate="20190129T090601Z">
+        <seg>Alternative Sprache</seg>
       </tuv>
     </tu>
     <tu>
@@ -16914,6 +16954,22 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090615Z" creationid="Michael Motzkus" creationdate="20190129T090615Z">
+        <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090721Z" creationid="Michael Motzkus" creationdate="20190129T090721Z">
+        <seg>DeepL-API-Schlüssel nicht verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="DE">
@@ -18824,6 +18880,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090640Z" creationid="Michael Motzkus" creationdate="20190129T090640Z">
+        <seg>E-Mail:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T163135Z">
@@ -19324,6 +19388,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T180307Z" creationid="karsten" creationdate="20150919T180307Z">
         <seg>Fehler beim Aktualisieren der Glossardatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090632Z" creationid="Michael Motzkus" creationdate="20190129T090632Z">
+        <seg>Fehler beim Lesen der MT-Ergebnisse</seg>
       </tuv>
     </tu>
     <tu>
@@ -23149,6 +23221,22 @@ later version.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180826T195432Z" creationid="BVB" creationdate="20180826T190652Z">
         <seg>Ich habe OmegaT mehr als 10 Jahre als professioneller Übersetzer benutzt und in den frühen Tagen von der einfachen Benutzung und dem hilfreichen Forum profitiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090618Z" creationid="Michael Motzkus" creationdate="20190129T090618Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090740Z" creationid="Michael Motzkus" creationdate="20190129T090740Z">
+        <seg>IBM Watson ist nicht verfügbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31238,6 +31326,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090736Z" creationid="Michael Motzkus" creationdate="20190129T090736Z">
+        <seg>Modell-ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification Info</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180918T151850Z">
@@ -31453,6 +31549,14 @@ violation by some reasonable means, this is the first time you have
 received notice of violation of this License (for any work) from that
 copyright holder, and you cure the violation prior to 30 days after
 your receipt of the notice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090610Z" creationid="Michael Motzkus" creationdate="20190129T090610Z">
+        <seg>Moses</seg>
       </tuv>
     </tu>
     <tu>
@@ -36602,6 +36706,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T135325Z">
         <seg>Speichern der Voreinstellungen fehlgeschlagen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090652Z" creationid="Michael Motzkus" creationdate="20190129T090652Z">
+        <seg>Premium Edition</seg>
       </tuv>
     </tu>
     <tu>
@@ -42332,6 +42444,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090756Z" creationid="Michael Motzkus" creationdate="20190129T090756Z">
+        <seg>Abonnementschlüssel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subsequent clicks on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jnlp&lt;/e2&gt; will check for any upgrades, install them, if there are any, and then start &lt;a4&gt;OmegaT&lt;/a4&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T065502Z">
@@ -42728,6 +42848,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T083602Z" creationid="Michael Motzkus" creationdate="20190129T083602Z">
         <seg>TM-Treffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090506Z" creationid="Michael Motzkus" creationdate="20190129T090506Z">
+        <seg>TM Matching-Optionen</seg>
       </tuv>
     </tu>
     <tu>
@@ -53370,6 +53498,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130428T083032Z">
         <seg>Benutzer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090727Z" creationid="Michael Motzkus" creationdate="20190129T090727Z">
+        <seg>Benutzername oder API-Schlüssel:</seg>
       </tuv>
     </tu>
     <tu>
