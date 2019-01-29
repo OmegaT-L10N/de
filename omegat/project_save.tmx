@@ -11582,11 +11582,31 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085347Z" creationid="Michael Motzkus" creationdate="20190129T085347Z">
+        <seg>Bei der Verarbeitung eines neuen Dateiereignisses ist ein Fehler aufgetreten:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085055Z" creationid="Michael Motzkus" creationdate="20190129T085055Z">
-        <seg>Bei der Verarbeitung eines Projektänderungsereignisses ist ein Fehler aufgetreten:
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085239Z" creationid="Michael Motzkus" creationdate="20190129T085055Z">
+        <seg>Bei der Verarbeitung einer Projektänderung ist ein Fehler aufgetreten:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085318Z" creationid="Michael Motzkus" creationdate="20190129T085318Z">
+        <seg>Bei der Verarbeitung einer Anwendungsbeendigung ist ein Fehler aufgetreten:
 {0}</seg>
       </tuv>
     </tu>
@@ -11595,8 +11615,8 @@ organization, or merging organizations.</seg>
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085114Z" creationid="Michael Motzkus" creationdate="20190129T085114Z">
-        <seg>Bei der Verarbeitung eines Anwendungsstartereignisses ist ein Fehler aufgetreten:
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085301Z" creationid="Michael Motzkus" creationdate="20190129T085114Z">
+        <seg>Bei der Verarbeitung eines Anwendungsstarts ist ein Fehler aufgetreten:
 {0}</seg>
       </tuv>
     </tu>
@@ -28509,8 +28529,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Java: {0} ver.</seg>
       </tuv>
-      <tuv lang="DE" changeid="eugenie" changedate="20130702T171612Z">
-        <seg>Java: {0} Ver.</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085227Z">
+        <seg>Java: {0} Ver.r</seg>
       </tuv>
     </tu>
     <tu>
