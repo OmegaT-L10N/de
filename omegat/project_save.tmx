@@ -1110,6 +1110,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T065128Z" creationid="Michael Motzkus" creationdate="20190129T065128Z">
+        <seg>Treffer bei sehr unterschiedlicher Groß-/Kleinschreibung &amp;ignorieren (z.B. FOO ggü. foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T141923Z" creationid="karsten" creationdate="20150919T141740Z">
@@ -37611,6 +37619,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T065011Z" creationid="Michael Motzkus" creationdate="20190129T065011Z">
+        <seg>&amp;Glossareinträge ersetzen, wenn Quelltext eingefügt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; and &lt;c2&gt;192, 255, 192&lt;/c2&gt; with &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180901T085830Z" creationid="BVB" creationdate="20180901T085830Z">
@@ -51858,6 +51874,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T064839Z" creationid="Michael Motzkus" creationdate="20190129T064839Z">
+        <seg>Glossar / &amp;Steming für Glossareinträge verwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T071933Z" creationid="Michael Motzkus" creationdate="20180917T071933Z">
@@ -51966,6 +51990,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T084822Z">
         <seg>Benutzen Sie es, falls OmegaT den Inhalt des Projekts nicht synchronisieren soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T064821Z" creationid="Michael Motzkus" creationdate="20190129T064821Z">
+        <seg>Verwenden Sie Begriffe, die im Quelltext separat &amp;angezeigt werden.</seg>
       </tuv>
     </tu>
     <tu>
