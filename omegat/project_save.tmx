@@ -1654,6 +1654,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Sentence Case</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090252Z" creationid="Michael Motzkus" creationdate="20190129T090252Z">
+        <seg>&amp;Satzfall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130622T183356Z">
@@ -11008,6 +11016,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180904T181943Z" creationid="BVB" creationdate="20180904T181943Z">
         <seg>Auch hier sind kostenlose Demoversionen verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090438Z" creationid="Michael Motzkus" creationdate="20190129T090438Z">
+        <seg>Aggressive Schri&amp;ftartersetzung</seg>
       </tuv>
     </tu>
     <tu>
@@ -29041,6 +29057,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090231Z" creationid="Michael Motzkus" creationdate="20190129T090231Z">
+        <seg>LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T074300Z" creationid="Michael Motzkus" creationdate="20190129T074300Z">
@@ -29061,6 +29085,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085721Z" creationid="Michael Motzkus" creationdate="20190129T085721Z">
         <seg>Das LanguageTool ist falsch konfiguriert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090209Z" creationid="Michael Motzkus" creationdate="20190129T090209Z">
+        <seg>LanguageTool ist für Ihre Zielsprache nicht verfügbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29791,6 +29823,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Litauisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a project to configure rules for that project's languages.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090228Z" creationid="Michael Motzkus" creationdate="20190129T090228Z">
+        <seg>Laden Sie ein Projekt, um Regeln für die Sprachen dieses Projekts zu konfigurieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30563,6 +30603,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090407Z" creationid="Michael Motzkus" creationdate="20190129T090407Z">
+        <seg>&amp;Automatisch ausgefüllte Segmente markieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130630T155802Z">
@@ -30611,10 +30659,26 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090453Z" creationid="Michael Motzkus" creationdate="20190129T090453Z">
+        <seg>Glossartreffer markieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Non-&amp;Unique Segments</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T172839Z">
         <seg>Nicht &amp;einmalige Segmente markieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090339Z" creationid="Michael Motzkus" creationdate="20190129T090339Z">
+        <seg>Nicht-eindeutige Se&amp;gmente markieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -38895,6 +38959,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130503T083024Z">
         <seg>Bündnerromanisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090154Z" creationid="Michael Motzkus" creationdate="20190129T090154Z">
+        <seg>Die Regel-ID darf nur lateinische Buchstaben, Unterstriche und Punkte enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48111,6 +48183,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090217Z" creationid="Michael Motzkus" creationdate="20190129T090217Z">
+        <seg>Fehler beim Initialisieren von LanguageTool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, by modifying or propagating a</seg>
       </tuv>
       <tuv lang="DE" changeid="helmut" changedate="20130530T154355Z">
@@ -48656,6 +48736,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="DE" changeid="BVB" changedate="20180901T124918Z" creationid="BVB" creationdate="20180901T124918Z">
         <seg>Dieses HowTo liefert Tipps zur Übersetzung von Dateien von MS Office 2007 und neuer (Office Open XML, .docx) in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ID is already being used.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090202Z" creationid="Michael Motzkus" creationdate="20190129T090202Z">
+        <seg>Diese ID wird bereits verwendet.</seg>
       </tuv>
     </tu>
     <tu>
