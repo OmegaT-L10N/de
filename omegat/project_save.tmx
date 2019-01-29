@@ -12752,6 +12752,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T072918Z" creationid="Michael Motzkus" creationdate="20190129T072918Z">
+        <seg>Einstellungen zu {0} zurückgesetzt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T181040Z" creationid="karsten" creationdate="20150919T181040Z">
@@ -19632,6 +19640,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Fabián Mandelbaum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T072945Z" creationid="Michael Motzkus" creationdate="20190129T072945Z">
+        <seg>Einstellungsdatei konnte nicht gesichert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50962,6 +50978,16 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T073146Z" creationid="Michael Motzkus" creationdate="20190129T073146Z">
+        <seg>Der Dateipfad für die Übersetzung darf nicht identisch mit dem Quellpfad sein:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T170631Z">
@@ -51720,6 +51746,14 @@ Exakte Suchvorgänge stimmen mit der gesamten Suchzeichenfolge überein.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130701T165013Z">
         <seg>Einmalig:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T073008Z" creationid="Michael Motzkus" creationdate="20190129T073008Z">
+        <seg>Unbekannter PlugIn-Typ '{0}' in '{1}'</seg>
       </tuv>
     </tu>
     <tu>
