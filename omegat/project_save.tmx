@@ -830,6 +830,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090029Z" creationid="Michael Motzkus" creationdate="20190129T090029Z">
+        <seg>Einge&amp;bautes (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="DE">
@@ -1226,6 +1234,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T090106Z">
         <seg>&amp;Letzte Änderungen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090048Z" creationid="Michael Motzkus" creationdate="20190129T090048Z">
+        <seg>&amp;Lokalen Server starten</seg>
       </tuv>
     </tu>
     <tu>
@@ -28409,6 +28425,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085940Z" creationid="Michael Motzkus" creationdate="20190129T085940Z">
+        <seg>JAR-Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130624T120042Z">
@@ -29073,6 +29097,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085926Z" creationid="Michael Motzkus" creationdate="20190129T085926Z">
+        <seg>LanguageTool-Einstellungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085921Z" creationid="Michael Motzkus" creationdate="20190129T085921Z">
+        <seg>LanguageTool wird deaktiviert, bis das Projekt geschlossen ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140204T125530Z">
@@ -29101,6 +29141,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131205T225948Z">
         <seg>LanguageTool.jar (LGPL license)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085910Z" creationid="Michael Motzkus" creationdate="20190129T085910Z">
+        <seg>LanguageTool: Bei der Überprüfung ist ein Fehler aufgetreten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29819,6 +29867,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090123Z" creationid="Michael Motzkus" creationdate="20190129T090123Z">
+        <seg>Lokaler Installationspfad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130702T180825Z">
@@ -30415,6 +30471,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20181107T102343Z" creationid="Michael Motzkus" creationdate="20181107T102343Z">
         <seg>Handbuch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manually defined rules</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085945Z" creationid="Michael Motzkus" creationdate="20190129T085945Z">
+        <seg>Manuell definierte Regeln</seg>
       </tuv>
     </tu>
     <tu>
@@ -31829,6 +31893,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130625T142551Z">
         <seg>Neue Sprache und neues Land </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085955Z" creationid="Michael Motzkus" creationdate="20190129T085955Z">
+        <seg>Neue LanguageTool-Regel</seg>
       </tuv>
     </tu>
     <tu>
@@ -37987,6 +38059,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090109Z" creationid="Michael Motzkus" creationdate="20190129T090109Z">
+        <seg>Remote-&amp;Server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote File/Folder</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20181022T144254Z" creationid="Michael Motzkus" creationdate="20181022T144254Z">
@@ -38823,6 +38903,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130529T082206Z">
         <seg>Regeln - Priorität </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090140Z" creationid="Michael Motzkus" creationdate="20190129T090140Z">
+        <seg>Regeln</seg>
       </tuv>
     </tu>
     <tu>
@@ -40432,6 +40520,14 @@ Der Ort einer Suche ist standardmäßig das Projekt und kann auf alle Dateien in
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085934Z" creationid="Michael Motzkus" creationdate="20190129T085934Z">
+        <seg>Wählen Sie languagetool-server.jar aus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select match #N</seg>
       </tuv>
       <tuv lang="DE">
@@ -40660,6 +40756,14 @@ Der Ort einer Suche ist standardmäßig das Projekt und kann auf alle Dateien in
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T173344Z" creationid="karsten" creationdate="20150919T173344Z">
         <seg>Server (aktualisiert)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Service type</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090118Z" creationid="Michael Motzkus" creationdate="20190129T090118Z">
+        <seg>Servicetyp</seg>
       </tuv>
     </tu>
     <tu>
@@ -51930,6 +52034,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T085951Z" creationid="Michael Motzkus" creationdate="20190129T085951Z">
+        <seg>Geben Sie eine neue Regel-ID ein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the name and description of the repository.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130508T154200Z">
@@ -52016,6 +52128,14 @@ Exakte Suchvorgänge stimmen mit der gesamten Suchzeichenfolge überein.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130630T151222Z">
         <seg>URL des Online-Wörterbuchs:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T090130Z" creationid="Michael Motzkus" creationdate="20190129T090130Z">
+        <seg>URL:</seg>
       </tuv>
     </tu>
     <tu>
