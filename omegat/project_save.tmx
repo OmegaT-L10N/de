@@ -1134,6 +1134,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T074728Z" creationid="Michael Motzkus" creationdate="20190129T074728Z">
+        <seg>Dateikontext &amp;ignorieren, wenn Segmente mit alternativen Übersetzungen identifiziert werden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T065128Z" creationid="Michael Motzkus" creationdate="20190129T065128Z">
@@ -18634,6 +18642,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Editor - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T074742Z" creationid="Michael Motzkus" creationdate="20190129T074742Z">
+        <seg>Editor-Optionen</seg>
       </tuv>
     </tu>
     <tu>
@@ -36196,6 +36212,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T074613Z" creationid="Michael Motzkus" creationdate="20190129T074613Z">
+        <seg>Leerzeichen &amp;für alle Tags beibehalten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preserve spaces for all tags</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131011T224921Z">
@@ -37715,8 +37739,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove &amp;leading and trailing tags</seg>
       </tuv>
-      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T074407Z" creationid="Michael Motzkus" creationdate="20190129T074407Z">
-        <seg>Führende und nachfo&amp;lgende Tags entfernen</seg>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T074548Z" creationid="Michael Motzkus" creationdate="20190129T074407Z">
+        <seg>Führende und nachgeste&amp;llte Tags entfernen</seg>
       </tuv>
     </tu>
     <tu>
@@ -42694,6 +42718,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="DE" changeid="helm" changedate="20130427T085854Z">
         <seg>Tea&amp;m...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T074731Z" creationid="Michael Motzkus" creationdate="20190129T074731Z">
+        <seg>Team</seg>
       </tuv>
     </tu>
     <tu>
