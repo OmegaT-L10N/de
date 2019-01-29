@@ -1502,6 +1502,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T072841Z" creationid="Michael Motzkus" creationdate="20190129T072841Z">
+        <seg>Optionen zu&amp;rücksetzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset This Colour</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T223752Z" creationid="karsten" creationdate="20150919T223752Z">
@@ -1570,6 +1578,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="DE">
         <seg>Projekt &amp;durchsuchen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T072813Z" creationid="Michael Motzkus" creationdate="20190129T072813Z">
+        <seg>Nach Auswahl &amp;suchen</seg>
       </tuv>
     </tu>
     <tu>
@@ -18956,6 +18972,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T072712Z" creationid="Michael Motzkus" creationdate="20190129T072712Z">
+        <seg>Fehler beim Ersetzen regulärer Ausdrücke:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T160103Z" creationid="karsten" creationdate="20150919T160103Z">
@@ -19336,6 +19360,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20181022T144306Z" creationid="Michael Motzkus" creationdate="20181022T144306Z">
         <seg>Muster ausschließen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T072646Z" creationid="Michael Motzkus" creationdate="20190129T072646Z">
+        <seg>Verwaiste Segmente ausschließen</seg>
       </tuv>
     </tu>
     <tu>
@@ -21992,6 +22024,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140103T175353Z">
         <seg>Griechisch, modern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T072731Z" creationid="Michael Motzkus" creationdate="20190129T072731Z">
+        <seg>Gruppe {0} ist im Suchausdruck nicht vorhanden</seg>
       </tuv>
     </tu>
     <tu>
@@ -51962,6 +52002,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130525T053701Z">
         <seg>Benutzen Sie "Software Update..." aus dem Apple Menü, um Ihre Java Version zu aktualisieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T072612Z" creationid="Michael Motzkus" creationdate="20190129T072612Z">
+        <seg>Verwenden Sie $n, um auf die n-te Gruppe zu verweisen.</seg>
       </tuv>
     </tu>
     <tu>
