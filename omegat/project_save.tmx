@@ -1822,6 +1822,16 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T071936Z" creationid="Michael Motzkus" creationdate="20190129T071936Z">
+        <seg>'*' entspricht null oder mehr nachfolgende Buchstaben ('Auto*' entspricht 'Auto', 'Autor', und 'Autoren', etc.)
+'?' entspricht genau einem nachfolgenden Buchstaben ('Auto?' entspricht 'Autos' und Autor', aber nicht 'Autoren').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
       </tuv>
       <tuv lang="DE" changeid="hasan" changedate="20130528T153418Z">
