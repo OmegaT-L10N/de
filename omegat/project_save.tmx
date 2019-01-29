@@ -830,6 +830,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T070534Z" creationid="Michael Motzkus" creationdate="20190129T070534Z">
+        <seg>Auf Updates &amp;checken...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Check simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131013T170919Z">
@@ -53861,6 +53869,16 @@ technological measures.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20130621T133632Z">
         <seg>WiX-Lokalisierungsdateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T070745Z" creationid="Michael Motzkus" creationdate="20190129T070745Z">
+        <seg>Platzhalter:
+Sowohl exakte als auch Stichwortsuche unterstützen die Platzhalter '*' und '?.</seg>
       </tuv>
     </tu>
     <tu>
