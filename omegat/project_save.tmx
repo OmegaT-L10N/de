@@ -1822,6 +1822,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T083419Z" creationid="Michael Motzkus" creationdate="20190129T083419Z">
+        <seg>Text beim Verlassen des Segments &amp;validieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;View</seg>
       </tuv>
       <tuv lang="DE">
@@ -17388,6 +17396,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T083634Z" creationid="Michael Motzkus" creationdate="20190129T083634Z">
+        <seg>&amp;Aktives Quellsegment in Fettdruck anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T083554Z" creationid="Michael Motzkus" creationdate="20190129T083554Z">
+        <seg>&amp;Tags anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20131011T231929Z">
@@ -26964,6 +26988,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180917T063733Z" creationid="Michael Motzkus" creationdate="20180917T063733Z">
         <seg>Zu Beginn diese Anzahl von Segmenten laden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially load this many segments:</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T083515Z" creationid="Michael Motzkus" creationdate="20190129T083515Z">
+        <seg>Zunächst so viele Segmente laden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38891,6 +38923,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T083446Z" creationid="Michael Motzkus" creationdate="20190129T083446Z">
+        <seg>Status aut&amp;omatisch übersetzter Segmente speichern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save auto-populated status</seg>
       </tuv>
       <tuv lang="DE" changeid="karsten" changedate="20150919T144107Z" creationid="karsten" creationdate="20150919T144107Z">
@@ -42230,6 +42270,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="DE" changeid="Michael Motzkus" changedate="20180912T085340Z" creationid="Michael Motzkus" creationdate="20180912T085340Z">
         <seg>TKount Textzählwerkzeug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T083602Z" creationid="Michael Motzkus" creationdate="20190129T083602Z">
+        <seg>TM-Treffer</seg>
       </tuv>
     </tu>
     <tu>
@@ -53693,6 +53741,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="DE" changeid="eugenie" changedate="20140204T131234Z">
         <seg>Sobald eine Regel greift, wird der entsprechende Ausdruck im Editor blau unterstrichen (siehe &lt;e1&gt;also &lt;/e1&gt;und &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in der Abbildung oben).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="DE" changeid="Michael Motzkus" changedate="20190129T083541Z" creationid="Michael Motzkus" creationdate="20190129T083541Z">
+        <seg>Wenn eine einzelne Datei mehr Segmente enthält, werden beim Scrollen zusätzliche Segmente nach Bedarf geladen.</seg>
       </tuv>
     </tu>
     <tu>
