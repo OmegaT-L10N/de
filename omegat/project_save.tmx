@@ -1840,8 +1840,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Search for Selection</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T072813Z" creationid="Michael Motzkus" creationdate="20190129T072813Z">
-        <seg>Nach Auswahl &amp;suchen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195926Z" creationid="Michael Motzkus" creationdate="20190129T072813Z">
+        <seg>Ausgewählten Text &amp;suchen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2583,8 +2583,8 @@ java.exe.</seg>
       <tuv lang="en">
         <seg>(comment tag)</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T173716Z">
-        <seg>(Kommentartag)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T200204Z">
+        <seg>(Kommentar-Tag)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14563,8 +14563,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Bad folder name {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T162603Z">
-        <seg>Falscher Ordnername {0}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195344Z">
+        <seg>Fehlerhafter Ordnername {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14587,8 +14587,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Bad regular expression!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130605T143651Z">
-        <seg>Falscher regulärer Ausdruck!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195318Z">
+        <seg>Fehlerhafter regulärer Ausdruck!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17506,8 +17506,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="en">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T173650Z">
-        <seg>Verwirrung durch Fehlstart des Kommentartags!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T200137Z">
+        <seg>Verwirrung durch Fehlstart des Kommentar-Tags!</seg>
       </tuv>
     </tu>
     <tu>
@@ -26943,8 +26943,8 @@ SUCH DAMAGES.</seg>
       <tuv lang="en">
         <seg>IOException encountered:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T151610Z">
-        <seg>E/A-Ausnahmefehler:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T200032Z">
+        <seg>IOException-Fehler festgestellt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38463,8 +38463,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="en">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Anzahl der Ergebnisse: {0}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195528Z">
+        <seg>Anzahl gefundener Segmente: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -61160,8 +61160,8 @@ Die exakte Suche verwendet den kompletten Text, um Übereinstimmungen zu finden.
       <tuv lang="en">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Initialisierung zum Auslesen der XML-Datei nicht möglich!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195940Z">
+        <seg>Das Lesen der XML-Datei konnte nicht initialisiert werden!</seg>
       </tuv>
     </tu>
     <tu>
@@ -61556,8 +61556,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T173322Z">
-        <seg>Die XML-Version {0} wird nicht unterstützt!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195943Z">
+        <seg>Nicht unterstützte XML-Version {0}!</seg>
       </tuv>
     </tu>
     <tu>
