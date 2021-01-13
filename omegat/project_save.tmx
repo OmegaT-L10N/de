@@ -1432,8 +1432,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Segment &amp;leer lassen </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141633Z">
+        <seg>Segment &amp;leer lassen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,8 +2234,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>(+{0} more)</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>(+{0} mehr)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141724Z">
+        <seg>(+{0} mehr)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4864,8 +4864,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T083950Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; ist eine robuste Anwendung. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142025Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; ist eine robuste Anwendung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10869,8 +10869,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Eine Liste von möglichen Argumenten folgt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142220Z">
+        <seg>Eine Liste von möglichen Argumenten folgt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13521,8 +13521,8 @@ paragraph of section 11).</seg>
       <tuv lang="en">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Alle Zeichen nur nicht im Griechischen Block (Negation) </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141929Z">
+        <seg>Alle Zeichen nur nicht im Griechischen Block (Negation)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13779,8 +13779,8 @@ paragraph of section 11).</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T171428Z">
-        <seg>Dadurch werden alle Einstellungen auf ihre Standardwerte zurückgesetzt, so dass das System ein unerwartetes, jedoch korrektes Verhalten aufweisen könnte. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141653Z">
+        <seg>Dadurch werden alle Einstellungen auf ihre Standardwerte zurückgesetzt, so dass das System ein unerwartetes, jedoch korrektes Verhalten aufweisen könnte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14688,8 +14688,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T200231Z">
-        <seg>Sie müssen bedenken, dass die Änderung der Sprache die zurzeit verwendeten TM nutzlos machen kann, da ihr Sprachpaar den neuen Sprachen mehr nicht mehr entsprechen könnte. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141949Z">
+        <seg>Sie müssen bedenken, dass die Änderung der Sprache die zurzeit verwendeten TM nutzlos machen kann, da ihr Sprachpaar den neuen Sprachen mehr nicht mehr entsprechen könnte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15681,8 +15681,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T151425Z">
-        <seg>Der Filter kann nicht auf die Standardmuster zurückgesetzt werden. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141540Z">
+        <seg>Der Filter kann nicht auf die Standardmuster zurückgesetzt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15890,8 +15890,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Änderungen an diesem Befehl schließen Erweiterungen mit "Argumenten" ein. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142216Z">
+        <seg>Änderungen an diesem Befehl schließen Erweiterungen mit "Argumenten" ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15914,8 +15914,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T201016Z">
-        <seg>Das Ändern von Segmentierungseinstellungen kann dazu führen, dass schon übersetzte Segmente aufgespalten oder vereint werden. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141953Z">
+        <seg>Das Ändern von Segmentierungseinstellungen kann dazu führen, dass schon übersetzte Segmente aufgespalten oder vereint werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17458,8 +17458,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="en">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T151306Z">
-        <seg>Bestätigen Sie das Löschen des Musters {0} </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141530Z">
+        <seg>Bestätigen Sie das Löschen des Musters {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17554,8 +17554,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="en">
         <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg> Entsprechend genügt es,  nur diese Datei zu ändern, um Änderungen am Startbefehl vorzunehmen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141336Z">
+        <seg>Entsprechend genügt es, nur diese Datei zu ändern, um Änderungen am Startbefehl vorzunehmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18666,8 +18666,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Creates and opens a new project.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Erzeugt und öffnet ein neues Projekt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142302Z">
+        <seg>Erzeugt und öffnet ein neues Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20608,8 +20608,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Sie können ruhig in der Sprache, mit der Sie am vertrautesten sind, schreiben. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142054Z">
+        <seg>Sie können ruhig in der Sprache, mit der Sie am vertrautesten sind, schreiben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21690,8 +21690,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="en">
         <seg>Edit project properties here.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T222302Z">
-        <seg>Die Projekteigenschaften können hier bearbeitet werden. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141351Z">
+        <seg>Die Projekteigenschaften können hier bearbeitet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21943,8 +21943,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Erlaubt einen von der Groß-Kleinschreibung unabhängigen Vergleich (voreingestellt macht das Muster einen Unterschied zwischen Gross- und Kleinschreibung). </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141922Z">
+        <seg>Erlaubt einen von der Groß-Kleinschreibung unabhängigen Vergleich (voreingestellt macht das Muster einen Unterschied zwischen Gross- und Kleinschreibung).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23049,8 +23049,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Externe Werkzeuge können verwendet werden, um Dateien in unterstützte Formate zu konvertieren. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142126Z">
+        <seg>Externe Werkzeuge können verwendet werden, um Dateien in unterstützte Formate zu konvertieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23217,8 +23217,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T140027Z">
-        <seg>Schwerwiegender Fehler - das Projekt wird mit der Dateiendung '.recover' gespeichert. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141347Z">
+        <seg>Schwerwiegender Fehler - das Projekt wird mit der Dateiendung '.recover' gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23587,8 +23587,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T190812Z">
-        <seg>Schließlich speichern Sie die Änderungen mit &lt;e0&gt;Datei - Speichern.&lt;/e0&gt; </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142146Z">
+        <seg>Schließlich speichern Sie die Änderungen mit &lt;e0&gt;Datei - Speichern.&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23699,8 +23699,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T050325Z">
-        <seg>Bei Korrekturen geht es meistens um triviale Sachen und OmegaT wird Ihnen in der Fehlermeldung andeuten, um welchen Fehler es sich handelt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142120Z">
+        <seg>Bei Korrekturen geht es meistens um triviale Sachen und OmegaT wird Ihnen in der Fehlermeldung andeuten, um welchen Fehler es sich handelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23787,8 +23787,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Follow the installation instructions of the package you need.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Folgen Sie den Installationsanweisungen des Pakets, das Sie brauchen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142158Z">
+        <seg>Folgen Sie den Installationsanweisungen des Pakets, das Sie brauchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25187,8 +25187,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T145112Z" creationid="Michael Motzkus" creationdate="20181022T145112Z">
-        <seg>Zeichen unabhängig von voller / halber Breite </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141408Z" creationid="Michael Motzkus" creationdate="20181022T145112Z">
+        <seg>Zeichen unabhängig von voller / halber Breite</seg>
       </tuv>
     </tu>
     <tu>
@@ -25443,8 +25443,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Git '{0}' execution start</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T180331Z">
-        <seg>Starten der Ausführung von Git '{0}' </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141811Z">
+        <seg>Starten der Ausführung von Git '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -25507,8 +25507,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T163615Z">
-        <seg>Glossare sind Dateien, die manuell geschaffen und für den Gebrauch in &lt;a0&gt;OmegaT&lt;/a0&gt; aktualisiert werden. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141816Z">
+        <seg>Glossare sind Dateien, die manuell geschaffen und für den Gebrauch in &lt;a0&gt;OmegaT&lt;/a0&gt; aktualisiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25595,8 +25595,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130523T060806Z">
-        <seg>Glossar-Dateien sind einfache Klartext-Dateien mit drei durch Tabulator-Zeichen getrennten Spalten für das Quellwort (erste Spalte) und das Zielwort (zweite Spalte). </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141830Z">
+        <seg>Glossar-Dateien sind einfache Klartext-Dateien mit drei durch Tabulator-Zeichen getrennten Spalten für das Quellwort (erste Spalte) und das Zielwort (zweite Spalte).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26003,8 +26003,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T140128Z">
-        <seg>Segmentierung von HTML-, XHTML-, ODF- und Infix-Dateien </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141609Z">
+        <seg>Segmentierung von HTML-, XHTML-, ODF- und Infix-Dateien</seg>
       </tuv>
     </tu>
     <tu>
@@ -26107,8 +26107,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Kopf&amp;zeilen </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141459Z">
+        <seg>Kopf&amp;zeilen</seg>
       </tuv>
     </tu>
     <tu>
@@ -26264,16 +26264,16 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T170452Z">
-        <seg>Hier können Sie den gewünschten Speicherort der Projektdateien festlegen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141402Z">
+        <seg>Hier können Sie den gewünschten Speicherort der Projektdateien festlegen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T183257Z">
-        <seg>Hier können Sie die Quelldateinamensmuster für die Bearbeitung durch den Filter bestimmen, den Dateinamen der Zieldateien und die Kodierung der Quell- und Zieldatei festlegen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141544Z">
+        <seg>Hier können Sie die Quelldateinamensmuster für die Bearbeitung durch den Filter bestimmen, den Dateinamen der Zieldateien und die Kodierung der Quell- und Zieldatei festlegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26296,8 +26296,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T155911Z">
-        <seg>Verbergen '{0}' </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141752Z">
+        <seg>'{0}' verstecken</seg>
       </tuv>
     </tu>
     <tu>
@@ -27184,8 +27184,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T113917Z">
-        <seg>Enthält die HTML-Datei eine Kodierungsdeklaration, wird sie ohne Berücksichtigung der angegebenen Werte in diesem Dialogfenster verwendet. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141548Z">
+        <seg>Enthält die HTML-Datei eine Kodierungsdeklaration, wird sie ohne Berücksichtigung der angegebenen Werte in diesem Dialogfenster verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27240,8 +27240,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="en">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T133525Z">
-        <seg>Enthält eine HHC- or HHK-Datei eine Kodierungsdeklaration, wird sie ohne Berücksichtigung der angegebenen Werte in diesem Dialogfenster verwendet. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141604Z">
+        <seg>Enthält eine HHC- or HHK-Datei eine Kodierungsdeklaration, wird sie ohne Berücksichtigung der angegebenen Werte in diesem Dialogfenster verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27390,8 +27390,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T163717Z">
-        <seg>Wenn ein &lt;a0&gt;OmegaT&lt;/a0&gt; Projekt ein oder mehr Glossare enthält, werden die Ausdrücke, die sich sowohl in Glossaren als auch im aktiven Segment befinden, im Glossar Fenster angezeigt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141821Z">
+        <seg>Wenn ein &lt;a0&gt;OmegaT&lt;/a0&gt; Projekt ein oder mehr Glossare enthält, werden die Ausdrücke, die sich sowohl in Glossaren als auch im aktiven Segment befinden, im Glossar Fenster angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27406,8 +27406,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T050116Z">
-        <seg>Wird in solch einer Datei ein Fehler gefunden, wird OmegaT die Stelle angeben, an der der Fehler in der beschädigten Datei sitzt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142109Z">
+        <seg>Wird in solch einer Datei ein Fehler gefunden, wird OmegaT die Stelle angeben, an der der Fehler in der beschädigten Datei sitzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27602,8 +27602,8 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="en">
         <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode and will translate the given project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T130040Z">
-        <seg>Wenn angegeben, wird &lt;a2&gt;OmegaT&lt;/a2&gt; im Konsolenmodus starten und das angegebene Projekt übersetzen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142231Z">
+        <seg>Wenn angegeben, wird &lt;a2&gt;OmegaT&lt;/a2&gt; im Konsolenmodus starten und das angegebene Projekt übersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27694,8 +27694,8 @@ excuse you from the conditions of this License.</seg>
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T171505Z">
-        <seg>Wenn der Zugriff auf den gewünschten Speicherort später gewährt wird, wird dieser Speicherort verwendet und sämtliche Einstellungen werden aufgrund der Änderung des Speicherorts auf ihre Standardwerte zurückgesetzt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141707Z">
+        <seg>Wenn der Zugriff auf den gewünschten Speicherort später gewährt wird, wird dieser Speicherort verwendet und sämtliche Einstellungen werden aufgrund der Änderung des Speicherorts auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28128,16 +28128,16 @@ to choose that version for the Program.</seg>
       <tuv lang="en">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T125847Z">
-        <seg>Ist das aktive Segment das erste Segment in der Datei, geht es zum letzte Segment der vorherigen Datei. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142257Z">
+        <seg>Ist das aktive Segment das erste Segment in der Datei, geht es zum letzte Segment der vorherigen Datei.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T125728Z">
-        <seg>Ist das aktive Segment das letzte Segment in der Datei, geht es zum ersten Segment der nächsten Datei. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142248Z">
+        <seg>Ist das aktive Segment das letzte Segment in der Datei, geht es zum ersten Segment der nächsten Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28364,8 +28364,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T084941Z">
-        <seg>Wenn die Quelldatei, nachdem mit der Übersetzung begonnen wurde, verändert wird, kann es dazu kommen, dass &lt;a1&gt;OmegaT&lt;/a1&gt; ein bereits übersetztes Segment nicht mehr findet. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142044Z">
+        <seg>Wenn die Quelldatei, nachdem mit der Übersetzung begonnen wurde, verändert wird, kann es dazu kommen, dass &lt;a1&gt;OmegaT&lt;/a1&gt; ein bereits übersetztes Segment nicht mehr findet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29399,8 +29399,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Wenn Sie nur Textinformation brauchen (und keine Formatierungen), verwenden Sie die von OmegaT geschaffene Level 1 Datei. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142123Z">
+        <seg>Wenn Sie nur Textinformation brauchen (und keine Formatierungen), verwenden Sie die von OmegaT geschaffene Level 1 Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29624,8 +29624,8 @@ folgt starten können:</seg>
       <tuv lang="en">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T050229Z">
-        <seg>Wenn Sie solche Dateien als Bezugsübersetzungen in OmegaT verwenden wollen, müssen Sie repariert werden, sonst wird OmegaT einen Fehler melden und sie nicht laden können. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142115Z">
+        <seg>Wenn Sie solche Dateien als Bezugsübersetzungen in OmegaT verwenden wollen, müssen Sie repariert werden, sonst wird OmegaT einen Fehler melden und sie nicht laden können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29902,8 +29902,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T073347Z" creationid="Michael Motzkus" creationdate="20180917T073347Z">
-        <seg>Importieren Sie die Quelldatei in &lt;u0&gt; LibreOffice Draw &lt;/ u0&gt;, speichern Sie sie als ODG-Datei, übersetzen und exportieren Sie sie nach Bedarf in PDF.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141006Z" creationid="Michael Motzkus" creationdate="20180917T073347Z">
+        <seg>Importieren Sie die Quelldatei in &lt;u0&gt; LibreOffice Draw&lt;/u0&gt;, speichern Sie sie als ODG-Datei, übersetzen Sie sie, und exportieren Sie sie nach Bedarf in PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30286,8 +30286,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124058Z">
-        <seg>Wenn Sie sich entscheiden, die Projektordner zu ändern, vergessen Sie nicht, dass OmegaT die in alten Ordnern enthaltenen Dateien nicht in die neuen Ordner verschieben wird. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142009Z">
+        <seg>Wenn Sie sich entscheiden, die Projektordner zu ändern, vergessen Sie nicht, dass OmegaT die in alten Ordnern enthaltenen Dateien nicht in die neuen Ordner verschieben wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30376,8 +30376,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>In vielen Fällen jedoch ist es notwendig, einen LTR Text in RTL-Text einzubetten. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142011Z">
+        <seg>In vielen Fällen jedoch ist es notwendig, einen LTR Text in RTL-Text einzubetten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30696,8 +30696,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T153458Z">
-        <seg>Klicken Sie im Feld "Befehl" auf die Schaltfläche Navigation, um im &lt;a0&gt;OmegaT&lt;/a0&gt;-Start-Skript (die Datei &lt;a1&gt;OmegaT&lt;/a1&gt; im ausgepackten Ordner) zu finden, und wählen Sie diese aus. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142141Z">
+        <seg>Klicken Sie im Feld "Befehl" auf die Schaltfläche Navigation, um im &lt;a0&gt;OmegaT&lt;/a0&gt;-Start-Skript (die Datei &lt;a1&gt;OmegaT&lt;/a1&gt; im ausgepackten Ordner) zu finden, und wählen Sie diese aus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30950,8 +30950,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In the quiet mode, less info is logged to the screen.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T200802Z">
-        <seg>Im stillen Modus werden im Log-Fenster weniger Infos erscheinen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142234Z">
+        <seg>Im stillen Modus werden im Log-Fenster weniger Infos erscheinen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31184,9 +31184,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T155000Z">
-        <seg>In Ihrem Dateimanager legen Sie einen neuen Ordner an, der geeignet ist, um Rechtschreibung-Wörterbücher zu speichern (D:\Translations\spellcheckers im Beispiel unten).
-</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141937Z">
+        <seg>In Ihrem Dateimanager legen Sie einen neuen Ordner an, der geeignet ist, um Rechtschreibung-Wörterbücher zu speichern (D:\Translations\spellcheckers im Beispiel unten).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31589,8 +31588,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Fügt an der Cursor-Position den ausgewählten Treffer in das aktive Segment ein. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142237Z">
+        <seg>Fügt an der Cursor-Position den ausgewählten Treffer in das aktive Segment ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31605,8 +31604,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Inserts the source at the cursor position.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Fügt an der Cursor-Position den Quelltext in das aktive Segment ein. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142239Z">
+        <seg>Fügt an der Cursor-Position den Quelltext in das aktive Segment ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32189,8 +32188,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Sie zeigt auch die Anzahl der unscharfen Treffer und Treffer im Glossar für das gegenwärtige Segment. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142313Z">
+        <seg>Sie zeigt auch die Anzahl der unscharfen Treffer und Treffer im Glossar für das gegenwärtige Segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32683,8 +32682,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="en">
         <seg>It is used to mark your translations.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T142723Z">
-        <seg>Diese Information wird zur Kennzeichnung Ihrer Übersetzungen verwendet. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141627Z">
+        <seg>Diese Information wird zur Kennzeichnung Ihrer Übersetzungen verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32812,8 +32811,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T171533Z">
-        <seg>Im Konfigurationsordner konnte kein Skriptordner angelegt werden. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141714Z">
+        <seg>Im Konfigurationsordner konnte kein Skriptordner angelegt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33230,8 +33229,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>KDE 4 Users</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T185908Z">
-        <seg>KDE Benutzer</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141124Z">
+        <seg>KDE-Benutzer</seg>
       </tuv>
     </tu>
     <tu>
@@ -33638,8 +33637,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T113730Z">
-        <seg>Es ist keine Sprache für die TU-Variante definiert. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141430Z">
+        <seg>Es ist keine Sprache für die TU-Variante definiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34001,8 +34000,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Launch command arguments</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Parameter für den Startbefehl </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142214Z">
+        <seg>Parameter für den Startbefehl</seg>
       </tuv>
     </tu>
     <tu>
@@ -36013,8 +36012,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Methods differ depending on the distribution.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Methoden hängen von der Distribution ab. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142151Z">
+        <seg>Methoden hängen von der Distribution ab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36680,16 +36679,16 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Moves to the next segment.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Geht zum nächsten Segment. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142245Z">
+        <seg>Geht zum nächsten Segment.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Moves to the previous segment.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Geht zum vorherigen Segment. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142255Z">
+        <seg>Geht zum vorherigen Segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37072,8 +37071,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>New Language and Country</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T142551Z">
-        <seg>Neue Sprache und neues Land </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141617Z">
+        <seg>Neue Sprache und neues Land</seg>
       </tuv>
     </tu>
     <tu>
@@ -37104,8 +37103,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T185525Z">
-        <seg>Neue Ausdrücke können während der Übersetzung zum Beispiel in einem Text Editor manuell in die Datei bzw. Dateien eingefügt werden. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141825Z">
+        <seg>Neue Ausdrücke können während der Übersetzung zum Beispiel in einem Text Editor manuell in die Datei bzw. Dateien eingefügt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37377,8 +37376,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>No matches returned by search.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130605T144258Z">
-        <seg>Die Suche ergab keine Treffer. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141417Z">
+        <seg>Die Suche ergab keine Treffer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39117,8 +39116,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T050010Z">
-        <seg>OmegaT folgt bei dem Laden von TMX Dateien sehr strengen Vorgaben. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142107Z">
+        <seg>OmegaT folgt bei dem Laden von TMX Dateien sehr strengen Vorgaben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39306,8 +39305,8 @@ Projekte.</seg>
       <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T221806Z">
-        <seg>OmegaT ist ein kostenloses, plattformübergreifendes, Open-Source-Tool zur computerunterstützten Übersetzung (CAT), das Fuzzy-Matching, die Stichwortsuche, Glossare und die Wiederverwendung übersetzer Inhalte in neuen Projekten unterstützt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141525Z">
+        <seg>OmegaT ist ein kostenloses, plattformübergreifendes, Open-Source-Tool zur computerunterstützten Übersetzung (CAT), das Fuzzy-Matching, die Stichwortsuche, Glossare und die Wiederverwendung übersetzter Inhalte in neuen Projekten unterstützt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39707,8 +39706,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T044957Z">
-        <seg>OmegaT unterstützt importierte TMX Dateien der Versionen 1.1-1.4b (beide Level 1 und Level 2). </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142104Z">
+        <seg>OmegaT unterstützt importierte TMX Dateien der Versionen 1.1-1.4b (beide Level 1 und Level 2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40477,8 +40476,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T090741Z">
-        <seg>Man hat ein oder mehrere der oben genannten Probleme gelöst, das Projekt wurde aber nicht erneut geladen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141855Z">
+        <seg>Man hat ein oder mehrere der oben genannten Probleme gelöst, das Projekt wurde aber nicht erneut geladen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40535,8 +40534,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T114007Z">
-        <seg>Nur bei vorhandenem &amp;Header in der (X)HTML-Datei. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141554Z">
+        <seg>Nur bei vorhandenem &amp;Header in der (X)HTML-Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41000,8 +40999,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Opens a previously created project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180918T082327Z">
-        <seg>Öffnet ein zuvor erstelltes Projekt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142305Z">
+        <seg>Öffnet ein zuvor erstelltes Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42178,8 +42177,8 @@ Sie es.</seg>
       <tuv lang="en">
         <seg>Please close search window.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T173214Z">
-        <seg>Bitte schließen Sie das Suchfenster. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141413Z">
+        <seg>Bitte schließen Sie das Suchfenster.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47426,8 +47425,8 @@ Der Ort einer Suche ist standardmäßig das Projekt und kann auf alle Dateien in
       <tuv lang="en">
         <seg>Select it and confirm with OK.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Auswählen und mit OK bestätigen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142148Z">
+        <seg>Auswählen und mit OK bestätigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48710,8 +48709,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T170105Z">
-        <seg>Einzelne Projektordner wurden verschoben. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141357Z">
+        <seg>Einzelne Projektordner wurden verschoben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48750,8 +48749,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T050135Z">
-        <seg>Einige Werkzeuge sind dafür bekannt, dass sie unter bestimmten Bedingungen ungültige TMX Dateien erzeugen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142112Z">
+        <seg>Einige Werkzeuge sind dafür bekannt, dass sie unter bestimmten Bedingungen ungültige TMX Dateien erzeugen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49046,8 +49045,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T140421Z">
-        <seg>Das Quellsegment bestimmter Übersetzungseinheiten (TUs) konnte nicht gefunden werden. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141439Z">
+        <seg>Das Quellsegment bestimmter Übersetzungseinheiten (TUs) konnte nicht gefunden werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50214,8 +50213,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T140553Z">
-        <seg>Die TMX-Datei wurde mit der OmegaT-Version 1.4.x oder einer früheren Version erstellt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141451Z">
+        <seg>Die TMX-Datei wurde mit der OmegaT-Version 1.4.x oder einer früheren Version erstellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51269,8 +51268,8 @@ Der Ersetzungsbereich von Text bezieht sich auf die Zielsegmente des Projekts, u
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T134947Z">
-        <seg>Stattdessen wird der aktuelle Ordner verwendet. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141645Z">
+        <seg>Stattdessen wird der aktuelle Ordner verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52222,8 +52221,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T114540Z">
-        <seg>Die TMX-Datei wird weiter geladen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141447Z">
+        <seg>Die TMX-Datei wird weiter geladen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52874,8 +52873,8 @@ instead.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T135725Z">
-        <seg>Stattdessen wird der aktuelle Ordner verwendet. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141704Z">
+        <seg>Stattdessen wird der aktuelle Ordner verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53620,8 +53619,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T090702Z">
-        <seg>Die Glossar-Datei hat nicht die richtige Kodierung </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141846Z">
+        <seg>Die Glossar-Datei hat nicht die richtige Kodierung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53984,8 +53983,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at startup.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T090844Z">
-        <seg>Der Ort ist dabei ohne Bedeutung, da man ihn beim Start zur Befehlszeile hinzufügen kann. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142228Z">
+        <seg>Der Ort ist dabei ohne Bedeutung, da man ihn beim Start zur Befehlszeile hinzufügen kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54224,8 +54223,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130513T092258Z">
-        <seg>Die Datei &lt;f1&gt;project_save.tmx, &lt;/f1&gt; ist der TM-Arbeitsspeicher für das Projekt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142316Z">
+        <seg>Die Datei &lt;f1&gt;project_save.tmx, &lt;/f1&gt; ist der TM-Arbeitsspeicher für das Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54782,8 +54781,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130519T124612Z">
-        <seg>Die Qualität der Formatierung der übersetzten Datei wird von der Qualität der durchlaufenen Konvertierung abhängen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142128Z">
+        <seg>Die Qualität der Formatierung der übersetzten Datei wird von der Qualität der durchlaufenen Konvertierung abhängen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54822,8 +54821,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124212Z">
-        <seg>Die regulären Ausdrücke (kurz: regex), die bei der Suche und in den Segmentierungsregeln verwendet werden, entsprechen den von Java unterstützten Ausdrücken. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141902Z">
+        <seg>Die regulären Ausdrücke (kurz: regex), die bei der Suche und in den Segmentierungsregeln verwendet werden, entsprechen den von Java unterstützten Ausdrücken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55198,8 +55197,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The separators between the panes can be dragged to resize panes.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Um die Fenstergrößen anzupassen, kann man die Trennlinien zwischen den Unterfenstern ziehen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142308Z">
+        <seg>Um die Fenstergrößen anzupassen, kann man die Trennlinien zwischen den Unterfenstern ziehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55714,8 +55713,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Die dritte Spalte kann für Zusatzinformation verwendet werden. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141836Z">
+        <seg>Die dritte Spalte kann für Zusatzinformation verwendet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56170,8 +56169,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T222644Z">
-        <seg>So werden in Ihrem Projekt mit kanadisch Französisch als Quellsprache sämtliche Segmentierungsregeln in der korrekten Reihenfolge angewandt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141613Z">
+        <seg>So werden in Ihrem Projekt mit kanadisch Französisch als Quellsprache sämtliche Segmentierungsregeln in der korrekten Reihenfolge angewandt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56202,8 +56201,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T190302Z">
-        <seg>Dann, nach Auswahl eines passenden Menüs, fügen Sie ein Untermenü/Artikel mit &lt;e0&gt;Datei - Neu&lt;/e0&gt; Untermenü und &lt;e1&gt;Dateien - Neues Element&lt;/e1&gt; hinzu. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142138Z">
+        <seg>Dann, nach Auswahl eines passenden Menüs, fügen Sie ein Untermenü/Artikel mit &lt;e0&gt;Datei - Neu&lt;/e0&gt; Untermenü und &lt;e1&gt;Dateien - Neues Element&lt;/e1&gt; hinzu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56330,8 +56329,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>There are two ways of launching &lt;a1&gt;OmegaT&lt;/a1&gt; using the command line.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T070239Z">
-        <seg>Es gibt zwei Arten, &lt;a1&gt;OmegaT&lt;/a1&gt; mittels der Befehlszeile zu starten. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142205Z">
+        <seg>Es gibt zwei Arten, &lt;a1&gt;OmegaT&lt;/a1&gt; mittels der Befehlszeile zu starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56461,8 +56460,8 @@ covered work, you indicate your acceptance of this License to do so.</seg>
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T140412Z">
-        <seg>Aus diesem Grund kann der Speicherort des Konfigurationsordners von OmegaT nicht verlässlich ermittelt werden. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141641Z">
+        <seg>Aus diesem Grund kann der Speicherort des Konfigurationsordners von OmegaT nicht verlässlich ermittelt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56636,8 +56635,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>These units have been skipped.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Diese Einheiten wurden übersprungen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141443Z">
+        <seg>Diese Einheiten wurden übersprungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57006,8 +57005,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Diese Java Version wird andere Java Installationen auf Ihrem System nicht stören. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142133Z">
+        <seg>Diese Java Version wird andere Java Installationen auf Ihrem System nicht stören.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57114,8 +57113,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T070825Z" creationid="Michael Motzkus" creationdate="20180919T070529Z">
-        <seg>Dieser Bereich erlaubt die Eingabe eines externen Nachbereitungskommandos (zum Beispiel ein Skript, das Dateinamen ändert), das jedes Mal ausgeführt wird, nachdem "Zieldokumente erstellen" benutzt wurde. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141959Z" creationid="Michael Motzkus" creationdate="20180919T070529Z">
+        <seg>Dieser Bereich erlaubt die Eingabe eines externen Nachbereitungskommandos (zum Beispiel ein Skript, das Dateinamen ändert), das jedes Mal ausgeführt wird, nachdem "Zieldokumente erstellen" benutzt wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57179,8 +57178,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This can be achieved in two ways:</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Das kann auf zwei Arten erreicht werden: </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142226Z">
+        <seg>Das kann auf zwei Arten erreicht werden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57259,8 +57258,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T071517Z">
-        <seg>Dieser Befehl wechselt in den Ordner, in dem sich die ausführbare &lt;a0&gt;OmegaT&lt;/a0&gt; Datei befindet. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142209Z">
+        <seg>Dieser Befehl wechselt in den Ordner, in dem sich die ausführbare &lt;a0&gt;OmegaT&lt;/a0&gt; Datei befindet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58118,8 +58117,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130519T133708Z">
-        <seg>Das bedeutet, wenn die Quellsprache LTR und die Zielsprache RTL ist, oder umgekehrt, könnte es evtl. notwendig sein, zwischen RTL und LTR-Modi zu wechseln, um sowohl die Quelle als auch das Ziel problemlos einzusehen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142016Z">
+        <seg>Das bedeutet, wenn die Quellsprache LTR und die Zielsprache RTL ist, oder umgekehrt, könnte es evtl. notwendig sein, zwischen RTL und LTR-Modi zu wechseln, um sowohl die Quelle als auch das Ziel problemlos einzusehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58582,8 +58581,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T201054Z">
-        <seg>Das wird sie praktisch in den "nicht übersetzten" Status zurücksetzen, weil sie den Segmenten in der TM nicht mehr entsprechen, obwohl die alte Übersetzung noch da ist. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141956Z">
+        <seg>Das wird sie praktisch in den "nicht übersetzten" Status zurücksetzen, weil sie den Segmenten in der TM nicht mehr entsprechen, obwohl die alte Übersetzung noch da ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59036,8 +59035,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180823T093928Z" creationid="BVB" creationdate="20180823T093928Z">
-        <seg>Um das Benutzerhandbuch innerhalb von OmegaT aufzurufen, wählen Sie einfach Hilfe &gt; Benutzerhandbuch oder drücken F11.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141251Z" creationid="BVB" creationdate="20180823T093928Z">
+        <seg>Um das Benutzerhandbuch innerhalb von OmegaT aufzurufen, wählen Sie einfach Hilfe &gt; Benutzerhandbuch aus oder drücken Sie F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59237,8 +59236,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T081052Z">
-        <seg>Um das Schnellstart-Handbuch in der gewünschten Sprache anzuzeigen, müssen Sie sowohl die Sprache als auch das Land angeben. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142222Z">
+        <seg>Um das Schnellstart-Handbuch in der gewünschten Sprache anzuzeigen, müssen Sie sowohl die Sprache als auch das Land angeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60754,8 +60753,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T112930Z">
-        <seg>Die Übersetzungseinheit (TU) befindet sich vor dem TMX-Header. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141425Z">
+        <seg>Die Übersetzungseinheit (TU) befindet sich vor dem TMX-Header.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61584,8 +61583,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Until you are familiar with &lt;a0&gt;OmegaT&lt;/a0&gt;, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T084848Z">
-        <seg>Bis Sie mit &lt;a0&gt;OmegaT&lt;/a0&gt; vertraut sind, erzeugen Sie die Zieldokumente in regelmäßigen Abständen und überprüfen Sie, ob die erzeugten Dateien die neueste Version Ihrer Übersetzung enthalten. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142042Z">
+        <seg>Bis Sie mit &lt;a0&gt;OmegaT&lt;/a0&gt; vertraut sind, erzeugen Sie die Zieldokumente in regelmäßigen Abständen und überprüfen Sie, ob die erzeugten Dateien die neueste Version Ihrer Übersetzung enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62554,8 +62553,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T060409Z">
-        <seg>Benutzer anderer Plattformen (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc.) müssen auf ihren Systemen über eine kompatible JAVA JRE verfügen, um &lt;a1&gt;OmegaT&lt;/a1&gt; verwenden zu können. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142155Z">
+        <seg>Benutzer anderer Plattformen (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc.) müssen auf ihren Systemen über eine kompatible JAVA JRE verfügen, um &lt;a1&gt;OmegaT&lt;/a1&gt; verwenden zu können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62916,8 +62915,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Variant skipped.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T112943Z">
-        <seg>Variante übersprungen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141435Z">
+        <seg>Variante übersprungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63627,8 +63626,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130519T134349Z">
-        <seg>Wenn das übersetzte Dokument erzeugt wird, wird die Richtung der Anzeige dem Original-Dokument entsprechen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142019Z">
+        <seg>Wenn das übersetzte Dokument erzeugt wird, wird die Richtung der Anzeige dem Original-Dokument entsprechen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63651,8 +63650,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When this file is executed, the commands within it are automatically carried out.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Wenn diese Datei ausgeführt wird, werden die darin enthaltenen Befehle automatisch ausgeführt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142211Z">
+        <seg>Wenn diese Datei ausgeführt wird, werden die darin enthaltenen Befehle automatisch ausgeführt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63933,8 +63932,8 @@ technological measures.</seg>
       <tuv lang="en">
         <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Wenn Sie sich zum folgenden Segment bewegen, wird der erste unscharfe Treffer (derjenige mit dem höchsten Prozentsatz an Übereinstimmung) automatisch ausgewählt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142310Z">
+        <seg>Wenn Sie sich zum folgenden Segment bewegen, wird der erste unscharfe Treffer (derjenige mit dem höchsten Prozentsatz an Übereinstimmung) automatisch ausgewählt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63973,8 +63972,8 @@ technological measures.</seg>
       <tuv lang="en">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T155805Z">
-        <seg>Kopiern Sie nach Beendigung eines Projekts eine der drei "export"-TM-Dateien aus dem Hauptordner des Projekts in den "repository"-Ordner. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142058Z">
+        <seg>Kopiern Sie nach Beendigung eines Projekts eine der drei "export"-TM-Dateien aus dem Hauptordner des Projekts in den "repository"-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65569,9 +65568,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T155206Z">
-        <seg>Sie können die Dateien entweder manuell kopieren. d.h. von einem anderen Ort auf Ihrem Computer unter Benutzung des Dateimanagers; oder Sie könnten die OmegaT Funktion &lt;e0&gt;"neues Wörterbuch installieren"&lt;/e0&gt; benutzen, um eine Liste von vorhandenen Wörterbüchern zu erhalten, aus denen Sie auswählen können.
-</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141945Z">
+        <seg>Sie können die Dateien entweder manuell kopieren. d.h. von einem anderen Ort auf Ihrem Computer unter Benutzung des Dateimanagers; oder Sie könnten die OmegaT Funktion &lt;e0&gt;"neues Wörterbuch installieren"&lt;/e0&gt; benutzen, um eine Liste von vorhandenen Wörterbüchern zu erhalten, aus denen Sie auswählen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66440,8 +66438,8 @@ or can get the source code.</seg>
       <tuv lang="en">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T173704Z">
-        <seg>Sie müssen das JDK 1.6 auf die neueste Version aktualisieren bzw. die jaxb-*.jar-Dateien aus OmegaT /lib dir entfernen </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141801Z">
+        <seg>Sie müssen das JDK 1.6 auf die neueste Version aktualisieren bzw. die jaxb-*.jar-Dateien aus OmegaT /lib dir entfernen</seg>
       </tuv>
     </tu>
     <tu>
@@ -66587,8 +66585,8 @@ them.</seg>
       <tuv lang="en">
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T140611Z">
-        <seg>Im aktuellen Projekt wird die Satzsegmentierung verwendet, die TMX-Datei wurde aber unter Verwendung der absatzweisen Segmentierung erstellt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141455Z">
+        <seg>Im aktuellen Projekt wird die Satzsegmentierung verwendet, die TMX-Datei wurde aber unter Verwendung der absatzweisen Segmentierung erstellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66620,8 +66618,8 @@ them.</seg>
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T135704Z">
-        <seg>Das Betriebssystem Ihres Computers hat OmegaT die Erstellung des Konfigurationsordners verwehrt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141659Z">
+        <seg>Das Betriebssystem Ihres Computers hat OmegaT die Erstellung des Konfigurationsordners verwehrt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67596,8 +67594,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>attributes.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Attribute. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141420Z">
+        <seg>Attribute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75318,8 +75316,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Wählen Sie die Sicherheitskopie der TM aus, die am wahrscheinlichsten alle Daten enthält, die Sie vermissen </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142038Z">
+        <seg>Wählen Sie die Sicherheitskopie der TM aus, die am wahrscheinlichsten alle Daten enthält, die Sie vermissen</seg>
       </tuv>
     </tu>
     <tu>
