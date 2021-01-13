@@ -14299,8 +14299,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Auto-sync with Editor</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T125624Z" creationid="karsten" creationdate="20150919T125540Z">
-        <seg>Automatische Synchronisierung mit Editorfenster</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T194729Z" creationid="karsten" creationdate="20150919T125540Z">
+        <seg>Mit dem Editor auto-synchronisieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -14491,8 +14491,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Back to the initial segment on close</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T124359Z" creationid="karsten" creationdate="20150919T124359Z">
-        <seg>Beim Beenden zurück zum ursprünglichen Segment</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T194952Z" creationid="karsten" creationdate="20150919T124359Z">
+        <seg>Nach Beendigung zurück zum Anfangssegment</seg>
       </tuv>
     </tu>
     <tu>
@@ -22308,8 +22308,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T072712Z" creationid="Michael Motzkus" creationdate="20190129T072712Z">
-        <seg>Fehler beim Ersetzen regulärer Ausdrücke:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195311Z" creationid="Michael Motzkus" creationdate="20190129T072712Z">
+        <seg>Fehler beim RegEx-Ersetzen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33403,8 +33403,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>Keyword searches are not available in the search string.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T193747Z" creationid="Michael Motzkus" creationdate="20190129T072428Z">
-        <seg>Eine Stichwortsuche ist bei der Textersetzung nicht möglich.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T193836Z" creationid="Michael Motzkus" creationdate="20190129T072428Z">
+        <seg>Die Stichwortsuche ist bei einer Textersetzung nicht möglich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35880,8 +35880,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Die maximale Anzahl gefundener Stellen wurde erreicht ({0})</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195100Z">
+        <seg>Maximale Anzahl gefundener Elemente erreicht ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -61820,8 +61820,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T072612Z" creationid="Michael Motzkus" creationdate="20190129T072612Z">
-        <seg>Verwenden Sie $n, um auf die n-te Gruppe zu verweisen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T194624Z" creationid="Michael Motzkus" creationdate="20190129T072612Z">
+        <seg>Verwenden Sie $n, um auf den gefundenen Text der n-te Gruppe zu verweisen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63719,8 +63719,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T072520Z" creationid="Michael Motzkus" creationdate="20190129T072520Z">
-        <seg>Bei Verwendung regulärer Ausdrücke unterstützt die Ersetzungszeichenfolge Verweise auf Gruppen, die in der Suchzeichenfolge definiert sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195205Z" creationid="Michael Motzkus" creationdate="20190129T072520Z">
+        <seg>Wenn Sie reguläre Ausdrücke verwenden, unterstützt das Ersetzen-Feld sogenannte Rückreferenzen, die auf die gefundenen Texte von im Suchfeld definierten Gruppen verweisen.</seg>
       </tuv>
     </tu>
     <tu>
