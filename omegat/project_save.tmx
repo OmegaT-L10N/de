@@ -16762,8 +16762,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T145650Z">
-        <seg>Auf das Menüelement '{0}' klicken</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214956Z">
+        <seg>Klick auf Menüpunkt '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -18370,8 +18370,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T154226Z" creationid="karsten" creationdate="20150919T154226Z">
-        <seg>Geschützten Text und &amp;benutzerdefinierte Tags in Statistik berücksichtigen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214508Z" creationid="karsten" creationdate="20150919T154226Z">
+        <seg>Geschützte Te&amp;xte und &amp;benutzerdefinierte Tags in den Statistiken einbeziehen</seg>
       </tuv>
     </tu>
     <tu>
@@ -20552,8 +20552,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T084928Z" creationid="Michael Motzkus" creationdate="20190129T084928Z">
-        <seg>Zeigt die Übersetzung des Quellensegments durch die in Einstellungen &gt; Maschinenübersetzung ausgewählten Maschinenübersetzungsdienste an, sofern diese Dienste verfügbar sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214110Z" creationid="Michael Motzkus" creationdate="20190129T084928Z">
+        <seg>Zeigt die Übersetzung des Quelltextes mithilfe der maschinellen Übersetzungsdienste an, die Sie in Einstellungen &gt; Maschinelle Übersetzung ausgewählt haben, sofern verfügbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20592,8 +20592,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Die Erstellung von Zieldokumenten bei Problemen mit Tags verweigern</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214326Z">
+        <seg>Das Erstellen von übersetzten Dokumenten m&amp;it Tag-Problemen verbieten</seg>
       </tuv>
     </tu>
     <tu>
@@ -36829,16 +36829,16 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>MyMemory (human)</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T155857Z" creationid="karsten" creationdate="20150919T155857Z">
-        <seg>MyMemory (menschliche Übersetzung)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214137Z" creationid="karsten" creationdate="20150919T155857Z">
+        <seg>MyMemory (menschlich)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>MyMemory (machine)</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T155916Z" creationid="karsten" creationdate="20150919T155916Z">
-        <seg>MyMemory (Maschinenübersetzung)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214121Z" creationid="karsten" creationdate="20150919T155916Z">
+        <seg>MyMemory (maschinell)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39444,8 +39444,8 @@ Software Foundation veröffentlicht wurde, entweder in Version 3 der Lizenz oder
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T135822Z">
-        <seg>OmegaT wurde der Zugriff auf die Systemeigenschaften, die den Namen Ihres Betriebssystems und/oder Ihren Stammordner enthalten, verwehrt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214732Z">
+        <seg>OmegaT wurde der Zugriff auf die Systemeigenschaften, die den Namen Ihres Betriebssystems und/oder Ihres Benutzerordners enthalten, verwehrt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55266,8 +55266,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T153313Z">
-        <seg>Die Syntax für die Definition der Verknüpfungen ist: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, wobei&lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; ein Code ist, der aus den unten stehenden Tabellen genommen wird und &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; ist eine Kombination von Tasten, die, wie von Nutzer festgelegt, gedrückt werden müssen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T215149Z">
+        <seg>Die Syntax für die Definition von Tastenkürzeln ist: &lt;c0&gt;&lt;MenüPunktCode&gt;=&lt;Tastenkürzel&gt;&lt;/c0&gt;, wobei&lt;e1&gt;&lt;MenüPunktCode&gt;&lt;/e1&gt; ein Code ist, der aus den unten stehenden Tabellen genommen wird und &lt;e2&gt;&lt;Tastenkürzel&gt;&lt;/e2&gt; ist eine Kombination von Tasten, die, wie von Nutzer festgelegt, gedrückt werden müssen</seg>
       </tuv>
     </tu>
     <tu>
