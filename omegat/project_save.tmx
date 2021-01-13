@@ -7632,8 +7632,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T190313Z">
-        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; - die Zielsprache - nur "XX".</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T145031Z">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; - die Zielsprache - nur "XX"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18394,8 +18394,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Eintrag im &amp;Glossar anlegen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144211Z">
+        <seg>&amp;Glossareintrag erstellen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19322,8 +19322,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Derzeitige Speichernutzung durch VM: {0}MB; davon freier Speicherplatz: {1}MB; maximal vorhanden: {2}MB;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144147Z">
+        <seg>Derzeitige Speichernutzung durch VM: {0}MB; davon freier Speicherplatz: {1}MB; maximal vorhanden: {2}MB</seg>
       </tuv>
     </tu>
     <tu>
@@ -21040,8 +21040,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Download MediaWiki Page...</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T064917Z" creationid="BVB" creationdate="20180829T064917Z">
-        <seg>MediaWiki-Seite herunterladen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144911Z" creationid="BVB" creationdate="20180829T064917Z">
+        <seg>MediaWiki-Seite herunterladen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25209,8 +25209,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T080814Z" creationid="Michael Motzkus" creationdate="20180925T080814Z">
-        <seg>Fuzzy Matches-Bereich: Abgelegte &lt;f0&gt;.tmx&lt;/f0&gt;-Dateien werden in den Ordner &lt;f1&gt;tm&lt;/f1&gt; kopiert.Glo</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T145316Z" creationid="Michael Motzkus" creationdate="20180925T080814Z">
+        <seg>Fuzzy Matches-Bereich: Abgelegte &lt;f0&gt;.tmx&lt;/f0&gt;-Dateien werden in den Ordner &lt;f1&gt;tm&lt;/f1&gt; kopiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33123,8 +33123,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>Java: {0} ver.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085227Z">
-        <seg>Java: {0} Ver.r</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144458Z">
+        <seg>Java: {0} Ver.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33787,8 +33787,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>LanguageTool: Server start timeout</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085900Z" creationid="Michael Motzkus" creationdate="20190129T085900Z">
-        <seg>LanguageTool: Zeitüberschreitung beim Serverstart.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144625Z" creationid="Michael Motzkus" creationdate="20190129T085900Z">
+        <seg>LanguageTool: Zeitüberschreitung beim Serverstart</seg>
       </tuv>
     </tu>
     <tu>
@@ -36203,8 +36203,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T090736Z" creationid="Michael Motzkus" creationdate="20190129T090736Z">
-        <seg>Modell-ID</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144632Z" creationid="Michael Motzkus" creationdate="20190129T090736Z">
+        <seg>Modell-ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38218,8 +38218,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T143514Z" creationid="Michael Motzkus" creationdate="20180917T080657Z">
-        <seg>Hinweis: die &lt;f0&gt;.tbx&lt;/f0&gt;-Ausgabe von MultiTerm scheint (November 2013) nicht zuverlässig zu sein und es ist besser, die &lt;f1&gt;.tab&lt;/f1&gt;-Ausgabe von MultiTerm zu benutzen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144725Z" creationid="Michael Motzkus" creationdate="20180917T080657Z">
+        <seg>Hinweis: die &lt;f0&gt;.tbx&lt;/f0&gt;-Ausgabe von MultiTerm scheint (November 2013) nicht zuverlässig zu sein und es ist besser, die &lt;f1&gt;.tab&lt;/f1&gt;-Ausgabe von MultiTerm zu benutzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38302,8 +38302,8 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="en">
         <seg>Nothing, but quotes all characters until \E</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130114Z">
-        <seg>Nichts als alle Zeichen bis zu \E zu zitieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144850Z">
+        <seg>Nichts als alle Zeichen bis zu \E zu zitieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -40532,16 +40532,16 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141554Z">
-        <seg>Nur bei vorhandenem &amp;Header in der (X)HTML-Datei.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144433Z">
+        <seg>Nur bei vorhandenem &amp;Header in der (X)HTML-Datei</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T115327Z">
-        <seg>Nur bei vorhandener &amp;Kodierungsdeklaration in der (X)HTML-Datei.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144451Z">
+        <seg>Nur bei vorhandener &amp;Kodierungsdeklaration in der (X)HTML-Datei</seg>
       </tuv>
     </tu>
     <tu>
@@ -40973,8 +40973,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T123827Z">
-        <seg>Öffnet ein neues &lt;l0&gt;Suchfenster&lt;/l0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T145206Z">
+        <seg>Öffnet ein neues &lt;l0&gt;Suchfenster&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44378,8 +44378,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remaining Words</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130604T224322Z">
-        <seg>Verbleibende Wörter:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144409Z">
+        <seg>Verbleibende Wörter</seg>
       </tuv>
     </tu>
     <tu>
@@ -46815,8 +46815,8 @@ Der Ort einer Suche ist standardmäßig das Projekt und kann auf alle Dateien in
       <tuv lang="en">
         <seg>See font settings in Miscellanea</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T091412Z" creationid="Ragnar-F" creationdate="20210109T091412Z">
-        <seg>Siehe Schriftart-Einstellungen unter Verschiedenes.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T145000Z" creationid="Ragnar-F" creationdate="20210109T091412Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -53641,8 +53641,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary file is empty.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T090519Z">
-        <seg>Die Glossar-Datei ist leer</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144731Z">
+        <seg>Die Glossar-Datei ist leer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53657,8 +53657,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Die Glossar-Funktion findet in den Glossaren nur genaue Ausdrücke (d.h. findet keine flektierte Formen usw. )</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144712Z">
+        <seg>Die Glossar-Funktion findet in den Glossaren nur genaue Ausdrücke (d.h. findet keine flektierte Formen usw.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53808,8 +53808,8 @@ Desktop und im Schnellstartbereich erstellen.</seg>
       <tuv lang="en">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T090540Z">
-        <seg>Die Einträge sind nicht durch Tabulator getrennt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144745Z">
+        <seg>Die Einträge sind nicht durch Tabulator getrennt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55403,8 +55403,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Wählen Sie zuerst einen Ordner Wörterbücherdateien aus</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144610Z">
+        <seg>Der angegebene Wörterbuchordner kann nicht verwendet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57135,16 +57135,16 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T150725Z">
-        <seg>Dieser Aufruf DARF NICHT im Swing-Thread erfolgen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144518Z">
+        <seg>Dieser Aufruf DARF NICHT im Swing-Thread erfolgen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This call MUST be in swing thread</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T150715Z">
-        <seg>Dieser Aufruf MUSS im Swing-Thread erfolgen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144514Z">
+        <seg>Dieser Aufruf MUSS im Swing-Thread erfolgen</seg>
       </tuv>
     </tu>
     <tu>
