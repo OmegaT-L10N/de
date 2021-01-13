@@ -1336,8 +1336,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T141923Z" creationid="karsten" creationdate="20150919T141740Z">
-        <seg>Attribute type and ctype beim erstellen von &lt;ph&gt;-Tag-Kürzeln &amp;ignorieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T143214Z" creationid="karsten" creationdate="20150919T141740Z">
+        <seg>Attribute type und ctype beim Erstellen von &lt;ph&gt;-Tag-Kürzeln &amp;ignorieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,8 +2194,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>'?' matches any single character.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T153524Z">
-        <seg>'?' entspricht einem einzelnen Zeichen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142429Z">
+        <seg>'?' entspricht einem einzelnen Zeichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7096,8 +7096,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130504T160611Z">
-        <seg>&lt;c0&gt;&lt;STRG+P&gt;&lt;/c0&gt; oder &lt;c1&gt;&lt;STRG+Enter&gt;&lt;/c1&gt; oder &lt;c2&gt;&lt;STRG+Tab&gt;&lt;/c2&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142559Z">
+        <seg>&lt;k0&gt;Strg+P&lt;/k0&gt; oder &lt;k1&gt;Strg+Enter&lt;/k1&gt; oder &lt;k2&gt;Strg+Tab&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10654,8 +10654,8 @@ on the Program.</seg>
       <tuv lang="en">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130243Z">
-        <seg>Ein Zeichen im griechischen Block (einfacher &lt;u0&gt;Block&lt;/u0&gt;)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T143742Z">
+        <seg>Ein Zeichen im griechischen Block (einfacher &lt;u0&gt;Block&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21911,8 +21911,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T143145Z" creationid="Michael Motzkus" creationdate="20181022T143145Z">
-        <seg>Aktivieren Sie sie unter&lt;b&gt;Optionen &gt; Speichern und Ausgabe...&lt;/b&gt;.&lt;/html&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T143148Z" creationid="Michael Motzkus" creationdate="20181022T143145Z">
+        <seg>Aktivieren Sie sie unter &lt;b&gt;Optionen &gt; Speichern und Ausgabe...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23286,7 +23286,6 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
-      <note>Not yet translated in OmegaT 3.6.0_10 :: </note>
       <tuv lang="en">
         <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
@@ -23295,7 +23294,6 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
-      <note>Not yet translated in OmegaT 3.6.0_10 :: de</note>
       <tuv lang="en">
         <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
       </tuv>
@@ -29870,8 +29868,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T142111Z" creationid="karsten" creationdate="20150919T142111Z">
-        <seg>Attribute type and ctype beim erstellen von &lt;&amp;bpt&gt;- und &lt;ept&gt;-Tag-Kürzeln ignorieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T143230Z" creationid="karsten" creationdate="20150919T142111Z">
+        <seg>Attribute type und ctype beim Erstellen von &lt;&amp;bpt&gt;- und &lt;ept&gt;-Tag-Kürzeln ignorieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -29902,8 +29900,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141006Z" creationid="Michael Motzkus" creationdate="20180917T073347Z">
-        <seg>Importieren Sie die Quelldatei in &lt;u0&gt; LibreOffice Draw&lt;/u0&gt;, speichern Sie sie als ODG-Datei, übersetzen Sie sie, und exportieren Sie sie nach Bedarf in PDF.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142850Z" creationid="Michael Motzkus" creationdate="20180917T073347Z">
+        <seg>Importieren Sie die Quelldatei in &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, speichern Sie sie als ODG-Datei, übersetzen Sie sie, und exportieren Sie sie nach Bedarf in PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30214,8 +30212,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T153307Z">
-        <seg>Sowohl in exakten als auch in Stichwort-Suchen, kann man die Jokerzeichen '*' und '?' benutzen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142434Z">
+        <seg>Sowohl in exakten als auch in Stichwort-Suchen, kann man die Jokerzeichen '*' und '?' benutzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38220,8 +38218,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T080657Z" creationid="Michael Motzkus" creationdate="20180917T080657Z">
-        <seg>Hinweis: die &lt;f0&gt;.tbx&lt;/f0&gt;Ausgabe von MultiTerm scheint (November 2013) nicht zuverlässig zu sein und es ist besser, die &lt;f1&gt;.tab&lt;/f1&gt;-Ausgabe von MultiTerm zu benutzen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T143514Z" creationid="Michael Motzkus" creationdate="20180917T080657Z">
+        <seg>Hinweis: die &lt;f0&gt;.tbx&lt;/f0&gt;-Ausgabe von MultiTerm scheint (November 2013) nicht zuverlässig zu sein und es ist besser, die &lt;f1&gt;.tab&lt;/f1&gt;-Ausgabe von MultiTerm zu benutzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -46329,8 +46327,8 @@ Der Ort einer Suche ist standardmäßig das Projekt und kann auf alle Dateien in
       <tuv lang="en">
         <seg>Search for segments containing all keywords you specified, in any order.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Suche nach Segmenten, die alle Stichwörter enthalten, unabhängig von der Reihenfolge. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142444Z">
+        <seg>Suche nach Segmenten, die alle Stichwörter enthalten, unabhängig von der Reihenfolge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46393,8 +46391,8 @@ Der Ort einer Suche ist standardmäßig das Projekt und kann auf alle Dateien in
       <tuv lang="en">
         <seg>Search methods and options</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T153852Z">
-        <seg>Suchmethoden und -optionen&lt;/s1&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T143102Z">
+        <seg>Suchmethoden und -optionen</seg>
       </tuv>
     </tu>
     <tu>
@@ -47513,8 +47511,8 @@ Der Ort einer Suche ist standardmäßig das Projekt und kann auf alle Dateien in
       <tuv lang="en">
         <seg>Select the method using the radio buttons.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Mit Hilfe der Optionsfelder (radio buttons) die Methode auswählen. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142440Z">
+        <seg>Mit Hilfe der Optionsfelder (radio buttons) die Methode auswählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48797,8 +48795,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Sorry</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181014T142319Z" creationid="BVB" creationdate="20180822T152541Z">
-        <seg>Entschuldigung </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142509Z" creationid="BVB" creationdate="20180822T152541Z">
+        <seg>Entschuldigung</seg>
       </tuv>
     </tu>
     <tu>
@@ -55085,8 +55083,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The search string will be treated as a regular expression.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T155149Z">
-        <seg>Der Such-Ausdruck wird als ein regelmäßiger Ausdruck behandelt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142447Z">
+        <seg>Der Such-Ausdruck wird als ein regelmäßiger Ausdruck behandelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55173,8 +55171,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The segments are displayed in order of appearance in the project.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Die Segmente werden in der Reihenfolge ihrer Erscheinung innerhalb des Projektes angezeigt. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142450Z">
+        <seg>Die Segmente werden in der Reihenfolge ihrer Erscheinung innerhalb des Projektes angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55445,8 +55443,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T155208Z">
-        <seg>Die Rechtschreibprüfung legt die zu nutzende Sprache anhand des Sprachcodes der Zielsprache fest: wenn die Zielsprache brasilianisches Portugiesisch (PT_BR) ist, müssen die Unterordner der Wörterbücher die zwei Dateien mit dem Namen &lt;e0&gt;pt_br.aff&lt;e0/&gt; und &lt;e1&gt;pt_br.dic&lt;e1/&gt; enthalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142630Z">
+        <seg>Die Rechtschreibprüfung legt die zu nutzende Sprache anhand des Sprachcodes der Zielsprache fest: wenn die Zielsprache brasilianisches Portugiesisch (PT_BR) ist, müssen die Unterordner der Wörterbücher die zwei Dateien mit dem Namen &lt;e0&gt;pt_br.aff&lt;/e0&gt; und &lt;e1&gt;pt_br.dic&lt;/e1&gt; enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56401,8 +56399,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130510T083644Z">
-        <seg>Es sollten drei Dateien mit den Endungen &lt;e1&gt;dz, idx &lt;/e1&gt;und &lt;e2&gt;ifo&lt;/e2&gt; sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T143256Z">
+        <seg>Es sollten drei Dateien mit den Endungen &lt;e1&gt;dz, idx&lt;/e1&gt; und &lt;e2&gt;ifo&lt;/e2&gt; sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65918,8 +65916,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T160352Z">
-        <seg>Danach können Sie zurück in das Suchfenster schalten, um z.B. das nächste gefundene Segment zu öffnen und notfalls die Terminologie zu korrigieren. </seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142454Z">
+        <seg>Danach können Sie zurück in das Suchfenster schalten, um z.B. das nächste gefundene Segment zu öffnen und notfalls die Terminologie zu korrigieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66601,8 +66599,8 @@ them.</seg>
       <tuv lang="en">
         <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T130656Z" creationid="BVB" creationdate="20180826T111634Z">
-        <seg>Ihre Dokumente und Translation Memory verbleiben auf Ihrem Computer und das &lt;a2&gt;OmegaT&lt;/a2&gt;-Projekt wird keinen Zugriff auf Ihre Arbeit oder Information haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T143124Z" creationid="BVB" creationdate="20180826T111634Z">
+        <seg>Ihre Dokumente und Translation Memory verbleiben auf Ihrem Computer und das OmegaT-Projekt wird keinen Zugriff auf Ihre Arbeit oder Information haben.</seg>
       </tuv>
     </tu>
     <tu>
