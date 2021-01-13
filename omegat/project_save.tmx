@@ -2136,8 +2136,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T224424Z">
-        <seg>&amp;Wert (Formeingabe, einschl. Schaltfläche, Senden und Reset)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212736Z">
+        <seg>&amp;Wert (Formulareingabe, einschl. Schaltfläche, Submit und Reset)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12609,8 +12609,8 @@ conditions are met.</seg>
       <tuv lang="en">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Zulassen, dass übersetzte Tags anders angeordnet sind</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213645Z">
+        <seg>Übersetzte Tags dür&amp;fen anders angeordnet sein</seg>
       </tuv>
     </tu>
     <tu>
@@ -16018,8 +16018,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T153743Z">
-        <seg>Einfache printf-Variablen (z.B. %s, %d) über&amp;prüfen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213337Z">
+        <seg>Einfache printf-Variablen (z. B. %s, %d) über&amp;prüfen</seg>
       </tuv>
     </tu>
     <tu>
@@ -16306,8 +16306,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T153855Z" creationid="Ragnar-F" creationdate="20210112T153708Z">
-        <seg>Einfache Java-MessageFormat-Muster (z. B. {0}) überprüfen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213411Z" creationid="Ragnar-F" creationdate="20210112T153708Z">
+        <seg>Einfache &amp;Java-MessageFormat-Muster (z. B. {0}) überprüfen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20640,8 +20640,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T224206Z">
-        <seg>Übersetzen Sie nicht die Inhaltsattribute der Tags mit den folgenden Schlüssel-Wert-Attributen (durch Kommata trennen):</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212558Z">
+        <seg>Inhalt von Tags nicht übersetzen, die Attribute gemäß den folgenden Schlüssel-Wert-Paaren haben (getrennt durch Kommas):</seg>
       </tuv>
     </tu>
     <tu>
@@ -22143,8 +22143,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131007T143221Z">
-        <seg>Bitte geben Sie einen Quellterm, einen Zielterm und einen möglichen Kommentar ein:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213157Z">
+        <seg>Geben Sie einen Quellbegriff, einen Zielbegriff und einen Kommentar ein:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22300,8 +22300,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error decoding user and password.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T174314Z">
-        <seg>Fehler beim Dekodieren des Benutzernamens und des Kennworts.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213258Z">
+        <seg>Fehler beim Dekodieren des Benutzernamens und des Passworts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25945,8 +25945,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>HTML Help Compiler</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T133325Z">
-        <seg>HTML-Hilfe-Compiler</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212834Z">
+        <seg>HTML Help Compiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -30422,8 +30422,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T103547Z" creationid="Michael Motzkus" creationdate="20180917T065219Z">
-        <seg>In nicht-segmentierten Projekten ist es möglich, diese zu behalten, indem Sie diese Option deaktivieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212258Z" creationid="Michael Motzkus" creationdate="20180917T065219Z">
+        <seg>In unsegmentierten Projekten ist es möglich, diese zu behalten, indem Sie diese Option deaktivieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36123,8 +36123,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Minimal threshold to show a fuzzy match:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T152955Z" creationid="Ragnar-F" creationdate="20210112T152955Z">
-        <seg>Mindestgrenzwert zum Anzeigen eines Fuzzy-Matches:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213052Z" creationid="Ragnar-F" creationdate="20210112T152955Z">
+        <seg>Mindestschwelle zum Anzeigen eines Fuzzy-Matches:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38145,8 +38145,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T153740Z">
-        <seg>Hinweis: Die Einstellung Kodierung der Quelldatei betrifft nur die HHC- und HHK-Dateien, die keine Kodierungdeklaration beinhalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212851Z">
+        <seg>Hinweis: Die Einstellung Kodierung der Quelldatei betrifft nur die HHC- und HHK-Dateien, die keine Kodierungsdeklaration beinhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44593,8 +44593,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T140641Z" creationid="Michael Motzkus" creationdate="20190129T074527Z">
-        <seg>Führende und nachfolgende Leerräume in &amp;nicht-segmentierten Projekten entfernen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212222Z" creationid="Michael Motzkus" creationdate="20190129T074527Z">
+        <seg>Führende und nachfolgende Leerräume in u&amp;nsegmentierten Projekten entfernen</seg>
       </tuv>
     </tu>
     <tu>
@@ -44633,8 +44633,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T141103Z" creationid="Michael Motzkus" creationdate="20180917T065059Z">
-        <seg>Führende und nachfolgende Leerräume in nicht-segmentierten Projekten entfernen: Standardmäßig entfernt OmegaT führende und nachfolgende Leerräume.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212229Z" creationid="Michael Motzkus" creationdate="20180917T065059Z">
+        <seg>Führende und nachfolgende Leerräume in unsegmentierten Projekten entfernen: Standardmäßig entfernt OmegaT führende und nachfolgende Leerräume.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49074,8 +49074,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source term:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130627T160711Z">
-        <seg>Quellterm:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213204Z">
+        <seg>Quellbegriff:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50762,8 +50762,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Target term:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130627T160719Z">
-        <seg>Zielterm:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213241Z">
+        <seg>Zielbegriff:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61844,8 +61844,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T154843Z">
-        <seg>Verwende &amp;XML für alleinstehende Tags (z.B. &lt;i/&gt;)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213026Z">
+        <seg>&amp;XML für alleinstehende Tags (z. B. &lt;i/&gt;) verwenden</seg>
       </tuv>
     </tu>
     <tu>
@@ -63232,8 +63232,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131013T171023Z">
-        <seg>Warnung: Änderungen der Tagordnung können zu einer Beschädigung der Zieldatei führen!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213604Z">
+        <seg>Änderungen der Tag-Anordnung können zu Problemen im übersetzten Dokument führen!</seg>
       </tuv>
     </tu>
     <tu>
@@ -77065,8 +77065,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T131319Z">
-        <seg>Wert (Schaltfläche, &amp;Senden und Reseteingabe)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212814Z">
+        <seg>Wert (Schaltfläche, &amp;Submit und Reseteingabe)</seg>
       </tuv>
     </tu>
     <tu>
