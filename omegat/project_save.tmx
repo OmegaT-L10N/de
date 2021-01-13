@@ -1032,8 +1032,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>&amp;Zyklus</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221744Z">
+        <seg>&amp;Durchschalten</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,7 +1464,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Lower Case</seg>
       </tuv>
-      <tuv lang="de">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221546Z">
         <seg>&amp;Kleinschreibung</seg>
       </tuv>
     </tu>
@@ -1872,8 +1872,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Sentence Case</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T090252Z" creationid="Michael Motzkus" creationdate="20190129T090252Z">
-        <seg>&amp;Satzfall</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221658Z" creationid="Michael Motzkus" creationdate="20190129T090252Z">
+        <seg>&amp;Satzschreibung</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2032,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T152335Z">
-        <seg>&amp;Groß/klein</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221605Z">
+        <seg>&amp;Titelschreibung</seg>
       </tuv>
     </tu>
     <tu>
@@ -2088,7 +2088,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Upper Case</seg>
       </tuv>
-      <tuv lang="de">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221556Z">
         <seg>&amp;Großschreibung</seg>
       </tuv>
     </tu>
@@ -13062,8 +13062,8 @@ organization, or merging organizations.</seg>
         <seg>An error occurred while processing a font changed event:
 {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085623Z" creationid="Michael Motzkus" creationdate="20190129T085623Z">
-        <seg>Bei der Verarbeitung eines Ereignisses zum Ändern der Schriftart ist ein Fehler aufgetreten:
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221205Z" creationid="Michael Motzkus" creationdate="20190129T085623Z">
+        <seg>Bei der Verarbeitung eines Schriftart-geändert-Ereignisses ist ein Fehler aufgetreten:
 {0}</seg>
       </tuv>
     </tu>
@@ -13072,8 +13072,8 @@ organization, or merging organizations.</seg>
         <seg>An error occurred while processing a new file event:
 {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085347Z" creationid="Michael Motzkus" creationdate="20190129T085347Z">
-        <seg>Bei der Verarbeitung eines neuen Dateiereignisses ist ein Fehler aufgetreten:
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T220949Z" creationid="Michael Motzkus" creationdate="20190129T085347Z">
+        <seg>Bei der Verarbeitung eines Neue-Datei-Ereignisses ist ein Fehler aufgetreten:
 {0}</seg>
       </tuv>
     </tu>
@@ -13082,8 +13082,8 @@ organization, or merging organizations.</seg>
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T220643Z" creationid="Michael Motzkus" creationdate="20190129T085055Z">
-        <seg>Bei der Verarbeitung eines Ereignisses, das eine Projektänderung betrifft, ist ein Fehler aufgetreten:
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T220815Z" creationid="Michael Motzkus" creationdate="20190129T085055Z">
+        <seg>Bei der Verarbeitung eines Projektänderungs-Ereignisses ist ein Fehler aufgetreten:
 {0}</seg>
       </tuv>
     </tu>
@@ -13092,8 +13092,8 @@ organization, or merging organizations.</seg>
         <seg>An error occurred while processing an application shutdown event:
 {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T220614Z" creationid="Michael Motzkus" creationdate="20190129T085318Z">
-        <seg>Bei der Verarbeitung eines Anwendungsbeendigungsereignisses ist ein Fehler aufgetreten:
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T220931Z" creationid="Michael Motzkus" creationdate="20190129T085318Z">
+        <seg>Bei der Verarbeitung eines Programmende-Ereignisses ist ein Fehler aufgetreten:
 {0}</seg>
       </tuv>
     </tu>
@@ -13102,8 +13102,8 @@ organization, or merging organizations.</seg>
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T220140Z" creationid="Michael Motzkus" creationdate="20190129T085114Z">
-        <seg>Bei der Verarbeitung eines Anwendungsstartereignisses ist ein Fehler aufgetreten:
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T220852Z" creationid="Michael Motzkus" creationdate="20190129T085114Z">
+        <seg>Bei der Verarbeitung eines Programmstart-Ereignisses ist ein Fehler aufgetreten:
 {0}</seg>
       </tuv>
     </tu>
@@ -13112,8 +13112,8 @@ organization, or merging organizations.</seg>
         <seg>An error occurred while processing an entry activated event:
 {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T191909Z" creationid="Ragnar-F" creationdate="20210112T191909Z">
-        <seg>Bei der Verarbeitung eines via Eintrag aktivierten Ereignisses ist ein Fehler aufgetreten:
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221116Z" creationid="Ragnar-F" creationdate="20210112T191909Z">
+        <seg>Bei der Verarbeitung eines Neuer-Eintrag-aktiviert-Ereignisses ist ein Fehler aufgetreten:
 {0}</seg>
       </tuv>
     </tu>
@@ -22564,16 +22564,16 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Event: application shutdown</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T145708Z">
-        <seg>Ereignis: Beenden der Anwendung</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T220907Z">
+        <seg>Ereignis: Programmende</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Event: application startup</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T145559Z">
-        <seg>Ereignis: Starten der Anwendung</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T220859Z">
+        <seg>Ereignis: Programmstart</seg>
       </tuv>
     </tu>
     <tu>
@@ -22604,8 +22604,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Event: project change - "{0}"</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Ereignis: Projektwechsel - "{0}"</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T220709Z">
+        <seg>Ereignis: Projektänderung - "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -49950,40 +49950,40 @@ address new problems or concerns.</seg>
       <tuv lang="en">
         <seg>Switch Case To/Cycle</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180912T085930Z" creationid="Michael Motzkus" creationdate="20180912T085930Z">
-        <seg>Alles in Groß-/Kleinschreibung ändern</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221907Z" creationid="Michael Motzkus" creationdate="20180912T085930Z">
+        <seg>Groß-/Kleinschreibung -&gt; Durchschalten</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T155452Z" creationid="BVB" creationdate="20180829T070144Z">
-        <seg>Groß-/Kleinschreibung ändern -&gt; Kleinschreibung</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221817Z" creationid="BVB" creationdate="20180829T070144Z">
+        <seg>Groß-/Kleinschreibung -&gt; Kleinschreibung</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Switch Case To/Sentence Case</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T155545Z" creationid="BVB" creationdate="20180829T072234Z">
-        <seg>Groß-/Kleinschreibung ändern -&gt; Satzschreibung</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221830Z" creationid="BVB" creationdate="20180829T072234Z">
+        <seg>Groß-/Kleinschreibung -&gt; Satzschreibung</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Switch Case To/Title Case</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T155514Z" creationid="BVB" creationdate="20180829T070409Z">
-        <seg>Groß-/Kleinschreibung ändern -&gt; Titelschreibung</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221825Z" creationid="BVB" creationdate="20180829T070409Z">
+        <seg>Groß-/Kleinschreibung -&gt; Titelschreibung</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Switch Case To/Upper Case</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T155459Z" creationid="BVB" creationdate="20180829T070346Z">
-        <seg>Groß-/Kleinschreibung ändern -&gt; Großschreibung</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T221822Z" creationid="BVB" creationdate="20180829T070346Z">
+        <seg>Groß-/Kleinschreibung -&gt; Großschreibung</seg>
       </tuv>
     </tu>
     <tu>
@@ -64720,8 +64720,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>Wrong response from engine</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T173941Z">
-        <seg>Falsche Antwort der Maschine</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T222135Z">
+        <seg>Falsche Antwort vom Übersetzungsdienst</seg>
       </tuv>
     </tu>
     <tu>
