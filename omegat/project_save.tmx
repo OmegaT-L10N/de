@@ -33419,8 +33419,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T150244Z" creationid="Michael Motzkus" creationdate="20181022T150244Z">
-        <seg>Die Keyword-Suche stimmt mit allen durch Leerzeichen getrennten Stichwörtern überein, unabhängig von ihrer Reihenfolge.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T192218Z" creationid="Michael Motzkus" creationdate="20181022T150244Z">
+        <seg>Die Stichwortsuche verwendet Wörter, die via Leerzeichen getrennt sind und in beliebiger Reihenfolge sein können, um Übereinstimmungen zu finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43512,8 +43512,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T145928Z" creationid="Michael Motzkus" creationdate="20181022T145928Z">
-        <seg>Projektsuchen werden standardmäßig für die Quelle und das Ziel, Referenz-TMs, Glossare, Notizen und Kommentare des Projekts durchgeführt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T191321Z" creationid="Michael Motzkus" creationdate="20181022T145928Z">
+        <seg>Eine projektbezogene Suche erfolgt standardmäßig in Quell- und Zieltexten, Referenz-TMs, Glossaren, Notizen und Kommentaren des Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44281,8 +44281,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T150349Z" creationid="Michael Motzkus" creationdate="20181022T150349Z">
-        <seg>Die Suche nach regulären Ausdrücken entspricht regulären Java-Ausdrücken, wie im Benutzerhandbuch dokumentiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T192625Z" creationid="Michael Motzkus" creationdate="20181022T150349Z">
+        <seg>Die RegEx-Suche verwendet reguläre Ausdrücke von Java, um Übereinstimmungen zu finden. Weitere Informationen finden Sie im Benutzerhandbuch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46076,9 +46076,9 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T190715Z" creationid="Michael Motzkus" creationdate="20181022T145708Z">
-        <seg>Suche in:
-Die Suche erfolgt standardmäßig im Projekt, aber es gibt auch die Möglichkeit, beliebige Dateien in einer bestimmten Ordnerhierarchie zu durchsuchen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T191349Z" creationid="Michael Motzkus" creationdate="20181022T145708Z">
+        <seg>Suchbereich:
+Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit, beliebige Dateien in einer bestimmten Ordnerhierarchie zu durchsuchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60943,9 +60943,9 @@ Skript mit ./linux-install.sh aus.</seg>
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T150148Z" creationid="Michael Motzkus" creationdate="20181022T150029Z">
-        <seg>Suche nach:
-Exakte Suchvorgänge stimmen mit der gesamten Suchzeichenfolge überein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T191751Z" creationid="Michael Motzkus" creationdate="20181022T150029Z">
+        <seg>Suchmethoden:
+Die exakte Suche verwendet den kompletten Text, um Übereinstimmungen zu finden.</seg>
       </tuv>
     </tu>
     <tu>
