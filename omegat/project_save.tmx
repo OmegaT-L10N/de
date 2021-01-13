@@ -3612,9 +3612,9 @@ Translated to singular.</note>
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T123917Z" creationid="Michael Motzkus" creationdate="20181018T122818Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T161114Z" creationid="Michael Motzkus" creationdate="20181018T122818Z">
         <seg>--disable-project-locking
-		Nicht versuchen, die omega.project-Datei des Projekts zu sperren.</seg>
+		Nicht versuchen, die omegat.project-Datei des Projekts zu sperren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3725,9 +3725,9 @@ Translated to singular.</note>
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T121919Z" creationid="Michael Motzkus" creationdate="20181018T121919Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T160950Z" creationid="Michael Motzkus" creationdate="20181018T121919Z">
         <seg>--remote-project
-		Eine omegat.project-Datei von einer Url als &lt;Projekt-
+		Eine omegat.project-Datei von einer URL als &lt;Projekt-
 		pfad&gt; herunterladen und das Projekt laden.</seg>
       </tuv>
     </tu>
@@ -3792,9 +3792,9 @@ Translated to singular.</note>
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T130224Z" creationid="Michael Motzkus" creationdate="20181018T130224Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T161417Z" creationid="Michael Motzkus" creationdate="20181018T130224Z">
         <seg>--tag-validation=[abort|warn]
-		Tagüberprüfung.</seg>
+		Tag-Validierung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17572,10 +17572,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T131111Z" creationid="Michael Motzkus" creationdate="20181018T131111Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T161640Z" creationid="Michael Motzkus" creationdate="20181018T131111Z">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
-		Verzeichnis der übesetzten Dateien.</seg>
+		Verzeichnis der übersetzten Dateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17596,10 +17596,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T130622Z" creationid="Michael Motzkus" creationdate="20181018T130622Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T161519Z" creationid="Michael Motzkus" creationdate="20181018T130622Z">
         <seg>Console-translate mode:
 	--source-pattern=&lt;pattern&gt;
-		Regex-Liste der Quelldateien, die bearbeitet werden sollen.</seg>
+		RegEx-Liste der Quelldateien, die bearbeitet werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41201,12 +41201,12 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T121452Z" creationid="Michael Motzkus" creationdate="20181018T115941Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T160720Z" creationid="Michael Motzkus" creationdate="20181018T115941Z">
         <seg>Optionen:
 	Keine: Benutzeroberfläche starten
 	Nur Projektpfad: Benutzeroberfläche starten und angegebenes Projekt laden.
 	Team
-		Teasmprojekttool.</seg>
+		Teamprojekt-Tool.</seg>
       </tuv>
     </tu>
     <tu>
