@@ -2364,9 +2364,9 @@ gerne kontaktieren.)</seg>
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T111829Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T162120Z">
         <seg>(siehe Liste der unterstützen Dateiformate im Benutzerhandbuch 'Zu übersetzende Dateien' &gt; 'Dateiformate'.)
-Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Dateien in Quellordner kopieren..." im Fenster Projektdateien oder rufen Sie die Funktion aus dem Projektmenü auf und wählen die Quelldateien aus, die Sie kopieren möchten.</seg>
+Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Dateien in Quellordner kopieren..." im Fenster Projektdateien oder rufen Sie die Funktion aus dem Projekt-Menü auf und wählen die Quelldateien aus, die Sie kopieren möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26822,8 +26822,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130611T235905Z">
-        <seg>Quellsegment &amp;einfügen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T162557Z">
+        <seg>Quelle &amp;einfügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -27633,8 +27633,8 @@ excuse you from the conditions of this License.</seg>
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T132724Z" creationid="Michael Motzkus" creationdate="20181018T132724Z">
-        <seg>Wenn in einem Git Working Tree oder Svn Checkout aufgerufen, werden die 
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T161751Z" creationid="Michael Motzkus" creationdate="20181018T132724Z">
+        <seg>Wenn in einem Git Working Tree oder SVN Checkout aufgerufen, werden die 
 		Ergebnisse hinzugefügt.</seg>
       </tuv>
     </tu>
@@ -31450,8 +31450,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T160501Z">
-        <seg>Fehlende Quell&amp;tags einfügen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T162723Z">
+        <seg>Fehlende &amp;Tags aus Quelle einfügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -37154,7 +37154,6 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>This is a test note.</note>
       <tuv lang="en">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
@@ -37198,8 +37197,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T085118Z" creationid="karsten" creationdate="20150919T085118Z">
-        <seg>Nächstes uni&amp;kales Segment</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T163234Z" creationid="karsten" creationdate="20150919T085118Z">
+        <seg>Nächstes e&amp;inzigartiges Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -43970,8 +43969,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Re&amp;place with Source</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T220425Z">
-        <seg>Mit &amp;Quellsegment ersetzen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T162613Z">
+        <seg>Mit &amp;Quelle ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -50097,14 +50096,6 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20131206T232952Z">
         <seg>Die systemübergreifenden Befehle Alles auswählen (&lt;k0&gt;Strg+A&lt;/k0&gt;), Einfügen (&lt;e1&gt;Strg+V&lt;/e1&gt;), Ausschneiden (&lt;e2&gt;Strg+X&lt;/e2&gt;), Kopieren (&lt;e3&gt;Strg+C)&lt;/e3&gt;, Match einfügen &lt;e4&gt;(Strg+I&lt;/e4&gt;) und Quellsegment einfügen (&lt;e5&gt;Strg+Umschalt+I&lt;/e5&gt;) greifen grundsätzlich nur innerhalb des Textes im aktuell geöffneten Segment.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>T&amp;Ms</seg>
-      </tuv>
-      <tuv lang="de">
-        <seg>TMs</seg>
       </tuv>
     </tu>
     <tu>
@@ -66060,8 +66051,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131008T185700Z">
-        <seg>Sie können die Dateien auch mit Ihrem bevorzugten Dateimanager in den Ordner 'source' Ihres Projekts kopieren und dann das Projekt unter Projekt „Neu laden" im Projektmenü neu laden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T162231Z">
+        <seg>Sie können die Dateien auch mit Ihrem bevorzugten Dateimanager in den Ordner 'source' Ihres Projekts kopieren und dann das Projekt unter Projekt „Neu laden" im Projekt-Menü neu laden.</seg>
       </tuv>
     </tu>
     <tu>
