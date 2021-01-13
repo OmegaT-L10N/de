@@ -11755,8 +11755,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T124620Z" creationid="karsten" creationdate="20150919T124620Z">
-        <seg>{0} Glossareinträge aus {1} hinzuigefügt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203206Z" creationid="karsten" creationdate="20150919T124620Z">
+        <seg>{0} Glossareinträge aus {1} hinzugefügt</seg>
       </tuv>
     </tu>
     <tu>
@@ -17126,8 +17126,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="en">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T100903Z">
-        <seg>Der Spaltenindex muss 1 sein</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203648Z">
+        <seg>Spaltenindex muss 1 sein</seg>
       </tuv>
     </tu>
     <tu>
@@ -22356,8 +22356,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T140955Z">
-        <seg>Fehler beim Laden des Plug-Ins aus Klasse '{0}': {1}: {2}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203335Z">
+        <seg>Fehler beim Laden des Plugins aus Klasse '{0}': {1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22428,8 +22428,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T141209Z">
-        <seg>Fehler beim Entladen des Plug-Ins aus Klasse '{0}': {1}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203352Z">
+        <seg>Fehler beim Entladen des Plugins aus Klasse '{0}': {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23225,8 +23225,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T140007Z">
-        <seg>Schwerwiegender Fehler in Zeile {0}, Spalte {1} während des Parsingprozesses:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T202527Z">
+        <seg>Fataler Fehler bei Zeile {0}, Spalte {1} beim Parsing:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23529,8 +23529,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T100835Z">
-        <seg>Filter '{0}' konnte nicht von '{1}' geladen werden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203505Z">
+        <seg>Filter '{0}' konnte nicht aus '{1}' geladen werden</seg>
       </tuv>
     </tu>
     <tu>
@@ -33635,8 +33635,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141430Z">
-        <seg>Es ist keine Sprache für die TU-Variante definiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T202739Z">
+        <seg>Es ist keine Sprache für die Translation-Unit-Variante definiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49042,8 +49042,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141439Z">
-        <seg>Das Quellsegment bestimmter Übersetzungseinheiten (TUs) konnte nicht gefunden werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T202903Z">
+        <seg>Quellsegment konnte nicht für bestimmte Translation Units lokalisiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50210,8 +50210,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141451Z">
-        <seg>Die TMX-Datei wurde mit der OmegaT-Version 1.4.x oder einer früheren Version erstellt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T202928Z">
+        <seg>Die TMX-Datei wurde von OmegaT-Version 1.4.x oder älter erstellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60525,8 +60525,8 @@ Skript mit ./linux-install.sh aus.</seg>
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T073146Z" creationid="Michael Motzkus" creationdate="20190129T073146Z">
-        <seg>Der Dateipfad für die Übersetzung darf nicht identisch mit dem Quellpfad sein:
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203600Z" creationid="Michael Motzkus" creationdate="20190129T073146Z">
+        <seg>Pfad der übersetzten Datei darf nicht mit dem Pfad der Quelldatei identisch sein:
 {0}</seg>
       </tuv>
     </tu>
@@ -60750,8 +60750,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141425Z">
-        <seg>Die Übersetzungseinheit (TU) befindet sich vor dem TMX-Header.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T202650Z">
+        <seg>Translation Unit vor TMX-Header entdeckt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61176,8 +61176,8 @@ Die exakte Suche verwendet den kompletten Text, um Übereinstimmungen zu finden.
       <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T141315Z">
-        <seg>Die Filterkonfigurationsdatei kann nicht analysiert werden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203445Z">
+        <seg>Filterkonfigurationsdatei kann nicht geparst werden</seg>
       </tuv>
     </tu>
     <tu>
@@ -61224,8 +61224,8 @@ Die exakte Suche verwendet den kompletten Text, um Übereinstimmungen zu finden.
       <tuv lang="en">
         <seg>Unable to save filters configuration file</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T100315Z">
-        <seg>Die Filterkonfigurationsdatei kann nicht gespeichert werden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203454Z">
+        <seg>Filterkonfigurationsdatei kann nicht gespeichert werden</seg>
       </tuv>
     </tu>
     <tu>
@@ -61464,8 +61464,8 @@ Die exakte Suche verwendet den kompletten Text, um Übereinstimmungen zu finden.
       <tuv lang="en">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T073008Z" creationid="Michael Motzkus" creationdate="20190129T073008Z">
-        <seg>Unbekannter PlugIn-Typ '{0}' in '{1}'</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203301Z" creationid="Michael Motzkus" creationdate="20190129T073008Z">
+        <seg>Unbekannter Plugin-Typ '{0}' in '{1}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -61708,8 +61708,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Upgrading...</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T114817Z">
-        <seg>Aktualisieren...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203033Z">
+        <seg>Upgrading...</seg>
       </tuv>
     </tu>
     <tu>
@@ -63216,8 +63216,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T111803Z">
-        <seg>Warnung in Zeile {0}, Spalte {1} während des Parsingprozesses:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T202508Z">
+        <seg>Warnungsfehler bei Zeile {0}, Spalte {1} beim Parsing:</seg>
       </tuv>
     </tu>
     <tu>
