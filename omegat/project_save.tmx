@@ -824,8 +824,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Diese Schriftart auf das Fenster Projektdateien &amp;anwenden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T180457Z">
+        <seg>Diese Schriftart auf tabellarische Daten (Projektdateien, Statistiken usw.) &amp;anwenden</seg>
       </tuv>
     </tu>
     <tu>
@@ -23521,8 +23521,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Filter</seg>
       </tuv>
-      <tuv lang="de" changeid="helm" changedate="20130427T090706Z">
-        <seg>&amp;Filter</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T175922Z">
+        <seg>Filter</seg>
       </tuv>
     </tu>
     <tu>
@@ -36547,32 +36547,32 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Move &amp;Down</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T165711Z" creationid="karsten" creationdate="20150919T102138Z">
-        <seg>Nach &amp;unten schieben</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T175903Z" creationid="karsten" creationdate="20150919T102138Z">
+        <seg>Nach &amp;unten</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T175321Z" creationid="karsten" creationdate="20150919T102112Z">
-        <seg>Ganz nach o&amp;ben schieben</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T175846Z" creationid="karsten" creationdate="20150919T102112Z">
+        <seg>Ganz nach o&amp;ben</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T175419Z" creationid="karsten" creationdate="20150919T102156Z">
-        <seg>Ganz nach u&amp;nten schieben</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T175915Z" creationid="karsten" creationdate="20150919T102156Z">
+        <seg>Ganz nach u&amp;nten</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T175242Z">
-        <seg>Nach &amp;oben schieben</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T175901Z">
+        <seg>Nach &amp;oben</seg>
       </tuv>
     </tu>
     <tu>
@@ -40691,32 +40691,32 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Open Source File</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T141346Z" creationid="Michael Motzkus" creationdate="20181022T141036Z">
-        <seg>Öffne Quelldatei</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T180019Z" creationid="Michael Motzkus" creationdate="20181022T141036Z">
+        <seg>Quelldatei öffnen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Open Source File Location</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T141746Z" creationid="Michael Motzkus" creationdate="20181022T141705Z">
-        <seg>Öffne Quelldateispeicherort</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T180151Z" creationid="Michael Motzkus" creationdate="20181022T141705Z">
+        <seg>Ordner der Quelldatei öffnen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Open Target File</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T141542Z" creationid="Michael Motzkus" creationdate="20181022T141542Z">
-        <seg>Öffne Zieldatei</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T180157Z" creationid="Michael Motzkus" creationdate="20181022T141542Z">
+        <seg>Zieldatei öffnen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Open Target File Location</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T140646Z" creationid="Michael Motzkus" creationdate="20181022T141628Z">
-        <seg>Öffne Standort der Zieldatei</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T180249Z" creationid="Michael Motzkus" creationdate="20181022T141628Z">
+        <seg>Ordner der Zieldatei öffnen</seg>
       </tuv>
     </tu>
     <tu>
@@ -40852,8 +40852,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Open {0} Source Files</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T141504Z" creationid="Michael Motzkus" creationdate="20181022T141253Z">
-        <seg>Öffne {0} Quelldateien</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T180039Z" creationid="Michael Motzkus" creationdate="20181022T141253Z">
+        <seg>{0} Quelldateien öffnen</seg>
       </tuv>
     </tu>
     <tu>
@@ -40868,8 +40868,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Open {0} Target Files</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T141555Z" creationid="Michael Motzkus" creationdate="20181022T141555Z">
-        <seg>Öffne {0} Zieldateien</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T180207Z" creationid="Michael Motzkus" creationdate="20181022T141555Z">
+        <seg>{0} Zieldateien öffnen</seg>
       </tuv>
     </tu>
     <tu>
@@ -43224,8 +43224,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Project Files ({0})</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T095653Z">
-        <seg>Projektdateien{0}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T180321Z">
+        <seg>Projektdateien ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -60574,8 +60574,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T231859Z">
-        <seg>Anzahl übersetzter einmaliger Segmente</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T180542Z">
+        <seg>Übersetzte einmalige Segmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -65590,8 +65590,8 @@ your programs, too.</seg>
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Eine detailliertere Statistik befindet sich in der Datei:
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T180009Z">
+        <seg>Umfangreichere Statistiken finden Sie in folgender Datei:
 {0}</seg>
       </tuv>
     </tu>
