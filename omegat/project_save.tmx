@@ -16034,8 +16034,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T072247Z" creationid="Michael Motzkus" creationdate="20180921T072128Z">
-        <seg>Wählen Sie &lt;e2&gt;TMs&lt;/e2&gt;, um die Translation Memorys im &lt;f3&gt;tm&lt;/f3&gt;-Ordner in die Suche einzubeziehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183930Z" creationid="Michael Motzkus" creationdate="20180921T072128Z">
+        <seg>Wählen Sie &lt;e2&gt;TMs&lt;/e2&gt;, um die Translation Memories im &lt;f3&gt;tm&lt;/f3&gt;-Ordner in die Suche einzubeziehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20096,8 +20096,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Dictionary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T232233Z">
-        <seg>Der eingegebene Ordner „Wörterbuchdateien" existiert nicht!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184521Z">
+        <seg>Der eingegebene Wörterbuchdateien-Ordner existiert nicht!</seg>
       </tuv>
     </tu>
     <tu>
@@ -24881,8 +24881,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T200639Z" creationid="Ragnar-F" creationdate="20210111T200639Z">
-        <seg>Matches von Translation Memorys aus Ordnern mit dem Namen &lt;f0&gt;penalty-xxx&lt;/f0&gt; (wobei xxx eine Zahl zwischen 0 und 100 ist) werden gemäß dem Namen des Ordners herabgestuft: Ein 100%-Match in einem der TMs, das sich z. B. in einem Ordner namens &lt;f1&gt;penalty-30&lt;/f1&gt; befindet, wird zu einem 70%-Match herabgestuft.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183908Z" creationid="Ragnar-F" creationdate="20210111T200639Z">
+        <seg>Matches von Translation Memories aus Ordnern mit dem Namen &lt;f0&gt;penalty-xxx&lt;/f0&gt; (wobei xxx eine Zahl zwischen 0 und 100 ist) werden gemäß dem Namen des Ordners herabgestuft: Ein 100%-Match in einem der TMs, das sich z. B. in einem Ordner namens &lt;f1&gt;penalty-30&lt;/f1&gt; befindet, wird zu einem 70%-Match herabgestuft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25609,8 +25609,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T162156Z">
-        <seg>Der eingegebene Glossardateiordner existiert nicht!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184244Z">
+        <seg>Der eingegebene Glossardateien-Ordner existiert nicht!</seg>
       </tuv>
     </tu>
     <tu>
@@ -29039,8 +29039,8 @@ by the Installation Information.</seg>
       <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T190935Z" creationid="Ragnar-F" creationdate="20210110T190935Z">
-        <seg>Wenn Sie mitten in der Übersetzung beschließen, von der satzweisen auf die absatzweise Übersetzung umzuschalten, wird der interne Translation Memory des Projekts nicht verändert (OmegaT kann alte Translation Memorys, die keine Satzsegmentierung verwendet haben, aktualisieren, aber nicht umgekehrt). Dennoch wird OmegaT versuchen, absatzbezogene Fuzzy-Matches zu erstellen, indem es vorhandene Satzübersetzungen zusammenfügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183820Z" creationid="Ragnar-F" creationdate="20210110T190935Z">
+        <seg>Wenn Sie mitten in der Übersetzung beschließen, von der satzweisen auf die absatzweise Übersetzung umzuschalten, wird der interne Translation Memory des Projekts nicht verändert (OmegaT kann alte Translation Memories, die keine Satzsegmentierung verwendet haben, aktualisieren, aber nicht umgekehrt). Dennoch wird OmegaT versuchen, absatzbezogene Fuzzy-Matches zu erstellen, indem es vorhandene Satzübersetzungen zusammenfügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31150,8 +31150,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T130517Z" creationid="Ragnar-F" creationdate="20210111T130517Z">
-        <seg>In diesem Modus versucht OmegaT, die Dateien in &lt;f0&gt;/source/&lt;/f0&gt; mit den verfügbaren Translation Memorys zu übersetzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183841Z" creationid="Ragnar-F" creationdate="20210111T130517Z">
+        <seg>In diesem Modus versucht OmegaT, die Dateien in &lt;f0&gt;/source/&lt;/f0&gt; mit den verfügbaren Translation Memories zu übersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34680,8 +34680,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T144223Z" creationid="Michael Motzkus" creationdate="20181022T144223Z">
-        <seg>Lokale(r) Datei / Ordner</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184028Z" creationid="Michael Motzkus" creationdate="20181022T144223Z">
+        <seg>Lokale Datei/Ordner</seg>
       </tuv>
     </tu>
     <tu>
@@ -35392,8 +35392,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mapping for projects in a subdirectory of the repository:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T085251Z" creationid="Ragnar-F" creationdate="20210111T085251Z">
-        <seg>Zuordnung für Projekte in einem Unterverzeichnis des Repositorys:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183806Z" creationid="Ragnar-F" creationdate="20210111T085251Z">
+        <seg>Zuordnung für Projekte in einem Unterverzeichnis des Repository:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37109,8 +37109,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T140527Z" creationid="Ragnar-F" creationdate="20210111T140527Z">
-        <seg>Neue Translation Memorys, die während der Übersetzung im &lt;f0&gt;/tm&lt;/f0&gt;-Ordner abgelegt werden, werden automatisch geladen, sobald sich der Textcursor von einem Segment zum anderen bewegt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183847Z" creationid="Ragnar-F" creationdate="20210111T140527Z">
+        <seg>Neue Translation Memories, die während der Übersetzung im &lt;f0&gt;/tm&lt;/f0&gt;-Ordner abgelegt werden, werden automatisch geladen, sobald sich der Textcursor von einem Segment zum anderen bewegt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38495,8 +38495,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="en">
         <seg>Number of matching segments:</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Anzahl der Ergebnisse:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184904Z">
+        <seg>Anzahl gefundener Segmente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40563,8 +40563,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T214135Z" creationid="Ragnar-F" creationdate="20210111T214135Z">
-        <seg>Es werden nur Zeilen mit aktiviertem &lt;g0&gt;Behalten&lt;/g0&gt;-Kontrollkästchen bei der Erstellung des Translation Memorys einbezogen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183916Z" creationid="Ragnar-F" creationdate="20210111T214135Z">
+        <seg>Es werden nur Zeilen mit aktiviertem &lt;g0&gt;Behalten&lt;/g0&gt;-Kontrollkästchen bei der Erstellung des Translation Memory einbezogen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44441,8 +44441,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remote File/Folder</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T144254Z" creationid="Michael Motzkus" creationdate="20181022T144254Z">
-        <seg>Entfernte(r) Datei / Ordner</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184044Z" creationid="Michael Motzkus" creationdate="20181022T144254Z">
+        <seg>Remote-Datei/Ordner</seg>
       </tuv>
     </tu>
     <tu>
@@ -45241,8 +45241,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Reuse Translation Memories</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T193122Z" creationid="Ragnar-F" creationdate="20210110T193122Z">
-        <seg>Translation Memorys wiederverwenden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183829Z" creationid="Ragnar-F" creationdate="20210110T193122Z">
+        <seg>Translation Memories wiederverwenden</seg>
       </tuv>
     </tu>
     <tu>
@@ -46076,9 +46076,9 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T145708Z" creationid="Michael Motzkus" creationdate="20181022T145708Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T190715Z" creationid="Michael Motzkus" creationdate="20181022T145708Z">
         <seg>Suche in:
-Der Ort einer Suche ist standardmäßig das Projekt und kann auf alle Dateien in einer bestimmten Ordnerhierarchie festgelegt werden.</seg>
+Die Suche erfolgt standardmäßig im Projekt, aber es gibt auch die Möglichkeit, beliebige Dateien in einer bestimmten Ordnerhierarchie zu durchsuchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48994,8 +48994,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T162052Z">
-        <seg>Der eingegebene Quelldateiordner existiert nicht!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184231Z">
+        <seg>Der eingegebene Quelldateien-Ordner existiert nicht!</seg>
       </tuv>
     </tu>
     <tu>
@@ -50096,6 +50096,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20131206T232952Z">
         <seg>Die systemübergreifenden Befehle Alles auswählen (&lt;k0&gt;Strg+A&lt;/k0&gt;), Einfügen (&lt;e1&gt;Strg+V&lt;/e1&gt;), Ausschneiden (&lt;e2&gt;Strg+X&lt;/e2&gt;), Kopieren (&lt;e3&gt;Strg+C)&lt;/e3&gt;, Match einfügen &lt;e4&gt;(Strg+I&lt;/e4&gt;) und Quellsegment einfügen (&lt;e5&gt;Strg+Umschalt+I&lt;/e5&gt;) greifen grundsätzlich nur innerhalb des Textes im aktuell geöffneten Segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184640Z" creationid="Ragnar-F" creationdate="20210113T184640Z">
+        <seg>T&amp;Ms</seg>
       </tuv>
     </tu>
     <tu>
@@ -53940,8 +53948,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T193149Z" creationid="Ragnar-F" creationdate="20210111T193149Z">
-        <seg>Die Zeile mit den Matching-Prozentsätzen beinhaltet auch den Namen des Translation Memorys, das das Match enthält.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183858Z" creationid="Ragnar-F" creationdate="20210111T193149Z">
+        <seg>Die Zeile mit den Matching-Prozentsätzen beinhaltet auch den Namen des Translation Memory, das das Match enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56070,8 +56078,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The writeable glossary file must be inside the glossary folder</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T162322Z">
-        <seg>Die beschreibbare Glossardatei sollte sich im Glossarordner befinden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184433Z">
+        <seg>Die beschreibbare Glossardatei muss sich im Glossarordner befinden</seg>
       </tuv>
     </tu>
     <tu>
@@ -60534,8 +60542,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T170631Z">
-        <seg>Der eingegebene Zieldateiordner existiert nicht!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184237Z">
+        <seg>Der eingegebene Zieldateien-Ordner existiert nicht!</seg>
       </tuv>
     </tu>
     <tu>
@@ -60702,8 +60710,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T162418Z">
-        <seg>Der eingegebene Ordner Translation-Memory-Dateien existiert nicht!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184448Z">
+        <seg>Der eingegebene Translation-Memory-Dateien-Ordner existiert nicht!</seg>
       </tuv>
     </tu>
     <tu>
@@ -64672,8 +64680,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T162252Z">
-        <seg>Der eingegebene beschreibbare Glossardateiordner existiert nicht!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184410Z">
+        <seg>Der eingegebene Ordner der beschreibbaren Glossardatei existiert nicht!</seg>
       </tuv>
     </tu>
     <tu>
