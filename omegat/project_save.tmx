@@ -1408,8 +1408,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Language Checker</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T091323Z" creationid="Michael Motzkus" creationdate="20190129T091323Z">
-        <seg>Sprachprüfung (&amp;Language Checker)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T222559Z" creationid="Michael Motzkus" creationdate="20190129T091323Z">
+        <seg>&amp;LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -12283,8 +12283,8 @@ the above requirements apply either way.</seg>
       <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T142049Z">
-        <seg>Projekt-Alignment gegen {0} durchführen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223557Z">
+        <seg>Projekt an {0} ausrichten</seg>
       </tuv>
     </tu>
     <tu>
@@ -13129,8 +13129,8 @@ organization, or merging organizations.</seg>
       <tuv lang="en">
         <seg>An error occurred while trying to run console process: {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T161657Z" creationid="karsten" creationdate="20150919T161657Z">
-        <seg>Beim Start des Konsoleprozesses ist ein Fehler aufgetreten: {0}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223718Z" creationid="karsten" creationdate="20150919T161657Z">
+        <seg>Bei dem Versuch, einen Konsolenprozess auszuführen, ist ein Fehler aufgetreten: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14411,8 +14411,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Available script engines:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T164225Z">
-        <seg>Verfügbare Skriptmaschinen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223250Z">
+        <seg>Verfügbare Skriptsprachen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20384,8 +20384,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T174539Z">
-        <seg>Zeigen alternative Übersetzungen an, die Sie für sich im Projekt wiederholende Segmente erstellt haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T222734Z">
+        <seg>Zeigt alternative Übersetzungen an, die Sie für wiederholt vorkommende Segmente erstellt haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25713,8 +25713,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Go To Segment Source</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T155841Z">
-        <seg>Gehe zum Quellsegment</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223152Z">
+        <seg>Zum Segment springen</seg>
       </tuv>
     </tu>
     <tu>
@@ -34632,8 +34632,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Loading Project</seg>
       </tuv>
-      <tuv lang="de" changeid="helm" changedate="20130428T145218Z">
-        <seg>Projekt wird geladen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223605Z">
+        <seg>Lade Projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -36805,8 +36805,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Multiple Translations</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T161808Z">
-        <seg>Mehrfachübersetzungen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T222508Z">
+        <seg>Mehrere Übersetzungen</seg>
       </tuv>
     </tu>
     <tu>
@@ -50514,8 +50514,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T141826Z">
-        <seg>Tagprüfung fehlgeschlagen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223330Z">
+        <seg>Tag-Validierung fehlgeschlagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -54698,8 +54698,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The project cannot be verified</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T142100Z">
-        <seg>Das Projekt kann nicht überprüft werden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223616Z">
+        <seg>Das Projekt kann nicht verifiziert werden</seg>
       </tuv>
     </tu>
     <tu>
@@ -60550,8 +60550,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translated files location not defined</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T175909Z">
-        <seg>Der Speicherort der Zieldateien ist nicht definiert</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223515Z">
+        <seg>Speicherort der übersetzten Dateien nicht definiert</seg>
       </tuv>
     </tu>
     <tu>
@@ -60598,8 +60598,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translating Project</seg>
       </tuv>
-      <tuv lang="de" changeid="helm" changedate="20130428T144355Z">
-        <seg>Projekt wird übersetzt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223348Z">
+        <seg>Übersetze Projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -62880,8 +62880,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Validating tags</seg>
       </tuv>
-      <tuv lang="de" changeid="helm" changedate="20130428T144404Z">
-        <seg>Tags werden geprüft</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223417Z">
+        <seg>Validiere Tags</seg>
       </tuv>
     </tu>
     <tu>
