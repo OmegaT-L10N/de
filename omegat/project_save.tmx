@@ -28014,8 +28014,8 @@ Foundation.</seg>
       <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T123500Z">
-        <seg>Wenn die Box automatische Verbreitung nicht markiert ist, werden die Segmente mit alternativen Übersetzung als nicht übersetzt belassen, bis der Nutzer sich entschieden hat, welche Übersetzung genommen werden soll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145115Z">
+        <seg>Wenn das Kontrollkästchen "Automatische Weitergabe" deaktiviert ist, bleiben die Segmente mit alternativen Übersetzungen unübersetzt, bis der Benutzer entschieden hat, welche Übersetzung verwendet werden soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30260,8 +30260,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075536Z">
-        <seg>Wenn es in Quelldokumenten nicht-einmalige Segmente gibt, bietet die Kontrollbox automatische Verbreitung die folgenden zwei Möglichkeite für automatische Übersetzung: wenn es markiert ist, dann wird das erste übersetzte Segment als die Standard-Übersetzung angesehen und sein Zieltext wird automatisch für spätere Treffer im Übersetzungsprozess genutzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145024Z">
+        <seg>Falls es in den Quelldokumenten nicht-einmalige Segmente gibt, bietet das Kontrollkästchen "Automatische Weitergabe" dem Benutzer die folgenden zwei Möglichkeiten für die automatische Übersetzung: Wenn es aktiviert ist, wird das erste übersetzte Segment als Standardübersetzung vermutet und dessen Zieltext automatisch für spätere Treffer im Übersetzungsprozess verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32817,8 +32817,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T161504Z">
-        <seg>Es war nicht möglich, die Zieldokumente zu erstellen, weil einige Tags fehlen bzw. beschädigt sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145727Z">
+        <seg>Es war nicht möglich, die übersetzten Dokumente zu erstellen, weil einige Tags fehlen bzw. beschädigt sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36187,8 +36187,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T123335Z">
-        <seg>Falsch übersetzte Segmente können natürlich später manuell korrigiert werden, unter Gebrauch von &lt;g0&gt;Erstelle Alternative Übersetzung&lt;/g0&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145019Z">
+        <seg>Falsch übersetzte Segmente können natürlich später manuell mit &lt;g0&gt;Alternative Übersetzung erstellen&lt;/g0&gt; korrigiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37521,8 +37521,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T123759Z">
-        <seg>Nicht sichtbare Formatierung (d.h. die nicht als Tags im OmegaT Editor auftauchen) wird in Zieldokumenten beibehalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145508Z">
+        <seg>Nicht sichtbare Formatierungen (also solche, die nicht als Tags im OmegaT-Editor erscheinen) bleiben in Zieldokumenten erhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57110,8 +57110,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141959Z" creationid="Michael Motzkus" creationdate="20180919T070529Z">
-        <seg>Dieser Bereich erlaubt die Eingabe eines externen Nachbereitungskommandos (zum Beispiel ein Skript, das Dateinamen ändert), das jedes Mal ausgeführt wird, nachdem "Zieldokumente erstellen" benutzt wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145629Z" creationid="Michael Motzkus" creationdate="20180919T070529Z">
+        <seg>Dieser Bereich erlaubt die Eingabe eines externen Nachbearbeitungsbefehls (zum Beispiel ein Skript, das Dateinamen ändert), das jedes Mal ausgeführt wird, nachdem "Übersetzte Dokumente erstellen" benutzt wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57775,8 +57775,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T123732Z">
-        <seg>Das ist besonders sinnvoll, wenn es sich um Texte handelt, in denen inline Formate nicht wirklich Sinn machen (z.B. OCRed PDF, schlecht konvertierte .odt oder .docx, usw.) Normalerweise sollte es immer möglich sein, die Zieldokumente zu öffnen, weil inline Tags nicht entfernt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145418Z">
+        <seg>Dies ist vor allem dann nützlich, wenn es sich um Texte handelt, bei denen eine Inline-Formatierung nicht wirklich sinnvoll ist (z. B. OCRed-PDF-Dateien, schlecht konvertierte .odt- oder .docx-Dateien usw.). Im Normalfall sollte es immer möglich sein, die Zieldokumente zu öffnen, da nur Inline-Tags entfernt werden.</seg>
       </tuv>
     </tu>
     <tu>
