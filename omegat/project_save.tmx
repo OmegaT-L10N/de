@@ -10901,8 +10901,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130642Z">
-        <seg>Eine Nichtziffer: [^0-9]</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T113618Z">
+        <seg>Eine Nicht-Ziffer: [^0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -10917,16 +10917,16 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="en">
         <seg>A non-word boundary</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Eine Nichtwortgrenze</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114059Z">
+        <seg>Eine Nicht-Wortgrenze</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>A non-word character: [^\w]</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130754Z">
-        <seg>Ein Nichtwortzeichen:: [^\w]</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T113631Z">
+        <seg>Ein Nicht-Wortzeichen:: [^\w]</seg>
       </tuv>
     </tu>
     <tu>
@@ -13505,16 +13505,16 @@ paragraph of section 11).</seg>
       <tuv lang="en">
         <seg>Any character (except for line terminators)</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Beliebiges Zeichen (außer Zeilenende)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T113556Z">
+        <seg>Beliebiges Zeichen (außer Zeilenendzeichen)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Any character except a, b, or c (negation)</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130456Z">
-        <seg>Alle Zeichen außer a, b, oder c (Negation)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T113517Z">
+        <seg>Beliebiges Zeichen außer a, b, oder c (Negation)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13529,8 +13529,8 @@ paragraph of section 11).</seg>
       <tuv lang="en">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112906Z">
-        <seg>Alle Zeichen außer Großbuchstaben (Subtraktion)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T113359Z">
+        <seg>Beliebiger Buchstabe außer Großbuchstabe (Subtraktion)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24103,8 +24103,8 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T072216Z" creationid="Michael Motzkus" creationdate="20180919T072216Z">
-        <seg>Zum Beispiel wird &lt;e0&gt;a+&lt;/e0&gt; dem aaa in &lt;e1&gt;aaabbb&lt;/e1&gt; entsprechen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114531Z" creationid="Michael Motzkus" creationdate="20180919T072216Z">
+        <seg>Zum Beispiel wird &lt;e0&gt;a+&lt;/e0&gt; die Zeichenkette aaa in &lt;e1&gt;aaabbb&lt;/e1&gt; finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44137,8 +44137,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130816Z">
-        <seg>Regex - Bereichstreffer</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114038Z">
+        <seg>RegEx - Abgrenzungsplatzhalter</seg>
       </tuv>
     </tu>
     <tu>
@@ -44185,8 +44185,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130850Z">
-        <seg>Regex - Gierige Quantifikatoren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114326Z">
+        <seg>RegEx - Greedy-Quantoren</seg>
       </tuv>
     </tu>
     <tu>
@@ -44217,8 +44217,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T131152Z">
-        <seg>Regex - Widerwillige (nicht-gierige) Quantifikatoren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114755Z">
+        <seg>RegEx - Ungreedy-Quantoren</seg>
       </tuv>
     </tu>
     <tu>
@@ -52508,8 +52508,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The beginning of a line</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Anfang einer Zeile</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114049Z">
+        <seg>Der Anfang einer Zeile</seg>
       </tuv>
     </tu>
     <tu>
@@ -64768,24 +64768,24 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>X, once or not at all</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130913Z">
-        <seg>X, einmal oder nie</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114200Z">
+        <seg>0 oder 1 Vorkommen von X</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>X, one or more times</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130944Z">
-        <seg>X, ein- oder mehrmals</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114234Z">
+        <seg>0 oder 1 Vorkommen von X</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>X, zero or more times</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130932Z">
-        <seg>X, kein- oder mehrmals</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114217Z">
+        <seg>0 oder mehr Vorkommen von X</seg>
       </tuv>
     </tu>
     <tu>
@@ -66831,8 +66831,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>\P{InGreek}</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>\p{InGreek}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T113330Z" creationid="Ragnar-F" creationdate="20210114T113330Z">
+        <seg>\P{InGreek}</seg>
       </tuv>
     </tu>
     <tu>
@@ -69935,8 +69935,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T131026Z">
-        <seg>gierige Quantifikatoren werden so viele Treffer finden, wie sie können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114428Z">
+        <seg>Greedy-Quantoren versuchen, so viele Zeichen wie möglich einzubeziehen, um eine Übereinstimmung zu finden.</seg>
       </tuv>
     </tu>
     <tu>
