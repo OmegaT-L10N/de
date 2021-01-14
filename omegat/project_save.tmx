@@ -12131,8 +12131,8 @@ the above requirements apply either way.</seg>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T112628Z">
-        <seg>Wenn die Quelldatei in den &lt;g3&gt;Editor&lt;/g3&gt;-Bereich geladen wurde, können Sie das Dialogfenster &lt;g4&gt;Projektdateien&lt;/g4&gt; schließen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202310Z">
+        <seg>Wenn die Quelldatei in den &lt;g3&gt;Editorbereich&lt;/g3&gt; geladen wurde, können Sie das Dialogfenster &lt;g4&gt;Projektdateien&lt;/g4&gt; schließen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19756,8 +19756,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Je nach Status, können in der oberen rechten Ecke verschiedene Zeichen erscheinen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202837Z">
+        <seg>Je nach Zustand des Fensterbereichs können in seiner rechten oberen Ecke unterschiedliche Symbole erscheinen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25641,8 +25641,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Glossar-Fenster</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202119Z">
+        <seg>Glossarbereich</seg>
       </tuv>
     </tu>
     <tu>
@@ -27254,8 +27254,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="en">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T123409Z">
-        <seg>Wenn eine Datei nicht in den &lt;g0&gt;Editor&lt;/g0&gt;-Bereich geladen wird, liegt es möglicherweise daran, dass das Format der Datei nicht von OmegaT unterstützt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202320Z">
+        <seg>Wenn eine Datei nicht in den &lt;g0&gt;Editorbereich&lt;/g0&gt; geladen wird, liegt es möglicherweise daran, dass das Format der Datei nicht von OmegaT unterstützt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29453,24 +29453,24 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T145921Z" creationid="Michael Motzkus" creationdate="20180918T101433Z">
-        <seg>Wenn Sie einen Text (in einem beliebigen Bereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g3&gt;Suchen nach&lt;/g3&gt; eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202352Z" creationid="Michael Motzkus" creationdate="20180918T101433Z">
+        <seg>Wenn Sie einen Text (in einem beliebigen Fensterbereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g3&gt;Suchen nach&lt;/g3&gt; eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T150006Z" creationid="Michael Motzkus" creationdate="20180918T102026Z">
-        <seg>Wenn Sie einen Text (in einem beliebigen Bereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g3&gt;Suchen nach&lt;/g3&gt; eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202355Z" creationid="Michael Motzkus" creationdate="20180918T102026Z">
+        <seg>Wenn Sie einen Text (in einem beliebigen Fensterbereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g3&gt;Suchen nach&lt;/g3&gt; eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T182816Z" creationid="Michael Motzkus" creationdate="20180918T092338Z">
-        <seg>Wenn Sie einen Text (in einem beliebigen Bereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g4&gt;Quellbegriff&lt;/g4&gt; eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202340Z" creationid="Michael Motzkus" creationdate="20180918T092338Z">
+        <seg>Wenn Sie einen Text (in einem beliebigen Fensterbereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g4&gt;Quellbegriff&lt;/g4&gt; eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45345,8 +45345,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130523T193758Z">
-        <seg>Klicken Sie rechts in das Glossar Feld oder drücken Sie &lt;k0&gt;Strg+Umschalt+G&lt;/k0&gt;, um einen neuen Eintrag hinzuzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202212Z">
+        <seg>Rechtsklicken Sie im Glossarbereich oder drücken Sie &lt;k0&gt;Strg+Umschalt+G&lt;/k0&gt;, um einen neuen Eintrag hinzuzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51006,8 +51006,8 @@ this License.</seg>
       <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T124900Z" creationid="Ragnar-F" creationdate="20210113T124900Z">
-        <seg>Begriffe im aktuellen Segment, die &lt;a2&gt;OmegaT&lt;/a2&gt; in der/den Glossardatei(en) findet, werden im Glossar-Bereich angezeigt:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202110Z" creationid="Ragnar-F" creationdate="20210113T124900Z">
+        <seg>Begriffe im aktuellen Segment, die &lt;a2&gt;OmegaT&lt;/a2&gt; in der/den Glossardatei(en) findet, werden im Glossarbereich angezeigt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52821,8 +52821,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130523T194451Z">
-        <seg>Die Inhalte des Glossar-Fensters werden entsprechend aktualisiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202258Z">
+        <seg>Die Inhalte des Glossarbereichs werden entsprechend aktualisiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55194,8 +55194,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The separators between the panes can be dragged to resize panes.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142308Z">
-        <seg>Um die Fenstergrößen anzupassen, kann man die Trennlinien zwischen den Unterfenstern ziehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T201859Z">
+        <seg>Die Trennlinien zwischen den Fensterbereichen können gezogen werden, um die Größe der Fensterbereiche zu ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55886,8 +55886,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T185933Z">
-        <seg>Das unterstrichene Element "pop-up menu" kann im Glossar-Fenster als "pojavni menu" gefunden werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202139Z">
+        <seg>Das unterstrichene Element "pop-up menu" kann im Glossarbereich als "pojavni menu" gefunden werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65397,8 +65397,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130610T192354Z">
-        <seg>Sie können die Position jedes Feldes ändern oder es in ein gesondertes Fenster abkoppeln durch Klicken und Ziehen des Feldes mit seinem Namen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202729Z">
+        <seg>Sie können die Position eines beliebigen Fensterbereichs ändern oder ihn sogar in ein separates Fenster abdocken, indem Sie seinen Namen anklicken und ziehen.</seg>
       </tuv>
     </tu>
     <tu>
