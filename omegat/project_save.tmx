@@ -3915,8 +3915,8 @@ Translated to singular.</note>
       <tuv lang="en">
         <seg>...matches the following</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130001Z">
-        <seg>... entspricht dem Folgenden:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T122433Z">
+        <seg>... findet Folgendes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38309,8 +38309,8 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="en">
         <seg>Nothing, but quotes the following character.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112116Z">
-        <seg>Bewirkt, dass das nächste Zeichen normal behandelt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T122651Z">
+        <seg>Behandelt das nächste Zeichen als normales Zeichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46750,8 +46750,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>See additional references and examples below.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124319Z">
-        <seg>Siehe zusätzliche Referenzen und Beispiele unten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T121710Z">
+        <seg>Weitere Referenzen und Beispiele finden Sie unten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48166,8 +48166,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T110238Z">
-        <seg>Sollten Sie spezifischere Information benötigen, schauen Sie in die &lt;u0&gt;Java-RegEx-Dokumentation&lt;/u0&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T121644Z">
+        <seg>Sollten Sie genauere Informationen benötigen, schauen Sie sich die &lt;u0&gt;Java-RegEx-Dokumentation&lt;/u0&gt; an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78272,6 +78272,28 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T092229Z" creationid="Ragnar-F" creationdate="20210113T092229Z">
         <seg>Notiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_Regexp.xml</prop>
+      <prop type="prev">The construct</prop>
+      <prop type="next">(?i)</prop>
+      <tuv lang="en">
+        <seg>... matches the following</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T122205Z" creationid="Ragnar-F" creationdate="20210114T122205Z">
+        <seg>... bewirkt Folgendes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_Regexp.xml</prop>
+      <prop type="prev">The construct</prop>
+      <prop type="next">\</prop>
+      <tuv lang="en">
+        <seg>...matches the following</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T122615Z" creationid="Ragnar-F" creationdate="20210114T122615Z">
+        <seg>... bewirkt Folgendes:</seg>
       </tuv>
     </tu>
     <tu>
