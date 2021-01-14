@@ -1896,8 +1896,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T093639Z" creationid="karsten" creationdate="20150919T093639Z">
-        <seg>Relevante Empfehlungen automati&amp;sch anzeigen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131233Z" creationid="karsten" creationdate="20150919T093639Z">
+        <seg>Relevante Vorschläge automati&amp;sch anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1912,8 +1912,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T065444Z" creationid="Michael Motzkus" creationdate="20190129T065444Z">
-        <seg>Relevante Empfehlungen automati&amp;sch anzeigen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131237Z" creationid="Michael Motzkus" creationdate="20190129T065444Z">
+        <seg>Relevante Vorschläge automati&amp;sch anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -14251,32 +14251,32 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Auto-completion</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T134516Z" creationid="Michael Motzkus" creationdate="20180918T170948Z">
-        <seg>Auto-Vervollständigung</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131325Z" creationid="Michael Motzkus" creationdate="20180918T170948Z">
+        <seg>Autovervollständigung</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180912T090320Z" creationid="Michael Motzkus" creationdate="20180912T090216Z">
-        <seg>Automatische Vervollständigung / Autotext...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131300Z" creationid="Michael Motzkus" creationdate="20180912T090216Z">
+        <seg>Autovervollständigung -&gt; Autotext...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Auto-completion/Character Table...</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180912T090400Z" creationid="Michael Motzkus" creationdate="20180912T090400Z">
-        <seg>Autovervollständigung / Zeichentabelle...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131309Z" creationid="Michael Motzkus" creationdate="20180912T090400Z">
+        <seg>Autovervollständigung -&gt; Zeichentabelle...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Auto-completion/Glossary...</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180912T090306Z" creationid="Michael Motzkus" creationdate="20180912T090110Z">
-        <seg>Automatische Vervollständigung / Glossar...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131253Z" creationid="Michael Motzkus" creationdate="20180912T090110Z">
+        <seg>Autovervollständigung -&gt; Glossar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14752,8 +14752,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T154909Z">
-        <seg>Bevor die Rechtschreibprüfung benutzt werden kann, muss ein geeignetes Wörterbuch oder Wörterbücher (d.h. für Ihre Zielsprache) installiert werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131805Z">
+        <seg>Bevor die Rechtschreibprüfung genutzt werden kann, müssen ein oder mehrere geeignete Wörterbücher (z. B. für Ihre Zielsprache) installiert sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37929,8 +37929,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T155219Z">
-        <seg>Bedenken Sie, dass die Funktion "installieren" eine Verbindung zum Internet voraussetzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T132728Z">
+        <seg>Beachten Sie, dass diese Funktion eine Verbindung zum Internet voraussetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50378,8 +50378,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Tag Processing...</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180918T173807Z" creationid="Michael Motzkus" creationdate="20180912T090457Z">
-        <seg>Tagprüfung...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131550Z" creationid="Michael Motzkus" creationdate="20180912T090457Z">
+        <seg>Tag-Verarbeitung...</seg>
       </tuv>
     </tu>
     <tu>
@@ -63503,8 +63503,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T222629Z" creationid="karsten" creationdate="20150919T165109Z">
-        <seg>Wenn aktiviert, enthalten die Einträge in der Autovervollständigungsansicht des Glossars auch den Quelltext.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131405Z" creationid="karsten" creationdate="20150919T165109Z">
+        <seg>Wenn aktiviert, enthalten die Einträge in der Glossar-Autovervollständiger-Ansicht auch den Quelltext.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65565,8 +65565,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141945Z">
-        <seg>Sie können die Dateien entweder manuell kopieren. d.h. von einem anderen Ort auf Ihrem Computer unter Benutzung des Dateimanagers; oder Sie könnten die OmegaT Funktion &lt;e0&gt;"neues Wörterbuch installieren"&lt;/e0&gt; benutzen, um eine Liste von vorhandenen Wörterbüchern zu erhalten, aus denen Sie auswählen können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T132604Z">
+        <seg>Sie können Dateien entweder manuell kopieren, also von einem anderen Ort auf Ihrem System, mithilfe Ihres Dateimanagers; oder Sie können die &lt;e0&gt;Neues Wörterbuch installieren&lt;/e0&gt;-Funktion von OmegaT verwenden, um eine Auswahl von verfügbaren Wörterbüchern zu erhalten.</seg>
       </tuv>
     </tu>
     <tu>
