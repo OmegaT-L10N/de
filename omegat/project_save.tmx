@@ -10748,8 +10748,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="en">
         <seg>A currency symbol</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Währungssymbol</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112740Z">
+        <seg>Ein Währungssymbol</seg>
       </tuv>
     </tu>
     <tu>
@@ -13309,8 +13309,8 @@ work under this License, and how to view a copy of this License.</seg>
       <tuv lang="en">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130302Z">
-        <seg>Großbuchstabe (einfache &lt;u0&gt; Kategorie&lt;/u0&gt;)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112727Z">
+        <seg>Ein Großbuchstabe (einfache &lt;u0&gt; Kategorie&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13521,16 +13521,16 @@ paragraph of section 11).</seg>
       <tuv lang="en">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141929Z">
-        <seg>Alle Zeichen nur nicht im Griechischen Block (Negation)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T113045Z">
+        <seg>Beliebiges Zeichen außer eines vom griechischen Block (Negation)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Alle Zeichen außer groß geschriebene Buchstaben (Subtraktion)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112906Z">
+        <seg>Alle Zeichen außer Großbuchstaben (Subtraktion)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24387,8 +24387,8 @@ freedoms that you received.</seg>
       <tuv lang="en">
         <seg>For example, this is the backslash character</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Das ist zum Beispiel der umgekehrte Schrägstrich</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112248Z">
+        <seg>Ein normaler umgekehrter Schrägstrich</seg>
       </tuv>
     </tu>
     <tu>
@@ -38293,24 +38293,24 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="en">
         <seg>Nothing, but ends quoting started by \Q</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130132Z">
-        <seg>Nichts als ein Zitat, das mit \Q begann, zu beenden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112647Z">
+        <seg>Beendet die normale Behandlung von Zeichen, welche via \Q gestartet wurde</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Nothing, but quotes all characters until \E</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144850Z">
-        <seg>Nichts als alle Zeichen bis zu \E zu zitieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112531Z">
+        <seg>Behandelt alle nachfolgenden Zeichen bis zu einem \E als normale Zeichen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Nothing, but quotes the following character.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>tut nichts, als das nächste Zeichen zu zitieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112116Z">
+        <seg>Bewirkt, dass das nächste Zeichen normal behandelt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44153,16 +44153,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex - Character classes</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130412Z">
-        <seg>Regex - Zeichenklassen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112951Z">
+        <seg>RegEx - Zeichenklassen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130201Z">
-        <seg>Regex - Klassen für die Unicode Blöcke und Kategorien</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112723Z">
+        <seg>RegEx - Klassen für die Unicode-Blöcke und Kategorien</seg>
       </tuv>
     </tu>
     <tu>
@@ -44201,16 +44201,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex - Predefined character classes</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130541Z">
-        <seg>Regex - Vordefinierte Zeichenklassen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112927Z">
+        <seg>RegEx - Vordefinierte Zeichenklassen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Quotation</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T125957Z">
-        <seg>Regex - Zitat</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111935Z">
+        <seg>Regex - Escapen</seg>
       </tuv>
     </tu>
     <tu>
@@ -52572,8 +52572,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T125207Z">
-        <seg>Das Zeichen mit dem hexadezimalen Wert 0xhhh</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111612Z">
+        <seg>Das Zeichen mit dem hexadezimalen Wert 0xhh</seg>
       </tuv>
     </tu>
     <tu>
@@ -52588,24 +52588,24 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The character with octal value 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T125156Z">
-        <seg>Das Zeichen mit dem Oktal Wert 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111606Z">
+        <seg>Das Zeichen mit dem Oktalwert 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The character with octal value 0n (0 &lt;= n &lt;= 7)</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T125116Z">
-        <seg>Das Zeichen mit dem Oktal Wert 0n (0 &lt;= n &lt;= 7)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111551Z">
+        <seg>Das Zeichen mit dem Oktalwert 0n (0 &lt;= n &lt;= 7)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The character with octal value 0nn (0 &lt;= n &lt;= 7)</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T125135Z">
-        <seg>Das Zeichen mit dem Oktal Wert 0nn (0 &lt;= n &lt;= 7)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111556Z">
+        <seg>Das Zeichen mit dem Oktalwert 0nn (0 &lt;= n &lt;= 7)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57873,8 +57873,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130047Z">
-        <seg>Das ist erforderlich, wenn Sie von den Meta-Zeichen !$()*+.&lt;&gt;?[\]^{|} eines als sich selbst entsprechend einfügen wollen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112207Z">
+        <seg>Dies ist erforderlich, wenn Sie eines der Metazeichen !$()*+.&lt;&gt;?[\]^{|} suchen wollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67103,8 +67103,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>a through z or A through Z, inclusive (range)</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T130527Z">
-        <seg>a bis z oder A bis Z, inklusive (Bereich)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T112916Z">
+        <seg>a bis z oder A bis Z (Bereich)</seg>
       </tuv>
     </tu>
     <tu>
