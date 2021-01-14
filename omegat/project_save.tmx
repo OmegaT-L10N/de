@@ -12641,8 +12641,8 @@ conditions are met.</seg>
       <tuv lang="en">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T123813Z">
-        <seg>Erlaubt es dem Nutzer, einen Eintrag in die Datei mit dem Standard-Glossar zu schaffen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T182746Z">
+        <seg>Ermöglicht dem Benutzer, einen Eintrag in der standardmäßigen Glossardatei zu erstellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22937,8 +22937,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Exports the current selection to a text file for processing.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T123314Z">
-        <seg>Exportiert die bestehende Auswahl in eine Textdatei zur Bearbeitung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T181504Z">
+        <seg>Exportiert die aktuelle Auswahl zur Weiterverarbeitung in eine Textdatei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27740,8 +27740,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If no text has been selected, the current source segment is written to this file.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T123343Z">
-        <seg>Wenn kein Text ausgewählt wurde, dann wird das bestehende Segment in diese Datei geschrieben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T181902Z" creationid="Ragnar-F" creationdate="20210114T181902Z">
+        <seg>Wenn kein Text ausgewählt wurde, wird das aktuelle Quellsegment in diese Datei geschrieben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29469,8 +29469,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T145238Z" creationid="Michael Motzkus" creationdate="20180918T092338Z">
-        <seg>Wenn Sie einen Text (in einem beliebigen Bereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g4&gt;Quellterm&lt;/g4&gt; eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T182816Z" creationid="Michael Motzkus" creationdate="20180918T092338Z">
+        <seg>Wenn Sie einen Text (in einem beliebigen Bereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g4&gt;Quellbegriff&lt;/g4&gt; eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31578,8 +31578,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180918T084651Z" creationid="Michael Motzkus" creationdate="20180918T084651Z">
-        <seg>Fügt nur einen Tag (von den fehlenden) an der Cursor-Position ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T181432Z" creationid="Michael Motzkus" creationdate="20180918T084651Z">
+        <seg>Fügt nur eines der fehlenden Tags an der Position des Textcursors ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53182,8 +53182,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T144504Z" creationid="Ragnar-F" creationdate="20210108T144504Z">
-        <seg>Die exportierten Inhalte werden in die Datei &lt;f1&gt;selection.txt&lt;/f1&gt; kopiert, die sich im Ordner für die bevorzugten Einstellungen des Nutzers befindet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T182148Z" creationid="Ragnar-F" creationdate="20210108T144504Z">
+        <seg>Die exportierten Inhalte werden in die Datei &lt;f1&gt;selection.txt&lt;/f1&gt; kopiert, die sich im Benutzerordner von OmegaT befindet.</seg>
       </tuv>
     </tu>
     <tu>
