@@ -21786,8 +21786,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="en">
         <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T194250Z" creationid="Michael Motzkus" creationdate="20180925T070933Z">
-        <seg>Editorbereich: Wenn eine OmegaT-Projektdatei (&lt;f0&gt;omegat.project&lt;/f0&gt;) in diesen Bereich gezogen wird, wird das entsprechende Projekt geöffnet, wobei ein geöffnetes Projekt zuerst geschlossen wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T203113Z" creationid="Michael Motzkus" creationdate="20180925T070933Z">
+        <seg>Editorbereich: Wenn eine OmegaT-Projektdatei (&lt;f0&gt;omegat.project&lt;/f0&gt;) in diesen Fensterbereich gezogen wird, wird das entsprechende Projekt geöffnet, wobei zuerst ein eventuell geöffnetes Projekt geschlossen wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31114,12 +31114,11 @@ sue for patent infringement).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Cursor lock of wasn't translated in the program (OmegaT 4.1.5_2 :: de) yet</note>
       <tuv lang="en">
         <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T083930Z" creationid="Michael Motzkus" creationdate="20180925T083930Z">
-        <seg>In diesem Modus wird am unteren Rand des Bereichs, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T204228Z" creationid="Michael Motzkus" creationdate="20180925T083930Z">
+        <seg>In diesem Modus wird &lt;g1&gt;UNL&lt;/g1&gt; (Textcursor gelöst) am unteren Rand des Fensters angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32474,8 +32473,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T070621Z" creationid="Michael Motzkus" creationdate="20180925T070621Z">
-        <seg>Es ist möglich, Dateien per Drag &amp; Drop in jeden Bereich zu ziehen, der entsprechend reagiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T203003Z" creationid="Michael Motzkus" creationdate="20180925T070621Z">
+        <seg>Es ist möglich, Dateien per Drag-and-Drop in die einzelnen Fensterbereiche zu ziehen, worauf diese dann entsprechend reagieren werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42850,12 +42849,11 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Seems not to work in OmegaT 4.1.5_2 :: de or with keyboards with additional function keys.</note>
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T083539Z" creationid="Michael Motzkus" creationdate="20180925T083539Z">
-        <seg>Die &lt;k0&gt;F2&lt;/k0&gt;-Taste zu drücken erlaubt es, den Cursor im Quellsegment (oder woanders im Editor) mit den Pfeiltasten zu bewegen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T203726Z" creationid="Michael Motzkus" creationdate="20180925T083539Z">
+        <seg>Drücken Sie die &lt;k0&gt;F2&lt;/k0&gt;-Taste, um den Textcursor mithilfe der Pfeiltasten in das Quellsegment (oder an eine beliebige Stelle im Editor) zu verschieben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51842,8 +51840,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T101641Z">
-        <seg>Das Glossar-Fenster ermöglicht Ihnen Zugriff auf Ihre eigene Sammlung von Ausdrücken und spezieller Terminologie, die Sie in Ihren Glossar-Dateien aufgebaut haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T204418Z">
+        <seg>Der Glossarbereich ermöglicht Ihnen Zugriff auf Ihre eigene Sammlung von Ausdrücken und spezieller Terminologie, die Sie in Ihren Glossardateien angelegt haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59093,12 +59091,11 @@ computer or modifying a private copy.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Cursor lock of wasn't translated in the program (OmegaT 4.1.5_2 :: de) yet</note>
       <tuv lang="en">
         <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T084138Z" creationid="Michael Motzkus" creationdate="20180925T084138Z">
-        <seg>Um zum Standardmodus "&lt;g2&gt;Cursor lock on&lt;/g2&gt;" zurückzukehren, drücken Sie nochmal &lt;k3&gt;F2&lt;/k3&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T204306Z" creationid="Michael Motzkus" creationdate="20180925T084138Z">
+        <seg>Um zum Standardmodus &lt;g2&gt;LCK&lt;/g2&gt; (Textcursor fixiert) zurückzukehren, drücken Sie nochmal &lt;k3&gt;F2&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
