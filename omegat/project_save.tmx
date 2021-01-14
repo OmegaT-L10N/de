@@ -2743,8 +2743,8 @@ java.exe.</seg>
       <tuv lang="en">
         <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T153355Z">
-        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T125713Z">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt; (Alt), &lt;e1&gt;altGraph&lt;/e1&gt; (AltGr)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,8 +5408,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T153336Z">
-        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; kann sein: &lt;e1&gt;Umschalten&lt;/e1&gt;, &lt;e2&gt;Steuerung&lt;/e2&gt;, &lt;e3&gt;strg&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T125654Z">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; kann Folgendes sein: &lt;e1&gt;shift&lt;/e1&gt; (Umschalt), &lt;e2&gt;control&lt;/e2&gt; oder &lt;e3&gt;ctrl&lt;/e3&gt; (Strg), &lt;e4&gt;meta&lt;/e4&gt; (Cmd)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10350,8 +10350,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130504T082123Z">
-        <seg>&lt;shortcut&gt; muss folgende Form haben: 0 oder mehr &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; gefolgt von 0 oder 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; gefolgt von 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, wobei:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T125423Z">
+        <seg>&lt;Tastenkürzel&gt; muss folgende Form haben: 0 oder mehr &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; gefolgt von 0 oder 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; gefolgt von 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, wobei:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44209,8 +44209,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex - Quotation</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111935Z">
-        <seg>Regex - Escapen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T124434Z">
+        <seg>RegEx - Escapen</seg>
       </tuv>
     </tu>
     <tu>
@@ -46686,8 +46686,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T120019Z">
-        <seg>Unter &lt;u0&gt;The Regex Coach&lt;/u0&gt; finden Sie die Windows-, Linux- und FreeBSD-Versionen eines eigenständigen Tools.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T124555Z">
+        <seg>Unter &lt;u0&gt;The RegEx Coach&lt;/u0&gt; finden Sie die Windows-, Linux- und FreeBSD-Versionen eines eigenständigen Tools.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53600,8 +53600,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130517T124537Z">
-        <seg>Die volle Syntax für Tastenkombinationen (shortcuts) wird in der folgenden Dokumentation von Java 1.6 durch Oracle (am Ende der Seite) definiert: &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T125404Z">
+        <seg>Die vollständige Syntax für Tastenkombinationen (Tastenkürzel) wird in der folgenden Java-1.6-Dokumentation von Oracle aufgeführt (am Ende der Seite): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55258,8 +55258,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T150937Z">
-        <seg>Die Tastaturdefinitionsdatei muss den Namen &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; tragen und kann pro Zeile maximal eine Tastaturdefinition enthalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T124824Z">
+        <seg>Die Definitionsdatei muss &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; heißen und darf maximal eine Tastenkürzeldefinition pro Zeile enthalten.</seg>
       </tuv>
     </tu>
     <tu>
