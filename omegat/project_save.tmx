@@ -18530,8 +18530,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T054906Z">
-        <seg>Schaffen Sie ein Projekt im gewünschten Sprachpaar, getrennt von anderen Projekten, mit einem geeigneten Namen - bedenken Sie, dass die geschaffene TMXs diesen Namen beinhalten wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155919Z">
+        <seg>Erstellen Sie ein Projekt, getrennt von anderen Projekten, mit dem gewünschten Sprachenpaar und einem angemessenen Namen - beachten Sie, dass die erstellten TMX-Dateien diesen Namen enthalten werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18746,8 +18746,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Creating a translation memory for selected documents</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T050603Z">
-        <seg>Eine translation memory für ausgewählte Dokumente erzeugen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155700Z">
+        <seg>Ein Translation Memory für ausgewählte Dokumente erzeugen</seg>
       </tuv>
     </tu>
     <tu>
@@ -26522,8 +26522,8 @@ modify any covered work.</seg>
       <tuv lang="en">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T045823Z">
-        <seg>Jedoch unterstützt OmegaT importierte level 2 tmx Datei nicht vollständig (sie speichern nicht nur die Übersetzung, sondern auch das Formatieren).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155042Z">
+        <seg>Jedoch unterstützt OmegaT importierte Level-2-TMX-Dateien nicht vollständig (sie enthalten nicht nur die Übersetzung, sondern auch die Formatierung).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29622,8 +29622,8 @@ folgt starten können:</seg>
       <tuv lang="en">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142115Z">
-        <seg>Wenn Sie solche Dateien als Bezugsübersetzungen in OmegaT verwenden wollen, müssen Sie repariert werden, sonst wird OmegaT einen Fehler melden und sie nicht laden können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155418Z">
+        <seg>Wenn Sie solche Dateien als Referenzübersetzungen in OmegaT verwenden möchten, müssen sie zunächst repariert werden, da OmegaT sonst einen Fehler meldet und diese nicht laden wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30276,8 +30276,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T065257Z" creationid="Michael Motzkus" creationdate="20180925T065257Z">
-        <seg>Für den Fall, dass Übersetzer ihre TMX-Datenbanken teilen müssen, während sie einige ihrer Teile ausschließen oder nur Übersetzungen bestimmter Dateien einschließen, kommt die gemeinsame Nutzung des vollständigen &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; nicht in Frage.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155710Z" creationid="Michael Motzkus" creationdate="20180925T065257Z">
+        <seg>Für den Fall, dass Übersetzer ihre TMX-Datenbanken teilen müssen, während sie einige ihrer Teile ausschließen oder nur Übersetzungen bestimmter Dateien einschließen, kommt die gemeinsame Nutzung des vollständigen &lt;f0&gt;ProjektName-omegat.tmx&lt;/f0&gt; nicht in Frage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34246,8 +34246,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143332Z">
-        <seg>Level 2 tmx Datei werden zwar importiert und ihr Textinhalt kann in OmegaT gesehen werden, aber die Qualität der Fuzzy Matches wird irgendwie geringer sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155207Z">
+        <seg>Level-2-TMX-Dateien werden zwar importiert und ihr textlicher Inhalt kann in OmegaT gesehen werden, aber die Qualität der Fuzzy Matches wird dadurch verfälscht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37769,8 +37769,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T044749Z">
-        <seg>Bedenken Sie, dass alle tmx Dateien in der /tm repository analysiert werden, wenn das Projekt geöffnet wird, von daher könnte es OmegaT unnötig verlangsamen, wenn sie alle TMs, die Sie habe in diesen Ordner packen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T154846Z">
+        <seg>Bedenken Sie, dass alle tmx Dateien in der /tm Repository analysiert werden, wenn das Projekt geöffnet wird, von daher könnte es OmegaT unnötig verlangsamen, wenn sie alle TMs, die Sie habe in diesen Ordner packen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39113,8 +39113,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142107Z">
-        <seg>OmegaT folgt bei dem Laden von TMX Dateien sehr strengen Vorgaben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155217Z">
+        <seg>OmegaT folgt bei dem Laden von TMX-Dateien sehr strengen Vorgaben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48190,8 +48190,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T153410Z">
-        <seg>Wenn Sie ein Translation Memory aus einem früheren Projekt wiederverwenden möchten (z. B. weil das neue Projekt dem früheren Projekt ähnlich ist oder Terminologie verwendet, die möglicherweise schon vorher verwendet wurde), können Sie diese Translation Memories als "Translation Memories importieren" verwenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T154821Z">
+        <seg>Wenn Sie ein Translation Memory aus einem früheren Projekt wiederverwenden möchten (z. B. weil das neue Projekt dem früheren Projekt ähnlich ist oder Terminologie verwendet, die möglicherweise schon vorher verwendet wurde), können Sie diese Translation Memories zum Importieren in ein neues Projekt verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53880,8 +53880,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T050529Z">
-        <seg>Der level 2 Export stimmt nicht völlig mit den level 2 Standard überein, ist aber nahe genug und wird in anderen translation memory Werkzeugen, die TMX Level 2 unterstützen, korrekte Treffer erzeugen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155618Z">
+        <seg>Der Level 2-Export ist nicht vollständig konform mit dem Level 2-Standard, kommt diesem aber sehr nahe und erzeugt korrekte Matches in anderen Translation Memory-Tools, die TMX Level 2 unterstützen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57455,8 +57455,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T045714Z">
-        <seg>Das ermöglicht es, translation memories, die von anderen Programmen erzeugt wurde, von OmegaT lesen zu lassen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T154920Z">
+        <seg>Das ermöglicht es, Translation Memories, die von anderen Programmen erzeugt wurden, von OmegaT lesen zu lassen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63769,8 +63769,8 @@ price.</seg>
       <tuv lang="en">
         <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T160432Z">
-        <seg>Navigieren Sie bei einem neuen Projekt, das denselben Fachbereich oder denselben Kunden betrifft, zum "repository"-Ordner im Dialogfenster &lt;g0&gt;Projekt &gt; Eigenschaften &gt; Projekt bearbeiten&lt;/g0&gt; und legen Sie ihn als TM-Ordner fest.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T154837Z">
+        <seg>Navigieren Sie bei einem neuen Projekt, das denselben Fachbereich oder denselben Kunden betrifft, zum "Repository"-Ordner im Dialogfenster &lt;g0&gt;Projekt &gt; Eigenschaften &gt; Projekt bearbeiten&lt;/g0&gt; und legen Sie ihn als TM-Ordner fest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63969,8 +63969,8 @@ technological measures.</seg>
       <tuv lang="en">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142058Z">
-        <seg>Kopiern Sie nach Beendigung eines Projekts eine der drei "export"-TM-Dateien aus dem Hauptordner des Projekts in den "repository"-Ordner.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T154524Z">
+        <seg>Jedes Mal, wenn Sie ein Projekt beenden, kopieren Sie eine der drei "exportierten" Translation-Memory-Dateien aus dem Root-Ordner des Projekts in den Repository-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65795,8 +65795,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T153050Z">
-        <seg>Sie können diese drei TMX-Dateien (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; und &lt;f4&gt;-level2.tmx&lt;/f4&gt;) als "Translation Memory exportieren" betrachten, sozusagen als Export des Inhalts Ihres aktuellen Projekts in zweisprachiger Form.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T154600Z">
+        <seg>Sie können diese drei TMX-Dateien (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; und &lt;f4&gt;-level2.tmx&lt;/f4&gt;) als "exportierte Translation Memories" betrachten, sozusagen als Export des Inhalts Ihres aktuellen Projekts in zweisprachiger Form.</seg>
       </tuv>
     </tu>
     <tu>
