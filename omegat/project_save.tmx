@@ -15439,8 +15439,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T162458Z" creationid="Ragnar-F" creationdate="20210110T162431Z">
-        <seg>Standardmäßig werden die am besten übereinstimmenden, im &lt;g0&gt;Fuzzy-Matches&lt;/g0&gt;-Bereich angezeigten Treffer mithilfe von Stammformreduktion ermittelt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141711Z" creationid="Ragnar-F" creationdate="20210110T162431Z">
+        <seg>Standardmäßig werden die am besten übereinstimmenden, im &lt;g0&gt;Fuzzy-Matches&lt;/g0&gt;-Bereich angezeigten Matches mithilfe von Stammformreduktion ermittelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31053,8 +31053,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T155502Z">
-        <seg>In dem Fall müssen Sie die TM, die Sie verwenden wollen, in den Unterordner &lt;e0&gt;/tm&lt;/e0&gt; oder &lt;e1&gt;/tm&lt;/e1&gt;/auto ablegen: im ersten Fall erhalten Sie Treffer in der Ansicht der unscharfen Treffer und im zweiten Fall werden diese TMs benutzt, um Ihren Quelltext vorzuübersetzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142032Z">
+        <seg>In dem Fall müssen Sie die TM, die Sie verwenden wollen, in den Unterordner &lt;e0&gt;/tm&lt;/e0&gt; oder &lt;e1&gt;/tm&lt;/e1&gt;/auto ablegen: im ersten Fall erhalten Sie Treffer im Fuzzy-Match-Bereich und im zweiten Fall werden diese TMs benutzt, um Ihren Quelltext vorzuübersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31274,8 +31274,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T173509Z">
-        <seg>Zeigt an, dass dieser Treffer ein Fuzzy-Match ist (derzeit nur für Übersetzungen aus PO-Dateien mit der Markierung #fuzzy)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141824Z">
+        <seg>Zeigt an, dass dieser Match ein Fuzzy-Match ist (derzeit nur für Übersetzungen aus PO-Dateien mit der Markierung #fuzzy)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31586,8 +31586,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142237Z">
-        <seg>Fügt an der Cursor-Position den ausgewählten Treffer in das aktive Segment ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142230Z">
+        <seg>Fügt an der Cursor-Position den ausgewählten Fuzzy Match in das aktive Segment ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32186,8 +32186,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142313Z">
-        <seg>Sie zeigt auch die Anzahl der unscharfen Treffer und Treffer im Glossar für das gegenwärtige Segment.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142634Z">
+        <seg>Sie zeigt auch die Anzahl der Fuzzy Matches und Glossartreffer für das gegenwärtige Segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32266,8 +32266,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130519T131609Z">
-        <seg>Das kann gesondert für alle drei Fenster geschehen (Bearbeiten, unscharfe Treffer und Glossar), indem auf das Fenster geklickt und der Anzeigemodus umgeschaltet wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141942Z">
+        <seg>Das kann gesondert für alle drei Fensterbereiche (Editor, Fuzzy-Matches und Glossar) geschehen, indem auf das Fenster geklickt und der Anzeigemodus umgeschaltet wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34246,8 +34246,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T045940Z">
-        <seg>Level 2 tmx Datei werden zwar importiert und ihr Textinhalt kann in OmegaT gesehen werden, aber die Qualität der unscharfen Treffer wird irgendwie geringer sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142048Z">
+        <seg>Level 2 tmx Datei werden zwar importiert und ihr Textinhalt kann in OmegaT gesehen werden, aber die Qualität der Fuzzy-Matches wird irgendwie geringer sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38511,8 +38511,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="en">
         <seg>Number of the match from 1 to 5</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T172549Z">
-        <seg>Treffernummer von 1 bis 5</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141739Z">
+        <seg>Nummer des Matches, von 1 bis 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -38647,8 +38647,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="en">
         <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T181037Z" creationid="Ragnar-F" creationdate="20210111T181037Z">
-        <seg>Natürlich wird &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; nicht funktionieren, wenn es keinen fünften Treffer gibt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142412Z" creationid="Ragnar-F" creationdate="20210111T181037Z">
+        <seg>Natürlich wird &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; nicht funktionieren, wenn es keinen fünften Match gibt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41905,8 +41905,8 @@ Vanishing like mist</seg>
       <tuv lang="en">
         <seg>Penalty for matches in other languages:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T152750Z" creationid="Ragnar-F" creationdate="20210112T152750Z">
-        <seg>Bestrafung für Matches in anderen Sprachen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142730Z" creationid="Ragnar-F" creationdate="20210112T152750Z">
+        <seg>Sanktion für Matches anderer Sprachen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44953,8 +44953,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T122428Z">
-        <seg>Überschreibt das ganze Zielsegment mit dem ausgewählten unscharfen Treffer (voreingestellt ist der erste Treffer).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142214Z">
+        <seg>Überschreibt das ganze Zielsegment mit dem aktuell ausgewählten Fuzzy Match (standardmäßig ist der erste Match ausgewählt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47214,8 +47214,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Select Match</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180918T104338Z" creationid="Michael Motzkus" creationdate="20180918T104338Z">
-        <seg>Treffer auswählen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142237Z" creationid="Michael Motzkus" creationdate="20180918T104338Z">
+        <seg>Match auswählen</seg>
       </tuv>
     </tu>
     <tu>
@@ -47262,48 +47262,48 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Select Match #1</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073109Z" creationid="BVB" creationdate="20180829T073109Z">
-        <seg>Treffer #1 auswählen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141622Z" creationid="BVB" creationdate="20180829T073109Z">
+        <seg>Match #1 auswählen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #2</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073132Z" creationid="BVB" creationdate="20180829T073132Z">
-        <seg>Treffer #2 auswählen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141623Z" creationid="BVB" creationdate="20180829T073132Z">
+        <seg>Match #2 auswählen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #3</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073225Z" creationid="BVB" creationdate="20180829T070231Z">
-        <seg>Treffer #3 auswählen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141625Z" creationid="BVB" creationdate="20180829T070231Z">
+        <seg>Match #3 auswählen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #4</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073252Z" creationid="BVB" creationdate="20180829T073252Z">
-        <seg>Treffer #4 auswählen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141627Z" creationid="BVB" creationdate="20180829T073252Z">
+        <seg>Match #4 auswählen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #5</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073337Z" creationid="BVB" creationdate="20180829T073337Z">
-        <seg>Treffer #5 auswählen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141629Z" creationid="BVB" creationdate="20180829T073337Z">
+        <seg>Match #5 auswählen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Next Match</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073030Z" creationid="BVB" creationdate="20180829T073030Z">
-        <seg>Nächsten Treffer auswählen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141619Z" creationid="BVB" creationdate="20180829T073030Z">
+        <seg>Nächsten Match auswählen</seg>
       </tuv>
     </tu>
     <tu>
@@ -47694,8 +47694,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T194548Z" creationid="Ragnar-F" creationdate="20210108T192247Z">
-        <seg>Wählt den vorherigen, den nächsten oder den Nten gefundenen Treffer in der Fuzzy-Match-Liste aus, um ihn in das Segment einzufügen oder um das Segment zu ersetzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142302Z" creationid="Ragnar-F" creationdate="20210108T192247Z">
+        <seg>Wählt den vorherigen, den nächsten oder den Nten gefundenen Match in der Fuzzy-Match-Liste aus, um ihn in das Segment einzufügen oder um das Segment zu ersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48550,8 +48550,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T082221Z">
-        <seg>So ist es mit dem nächsten zwei Treffern und der Treffer #4 ist ähnlich, aber anders.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142542Z">
+        <seg>So ist es mit dem nächsten zwei Matches und dem Match #4 ähnlich, aber anders.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49026,8 +49026,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source of Selected Match</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073703Z" creationid="BVB" creationdate="20180829T073703Z">
-        <seg>Quelle des ausgewählten Treffers</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141640Z" creationid="BVB" creationdate="20180829T073703Z">
+        <seg>Quelle des ausgewählten Matches</seg>
       </tuv>
     </tu>
     <tu>
@@ -49082,8 +49082,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source text of the match</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T100650Z">
-        <seg>Quelltext des Treffers</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141747Z">
+        <seg>Quelltext des Matches</seg>
       </tuv>
     </tu>
     <tu>
@@ -49584,8 +49584,8 @@ make it effectively proprietary.</seg>
       <tuv lang="en">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T172930Z" creationid="Michael Motzkus" creationdate="20180925T084438Z">
-        <seg>Zeichenkette, die die Unterschiede zwischen den Quelltext und dem Treffer anzeigt. &lt;e0&gt;Hinweis:&lt;/e0&gt; Benutzen Sie diese Zeichenkette, wenn der zu übersetzende Text geändert wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141810Z" creationid="Michael Motzkus" creationdate="20180925T084438Z">
+        <seg>Zeichenkette, die die Unterschiede zwischen den Quelltext und dem Match anzeigt. &lt;e0&gt;Hinweis:&lt;/e0&gt; Benutzen Sie diese Zeichenkette, wenn der zu übersetzende Text geändert wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50770,8 +50770,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Target text of the match</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T100704Z">
-        <seg>Zieltext des Treffers</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141750Z">
+        <seg>Zieltext des Matches</seg>
       </tuv>
     </tu>
     <tu>
@@ -54132,8 +54132,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T073253Z">
-        <seg>Der Treffer Betrachter zeigt die ähnlichsten Segmente aus den translation memories an, sowohl aus internen Projekt-TMs, die in Echtzeit erstellt werden, während Sie die Übersetzung anfertigen, als auch von zusätzlichen TMs, die Sie aus früheren Jobs importiert haben oder von Ihrem Kunden oder Übersetzungsagentur erhalten haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142332Z">
+        <seg>Der Fuzzy-Match-Bereich zeigt die ähnlichsten Segmente aus den translation memories an, sowohl aus internen Projekt-TMs, die in Echtzeit erstellt werden, während Sie die Übersetzung anfertigen, als auch von zusätzlichen TMs, die Sie aus früheren Jobs importiert haben oder von Ihrem Kunden oder Übersetzungsagentur erhalten haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54488,8 +54488,8 @@ content, constitutes a covered work.</seg>
       <tuv lang="en">
         <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T140607Z">
-        <seg>Die Sanktion bezieht sich auf alle drei Treffer-Prozente: Treffer von 75, 80, 90 werden in diesem Fall auf 45, 50, 60 herabgestuft.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142710Z">
+        <seg>Die Sanktion bezieht sich auf alle drei Match-Prozente: Treffer von 75, 80, 90 werden in diesem Fall auf 45, 50, 60 herabgestuft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55178,8 +55178,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T082016Z">
-        <seg>Der ausgewählte unscharfe Treffer wird in Fettschrift hervorgehoben, Wörter, die in dem Text, den Sie übersetzen, fehlen, werden blau und zusätzliche Wörter zum fehlenden Teil werden grün gefärbt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142448Z">
+        <seg>Der ausgewählte Fuzzy Match wird in Fettschrift hervorgehoben, Wörter, die in dem Text, den Sie übersetzen, fehlen, werden blau und zusätzliche Wörter zum fehlenden Teil werden grün gefärbt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55362,8 +55362,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T102018Z">
-        <seg>Das Quellsegment im unten stehenden Beispiel war “&lt;e0&gt;Context menu command&lt;/e0&gt;”, wie in den unscharfen Treffern oben und die Begriffe, die in den Glossaren gefunden wurden, vorhanden bei (Microsoft's Term collection und dem Glossar der slowenischen Linux User group).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142603Z">
+        <seg>Das Quellsegment im unten stehenden Beispiel war “&lt;e0&gt;Context menu command&lt;/e0&gt;”, wie in den Fuzzy Matches oben und die Begriffe, die in den Glossaren gefunden wurden, vorhanden bei (Microsoft's Term collection und dem Glossar der slowenischen Linux User group).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55766,8 +55766,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The top match is 100%, because all words match.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T082135Z">
-        <seg>Der Haupttreffer hat 100%, weil alle Wörter übereinstimmen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142512Z">
+        <seg>Der Top-Match ist 100 %, weil alle Wörter übereinstimmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59641,8 +59641,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T171438Z" creationid="Ragnar-F" creationdate="20210110T171438Z">
-        <seg>Um direktere, näher an 100 Prozent liegende Treffer zu erhalten, wählen Sie die Option &lt;g0&gt;Gesamter Text, einschließlich Tags und Zahlen&lt;/g0&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141718Z" creationid="Ragnar-F" creationdate="20210110T171438Z">
+        <seg>Um direktere, näher an 100 Prozent liegende Matches zu erhalten, wählen Sie die Option &lt;g0&gt;Gesamter Text, einschließlich Tags und Zahlen&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60038,8 +60038,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="en">
         <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T181450Z" creationid="Ragnar-F" creationdate="20210111T181450Z">
-        <seg>Um den ausgewählten Treffer in Ihrer Übersetzung zu verwenden, drücken Sie &lt;g4&gt;Strg+R&lt;/g4&gt;, um den Zieltext mit dem Treffer zu ersetzen, oder drücken Sie &lt;g5&gt;Strg+I&lt;/g5&gt;, um den Treffer an der Position des Textcursors einzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142437Z" creationid="Ragnar-F" creationdate="20210111T181450Z">
+        <seg>Um den ausgewählten Match in Ihrer Übersetzung zu verwenden, drücken Sie &lt;g4&gt;Strg+R&lt;/g4&gt;, um den Zieltext mit dem Match zu ersetzen, oder drücken Sie &lt;g5&gt;Strg+I&lt;/g5&gt;, um den Match an der Position des Textcursors einzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63929,8 +63929,8 @@ technological measures.</seg>
       <tuv lang="en">
         <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142310Z">
-        <seg>Wenn Sie sich zum folgenden Segment bewegen, wird der erste unscharfe Treffer (derjenige mit dem höchsten Prozentsatz an Übereinstimmung) automatisch ausgewählt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142353Z">
+        <seg>Wenn Sie sich zum folgenden Segment bewegen, wird der erste Fuzzy Match (derjenige mit dem höchsten Prozentsatz an Übereinstimmung) automatisch ausgewählt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66345,8 +66345,8 @@ provided under this License.</seg>
       <tuv lang="en">
         <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T180912Z" creationid="Ragnar-F" creationdate="20210111T180912Z">
-        <seg>Sie können mit &lt;g0&gt;Strg+2, 3, 4, oder 5&lt;/g0&gt; einen anderen Treffer auswählen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142403Z" creationid="Ragnar-F" creationdate="20210111T180912Z">
+        <seg>Sie können mit &lt;g0&gt;Strg+2, 3, 4, oder 5&lt;/g0&gt; einen anderen Match auswählen.</seg>
       </tuv>
     </tu>
     <tu>
