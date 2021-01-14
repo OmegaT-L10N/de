@@ -1376,8 +1376,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Treffer &amp;einfügen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140342Z">
+        <seg>Match oder Auswahl &amp;einfügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -12163,8 +12163,8 @@ the above requirements apply either way.</seg>
       <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T122518Z">
-        <seg>Sobald Sie jedes Segment übersetzt haben, drücken Sie &lt;k0&gt;Strg+U&lt;/k0&gt;, um zum nächsten nicht-übersetzten Segment zu wechseln (oder &lt;k1&gt;Strg+Umschalt+U&lt;/k1&gt;, um zum nächsten übersetzten Segment zu wechseln).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140035Z">
+        <seg>Sobald Sie jedes Segment übersetzt haben, drücken Sie &lt;k0&gt;Strg+U&lt;/k0&gt;, um zum nächsten unübersetzten Segment zu wechseln (oder &lt;k1&gt;Strg+Umschalt+U&lt;/k1&gt;, um zum nächsten übersetzten Segment zu wechseln).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16210,8 +16210,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check for untranslated segments</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T120853Z" creationid="Ragnar-F" creationdate="20210112T120853Z">
-        <seg>Nicht-übersetzte Segmente suchen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140136Z" creationid="Ragnar-F" creationdate="20210112T120853Z">
+        <seg>Unübersetzte Segmente suchen</seg>
       </tuv>
     </tu>
     <tu>
@@ -16434,8 +16434,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T212349Z" creationid="Ragnar-F" creationdate="20210108T212349Z">
-        <seg>Aktivieren Sie diese Option, um nur nicht-übersetzte Segmente an die maschinellen Übersetzungsdienste zu senden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T135937Z" creationid="Ragnar-F" creationdate="20210108T212349Z">
+        <seg>Aktivieren Sie diese Option, um nur unübersetzte Segmente an die maschinellen Übersetzungsdienste zu senden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25057,16 +25057,16 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>From 100% memory</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T222842Z" creationid="karsten" creationdate="20150919T222842Z">
-        <seg>100%-Treffer aus dem TM</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140716Z" creationid="karsten" creationdate="20150919T222842Z">
+        <seg>100%-Matches aus dem TM</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>From ICE memory</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150922T164520Z" creationid="karsten" creationdate="20150922T164520Z">
-        <seg>100%-Treffer im selben Kontext</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140711Z" creationid="karsten" creationdate="20150922T164520Z">
+        <seg>100%-Matches im selben Kontext</seg>
       </tuv>
     </tu>
     <tu>
@@ -25697,8 +25697,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T134439Z">
-        <seg>"Gehe zu: Nächstes nicht-übersetztes Segment" stoppt dort, wo es mindestens eine alternative Übersetzung gibt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140006Z">
+        <seg>"Gehe zu: Nächstes unübersetztes Segment" stoppt dort, wo es mindestens eine alternative Übersetzung gibt</seg>
       </tuv>
     </tu>
     <tu>
@@ -27508,8 +27508,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>If checked, the untranslated segments will be marked in violet.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T154223Z">
-        <seg>Wenn aktiviert, werden nicht-übersetzte Segmente violett hervorgehoben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140049Z">
+        <seg>Wenn aktiviert, werden unübersetzte Segmente violett hervorgehoben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28596,8 +28596,8 @@ Public License instead of this License.</seg>
       <tuv lang="en">
         <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T151045Z" creationid="Michael Motzkus" creationdate="20180917T062643Z">
-        <seg>Wenn Sie bei Segmenten mit alternativen Übersetzungen eine Fehlübersetzung vermeiden möchten, aktivieren Sie diese Option, um zu bewirken, dass &lt;e0&gt;Gehe zu: Nächstes nicht-übersetztes Segment&lt;/e0&gt; beim nächsten Segment dieser Art stoppt, egal ob es bereits übersetzt wurde oder nicht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140014Z" creationid="Michael Motzkus" creationdate="20180917T062643Z">
+        <seg>Wenn Sie bei Segmenten mit alternativen Übersetzungen eine Fehlübersetzung vermeiden möchten, aktivieren Sie diese Option, um zu bewirken, dass &lt;e0&gt;Gehe zu: Nächstes unübersetztes Segment&lt;/e0&gt; beim nächsten Segment dieser Art stoppt, egal ob es bereits übersetzt wurde oder nicht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31434,16 +31434,16 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180912T085501Z" creationid="Michael Motzkus" creationdate="20180912T085501Z">
-        <seg>Treffer oder Auswahl einfügen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140751Z" creationid="Michael Motzkus" creationdate="20180912T085501Z">
+        <seg>Match oder Auswahl einfügen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Treffer in die Übersetzung einfügen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140651Z">
+        <seg>Match oder Auswahl in Übersetzung einfügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -35632,8 +35632,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mark Untranslated Segments</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T154205Z">
-        <seg>Nicht-übersetzte Segmente hervorheben</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T135919Z">
+        <seg>Unübersetzte Segmente hervorheben</seg>
       </tuv>
     </tu>
     <tu>
@@ -35736,8 +35736,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Match display template</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T172133Z">
-        <seg>Darstellungsweise von Treffern</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140535Z">
+        <seg>Darstellungsweise von Matches</seg>
       </tuv>
     </tu>
     <tu>
@@ -35840,8 +35840,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T162811Z">
-        <seg>Treffer können sich in der aktuellen Übersetzung oder in den TMX-Dateien befinden, die Sie im Ordner /tm/ abgelegt haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140557Z">
+        <seg>Matches können sich in der aktuellen Übersetzung oder in den TMX-Dateien befinden, die Sie im Ordner /tm/ abgelegt haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37197,8 +37197,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T163234Z" creationid="karsten" creationdate="20150919T085118Z">
-        <seg>Nächstes e&amp;inzigartiges Segment</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140502Z" creationid="karsten" creationdate="20150919T085118Z">
+        <seg>Nächstes e&amp;inmaliges Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -39985,8 +39985,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>OmegaT will then report these segments as not translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T125841Z">
-        <seg>OmegaT wird diese Segmente dann als nicht-übersetzt behandeln und anzeigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T135953Z">
+        <seg>OmegaT wird diese Segmente dann als unübersetzt behandeln und anzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43860,8 +43860,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>R&amp;eplace with Match or Selection</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Mit &amp;Treffer ersetzen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140412Z">
+        <seg>Mit Ma&amp;tch oder Auswahl ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -44801,8 +44801,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Übersetzung mit Treffer ersetzen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140703Z">
+        <seg>Übersetzung mit Match oder Auswahl ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -44825,8 +44825,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replace With Match or Selection</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T065602Z" creationid="BVB" creationdate="20180829T065602Z">
-        <seg>Mit Treffer oder Auswahl ersetzen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140742Z" creationid="BVB" creationdate="20180829T065602Z">
+        <seg>Mit Match oder Auswahl ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -47318,8 +47318,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Select Previous Match</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T072955Z" creationid="BVB" creationdate="20180829T072955Z">
-        <seg>Vorigen Treffer auswählen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141607Z" creationid="BVB" creationdate="20180829T072955Z">
+        <seg>Vorherigen Match auswählen</seg>
       </tuv>
     </tu>
     <tu>
@@ -49018,8 +49018,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T084856Z" creationid="karsten" creationdate="20150919T084856Z">
-        <seg>Quelle des ausgewählten &amp;Treffers</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140443Z" creationid="karsten" creationdate="20150919T084856Z">
+        <seg>Quelle des ausgewählten &amp;Matches</seg>
       </tuv>
     </tu>
     <tu>
@@ -58074,8 +58074,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T154959Z" creationid="Ragnar-F" creationdate="20210111T154959Z">
-        <seg>Diese Hervorhebung hat Vorrang vor &lt;g0&gt;Übersetzte Segmente hervorheben&lt;/g0&gt; und &lt;g1&gt;Nicht-übersetzte Segmente hervorheben&lt;/g1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140109Z" creationid="Ragnar-F" creationdate="20210111T154959Z">
+        <seg>Diese Hervorhebung hat Vorrang vor &lt;g0&gt;Übersetzte Segmente hervorheben&lt;/g0&gt; und &lt;g1&gt;Unübersetzte Segmente hervorheben&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61604,8 +61604,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Untranslated segment</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T113836Z" creationid="Ragnar-F" creationdate="20210112T113836Z">
-        <seg>Nicht-übersetztes Segment</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140116Z" creationid="Ragnar-F" creationdate="20210112T113836Z">
+        <seg>Unübersetztes Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -61628,8 +61628,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Untranslated segments only</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T212236Z" creationid="Ragnar-F" creationdate="20210108T212236Z">
-        <seg>Nur nicht-übersetzte Segmente</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T135926Z" creationid="Ragnar-F" creationdate="20210108T212236Z">
+        <seg>Nur unübersetzte Segmente</seg>
       </tuv>
     </tu>
     <tu>
