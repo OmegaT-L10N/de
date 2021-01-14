@@ -3907,8 +3907,8 @@ Translated to singular.</note>
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T090903Z">
-        <seg>...aber die gleichen Zeichen werden im Editier-Fenster korrekt angezeigt: die Erweiterung und die Datei-Kodierung passen nicht zusammen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T110143Z">
+        <seg>...aber dieselben Zeichen werden im Editorbereich korrekt dargestellt: Die Dateiendung und die Dateikodierung stimmen nicht überein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13843,8 +13843,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T082128Z" creationid="Michael Motzkus" creationdate="20180917T082128Z">
-        <seg>Da Einträge Wörter aus Prioritäts- und Nichtprioritätsglossaren mischen können, werden die Wörter aus dem Prioritätsglossar fett dargestellt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T105448Z" creationid="Michael Motzkus" creationdate="20180917T082128Z">
+        <seg>Da Einträge Wörter aus bevorzugten und nicht-bevorzugten Glossaren mischen können, werden die Wörter aus dem vorrangigen Glossar fett dargestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38277,8 +38277,8 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="en">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T081519Z" creationid="Michael Motzkus" creationdate="20180917T081413Z">
-        <seg>Nichts spricht zum Beispiel gegen den Einsatz von Notepad++ unter Windows, GEdit in Linux oder auch ein Tabellenkalkulationsprogramm zu diesem Zweck, jede Anwendung, die UTF-8 (oder UTF-16 LE) und Leerzeichen anzeigen kann (so dass Ihnen nicht das benötigte &lt;k1&gt;TAB&lt;/k1&gt;-Zeichen fehlt), kann benutzt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T105030Z" creationid="Michael Motzkus" creationdate="20180917T081413Z">
+        <seg>Nichts spricht zum Beispiel gegen den Einsatz von Notepad++ unter Windows, GEdit in Linux oder auch ein Tabellenkalkulationsprogramm zu diesem Zweck: Jede Anwendung, die UTF-8 (oder UTF-16 LE) und Leerzeichen anzeigen kann (so dass Ihnen nicht das benötigte &lt;k1&gt;TAB&lt;/k1&gt;-Zeichen fehlt), kann benutzt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43040,8 +43040,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T090809Z">
-        <seg>Problem: m Glossarfenster werden einige Zeichen nicht korrekt angezeigt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T105759Z">
+        <seg>Problem: Im Glossarbereich werden einige Zeichen nicht korrekt dargestellt</seg>
       </tuv>
     </tu>
     <tu>
@@ -52797,8 +52797,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130523T194117Z">
-        <seg>Die Inhalte von Glossardateien werden in der memory aufbewahrt und geladen, wenn ein Projekt geöffnet oder erneut geladen wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T104754Z">
+        <seg>Die Inhalte von Glossardateien werden gespeichert und geladen, wenn ein Projekt geöffnet oder neu geladen wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54802,8 +54802,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T054803Z">
-        <seg>Die erkannten Erweiterungen sind &lt;f1&gt;TXT&lt;/f1&gt; und &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T104904Z">
+        <seg>Die erkannten Dateiendungen sind &lt;f1&gt;TXT&lt;/f1&gt; und &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54978,8 +54978,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T081835Z" creationid="Michael Motzkus" creationdate="20180917T081835Z">
-        <seg>Die Ergebnisse des bevorzugten Glossars (standardmäßig glossar/glossary.txt) werden an erster Stelle im Glossarbereich und in Übersetzungstipps angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T105136Z" creationid="Michael Motzkus" creationdate="20180917T081835Z">
+        <seg>Die Ergebnisse des bevorzugten Glossars (standardmäßig glossary/glossary.txt) werden an erster Stelle im Glossarbereich und in TransTips angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56350,8 +56350,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T090653Z">
-        <seg>Es gibt keine EXAKTE Übereinstimmung zwischen den Einträgen im Glossar und im Quelltext des Dokumentes - z.B. Plurale.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T105723Z">
+        <seg>Es gibt keine EXAKTE Übereinstimmung zwischen den Einträgen im Glossar und im Quelltext des Dokumentes - z. B. bei Pluralformen.</seg>
       </tuv>
     </tu>
     <tu>
