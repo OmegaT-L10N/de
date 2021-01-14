@@ -21943,8 +21943,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141922Z">
-        <seg>Erlaubt einen von der Groß-Kleinschreibung unabhängigen Vergleich (voreingestellt macht das Muster einen Unterschied zwischen Gross- und Kleinschreibung).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T110853Z">
+        <seg>Deaktiviert die Unterscheidung zwischen Groß- und Kleinschreibung (standardmäßig ist sie aktiviert).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44145,8 +44145,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex - Character</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124708Z">
-        <seg>Regex - Zeichen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T110857Z">
+        <seg>RegEx - Zeichen</seg>
       </tuv>
     </tu>
     <tu>
@@ -44177,8 +44177,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex - Flags</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124633Z">
-        <seg>Regex - Kennzeichnung</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T110520Z">
+        <seg>RegEx - Flags</seg>
       </tuv>
     </tu>
     <tu>
@@ -48166,8 +48166,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124256Z">
-        <seg>Sollten Sie spezifischere Information benötigen, schauen Sie in die &lt;u0&gt;Java Regex Dokumentation&lt;/u0&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T110238Z">
+        <seg>Sollten Sie spezifischere Information benötigen, schauen Sie in die &lt;u0&gt;Java-RegEx-Dokumentation&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52364,8 +52364,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T125028Z">
-        <seg>Das Warn (Klingel) Zeichen ('\u0007')</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111447Z">
+        <seg>Das Tonsignalsteuerzeichen ('\u0007')</seg>
       </tuv>
     </tu>
     <tu>
@@ -52532,8 +52532,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124919Z">
-        <seg>Das Rücklauf-Zeichen ('\u000D')</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111324Z">
+        <seg>Das Wagenrücklaufzeichen ('\u000D')</seg>
       </tuv>
     </tu>
     <tu>
@@ -52612,8 +52612,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The character x, except the following...</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124740Z">
-        <seg>dem Zeichen x, es sei denn...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111202Z">
+        <seg>dem Zeichen x, außer den folgenden...</seg>
       </tuv>
     </tu>
     <tu>
@@ -52845,8 +52845,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The control character corresponding to x</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T125049Z">
-        <seg>Das Kontrollzeichen entsprechend x</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111541Z">
+        <seg>Das Steuerzeichen entsprechend x</seg>
       </tuv>
     </tu>
     <tu>
@@ -54316,8 +54316,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The newline (line feed) character ('\u000A')</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124851Z">
-        <seg>Das Absatz (line feed) Zeichen '\u000A')</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111308Z">
+        <seg>Das Zeilenvorschubzeichen ('\u000A')</seg>
       </tuv>
     </tu>
     <tu>
@@ -54818,8 +54818,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141902Z">
-        <seg>Die regulären Ausdrücke (kurz: regex), die bei der Suche und in den Segmentierungsregeln verwendet werden, entsprechen den von Java unterstützten Ausdrücken.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T110209Z">
+        <seg>Die regulären Ausdrücke (kurz: RegEx), die bei der Suche und in den Segmentierungsregeln verwendet werden, entsprechen den von Java unterstützten Ausdrücken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55550,8 +55550,8 @@ use, which is precisely where it is most unacceptable.</seg>
       <tuv lang="en">
         <seg>The tab character ('\u0009')</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124823Z">
-        <seg>Das Tabulator Zeichen ('\u0009'</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111246Z">
+        <seg>Das Tabulatorzeichen ('\u0009')</seg>
       </tuv>
     </tu>
     <tu>
@@ -57231,8 +57231,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124621Z">
-        <seg>Dieses Kapitel richtet sich an fortgeschrittenere Nutzer, die ihre eigenen Varianten von Segmentierungsregeln oder komplexere und kräftigere Schlüsselelemente der Suche entwickeln müssen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T110429Z">
+        <seg>Dieses Kapitel richtet sich an fortgeschrittene Benutzer, die ihre eigenen Varianten von Segmentierungsregeln definieren oder komplexere und wirkungsvollere Schlüsselsuchbegriffe erarbeiten müssen.</seg>
       </tuv>
     </tu>
     <tu>
