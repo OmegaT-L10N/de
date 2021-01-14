@@ -16466,8 +16466,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check this option to display all non-unique segments (repetitions) in grey.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T175112Z" creationid="Ragnar-F" creationdate="20210110T175019Z">
-        <seg>Aktivieren Sie diese Option, um alle mehrfach vorkommenden Segmente (Wiederholungen) in grau darzustellen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075447Z" creationid="Ragnar-F" creationdate="20210110T175019Z">
+        <seg>Aktivieren Sie diese Option, um alle nicht-einmalige Segmente (Wiederholungen) in grau darzustellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19194,8 +19194,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Ctrl+Shift+Q</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073640Z" creationid="BVB" creationdate="20180829T073640Z">
-        <seg>Strg-Umschalt+Q</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075728Z" creationid="BVB" creationdate="20180829T073640Z">
+        <seg>Strg+Umschalt+Q</seg>
       </tuv>
     </tu>
     <tu>
@@ -20272,8 +20272,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Display &amp;active source segment in bold</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T083634Z" creationid="Michael Motzkus" creationdate="20190129T083634Z">
-        <seg>&amp;Aktives Quellsegment in Fettdruck anzeigen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075405Z" creationid="Michael Motzkus" creationdate="20190129T083634Z">
+        <seg>Quelle des &amp;aktiven Segments fett darstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -20304,8 +20304,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130626T140420Z">
-        <seg>Alle &amp;Quellsegmente in Fettschrift anzeigen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075254Z">
+        <seg>&amp;Quelle aller Segmente fett darstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -27436,8 +27436,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T154600Z">
-        <seg>Wenn aktiviert, werden mehrfach vorkommende Segmente hellgrau hervorgehoben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075547Z">
+        <seg>Wenn aktiviert, werden nicht-einmalige Segmente hellgrau hervorgehoben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30172,8 +30172,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T082758Z" creationid="Michael Motzkus" creationdate="20180925T082758Z">
-        <seg>Wenn der Rechtsklick auf ein geöffnetes Segment erfolgt, werden außerdem andere Optionen für &lt;e12&gt;Alternative Übersetzungen&lt;/e12&gt; vorgeschlagen, um beispielsweise zu einer anderen Instanz nicht eindeutiger Segmente zu springen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075658Z" creationid="Michael Motzkus" creationdate="20180925T082758Z">
+        <seg>Wenn der Rechtsklick auf ein geöffnetes Segment erfolgt, werden außerdem andere Optionen für &lt;e12&gt;Alternative Übersetzungen&lt;/e12&gt; vorgeschlagen, um beispielsweise zu einer anderen Instanz nicht-einmaliger Segmente zu springen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30260,8 +30260,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T122447Z">
-        <seg>Wenn es in Quelldokumenten nicht einzigartige Segmente gibt, bietet die Kontrollbox automatische Verbreitung die folgenden zwei Möglichkeite für automatische Übersetzung: wenn es markiert ist, dann wird das erste übersetzte Segment als die Standard-Übersetzung angesehen und sein Zieltext wird automatisch für spätere Treffer im Übersetzungsprozess genutzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075536Z">
+        <seg>Wenn es in Quelldokumenten nicht-einmalige Segmente gibt, bietet die Kontrollbox automatische Verbreitung die folgenden zwei Möglichkeite für automatische Übersetzung: wenn es markiert ist, dann wird das erste übersetzte Segment als die Standard-Übersetzung angesehen und sein Zieltext wird automatisch für spätere Treffer im Übersetzungsprozess genutzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31230,8 +31230,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>Include the first non-unique segment when marking non-unique segments</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T174914Z" creationid="Ragnar-F" creationdate="20210110T174044Z">
-        <seg>Erstes mehrfach vorkommendes Segment beim Hervorheben mehrfach vorkommender Segmente einbeziehen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075204Z" creationid="Ragnar-F" creationdate="20210110T174044Z">
+        <seg>Erstes nicht-einmaliges Segment beim Hervorheben nicht-einmaliger Segmente einbeziehen</seg>
       </tuv>
     </tu>
     <tu>
@@ -37205,8 +37205,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Next Unique Segment</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073502Z" creationid="BVB" creationdate="20180829T073502Z">
-        <seg>Nächstes eindeutiges Segment</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075709Z" creationid="BVB" creationdate="20180829T073502Z">
+        <seg>Nächstes einmaliges Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -38225,8 +38225,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T073547Z" creationid="Michael Motzkus" creationdate="20180925T081913Z">
-        <seg>Hinweis: Der Segmentmarker zeigt &lt;l0&gt;&lt;Segment nnnn +yy mehr&gt; an, wenn das Segment nicht einzigartig ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075559Z" creationid="Michael Motzkus" creationdate="20180925T081913Z">
+        <seg>Hinweis: Der Segmentmarker zeigt &lt;l0&gt;&lt;Segment nnnn +yy mehr&gt; an, wenn das Segment nicht-einmalig ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54714,8 +54714,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T070141Z">
-        <seg>Das Projekt im Beispiel ist offensichtlich beendet, da alle einzigartigen Segmente übersetzt wurden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T080415Z">
+        <seg>Das Projekt im Beispiel ist offensichtlich beendet, da alle einmalige Segmente übersetzt wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63615,8 +63615,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T175234Z" creationid="Ragnar-F" creationdate="20210110T175102Z">
-        <seg>Wenn die Option deaktiviert ist, werden alle mehrfach vorkommenden Segmente, außer dem ersten Vorkommen, grau dargestellt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075523Z" creationid="Ragnar-F" creationdate="20210110T175102Z">
+        <seg>Wenn die Option deaktiviert ist, werden alle nicht-einmalige Segmente, außer dem ersten Vorkommen, grau dargestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73225,24 +73225,24 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>number of segments - translated vs total for the current file</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130610T195300Z">
-        <seg>Anzahl der Segmente - übersetzt vs Summe für die aktuelle Datei</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T080138Z">
+        <seg>Anzahl der Segmente - übersetzt vs Gesamtzahl in aktueller Datei</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>number of source and target characters in the current segment</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130610T195510Z">
-        <seg>Zahl der Quell- und Zielzeichen im aktuellen Segment</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T080343Z">
+        <seg>Anzahl der Zeichen in Quelle und Ziel des aktuellen Segments</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>number of unique segments - translated vs total in the project</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130610T195345Z">
-        <seg>Anzahl der einzigartigen Segmente - übersetzt vs Summe im Projekt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T080117Z">
+        <seg>Anzahl einmaliger Segmente - übersetzt vs Gesamtzahl im Projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -76329,8 +76329,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T144442Z">
-        <seg>die Gesamtzahl der Segmente, die Zahl der einzigartigen Segmente im gesamten Projekt und die Zahl der schon übersetzten Segmente werden unten angezeigt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T080534Z">
+        <seg>die Gesamtzahl der Segmente, die Anzahl einmaliger Segmente im gesamten Projekt und die Anzahl bereits übersetzter einmaliger Segmente werden unten angezeigt</seg>
       </tuv>
     </tu>
     <tu>
@@ -76729,8 +76729,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>total number of segments (including repeats) in the project</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130610T195430Z">
-        <seg>Gesamtzahl der Segmente im Projekt (Wiederholungen eingeschlossen)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T080213Z">
+        <seg>Gesamtzahl der Segmente (inklusive Wiederholungen) im Projekt</seg>
       </tuv>
     </tu>
     <tu>
