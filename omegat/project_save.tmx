@@ -31214,8 +31214,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T174926Z" creationid="Michael Motzkus" creationdate="20190129T083803Z">
-        <seg>&amp;Erstes mehrfach vorkommendes Segment beim Hervorheben mehrfach vorkommender Segmente einbeziehen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075147Z" creationid="Michael Motzkus" creationdate="20190129T083803Z">
+        <seg>&amp;Erstes nicht-einmaliges Segment beim Hervorheben nicht-einmaliger Segmente einbeziehen</seg>
       </tuv>
     </tu>
     <tu>
@@ -35568,16 +35568,16 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mark Non-Unique Se&amp;gments</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T090339Z" creationid="Michael Motzkus" creationdate="20190129T090339Z">
-        <seg>Nicht-eindeutige Se&amp;gmente markieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T074806Z" creationid="Michael Motzkus" creationdate="20190129T090339Z">
+        <seg>Nicht-einmalige Se&amp;gmente markieren</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T154506Z">
-        <seg>Mehrfach vorkommende Segmente hervorheben</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T074757Z">
+        <seg>Nicht-einmalige Segmente hervorheben</seg>
       </tuv>
     </tu>
     <tu>
@@ -37489,16 +37489,16 @@ measures.</seg>
       <tuv lang="en">
         <seg>Non-unique segments</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T220343Z" creationid="karsten" creationdate="20150919T220343Z">
-        <seg>Nicht-einmalige Segmente</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T074803Z" creationid="karsten" creationdate="20150919T220343Z">
+        <seg>Nicht-einmalige Segmente: Text</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Non-unique segments background</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T220414Z" creationid="karsten" creationdate="20150919T220414Z">
-        <seg>Hintergrund von nicht-einmaligen Segmenten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T074800Z" creationid="karsten" creationdate="20150919T220414Z">
+        <seg>Nicht-einmalige Segmente: Hintergrund</seg>
       </tuv>
     </tu>
     <tu>
@@ -47086,16 +47086,16 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Segments with notes</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T220028Z" creationid="karsten" creationdate="20150919T220028Z">
-        <seg>Segmente mit Anmerkungen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T073805Z" creationid="karsten" creationdate="20150919T220028Z">
+        <seg>Segmente mit Notizen: Hintergrund</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Segments with notes text</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T220111Z" creationid="karsten" creationdate="20150919T220111Z">
-        <seg>Text von Segmenten mit Anmerkungen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T073900Z" creationid="karsten" creationdate="20150919T220111Z">
+        <seg>Segmente mit Notizen: Text</seg>
       </tuv>
     </tu>
     <tu>
@@ -49058,16 +49058,16 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source segments</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T215957Z" creationid="karsten" creationdate="20150919T215957Z">
-        <seg>Quellsegmente</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T073648Z" creationid="karsten" creationdate="20150919T215957Z">
+        <seg>Segmente: Hintergrund</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Source segments text</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T220013Z" creationid="karsten" creationdate="20150919T220013Z">
-        <seg>Quellsegmenttext</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T073656Z" creationid="karsten" creationdate="20150919T220013Z">
+        <seg>Segmente: Text</seg>
       </tuv>
     </tu>
     <tu>
@@ -60558,8 +60558,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translated segments</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T220240Z" creationid="karsten" creationdate="20150919T220240Z">
-        <seg>Übersetzte Segmente</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T073932Z" creationid="karsten" creationdate="20150919T220240Z">
+        <seg>Übersetzte Segmente: Hintergrund</seg>
       </tuv>
     </tu>
     <tu>
@@ -60574,8 +60574,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translated segments text</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T220309Z" creationid="karsten" creationdate="20150919T220309Z">
-        <seg>Text von übersetzten Segmenten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T073947Z" creationid="karsten" creationdate="20150919T220309Z">
+        <seg>Übersetzte Segmente: Text</seg>
       </tuv>
     </tu>
     <tu>
@@ -61612,8 +61612,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Untranslated segments</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T220139Z" creationid="karsten" creationdate="20150919T220125Z">
-        <seg>Unübersetzte Segmente</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T073907Z" creationid="karsten" creationdate="20150919T220125Z">
+        <seg>Unübersetzte Segmente: Hintergrund</seg>
       </tuv>
     </tu>
     <tu>
@@ -61636,8 +61636,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Untranslated segments text</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T220213Z" creationid="karsten" creationdate="20150919T220213Z">
-        <seg>Text von unübersetzten Segmenten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T073925Z" creationid="karsten" creationdate="20150919T220213Z">
+        <seg>Unübersetzte Segmente: Text</seg>
       </tuv>
     </tu>
     <tu>
