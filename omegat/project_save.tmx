@@ -1480,8 +1480,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130604T225839Z">
-        <seg>Segmentierungsregeln projektspezifisch &amp;definieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T222915Z">
+        <seg>Segmentierungsregeln projektspezifisch &amp;machen</seg>
       </tuv>
     </tu>
     <tu>
@@ -6248,8 +6248,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start does not save any of your information beyond the computer on which you are running it.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T065731Z">
-        <seg>&lt;e0&gt;Privatbereich&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start speichert keine Ihrer Informationen jenseits des Computers, auf dem Sie es ausführen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T225130Z">
+        <seg>&lt;e0&gt;Datenschutz&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start speichert keine Ihrer persönlichen Informationen außerhalb des von Ihnen genutzten Computers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10869,8 +10869,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142220Z">
-        <seg>Eine Liste von möglichen Argumenten folgt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T225656Z">
+        <seg>Eine Liste der möglichen Argumente finden Sie unten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11915,8 +11915,8 @@ the above requirements apply either way.</seg>
       <tuv lang="en">
         <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T080216Z">
-        <seg>Fortgeschrittene Nutzer können mehr Informationen erhalten, wenn sie &lt;e0&gt;man java&lt;/e0&gt; ins Terminalfenster eintippen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T225746Z">
+        <seg>Fortgeschrittene Benutzer können weitere Informationen zu den Argumenten erhalten, indem sie &lt;e0&gt;man java&lt;/e0&gt; in das Terminal-Fenster eingeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16178,8 +16178,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T055140Z">
-        <seg>Suchen Sie mit &lt;k0&gt;Strg+T &lt;/k0&gt;nach möglichen Tag-Fehlern und nach nicht übersetzten Segmenten mit &lt;k1&gt;Strg+U&lt;/k1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230547Z">
+        <seg>Suchen Sie mit &lt;k0&gt;Strg+T &lt;/k0&gt;nach möglichen Tag-Fehlern und nach unübersetzten Segmenten mit &lt;k1&gt;Strg+U&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19780,8 +19780,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T071314Z">
-        <seg>Abhängig von Ihrem bevorzugten Editier-Verhalten kann das Editierfeld des nicht übersetzten Segments leer sein, den Quellext oder die Übersetzung beinhalten, deren Zeichenfolge dem gerade zu übersetzenden Teil am ähnlichsten ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230242Z">
+        <seg>Abhängig von Ihrem bevorzugten Editier-Verhalten kann das Editierfeld des unübersetzten Segments leer sein, den Quellext oder die Übersetzung beinhalten, deren Zeichenfolge dem gerade zu übersetzenden Teil am ähnlichsten ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25649,8 +25649,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T081750Z" creationid="Michael Motzkus" creationdate="20180925T081750Z">
-        <seg>Glossarbereich: Abgelegte Dateien mit bekannten Glossarerweiterungen (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, usw.) werden in den Order &lt;f2&gt;glossary&lt;/f2&gt; kopiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230052Z" creationid="Michael Motzkus" creationdate="20180925T081750Z">
+        <seg>Glossarbereich: Abgelegte Dateien mit bekannten Glossardateiendungen (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, usw.) werden in den Ordner &lt;f2&gt;glossary&lt;/f2&gt; kopiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29477,8 +29477,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T090627Z">
-        <seg>Wird &lt;a1&gt;OmegaT&lt;/a1&gt;OmegaT im Modus Konsole gestartet, wird dieselbe Konfiguration benutzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T225943Z">
+        <seg>Wenn Sie &lt;a1&gt;OmegaT&lt;/a1&gt; im Konsolenmodus starten, verwendet es die gleichen Einstellungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31053,8 +31053,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T153720Z">
-        <seg>Platzieren Sie in diesem Fall die Translation Memories, die Sie verwenden möchten, in den Ordner &lt;e0&gt;/tm&lt;/e0&gt; oder &lt;e1&gt;/tm&lt;/e1&gt;/auto Ihres neuen Projekts: Im ersten Fall erhalten Sie Treffer aus diesen Translation Memories im Fuzzy-Matches-Viewer, und im zweiten Fall werden diese TMs zur Vorübersetzung Ihres Quelltexts herangezogen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T223517Z">
+        <seg>Platzieren Sie in diesem Fall die Translation Memories, die Sie verwenden möchten, in den Ordner &lt;e0&gt;/tm&lt;/e0&gt; oder &lt;e1&gt;/tm&lt;/e1&gt;/auto Ihres neuen Projekts: Im ersten Fall erhalten Sie Treffer aus diesen Translation Memories im Fuzzy-Matches-Viewer, und im zweiten Fall werden diese TMs zur Vorübersetzung Ihres Quelltextes herangezogen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37212,8 +37212,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Next Untranslated Segment</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Nächstes nicht übersetztes Segment</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230505Z">
+        <seg>Nächstes unübersetztes Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -46668,8 +46668,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T072758Z" creationid="Michael Motzkus" creationdate="20180917T072758Z">
-        <seg>Lesen Sie das &lt;u0&gt;HowTo - PDF-Dateien mit Iceni Infix und OmegaT übersetzen&lt;/u0&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T224003Z" creationid="Michael Motzkus" creationdate="20180917T072758Z">
+        <seg>Siehe &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51770,8 +51770,8 @@ Source.</seg>
       <tuv lang="en">
         <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T194305Z">
-        <seg>Der Editorbereich zeigt den Text des teilweise übersetzten Dokuments an: der schon übersetzte Text wird als Übersetzung angezeigt, während der nicht übersetzte Text in der Originalsprache angezeigt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230232Z">
+        <seg>Der Editorbereich zeigt den Text des teilweise übersetzten Dokuments an: der schon übersetzte Text wird als Übersetzung angezeigt, während der unübersetzte Text in der Originalsprache angezeigt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52322,8 +52322,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The above method somewhat impractical way of launching a program routinely.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T072039Z">
-        <seg>Die obige Methode ist eine etwas unpraktischer Weg, um das Programm routinemäßig zu starten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T225624Z">
+        <seg>Die obige Methode ist etwas unpraktisch, um ein Programm regelmäßig zu starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52394,8 +52394,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The application runs on your machine only.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T065748Z">
-        <seg>Die Anwendung läuft nur auf Ihrer Maschine.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T225203Z">
+        <seg>Das Programm läuft nur auf Ihrem Rechner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52924,8 +52924,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130323Z">
-        <seg>Die Standard OmegaT Verknüpfungen für Mac gibt es auch bei SourceForge, sie setzen "meta" anstatt "strg" ein: &lt;u0&gt;Default OmegaT Shortcuts für Mac&lt;/u0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T222431Z">
+        <seg>Die Standard-OmegaT-Tastenkürzel für macOS sind ebenfalls auf SourceForge verfügbar; sie verwenden alle "meta" statt "ctrl": &lt;u0&gt;Default OmegaT Shortcuts für Mac&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58136,8 +58136,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T071930Z">
-        <seg>Diese Methode ist besonders geeignet, um Gründe für Fehler zu finden: wenn ein Fehler bei der Verwendung des Programms auftritt, wird eine Fehlermeldung im Terminalfenster angezeigt, die nützliche Informationen zur Ursache enthalten kann.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T225809Z">
+        <seg>Diese Methode hat den großen Vorteil, dass sie für die Suche nach Ursachen von Problemen geeignet ist: Tritt während der Nutzung des Programms ein Fehler auf, wird eine Fehlermeldung im Terminal-Fenster angezeigt, die nützliche Informationen über die Ursache des Fehlers enthalten kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58576,8 +58576,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141956Z">
-        <seg>Das wird sie praktisch in den "nicht übersetzten" Status zurücksetzen, weil sie den Segmenten in der TM nicht mehr entsprechen, obwohl die alte Übersetzung noch da ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230540Z">
+        <seg>Das wird sie praktisch in den "unübersetzten" Status zurücksetzen, weil sie den Segmenten in der TM nicht mehr entsprechen, obwohl die alte Übersetzung noch da ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60563,8 +60563,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T160252Z">
-        <seg>Übersetzte Segmente werden mit dem ursprünglichen Text oben und dem übersetzten Text unten gezeigt, bei den noch nicht übersetzten Segmenten wird nur der ursprüngliche Text gezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230421Z">
+        <seg>Übersetzte Segmente werden mit dem ursprünglichen Text oben und dem übersetzten Text unten gezeigt, bei den noch unübersetzten Segmenten wird nur der ursprüngliche Text gezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61641,8 +61641,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Untranslated segments will hereby remain in the source language.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130513T132634Z">
-        <seg>Nicht übersetzte Segmente werden dabei in der Quellsprache beibehalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230352Z">
+        <seg>unübersetzte Segmente werden dabei in der Quellsprache beibehalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62121,8 +62121,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T071104Z">
-        <seg>Nutzen Sie den oberen Teil als Referenz und ersetzen oder ändern Sie den Inhalt des Editierfelds durch Ihrfe Übersetzung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T231131Z">
+        <seg>Verwenden Sie den oberen Teil als Referenz und ersetzen Sie den Inhalt des Editierfeldes mit Ihrer Übersetzung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62137,8 +62137,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T065929Z" creationid="Michael Motzkus" creationdate="20180919T065607Z">
-        <seg>Benutzen Sie diesen Button, um ein Dialogfenster zu öffnen, aktivieren Sie die Checkbox &lt;g0&gt;Segmentierungsregeln projektspezifisch definieren&lt;/g0&gt;, fahren Sie dann fort und passen Sie die Segmentierungsregeln wie gewünscht an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T223347Z" creationid="Michael Motzkus" creationdate="20180919T065607Z">
+        <seg>Benutzen Sie diese Schaltfläche, um ein Dialogfenster zu öffnen, aktivieren Sie die Option &lt;g0&gt;Segmentierungsregeln projektspezifisch machen&lt;/g0&gt; und passen Sie dann die Segmentierungsregeln wie gewünscht an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65968,8 +65968,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T080426Z" creationid="Michael Motzkus" creationdate="20180921T080426Z">
-        <seg>Sie können die normale Navigation verwenden, um z.B. zum nächsten (nicht übersetzten) Segment zu gehen, das den Suchkriterien entspricht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230430Z" creationid="Michael Motzkus" creationdate="20180921T080426Z">
+        <seg>Sie können die normale Navigation verwenden, um z.B. zum nächsten (unübersetzten) Segment zu gehen, das den Suchkriterien entspricht.</seg>
       </tuv>
     </tu>
     <tu>
