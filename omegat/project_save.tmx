@@ -5400,8 +5400,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130504T082421Z">
-        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; kann sein: &lt;e1&gt;getippt&lt;/e1&gt;, &lt;e2&gt;gedrückt&lt;/e2&gt;, &lt;e3&gt;losgelassen&lt;/e3&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130046Z">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; kann Folgendes sein: &lt;e1&gt;typed&lt;/e1&gt; (eingegeben), &lt;e2&gt;pressed&lt;/e2&gt; (gedrückt), &lt;e3&gt;released&lt;/e3&gt; (losgelassen)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7088,8 +7088,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130715T180636Z">
-        <seg>&lt;STRG+N&gt; oder &lt;Enter&gt; oder &lt;Tab&gt;&lt;k0&gt;&lt;/k0&gt;&lt;k1&gt;&lt;/k1&gt;&lt;k2&gt;&lt;/k2&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130815Z">
+        <seg>&lt;k0&gt;Strg+N&lt;/k0&gt; oder &lt;k1&gt;Enter&lt;/k1&gt; oder &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11485,8 +11485,8 @@ included in conveying the object code work.</seg>
       <tuv lang="en">
         <seg>Access Project Contents/Root</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T065032Z" creationid="BVB" creationdate="20180829T065032Z">
-        <seg>Zugriff auf Projektinhalte / Root</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130655Z" creationid="BVB" creationdate="20180829T065032Z">
+        <seg>Zugriff auf Projektinhalte/Root</seg>
       </tuv>
     </tu>
     <tu>
@@ -14235,8 +14235,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T095915Z" creationid="Michael Motzkus" creationdate="20190129T065524Z">
-        <seg>Auto-Vervollständigung</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131135Z" creationid="Michael Motzkus" creationdate="20190129T065524Z">
+        <seg>Autovervollständigung</seg>
       </tuv>
     </tu>
     <tu>
@@ -14283,8 +14283,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180912T090040Z" creationid="Michael Motzkus" creationdate="20180912T090040Z">
-        <seg>Autovervollständigung / Zeige relevante Vorschläge automatisch</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131226Z" creationid="Michael Motzkus" creationdate="20180912T090040Z">
+        <seg>Autovervollständigung -&gt; Relevante Vorschläge automatisch anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -28514,8 +28514,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130504T154659Z">
-        <seg>Wenn Sie nicht mit systemweiten Tastenkombinationen im Konflikt stehen, dann sollten sie innerhalb von OmegaT zur Verfügung stehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130536Z">
+        <seg>Wenn sie nicht mit Tastenkürzeln des Systems in Konflikt stehen, sollten sie in OmegaT nutzbar sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31458,8 +31458,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Insert Missing Source Tags</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T065728Z" creationid="BVB" creationdate="20180829T065728Z">
-        <seg>Fehlenden Quelltag einfügen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130719Z" creationid="BVB" creationdate="20180829T065728Z">
+        <seg>Fehlende Tags aus Quelle einfügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -52918,16 +52918,16 @@ instead.</seg>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130504T144606Z">
-        <seg>Die Standard OmegaT Verknüpfungen gibt es bei Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130257Z">
+        <seg>Die Standard OmegaT Verknüpfungen gibt es bei SourceForge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130504T144718Z">
-        <seg>Die Standard OmegaT Verknüpfungen für Mac gibt es auch bei Sourceforge, sie setzen "meta" anstatt "strg" ein: &lt;u0&gt;Default OmegaT Shortcuts für Mac&lt;/u0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130323Z">
+        <seg>Die Standard OmegaT Verknüpfungen für Mac gibt es auch bei SourceForge, sie setzen "meta" anstatt "strg" ein: &lt;u0&gt;Default OmegaT Shortcuts für Mac&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54560,8 +54560,8 @@ content, constitutes a covered work.</seg>
       <tuv lang="en">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130504T083111Z">
-        <seg>Die möglichen Ereignisse von Tasten (keys) werden in der folgenden Dokumentation von Java 1.6 durch Oracle aufgelistet: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130213Z">
+        <seg>Die möglichen Tastenereignisse sind in der folgenden Java-1.6-Dokumentation von Oracle aufgelistet: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60388,8 +60388,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>TransTips/Enable Transtips</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130504T161131Z">
-        <seg>TransTipps/Aktiviere Transtipps</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131048Z">
+        <seg>TransTips -&gt; TransTips aktivieren</seg>
       </tuv>
     </tu>
     <tu>
