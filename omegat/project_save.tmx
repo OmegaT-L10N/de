@@ -16218,8 +16218,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T161949Z">
-        <seg>Stellen Sie sicher, dass die Ländercodes genau gleich sind: ein FR-FR Wörterbuch wird bei Zieleinstellung FR nicht funktionieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T133346Z">
+        <seg>Stellen Sie sicher, dass die Ländercodes genau gleich sind: ein FR-FR Wörterbuch wird bei FR als Zielsprache nicht funktionieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16962,8 +16962,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T155553Z">
-        <seg>Ein Klick auf &lt;g0&gt;Neues Wörterbuch installieren&lt;/g0&gt; wird das Fenster für den Installer von Wörterbüchern öffnen, wo Sie die Wörterbücher auswählen können, die Sie installieren wollen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T132906Z">
+        <seg>Ein Klick auf &lt;g0&gt;Neues Wörterbuch installieren&lt;/g0&gt; wird das Wörterbuch-Installationsfenster öffnen, wo Sie die Wörterbücher auswählen können, die Sie installieren wollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18042,8 +18042,8 @@ the conditions stated below.</seg>
       <tuv lang="en">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130606T053303Z">
-        <seg>Manuelles Kopieren der Dateien ist dann sinnvoll, wenn Sie schon geeignete Wörterbücher auf Ihrem System haben, zum Beispiel als Teil der Installation von Apache OpenOffice, Libreoffice, Firefox oder Thunderbird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T132742Z">
+        <seg>Manuelles Kopieren der Dateien ist dann sinnvoll, wenn Sie schon geeignete Wörterbücher auf Ihrem System haben, zum Beispiel als Teil der Installation von Apache OpenOffice, LibreOffice, Firefox oder Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28378,8 +28378,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T163218Z">
-        <seg>Falls die Rechtschreibprüfung nicht funktioniert, dann stellen Sie zuerst sicher, dass die Kontrollbox &lt;g0&gt;"Automatisch Rechtschreibung prüfen"&lt;/g0&gt; im Dialog zur Rechtschreibprüfung (&lt;g1&gt;Optionen &gt; Rechtschreibprüfung...)&lt;/g1&gt; markiert ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T133943Z">
+        <seg>Falls die Rechtschreibprüfung nicht funktioniert, stellen Sie zuerst sicher, dass die Option &lt;g0&gt;Rechtschreibung automatisch prüfen&lt;/g0&gt; im Dialogfenster für Rechtschreibprüfung (&lt;g1&gt;Optionen &gt; Rechtschreibprüfung...)&lt;/g1&gt; aktiviert ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29181,8 +29181,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T163615Z">
-        <seg>Wenn es um eine Menge von schon übersetzten Texten geht und es stellt sich heraus, dass die Spracheinstellung im Projekt falsch ist (Sie gaben pt_BR als Sprache an, aber es keine pt_BR Vokabeln zum Beispiel), können Sie einfache die entsprechenden Dateien kopieren und sie umbenennen (z.B. von &lt;e0&gt;pt_PT.aff&lt;/e0&gt; und &lt;e1&gt;pt_PT.dic&lt;/e1&gt; zu &lt;e2&gt;pt_BR.aff&lt;/e2&gt; und &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T134453Z">
+        <seg>Wenn Sie bereits einen großen Textabschnitt übersetzt haben und dann feststellen, dass der Zielsprachencode des Projekts nicht mit dem Sprachcode der Rechtschreibprüfung übereinstimmt (Sie haben z. B. pt_BR als Sprache angegeben, obwohl es keine pt_BR-Vokabularien gibt), können Sie einfach die beiden entsprechenden Dateien kopieren und umbenennen (z. B. von &lt;e0&gt;pt_PT.aff&lt;/e0&gt; und &lt;e1&gt;pt_PT.dic&lt;/e1&gt; in &lt;e2&gt;pt_BR.aff&lt;/e2&gt; und &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45409,8 +45409,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T162321Z">
-        <seg>Wenn Sie auf ein unterstrichenes Wort rechts klicken (Artund im obigen Bild) öffnet sich ein Drop-down Menü mit Vorschlägen für die Korrektur (Art und).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T133711Z">
+        <seg>Wenn Sie auf ein unterstrichenes Wort rechtsklicken (Artund im obigen Bild), öffnet sich ein Kontextmenü mit Korrekturvorschlägen (Art und).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54260,8 +54260,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T160349Z">
-        <seg>Die Namen der Dateien müssen dem Sprachcode Ihrer Zeilsprache entsprechen wie sie im Dialog zu den Eigenschaften des Projekts definiert wurden (&lt;g0&gt;Projekt &gt; Eigenschaften&lt;/g0&gt;).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T133025Z">
+        <seg>Die Namen der Dateien müssen dem Sprachcode Ihrer Zielsprache entsprechen, wie sie im Projekteigenschaften-Dialogfenster definiert wurden (&lt;g0&gt;Projekt &gt; Eigenschaften&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56358,8 +56358,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T161910Z">
-        <seg>OmegaT muss nicht angewiesen werden, ein bestimmtes Rechtschreibung-Wörterbuch zu benutzen: OmegaT wird das korrekte Wörterbuch benutzen, basierend auf dem Sprachcodes Ihres Projekts.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T133246Z">
+        <seg>OmegaT muss nicht angewiesen werden, ein bestimmtes Rechtschreibung-Wörterbuch zu benutzen: OmegaT wird das korrekte Wörterbuch benutzen, basierend auf den Sprachcodes Ihres Projekts.</seg>
       </tuv>
     </tu>
     <tu>
