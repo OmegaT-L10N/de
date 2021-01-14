@@ -17978,8 +17978,8 @@ the conditions stated below.</seg>
       <tuv lang="en">
         <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T054942Z">
-        <seg>Kopieren Sie die Dokumente, für die Sie eine translation memory brauchen, in den Quellordner des Projekts.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155933Z">
+        <seg>Kopieren Sie die Dokumente, für die Sie eine Translation Memory brauchen, in den Quellordner des Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18018,8 +18018,8 @@ the conditions stated below.</seg>
       <tuv lang="en">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T055037Z">
-        <seg>Kopieren Sie die translation memories, die die Übersetzungen der obigen Dokumente enthalten, in den &lt;f0&gt;tm/auto&lt;/f0&gt; Unterordner des neuen Projekts.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155956Z">
+        <seg>Kopieren Sie die Translation Memories, die die Übersetzungen der obigen Dokumente enthalten, in den &lt;f0&gt;tm/auto&lt;/f0&gt;-Unterordner des neuen Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30236,8 +30236,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T060457Z">
-        <seg>Im Falle von OmegaT werden komplette Projektordner - in anderen Worten die betroffenen translation memories sowie die Quellordner, Einstellungen des Projekts usw. - durch das gewählte RCS bewältigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T160817Z">
+        <seg>Im Falle von OmegaT werden komplette Projektordner - also die zugehörigen Translation Memories sowie Quellordner, Projekteinstellungen usw. - von dem ausgewählten RCS verwaltet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30308,8 +30308,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T055901Z">
-        <seg>In Fällen, in denen ein Team von Übersetzers beteiligt ist, werden es Übersetzer vorziehen, ihre gemeinsame translation memories zu teilen, anstatt ihre lokale Versionen zu verteilen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T160258Z">
+        <seg>In Fällen, in denen ein Team von Übersetzern involviert ist, werden die Übersetzer es vorziehen, die Translation Memories untereinander zu teilen, anstatt ihre lokalen Versionen zu veröffentlichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37905,8 +37905,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T094937Z">
-        <seg>Bedenken Sie, dass nur eine TMX für ein gegebenes Sprachpaar möglich ist; wenn also mehrere translation memories involviert sein sollten, dann müssen Sie sie alle in der XX_YY.tmx zusammenführen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T161146Z">
+        <seg>Beachten Sie, dass nur eine TMX-Datei für ein bestimmtes Sprachenpaar möglich ist; wenn also mehrere Translation Memories involviert sein sollen, müssen Sie sie alle zu einer einzigen Datei namens XX_YY.tmx zusammenführen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39265,8 +39265,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T060254Z">
-        <seg>OmegaT verbindet mit SVN und Git, zwei üblichen System für die Team-Versionierung und Kontrolle der Revisionen (RCS), die unter der Lizen einen offenen Quelle verfügbar sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T160638Z">
+        <seg>OmegaT verfügt über Schnittstellen zu SVN und Git, zwei gängigen Team-Software-Versionierungs- und Revisionskontrollsystemen (RCS), die mit einer Open-Source-Lizenz versehen sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48030,8 +48030,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Sharing translation memories</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T055748Z">
-        <seg>Translation memories teilen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T160052Z">
+        <seg>Translation Memories mit anderen teilen</seg>
       </tuv>
     </tu>
     <tu>
@@ -76121,8 +76121,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T195004Z" creationid="Ragnar-F" creationdate="20210110T194729Z">
-        <seg>enthalten die TMX-Dateien im Hauptprojektordner (siehe oben) nun die Übersetzungen in dem ausgewählten Sprachpaar, und zwar für die Dateien, die Sie in den Quellordner kopiert haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T160023Z" creationid="Ragnar-F" creationdate="20210110T194729Z">
+        <seg>enthalten die TMX-Dateien im Hauptprojektordner (siehe oben) nun die Übersetzungen in dem ausgewählten Sprachenpaar, und zwar für die Dateien, die Sie in den Quellordner kopiert haben.</seg>
       </tuv>
     </tu>
     <tu>
