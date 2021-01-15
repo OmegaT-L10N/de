@@ -2486,8 +2486,8 @@ java.exe.</seg>
       <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T080716Z">
-        <seg>(Die Definition von "einmalig" ist abhängig von Groß- und Kleinschreibung: "Run" und "run" werden als Unterschiede behandelt)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T130048Z">
+        <seg>(Die Definition von "einmalig" ist abhängig von Groß- und Kleinschreibung: "Run" und "run" werden als unterschiedliche Wörter behandelt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16930,8 +16930,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T063305Z" creationid="Michael Motzkus" creationdate="20180921T063305Z">
-        <seg>Klicken Sie auf den Drop-Down-Pfeil des Feldes &lt;e0&gt;Suchen nach&lt;/e0&gt; um die letzten 10 Suchbegriffe anzuzeigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T132231Z" creationid="Michael Motzkus" creationdate="20180921T063305Z">
+        <seg>Klicken Sie auf die Pfeilschaltfläche im Feld &lt;e0&gt;Suche nach&lt;/e0&gt;, um die letzten 10 verwendeten Suchbegriffe anzuzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28232,8 +28232,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="en">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T152845Z">
-        <seg>Sind die zu übersetzenden Dateien Teil einer Baumstruktur (wie in einer Webseite), braucht man nur den Hauptordner anzugeben und OmegaT wird den gesamten Inhalt beibehalten sowie die Baumstruktur beibehalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T124959Z">
+        <seg>Sind die zu übersetzenden Dateien Teil einer Verzeichnisstruktur (wie in einer Webseite), braucht man nur den Hauptordner anzugeben und OmegaT wird den gesamten Inhalt beibehalten sowie die Baumstruktur beibehalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28658,8 +28658,8 @@ where to find the applicable terms.</seg>
       <tuv lang="en">
         <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130513T093832Z">
-        <seg>Wenn Sie schon Wörter gesammelt haben, die die Rechtschreibprüfung ignorieren / akzeptieren soll, dann kopieren Sie die entsprechenden zwei Dateien in den Unterordner &lt;f0&gt;omegat&lt;/f0&gt;Ihres vorhandenen Projekts.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T124811Z">
+        <seg>Wenn Sie schon Wörter gesammelt haben, die die Rechtschreibprüfung ignorieren / akzeptieren soll, dann kopieren Sie die entsprechenden zwei Dateien in den Unterordner &lt;f0&gt;omegat&lt;/f0&gt; Ihres vorhandenen Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29139,8 +29139,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="en">
         <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T145744Z">
-        <seg>Mit aktivierten TransTipps (&lt;g0&gt;Optionen → TransTipps&lt;/g0&gt;) öffnet sich bei einem Rechtsklick in der Quelle auf ein hervorgehobenes Wort ein Popup Menü mit Übersetzungen, die von Ihrem Glossar vorgeschlagen werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T121730Z">
+        <seg>Mit aktivierten TransTips (&lt;g0&gt;Optionen → TransTips&lt;/g0&gt;) öffnet sich bei einem Rechtsklick in der Quelle auf ein hervorgehobenes Wort ein Popup Menü mit Übersetzungen, die von Ihrem Glossar vorgeschlagen werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30108,8 +30108,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T202010Z" creationid="Ragnar-F" creationdate="20210111T202010Z">
-        <seg>In einem Teamprojekt enthält dieser Ordner eine versionierte Kopie der Projektbaumstruktur, die direkt mit dem Remote-Server verknüpft ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T124946Z" creationid="Ragnar-F" creationdate="20210111T202010Z">
+        <seg>In einem Teamprojekt enthält dieser Ordner eine versionierte Kopie der Verzeichnisstruktur des Projekts, die direkt mit dem Remote-Server verknüpft ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32193,8 +32193,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T092628Z" creationid="Michael Motzkus" creationdate="20180925T092628Z">
-        <seg>Es ist auch möglich, die Position eines Dateinamens durch daraufklicken und Drücken der &lt;e0&gt;Bewegen ...&lt;/e0&gt;Schaltflächen zu ändern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T125833Z" creationid="Michael Motzkus" creationdate="20180925T092628Z">
+        <seg>Sie können auch die Position eines Dateinamens ändern, indem Sie ihn anklicken und die Schaltflächen &lt;e0&gt;Nach oben/unten&lt;/e0&gt; drücken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32719,8 +32719,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="en">
         <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T092502Z">
-        <seg>Es kann sein, dass die translation memories, die in dem &lt;f0&gt;tm&lt;/f0&gt; Unterordner zur Verfügung stehen, Segmente mit identischem Quelltext, aber unterschiedlichen Zielen enthalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T124231Z">
+        <seg>Es kann vorkommen, dass die im &lt;f0&gt;tm&lt;/f0&gt;-Unterordner befindlichen Translation Memories Segmente enthalten, die denselben Quelltext, aber jeweils einen anderen Zieltext haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37920,8 +37920,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T080454Z">
-        <seg>Bedenken Sie, dass andere CAT tools tmx Dateien exportieren (und auch importieren) können, normalerweise in allen drei Formen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T122453Z">
+        <seg>Bedenken Sie, dass andere CAT-Tools TMX-Dateien exportieren (und auch importieren) können, normalerweise in allen drei Formen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37936,8 +37936,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T092849Z">
-        <seg>Bedenken Sie dass die TMX Dateien im tm Ordner mit gzip komprimiert werden können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T124321Z">
+        <seg>Beachten Sie, dass die TMX-Dateien im Ordner "tm" mit gzip komprimiert werden können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38168,8 +38168,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T092325Z" creationid="Michael Motzkus" creationdate="20180925T092325Z">
-        <seg>Hinweis: Dateinamen (in der ersten Spalte) können durch Drücken auf die Überschrift alfabetisch sortiert werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T125652Z" creationid="Michael Motzkus" creationdate="20180925T092325Z">
+        <seg>Hinweis: Dateinamen (in der ersten Spalte) können durch Klicken auf die Spaltenüberschrift alphabetisch sortiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46884,8 +46884,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T145741Z">
-        <seg>Siehe das Kapitel &lt;e0&gt;Segmentierunsgregeln&lt;/e0&gt; für weitere Informationen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T130130Z">
+        <seg>Weitere Informationen finden Sie im Kapitel &lt;e0&gt;Segmentierungsregeln&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48688,8 +48688,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T141556Z">
-        <seg>Einige Dateiformate, die auf Übersetzungarbeit spezialisiert sind, zum Beispiel PO, erlauben das Einfügen von Kommentaren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T122213Z">
+        <seg>Einige Dateiformate, die für Übersetzungsarbeiten vorgesehen sind, z. B. PO, erlauben das Einfügen von Kommentaren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48784,8 +48784,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Sometimes, it is useful to distinguish between high-quality translation memories and those that are, because of the subject matter, client, revision status, etc., less reliable.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T093613Z">
-        <seg>Manchmal ist es sinnvoll, zwischen translation memories hoher Qualität und denen, die aufgrund der Thematik, des Kunden, dem Status der Revision usw. weniger verlässlich sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T124730Z">
+        <seg>Manchmal ist es sinnvoll, zwischen qualitativ hochwertigen Translation Memories und solchen zu unterscheiden, die aufgrund des Themenbereichs, des Kunden, des Revisionsstatus usw. weniger zuverlässig sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52522,8 +52522,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T080617Z">
-        <seg>Am besten ist natürlich OmegaT-spezifische TMX Dateien (siehe oben) zu benutze, so dass die in-line Formatierung innerhalb des Segments beibehalten wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T122529Z">
+        <seg>Am besten ist es natürlich, wenn Sie OmegaT-spezifische TMX-Dateien (siehe oben) verwenden, damit die Inline-Formatierung innerhalb des Segments erhalten bleibt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53012,8 +53012,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T202736Z" creationid="Ragnar-F" creationdate="20210111T202736Z">
-        <seg>Der Unterschied ist gering: Wir nennen "Fenster" ein Fenster, das neben dem Editor offen bleiben und mit ihm interagieren kann, und "Dialogfenster" ein Fenster, bei dem Sie Parameter festlegen müssen, bevor Sie es schließen und Ihre Übersetzungstätigkeit fortsetzen können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T125036Z" creationid="Ragnar-F" creationdate="20210111T202736Z">
+        <seg>Der Unterschied ist gering: Wir nennen "Fenster" ein Fenster, das neben dem Editor offen bleiben und mit ihm interagieren kann, und "Dialogfenster" ein Fenster, bei dem Sie Parameter festlegen müssen, bevor Sie es schließen und Ihre Übersetzungsarbeiten fortsetzen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55472,8 +55472,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The status bar displays work-flow related messages at the bottom of the main window.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T142550Z">
-        <seg>Die Status-Leiste zeigte Nachrichten über den Arbeitsverlauf am unteren Rand des Hauptfensters an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T122314Z">
+        <seg>Die Statusleiste zeigt arbeitsablaufbezogene Meldungen am unteren Rand des Hauptfensters an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55612,8 +55612,8 @@ use, which is precisely where it is most unacceptable.</seg>
       <tuv lang="en">
         <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T135542Z">
-        <seg>Der Zieltext, der danach eingegeben wird, wird als alternative Übersetzung des Quellsegmentes behandelt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T121911Z">
+        <seg>Der Zieltext, der danach eingegeben wird, wird als alternative Übersetzung des Quellsegments behandelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55844,8 +55844,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T141347Z">
-        <seg>Der/die Übersetzer/in kann Notizen zum geöffneten Segment hinzufügen, zum Beispiel, um später zum Segment zurückzukommen und die Übersetzung zu erneuern, zu schauen, ob alternative Übersetzungen korrekt sind oder um KollegInnen nach ihrer Meinung zu fragen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T122022Z">
+        <seg>Der/die Übersetzer/in kann Notizen zum geöffneten Segment hinzufügen, zum Beispiel, um später zum Segment zurückzukommen und die Übersetzung zu erneuern, zu schauen, ob alternative Übersetzungen korrekt sind oder um Kollegen oder Kolleginnen nach ihrer Meinung zu fragen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58640,8 +58640,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T215114Z" creationid="Ragnar-F" creationdate="20210111T215114Z">
-        <seg>Dieses Fenster wird automatisch angezeigt, wenn OmegaT ein Projekt lädt. Es ist immer über &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Projekdateien...&lt;/g2&gt; &lt;/m0&gt; erreichbar.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T125530Z" creationid="Ragnar-F" creationdate="20210111T215114Z">
+        <seg>Dieses Fenster wird automatisch angezeigt, wenn OmegaT ein Projekt lädt. Es ist immer über &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Projektdateien...&lt;/g2&gt; &lt;/m0&gt; erreichbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65646,8 +65646,8 @@ Lizenz finden Sie in /docs/OmegaT-license.txt.</seg>
       <tuv lang="en">
         <seg>You can have several Search windows open at the same time, but close them when they are no longer needed so that they do not clutter your desktop.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T151839Z">
-        <seg>Sie können verschiedene Suchfenster gleichzeitig geöffnet haben, aber schließen Sie sie, wenn sie nicht mehr gebraucht werden, damit Ihr Desktop nicht vollgestopft wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T130824Z">
+        <seg>Sie können mehrere Suchfenster gleichzeitig geöffnet haben, aber es ist ratsam, diese wieder zu schließen, sobald sie nicht mehr benötigt werden, um den Desktop übersichtlich zu halten.</seg>
       </tuv>
     </tu>
     <tu>
