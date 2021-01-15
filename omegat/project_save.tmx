@@ -2048,8 +2048,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Translated</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Übersetzt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T144204Z">
+        <seg>Ü&amp;bersetzt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6392,8 +6392,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Space matches nbsp&lt;/e0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T141341Z" creationid="Michael Motzkus" creationdate="20180921T070618Z">
-        <seg>&lt;e0&gt;Leerzeichen findet auch geschützte Leerzeichen&lt;/e0&gt;: Wenn aktiviert, findet ein im Suchfeld eingegebenes Leerzeichen sowohl ein normales als auch ein geschütztes Leerzeichen (\u00A).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T145149Z" creationid="Michael Motzkus" creationdate="20180921T070618Z">
+        <seg>&lt;e0&gt;Leerzeichen findet nbsp&lt;/e0&gt;: Wenn aktiviert, findet ein im Suchfeld eingegebenes Leerzeichen sowohl ein normales als auch ein geschütztes Leerzeichen (\u00A).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6456,16 +6456,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Translated or untranslated: &lt;/e0&gt;search in both translated and untranslated segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T070746Z" creationid="Michael Motzkus" creationdate="20180921T070746Z">
-        <seg>&lt;e0&gt;Übersetzt oder unübersetzt: &lt;/e0&gt;sucht sowohl in übersetzten als auch unübersetzten Segmenten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T145925Z" creationid="Michael Motzkus" creationdate="20180921T070746Z">
+        <seg>&lt;e0&gt;Übersetzt oder unübersetzt:&lt;/e0&gt; Sowohl in übersetzten als auch in unübersetzten Segmenten suchen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;Translated: &lt;/e0&gt;search only in translated segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T070817Z" creationid="Michael Motzkus" creationdate="20180921T070817Z">
-        <seg>&lt;e0&gt;Übersetzt: &lt;/e0&gt;sucht nur in übersetzten Segmenten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T145940Z" creationid="Michael Motzkus" creationdate="20180921T070817Z">
+        <seg>&lt;e0&gt;Übersetzt:&lt;/e0&gt; Nur in übersetzten Segmenten suchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6504,8 +6504,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Untranslated: &lt;/e0&gt;search only in untranslated segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T070845Z" creationid="Michael Motzkus" creationdate="20180921T070845Z">
-        <seg>&lt;e0&gt;Unübersetzt: &lt;/e0&gt;sucht nur in unübersetzten Segmenten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T145953Z" creationid="Michael Motzkus" creationdate="20180921T070845Z">
+        <seg>&lt;e0&gt;Unübersetzt:&lt;/e0&gt; Nur in unübersetzten Segmenten suchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6712,32 +6712,32 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;in comments: &lt;/e0&gt;search in comments to segments</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T070656Z" creationid="Michael Motzkus" creationdate="20180921T070656Z">
-        <seg>&lt;e0&gt;in Kommentaren: &lt;/e0&gt;in den Kommentaren der Segmente suchen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T145956Z" creationid="Michael Motzkus" creationdate="20180921T070656Z">
+        <seg>&lt;e0&gt;In Kommentaren:&lt;/e0&gt; In den Kommentaren der Segmente suchen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;in notes: &lt;/e0&gt;search in notes to segments</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T155732Z">
-        <seg>&lt;e0&gt;in Notizen: &lt;/e0&gt;Suche in Notizen zu Segmenten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T145959Z">
+        <seg>&lt;e0&gt;In Notizen:&lt;/e0&gt; In den Notizen der Segmente suchen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;in source: &lt;/e0&gt;search in the source segments</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T155651Z">
-        <seg>&lt;e0&gt;in der Quelle: &lt;/e0&gt;Suche in den Quellsegmenten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T150010Z">
+        <seg>&lt;e0&gt;In Quelltexten:&lt;/e0&gt; In den Quelltexten der Segmente suchen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;in translations: &lt;/e0&gt;search in the target segments</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T155711Z">
-        <seg>&lt;e0&gt;in Übersetzungen: &lt;/e0&gt;Suche in den Zielsegmenten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T150002Z">
+        <seg>&lt;e0&gt;In Übersetzungen:&lt;/e0&gt; In den Zieltexten der Segmente suchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15841,8 +15841,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Changed after:</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Geän&amp;dert nach:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T144615Z">
+        <seg>Geändert &amp;nach:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25185,8 +25185,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141408Z" creationid="Michael Motzkus" creationdate="20181022T145112Z">
-        <seg>Zeichen unabhängig von voller / halber Breite</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T141822Z" creationid="Michael Motzkus" creationdate="20181022T145112Z">
+        <seg>Zeichen unabhängig von voller/halber Breite</seg>
       </tuv>
     </tu>
     <tu>
@@ -26302,8 +26302,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Hide Advanced &amp;Options</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T144626Z" creationid="Michael Motzkus" creationdate="20181022T144547Z">
-        <seg>Verstecke fortgeschrittene &amp;Optionen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T141754Z" creationid="Michael Motzkus" creationdate="20181022T144547Z">
+        <seg>Erweiterte &amp;Optionen verstecken</seg>
       </tuv>
     </tu>
     <tu>
@@ -30430,8 +30430,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In notes</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>In No&amp;tizen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T141517Z">
+        <seg>In Notizen</seg>
       </tuv>
     </tu>
     <tu>
@@ -30622,8 +30622,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In so&amp;urce</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T172033Z">
-        <seg>In Quel&amp;ldateien</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T145426Z">
+        <seg>In Quel&amp;ltexten</seg>
       </tuv>
     </tu>
     <tu>
@@ -35903,8 +35903,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Memor&amp;y</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Speicher</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T145112Z">
+        <seg>Speic&amp;her</seg>
       </tuv>
     </tu>
     <tu>
@@ -38494,8 +38494,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="en">
         <seg>Number of matching segments:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T184904Z">
-        <seg>Anzahl gefundener Segmente:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T152018Z">
+        <seg>Trefferanzahl limitieren auf:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44039,8 +44039,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Rekursi&amp;vsuche</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T144807Z">
+        <seg>Rekursivsu&amp;che</seg>
       </tuv>
     </tu>
     <tu>
@@ -45591,8 +45591,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T122827Z" creationid="karsten" creationdate="20150919T122827Z">
-        <seg>L&amp;eerzeichen findet auch geschütztes Leerzeichen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T143356Z" creationid="karsten" creationdate="20150919T122827Z">
+        <seg>Leerzeichen findet nbs&amp;p</seg>
       </tuv>
     </tu>
     <tu>
@@ -47140,8 +47140,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Select Fol&amp;der</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T172415Z">
-        <seg>Or&amp;dner auswählen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T144136Z">
+        <seg>Ordner aus&amp;wählen</seg>
       </tuv>
     </tu>
     <tu>
@@ -48220,8 +48220,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T144600Z" creationid="Michael Motzkus" creationdate="20181022T144535Z">
-        <seg>Zeige fortgeschrittene &amp;Optionen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T141528Z" creationid="Michael Motzkus" creationdate="20181022T144535Z">
+        <seg>Erweiterte &amp;Optionen anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -60369,8 +60369,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T122950Z" creationid="karsten" creationdate="20150919T122950Z">
-        <seg>Über&amp;setzt oder unübersetzt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T143848Z" creationid="karsten" creationdate="20150919T122950Z">
+        <seg>&amp;Übersetzt oder unübersetzt</seg>
       </tuv>
     </tu>
     <tu>
@@ -61005,8 +61005,8 @@ Die exakte Suche verwendet den kompletten Text, um Übereinstimmungen zu finden.
       <tuv lang="en">
         <seg>U&amp;ntranslated</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T122839Z" creationid="karsten" creationdate="20150919T122839Z">
-        <seg>U&amp;nübersetzt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T144444Z" creationid="karsten" creationdate="20150919T122839Z">
+        <seg>&amp;Unübersetzt</seg>
       </tuv>
     </tu>
     <tu>
@@ -67292,8 +67292,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>all matching segments</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Alle &amp;Resultate anzeigen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T142542Z">
+        <seg>Alle Resultate anzeigen</seg>
       </tuv>
     </tu>
     <tu>
