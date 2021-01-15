@@ -2162,8 +2162,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T153418Z">
-        <seg>'*' entspricht Null oder mehr Zeichen, von der momentanen Position in einem gegebenen Wort bis zu seinem Ende.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T133517Z">
+        <seg>'*' findet null oder mehr Zeichen, von der aktuellen Position in einem bestimmten Wort bis zu dessen Ende.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,8 +2194,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>'?' matches any single character.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142429Z">
-        <seg>'?' entspricht einem einzelnen Zeichen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T134019Z">
+        <seg>'?' findet ein beliebiges Zeichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6392,8 +6392,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Space matches nbsp&lt;/e0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T070618Z" creationid="Michael Motzkus" creationdate="20180921T070618Z">
-        <seg>&lt;e0&gt;Leerzeichen findet auch nbsp (geschütztes Leerzeichen)&lt;/e0&gt;: Wenn diese Option aktiviert ist, kann ein Leerzeichen im Sucheintrag entweder mit einem normalen Leerzeichen oder einem geschützten Leerzeichen (\ u00A) übereinstimmen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T141341Z" creationid="Michael Motzkus" creationdate="20180921T070618Z">
+        <seg>&lt;e0&gt;Leerzeichen findet auch geschützte Leerzeichen&lt;/e0&gt;: Wenn aktiviert, findet ein im Suchfeld eingegebenes Leerzeichen sowohl ein normales als auch ein geschütztes Leerzeichen (\u00A).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6664,8 +6664,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T155632Z">
-        <seg>&lt;e0&gt;Groß-/Kleinschreibung&lt;/e0&gt;: die Suche wird nach exakt der angegeben Zeichenfolge durchgeführt; d.h. Großschreibung wird berücksichtigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T140557Z">
+        <seg>&lt;e0&gt;Groß-/Kleinschreibung beachten&lt;/e0&gt;: Es wird genau nach der angegebenen Zeichenfolge gesucht; das heißt, dass die Großschreibung berücksichtigt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21570,16 +21570,16 @@ propagate that work, subject to this License.</seg>
       <tuv lang="en">
         <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T070344Z" creationid="Michael Motzkus" creationdate="20180921T065114Z">
-        <seg>Bearbeiten &gt; Eintrag im Glossar erstellen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): einen neuen Glossareintrag hinzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T132913Z" creationid="Michael Motzkus" creationdate="20180921T065114Z">
+        <seg>Bearbeiten &gt; Glossareintrag erstellen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): Fügt einen neuen Glossareintrag hinzu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T065106Z" creationid="Michael Motzkus" creationdate="20180921T064934Z">
-        <seg>Bearbeiten &gt; Quellsegment einfügen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): aktuelles Quellsegment einfügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T132839Z" creationid="Michael Motzkus" creationdate="20180921T064934Z">
+        <seg>Bearbeiten &gt; Quelle einfügen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): Fügt den Quelltext des aktuellen Segments ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23289,16 +23289,16 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T064904Z" creationid="Michael Motzkus" creationdate="20180921T064904Z">
-        <seg>Datei &gt; Schließen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): Schließt das Suchfenster (auf die gleiche Art wie &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T132704Z" creationid="Michael Motzkus" creationdate="20180921T064904Z">
+        <seg>Datei &gt; Schließen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): Schließt das Suchfenster (auf dieselbe Weise wie &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T064228Z" creationid="Michael Motzkus" creationdate="20180921T064228Z">
-        <seg>Datei &gt; Nach Auswahl suchen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): kehrt zurück zum Suchfeld und markiert seinen ganzen Inhalt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T132620Z" creationid="Michael Motzkus" creationdate="20180921T064228Z">
+        <seg>Datei &gt; Ausgewählten Text suchen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): Setzt den Eingabefokus wieder auf das Suchfeld und markiert dessen gesamten Inhalt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24501,8 +24501,8 @@ sale, or importing the Program or any portion of it.</seg>
       <tuv lang="en">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T153610Z">
-        <seg>&lt;l0&gt;'run?'&lt;/l0&gt; würde zum Beispiel dem Wort &lt;l1&gt;'runs'&lt;/l1&gt; und &lt;l2&gt;'runn'&lt;/l2&gt; im Wort &lt;l3&gt;'running'&lt;/l3&gt; entsprechen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T134329Z">
+        <seg>&lt;l0&gt;'run?'&lt;/l0&gt; beispielsweise würde das Wort &lt;l1&gt;'runs'&lt;/l1&gt; finden, und &lt;l2&gt;'runn'&lt;/l2&gt; im Wort &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30212,8 +30212,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142434Z">
-        <seg>Sowohl in exakten als auch in Stichwort-Suchen, kann man die Jokerzeichen '*' und '?' benutzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T133215Z">
+        <seg>Sowohl bei der exakten Suche als auch bei der Stichwortsuche können die Platzhalterzeichen '*' und '?' verwendet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33410,8 +33410,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Die Stichwort-Suche ist ähnlich wie die Suche "mit allen Wörtern" anhand einer Internet Suchmaschine wie Google (AND Logik).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T135853Z">
+        <seg>Die Stichwortsuche entspricht einer Suche "mit allen Wörtern" in einer Internet-Suchmaschine wie Google (UND-Logik).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37720,8 +37720,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T153810Z">
-        <seg>Bedenken Sie, dass '*' und '?' eine besondere Bedeutung in regulären Ausdrücken haben, daher trifft die Suche mit Jokerzeichen, wie sie hier beschrieben ist, nur auf die exakte und Schlüsselwortsuche (siehe unten).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T134820Z">
+        <seg>Beachten Sie, dass '*' und '?' in regulären Ausdrücken eine besondere Bedeutung haben, darum kann die Platzhaltersuche, wie hier beschrieben, nur für die exakte Suche und die Stichwortsuche verwendet werden (siehe unten).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46324,8 +46324,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Search for segments containing all keywords you specified, in any order.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142444Z">
-        <seg>Suche nach Segmenten, die alle Stichwörter enthalten, unabhängig von der Reihenfolge.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T135432Z">
+        <seg>Suchen Sie nach Segmenten, die alle von Ihnen angegebenen Stichwörter, in beliebiger Reihenfolge, enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46492,8 +46492,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T154224Z">
-        <seg>Die Suche nach &lt;l0&gt;open file&lt;/l0&gt; wird daher alle Vorkommnisse der Zeichenfolge &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt; finden, aber nicht &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; oder &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T135306Z">
+        <seg>Sucht man zum Beispiel nach &lt;l0&gt;open file&lt;/l0&gt;, werden alle Vorkommen der Zeichenkette &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt; gefunden, aber nicht &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; oder &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47428,8 +47428,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T154355Z">
-        <seg>Wählen Sie Stichwortsuche, um nach beliebig vielen einzelnen Vollwörtern, in beliebiger Ordnung, zu suchen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T135613Z">
+        <seg>Wählen Sie die Stichwortsuche, um nach einer beliebigen Anzahl von einzelnen vollständigen Wörtern in beliebiger Reihenfolge zu suchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47508,8 +47508,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Select the method using the radio buttons.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142440Z">
-        <seg>Mit Hilfe der Optionsfelder (radio buttons) die Methode auswählen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T135021Z">
+        <seg>Wählen Sie die Methode mithilfe der Radiobuttons aus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52192,8 +52192,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Search window has its own menus:</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T063330Z" creationid="Michael Motzkus" creationdate="20180921T063330Z">
-        <seg>Das Suchmenü hat seine eigenen Menüs:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T132256Z" creationid="Michael Motzkus" creationdate="20180921T063330Z">
+        <seg>Das Suchfenster hat seine eigenen Menüs:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53478,8 +53478,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The following search methods are available:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T154010Z">
-        <seg>Die folgenden Suchmethoden stehen zur Verfügung:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T135046Z">
+        <seg>Folgende Suchmethoden stehen zur Verfügung:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54138,8 +54138,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The matches will be displayed in bold blue.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143018Z">
-        <seg>Die Treffer werden in fettem Blau dargestellt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T134500Z">
+        <seg>Gefundene Elemente werden in fetter blauer Schrift dargestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55088,8 +55088,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T153506Z">
-        <seg>Der Suchbegriff &lt;l0&gt;'run*'&lt;/l0&gt; würde zum Beispiel den Wörtern &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; und &lt;l3&gt;'running'&lt;/l3&gt; entsprechen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T133617Z">
+        <seg>Der Suchbegriff &lt;l0&gt;'run*'&lt;/l0&gt; beispielsweise würde die Wörter &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; und &lt;l3&gt;'running'&lt;/l3&gt; finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56782,8 +56782,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They have the meaning, familiar to Word users:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T153334Z">
-        <seg>Sie haben die Bedeutung, mit denen Word Benutzer vertraut sind:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T133356Z">
+        <seg>Ihre Bedeutung dürfte den meisten Word-Benutzern vertraut sein:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62693,8 +62693,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T154546Z">
-        <seg>Die Stichwort-Suche mit &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; wird daher alle Vorkommnisse der Zeichenfolge &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;&lt;/e2&gt; sowie &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt; usw. finden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T140230Z">
+        <seg>Sucht man mit der Stichwortsuche zum Beispiel nach &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt;, werden alle Vorkommen der Zeichenkette &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;&lt;/e2&gt; gefunden, einschließlich &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, usw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62781,8 +62781,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Using wild cards</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Verwenden von Jokerzeichen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T133119Z">
+        <seg>Platzhalterzeichen verwenden</seg>
       </tuv>
     </tu>
     <tu>
@@ -69324,8 +69324,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>exact search</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Genaue Suche</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T135051Z">
+        <seg>Exakte Suche</seg>
       </tuv>
     </tu>
     <tu>
@@ -74854,8 +74854,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>regular expressions</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>reguläre Ausdrücke</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T140243Z">
+        <seg>Reguläre Ausdrücke</seg>
       </tuv>
     </tu>
     <tu>
