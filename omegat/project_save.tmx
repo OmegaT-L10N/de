@@ -51499,8 +51499,8 @@ for making modifications to it.</seg>
       <tuv lang="en">
         <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T080304Z">
-        <seg>Der /tm/ Ordner kann eine beliebige Anzahl zusätzlicher translation memories enthalten - das sind tmx Dateien.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T120524Z">
+        <seg>Der /tm/-Ordner kann eine beliebige Anzahl zusätzlicher Translation Memories (TMX-Dateien) enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52827,16 +52827,16 @@ instead.</seg>
       <tuv lang="en">
         <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130513T132604Z">
-        <seg>Die Inhalte des Unterordners target werden den momentanen Stand der Übersetzung widerspiegeln so wie es in der translation memory des Projektes vorhanden ist, die im momentanen &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt; gespeichert wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T115717Z">
+        <seg>Der Inhalt des Unterordners "target" spiegelt den momentanen Stand der Übersetzung wider, analog zum Translation Memory des Projektes, das in &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt; gespeichert ist.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The contents of translation memories in the tm subfolder serve to generate suggestions for the text(s) to be translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T080906Z">
-        <seg>Die Inhalte der translation memories im tm Unterordner dienen dazu, Vorschläge für den zu übersetzenden Text zu erzeugen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T120651Z">
+        <seg>Die Inhalte der Translation Memories im Unterordner "tm" dienen dazu, Vorschläge für den/die zu übersetzenden Text(e) zu generieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61641,8 +61641,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Untranslated segments will hereby remain in the source language.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230352Z">
-        <seg>unübersetzte Segmente werden dabei in der Quellsprache beibehalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T120301Z">
+        <seg>Unübersetzte Segmente werden dabei in der Quellsprache belassen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63926,8 +63926,8 @@ technological measures.</seg>
       <tuv lang="en">
         <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142353Z">
-        <seg>Wenn Sie sich zum folgenden Segment bewegen, wird der erste Fuzzy Match (derjenige mit dem höchsten Prozentsatz an Übereinstimmung) automatisch ausgewählt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T114745Z">
+        <seg>Wenn Sie zum nächsten Segment wechseln, wird automatisch der erste Fuzzy Match (der mit dem höchsten Prozentsatz an Übereinstimmung) ausgewählt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63942,8 +63942,8 @@ technological measures.</seg>
       <tuv lang="en">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T155125Z">
-        <seg>Wenn Sie Ihre Dateien übersetzen, speichert &lt;a2&gt;OmegaT&lt;/a2&gt; Ihren Fortschritt in der Translation Memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; im &lt;l4&gt;/omegat&lt;/l4&gt;-Unterordner Ihres Projekts.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T115015Z">
+        <seg>Wenn Sie Ihre Dateien übersetzen, speichert &lt;a2&gt;OmegaT&lt;/a2&gt; Ihren Fortschritt in die Translation-Memory-Datei &lt;l3&gt;project_save.tmx&lt;/l3&gt;, die sich im &lt;l4&gt;/omegat&lt;/l4&gt;-Unterordner des Projekts befindet.</seg>
       </tuv>
     </tu>
     <tu>
