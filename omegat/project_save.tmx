@@ -2841,7 +2841,7 @@ java.exe.</seg>
 - Marc Prior (project co-ordinator, webmaster)
 - Vito Smolej (documentation manager)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T100734Z" creationid="Ragnar-F" creationdate="20210112T100502Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T232317Z" creationid="Ragnar-F" creationdate="20210112T100502Z">
         <seg>- Anthony Baldwin (Lokalisierungsmanager)
 - Didier Briel (Projektmanager)
 - Alex Buloichik (Hauptentwickler)
@@ -2851,7 +2851,7 @@ java.exe.</seg>
 - Maxym Mykhalchuk (Hauptentwickler)
 - Samuel Murray
 - Henry Pijffers (Release-Manager)
-- Marc Prior (Projekt-Koordinator, Webmaster)
+- Marc Prior (Projektkoordinator, Webmaster)
 - Vito Smolej (Dokumentationsmanager)</seg>
       </tuv>
     </tu>
@@ -4936,8 +4936,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130519T133759Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Tags in RTL Segmenten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T225925Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;-Tags in RTL-Segmenten</seg>
       </tuv>
     </tu>
     <tu>
@@ -5984,8 +5984,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T094738Z">
-        <seg>&lt;e0&gt;Wichtig: &lt;/e0&gt;die unterstützende TMX muss als XX_YY.tmx umbenannt werden, wobei XX_YY die Zielsprache der tmx ist, zum Beispiel ZH_CN.tmx im obigen Beispiel.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230737Z">
+        <seg>&lt;e0&gt;Wichtig: &lt;/e0&gt;die unterstützende TMX muss als XX_YY.tmx umbenannt werden, wobei XX_YY die Zielsprache der TMX-Datei ist, zum Beispiel ZH_CN.tmx im obigen Beispiel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11867,8 +11867,8 @@ the above requirements apply either way.</seg>
       <tuv lang="en">
         <seg>Additionally to one of the methods above you can select the following:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T155458Z">
-        <seg>Zusätzlich zu den obigen Methoden können folgendes auswählen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T232055Z">
+        <seg>Zusätzlich zu den obigen Methoden können Sie Folgendes auswählen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13939,8 +13939,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130519T133825Z">
-        <seg>Wie oben beschrieben, OmegaT Tags sind LTR-Zeichenketten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T225955Z">
+        <seg>Wie bereits erwähnt, handelt es sich bei OmegaT-Tags um LTR-Zeichenketten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19138,16 +19138,16 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Ctrl+Shift+F</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T070043Z" creationid="BVB" creationdate="20180829T070043Z">
-        <seg>Strg-Umschalt+F</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T225141Z" creationid="BVB" creationdate="20180829T070043Z">
+        <seg>Strg+Umschalt+F</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Ctrl+Shift+G</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T070036Z" creationid="BVB" creationdate="20180829T070036Z">
-        <seg>Strg-Umschalt+G</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T225139Z" creationid="BVB" creationdate="20180829T070036Z">
+        <seg>Strg+Umschalt+G</seg>
       </tuv>
     </tu>
     <tu>
@@ -19162,8 +19162,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Ctrl+Shift+M</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073715Z" creationid="BVB" creationdate="20180829T073715Z">
-        <seg>Strg-Umschalt+M</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T225146Z" creationid="BVB" creationdate="20180829T073715Z">
+        <seg>Strg+Umschalt+M</seg>
       </tuv>
     </tu>
     <tu>
@@ -19210,8 +19210,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Ctrl+Shift+S</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073356Z" creationid="BVB" creationdate="20180829T073356Z">
-        <seg>Strg-Umschalt+S</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T225143Z" creationid="BVB" creationdate="20180829T073356Z">
+        <seg>Strg+Umschalt+S</seg>
       </tuv>
     </tu>
     <tu>
@@ -19226,16 +19226,16 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Ctrl+Shift+U</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073432Z" creationid="BVB" creationdate="20180829T073432Z">
-        <seg>Strg-Umschalt+U</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T225145Z" creationid="BVB" creationdate="20180829T073432Z">
+        <seg>Strg+Umschalt+U</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Ctrl+Shift+V</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180829T073729Z" creationid="BVB" creationdate="20180829T073729Z">
-        <seg>Strg-Umschalt+V</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T225411Z" creationid="BVB" creationdate="20180829T073729Z">
+        <seg>Strg+Umschalt+V</seg>
       </tuv>
     </tu>
     <tu>
@@ -22612,8 +22612,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T093543Z" creationid="Ragnar-F" creationdate="20210111T093543Z">
-        <seg>Alle 3 Minuten (Standardeinstellung) wird das lokale Projekt mit dem Remote-Repository synchronisiert, so dass der Projektmanager oder andere Übersetzer die neu hinzugefügten Übersetzungen sehen und verwenden können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231114Z" creationid="Ragnar-F" creationdate="20210111T093543Z">
+        <seg>Alle 3 Minuten (Standardeinstellung) wird das lokale Projekt mit dem Remote-Repository synchronisiert, so dass der Projektmanager oder ein anderer Übersetzer die neu hinzugefügten Übersetzungen sehen und verwenden kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23777,8 +23777,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Follow the indications given in Hints for tags management.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Bitte die Hinweise bezüglich die Tags-Verwaltung berücksichtigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230215Z">
+        <seg>Befolgen Sie die Hinweise bezüglich der Tags-Verwaltung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25033,8 +25033,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Free (compatible) alternatives to Microsoft Office.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180827T070006Z" creationid="BVB" creationdate="20180827T070006Z">
-        <seg>Freie (kompatible) Alternative zu Microsoft Office.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T233154Z" creationid="BVB" creationdate="20180827T070006Z">
+        <seg>Kostenlose (kompatible) Alternativen zu Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27868,8 +27868,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T122529Z">
-        <seg>Wenn ein Teil des Zielsegments gewählt wurde, dann überschriebt die Funktion das gewählte Teil.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231314Z">
+        <seg>Wenn ein Teil des Zielsegments gewählt wurde, dann überschreibt die Funktion das gewählte Teil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28126,8 +28126,8 @@ to choose that version for the Program.</seg>
       <tuv lang="en">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142257Z">
-        <seg>Ist das aktive Segment das erste Segment in der Datei, geht es zum letzte Segment der vorherigen Datei.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231451Z">
+        <seg>Ist das aktive Segment das erste Segment in der Datei, geht es zum letzten Segment der vorherigen Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29445,8 +29445,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T082520Z" creationid="Michael Motzkus" creationdate="20180925T082426Z">
-        <seg>Wenn Sie mit der rechten Maustaste in den Editorbereich klicken, wird ein Kontextmenü angezeigt, das Ihnen die Funktionen &lt;e0&gt; Ausschneiden, Kopieren, Einfügen&lt;/e0&gt; (d. h. die selben Funktionen wie &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Strg&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; und &lt;k7&gt; &lt;k8&gt;Strg&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Gehe zum Segment&lt;/e10&gt; und &lt;e11&gt;Glossareintrag hinzufügen&lt;/e11&gt; anbietet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231641Z" creationid="Michael Motzkus" creationdate="20180925T082426Z">
+        <seg>Wenn Sie mit der rechten Maustaste in den Editorbereich klicken, wird ein Kontextmenü angezeigt, das Ihnen die Funktionen &lt;e0&gt; Ausschneiden, Kopieren, Einfügen&lt;/e0&gt; (d. h. dieselben Funktionen wie &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Strg&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; und &lt;k7&gt; &lt;k8&gt;Strg&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Gehe zum Segment&lt;/e10&gt; und &lt;e11&gt;Glossareintrag hinzufügen&lt;/e11&gt; anbietet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30782,8 +30782,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In the above case, the segments already translated are shown in yellow.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T070659Z">
-        <seg>Im obigen Beispiel werden die schon übersetzten Segmente in gelb angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231541Z">
+        <seg>Im obigen Fall sind die bereits übersetzten Segmente gelb dargestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37768,8 +37768,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T154846Z">
-        <seg>Bedenken Sie, dass alle tmx Dateien in der /tm Repository analysiert werden, wenn das Projekt geöffnet wird, von daher könnte es OmegaT unnötig verlangsamen, wenn sie alle TMs, die Sie habe in diesen Ordner packen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230224Z">
+        <seg>Bedenken Sie, dass alle TMX-Dateien in der /tm Repository analysiert werden, wenn das Projekt geöffnet wird, von daher könnte es OmegaT unnötig verlangsamen, wenn sie alle TMs, die Sie habe in diesen Ordner packen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38840,8 +38840,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181027T141805Z" creationid="BVB" creationdate="20180826T182444Z">
-        <seg>OmegaT &lt;s0&gt;das freie Translation Memory-Werkzeug&lt;/s0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T232712Z" creationid="BVB" creationdate="20180826T182444Z">
+        <seg>OmegaT &lt;s0&gt;das kostenlose Translation-Memory-Tool&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39096,8 +39096,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2).</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T050349Z">
-        <seg>OmegaT exportiert TMX Dateien der Version 1.4 (sowohl Level 1 als auch Level 2).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230244Z">
+        <seg>OmegaT exportiert TMX-Dateien der Version 1.4 (sowohl Level 1 als auch Level 2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39357,8 +39357,8 @@ Projekte.</seg>
       <tuv lang="en">
         <seg>OmegaT is an open-source application and project.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T201523Z" creationid="BVB" creationdate="20180826T201523Z">
-        <seg>OmegaT ist Open-Source-Anwendung und -Projekt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T232838Z" creationid="BVB" creationdate="20180826T201523Z">
+        <seg>OmegaT ist ein Open-Source-Programm und -Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39433,8 +39433,8 @@ Software Foundation veröffentlicht wurde, entweder in Version 3 der Lizenz oder
       <tuv lang="en">
         <seg>OmegaT is open-source software.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T191133Z" creationid="BVB" creationdate="20180826T191133Z">
-        <seg>OmegaT ist Open-Source-Software.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T232720Z" creationid="BVB" creationdate="20180826T191133Z">
+        <seg>OmegaT ist eine Open-Source-Software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39702,8 +39702,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142104Z">
-        <seg>OmegaT unterstützt importierte TMX Dateien der Versionen 1.1-1.4b (beide Level 1 und Level 2).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230229Z">
+        <seg>OmegaT unterstützt importierte TMX-Dateien der Versionen 1.1-1.4b (beide Level 1 und Level 2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40506,16 +40506,16 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180827T065936Z" creationid="BVB" creationdate="20180827T065936Z">
-        <seg>Online-Repositories von Rechtschreibwörterbücher zur Verwendung in OmegaT.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T232906Z" creationid="BVB" creationdate="20180827T065936Z">
+        <seg>Online-Repositories von Rechtschreibwörterbüchern zur Verwendung in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T175428Z">
-        <seg>Nur eine begrenzte Anzahl von Dateiformaten benötigen eine bestimmte Kodierung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T225835Z">
+        <seg>Nur wenige Dateiformate geben eine bestimmte Kodierung vor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45207,8 +45207,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Restores the status before the last editing action was taken.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T121306Z">
-        <seg>Stellt des Status vor der letzten Aktion des Bearbeitens wieder her.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231243Z">
+        <seg>Stellt den Status vor der letzten Aktion des Bearbeitens wieder her.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47692,8 +47692,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143414Z" creationid="Ragnar-F" creationdate="20210108T192247Z">
-        <seg>Wählt den vorherigen, den nächsten oder den Nten gefundenen Match im Fuzzy-Matches-Bereich aus, um ihn in das Segment einzufügen oder um das Segment zu ersetzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231409Z" creationid="Ragnar-F" creationdate="20210108T192247Z">
+        <seg>Wählt den vorherigen, den nächsten oder den n-ten gefundenen Match im Fuzzy-Matches-Bereich aus, um ihn in das Segment einzufügen oder um das Segment zu ersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48744,8 +48744,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142112Z">
-        <seg>Einige Werkzeuge sind dafür bekannt, dass sie unter bestimmten Bedingungen ungültige TMX Dateien erzeugen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230233Z">
+        <seg>Einige Werkzeuge sind dafür bekannt, dass sie unter bestimmten Bedingungen ungültige TMX-Dateien erzeugen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52940,8 +52940,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The dialog allows you to enable or disable the following options:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T140355Z" creationid="Ragnar-F" creationdate="20210109T100505Z">
-        <seg>Diese Kategorie ermöglicht es Ihnen, die folgenden Optionen zu aktivieren oder deaktivieren:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T225502Z" creationid="Ragnar-F" creationdate="20210109T100505Z">
+        <seg>Diese Kategorie ermöglicht es Ihnen, die folgenden Optionen zu aktivieren oder zu deaktivieren:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53878,8 +53878,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155618Z">
-        <seg>Der Level 2-Export ist nicht vollständig konform mit dem Level 2-Standard, kommt diesem aber sehr nahe und erzeugt korrekte Matches in anderen Translation Memory-Tools, die TMX Level 2 unterstützen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230329Z">
+        <seg>Der Level 2-Export ist nicht vollständig konform mit dem Level 2-Standard, kommt diesem aber sehr nahe und erzeugt korrekte Matches in anderen Translation-Memory-Tools, die TMX Level 2 unterstützen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54712,8 +54712,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T080415Z">
-        <seg>Das Projekt im Beispiel ist offensichtlich beendet, da alle einmalige Segmente übersetzt wurden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231702Z">
+        <seg>Das Projekt im Beispiel ist offensichtlich beendet, da alle einmaligen Segmente übersetzt wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57960,8 +57960,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This is useful to run OmegaT on a server with TMX files automatically fed to a project.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T093507Z">
-        <seg>Das ist sinnvoll, wenn OmegaT auf einem Server läuft, wo TMX Dateien automatisch in das Projekt eingespeist werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230318Z">
+        <seg>Das ist sinnvoll, wenn OmegaT auf einem Server läuft, wo TMX-Dateien automatisch in das Projekt eingespeist werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58432,8 +58432,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This subfolder is initially empty.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130513T132013Z">
-        <seg>Dies Unterordner ist anfänglich leer.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231810Z">
+        <seg>Dieser Unterordner ist anfänglich leer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59078,8 +59078,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T211334Z" creationid="BVB" creationdate="20180826T093929Z">
-        <seg>Um herauszufinden, welche version der JRE, oder überhaupt eine, auf Ihrem Linux-System installiert ist, öffnen Sie eine Konsole (Befehlszeilenfenster) und schreiben Sie:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T232548Z" creationid="BVB" creationdate="20180826T093929Z">
+        <seg>Um herauszufinden, welche Version der JRE, falls vorhanden, auf Ihrem Linux-System installiert ist, öffnen Sie eine Konsole (Befehlszeilenfenster) und schreiben Sie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -76333,8 +76333,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>the total number of translatable files in the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T090620Z" creationid="Michael Motzkus" creationdate="20180925T090620Z">
-        <seg>Die gesamte Anzahl aller übersetzbarer Dateien in dem Projekt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231939Z" creationid="Michael Motzkus" creationdate="20180925T090620Z">
+        <seg>Die Gesamtzahl aller übersetzbaren Dateien im Projekt.</seg>
       </tuv>
     </tu>
     <tu>
