@@ -19780,8 +19780,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230242Z">
-        <seg>Abhängig von Ihrem bevorzugten Editier-Verhalten kann das Editierfeld des unübersetzten Segments leer sein, den Quellext oder die Übersetzung beinhalten, deren Zeichenfolge dem gerade zu übersetzenden Teil am ähnlichsten ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T103625Z">
+        <seg>Abhängig von Ihrem bevorzugten Editierverhalten kann das Editierfeld des unübersetzten Segments leer sein, den Quelltext enthalten, oder die Übersetzung eines Quelltextes enthalten, der dem zu übersetzenden am ähnlichsten ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29526,8 +29526,8 @@ folgt starten können:</seg>
       <tuv lang="en">
         <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T072136Z">
-        <seg>Wenn Sie wollen, dass die Übersetzung der Quelle entspricht, dann leeren Sie einfach das Editierfeld durch das Entfernen des gesamten Textes (wählen Sie alles mit &lt;k0&gt;Strg+A&lt;/k0&gt; und löschen Sie mit &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T104312Z">
+        <seg>Soll die Übersetzung identisch mit dem Quelltext sein, machen Sie einfach das Editierfeld leer, indem Sie den gesamten Text entfernen (alles mit &lt;k0&gt;Strg+A&lt;/k0&gt; markieren und mit &lt;k1&gt;Entf&lt;/k1&gt; löschen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53332,8 +53332,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T161933Z">
-        <seg>Das erste ist die Verknüpfung für &lt;g0&gt;Open Project&lt;/g0&gt;, das zweite für &lt;g1&gt;Glossareintrag erstellen&lt;/g1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T102301Z">
+        <seg>Das erste ist das Tastenkürzel für &lt;g0&gt;Projekt öffnen&lt;/g0&gt;, das zweite ist für &lt;g1&gt;Glossareintrag erstellen&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54130,8 +54130,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143530Z">
-        <seg>Der Fuzzy-Matches-Bereich zeigt die ähnlichsten Segmente aus den translation memories an, sowohl aus internen Projekt-TMs, die in Echtzeit erstellt werden, während Sie die Übersetzung anfertigen, als auch von zusätzlichen TMs, die Sie aus früheren Jobs importiert haben oder von Ihrem Kunden oder Übersetzungsagentur erhalten haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T114521Z">
+        <seg>Der Fuzzy-Matches-Viewer zeigt Segmente aus Translation Memories (TMs) an, die dem aktiven Segment im Editorbereich am ähnlichsten sind. Dabei handelt es sich sowohl um das projektinterne TM, das in Echtzeit erstellt wird, während Sie Ihr Projekt übersetzen, als auch um Neben-TMs, die Sie aus Ihren früheren Aufträgen importiert oder von Ihrem Auftraggeber oder Übersetzungsbüro erhalten haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55900,8 +55900,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T180643Z" creationid="Ragnar-F" creationdate="20210111T180643Z">
-        <seg>Der obere Teil ist die Quellsprache, die in fetter Schrift mit grünem Hintergrund dargestellt wird. Der untere Teil ist das Editierfeld, das mit einer Markierung in Form von &lt;l0&gt;&lt;Segment nnnn&gt;&lt;/l0&gt; endet, wobei nnnn die Nummer des Segments im Projekt ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T101853Z" creationid="Ragnar-F" creationdate="20210111T180643Z">
+        <seg>Der obere Teil ist die Quellsprache, die in fetter Schrift mit grünem Hintergrund dargestellt wird. Der untere Teil ist das Editierfeld, das mit einem Marker in Form von &lt;l0&gt;&lt;Segment nnnn&gt;&lt;/l0&gt; endet, wobei nnnn die Nummer des Segments im Projekt ist.</seg>
       </tuv>
     </tu>
     <tu>
