@@ -6320,16 +6320,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Search in Files: &lt;/e0&gt;search in a single file or a folder containing a set of files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T072422Z" creationid="Michael Motzkus" creationdate="20180921T072422Z">
-        <seg>&lt;e0&gt;Suche in Dateien: &lt;/e0&gt;sucht in einer einzigen Datei oder in einem Ordner, der eine Reihe von Dateien enthält.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T190725Z" creationid="Michael Motzkus" creationdate="20180921T072422Z">
+        <seg>&lt;e0&gt;Suche in Dateien:&lt;/e0&gt; In einer einzelnen Datei oder einem Ordner, der einen Satz von Dateien enthält, suchen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T072253Z" creationid="Michael Motzkus" creationdate="20180921T072024Z">
-        <seg>&lt;e0&gt;Suchen in Projekt&lt;/e0&gt;: wählen Sie &lt;e1&gt;Speicher&lt;/e1&gt;, um den Projektspeicher (Datei project_save.tmx) in die Suche einzubeziehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T190456Z" creationid="Michael Motzkus" creationdate="20180921T072024Z">
+        <seg>&lt;e0&gt;Suche in Projekt:&lt;/e0&gt; Aktivieren Sie &lt;e1&gt;Speicher&lt;/e1&gt;, um das Translation Memory des Projekts (die Datei project_save.tmx) in die Suche einzubeziehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16034,16 +16034,16 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183930Z" creationid="Michael Motzkus" creationdate="20180921T072128Z">
-        <seg>Wählen Sie &lt;e2&gt;TMs&lt;/e2&gt;, um die Translation Memories im &lt;f3&gt;tm&lt;/f3&gt;-Ordner in die Suche einzubeziehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T190305Z" creationid="Michael Motzkus" creationdate="20180921T072128Z">
+        <seg>Aktivieren Sie &lt;e2&gt;TMs&lt;/e2&gt;, um die Translation Memories im &lt;f3&gt;tm&lt;/f3&gt;-Ordner in die Suche einzubeziehen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Check &lt;e4&gt;Glossaries&lt;/e4&gt; to include the glossaries located in the &lt;f5&gt;glossary&lt;/f5&gt; folder in the search.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T072239Z" creationid="Michael Motzkus" creationdate="20180921T072239Z">
-        <seg>Wählen Sie &lt;e4&gt;Glossare&lt;/e4&gt;, um die Glossare im &lt;f5&gt;glossary&lt;/f5&gt;-Ordner in die Suche einzubeziehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T190446Z" creationid="Michael Motzkus" creationdate="20180921T072239Z">
+        <seg>Aktivieren Sie &lt;e4&gt;Glossare&lt;/e4&gt;, um die Glossare im &lt;f5&gt;glossary&lt;/f5&gt;-Ordner in die Suche einzubeziehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17538,8 +17538,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="en">
         <seg>Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T153105Z">
-        <seg>Folglich, obwohl OmegaT durchaus in der Lage ist, mit &lt;f1&gt; tmx&lt;/f1&gt; Dateien umzugehen, wird es sie nicht in der Suche in Dateien einschließen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T191112Z">
+        <seg>Obwohl OmegaT also durchaus in der Lage ist, mit &lt;f1&gt;TMX&lt;/f1&gt;-Dateien umzugehen, werden diese nicht in die Suche nach Dateien einbezogen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20952,8 +20952,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;e0&gt;Auto-sync with Editor&lt;/e0&gt; option is checked).</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T075516Z" creationid="Michael Motzkus" creationdate="20180921T075251Z">
-        <seg>Ein Doppelklick auf ein Segment öffnet es zur Bearbeitung im Editor (ein Einzeltklick macht es, wenn die Option &lt;e0&gt;Automatische Synchronisierung mit Editorfenster&lt;/e0&gt; ausgewählt ist).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T195618Z" creationid="Michael Motzkus" creationdate="20180921T075251Z">
+        <seg>Doppelklicken Sie auf ein Segment, um es im Editor für die Bearbeitung zu öffnen (ein einziger Klick genügt, wenn die Option &lt;e0&gt;Mit dem Editor auto-synchronisieren&lt;/e0&gt; aktiviert ist).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21570,24 +21570,24 @@ propagate that work, subject to this License.</seg>
       <tuv lang="en">
         <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T132913Z" creationid="Michael Motzkus" creationdate="20180921T065114Z">
-        <seg>Bearbeiten &gt; Glossareintrag erstellen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): Fügt einen neuen Glossareintrag hinzu.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T185715Z" creationid="Michael Motzkus" creationdate="20180921T065114Z">
+        <seg>Bearbeiten &gt; Glossareintrag erstellen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): Einen neuen Glossareintrag hinzufügen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T132839Z" creationid="Michael Motzkus" creationdate="20180921T064934Z">
-        <seg>Bearbeiten &gt; Quelle einfügen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): Fügt den Quelltext des aktuellen Segments ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T185518Z" creationid="Michael Motzkus" creationdate="20180921T064934Z">
+        <seg>Bearbeiten &gt; Quelle einfügen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): Quelltext des aktuellen Segments einfügen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T065340Z" creationid="Michael Motzkus" creationdate="20180921T065011Z">
-        <seg>Bearbeiten &gt; Durch Quellsegment ersetzen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): mit der aktuellen Segmentquelle ersetzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T185455Z" creationid="Michael Motzkus" creationdate="20180921T065011Z">
+        <seg>Bearbeiten &gt; Mit Quelle ersetzen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): Mit dem Quelltext des aktuellen Segments ersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23289,16 +23289,16 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T132704Z" creationid="Michael Motzkus" creationdate="20180921T064904Z">
-        <seg>Datei &gt; Schließen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): Schließt das Suchfenster (auf dieselbe Weise wie &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T185529Z" creationid="Michael Motzkus" creationdate="20180921T064904Z">
+        <seg>Datei &gt; Schließen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): Das Suchfenster schließen (auf dieselbe Weise wie &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T132620Z" creationid="Michael Motzkus" creationdate="20180921T064228Z">
-        <seg>Datei &gt; Ausgewählten Text suchen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): Setzt den Eingabefokus wieder auf das Suchfeld und markiert dessen gesamten Inhalt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T185642Z" creationid="Michael Motzkus" creationdate="20180921T064228Z">
+        <seg>Datei &gt; Ausgewählten Text suchen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): Den Eingabefokus auf das Suchfeld setzen und dessen gesamten Inhalt markieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28963,8 +28963,8 @@ not convey it at all.</seg>
       <tuv lang="en">
         <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T073105Z" creationid="Michael Motzkus" creationdate="20180921T073105Z">
-        <seg>Wenn Sie auf die Schaltfläche &lt;g0&gt;Erweiterte Optionen&lt;/g0&gt; klicken, können zusätzliche Kriterien (Autor oder Überarbeiter, Datum der Übersetzung, Ausschluss von verwaisten Segmenten) ausgewählt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T191630Z" creationid="Michael Motzkus" creationdate="20180921T073105Z">
+        <seg>Wenn Sie auf die Schaltfläche &lt;g0&gt;Erweiterte Optionen&lt;/g0&gt; klicken, können zusätzliche Kriterien (Autor bzw. Übersetzer, Übersetzungsdatum, verwaiste Segmente ausschließen, usw.) aktiviert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63432,12 +63432,11 @@ any other work released this way by its authors.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>untranslated in OmegaT 4.1.5_1 :: de</note>
       <tuv lang="en">
         <seg>When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T074818Z" creationid="Michael Motzkus" creationdate="20180921T074818Z">
-        <seg>Wenn die Option&lt;e1&gt;Full/Half width char insensitive (Zeichen unabhängig von voller / halber Breite)&lt;/e1&gt; ausgewählt ist, finden Suchen nach Zeichen mit voller Breite (CJK-Zeichen - chinesische, japanische, koreanische Zeichen) auch Zeichen mit halber Breiter und umgekehrt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T194128Z" creationid="Michael Motzkus" creationdate="20180921T074818Z">
+        <seg>Wenn die Option &lt;e1&gt;Zeichen unabhängig von voller/halber Breite)&lt;/e1&gt; aktiviert ist, werden bei der Suche nach vollbreiten Formen (chinesische, japanische und koreanische Schriftzeichen) auch halbbreite Zeichen gefunden und umgekehrt.</seg>
       </tuv>
     </tu>
     <tu>
