@@ -3717,9 +3717,9 @@ Translated to singular.</note>
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T131043Z" creationid="Michael Motzkus" creationdate="20181018T131043Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T122620Z" creationid="Michael Motzkus" creationdate="20181018T131043Z">
         <seg>--pseudotranslatetype=[equal|empty]
-		Womit die pseudoübersetzte TMX ausgefüllt werden soll.</seg>
+		Womit die pseudoübersetzte TMX gefüllt werden soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3798,9 +3798,10 @@ Translated to singular.</note>
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T161417Z" creationid="Michael Motzkus" creationdate="20181018T130224Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T121324Z" creationid="Michael Motzkus" creationdate="20181018T130224Z">
         <seg>--tag-validation=[abort|warn]
-		Tag-Validierung.</seg>
+		Tags validieren.
+		</seg>
       </tuv>
     </tu>
     <tu>
@@ -11379,8 +11380,8 @@ included in conveying the object code work.</seg>
       <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T130317Z" creationid="Michael Motzkus" creationdate="20181018T130317Z">
-        <seg>Abbruch: Mit Fehler beenden, wenn Tags ungültig sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T121320Z" creationid="Michael Motzkus" creationdate="20181018T130317Z">
+        <seg>Abort: Mit einem Fehler beenden, wenn Tags ungültig sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17222,10 +17223,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
 	-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T131309Z" creationid="Michael Motzkus" creationdate="20181018T131309Z">
-        <seg>Kommandos:
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T122748Z" creationid="Michael Motzkus" creationdate="20181018T131309Z">
+        <seg>Befehle:
 	-h, --help
-		Informationen zur Benutzung anzeigen.</seg>
+		Informationen zur Verwendung anzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17578,10 +17579,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T161640Z" creationid="Michael Motzkus" creationdate="20181018T131111Z">
-        <seg>Console-align mode:
-	--alignDir=&lt;path&gt;
-		Verzeichnis der übersetzten Dateien.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T122718Z" creationid="Michael Motzkus" creationdate="20181018T131111Z">
+        <seg>Console-align-Modus:
+	--alignDir=&lt;Pfad&gt;
+		Ein Verzeichnis, das die übersetzten Dateien enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17590,9 +17591,9 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T130952Z" creationid="Michael Motzkus" creationdate="20181018T130952Z">
-        <seg>Console-pseudotranslatetmx mode:
-	--pseudotranslatetmx=&lt;path&gt;
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T122553Z" creationid="Michael Motzkus" creationdate="20181018T130952Z">
+        <seg>Console-pseudotranslatetmx-Modus:
+	--pseudotranslatetmx=&lt;Pfad&gt;
 		Speicherort der pseudoübersetzten TMX-Datei.</seg>
       </tuv>
     </tu>
@@ -17602,10 +17603,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T161519Z" creationid="Michael Motzkus" creationdate="20181018T130622Z">
-        <seg>Console-translate mode:
-	--source-pattern=&lt;pattern&gt;
-		RegEx-Liste der Quelldateien, die bearbeitet werden sollen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T122436Z" creationid="Michael Motzkus" creationdate="20181018T130622Z">
+        <seg>Console-translate-Modus:
+	--source-pattern=&lt;Muster&gt;
+		Eine RegEx-Whitelist der zu verarbeitenden Quelldateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27639,9 +27640,9 @@ excuse you from the conditions of this License.</seg>
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T161751Z" creationid="Michael Motzkus" creationdate="20181018T132724Z">
-        <seg>Wenn in einem Git Working Tree oder SVN Checkout aufgerufen, werden die 
-		Ergebnisse hinzugefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T124231Z" creationid="Michael Motzkus" creationdate="20181018T132724Z">
+        <seg>		Wenn der Befehl in einem Git Working Tree oder SVN Checkout
+		aufgerufen wird, werden die Ergebnisse bereitgestellt/hinzugefügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31367,8 +31368,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T132803Z" creationid="Michael Motzkus" creationdate="20181018T132803Z">
-        <seg>Angelegtes {0}-{1} Teamprojekt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T124459Z" creationid="Michael Motzkus" creationdate="20181018T132803Z">
+        <seg>{0}-{1}-Teamprojekt initialisiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42064,10 +42065,10 @@ Vanishing like mist</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T134342Z" creationid="Michael Motzkus" creationdate="20181018T134342Z">
-        <seg>Speichern Sie Quelldateien in ./source zusätzliches
-Material in ./tm, ./glossary, und ./dictionary wie benötigt, Übertragen
-Sie dann alles.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T125411Z" creationid="Michael Motzkus" creationdate="20181018T134342Z">
+        <seg>Platzieren Sie die Quelldateien in ./source und
+den Rest nach Bedarf in ./tm, ./glossary und ./dictionary, und
+committen Sie dann alles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45181,8 +45182,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T153607Z">
-        <seg>Standards &amp;wiederherstellen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T131935Z">
+        <seg>Standardwerte &amp;wiederherstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -61799,8 +61800,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T131213Z" creationid="Michael Motzkus" creationdate="20181018T131213Z">
-        <seg>Benutzung: java -jar OmegaT.jar team &lt;Kommando&gt; [&lt;Optionen&gt;]]</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T122728Z" creationid="Michael Motzkus" creationdate="20181018T131213Z">
+        <seg>Verwendung: java -jar OmegaT.jar team &lt;Befehl&gt; [&lt;Optionen&gt;]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -63203,8 +63204,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T130353Z" creationid="Michael Motzkus" creationdate="20181018T130353Z">
-        <seg>Warnen: Ungültige Tags auf Standardausgabe anzeigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T121445Z" creationid="Michael Motzkus" creationdate="20181018T130353Z">
+        <seg>Warn: Ungültige Tags auf stdout melden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71402,9 +71403,10 @@ create its configuration folder.</seg>
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T131609Z" creationid="Michael Motzkus" creationdate="20181018T131609Z">
-        <seg>init &lt;source language&gt; &lt;target language&gt;
-		Minimales Teamprojekt mit den angegebenen Sprachen initialisieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T122900Z" creationid="Michael Motzkus" creationdate="20181018T131609Z">
+        <seg>init &lt;Quellsprache&gt; &lt;Zielsprache&gt;
+		Ein minimales Teamprojekt mit den angegebenen Sprachen
+		initialisieren.</seg>
       </tuv>
     </tu>
     <tu>
