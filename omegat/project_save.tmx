@@ -736,8 +736,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T130121Z">
-        <seg>&amp;Über...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T221501Z">
+        <seg>Üb&amp;er...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21922,8 +21922,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T143148Z" creationid="Michael Motzkus" creationdate="20181022T143145Z">
-        <seg>Aktivieren Sie sie unter &lt;b&gt;Optionen &gt; Speichern und Ausgabe...&lt;/b&gt;.&lt;/html&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T220600Z" creationid="Michael Motzkus" creationdate="20181022T143145Z">
+        <seg>Aktivieren Sie sie unter &lt;b&gt;Optionen &gt; Einstellungen &gt; Speichern und Ausgabe...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22186,8 +22186,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Segmentnummer eingeben:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T222934Z">
+        <seg>Geben Sie eine Segmentnummer ein:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23164,8 +23164,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T161402Z">
-        <seg>Die Projektdateien konnten nicht erstellt werden!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T221755Z">
+        <seg>Projektdateien konnten nicht kompiliert werden!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23188,8 +23188,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T161354Z">
-        <seg>Das ausgewählte Projekt konnte nicht geladen werden!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T221806Z">
+        <seg>Das angegebene Projekt konnte nicht geladen werden!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23204,8 +23204,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to update project properties</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T140747Z" creationid="Michael Motzkus" creationdate="20181022T140747Z">
-        <seg>Update der Projekteigenschaften fehlgeschlagen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T221928Z" creationid="Michael Motzkus" creationdate="20181022T140747Z">
+        <seg>Aktualisierung der Projekteigenschaften fehlgeschlagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -23452,8 +23452,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T101849Z" creationid="karsten" creationdate="20150919T101624Z">
-        <seg>Datei: einmalige übersetzt % (einmalige verbleibend) / Projekt: einmalige übersetzt % (einmalige verbleibend), Segmente gesamt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T223922Z" creationid="karsten" creationdate="20150919T101624Z">
+        <seg>Datei: einmalig übersetzt % (einmalig verbleibend) / Projekt: einmalig übersetzt % (einmalige verbleibend), Gesamtzahl der Segmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -30449,8 +30449,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T161148Z">
-        <seg>Damit die Änderungen wirksam werden, muss das Projekt beendet und dann wieder geöffnet werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T221537Z">
+        <seg>Damit die Änderungen wirksam werden, muss das Projekt geschlossen und wieder geöffnet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42681,8 +42681,8 @@ language you would like to translate to.</seg>
       <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T135325Z">
-        <seg>Speichern der Voreinstellungen fehlgeschlagen!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T220943Z">
+        <seg>Speichern der Einstellungen fehlgeschlagen!</seg>
       </tuv>
     </tu>
     <tu>
@@ -43499,8 +43499,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Project saved</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Projekt gespeichert</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T222525Z">
+        <seg>Projekt wurde gespeichert</seg>
       </tuv>
     </tu>
     <tu>
@@ -44716,16 +44716,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Reopen the project now?</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T090326Z">
-        <seg>Möchten Sie das Projekt jetzt wieder öffnen?</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T221614Z">
+        <seg>Möchten Sie das Projekt jetzt neu öffnen?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Reopen the project?</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Projekt erneut öffnen?</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T222521Z">
+        <seg>Projekt neu öffnen?</seg>
       </tuv>
     </tu>
     <tu>
@@ -46054,8 +46054,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Saving project...</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Projekt wird gespeichert...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T222555Z">
+        <seg>Speichere Projekt...</seg>
       </tuv>
     </tu>
     <tu>
@@ -48997,8 +48997,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T141120Z" creationid="Michael Motzkus" creationdate="20181022T140644Z">
-        <seg>Quelldateien committet</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T221857Z" creationid="Michael Motzkus" creationdate="20181022T140644Z">
+        <seg>Quelldateien wurden committet</seg>
       </tuv>
     </tu>
     <tu>
@@ -50741,8 +50741,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T141207Z" creationid="Michael Motzkus" creationdate="20181022T140703Z">
-        <seg>Zieldateien committet</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T221902Z" creationid="Michael Motzkus" creationdate="20181022T140703Z">
+        <seg>Zieldateien wurden committet</seg>
       </tuv>
     </tu>
     <tu>
@@ -66387,8 +66387,8 @@ Methoden zu lösen:</seg>
       <tuv lang="en">
         <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Sie müssen eine Zahl zwischen 1 und {0} eingeben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T222452Z">
+        <seg>Sie müssen eine Nummer zwischen 1 und {0} eingeben.</seg>
       </tuv>
     </tu>
     <tu>
