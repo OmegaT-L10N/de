@@ -1696,8 +1696,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Reload</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Erneut &amp;laden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154327Z">
+        <seg>Neu &amp;laden</seg>
       </tuv>
     </tu>
     <tu>
@@ -2364,9 +2364,9 @@ gerne kontaktieren.)</seg>
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T162120Z">
-        <seg>(siehe Liste der unterstützen Dateiformate im Benutzerhandbuch 'Zu übersetzende Dateien' &gt; 'Dateiformate'.)
-Um dem Projekt Dateien hinzuzufügen, klicken Sie auf die Schaltfläche „Dateien in Quellordner kopieren..." im Fenster Projektdateien oder rufen Sie die Funktion aus dem Projekt-Menü auf und wählen die Quelldateien aus, die Sie kopieren möchten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154128Z">
+        <seg>(Im Benutzerhandbuch finden Sie unter "Zu übersetzende Dateien" &gt; "Dateiformate" eine Liste der unterstützten Dateiformate).
+Um Dateien zum Projekt hinzuzufügen, klicken Sie im Fenster "Projektdateien" auf die Schaltfläche "Dateien in Quellordner kopieren..." oder rufen Sie diese Aktion im Menü "Projekt" auf und wählen Sie die Quelldateien aus, die Sie kopieren möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4010,8 +4010,9 @@ Translated to singular.</note>
       <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T154322Z">
-        <seg>1) Verringern Sie die Anzahl der Quelldateien und übersetzen Sie schubweise;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T152159Z">
+        <seg>1) Verringern Sie die Anzahl der Quelldateien und übersetzen Sie
+schubweise;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4133,8 +4134,11 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T154606Z">
-        <seg>2) Vergrößern Sie den Speicherplatz, der für OmegaT zur Verfügung steht, indem Sie einen Wert für "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" in der Befehlszeile oder im OmegaT-Startskript angeben; momentan sind {0}MB angegeben;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T152223Z">
+        <seg>2) Erhöhen Sie den für OmegaT verfügbaren Arbeitsspeicher, indem
+Sie "java -Xmx&lt;Größe-in-MB&gt;M -jar OmegaT.jar" auf der Befehlszeile
+oder im OmegaT-Startskript angeben;
+Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19329,8 +19333,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144147Z">
-        <seg>Derzeitige Speichernutzung durch VM: {0}MB; davon freier Speicherplatz: {1}MB; maximal vorhanden: {2}MB</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T152743Z">
+        <seg>Aktuelle Speichernutzung durch VM: {0}MB; davon freier Speicher: {1}MB; maximal verfügbar: {2}MB</seg>
       </tuv>
     </tu>
     <tu>
@@ -28247,8 +28251,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="en">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T224012Z">
-        <seg>Stehen bei einem Dateiformat Filteroptionen zur Verfügung, können diese durch Klicken auf „Optionen" geändert werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154626Z">
+        <seg>Stehen bei einem Dateiformat Filteroptionen zur Verfügung, können diese durch Klicken auf "Optionen" geändert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31784,8 +31788,9 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130611T234327Z">
-        <seg>Installation und Ausführung von OmegaT" im Benutzerhandbuch.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T152237Z">
+        <seg>Installation und Ausführung von OmegaT" im
+Benutzerhandbuch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39627,8 +39632,9 @@ be launched.</seg>
       <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T151105Z">
-        <seg>Nicht genügend freier Arbeitsspeicher für OmegaT verfügbar. Klicken Sie auf OK, um das Programm zu beenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T152052Z">
+        <seg>Nicht genügend freier Arbeitsspeicher für OmegaT verfügbar.
+Klicken Sie auf OK, um das Programm zu beenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40681,16 +40687,16 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T135919Z" creationid="Michael Motzkus" creationdate="20181018T135919Z">
-        <seg>Bisherige Projekte</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T160856Z" creationid="Michael Motzkus" creationdate="20181018T135919Z">
+        <seg>Zuletzt verwendetes Pro&amp;jekt öffnen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Open Recent Project</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T102626Z" creationid="karsten" creationdate="20150919T102626Z">
-        <seg>Bisherige Projekte</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T160927Z" creationid="karsten" creationdate="20150919T102626Z">
+        <seg>Zuletzt verwendetes Projekt öffnen</seg>
       </tuv>
     </tu>
     <tu>
@@ -43389,8 +43395,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Project is Empty</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Das Projekt ist leer</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154958Z">
+        <seg>Projekt ist leer</seg>
       </tuv>
     </tu>
     <tu>
@@ -45566,8 +45572,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T135647Z" creationid="Michael Motzkus" creationdate="20181018T135647Z">
-        <seg>Wird auf Java {0} ({1}-bit) ausgeführt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T152440Z" creationid="Michael Motzkus" creationdate="20181018T135647Z">
+        <seg>Läuft auf Java {0} ({1}-Bit)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50959,8 +50965,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T234838Z">
-        <seg>Vorlage „Variablen":</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154638Z">
+        <seg>Vorlage "Variablen":</seg>
       </tuv>
     </tu>
     <tu>
@@ -55367,8 +55373,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142603Z">
-        <seg>Das Quellsegment im unten stehenden Beispiel war “&lt;e0&gt;Context menu command&lt;/e0&gt;”, wie in den Fuzzy Matches oben und die Begriffe, die in den Glossaren gefunden wurden, vorhanden bei (Microsoft's Term collection und dem Glossar der slowenischen Linux User group).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154500Z">
+        <seg>Das Quellsegment im unten stehenden Beispiel war "&lt;e0&gt;Context menu command&lt;/e0&gt;", wie in den Fuzzy Matches oben und die Begriffe, die in den Glossaren gefunden wurden, vorhanden bei (Microsoft's Term collection und dem Glossar der slowenischen Linux User group).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59309,8 +59315,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T223840Z">
-        <seg>Um die Kodierung einer Datei zur Bearbeitung durch den Filter zu bestimmen, wählen Sie den entsprechenden Filter aus der Liste aus und klicken Sie auf „Bearbeiten".</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154621Z">
+        <seg>Um die Kodierung einer Datei zur Bearbeitung durch den Filter zu bestimmen, wählen Sie den entsprechenden Filter aus der Liste aus und klicken Sie auf "Bearbeiten".</seg>
       </tuv>
     </tu>
     <tu>
@@ -65488,8 +65494,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T084235Z" creationid="Michael Motzkus" creationdate="20190129T084235Z">
-        <seg>Sie können Einträge im Glossar mit „Glossareintrag erstellen" im Menü „Bearbeiten" anlegen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154651Z" creationid="Michael Motzkus" creationdate="20190129T084235Z">
+        <seg>Sie können Einträge im Glossar mit "Glossareintrag erstellen" im Menü "Bearbeiten" anlegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66062,8 +66068,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T162231Z">
-        <seg>Sie können die Dateien auch mit Ihrem bevorzugten Dateimanager in den Ordner 'source' Ihres Projekts kopieren und dann das Projekt unter Projekt „Neu laden" im Projekt-Menü neu laden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154435Z">
+        <seg>Sie können die Dateien auch mit Ihrem bevorzugten Dateimanager in den "source"-Ordner Ihres Projekts kopieren und das Projekt neu laden, indem Sie "Neu laden" im Menü "Projekt" aufrufen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66364,8 +66370,9 @@ provided under this License.</seg>
       <tuv lang="en">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T151151Z">
-        <seg>Sie können versuchen, dieses Problem mit einer der folgenden Methoden zu lösen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T152103Z">
+        <seg>Sie können versuchen, dieses Problem mit einer der folgenden
+Methoden zu lösen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66626,8 +66633,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenieneumann" changedate="20130531T120436Z">
-        <seg>In Ihrem Projekt sind keine Dateien in einem unterstützten Format enthalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T153837Z">
+        <seg>Ihr Projekt enthält keine Dateien in einem unterstützten Dateiformat.</seg>
       </tuv>
     </tu>
     <tu>
