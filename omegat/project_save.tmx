@@ -3532,11 +3532,12 @@ Translated to singular.</note>
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T124838Z" creationid="Michael Motzkus" creationdate="20181018T124838Z">
-        <seg>--ITokenizer=&lt;classname&gt;
-	--ITokenizerTarget=&lt;classname&gt;
-		Zu benutzender Quell- oder Zielsprachen-Tokenizer 
-		(überschreibt Projekteinstellungen).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T120524Z" creationid="Michael Motzkus" creationdate="20181018T124838Z">
+        <seg>--ITokenizer=&lt;Klassenname&gt;
+	--ITokenizerTarget=&lt;Klassenname&gt;
+		Der zu verwendende Quell- oder Zielsprachen-Tokenizer (über-
+		schreibt Projekteinstellungen).
+		</seg>
       </tuv>
     </tu>
     <tu>
@@ -3592,9 +3593,10 @@ Translated to singular.</note>
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T122506Z" creationid="Michael Motzkus" creationdate="20181018T122506Z">
-        <seg>--config-file=&lt;path&gt;
-		Java .properties-Datei zum Laden der Standardeinstellungen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T114708Z" creationid="Michael Motzkus" creationdate="20181018T122506Z">
+        <seg>--config-file=&lt;Pfad&gt;
+		Eine Java-.properties-Datei, aus der die Standardeinstellungen
+		geladen werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3602,9 +3604,10 @@ Translated to singular.</note>
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T124547Z" creationid="Michael Motzkus" creationdate="20181018T124547Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T115916Z" creationid="Michael Motzkus" creationdate="20181018T124547Z">
         <seg>--disable-location-save
-		Zuletzt geöffnetes Verzeichnis der Dateiauswahl nicht speichern.</seg>
+		Das zuletzt in der Dateiauswahl geöffnete Verzeichnis wird
+		nicht gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3612,9 +3615,9 @@ Translated to singular.</note>
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T161114Z" creationid="Michael Motzkus" creationdate="20181018T122818Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T115855Z" creationid="Michael Motzkus" creationdate="20181018T122818Z">
         <seg>--disable-project-locking
-		Nicht versuchen, die omegat.project-Datei des Projekts zu sperren.</seg>
+		Die omegat.project-Datei des Projekts wird nicht gesperrt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3630,9 +3633,9 @@ Translated to singular.</note>
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T135158Z" creationid="Michael Motzkus" creationdate="20181018T122130Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T114418Z" creationid="Michael Motzkus" creationdate="20181018T122130Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
-		Einen anderen als den Standardmodus (GUI) angeben.</seg>
+		Einen anderen Modus als den GUI-Modus angeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3680,9 +3683,9 @@ Translated to singular.</note>
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T124614Z" creationid="Michael Motzkus" creationdate="20181018T124614Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T115957Z" creationid="Michael Motzkus" creationdate="20181018T124614Z">
         <seg>--no-team
-		Teamprojektfunktionen deaktivieren.</seg>
+		Teamprojekt-Funktionalität deaktivieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3725,10 +3728,10 @@ Translated to singular.</note>
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T160950Z" creationid="Michael Motzkus" creationdate="20181018T121919Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T114208Z" creationid="Michael Motzkus" creationdate="20181018T121919Z">
         <seg>--remote-project
-		Eine omegat.project-Datei von einer URL als &lt;Projekt-
-		pfad&gt; herunterladen und das Projekt laden.</seg>
+		Eine omegat.project-Datei von der in &lt;Projektpfad&gt; angegebenen
+		URL herunterladen und das Projekt laden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3738,11 +3741,13 @@ Translated to singular.</note>
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T122658Z" creationid="Michael Motzkus" creationdate="20181018T122658Z">
-        <seg>--resource-bundle=&lt;path&gt;
-		Java .properties-Datei für den Text der Benutzeroberfläche
-	--config-dir=&lt;path&gt;
-		Verzeichnis zum Laden / Speichern der Konfigurationsdateien.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T115209Z" creationid="Michael Motzkus" creationdate="20181018T122658Z">
+        <seg>--resource-bundle=&lt;Pfad&gt;
+		Eine Java-.properties-Datei, die für den GUI-Text verwendet
+		werden soll.
+	--config-dir=&lt;Pfad&gt;
+		Das Verzeichnis, in dem OmegaT-Konfigurationsdateien gelesen/
+		geschrieben werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3750,9 +3755,10 @@ Translated to singular.</note>
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T130212Z" creationid="Michael Motzkus" creationdate="20181018T130212Z">
-        <seg>--script=&lt;path&gt;
-		Eine Skriptdatei, die bei Projektereignissen ausgeführt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T121158Z" creationid="Michael Motzkus" creationdate="20181018T130212Z">
+        <seg>--script=&lt;Pfad&gt;
+		Eine Skriptdatei, die bei Projektereignissen ausgeführt
+		werden soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,9 +3872,9 @@ Translated to singular.</note>
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T121600Z" creationid="Michael Motzkus" creationdate="20181018T121600Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T113703Z" creationid="Michael Motzkus" creationdate="20181018T121600Z">
         <seg>-h, --help
-		Informationen zur Benutzung anzeigen.</seg>
+		Informationen zur Verwendung anzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32057,8 +32063,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T121517Z" creationid="Michael Motzkus" creationdate="20181018T121517Z">
-        <seg>Rufe Sie für Details `team -h` auf.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T112355Z" creationid="Michael Motzkus" creationdate="20181018T121517Z">
+        <seg>Rufe Sie `team -h` für Details auf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37454,10 +37460,10 @@ measures.</seg>
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T130105Z" creationid="Michael Motzkus" creationdate="20181018T130105Z">
-        <seg>Optionen ohne GUI:
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T121115Z" creationid="Michael Motzkus" creationdate="20181018T130105Z">
+        <seg>Nicht-GUI-Modus-Optionen:
 	--quiet
-		Ausgabe der Kommandozeile reduzieren.</seg>
+		Ausgabe der Befehlszeile reduzieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41199,10 +41205,10 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T160720Z" creationid="Michael Motzkus" creationdate="20181018T115941Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T111927Z" creationid="Michael Motzkus" creationdate="20181018T115941Z">
         <seg>Optionen:
-	Keine: Benutzeroberfläche starten
-	Nur Projektpfad: Benutzeroberfläche starten und angegebenes Projekt laden.
+	Keine: GUI starten
+	Nur Projektpfad: GUI starten und angegebenes Projekt laden.
 	Team
 		Teamprojekt-Tool.</seg>
       </tuv>
@@ -61785,8 +61791,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T115931Z" creationid="Michael Motzkus" creationdate="20181014T141223Z">
-        <seg>Benutzung: java -jar OmegaT.jar [&lt;Optionen&gt;] [&lt;Projektpfad&gt;]</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T111858Z" creationid="Michael Motzkus" creationdate="20181014T141223Z">
+        <seg>Verwendung: java -jar OmegaT.jar [&lt;Optionen&gt;] [&lt;Projektpfad&gt;]</seg>
       </tuv>
     </tu>
     <tu>
