@@ -776,8 +776,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T111900Z">
-        <seg>Leere Übersetzungen in Zieldatei erl&amp;auben</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T194400Z">
+        <seg>Leere Übersetzungen in den Zieldateien erl&amp;auben</seg>
       </tuv>
     </tu>
     <tu>
@@ -22002,8 +22002,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Encountered illegal \u sequence</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T142100Z">
-        <seg>Ungültige \u-Sequenz aufgetreten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T195357Z">
+        <seg>Illegale \u-Sequenz entdeckt</seg>
       </tuv>
     </tu>
     <tu>
@@ -22351,16 +22351,16 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error in file {0}, line {1}</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T142428Z">
-        <seg>Fehler in Datei {0}, Zeile: {1}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T195728Z">
+        <seg>Fehler in Datei {0} Zeile {1}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T141028Z">
-        <seg>Fehler bei der Initialisierung des Markers '{0}'</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T191922Z">
+        <seg>Fehler beim Initialisieren des Markers '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -27075,8 +27075,8 @@ SUCH DAMAGES.</seg>
       <tuv lang="en">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T140641Z" creationid="karsten" creationdate="20150919T140641Z">
-        <seg>Kennung für alternative Übersetzungen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T200418Z" creationid="karsten" creationdate="20150919T140641Z">
+        <seg>Identifikator für alternative Übersetzungen</seg>
       </tuv>
     </tu>
     <tu>
@@ -33031,8 +33031,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T125756Z" creationid="karsten" creationdate="20150919T125756Z">
-        <seg>Jar genutzt für Plugins: {0}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T192048Z" creationid="karsten" creationdate="20150919T125756Z">
+        <seg>Jar für folgende Plugins genutzt: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33383,8 +33383,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>Key=Value Text</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T205409Z">
-        <seg>Schlüssel=Wert</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T195817Z">
+        <seg>Key=Value Text</seg>
       </tuv>
     </tu>
     <tu>
@@ -33647,8 +33647,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T202739Z">
-        <seg>Es ist keine Sprache für die Translation-Unit-Variante definiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T191130Z">
+        <seg>Sprache für Translation-Unit-Variante nicht definiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34668,8 +34668,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Glossar wird geladen...{0}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T191840Z">
+        <seg>Lade Glossar {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -40006,8 +40006,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T130027Z">
-        <seg>OmegaT wird versuchen, die TMX-Datei erneut zu segmentieren...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T191523Z">
+        <seg>OmegaT wird versuchen, die TMX-Datei neu zu segmentieren...</seg>
       </tuv>
     </tu>
     <tu>
@@ -41545,8 +41545,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="en">
         <seg>PDF Input</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T132040Z">
-        <seg>PDF-Eingabe</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T194458Z">
+        <seg>PDF Input</seg>
       </tuv>
     </tu>
     <tu>
@@ -49058,8 +49058,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T202903Z">
-        <seg>Quellsegment konnte nicht für bestimmte Translation Units lokalisiert werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T191159Z">
+        <seg>Quellsegment konnte für bestimmte Translation Units nicht lokalisiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49218,16 +49218,16 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Specify state attribute handling behavior</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T210116Z" creationid="Ragnar-F" creationdate="20210112T150800Z">
-        <seg>Bestimmen Sie das Handling-Verhalten für Zustandsattribute</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T200636Z" creationid="Ragnar-F" creationdate="20210112T150800Z">
+        <seg>Handling-Verhalten für Zustandsattribute bestimmen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T205953Z">
-        <seg>Bestimmen Sie das Tag-Handling-Verhalten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T222251Z">
+        <seg>Tag-Handling-Verhalten bestimmen</seg>
       </tuv>
     </tu>
     <tu>
@@ -50226,8 +50226,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T202928Z">
-        <seg>Die TMX-Datei wurde von OmegaT-Version 1.4.x oder älter erstellt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T191353Z">
+        <seg>Die TMX-Datei wurde von OmegaT 1.4.x oder älter erstellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51882,8 +51882,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T150448Z" creationid="karsten" creationdate="20150919T135248Z">
-        <seg>Der Java-Resource-Bundles-Filter hat folgende Ausnahme ausgelöst:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T195438Z" creationid="karsten" creationdate="20150919T135248Z">
+        <seg>Der Java-Resource-Bundles-Filter hat folgende Exception ausgelöst:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52002,8 +52002,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T150335Z" creationid="Michael Motzkus" creationdate="20190129T073415Z">
-        <seg>Der Moodle-PHP-Filter hat folgende Ausnahme ausgelöst:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T194636Z" creationid="Michael Motzkus" creationdate="20190129T073415Z">
+        <seg>Der Moodle-PHP-Filter hat folgende Exception ausgelöst:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52018,16 +52018,16 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T150321Z" creationid="karsten" creationdate="20150919T133514Z">
-        <seg>Der Mozilla-DTD-Filter hat folgende Ausnahme ausgelöst:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T194657Z" creationid="karsten" creationdate="20150919T133514Z">
+        <seg>Der Mozilla-DTD-Filter hat folgende Exception ausgelöst:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The Mozilla FTL filter threw an exception:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T150232Z" creationid="Ragnar-F" creationdate="20210112T150232Z">
-        <seg>Der Mozilla-FTL-Filter hat folgende Ausnahme ausgelöst:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T194702Z" creationid="Ragnar-F" creationdate="20210112T150232Z">
+        <seg>Der Mozilla-FTL-Filter hat folgende Exception ausgelöst:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52138,8 +52138,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T150406Z">
-        <seg>Der PO-Filter hat folgende Ausnahme ausgelöst:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T194426Z">
+        <seg>Der PO-Filter hat folgende Exception ausgelöst:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52252,8 +52252,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T114333Z">
-        <seg>Die TMX-Quellsprache ({0}) unterscheidet sich von der Quellsprache des Projekts ({1}).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T191316Z">
+        <seg>Die Quellsprache der TMX-Datei ({0}) unterscheidet sich von der Quellsprache des Projekts ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56649,8 +56649,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>These units have been skipped.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141443Z">
-        <seg>Diese Einheiten wurden übersprungen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T191219Z">
+        <seg>Diese Units wurden übersprungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60460,8 +60460,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translate the following elements:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T143347Z">
-        <seg>Übersetzen Sie die folgenden Elemente:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T200335Z">
+        <seg>Folgende Elemente übersetzen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63718,8 +63718,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T141246Z" creationid="karsten" creationdate="20150919T141246Z">
-        <seg>Falls nicht verfügbar, wird die ID als Reserve genutzt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T200511Z" creationid="karsten" creationdate="20150919T141246Z">
+        <seg>Falls nicht verfügbar, wird die ID als Fallback genutzt</seg>
       </tuv>
     </tu>
     <tu>
@@ -64911,8 +64911,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>XML Spreadsheet 2003</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T140246Z" creationid="karsten" creationdate="20150919T140246Z">
-        <seg>Excel 2003 XML</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T195707Z" creationid="karsten" creationdate="20150919T140246Z">
+        <seg>XML Spreadsheet 2003</seg>
       </tuv>
     </tu>
     <tu>
@@ -66598,8 +66598,8 @@ them.</seg>
       <tuv lang="en">
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141455Z">
-        <seg>Im aktuellen Projekt wird die Satzsegmentierung verwendet, die TMX-Datei wurde aber unter Verwendung der absatzweisen Segmentierung erstellt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T191453Z">
+        <seg>Ihr aktuelles Projekt verwendet Satzsegmentierung, aber die TMX-Datei wurde mit Absatzsegmentierung erstellt.</seg>
       </tuv>
     </tu>
     <tu>
