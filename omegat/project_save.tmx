@@ -15636,8 +15636,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T164351Z">
-        <seg>Der Zugriff auf den Glossarordner ist nicht möglich!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T085950Z">
+        <seg>Zugriff auf Glossarordner nicht möglich!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21163,8 +21163,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Downloading project...</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T145835Z" creationid="Michael Motzkus" creationdate="20181022T142001Z">
-        <seg>Projekt wird heruntergeladen...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T084817Z" creationid="Michael Motzkus" creationdate="20181022T142001Z">
+        <seg>Lade Projekt herunter...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22375,8 +22375,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T164910Z">
-        <seg>Bei der Überwachung des externen Befehls ist ein Fehler aufgetreten!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T090345Z">
+        <seg>Fehler beim Überwachen des externen Befehls!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22431,8 +22431,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error starting external command: {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T164546Z">
-        <seg>Beim Starten des externen Befehls ist folgender Fehler aufgetreten: {0}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T090057Z">
+        <seg>Fehler beim Starten des externen Befehls: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22844,8 +22844,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Executing external command...</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T164650Z">
-        <seg>Externer Befehl wird ausgeführt...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T090023Z">
+        <seg>Führe externen Befehl aus...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22876,8 +22876,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Exit code: {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130715T180602Z">
-        <seg>Exitcode {0}: ""</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T090124Z">
+        <seg>Exitcode: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23028,8 +23028,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>External command completed.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T164638Z">
-        <seg>Externer Befehl wurde ausgeführt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T090148Z">
+        <seg>Externer Befehl wurde erfolgreich ausgeführt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23228,8 +23228,9 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141347Z">
-        <seg>Schwerwiegender Fehler - das Projekt wird mit der Dateiendung '.recover' gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T085407Z">
+        <seg>Fataler Fehler aufgetreten - Speichere die Projektdatei mit der
+Backup-Dateiendung '.recover'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23772,8 +23773,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T142109Z" creationid="Michael Motzkus" creationdate="20181022T142109Z">
-        <seg>Ordner {0} wurde automatisch für Teamprojekt erstellt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T085624Z" creationid="Michael Motzkus" creationdate="20181022T142109Z">
+        <seg>Ordner {0} wurde automatisch für das Teamprojekt erstellt</seg>
       </tuv>
     </tu>
     <tu>
@@ -31893,8 +31894,8 @@ Benutzerhandbuch.</seg>
       <tuv lang="en">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T142230Z" creationid="Michael Motzkus" creationdate="20181022T142230Z">
-        <seg>Ungenügende Rechte für Projektverzeichnis {0}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T085833Z" creationid="Michael Motzkus" creationdate="20181022T142230Z">
+        <seg>Ungenügende Zugriffsrechte für Projektverzeichnis {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -34659,8 +34660,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Loading glossaries</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Glossare werden geladen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T084853Z">
+        <seg>Lade Glossare</seg>
       </tuv>
     </tu>
     <tu>
@@ -34675,8 +34676,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Projekt wird geladen...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T084826Z">
+        <seg>Lade Projekt...</seg>
       </tuv>
     </tu>
     <tu>
@@ -42196,8 +42197,12 @@ Sie es.</seg>
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130701T163953Z">
-        <seg>Bitte lesen Sie im Handbuch über die Wiederherstellungsoptionen und senden Sie die nachfolgende Information mit einer Beschreibung, wie es zum Fehler gekommen ist, an den Softwarehersteller.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T085609Z">
+        <seg>Bitte informieren Sie sich in der Dokumentation über die
+Möglichkeiten, wie Sie das Projekt wiederherstellen können,
+und senden Sie die unten stehenden Informationen mit einer
+Beschreibung, wie dieser Fehler entstanden ist, an den
+Softwarehersteller.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43227,8 +43232,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T141025Z" creationid="Michael Motzkus" creationdate="20181022T141025Z">
-        <seg>Projektdateien ({0} von {1})</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T084419Z" creationid="Michael Motzkus" creationdate="20181022T141025Z">
+        <seg>Projektdateien ({0} von insgesamt {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -44740,8 +44745,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T103152Z" creationid="karsten" creationdate="20150919T103152Z">
-        <seg>Wiederholungen von anderen Dateien:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T091250Z" creationid="karsten" creationdate="20150919T103152Z">
+        <seg>Wiederholungen aus anderen Dateien:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48973,8 +48978,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130604T222651Z">
-        <seg>Quelldatei vollständig geladen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T085727Z">
+        <seg>Quelldatei wurde vollständig geladen</seg>
       </tuv>
     </tu>
     <tu>
@@ -60518,16 +60523,16 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translated document created</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T141947Z" creationid="karsten" creationdate="20150919T102721Z">
-        <seg>Übersetztes Dokument erstellt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T085820Z" creationid="karsten" creationdate="20150919T102721Z">
+        <seg>Übersetztes Dokument wurde erstellt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Translated documents created</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T141928Z">
-        <seg>Übersetzte Dokumente erstellt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T085731Z">
+        <seg>Übersetzte Dokumente wurden erstellt</seg>
       </tuv>
     </tu>
     <tu>
