@@ -1320,8 +1320,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T105045Z" creationid="Michael Motzkus" creationdate="20190129T074728Z">
-        <seg>Dateikontext beim Identifizieren von Segmenten mit Alternativübersetzungen &amp;ignorieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T121052Z" creationid="Michael Motzkus" creationdate="20190129T074728Z">
+        <seg>D&amp;ateikontext beim Identifizieren von Segmenten mit Alternativübersetzungen ignorieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -17469,8 +17469,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="en">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141530Z">
-        <seg>Bestätigen Sie das Löschen des Musters {0}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T114038Z">
+        <seg>Wollen Sie das Muster {0} wirklich entfernen?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21661,8 +21661,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="en">
         <seg>Edit Pattern</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T223553Z">
-        <seg>Muster</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T121322Z">
+        <seg>Muster bearbeiten</seg>
       </tuv>
     </tu>
     <tu>
@@ -22743,8 +22743,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Exception occurred:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T151511Z">
-        <seg>Ausnahmefehler:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T114303Z">
+        <seg>Exception aufgetreten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23293,8 +23293,8 @@ Backup-Dateiendung '.recover'.</seg>
       <tuv lang="en">
         <seg>File &amp;Format</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T151821Z">
-        <seg>Datei &amp;Format</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T114419Z">
+        <seg>Datei&amp;format</seg>
       </tuv>
     </tu>
     <tu>
@@ -26282,8 +26282,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212029Z">
-        <seg>Hier können Sie die Quelldateinamensmuster der Dateien festlegen, die der Filter verarbeiten soll, die Dateinamen der übersetzten Dateien anpassen und auswählen, welche Kodierung er für das Laden der Datei und das Speichern ihres übersetzten Counterparts verwenden soll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T114701Z">
+        <seg>Hier können Sie die Quelldateinamensmuster der Dateien festlegen, die der Filter verarbeiten soll, die Dateinamen der übersetzten Dateien anpassen, und auswählen, welche Kodierung der Filter zum Laden der Quelldatei und Speichern der Zieldatei verwenden soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28252,8 +28252,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="en">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154626Z">
-        <seg>Stehen bei einem Dateiformat Filteroptionen zur Verfügung, können diese durch Klicken auf "Optionen" geändert werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T120143Z">
+        <seg>Wenn der Filter über Optionen verfügt, können Sie diese durch Klicken auf "Optionen" ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38213,8 +38213,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212054Z">
-        <seg>Hinweis: Sie können nicht bei allen Filtern eine Kodierung auswählen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T114836Z">
+        <seg>Hinweis: Nicht alle Filter erlauben die Auswahl einer Kodierung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42736,8 +42736,8 @@ language you would like to translate to.</seg>
       <tuv lang="en">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T141036Z" creationid="Michael Motzkus" creationdate="20190129T074613Z">
-        <seg>Leerräume für alle Tags &amp;beibehalten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T121118Z" creationid="Michael Motzkus" creationdate="20190129T074613Z">
+        <seg>&amp;Leerräume für alle Tags beibehalten</seg>
       </tuv>
     </tu>
     <tu>
@@ -44609,8 +44609,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212222Z" creationid="Michael Motzkus" creationdate="20190129T074527Z">
-        <seg>Führende und nachfolgende Leerräume in u&amp;nsegmentierten Projekten entfernen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T121038Z" creationid="Michael Motzkus" creationdate="20190129T074527Z">
+        <seg>&amp;Führende und nachfolgende Leerräume in unsegmentierten Projekten entfernen</seg>
       </tuv>
     </tu>
     <tu>
@@ -44665,8 +44665,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove pattern?</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Muster löschen?</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T114234Z">
+        <seg>Muster entfernen</seg>
       </tuv>
     </tu>
     <tu>
@@ -59321,8 +59321,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154621Z">
-        <seg>Um die Kodierung einer Datei zur Bearbeitung durch den Filter zu bestimmen, wählen Sie den entsprechenden Filter aus der Liste aus und klicken Sie auf "Bearbeiten".</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T115326Z">
+        <seg>Um zu bestimmen, welche Dateien in welchen Kodierungen der Filter verarbeiten soll, wählen Sie den Filter in der Liste aus und klicken Sie auf "Bearbeiten".</seg>
       </tuv>
     </tu>
     <tu>
@@ -63104,8 +63104,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>View or edit file filters.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T223809Z">
-        <seg>Hier können die Dateifilter angezeigt bzw. bearbeitet werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T115024Z">
+        <seg>Hier können Sie alle verfügbaren Dateifilter sehen und ggf. bearbeiten.</seg>
       </tuv>
     </tu>
     <tu>
