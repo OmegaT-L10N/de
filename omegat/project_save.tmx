@@ -1512,8 +1512,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Move Down</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T142244Z">
-        <seg>&amp;Nach unten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T224250Z">
+        <seg>Nach unt&amp;en</seg>
       </tuv>
     </tu>
     <tu>
@@ -36567,8 +36567,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T175846Z" creationid="karsten" creationdate="20150919T102112Z">
-        <seg>Ganz nach o&amp;ben</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T224146Z" creationid="karsten" creationdate="20150919T102112Z">
+        <seg>&amp;Ganz nach oben</seg>
       </tuv>
     </tu>
     <tu>
@@ -36591,8 +36591,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Move Do&amp;wn</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T142218Z">
-        <seg>Nach &amp;unten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T224217Z">
+        <seg>Nach un&amp;ten</seg>
       </tuv>
     </tu>
     <tu>
@@ -36607,8 +36607,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Move U&amp;p</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T142213Z">
-        <seg>Nach &amp;oben</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T224212Z">
+        <seg>Nach o&amp;ben</seg>
       </tuv>
     </tu>
     <tu>
@@ -78259,6 +78259,16 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T090706Z" creationid="Ragnar-F" creationdate="20210113T090706Z">
         <seg>Andere Datei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">GUI_SEGMENTATION_BUTTON_UP_1</prop>
+      <tuv lang="en">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T224233Z" creationid="Ragnar-F" creationdate="20210118T224233Z">
+        <seg>N&amp;ach oben</seg>
       </tuv>
     </tu>
     <tu>
