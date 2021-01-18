@@ -2136,8 +2136,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212736Z">
-        <seg>&amp;Wert (Formulareingabe, einschl. Schaltfläche, Submit und Reset)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T130541Z">
+        <seg>&amp;value (des Input-Elements, inklusive Button, Submit und Reset)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4425,8 +4425,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;&amp;br&gt; (breaks)</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T131622Z">
-        <seg>&lt;&amp;br&gt;(Umbrüche)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T131256Z">
+        <seg>&lt;&amp;br&gt; (Zeilenumbrüche)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5867,8 +5867,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T125436Z" creationid="Ragnar-F" creationdate="20210109T124555Z">
-        <seg>&lt;e0&gt;Inhalt von Tags nicht übersetzen, die Attribute gemäß den folgenden Schlüssel-Wert-Paaren haben (getrennt durch Kommas)&lt;/e0&gt;: Wenn ein Tag mit der Liste der Schlüssel-Wert-Paare übereinstimmt, wird dessen Inhalt ignoriert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T124522Z" creationid="Ragnar-F" creationdate="20210109T124555Z">
+        <seg>&lt;e0&gt;Inhalt von Tags nicht übersetzen, die Attribute gemäß den folgenden Schlüssel-Wert-Paaren haben (durch Kommas getrennt)&lt;/e0&gt;: Wenn ein Tag mit der Liste der Schlüssel-Wert-Paare übereinstimmt, wird dessen Inhalt ignoriert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11710,8 +11710,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T135749Z">
-        <seg>Kodierungsdeklaration in HTML- und XHTML-Dateien hinzufügen oder überschreiben:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T123058Z">
+        <seg>Kodierungsdeklaration in HTML- und XHTML-Dateien einfügen oder überschreiben:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20651,8 +20651,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212558Z">
-        <seg>Inhalt von Tags nicht übersetzen, die Attribute gemäß den folgenden Schlüssel-Wert-Paaren haben (getrennt durch Kommas):</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T124512Z">
+        <seg>Inhalt von Tags nicht übersetzen, die Attribute gemäß den folgenden Schlüssel-Wert-Paaren haben (durch Kommas getrennt):</seg>
       </tuv>
     </tu>
     <tu>
@@ -22767,8 +22767,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T153445Z">
-        <seg>Ausnahmefehler während der Bearbeitung der Optionen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T131413Z">
+        <seg>Exception beim Bearbeiten von Optionen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27194,8 +27194,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141548Z">
-        <seg>Enthält die HTML-Datei eine Kodierungsdeklaration, wird sie ohne Berücksichtigung der angegebenen Werte in diesem Dialogfenster verwendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T122659Z">
+        <seg>Wenn die HTML-Datei eine Kodierungsdeklaration enthält, wird diese stattdessen verwendet und alle in diesem Dialogfenster festgelegten Werte ignoriert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38165,8 +38165,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T153820Z">
-        <seg>Hinweis: Die Einstellung Kodierung der Quelldatei betrifft nur die HTML-Dateien, in denen keine Kodierungsdeklaration enthalten ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T122247Z">
+        <seg>Hinweis: Die Einstellung 'Kodierung der Quelldatei' betrifft nur HTML-Dateien, in denen keine Kodierungsdeklaration enthalten ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40544,16 +40544,16 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144433Z">
-        <seg>Nur bei vorhandenem &amp;Header in der (X)HTML-Datei</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T124441Z">
+        <seg>Nur wenn die (X)HTML-Datei einen &amp;Header hat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144451Z">
-        <seg>Nur bei vorhandener &amp;Kodierungsdeklaration in der (X)HTML-Datei</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T125833Z">
+        <seg>Nur wenn die (X)HTML-Datei eine &amp;Kodierungsdeklaration enthält</seg>
       </tuv>
     </tu>
     <tu>
@@ -44505,8 +44505,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove &amp;leading and trailing tags</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T101410Z" creationid="Michael Motzkus" creationdate="20190129T074407Z">
-        <seg>Führende und nachfo&amp;lgende Tags entfernen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T121941Z" creationid="Michael Motzkus" creationdate="20190129T074407Z">
+        <seg>Fü&amp;hrende und nachfolgende Tags entfernen</seg>
       </tuv>
     </tu>
     <tu>
@@ -69991,8 +69991,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T115951Z">
-        <seg>h&amp;reflang (Sprache der Links)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T125838Z">
+        <seg>h&amp;reflang (Sprache von Links)</seg>
       </tuv>
     </tu>
     <tu>
@@ -77082,8 +77082,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212814Z">
-        <seg>Wert (Schaltfläche, &amp;Submit und Reseteingabe)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T131210Z">
+        <seg>value (des Button-Elements, inklusive &amp;Submit und Reset)</seg>
       </tuv>
     </tu>
     <tu>
