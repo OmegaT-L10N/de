@@ -22767,8 +22767,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T131413Z">
-        <seg>Exception beim Bearbeiten von Optionen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T193612Z">
+        <seg>Exception beim Bearbeiten der Optionen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22783,8 +22783,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Exceptions occurred while loading segmentation rules:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T153922Z">
-        <seg>Ausnahmefehler während des Ladevorgangs der Segmentierungsregeln:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T194300Z">
+        <seg>Exceptions beim Laden der Segmentierungsregeln aufgetreten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27250,8 +27250,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="en">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T224010Z">
-        <seg>Enthält eine HHC- oder HHK-Datei eine Kodierungsdeklaration, wird sie ohne Berücksichtigung der angegebenen Werte in diesem Dialogfenster verwendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T194111Z">
+        <seg>Wenn die HHC- oder HHK-Datei eine Kodierungsdeklaration enthält, wird diese stattdessen verwendet und alle in diesem Dialogfenster festgelegten Werte ignoriert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37081,8 +37081,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>New Language and Country</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141617Z">
-        <seg>Neue Sprache und neues Land</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T202352Z">
+        <seg>Neue Sprache und Land</seg>
       </tuv>
     </tu>
     <tu>
@@ -38109,8 +38109,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T222527Z">
-        <seg>Hinweis: Alle Segmentierungsregelsätze mit dem entsprechenden Sprachmuster werden in der angegebenen Reihenfolge angewandt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T200520Z">
+        <seg>Hinweis: Alle Segmentierungsregelsätze, die mit einem Sprachmuster übereinstimmen, werden in der angegebenen Reihenfolge angewendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38157,8 +38157,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T212851Z">
-        <seg>Hinweis: Die Einstellung Kodierung der Quelldatei betrifft nur die HHC- und HHK-Dateien, die keine Kodierungsdeklaration beinhalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T193826Z">
+        <seg>Hinweis: Die Einstellung 'Kodierung der Quelldatei' betrifft nur HHC- und HHK-Dateien, in denen keine Kodierungsdeklaration enthalten ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47046,8 +47046,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Segmentation Setup</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T172423Z">
-        <seg>Segmentierung einrichten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T195050Z">
+        <seg>Segmentierung</seg>
       </tuv>
     </tu>
     <tu>
@@ -47070,8 +47070,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Segmentation rules are applied in the following order:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T223028Z">
-        <seg>Für die Segmentierungsregelsätze gilt die folgende Reihenfolge:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T201542Z">
+        <seg>Die Segmentierungsregeln werden in der folgenden Reihenfolge angewendet:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51144,8 +51144,8 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
       <tuv lang="en">
         <seg>Text files segmentation</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T154110Z">
-        <seg>Segmentierung der Textdateien</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T195246Z">
+        <seg>Segmentierung von Textdateien</seg>
       </tuv>
     </tu>
     <tu>
@@ -56183,8 +56183,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T224144Z">
-        <seg>So werden in Ihrem Projekt mit kanadischem Französisch als Quellsprache sämtliche Segmentierungsregeln in der korrekten Reihenfolge angewandt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T201452Z">
+        <seg>Ihr Projekt verwendet dann bei der Übersetzung aus dem kanadischen Französisch alle Regeln, die für die gesamte Sprachkette definiert sind, in der richtigen Reihenfolge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58729,8 +58729,8 @@ your copyrighted material outside their relationship with you.</seg>
       <tuv lang="en">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131013T170506Z">
-        <seg>So sollte z. B. die Regel für kanadisches Französisch (FR-CA) über der Regel für Französisch (FR.*) und der Standardeinstellung stehen (.*).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210118T200715Z">
+        <seg>Zum Beispiel sollten die Regeln für kanadisches Französisch (FR-CA) höher als die Regeln für Französisch (FR.*) und höher als die Standardregeln (.*) gesetzt werden.</seg>
       </tuv>
     </tu>
     <tu>
