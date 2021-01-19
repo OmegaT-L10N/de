@@ -2112,8 +2112,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T083419Z" creationid="Michael Motzkus" creationdate="20190129T083419Z">
-        <seg>Text beim Verlassen des Segments &amp;validieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T100903Z" creationid="Michael Motzkus" creationdate="20190129T083419Z">
+        <seg>Text beim Verlassen eines Segments &amp;validieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -25709,8 +25709,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140006Z">
-        <seg>"Gehe zu: Nächstes unübersetztes Segment" stoppt dort, wo es mindestens eine alternative Übersetzung gibt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T100726Z">
+        <seg>"Gehe zu: Nächstes unübersetztes Segment" stoppt bei einem Segment mit alternativen Übersetzungen</seg>
       </tuv>
     </tu>
     <tu>
@@ -42349,8 +42349,8 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       <tuv lang="en">
         <seg>Please enter your name/ID.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130625T142643Z">
-        <seg>Bitte geben Sie Ihren Namen/ID an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T100000Z">
+        <seg>Bitte geben Sie Ihren Namen oder Ihre ID ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42462,8 +42462,8 @@ language you would like to translate to.</seg>
       <tuv lang="en">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T233835Z">
-        <seg>Bitte wählen Sie unten eine der Optionen aus, je nachdem, welcher Text in das noch nicht übersetzte Segment eingefügt werden soll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T100052Z">
+        <seg>Bitte wählen Sie aus, welcher Text in das noch nicht übersetzte Segment eingefügt werden soll, wenn Sie zu diesem Segment wechseln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45931,8 +45931,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T083446Z" creationid="Michael Motzkus" creationdate="20190129T083446Z">
-        <seg>Status aut&amp;omatisch übersetzter Segmente speichern</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T101127Z" creationid="Michael Motzkus" creationdate="20190129T083446Z">
+        <seg>Zustand "aut&amp;omatisch ausgefüllt" speichern</seg>
       </tuv>
     </tu>
     <tu>
@@ -63478,8 +63478,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T083541Z" creationid="Michael Motzkus" creationdate="20190129T083541Z">
-        <seg>Wenn eine einzelne Datei mehr Segmente enthält, werden beim Scrollen zusätzliche Segmente nach Bedarf geladen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T101924Z" creationid="Michael Motzkus" creationdate="20190129T083541Z">
+        <seg>Wenn die Anzahl der Segmente einer einzelnen Datei diese Zahl übersteigt, werden beim Scrollen nach und nach weitere Segmente geladen.</seg>
       </tuv>
     </tu>
     <tu>
