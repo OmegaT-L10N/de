@@ -18381,8 +18381,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214508Z" creationid="karsten" creationdate="20150919T154226Z">
-        <seg>Geschützte Te&amp;xte und &amp;benutzerdefinierte Tags in den Statistiken einbeziehen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T130240Z" creationid="karsten" creationdate="20150919T154226Z">
+        <seg>Geschützte Te&amp;xte und benutzerdefinierte Tags in den Statistiken einbeziehen</seg>
       </tuv>
     </tu>
     <tu>
@@ -20499,8 +20499,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T232952Z">
-        <seg>Bei Vorhandensein im Quellsegment zeigt es die Wörterbucheinträge aus den Wörterbuchdateien des Ordners /dictionary/an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T133602Z">
+        <seg>Zeigt Wörterbucheinträge aus den Wörterbuchdateien im Ordner /dictionary/ an, die mit Einträgen im Quelltext des aktiven Segments übereinstimmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20523,8 +20523,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130626T141340Z">
-        <seg>Zeigt die Glossareinträge an, die sich bei Vorhandensein im Quellsegment in den Glossardateien des Ordners /glossary/ befinden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T132902Z">
+        <seg>Zeigt Glossareinträge aus den Glossardateien im Ordner /glossary/ an, die mit Einträgen im Quelltext des aktiven Segments übereinstimmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20547,8 +20547,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T221108Z">
-        <seg>Zeigen die Translation-Memory-Segmente an, die dem Quellsegment entsprechen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T131348Z">
+        <seg>Zeigt Translation-Memory-Segmente an, die mit dem aktiven Segment im Editor übereinstimmen. Solche Übereinstimmungen werden Fuzzy Matches genannt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20563,8 +20563,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214110Z" creationid="Michael Motzkus" creationdate="20190129T084928Z">
-        <seg>Zeigt die Übersetzung des Quelltextes mithilfe der maschinellen Übersetzungsdienste an, die Sie in Einstellungen &gt; Maschinelle Übersetzung ausgewählt haben, sofern verfügbar.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T134537Z" creationid="Michael Motzkus" creationdate="20190129T084928Z">
+        <seg>Zeigt Übersetzungen des Quelltextes an, die mithilfe von maschinellen Übersetzungsdiensten angefertigt wurden, sofern Sie welche unter Einstellungen &gt; Maschinelle Übersetzung ausgewählt haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20603,8 +20603,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214326Z">
-        <seg>Das Erstellen von übersetzten Dokumenten m&amp;it Tag-Problemen verbieten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T123752Z">
+        <seg>Übersetzte Dokumente m&amp;it Tag-Problemen dürfen nicht erstellt werden</seg>
       </tuv>
     </tu>
     <tu>
@@ -22226,8 +22226,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T084256Z" creationid="Michael Motzkus" creationdate="20190129T084256Z">
-        <seg>Einträge aus dem beschreibbaren Glossar sind fett gedruckt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T133115Z" creationid="Michael Motzkus" creationdate="20190129T084256Z">
+        <seg>Einträge aus dem beschreibbaren Glossar werden fett dargestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28838,8 +28838,8 @@ where to find the applicable terms.</seg>
       <tuv lang="en">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20131011T235406Z">
-        <seg>Wenn Sie einen authentifizierten Proxy verwenden, geben Sie hier Ihren Benutzernamen und Kennwort ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T115722Z">
+        <seg>Wenn Sie einen authentifizierten Proxy verwenden, geben Sie hier bitte Ihren Benutzernamen und Ihr Passwort ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35852,8 +35852,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140557Z">
-        <seg>Matches können sich in der aktuellen Übersetzung oder in den TMX-Dateien befinden, die Sie im Ordner /tm/ abgelegt haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T131551Z">
+        <seg>Fuzzy Matches können in Ihrer aktuellen Übersetzung gefunden werden, oder in TMX-Dateien, die Sie in den Ordner /tm/ kopiert haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38377,8 +38377,8 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143122Z" creationid="Michael Motzkus" creationdate="20190129T084134Z">
-        <seg>Mich benachrichtigen, wenn ein Segment Fuzzy Matches enthält</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T131611Z" creationid="Michael Motzkus" creationdate="20190129T084134Z">
+        <seg>Mich benachrichtigen, wenn ein Segment Fuzzy Matches hat</seg>
       </tuv>
     </tu>
     <tu>
@@ -44289,8 +44289,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regular expression for fragments that should be removed from translation:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T161104Z">
-        <seg>Regulärer Ausdruck für Fragmente, die aus der Übersetzung entfernt werden sollten:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T121845Z">
+        <seg>Regulärer Ausdruck für Fragmente, die aus der Übersetzung entfernt werden sollen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63248,8 +63248,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213604Z">
-        <seg>Änderungen der Tag-Anordnung können zu Problemen im übersetzten Dokument führen!</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T123420Z">
+        <seg>Warnung: Eine Änderung der Tag-Reihenfolge kann das übersetzte Dokument unbrauchbar machen!</seg>
       </tuv>
     </tu>
     <tu>
@@ -65500,8 +65500,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154651Z" creationid="Michael Motzkus" creationdate="20190129T084235Z">
-        <seg>Sie können Einträge im Glossar mit "Glossareintrag erstellen" im Menü "Bearbeiten" anlegen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T133044Z" creationid="Michael Motzkus" creationdate="20190129T084235Z">
+        <seg>Sie können Glossareinträge mit "Glossareintrag erstellen" im Menü "Bearbeiten" erstellen.</seg>
       </tuv>
     </tu>
     <tu>
