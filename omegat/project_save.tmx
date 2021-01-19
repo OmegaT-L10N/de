@@ -10944,8 +10944,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="en">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130626T143545Z">
-        <seg>Eine Notiz ist ein Kommentar, der sich auf das aktive Quellsegment und die entsprechende Übersetzung bezieht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T135438Z">
+        <seg>Eine Notiz ist im Grunde nur ein kurzer Kommentar zu diesem Segment bestehend aus Quelltext und Übersetzung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12676,8 +12676,8 @@ conditions are met.</seg>
       <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T171011Z">
-        <seg>Erlauben, Notizen im aktiven Segment einzusehen, hinzuzufügen, zu entfernen oder zu bearbeiten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T134811Z">
+        <seg>Erlaubt das Anzeigen, Hinzufügen, Entfernen oder Bearbeiten einer Notiz im aktiven Segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13790,8 +13790,11 @@ paragraph of section 11).</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141653Z">
-        <seg>Dadurch werden alle Einstellungen auf ihre Standardwerte zurückgesetzt, so dass das System ein unerwartetes, jedoch korrektes Verhalten aufweisen könnte.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T142431Z">
+        <seg>Dies
+hat zur Folge, dass alle Einstellungen auf ihre Standardwerte
+zurückgesetzt werden, wodurch es zu unerwartetem, aber
+korrektem Verhalten kommen kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20403,8 +20406,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T070950Z">
-        <seg>Zeigt Kommentare im aktiven Segment an, wenn sie in der Quelldatei vorhanden sind und der Dateifilter dies unterstützt (z. B. PO-Filter).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T140224Z">
+        <seg>Zeigt Kommentare des aktiven Segments an, sofern in der Quelldatei vorhanden und vom Dateifilter (z. B. PO-Filter) unterstützt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27704,8 +27707,11 @@ excuse you from the conditions of this License.</seg>
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141707Z">
-        <seg>Wenn der Zugriff auf den gewünschten Speicherort später gewährt wird, wird dieser Speicherort verwendet und sämtliche Einstellungen werden aufgrund der Änderung des Speicherorts auf ihre Standardwerte zurückgesetzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T142930Z">
+        <seg>Wenn später der Zugriff auf den
+gewünschten Speicherort gewährt wird, wird dieser Speicherort
+verwendet, und alle Einstellungen werden infolge der
+Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32821,8 +32827,9 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141714Z">
-        <seg>Im Konfigurationsordner konnte kein Skriptordner angelegt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T143148Z">
+        <seg>Es war nicht möglich, den Ordner "script" innerhalb des
+Konfigurationsordners zu erstellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38361,8 +38368,8 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085018Z" creationid="Michael Motzkus" creationdate="20190129T085018Z">
-        <seg>Mich benachrichtigen, wenn ein Segment Kommentare enthält</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T140338Z" creationid="Michael Motzkus" creationdate="20190129T085018Z">
+        <seg>Mich benachrichtigen, wenn ein Segment Kommentare hat</seg>
       </tuv>
     </tu>
     <tu>
@@ -39456,8 +39463,10 @@ Software Foundation veröffentlicht wurde, entweder in Version 3 der Lizenz oder
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214732Z">
-        <seg>OmegaT wurde der Zugriff auf die Systemeigenschaften, die den Namen Ihres Betriebssystems und/oder Ihres Benutzerordners enthalten, verwehrt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T142323Z">
+        <seg>OmegaT hat keine Zugriffsrechte auf Systemeigenschaften, die
+den Namen Ihres Betriebssystems und/oder Ihres Benutzerordners
+enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51281,7 +51290,7 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141645Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T142400Z">
         <seg>Stattdessen wird der aktuelle Ordner verwendet.</seg>
       </tuv>
     </tu>
@@ -52749,8 +52758,9 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T163256Z">
-        <seg>Stattdessen wird der Konfigurationsordner verwendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T143323Z">
+        <seg>Stattdessen wird der
+Konfigurationsordner selbst verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52886,8 +52896,9 @@ instead.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141704Z">
-        <seg>Stattdessen wird der aktuelle Ordner verwendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T142735Z">
+        <seg>Stattdessen wird der
+aktuelle Ordner verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56474,8 +56485,10 @@ covered work, you indicate your acceptance of this License to do so.</seg>
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141641Z">
-        <seg>Aus diesem Grund kann der Speicherort des Konfigurationsordners von OmegaT nicht verlässlich ermittelt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T142351Z">
+        <seg>Aus diesem Grund kann der Speicherort des
+Konfigurationsordners von OmegaT nicht zuverlässig ermittelt
+werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66631,8 +66644,9 @@ them.</seg>
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141659Z">
-        <seg>Das Betriebssystem Ihres Computers hat OmegaT die Erstellung des Konfigurationsordners verwehrt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T142529Z">
+        <seg>Ihr Betriebssystem hat sich geweigert, OmegaT seinen
+Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
     </tu>
     <tu>
