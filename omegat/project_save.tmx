@@ -944,8 +944,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Built-in (LanguageTool {0})</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T090029Z" creationid="Michael Motzkus" creationdate="20190129T090029Z">
-        <seg>Einge&amp;bautes (LanguageTool {0})</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T192924Z" creationid="Michael Motzkus" creationdate="20190129T090029Z">
+        <seg>&amp;Integrierte Version (LanguageTool {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -13056,8 +13056,8 @@ organization, or merging organizations.</seg>
       <tuv lang="en">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T154542Z" creationid="karsten" creationdate="20150919T154542Z">
-        <seg>Beim Download des Wörterbuchs ist ein Fehler aufgetreten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T185407Z" creationid="karsten" creationdate="20150919T154542Z">
+        <seg>Beim Herunterladen des Wörterbuchs ist ein Fehler aufgetreten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15655,8 +15655,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Installation fehlgeschlagen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T185209Z">
+        <seg>Kann nicht installiert werden</seg>
       </tuv>
     </tu>
     <tu>
@@ -18352,8 +18352,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Could not create the specified folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T145655Z" creationid="karsten" creationdate="20150919T154433Z">
-        <seg>Der angegebene Ordner konnte nicht angelegt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T185355Z" creationid="karsten" creationdate="20150919T154433Z">
+        <seg>Der angegebene Ordner konnte nicht erstellt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20710,8 +20710,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Do you want to create it?</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T154401Z" creationid="karsten" creationdate="20150919T154401Z">
-        <seg>Möchten Sie es anlegen?</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T185338Z" creationid="karsten" creationdate="20150919T154401Z">
+        <seg>Möchten Sie ihn erstellen?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22133,8 +22133,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085817Z" creationid="Michael Motzkus" creationdate="20190129T085817Z">
-        <seg>Stellen Sie sicher, dass Sie die richtige API-Version angeben (die URL sollte "/ v2 /" enthalten).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T192106Z" creationid="Michael Motzkus" creationdate="20190129T085817Z">
+        <seg>Stellen Sie sicher, dass Sie die richtige API-Version angegeben haben (die URL sollte "/v2/" enthalten).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33678,8 +33678,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>LanguageTool API version mismatch</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085713Z" creationid="Michael Motzkus" creationdate="20190129T085713Z">
-        <seg>Die Version der LanguageTool-API stimmt nicht überein</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T191335Z" creationid="Michael Motzkus" creationdate="20190129T085713Z">
+        <seg>LanguageTool-API-Version stimmt nicht überein</seg>
       </tuv>
     </tu>
     <tu>
@@ -33694,8 +33694,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>LanguageTool is misconfigured.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085721Z" creationid="Michael Motzkus" creationdate="20190129T085721Z">
-        <seg>Das LanguageTool ist falsch konfiguriert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T191708Z" creationid="Michael Motzkus" creationdate="20190129T085721Z">
+        <seg>LanguageTool ist falsch konfiguriert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33726,16 +33726,16 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>LanguageTool server started</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085650Z" creationid="Michael Motzkus" creationdate="20190129T085650Z">
-        <seg>Der LanguageTool-Server wurde gestartet</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T190721Z" creationid="Michael Motzkus" creationdate="20190129T085650Z">
+        <seg>LanguageTool-Server gestartet</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>LanguageTool server terminated</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085655Z" creationid="Michael Motzkus" creationdate="20190129T085655Z">
-        <seg>Der LanguageTool-Server wurde beendet</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T191112Z" creationid="Michael Motzkus" creationdate="20190129T085655Z">
+        <seg>LanguageTool-Server terminiert</seg>
       </tuv>
     </tu>
     <tu>
@@ -33830,8 +33830,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>LanguageTool: server returned XML when JSON was expected.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085750Z" creationid="Michael Motzkus" creationdate="20190129T085750Z">
-        <seg>LanguageTool: Der Server hat XML zurückgegeben, als JSON erwartet wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T192007Z" creationid="Michael Motzkus" creationdate="20190129T085750Z">
+        <seg>LanguageTool: Server hat XML zurückgegeben, obwohl JSON erwartet wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34723,8 +34723,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T090123Z" creationid="Michael Motzkus" creationdate="20190129T090123Z">
-        <seg>Lokaler Installationspfad:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T193822Z" creationid="Michael Motzkus" creationdate="20190129T090123Z">
+        <seg>Pfad der lokalen Installation:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47799,8 +47799,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Service type</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T113020Z" creationid="Michael Motzkus" creationdate="20190129T090118Z">
-        <seg>Betriebsart</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T193645Z" creationid="Michael Motzkus" creationdate="20190129T090118Z">
+        <seg>Betriebsmodus</seg>
       </tuv>
     </tu>
     <tu>
@@ -50063,8 +50063,8 @@ address new problems or concerns.</seg>
       <tuv lang="en">
         <seg>Switching to built-in version.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085729Z" creationid="Michael Motzkus" creationdate="20190129T085729Z">
-        <seg>Umstellung auf integrierte Version.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T191832Z" creationid="Michael Motzkus" creationdate="20190129T085729Z">
+        <seg>Wechsle zur integrierten Version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55438,8 +55438,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The specified dictionary folder does not exist.</seg>
       </tuv>
-      <tuv lang="de" changeid="karsten" changedate="20150919T154401Z" creationid="karsten" creationdate="20150919T154401Z">
-        <seg>Das angegebene Wörterbuch existiert nicht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T185335Z" creationid="karsten" creationdate="20150919T154401Z">
+        <seg>Der angegebene Wörterbuchordner existiert nicht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61093,8 +61093,8 @@ Die exakte Suche verwendet den kompletten Text, um Übereinstimmungen zu finden.
       <tuv lang="en">
         <seg>URL of online dictionaries:</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T151222Z">
-        <seg>URL des Online-Wörterbuchs:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T190649Z">
+        <seg>URL mit Online-Wörterbüchern:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61261,8 +61261,8 @@ Die exakte Suche verwendet den kompletten Text, um Übereinstimmungen zu finden.
       <tuv lang="en">
         <seg>Unable to uninstall the selected dictionary</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130630T151404Z">
-        <seg>Das gewählte Wörterbuch kann nicht deinstalliert werden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T185158Z">
+        <seg>Das ausgewählte Wörterbuch kann nicht deinstalliert werden</seg>
       </tuv>
     </tu>
     <tu>
@@ -65130,8 +65130,8 @@ for enforcing compliance by third parties with this License.</seg>
       <tuv lang="en">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T172447Z">
-        <seg>Sie sind dabei, das Wörterbuch zu deinstallieren, mit dem im aktuellen Projekt die Rechtschreibung geprüft wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T185134Z">
+        <seg>Sie deinstallieren gerade das Wörterbuch, das Ihr Projekt zur Rechtschreibprüfung verwendet.</seg>
       </tuv>
     </tu>
     <tu>
