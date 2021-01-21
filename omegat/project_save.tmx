@@ -5419,8 +5419,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T125654Z">
-        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; kann Folgendes sein: &lt;e1&gt;shift&lt;/e1&gt; (Umschalt), &lt;e2&gt;control&lt;/e2&gt; oder &lt;e3&gt;ctrl&lt;/e3&gt; (Strg), &lt;e4&gt;meta&lt;/e4&gt; (Cmd)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T122830Z">
+        <seg>&lt;c0&gt;&lt;Modifikator&gt;&lt;/c0&gt; kann Folgendes sein: &lt;e1&gt;shift&lt;/e1&gt; (Umschalt), &lt;e2&gt;control&lt;/e2&gt; oder &lt;e3&gt;ctrl&lt;/e3&gt; (Strg), &lt;e4&gt;meta&lt;/e4&gt; (Cmd)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10361,8 +10361,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T125423Z">
-        <seg>&lt;Tastenkürzel&gt; muss folgende Form haben: 0 oder mehr &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; gefolgt von 0 oder 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; gefolgt von 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, wobei:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T122845Z">
+        <seg>&lt;Tastenkürzel&gt; muss folgende Form haben: 0 oder mehr &lt;c0&gt;&lt;Modifikator&gt;&lt;/c0&gt;, gefolgt von 0 oder 1 &lt;c1&gt;&lt;Ereignis&gt;&lt;/c1&gt;, gefolgt von 1 &lt;c2&gt;&lt;Taste&gt;&lt;/c2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21861,8 +21861,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130503T163647Z">
-        <seg>Leerzeilen werden akzeptiert und kommentierende Zeilen müssen mit "//" beginnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T121718Z">
+        <seg>Leerzeilen werden akzeptiert und Kommentarzeilen sollten mit "//" beginnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36505,8 +36505,8 @@ your receipt of the notice.</seg>
       <tuv lang="en">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130503T162451Z">
-        <seg>Den meisten Elementen, die im Hauptmenü auftauchen, können neue Verknüpfungen zugewiesen werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T121635Z">
+        <seg>Die meisten im Hauptmenü dargestellten Elemente können mit einem neuen Tastenkürzel versehen werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40311,8 +40311,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130504T081636Z">
-        <seg>Sobald die Datei &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; geändert ist, muss &lt;a1&gt;OmegaT&lt;/a1&gt; neu geladen werden, damit die Verknüpfungen berücksichtigt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T121906Z">
+        <seg>Nachdem die &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;-Datei geändert wurde, muss &lt;a1&gt;OmegaT&lt;/a1&gt; neu gestartet werden, um die neuen Tastenkürzel zu übernehmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48159,8 +48159,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Shortcuts customization</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130503T162315Z">
-        <seg>Anpassung der Verknüpfungen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T121524Z">
+        <seg>Anpassung der Tastenkürzel</seg>
       </tuv>
     </tu>
     <tu>
@@ -55294,8 +55294,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T215149Z">
-        <seg>Die Syntax für die Definition von Tastenkürzeln ist: &lt;c0&gt;&lt;MenüPunktCode&gt;=&lt;Tastenkürzel&gt;&lt;/c0&gt;, wobei&lt;e1&gt;&lt;MenüPunktCode&gt;&lt;/e1&gt; ein Code ist, der aus den unten stehenden Tabellen genommen wird und &lt;e2&gt;&lt;Tastenkürzel&gt;&lt;/e2&gt; ist eine Kombination von Tasten, die, wie von Nutzer festgelegt, gedrückt werden müssen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T122457Z">
+        <seg>Die Syntax zum Definieren von Tastenkürzeln ist &lt;c0&gt;&lt;MenüpunktCode&gt;=&lt;Tastenkürzel&gt;&lt;/c0&gt;, wobei &lt;e1&gt;&lt;MenüpunktCode&gt;&lt;/e1&gt; ein Code aus den unteren Tabellen und &lt;e2&gt;&lt;Tastenkürzel&gt;&lt;/e2&gt; eine vom Benutzer festgelegte Tastenkombination ist.</seg>
       </tuv>
     </tu>
     <tu>
