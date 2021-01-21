@@ -6187,8 +6187,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T054912Z">
-        <seg>&lt;e0&gt;Bedenken Sie: &lt;/e0&gt;Es gibt natürlich andere Wege und Mittel, um eine einfache Datei mit durch Tabulator getrennte Einträge zu erzeugen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T105851Z">
+        <seg>&lt;e0&gt;Hinweis:&lt;/e0&gt; Natürlich gibt es auch andere Mittel und Wege, eine einfache Datei mit tabulatorgetrennten Einträgen zu erstellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13857,8 +13857,8 @@ korrektem Verhalten kommen kann.</seg>
       <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T105448Z" creationid="Michael Motzkus" creationdate="20180917T082128Z">
-        <seg>Da Einträge Wörter aus bevorzugten und nicht-bevorzugten Glossaren mischen können, werden die Wörter aus dem vorrangigen Glossar fett dargestellt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111456Z" creationid="Michael Motzkus" creationdate="20180917T082128Z">
+        <seg>Da es sich bei den Einträgen um gemischte Wörter aus nicht-bevorzugten und bevorzugten Glossaren handeln kann, werden die Wörter aus dem bevorzugten Glossar fett dargestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37376,8 +37376,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T090516Z">
-        <seg>Es wurde keine Glossar-Datei im Ordner "glossary" gefunden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111529Z">
+        <seg>Es wurde keine Glossardatei im Ordner "glossary" gefunden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38296,8 +38296,8 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="en">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T105030Z" creationid="Michael Motzkus" creationdate="20180917T081413Z">
-        <seg>Nichts spricht zum Beispiel gegen den Einsatz von Notepad++ unter Windows, GEdit in Linux oder auch ein Tabellenkalkulationsprogramm zu diesem Zweck: Jede Anwendung, die UTF-8 (oder UTF-16 LE) und Leerzeichen anzeigen kann (so dass Ihnen nicht das benötigte &lt;k1&gt;TAB&lt;/k1&gt;-Zeichen fehlt), kann benutzt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T110642Z" creationid="Michael Motzkus" creationdate="20180917T081413Z">
+        <seg>Es spricht nichts dagegen, hierfür z. B. Notepad++ in Windows, GEdit in Linux oder ein Tabellenkalkulationsprogramm zu verwenden: Jede Anwendung, die mit UTF-8 (oder UTF-16 LE) umgehen und Leerraumzeichen visuell darstellen kann (damit Sie die erforderlichen &lt;k1&gt;TAB&lt;/k1&gt;-Zeichen nicht übersehen), ist geeignet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40495,8 +40495,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141855Z">
-        <seg>Man hat ein oder mehrere der oben genannten Probleme gelöst, das Projekt wurde aber nicht erneut geladen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111804Z">
+        <seg>Eines oder mehrere der oben genannten Probleme wurden möglicherweise behoben, aber das Projekt wurde nicht neu geladen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43073,8 +43073,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T090449Z">
-        <seg>Problem: Keine Glossar-Begriffe werden angezeigt - mögliche Gründe:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111520Z">
+        <seg>Problem: Es werden keine Glossarbegriffe angezeigt - mögliche Gründe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52823,8 +52823,8 @@ Konfigurationsordner selbst verwendet.</seg>
       <tuv lang="en">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T104754Z">
-        <seg>Die Inhalte von Glossardateien werden gespeichert und geladen, wenn ein Projekt geöffnet oder neu geladen wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T105529Z">
+        <seg>Die Inhalte der Glossardateien werden im Speicher abgelegt und geladen, wenn ein Projekt geöffnet oder neu geladen wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53643,8 +53643,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141846Z">
-        <seg>Die Glossar-Datei hat nicht die richtige Kodierung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111727Z">
+        <seg>Die Glossardatei hat nicht die korrekte Kodierung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53659,16 +53659,16 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T082205Z" creationid="Michael Motzkus" creationdate="20180917T082205Z">
-        <seg>Die Glossardatei hat nicht die korrekte Erweiterung (.tab, .utf8 oder .txt).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111649Z" creationid="Michael Motzkus" creationdate="20180917T082205Z">
+        <seg>Die Glossardatei hat nicht die korrekte Endung (.tab, .utf8 oder .txt).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The glossary file is empty.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144731Z">
-        <seg>Die Glossar-Datei ist leer.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111538Z">
+        <seg>Die Glossardatei ist leer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53834,8 +53834,8 @@ Desktop und im Schnellstartbereich erstellen.</seg>
       <tuv lang="en">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T144745Z">
-        <seg>Die Einträge sind nicht durch Tabulator getrennt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111615Z">
+        <seg>Die Elemente wurden nicht mit einem Tabulatorzeichen getrennt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54072,8 +54072,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130523T200555Z">
-        <seg>Der Ort der beschreibbaren Glossardateien kann im Dialog &lt;g0&gt;Projekt &gt; Eigenschaften... &lt;/g0&gt;festgelegt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T105751Z">
+        <seg>Der Standort der beschreibbaren Glossardatei kann im Dialogfenster &lt;g0&gt;Projekt &gt; Eigenschaften...&lt;/g0&gt; festgelegt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55006,8 +55006,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T105136Z" creationid="Michael Motzkus" creationdate="20180917T081835Z">
-        <seg>Die Ergebnisse des bevorzugten Glossars (standardmäßig glossary/glossary.txt) werden an erster Stelle im Glossarbereich und in TransTips angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111139Z" creationid="Michael Motzkus" creationdate="20180917T081835Z">
+        <seg>Die Ergebnisse aus dem bevorzugten Glossar (standardmäßig glossary/glossary.txt) erscheinen an erster Stelle im Glossarbereich und in den TransTips.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56314,8 +56314,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T090730Z">
-        <seg>Im momentanen Segment gibt es keine Begriffe, die im Glossar zu finden wären.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111750Z">
+        <seg>Es gibt keine Begriffe im aktuellen Segment, die mit Begriffen aus dem Glossar übereinstimmen.</seg>
       </tuv>
     </tu>
     <tu>
