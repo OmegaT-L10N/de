@@ -13969,8 +13969,8 @@ korrektem Verhalten kommen kann.</seg>
       <tuv lang="en">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T184933Z">
-        <seg>Da der existierende Inhalt nicht berührt wird, ist der Schaden an einer existierenden Datei begrenzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T093604Z">
+        <seg>Das heißt, dass bereits vorhandener Inhalt nicht geändert wird, um eventuelle Schäden zu vermeiden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25520,8 +25520,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T095317Z">
-        <seg>Glossare sind Dateien, die manuell für &lt;a0&gt;OmegaT&lt;/a0&gt; erstellt und aktualisiert werden müssen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T092250Z">
+        <seg>Glossare sind Dateien, die manuell für &lt;a0&gt;OmegaT&lt;/a0&gt; erstellt und aktualisiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27403,8 +27403,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210120T222230Z">
-        <seg>Wenn ein &lt;a0&gt;OmegaT&lt;/a0&gt;-Projekt ein oder mehrere Glossare enthält, werden alle Begriffe im Glossar, die sich auch im aktuellen Segment befinden, automatisch im Glossar-Viewer angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T090125Z">
+        <seg>Wenn ein &lt;a0&gt;OmegaT&lt;/a0&gt;-Projekt ein oder mehrere Glossare enthält, werden alle im Glossar befindlichen Begriffe, die auch im aktuellen Segment gefunden werden, automatisch im Glossar-Viewer angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28218,8 +28218,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T184828Z">
-        <seg>Falls die Datei schon existiert, wird kein Versuch unternommen, das Format oder den Satz an Schriftzeichen zu verifizieren: die neuen Einträge werden immer durch Tabulator getrennt und in UTF-8 sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T093042Z">
+        <seg>Wenn die Datei bereits vorhanden ist, wird das Format oder die Kodierung der Datei nicht auf Richtigkeit überprüft: Die neuen Einträge werden immer im tabulatorgetrennten Format sein und UTF-8 als Kodierung verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37120,8 +37120,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141825Z">
-        <seg>Neue Ausdrücke können während der Übersetzung zum Beispiel in einem Text Editor manuell in die Datei bzw. Dateien eingefügt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T094247Z">
+        <seg>Neue Begriffe können während der Übersetzung manuell in die Glossardatei(en) eingefügt werden, z. B. in einem Texteditor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37152,8 +37152,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T185628Z">
-        <seg>Neu hinzugefügte Begriffe werden nicht erkannt werden, wenn die Änderungen an der Textdatei gespeichert wurden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T094943Z">
+        <seg>Neu hinzugefügte Begriffe werden nicht erkannt, wenn die Änderungen in der Textdatei gespeichert wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53217,8 +53217,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T075153Z" creationid="Michael Motzkus" creationdate="20180917T075153Z">
-        <seg>Die Erweiterung muss &lt;f0&gt;.txt&lt;/f0&gt; oder &lt;f1&gt;.utf8&lt;/f1&gt; sein (wenn nicht, wird sie hinzugefügt).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T091834Z" creationid="Michael Motzkus" creationdate="20180917T075153Z">
+        <seg>Die Glossardatei muss mit &lt;f0&gt;.txt&lt;/f0&gt; oder &lt;f1&gt;.utf8&lt;/f1&gt; enden (tut sie es nicht, wird die Endung nachträglich hinzugefügt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53265,8 +53265,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T184613Z">
-        <seg>Die Datei muss nicht existieren, wenn sie festgelegt wird, sie wird dann angelegt (falls notwendig) wen ein Eintrag zum Glossar hinzugefügt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T092243Z">
+        <seg>Die angegebene Datei muss nicht unbedingt vorhanden sein - sie wird (falls erforderlich) automatisch erstellt, sobald ein Glossareintrag hinzugefügt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54064,8 +54064,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T075720Z" creationid="Michael Motzkus" creationdate="20180917T075720Z">
-        <seg>Der Speicherort der Datei muss innerhalb des &lt;f2&gt;/glossary&lt;/f2&gt;-Ordners sein, es kann aber auch ein Unterordner (z. B. &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;) sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T091939Z" creationid="Michael Motzkus" creationdate="20180917T075720Z">
+        <seg>Die Datei muss sich im Ordner &lt;f2&gt;/glossary&lt;/f2&gt; befinden, oder auch in einem tieferen Ordner (z. B. &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55406,8 +55406,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T185705Z">
-        <seg>Der Quellbegriff muss kein einzelnes Wort sein, wie es das nächste Beispiel zeigt:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T095310Z">
+        <seg>Der Quellbegriff muss nicht aus einem einzigen Wort bestehen, wie das nächste Beispiel zeigt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56018,8 +56018,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T185406Z">
-        <seg>Ein Eintrag in das Glossar kann einen Kommentar beinhalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T094140Z">
+        <seg>Jeder Glossareintrag kann mit einem Kommentar versehen werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56074,8 +56074,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T185340Z">
-        <seg>Das Wort vor dem Zeichen = ist der Ausdruck im Quelltext und dessen Übersetzung bzw. Übersetzungen befinden sich hinter dem =.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T094045Z">
+        <seg>Das Wort vor dem Gleichheitszeichen ist der Quellbegriff, und alles nach dem Gleichheitszeichen ist (oder sind) dessen Übersetzung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61777,8 +61777,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Usage</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Gebrauch</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T093619Z">
+        <seg>Verwendung</seg>
       </tuv>
     </tu>
     <tu>
@@ -66039,8 +66039,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T163801Z">
-        <seg>Sie definieren dessen Ort und Namen im Dialog zu den Projekteigenschaften.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T091807Z">
+        <seg>Sie können den Standort und Namen des Glossars im Dialogfenster "Projekteigenschaften" definieren.</seg>
       </tuv>
     </tu>
     <tu>
