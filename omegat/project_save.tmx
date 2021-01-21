@@ -12740,8 +12740,8 @@ conditions are met.</seg>
       <tuv lang="en">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T163227Z">
-        <seg>Vergleichen Sie den Code für die Zielsprache Ihres Projektes mit den vorhandenen Wörterbüchern im Setup Fenster.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T202637Z">
+        <seg>Überprüfen Sie auch, ob der Zielsprachencode Ihres Projekts mit den bereits installierten Wörterbüchern im Setup-Fenster übereinstimmt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16232,8 +16232,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T133346Z">
-        <seg>Stellen Sie sicher, dass die Ländercodes genau gleich sind: ein FR-FR Wörterbuch wird bei FR als Zielsprache nicht funktionieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T195047Z">
+        <seg>Stellen Sie aber sicher, dass die Sprachcodes genau übereinstimmen: Ein FR-FR-Wörterbuch funktioniert z. B. nicht mit einem Projekt, das "FR" als Zielsprache hat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27726,8 +27726,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T162042Z">
-        <seg>Wenn notwendig, bearbeiten Sie die Dateinamen der Wörterbücher oder ändern Sie die Spracheinstellungen des Projekts.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T195540Z">
+        <seg>Bearbeiten Sie ggf. die Dateinamen des Wörterbuchs oder ändern Sie die Spracheinstellungen Ihres Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28396,8 +28396,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T133943Z">
-        <seg>Falls die Rechtschreibprüfung nicht funktioniert, stellen Sie zuerst sicher, dass die Option &lt;g0&gt;Rechtschreibung automatisch prüfen&lt;/g0&gt; im Dialogfenster für Rechtschreibprüfung (&lt;g1&gt;Optionen &gt; Rechtschreibprüfung...)&lt;/g1&gt; aktiviert ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T202151Z">
+        <seg>Wenn die Rechtschreibprüfung nicht funktioniert, vergewissern Sie sich zunächst, ob die Option &lt;g0&gt;Rechtschreibung automatisch prüfen&lt;/g0&gt; in &lt;g1&gt;Optionen &gt; Rechtschreibprüfung...&lt;/g1&gt; aktiviert ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28524,8 +28524,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T163829Z">
-        <seg>Wenn Sie von einer anderen Anwendung Ihres Systems verwendet werden, werden Sie aus diesen Anwendungen ebenfalls verschwinden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T203540Z">
+        <seg>Wenn sie von einer anderen Anwendung auf Ihrem System verwendet werden, verschwinden sie auch aus dieser Anwendung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37748,8 +37748,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T163749Z">
-        <seg>Bedenken Sie, dass mit &lt;f0&gt;Entfernen&lt;/f0&gt; die ausgewählten Wörterbücher physisch gelöscht werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T203342Z">
+        <seg>Beachten Sie, dass &lt;f0&gt;Entfernen&lt;/f0&gt; die ausgewählten Wörterbücher physisch entfernt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38658,8 +38658,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="en">
         <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T163701Z">
-        <seg>Natürlich ist es klüger, eine kleine Pause einzulegen und die korrekte Version der Rechtschreibprüfung herunterzuladen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T203224Z">
+        <seg>Natürlich ist es wesentlich sinnvoller, eine kurze Pause einzulegen und die richtigen Versionen der Rechtschreibprüfung herunterzuladen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55470,8 +55470,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142630Z">
-        <seg>Die Rechtschreibprüfung legt die zu nutzende Sprache anhand des Sprachcodes der Zielsprache fest: wenn die Zielsprache brasilianisches Portugiesisch (PT_BR) ist, müssen die Unterordner der Wörterbücher die zwei Dateien mit dem Namen &lt;e0&gt;pt_br.aff&lt;/e0&gt; und &lt;e1&gt;pt_br.dic&lt;/e1&gt; enthalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T203122Z">
+        <seg>Die Rechtschreibprüfung verwendet den Code der Zielsprache, um die zu verwendende Sprache zu bestimmen: Wenn die Zielsprache brasilianisches Portugiesisch (PT_BR) ist, muss der Unterordner "dictionary" zwei Wörterbuchdateien namens &lt;e0&gt;pt_br.aff&lt;/e0&gt; und &lt;e1&gt;pt_br.dic&lt;/e1&gt; enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59358,8 +59358,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T162200Z">
-        <seg>Um die Rechtschreibprüfung zu ermöglichen, wählen Sie &lt;g0&gt;Optionen &gt; Rechtschreibprüfung&lt;/g0&gt; und kreuzen &lt;g1&gt;Automatisch Rechtschreibung prüfen&lt;/g1&gt; an (siehe oben).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T200445Z">
+        <seg>Um die Rechtschreibprüfung zu aktivieren, wählen Sie &lt;g0&gt;Optionen &gt; Rechtschreibprüfung&lt;/g0&gt; aus und aktivieren Sie die Option &lt;g1&gt;Rechtschreibung automatisch prüfen&lt;/g1&gt; (siehe oben).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65282,8 +65282,8 @@ for enforcing compliance by third parties with this License.</seg>
       <tuv lang="en">
         <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T162435Z">
-        <seg>Sie können die Rechtschreibprüfung auch anweisen, jedes Auftreten eines falsch geschriebenen Wortes zu missachten oder es dem Wörterbuch hinzuzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T201652Z">
+        <seg>Sie können die Rechtschreibprüfung auch anweisen, alle Vorkommen des falsch geschriebenen Wortes zu ignorieren oder das Wort zum Wörterbuch hinzuzufügen.</seg>
       </tuv>
     </tu>
     <tu>
