@@ -2743,16 +2743,16 @@ java.exe.</seg>
       <tuv lang="en">
         <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T125713Z">
-        <seg>, &lt;e0&gt;alt&lt;/e0&gt; (Alt), &lt;e1&gt;altGraph&lt;/e1&gt; (AltGr)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T123129Z">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt; (Alt) oder &lt;e1&gt;altGraph&lt;/e1&gt; (AltGr)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>, one can find:</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T153732Z">
-        <seg>, kann man finden:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T123718Z">
+        <seg>von OmegaT findet man zum Beispiel:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5411,16 +5411,16 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130046Z">
-        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; kann Folgendes sein: &lt;e1&gt;typed&lt;/e1&gt; (eingegeben), &lt;e2&gt;pressed&lt;/e2&gt; (gedrückt), &lt;e3&gt;released&lt;/e3&gt; (losgelassen)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T123156Z">
+        <seg>&lt;c0&gt;&lt;Ereignis&gt;&lt;/c0&gt; ist &lt;e1&gt;typed&lt;/e1&gt; (eingegeben), &lt;e2&gt;pressed&lt;/e2&gt; (gedrückt) oder &lt;e3&gt;released&lt;/e3&gt; (losgelassen)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T122830Z">
-        <seg>&lt;c0&gt;&lt;Modifikator&gt;&lt;/c0&gt; kann Folgendes sein: &lt;e1&gt;shift&lt;/e1&gt; (Umschalt), &lt;e2&gt;control&lt;/e2&gt; oder &lt;e3&gt;ctrl&lt;/e3&gt; (Strg), &lt;e4&gt;meta&lt;/e4&gt; (Cmd)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T123118Z">
+        <seg>&lt;c0&gt;&lt;Modifikator&gt;&lt;/c0&gt; ist &lt;e1&gt;shift&lt;/e1&gt; (Umschalt), &lt;e2&gt;control&lt;/e2&gt; oder &lt;e3&gt;ctrl&lt;/e3&gt; (Strg), &lt;e4&gt;meta&lt;/e4&gt; (Cmd)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24338,8 +24338,8 @@ freedoms that you received.</seg>
       <tuv lang="en">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T153711Z">
-        <seg>Zum Beispiel unter den Standard OmegaT Verknüpfungen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T123709Z">
+        <seg>Unter den Standard-Tastenkürzeln</seg>
       </tuv>
     </tu>
     <tu>
@@ -28532,8 +28532,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130536Z">
-        <seg>Wenn sie nicht mit Tastenkürzeln des Systems in Konflikt stehen, sollten sie in OmegaT nutzbar sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124219Z">
+        <seg>Solange die Tastenkürzel nicht mit Tastenkürzeln des Systems in Konflikt stehen, sollten diese in OmegaT nutzbar sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28724,8 +28724,8 @@ where to find the applicable terms.</seg>
       <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T071447Z">
-        <seg>Wenn Sie auf macOS das Tastenkürzel &lt;k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; in &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistiken&lt;/g6&gt; &lt;/m4&gt; einfügen möchten, fügen Sie die folgende Zeile in Ihr &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt; hinzu:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124017Z">
+        <seg>Wenn Sie auf macOS das Tastenkürzel &lt;k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; in &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistiken&lt;/g6&gt; &lt;/m4&gt; einfügen möchten, fügen Sie die folgende Zeile zu Ihrer &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;-Datei hinzu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29568,8 +29568,8 @@ folgt starten können:</seg>
       <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T153750Z">
-        <seg>Wenn Sie &lt;k0&gt; &lt;k1&gt;Umschalten&lt;/k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; um ein Projekt zu öffnen, ändern Sie &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; wie folgt:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T123909Z">
+        <seg>Wenn Sie &lt;k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; zum Öffnen eines Projekts verwenden möchten, ändern Sie Ihre &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt;-Datei wie folgt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35963,8 +35963,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Menu Item Code</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T215256Z">
-        <seg>Code des Menüpunkts</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124915Z">
+        <seg>Identifikator</seg>
       </tuv>
     </tu>
     <tu>
@@ -40199,8 +40199,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T220918Z">
-        <seg>In macOS muss der Modifikator &lt;e0&gt;meta&lt;/e0&gt; verwendet werden, um die &lt;e1&gt;Cmd&lt;/e1&gt;-Taste anzugeben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T123008Z">
+        <seg>In macOS muss für die &lt;e1&gt;Cmd&lt;/e1&gt;-Taste der Modifikator &lt;e0&gt;meta&lt;/e0&gt; angegeben werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43265,8 +43265,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Project Menu</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130702T162117Z">
-        <seg>Menü "Projekt"</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124319Z">
+        <seg>Projekt-Menü</seg>
       </tuv>
     </tu>
     <tu>
@@ -45988,8 +45988,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130504T154527Z">
-        <seg>Sichern Sie die Datei und starten &lt;a0&gt;OmegaT&lt;/a0&gt; neu.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124043Z">
+        <seg>Speichern Sie dann die Datei und starten Sie &lt;a0&gt;OmegaT&lt;/a0&gt; neu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54588,8 +54588,8 @@ content, constitutes a covered work.</seg>
       <tuv lang="en">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130213Z">
-        <seg>Die möglichen Tastenereignisse sind in der folgenden Java-1.6-Dokumentation von Oracle aufgelistet: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T123329Z">
+        <seg>Die möglichen Tastenereignisse (Tasten) sind in der folgenden Java-1.6-Dokumentation von Oracle aufgelistet: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55294,8 +55294,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T122457Z">
-        <seg>Die Syntax zum Definieren von Tastenkürzeln ist &lt;c0&gt;&lt;MenüpunktCode&gt;=&lt;Tastenkürzel&gt;&lt;/c0&gt;, wobei &lt;e1&gt;&lt;MenüpunktCode&gt;&lt;/e1&gt; ein Code aus den unteren Tabellen und &lt;e2&gt;&lt;Tastenkürzel&gt;&lt;/e2&gt; eine vom Benutzer festgelegte Tastenkombination ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124840Z">
+        <seg>Die Syntax zum Definieren von Tastenkürzeln ist &lt;c0&gt;&lt;MenüpunktID&gt;=&lt;Tastenkürzel&gt;&lt;/c0&gt;, wobei &lt;e1&gt;&lt;MenüpunktID&gt;&lt;/e1&gt; ein Identifikator aus den unteren Tabellen und &lt;e2&gt;&lt;Tastenkürzel&gt;&lt;/e2&gt; eine vom Benutzer festgelegte Tastenkombination ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66635,8 +66635,8 @@ them.</seg>
       <tuv lang="en">
         <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T215236Z">
-        <seg>Ihre neuen Tastenkürzel sollten nun neben den Menüpunkten erscheinen, die Sie geändert haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124130Z">
+        <seg>Ihre neuen Tastenkürzel sollten nun neben den entsprechenden Menüpunkten zu sehen sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67389,8 +67389,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130530T153535Z">
-        <seg>und &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; kann irgendeine Taste auf Ihrer Tastatur sein</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T123307Z">
+        <seg>&lt;c0&gt;&lt;Taste&gt;&lt;/c0&gt; ist eine beliebige Taste auf Ihrer Tastatur</seg>
       </tuv>
     </tu>
     <tu>
