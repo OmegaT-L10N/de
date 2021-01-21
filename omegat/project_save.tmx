@@ -10792,8 +10792,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="en">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130523T194011Z">
-        <seg>Ein Dialog öffnet sich, der es Ihnen erlaubt, einen Quellbegriff, einen Zielbegriff und jeglichen Kommentar, den Sie haben mögen, einzugeben:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T104708Z">
+        <seg>Es öffnet sich ein Dialogfenster, in welchem Sie den Quellbegriff, den Zielbegriff und ggf. einen Kommentar eingeben können:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12748,8 +12748,8 @@ conditions are met.</seg>
       <tuv lang="en">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130523T061008Z">
-        <seg>Auch das CSV Format wird unterstützt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T101110Z">
+        <seg>Das CSV-Format wird ebenfalls unterstützt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17256,8 +17256,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="en">
         <seg>Comment fields are separated by a comma ','.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T103905Z">
-        <seg>Kommentarfelder werden durch ein Komma ',' getrennt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T101430Z">
+        <seg>Kommentarfelder werden durch ein Komma getrennt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26341,8 +26341,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T102333Z">
-        <seg>Wenn Sie es im Glossarbereich markieren und dann mit der rechten Maustaste anklicken, wird es an der Position des Textcursors im Zieltext eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T100546Z">
+        <seg>Wenn Sie den Eintrag im Glossarbereich markieren und dann mit der rechten Maustaste anklicken, können Sie ihn an der Position des Textcursors im Zieltext einfügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26461,8 +26461,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>How to create glossaries</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Wie Glossare angelegt werden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T103116Z">
+        <seg>Wie man Glossare erstellt</seg>
       </tuv>
     </tu>
     <tu>
@@ -38674,8 +38674,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="en">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T075835Z" creationid="Michael Motzkus" creationdate="20180917T075835Z">
-        <seg>Natürlich muss die Codierung kompatibel mit den beiden enthaltenen Sprachen sein, daher wird Unicode empfohlen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T101054Z" creationid="Michael Motzkus" creationdate="20180917T075835Z">
+        <seg>Natürlich muss die Kodierung kompatibel mit den beiden enthaltenen Sprachen sein, daher wird Unicode empfohlen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49625,8 +49625,8 @@ make it effectively proprietary.</seg>
       <tuv lang="en">
         <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130523T061245Z">
-        <seg>Zeichenfolgen können durch Anführungsstriche " umgeben sein, was es möglich macht, dass ein Komma in einer Zeichenfolge erscheint:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T101559Z">
+        <seg>Zeichenketten können in Anführungszeichen gesetzt werden, wodurch es möglich ist, ein Komma innerhalb einer Zeichenkette zu verwenden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54032,8 +54032,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T125149Z" creationid="Ragnar-F" creationdate="20210113T125149Z">
-        <seg>Der Standort der &lt;f0&gt;.tbx&lt;/f0&gt;-Datei muss sich innerhalb des Ordners &lt;f1&gt;/glossary&lt;/f1&gt; befinden, sie kann sich aber auch in einem tieferen Ordner (z. B. &lt;f2&gt;glossary/sub/MeinGlossar.tbx&lt;/f2&gt;) befinden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T102355Z" creationid="Ragnar-F" creationdate="20210113T125149Z">
+        <seg>Die &lt;f0&gt;.tbx&lt;/f0&gt;-Datei muss sich im Ordner &lt;f1&gt;/glossary&lt;/f1&gt; befinden, aber es sind auch Unterordner möglich (z. B. &lt;f2&gt;glossary/sub/MeinGlossar.tbx&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54064,8 +54064,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T091939Z" creationid="Michael Motzkus" creationdate="20180917T075720Z">
-        <seg>Die Datei muss sich im Ordner &lt;f2&gt;/glossary&lt;/f2&gt; befinden, oder auch in einem tieferen Ordner (z. B. &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T102405Z" creationid="Michael Motzkus" creationdate="20180917T075720Z">
+        <seg>Die Datei muss sich im Ordner &lt;f2&gt;/glossary&lt;/f2&gt; befinden, aber es sind auch Unterordner möglich (z. B. &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57581,8 +57581,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This format is the same as the tab separated one: source term, target term.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130523T061109Z">
-        <seg>Dieses Format ist das Gleiche wie das durch Tabulator getrennte Format: Quellbegriff, Zielbegriff.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T101256Z">
+        <seg>Dieses Format ist dasselbe wie das tabulatorgetrennte Format: Quellbegriff, Zielbegriff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61713,8 +61713,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T224727Z">
-        <seg>Von daher ist eine Aktualisierung der Glossardatei eher einfach: drücken Sie &lt;k0&gt;Strg+Umschalt+G&lt;/k0&gt; und fügen Sie den neuen Begriff, seine Übersetzung und irgendwelche Kommentare ein, die Sie haben (stellen Sie sicher, dass Sie einen Tabulator zwischen den Feldern setzen) und speichern Sie die Datei.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T105414Z">
+        <seg>Das Aktualisieren einer Glossardatei ist somit recht einfach: Drücken Sie &lt;k0&gt;Strg+Umschalt+G&lt;/k0&gt; und geben Sie den neuen Begriff, seine Übersetzung und eventuelle Kommentare ein (achten Sie darauf, dass Sie zwischen den Feldern die Tabulatortaste drücken) und speichern Sie die Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72968,8 +72968,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>multiple words entries in glossaries - example</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130522T185824Z">
-        <seg>Eingabe mehrerer Worte in Glossare - Beispiel</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T095644Z">
+        <seg>Mehrworteinträge in Glossaren - Beispiel</seg>
       </tuv>
     </tu>
     <tu>
