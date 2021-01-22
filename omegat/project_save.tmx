@@ -2112,8 +2112,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210119T100903Z" creationid="Michael Motzkus" creationdate="20190129T083419Z">
-        <seg>Text beim Verlassen eines Segments &amp;validieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T100948Z" creationid="Michael Motzkus" creationdate="20190129T083419Z">
+        <seg>Tags beim Verlassen eines Segments &amp;validieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -5699,8 +5699,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T135816Z" creationid="Ragnar-F" creationdate="20210109T135736Z">
-        <seg>&lt;e0&gt;Kodierungsdeklaration in HTML- und XHTML-Dateien hinzufügen oder überschreiben&lt;/e0&gt;: Die Zieldateien müssen oft eine andere Zeichensatzkodierung haben als die in der Quelldatei (egal ob sie explizit definiert oder impliziert ist).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T100200Z" creationid="Ragnar-F" creationdate="20210109T135736Z">
+        <seg>&lt;e0&gt;Kodierungsdeklaration in HTML- und XHTML-Dateien einfügen oder überschreiben&lt;/e0&gt;: Die Zieldateien müssen oft eine andere Zeichensatzkodierung haben als die in der Quelldatei (egal ob sie explizit definiert oder impliziert ist).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14241,8 +14241,8 @@ korrektem Verhalten kommen kann.</seg>
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T112947Z">
-        <seg>'nplurals=INTEGER; &amp;plural=EXPRESSION;' im Header automatisch ersetzen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T094955Z">
+        <seg>'nplurals=INTEGER; plural=EXPRESSION;' im Header automatisch ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -63125,8 +63125,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>View...</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T130952Z">
-        <seg>Darstellung...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T102648Z">
+        <seg>Ansicht...</seg>
       </tuv>
     </tu>
     <tu>
