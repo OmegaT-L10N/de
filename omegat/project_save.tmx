@@ -5947,16 +5947,16 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T121848Z">
-        <seg>&lt;e0&gt;Hinweis:&lt;/e0&gt; der Satz an Dateifiltern für ein bestehendes Projekt wird als &lt;f1&gt;project/omegat/filters.xml&lt;/f1&gt; gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T112135Z">
+        <seg>&lt;e0&gt;Hinweis:&lt;/e0&gt; Der projektspezifische Satz von Dateifiltern wird in &lt;f1&gt;project/omegat/filters.xml&lt;/f1&gt; gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T202358Z">
-        <seg>&lt;e0&gt;Hinweis:&lt;/e0&gt; der Satz an Segmentierungsregeln für ein bestehendes Projekt wird als &lt;f1&gt;project/omegat/segmentation.conf&lt;/f1&gt; gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T111725Z">
+        <seg>&lt;e0&gt;Hinweis:&lt;/e0&gt; Der projektspezifische Satz von Segmentierungsregeln wird in &lt;f1&gt;project/omegat/segmentation.conf&lt;/f1&gt; gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10743,8 +10743,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="en">
         <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T121554Z">
-        <seg>Eine Kopie der geänderten Filterkonfiguration wird zusammen mit dem Projekt gespeichert werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T111915Z">
+        <seg>Eine Kopie der geänderten Filterkonfiguration wird zusammen mit dem Projekt gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14702,8 +14702,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T144137Z">
-        <seg>Sie müssen bedenken, dass die Änderung der Sprache die zurzeit verwendeten TM nutzlos machen kann, da ihr Sprachenpaar den neuen Sprachen mehr nicht mehr entsprechen könnte.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T102814Z">
+        <seg>Beachten Sie, dass eine Änderung der Sprachen die aktuell verwendeten Translation Memories unbrauchbar machen kann, da ihr Sprachenpaar möglicherweise nicht mehr zu den neuen Sprachen passt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15928,16 +15928,16 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141953Z">
-        <seg>Das Ändern von Segmentierungseinstellungen kann dazu führen, dass schon übersetzte Segmente aufgespalten oder vereint werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T104014Z">
+        <seg>Das Ändern der Segmentierungseinstellungen kann dazu führen, dass einige bereits übersetzte Segmente gesplittet oder zusammengeführt werden.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T200736Z">
-        <seg>Wenn diese Kennzeichnung geändert wird, ändert sich an der Segmentierung von schon existierenden Übersetzungen nichts.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T103940Z">
+        <seg>Das Ändern dieser Option hat keine Auswirkung auf die Segmentierung von bereits vorhandenen Translation Memories.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19658,8 +19658,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Defines the project-specific external search resources.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T150949Z" creationid="Ragnar-F" creationdate="20210110T192732Z">
-        <seg>Definiert die projektspezifischen Externe-Suche-Ressourcen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T112230Z" creationid="Ragnar-F" creationdate="20210110T192732Z">
+        <seg>Definiert die projektspezifischen externen Suchressourcen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26269,8 +26269,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T123926Z">
-        <seg>Hier können Sie verschiedene Unterordner auswählen, zum Beispiel den Unterordner mit Quelldateien, Unterordner für Zieldateien usw.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T112306Z">
+        <seg>Hier können Sie verschiedene Unterordner auswählen, zum Beispiel den Unterordner mit Quelldateien, den Unterordner für Zieldateien usw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28032,8 +28032,8 @@ Foundation.</seg>
       <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145115Z">
-        <seg>Wenn das Kontrollkästchen "Automatische Weitergabe" deaktiviert ist, bleiben die Segmente mit alternativen Übersetzungen unübersetzt, bis der Benutzer entschieden hat, welche Übersetzung verwendet werden soll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T104615Z">
+        <seg>Wenn die Auto-Propagation-Option deaktiviert ist, bleiben Segmente mit Alternativübersetzungen unübersetzt, bis der Benutzer sich für eine Übersetzung entschieden hat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29125,8 +29125,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="en">
         <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T124017Z">
-        <seg>Wenn Sie Namen von Ordnern eingeben, die noch nicht existieren, wird &lt;a0&gt;OmegaT&lt;/a0&gt; sie für Sie anlegen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T112449Z">
+        <seg>Wenn Sie Namen von Ordnern eingeben, die noch nicht existieren, wird &lt;a0&gt;OmegaT&lt;/a0&gt; diese für Sie erstellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30118,8 +30118,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In a similar fashion as above the user can create project-specific File filters, which will be stored together with the project and will be valid for the current project only.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T121310Z">
-        <seg>In einer ähnlichen Weise wie oben kann der Nutzer projektspezifische Dateifilter erstellen, die zusammen mit dem Projekt gespeichert werden und nur für das bestehende Projekt gültig sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T111805Z">
+        <seg>Ähnlich wie oben kann der Benutzer projektspezifische Dateifilter erstellen, die zusammen mit dem Projekt gespeichert werden und nur für das aktuelle Projekt gültig sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30278,8 +30278,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145024Z">
-        <seg>Falls es in den Quelldokumenten nicht-einmalige Segmente gibt, bietet das Kontrollkästchen "Automatische Weitergabe" dem Benutzer die folgenden zwei Möglichkeiten für die automatische Übersetzung: Wenn es aktiviert ist, wird das erste übersetzte Segment als Standardübersetzung vermutet und dessen Zieltext automatisch für spätere Treffer im Übersetzungsprozess verwendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T104500Z">
+        <seg>Falls es in den Quelldokumenten nicht-einmalige Segmente gibt, bietet die Auto-Propagation-Option dem Benutzer die folgenden zwei Möglichkeiten für die automatische Übersetzung: Wenn die Option aktiviert ist, wird das erste übersetzte Segment als Standardübersetzung vermutet und dessen Zieltext automatisch für spätere Treffer im Übersetzungsprozess verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30672,8 +30672,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T144332Z">
-        <seg>In einigen seltenen Fällen kann die Alternative, also die absatzweise Segmentierung, die bessere Wahl sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T103742Z">
+        <seg>In einigen seltenen Fällen kann die Alternative, also die Absatzsegmentierung, die bessere Wahl sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37900,8 +37900,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T174115Z">
-        <seg>Bedenken Sie, dass in dem Menü &lt;g2&gt;Optionen → Dateifilter&lt;/g2&gt; die globalen Filter des Benutzers geändert werden, nicht die Filter des Projekts.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T112105Z">
+        <seg>Beachten Sie, dass im Menü &lt;g2&gt;Optionen → Dateifilter&lt;/g2&gt; die globalen Filter des Benutzers geändert werden, nicht die Filter des Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47735,8 +47735,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Sentence level segmentation</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T220655Z">
-        <seg>Segmentierung auf Satzebene</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T103635Z">
+        <seg>Satzsegmentierung</seg>
       </tuv>
     </tu>
     <tu>
@@ -49673,8 +49673,8 @@ make it effectively proprietary.</seg>
       <tuv lang="en">
         <seg>Structure level segmentation</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210109T220500Z">
-        <seg>Segmentierung auf Strukturebene</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T103652Z">
+        <seg>Struktursegmentierung</seg>
       </tuv>
     </tu>
     <tu>
@@ -54328,8 +54328,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T202119Z">
-        <seg>Der neue Satz mit Regeln wird zusammen mit Projekt gespeichert werden und keinen Konflikt mit dem allgemeinen Satz an Segmentierungsregeln verursachen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T111126Z">
+        <seg>Der neue Satz von Regeln wird zusammen mit dem Projekt gespeichert und interferiert nicht mit dem allgemeinen Satz von Segmentierungsregeln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54622,8 +54622,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T200559Z">
-        <seg>Die vorherrschende Art der Segmentierung von Quellen ist die Segmentierung auf Satzebene, daher sollte dieser Kasten in einem normalen markiert bleiben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T103612Z">
+        <seg>Die vorherrschende Segmentierung der Quellen ist die Satzsegmentierung, daher sollte dieses Kontrollkästchen im Normalfall aktiviert bleiben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55182,16 +55182,16 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The segmentation rules are generally valid across all the projects.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T201214Z">
-        <seg>Die Segmentierungsregeln sind generell für alle Projekte gültig.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T104937Z">
+        <seg>Die Segmentierungsregeln wirken sich grundsätzlich auf alle Projekte aus.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T200440Z">
-        <seg>Die Segmentierungseinstellungen beziehen sich nur auf die Art, wie &lt;a0&gt;OmegaT&lt;/a0&gt; mit den Quelldateien umgeht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T103229Z">
+        <seg>Die Segmentierungseinstellungen beziehen sich nur auf die Art und Weise, wie &lt;a0&gt;OmegaT&lt;/a0&gt; mit den Quelldateien umgeht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55994,8 +55994,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T201820Z">
-        <seg>Jedoch könnte es für den Nutzer notwendig sein, einen Satz von Regeln zu erstellen, die für das bestehende Projekt spezifisch sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T110234Z">
+        <seg>Man kann aber auch einen Satz von Regeln erstellen, das speziell auf das jeweilige Projekt zugeschnitten ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57140,8 +57140,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145629Z" creationid="Michael Motzkus" creationdate="20180919T070529Z">
-        <seg>Dieser Bereich erlaubt die Eingabe eines externen Nachbearbeitungsbefehls (zum Beispiel ein Skript, das Dateinamen ändert), das jedes Mal ausgeführt wird, nachdem "Übersetzte Dokumente erstellen" benutzt wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T104842Z" creationid="Michael Motzkus" creationdate="20180919T070529Z">
+        <seg>In diesem Bereich können Sie einen externen Nachbearbeitungsbefehl eingeben (z. B. ein Skript zum Umbenennen von Dateien), der jedes Mal ausgeführt werden soll, wenn "Übersetzte Dokumente erstellen" verwendet wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58608,8 +58608,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230540Z">
-        <seg>Das wird sie praktisch in den "unübersetzten" Status zurücksetzen, weil sie den Segmenten in der TM nicht mehr entsprechen, obwohl die alte Übersetzung noch da ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T104348Z">
+        <seg>Dies hat zur Folge, dass sie wieder in den "unübersetzten" Status versetzt werden, da sie nicht mehr mit den im Projekt-Memory gespeicherten Segmenten übereinstimmen, auch wenn ihre ursprüngliche Übersetzung noch vorhanden ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59238,16 +59238,16 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To delete project specific file filters, uncheck the check box.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T121617Z">
-        <seg>Um projektspezifische Dateifilter zu löschen, entfernen Sie die Markierung von der Box.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T111952Z">
+        <seg>Um projektspezifische Dateifilter zu löschen, deaktivieren Sie die Option wieder.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T202205Z">
-        <seg>Um projektspezifische Segmentierungsregeln zu löschen, entfernen Sie die Markierung von der Box.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T111335Z">
+        <seg>Um projektspezifische Segmentierungsregeln zu löschen, deaktivieren Sie die Option wieder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60161,8 +60161,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T063807Z" creationid="Michael Motzkus" creationdate="20180919T063807Z">
-        <seg>Den ausgewählten Sprachen entsprechende Tokenizer werden angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T102906Z" creationid="Michael Motzkus" creationdate="20180919T063807Z">
+        <seg>Es werden die Tokenizer entsprechend der ausgewählten Sprachen angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62169,8 +62169,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T223347Z" creationid="Michael Motzkus" creationdate="20180919T065607Z">
-        <seg>Benutzen Sie diese Schaltfläche, um ein Dialogfenster zu öffnen, aktivieren Sie die Option &lt;g0&gt;Segmentierungsregeln projektspezifisch machen&lt;/g0&gt; und passen Sie dann die Segmentierungsregeln wie gewünscht an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T111013Z" creationid="Michael Motzkus" creationdate="20180919T065607Z">
+        <seg>Benutzen Sie diese Schaltfläche, um ein Dialogfenster zu öffnen, aktivieren Sie die Option &lt;g0&gt;Segmentierungsregeln projektspezifisch machen&lt;/g0&gt; und passen Sie dann die Segmentierungsregeln wie gewünscht weiter an.</seg>
       </tuv>
     </tu>
     <tu>
