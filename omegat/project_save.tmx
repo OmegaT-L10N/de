@@ -16704,8 +16704,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T071257Z" creationid="Michael Motzkus" creationdate="20180919T071257Z">
-        <seg>Klicken Sie auf &lt;g0&gt;Ausnahmen...&lt;/g0&gt;, um Dateien und Ordner festzulegen, die von &lt;a1&gt;OmegaT&lt;/a1&gt; ignoriert werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T112623Z" creationid="Michael Motzkus" creationdate="20180919T071257Z">
+        <seg>Klicken Sie auf &lt;g0&gt;Ausnahmen...&lt;/g0&gt;, um Dateien und Ordner festzulegen, die von &lt;a1&gt;OmegaT&lt;/a1&gt; ignoriert werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30302,8 +30302,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142009Z">
-        <seg>Wenn Sie sich entscheiden, die Projektordner zu ändern, vergessen Sie nicht, dass OmegaT die in alten Ordnern enthaltenen Dateien nicht in die neuen Ordner verschieben wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T112555Z">
+        <seg>Falls Sie sich entscheiden, Projektordner zu ändern, denken Sie daran, dass dadurch vorhandene Dateien aus alten Ordnern nicht an den neuen Speicherort verschoben werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30760,8 +30760,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T071821Z" creationid="Michael Motzkus" creationdate="20180919T071821Z">
-        <seg>Im Dialogfenster Ausnahmemuster ist es möglich, Muster hinzuzufügen oder zu entfernen oder eines durch das Auswählen einer Zeile und Drücken von F2 zu ändern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T112928Z" creationid="Michael Motzkus" creationdate="20180919T071821Z">
+        <seg>Im Ausnahmemuster-Dialogfenster können Sie ein Muster hinzufügen oder entfernen, oder ein Muster bearbeiten, indem Sie eine Zeile auswählen und F2 drücken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32548,8 +32548,8 @@ Benutzerhandbuch.</seg>
       <tuv lang="en">
         <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T072045Z" creationid="Michael Motzkus" creationdate="20180919T072045Z">
-        <seg>Es ist möglich, Platzhalter gemäß &lt;u0&gt;Ant-Syntax&lt;/u0&gt; zu benutzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T113036Z" creationid="Michael Motzkus" creationdate="20180919T072045Z">
+        <seg>Es ist möglich, Platzhalter gemäß der &lt;u0&gt;Ant-Syntax&lt;/u0&gt; zu benutzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71536,8 +71536,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>is not copied in /target folder during the translated files creation process.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T071509Z" creationid="Michael Motzkus" creationdate="20180919T071509Z">
-        <seg>wird während des Erstellens der Zieldokumente nicht in den Ordner /target kopiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T112740Z" creationid="Michael Motzkus" creationdate="20180919T071509Z">
+        <seg>wird beim Erstellen der übersetzten Dateien nicht in den Ordner /target kopiert.</seg>
       </tuv>
     </tu>
     <tu>
