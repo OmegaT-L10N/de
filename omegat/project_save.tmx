@@ -23712,8 +23712,8 @@ Backup-Dateiendung '.recover'.</seg>
       <tuv lang="en">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142120Z">
-        <seg>Bei Korrekturen geht es meistens um triviale Sachen und OmegaT wird Ihnen in der Fehlermeldung andeuten, um welchen Fehler es sich handelt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T152948Z">
+        <seg>Die Fehlerbehebung ist trivial, außerdem wird OmegaT Ihnen bei der Fehlersuche mit der entsprechenden Fehlermeldung helfen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26537,8 +26537,8 @@ modify any covered work.</seg>
       <tuv lang="en">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155042Z">
-        <seg>Jedoch unterstützt OmegaT importierte Level-2-TMX-Dateien nicht vollständig (sie enthalten nicht nur die Übersetzung, sondern auch die Formatierung).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T151328Z">
+        <seg>Das Importieren von Level-2-TMX-Dateien unterstützt OmegaT nur bedingt (solche Dateien enthalten nicht nur die Übersetzung, sondern auch die Formatierung).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27419,8 +27419,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142109Z">
-        <seg>Wird in solch einer Datei ein Fehler gefunden, wird OmegaT die Stelle angeben, an der der Fehler in der beschädigten Datei sitzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T152216Z">
+        <seg>Wenn ein Fehler in einer solchen Datei gefunden wird, wird OmegaT die entsprechende Position innerhalb der defekten Datei melden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48771,8 +48771,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230233Z">
-        <seg>Einige Werkzeuge sind dafür bekannt, dass sie unter bestimmten Bedingungen ungültige TMX-Dateien erzeugen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T152147Z">
+        <seg>Einige Tools sind dafür bekannt, unter Umständen ungültige TMX-Dateien zu erzeugen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53908,8 +53908,8 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode ist (optional).</seg>
       <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230329Z">
-        <seg>Der Level 2-Export ist nicht vollständig konform mit dem Level 2-Standard, kommt diesem aber sehr nahe und erzeugt korrekte Matches in anderen Translation-Memory-Tools, die TMX Level 2 unterstützen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T153631Z">
+        <seg>Der Level-2-Export ist zwar nicht vollständig konform mit dem Level-2-Standard, kommt diesem aber sehr nahe und erzeugt korrekte Matches in anderen Translation-Memory-Tools, die TMX Level 2 unterstützen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65361,8 +65361,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can ask the user group for advice if you have problems.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T050338Z">
-        <seg>Wenn Sie Probleme haben, können Sie sich die Benutzergruppe um Rat fragen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T153037Z">
+        <seg>Sie können die Benutzergruppe um Rat fragen, wenn Sie Probleme haben.</seg>
       </tuv>
     </tu>
     <tu>
