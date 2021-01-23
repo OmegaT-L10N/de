@@ -37788,8 +37788,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230224Z">
-        <seg>Bedenken Sie, dass alle TMX-Dateien in der /tm Repository analysiert werden, wenn das Projekt geöffnet wird, von daher könnte es OmegaT unnötig verlangsamen, wenn sie alle TMs, die Sie habe in diesen Ordner packen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T133927Z">
+        <seg>Beachten Sie, dass beim Öffnen des Projekts alle TMX-Dateien im /tm-Repository geparst werden. Wenn Sie also alle möglichen TMs in diesen Ordner verschieben, kann das OmegaT unnötig verlangsamen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63797,8 +63797,8 @@ price.</seg>
       <tuv lang="en">
         <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T131748Z">
-        <seg>Wenn Sie ein neues Projekt zum gleichen Thema oder für den gleichen Kunden beginnen, zum "Repository"-Ordner im Dialogfenster &lt;g0&gt;Projekt &gt; Eigenschaften &gt; Projekt bearbeiten&lt;/g0&gt; und legen Sie ihn als TM-Ordner fest.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T132830Z">
+        <seg>Wenn Sie ein neues Projekt zum gleichen Thema oder für den gleichen Kunden beginnen, wählen Sie &lt;g0&gt;Projekt &gt; Eigenschaften&lt;/g0&gt; aus, um das Projekteigenschaften-Dialogfenster zu öffnen, und navigieren Sie dort unter "Ordner für Translation-Memory-Dateien" zum Repository-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
