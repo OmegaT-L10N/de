@@ -5995,8 +5995,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230737Z">
-        <seg>&lt;e0&gt;Wichtig: &lt;/e0&gt;die unterstützende TMX muss als XX_YY.tmx umbenannt werden, wobei XX_YY die Zielsprache der TMX-Datei ist, zum Beispiel ZH_CN.tmx im obigen Beispiel.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T201128Z">
+        <seg>&lt;e0&gt;Wichtig:&lt;/e0&gt; Die Hilfs-TMX-Datei muss in XX_YY.tmx umbenannt werden, wobei XX_YY die Zielsprache der TMX-Datei ist, zum Beispiel in ZH_CN.tmx im obigen Beispiel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31079,8 +31079,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T065609Z" creationid="Michael Motzkus" creationdate="20180925T065609Z">
-        <seg>In diesem Fall kann das NL-EN-Translation Memory als Zwischenschritt dienen, um dabei zu helfen, NL-zu-ZH-Übersetzung zu erstellen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T195615Z" creationid="Michael Motzkus" creationdate="20180925T065609Z">
+        <seg>In diesem Fall kann der NL-EN-Translation-Memory als Zwischenschritt für die Übersetzung von NL nach ZH dienen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54718,8 +54718,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130621T114221Z">
-        <seg>Das Projekt und die TMX-Quellsprache sollten identisch sein - NL in diesem Beispiel.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T201226Z">
+        <seg>Die Quellsprachen des Projekts und der TMX-Datei sollten natürlich identisch sein - in unserem Beispiel NL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55350,8 +55350,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T065850Z" creationid="Michael Motzkus" creationdate="20180925T065850Z">
-        <seg>Die Lösung in unserem Beispiel ist, den vorhandenen Translation Memory in den Unterordner tm/tmx2source/ zu kopieren und ihn nach ZH_CN.tmx umzubenennen, um auf die Zielsprache der TMX hinzuweisen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T195851Z" creationid="Michael Motzkus" creationdate="20180925T065850Z">
+        <seg>Die Lösung in unserem Beispiel ist, den vorhandenen Translation Memory in den Unterordner tm/tmx2source/ zu kopieren und ihn in ZH_CN.tmx umzubenennen, um die Zielsprache der TMX-Datei anzugeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55890,8 +55890,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T094612Z">
-        <seg>Dem Übersetzer werden englische Übersetzungen für Quellsegmente in Niederländisch gezeigt und kann sie nutzen, um die chinesische Übersetzung zu erstellen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T200426Z">
+        <seg>Die Übersetzerin wird englische Übersetzungen für niederländische Quellsegmente sehen und diese zur Erstellung der chinesischen Übersetzung verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56218,8 +56218,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>Then you need a translation in e.g. Chinese, but your translator does not understand Dutch; she, however, understands perfectly English.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T060801Z">
-        <seg>Dann brauchen Sie eine Übersetzung zum Beispiel ins Chinesische, aber Ihr Übersetzer versteht kein Niederländisch, aber versteht Englisch sehr gut.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T195224Z">
+        <seg>Dann brauchen Sie eine Übersetzung ins Chinesische, aber Ihre Übersetzerin versteht kein Niederländisch; sie versteht aber perfekt Englisch.</seg>
       </tuv>
     </tu>
     <tu>
