@@ -15429,8 +15429,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T153954Z">
-        <seg>Standardmäßig befindet sich der /tm-Ordner innerhalb des Root-Ordners des Projekts (z. B. ...&lt;e0&gt;/MeinProjekt/tm&lt;/e0&gt;), aber Sie können, wenn Sie möchten, im Projekteigenschaften-Dialogfenster einen anderen Ordner auswählen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T114030Z">
+        <seg>Standardmäßig befindet sich der /tm-Ordner im Root-Ordners des Projekts (z. B. ...&lt;e0&gt;/MeinProjekt/tm&lt;/e0&gt;), aber Sie können, wenn Sie möchten, im Projekteigenschaften-Dialogfenster einen anderen Ordner auswählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31046,8 +31046,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In this case, a useful procedure would be:</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>In einem solchen Fall könnte ein sinnvolles Vorgehen sein:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T114340Z">
+        <seg>In diesem Fall könnte man wie folgt vorgehen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57984,8 +57984,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T154009Z">
-        <seg>Das ist sinnvoll, wenn Sie öfter TMs aus der Vergangenheit benutzen, entweder weil es um das gleiche Thema geht oder für denselben Kunden sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T114258Z">
+        <seg>Dies ist sinnvoll, wenn Sie häufig Translation Memories verwenden, die in der Vergangenheit erstellt wurden, z. B. weil sie dasselbe Thema behandeln oder für denselben Kunden bestimmt sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63797,8 +63797,8 @@ price.</seg>
       <tuv lang="en">
         <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T154837Z">
-        <seg>Navigieren Sie bei einem neuen Projekt, das denselben Fachbereich oder denselben Kunden betrifft, zum "Repository"-Ordner im Dialogfenster &lt;g0&gt;Projekt &gt; Eigenschaften &gt; Projekt bearbeiten&lt;/g0&gt; und legen Sie ihn als TM-Ordner fest.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T131748Z">
+        <seg>Wenn Sie ein neues Projekt zum gleichen Thema oder für den gleichen Kunden beginnen, zum "Repository"-Ordner im Dialogfenster &lt;g0&gt;Projekt &gt; Eigenschaften &gt; Projekt bearbeiten&lt;/g0&gt; und legen Sie ihn als TM-Ordner fest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63869,8 +63869,8 @@ technological measures.</seg>
       <tuv lang="en">
         <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T155409Z">
-        <seg>Wenn Sie Zieldokumente in einem &lt;a0&gt;OmegaT&lt;/a0&gt;-Projekt erzeugen, wird die TM des Projekts in der Form von drei Dateien im Hauptordner Ihres &lt;a1&gt;OmegaT&lt;/a1&gt;-Projekts gespeichert (siehe die Beschreibung oben).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T114046Z">
+        <seg>Wenn Sie die Zieldokumente in einem &lt;a0&gt;OmegaT&lt;/a0&gt;-Projekt erstellen, wird das Translation Memory des Projekts in Form von drei Dateien im Root-Ordner Ihres &lt;a1&gt;OmegaT&lt;/a1&gt;-Projekts angelegt (siehe die obige Beschreibung).</seg>
       </tuv>
     </tu>
     <tu>
