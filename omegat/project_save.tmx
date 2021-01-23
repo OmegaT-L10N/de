@@ -16192,8 +16192,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230547Z">
-        <seg>Suchen Sie mit &lt;k0&gt;Strg+T &lt;/k0&gt;nach möglichen Tag-Fehlern und nach unübersetzten Segmenten mit &lt;k1&gt;Strg+U&lt;/k1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T182110Z">
+        <seg>Suchen Sie mit &lt;k0&gt;Strg+T&lt;/k0&gt; nach möglichen Tag-Fehlern und mit &lt;k1&gt;Strg+U&lt;/k1&gt; nach unübersetzten Segmenten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29415,8 +29415,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142123Z">
-        <seg>Wenn Sie nur Textinformation brauchen (und keine Formatierungen), verwenden Sie die von OmegaT geschaffene Level 1 Datei.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T154519Z">
+        <seg>Wenn Sie nur textbezogene Informationen (also Text ohne Formatierung) benötigen, verwenden Sie die von OmegaT erstellte Level-1-Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30294,8 +30294,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155710Z" creationid="Michael Motzkus" creationdate="20180925T065257Z">
-        <seg>Für den Fall, dass Übersetzer ihre TMX-Datenbanken teilen müssen, während sie einige ihrer Teile ausschließen oder nur Übersetzungen bestimmter Dateien einschließen, kommt die gemeinsame Nutzung des vollständigen &lt;f0&gt;ProjektName-omegat.tmx&lt;/f0&gt; nicht in Frage.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T155005Z" creationid="Michael Motzkus" creationdate="20180925T065257Z">
+        <seg>Falls Übersetzer ihre TMX-Datenbanken gemeinsam nutzen möchten, dabei aber einige Teile auslassen oder nur die Übersetzungen bestimmter Dateien einbeziehen wollen, kommt die gemeinsame Nutzung der kompletten &lt;f0&gt;ProjektName-omegat.tmx&lt;/f0&gt;-Datei nicht in Frage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59094,8 +59094,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T055236Z">
-        <seg>Um zu sehen, dass alles wie erwarten ist, können Sie &lt;k2&gt;Strg+D&lt;/k2&gt; drücke, um die Zieldokumente zu erzeugen und ihre Inhalte zu überprüfen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T183316Z">
+        <seg>Um zu überprüfen, ob alles wie erwartet funktioniert, erstellen Sie mit &lt;k2&gt;Strg+D&lt;/k2&gt; die Zieldokumente und kontrollieren Sie deren Inhalte.</seg>
       </tuv>
     </tu>
     <tu>
