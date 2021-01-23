@@ -28868,8 +28868,8 @@ where to find the applicable terms.</seg>
       <tuv lang="en">
         <seg>If you believe that you have lost translation data, you can use the following procedure to restore the project to its most recently saved state, usually not older than approximately 10 minutes or so:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T084555Z">
-        <seg>Wenn Sie glauben, dass Sie Daten der Übersetzung verloren haben, können Sie die folgende Prozedur durchlaufen, um das Projekt auf seinen neuesten gespeicherten Stand zu bringen, normalerweise nicht älter als 10 Minuten oder so:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T100601Z">
+        <seg>Wenn Sie der Meinung sind, dass Sie Übersetzungsdaten verloren haben, können Sie mit dem folgenden Verfahren den zuletzt gespeicherten Zustand des Projekts wiederherstellen, der normalerweise nicht älter als etwa 10 Minuten ist:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38940,8 +38940,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T155139Z">
-        <seg>OmegaT erstellt zugleich Sicherheitskopien von project_save.tmx.YEARMMDDHHNN.bak im gleichen Unterordner jedes Mal, wenn ein Projekt geöffnet oder neu geladen wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T095802Z">
+        <seg>OmegaT erstellt außerdem jedes Mal, wenn ein Projekt geöffnet oder neu geladen wird, im selben Unterordner eine Sicherungskopie des Translation Memory namens project_save.tmx.YEARMMDDHHNN.bak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63973,8 +63973,8 @@ technological measures.</seg>
       <tuv lang="en">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T115015Z">
-        <seg>Wenn Sie Ihre Dateien übersetzen, speichert &lt;a2&gt;OmegaT&lt;/a2&gt; Ihren Fortschritt in die Translation-Memory-Datei &lt;l3&gt;project_save.tmx&lt;/l3&gt;, die sich im &lt;l4&gt;/omegat&lt;/l4&gt;-Unterordner des Projekts befindet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T095522Z">
+        <seg>Wenn Sie Ihre Dateien übersetzen, speichert &lt;a2&gt;OmegaT&lt;/a2&gt; Ihren gesamten Fortschritt in den Translation Memory &lt;l3&gt;project_save.tmx&lt;/l3&gt;, der sich im &lt;l4&gt;/omegat&lt;/l4&gt;-Unterordner des Projekts befindet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64980,8 +64980,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130527T084349Z">
-        <seg>YEAR ist das Jahr (4 Ziffern), MM ist der Monat, DD der Tag des Monats und HH und NN sind die Stunden und Minuten, an denen die vorhergehende Translation Memory gespeichert wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T100804Z">
+        <seg>YEARMMDDHHNN repräsentiert dabei den Zeitpunkt, wann der vorherige Translation Memory gespeichert wurde: YEAR ist das vierstellige Jahr, MM der zweistellige Monat, DD der zweistellige Tag des Monats, HH die zweistellige Stunde und NN die zweistellige Minute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75344,8 +75344,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142038Z">
-        <seg>Wählen Sie die Sicherheitskopie der TM aus, die am wahrscheinlichsten alle Daten enthält, die Sie vermissen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T101114Z">
+        <seg>Wählen Sie die Sicherheitskopie des Translation Memory aus, der am ehesten die gesuchten Daten enthält.</seg>
       </tuv>
     </tu>
     <tu>
