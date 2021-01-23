@@ -37788,8 +37788,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T133927Z">
-        <seg>Beachten Sie, dass beim Öffnen des Projekts alle TMX-Dateien im /tm-Repository geparst werden. Wenn Sie also alle möglichen TMs in diesen Ordner verschieben, kann das OmegaT unnötig verlangsamen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T134115Z">
+        <seg>Beachten Sie, dass beim Öffnen des Projekts alle TMX-Dateien im /tm-Repository geparst werden. Wenn Sie also alle möglichen TMs in diesen Ordner packen, kann das OmegaT unnötig verlangsamen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39725,8 +39725,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230229Z">
-        <seg>OmegaT unterstützt importierte TMX-Dateien der Versionen 1.1-1.4b (beide Level 1 und Level 2).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T140959Z">
+        <seg>OmegaT unterstützt das Importieren von TMX-Dateien der Versionen 1.1 bis 1.4b (sowohl Level 1 als auch Level 2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57485,8 +57485,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T154920Z">
-        <seg>Das ermöglicht es, Translation Memories, die von anderen Programmen erzeugt wurden, von OmegaT lesen zu lassen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T150135Z">
+        <seg>OmegaT ist somit in der Lage, Translation Memories, die von anderen Tools erstellt wurden, zu lesen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66225,8 +66225,8 @@ Finder-Fensters ziehen, um es von jedem Ort aus starten zu können.</seg>
       <tuv lang="en">
         <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130603T044850Z">
-        <seg>Sie können auch daran denken, jene zu entfernen, die nicht mehr gebraucht werden, nachdem Sie ihre Inhalte genutzt haben, um die &lt;f0&gt;project-save.tmx&lt;/f0&gt; Datei zu füllen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210123T134808Z">
+        <seg>Sie können sogar in Erwägung ziehen, TMs zu entfernen, die nicht mehr benötigt werden, nachdem Sie deren Inhalt zum Auffüllen der &lt;f0&gt;project-save.tmx&lt;/f0&gt;-Datei verwendet haben.</seg>
       </tuv>
     </tu>
     <tu>
