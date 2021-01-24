@@ -29165,8 +29165,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="en">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T073703Z" creationid="Michael Motzkus" creationdate="20180917T073703Z">
-        <seg>Wenn Sie eine PDF-Datei aus gescannten Seiten erstellt haben (manchmal werden solche Dateien als "tote" PDFs bezeichnet), müssen Sie ein OCR-Programm (Optical Character Recognition / optische Zeichenerkennung) verwenden, um den Text zu erkennen und in ein Format konvertieren, das OmegaT bearbeiten kann.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T094227Z" creationid="Michael Motzkus" creationdate="20180917T073703Z">
+        <seg>Wenn Sie eine PDF-Datei haben, die aus gescannten Seiten besteht (manchmal werden solche Dateien als "tote" PDFs bezeichnet), müssen Sie ein OCR-Programm (Optical Character Recognition; optische Zeichenerkennung) verwenden, um den Text zu erfassen und ihn in ein Format zu konvertieren, das von OmegaT verarbeitet werden kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29918,8 +29918,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142850Z" creationid="Michael Motzkus" creationdate="20180917T073347Z">
-        <seg>Importieren Sie die Quelldatei in &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, speichern Sie sie als ODG-Datei, übersetzen Sie sie, und exportieren Sie sie nach Bedarf in PDF.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T093829Z" creationid="Michael Motzkus" creationdate="20180917T073347Z">
+        <seg>Importieren Sie die Quelldatei in &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, speichern Sie sie als ODG-Datei, übersetzen Sie sie und exportieren Sie sie nach Bedarf in PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41458,8 +41458,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130519T123136Z">
-        <seg>Andere Dateiformate für reine oder formatierte Texte, die geeignet sind, um in OmegaT bearbeitet zu werden, können auch existieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T112649Z">
+        <seg>Es existieren möglicherweise noch andere Textdateiformate, die für die Verarbeitung in OmegaT geeignet sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56782,8 +56782,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T071547Z" creationid="Michael Motzkus" creationdate="20180917T071547Z">
-        <seg>Sie enthalten Textformatierungsinformationen, aber solche Informationen können von&lt;a0&gt; OmegaT&lt;/a0&gt; nicht wiederverwendet werden, um Zieldateien zu erstellen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T093046Z" creationid="Michael Motzkus" creationdate="20180917T071547Z">
+        <seg>Sie enthalten zwar Informationen zur Textformatierung, aber derartige Informationen können von &lt;a0&gt;OmegaT&lt;/a0&gt; nicht wiederverwendet werden, um Zieldateien zu erstellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58734,8 +58734,8 @@ your copyrighted material outside their relationship with you.</seg>
       <tuv lang="en">
         <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T071635Z" creationid="Michael Motzkus" creationdate="20180917T071635Z">
-        <seg>PDF-Dateien werden daher als reine Textdateien behandelt und Ausgabedateien sind reine Textdateien.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T093219Z" creationid="Michael Motzkus" creationdate="20180917T071635Z">
+        <seg>Daher werden PDF-Dateien als reine Textdateien behandelt und die Ausgabedateien als reine Textdateien erstellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61897,8 +61897,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T071933Z" creationid="Michael Motzkus" creationdate="20180917T071933Z">
-        <seg>Verwenden Sie den Standardfilter (PDF-Eingabe) von &lt;a0&gt;OmegaT&lt;/a0&gt;, übersetzen Sie, erstellen Sie eine Zieldatei (es wird eine reine Textdatei sein), fügen Sie relevante Formatierungen und Elemente manuell hinzu.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T093718Z" creationid="Michael Motzkus" creationdate="20180917T071933Z">
+        <seg>Verwenden Sie den Standardfilter (PDF Input) von &lt;a0&gt;OmegaT&lt;/a0&gt;, übersetzen Sie die Quelldatei, erstellen Sie eine Zieldatei (es wird eine reine Textdatei sein) und fügen Sie relevante Formatierungen und Elemente manuell hinzu.</seg>
       </tuv>
     </tu>
     <tu>
