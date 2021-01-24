@@ -584,8 +584,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>$ tar xf downloaded_file.tar.gz</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>$ tar xf heruntergeladene Datei.tar.gz</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T150055Z">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
       </tuv>
     </tu>
     <tu>
@@ -11790,8 +11790,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T185852Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; zum Menü (KDE) oder Leisten (Gnome) hinzufügen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T173940Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; zu Ihren Menüs (KDE) oder Panels (Gnome) hinzufügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -29688,8 +29688,8 @@ folgt starten können:</seg>
       <tuv lang="en">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T185411Z">
-        <seg>Wenn Ihre bestehende OmegaT Installation eine "Windows with JRE" Version ist, muss die neue Version auch eine "Windows with JRE" Version sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T150022Z">
+        <seg>Wenn Ihre bestehende OmegaT-Installation eine "Windows with JRE"-Version ist, muss die neue Version ebenfalls eine "Windows with JRE"-Version sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30030,8 +30030,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T102637Z" creationid="Ragnar-F" creationdate="20210111T102637Z">
-        <seg>Wählen Sie im KMenuEditor &lt;e3&gt;Datei &gt; Neues Element&lt;/e3&gt; aus.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T180721Z" creationid="Ragnar-F" creationdate="20210111T102637Z">
+        <seg>Wählen Sie &lt;e3&gt;Datei &gt; Neues Element&lt;/e3&gt; im KMenuEditor aus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31063,8 +31063,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In this case, however:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T184303Z">
-        <seg>In diesem Fall jedoch:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T145953Z">
+        <seg>Hierbei sollten Sie aber Folgendes beachten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34523,8 +34523,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Linux (Intel) Users</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T185428Z">
-        <seg>Linux (Intel) Benutzer</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T150036Z">
+        <seg>Linux-Benutzer (Intel)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42799,8 +42799,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Press &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; to show KRunner.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T185946Z">
-        <seg>Drücken Sie &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; um KRunner anzuzeigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T174452Z">
+        <seg>Drücken Sie &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt;, um den KRunner zu öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51907,8 +51907,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The KMenuEditor appears.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T190023Z">
-        <seg>Der Editor von KMenuEditor erscheint.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T175611Z">
+        <seg>Der KMenuEditor öffnet sich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58576,8 +58576,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T102136Z" creationid="Ragnar-F" creationdate="20210111T102136Z">
-        <seg>Dies wird den Ordner &lt;f0&gt;omegat/&lt;/f0&gt; im Arbeitsordner erstellen, wo Sie alle Dateien vorfinden werden, die zur Ausführung von &lt;a1&gt;OmegaT&lt;/a1&gt; benötigt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T150054Z" creationid="Ragnar-F" creationdate="20210111T102136Z">
+        <seg>Dies wird den Ordner &lt;f0&gt;omegat/&lt;/f0&gt; im Arbeitsordner erstellen, wo Sie alle Dateien zur Ausführung von &lt;a1&gt;OmegaT&lt;/a1&gt; vorfinden werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60947,8 +60947,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Type &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; to run the command.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130524T190007Z">
-        <seg>Tippen Sie &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; um den Befehl auszuführen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210124T174759Z">
+        <seg>Geben Sie &lt;e2&gt;kmenuedit&lt;/e2&gt; ein und drücken Sie ENTER, um den Befehl auszuführen.</seg>
       </tuv>
     </tu>
     <tu>
