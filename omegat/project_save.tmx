@@ -5491,8 +5491,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T124050Z" creationid="Ragnar-F" creationdate="20210111T124050Z">
-        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt;. Neben der Sprache können Sie auch das Land angeben, z. B. &lt;l2&gt;CN&lt;/l2&gt; oder &lt;l3&gt;TW&lt;/l3&gt; für die chinesische Sprache.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T120342Z" creationid="Ragnar-F" creationdate="20210111T124050Z">
+        <seg>&lt;emphasis role="bold"&gt;&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt;&lt;/emphasis&gt; - Neben der Sprache können Sie auch das Land angeben, z. B. &lt;l2&gt;CN&lt;/l2&gt; oder &lt;l3&gt;TW&lt;/l3&gt; für die chinesische Sprache.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5667,16 +5667,16 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T123603Z" creationid="Ragnar-F" creationdate="20210111T122822Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt;. Normalerweise (also wenn &lt;a3&gt;OmegaT&lt;/a3&gt; ohne Argumente gestartet wird) versucht das Programm zunächst, die Benutzersprache des Betriebssystems zu ermitteln.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T115405Z" creationid="Ragnar-F" creationdate="20210111T122822Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; - Normalerweise (also wenn &lt;a3&gt;OmegaT&lt;/a3&gt; ohne Argumente gestartet wird) versucht das Programm zunächst, die Benutzersprache des Betriebssystems zu ermitteln.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T124253Z" creationid="Ragnar-F" creationdate="20210111T124253Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;. Dieser Befehl weist &lt;a3&gt;OmegaT&lt;/a3&gt; mehr Speicher zu.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T120214Z" creationid="Ragnar-F" creationdate="20210111T124253Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt; - Dieser Befehl weist &lt;a3&gt;OmegaT&lt;/a3&gt; mehr Speicher zu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12126,8 +12126,8 @@ the above requirements apply either way.</seg>
       <tuv lang="en">
         <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T114217Z" creationid="Ragnar-F" creationdate="20210111T114217Z">
-        <seg>Nach der Erstinstallation können Sie &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; natürlich auch verwenden, wenn Sie offline sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T111534Z" creationid="Ragnar-F" creationdate="20210111T114217Z">
+        <seg>Nach der Erstinstallation können Sie &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; natürlich auch offline verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15904,8 +15904,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142216Z">
-        <seg>Änderungen an diesem Befehl schließen Erweiterungen mit "Argumenten" ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T114823Z">
+        <seg>Dieser Befehl kann zusätzlich um "Argumente" erweitert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26661,8 +26661,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T070215Z">
-        <seg>Jedoch erlaubt es die Alternative der Befehlszeile, das Verhalten des Programms zu kontrollieren und zu verändern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T112036Z">
+        <seg>Die Alternative über die Befehlszeile ermöglicht es dem Benutzer jedoch, das Verhalten des Programms zu steuern und zu ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30384,8 +30384,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In its most basic form, this command is:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T071627Z">
-        <seg>In der einfachsten Form lautet dieser Befehl:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T112747Z">
+        <seg>In seiner einfachsten Form sieht dieser Befehl wie folgt aus:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30624,8 +30624,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In practice, this command will therefore be something like this:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T121516Z">
-        <seg>In der Praxis wird dieser Befehl also in etwa so aussehen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T112311Z">
+        <seg>In der Praxis wird dieser Befehl also etwa wie folgt aussehen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34017,8 +34017,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Launch command arguments</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142214Z">
-        <seg>Parameter für den Startbefehl</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T112951Z">
+        <seg>Startbefehlsargumente</seg>
       </tuv>
     </tu>
     <tu>
@@ -37580,8 +37580,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Normally, it is not necessary to start &lt;a0&gt;OmegaT&lt;/a0&gt; from the command line.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T070107Z">
-        <seg>Normalerweise ist es nicht notwendig, &lt;a0&gt;OmegaT&lt;/a0&gt; von der Befehlszeile zu starten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T111934Z">
+        <seg>Normalerweise ist es nicht notwendig, &lt;a0&gt;OmegaT&lt;/a0&gt; über die Befehlszeile zu starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37836,8 +37836,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T065959Z">
-        <seg>Bedenken Sie, wenn es für Sie notwendig ist oder Sie es wünschen, dass die Argumente zum Start genutzt werden (siehe oben), dann müssen Sie die normale Installation nutzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T111821Z">
+        <seg>Beachten Sie, dass Sie die normale Installation verwenden müssen, wenn Sie eines der Startbefehlsargumente (siehe oben) benötigen oder verwenden möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49435,8 +49435,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Starting OmegaT from the command line</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T070044Z">
-        <seg>OmegaT von der Befehlszeile starten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T111907Z">
+        <seg>OmegaT über die Befehlszeile starten</seg>
       </tuv>
     </tu>
     <tu>
@@ -52493,8 +52493,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The basic command has already been mentioned above.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Der grundsätzliche Befehl wurde schon oben erwähnt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T113032Z">
+        <seg>Der grundlegende Befehl wurde bereits oben erwähnt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52725,8 +52725,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The command to launch &lt;a5&gt;OmegaT&lt;/a5&gt; with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T124713Z" creationid="Ragnar-F" creationdate="20210111T124707Z">
-        <seg>Der Befehl zum Starten von &lt;a5&gt;OmegaT&lt;/a5&gt; mit einer Speicherzuweisung von 2048 MB (2 GB) lautet also:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T115326Z" creationid="Ragnar-F" creationdate="20210111T124707Z">
+        <seg>Der Befehl zum Starten von &lt;a5&gt;OmegaT&lt;/a5&gt; mit einer Speicherzuweisung von 2048 MB (2 GB) sieht also wie folgt aus:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55142,8 +55142,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The second command is the command which actually launches &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T071557Z">
-        <seg>Der zweite Befehl ist der Befehl, der &lt;a1&gt;OmegaT&lt;/a1&gt; startet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T112656Z">
+        <seg>Der zweite Befehl startet &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56354,8 +56354,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>There are two ways of launching &lt;a1&gt;OmegaT&lt;/a1&gt; using the command line.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142205Z">
-        <seg>Es gibt zwei Arten, &lt;a1&gt;OmegaT&lt;/a1&gt; mittels der Befehlszeile zu starten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T112107Z">
+        <seg>Es gibt zwei Möglichkeiten, &lt;a1&gt;OmegaT&lt;/a1&gt; über die Befehlszeile zu starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57285,8 +57285,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142209Z">
-        <seg>Dieser Befehl wechselt in den Ordner, in dem sich die ausführbare &lt;a0&gt;OmegaT&lt;/a0&gt; Datei befindet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T112525Z">
+        <seg>Dieser Befehl ändert das Arbeitsverzeichnis auf den Ordner, der die ausführbare &lt;a0&gt;OmegaT&lt;/a0&gt;-Datei enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59486,8 +59486,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To launch &lt;a4&gt;OmegaT&lt;/a4&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T123929Z" creationid="Ragnar-F" creationdate="20210111T123929Z">
-        <seg>Um &lt;a4&gt;OmegaT&lt;/a4&gt; mit einer französischen Benutzeroberfläche zu starten (z. B. auf einem russischen Betriebssystem), würde der Befehl also lauten:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T115036Z" creationid="Ragnar-F" creationdate="20210111T123929Z">
+        <seg>Um &lt;a4&gt;OmegaT&lt;/a4&gt; mit einer französischen Benutzeroberfläche zu starten (z. B. auf einem russischen Betriebssystem), würde der Befehl also wie folgt aussehen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66619,8 +66619,8 @@ them.</seg>
       <tuv lang="en">
         <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T163937Z">
-        <seg>Die Dokumente und Translation Memories verbleiben auf Ihrem Computer und das &lt;a2&gt;OmegaT&lt;/a2&gt; Projekt wird keinen Zugriff auf Ihre Arbeit oder Information haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T111725Z">
+        <seg>Die Dokumente und Translation Memories verbleiben auf Ihrem Computer, außerdem hat das &lt;a2&gt;OmegaT&lt;/a2&gt;-Projekt keinen Zugriff auf Ihre Arbeit oder persönliche Informationen.</seg>
       </tuv>
     </tu>
     <tu>
