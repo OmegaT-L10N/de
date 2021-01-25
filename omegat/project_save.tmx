@@ -7731,8 +7731,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180918T071426Z" creationid="Michael Motzkus" creationdate="20180918T071426Z">
-        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; erlaubt es unter Windows, das gleiche Projekt in mehreren OmegaT-Instanzen zu öffnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T131701Z" creationid="Michael Motzkus" creationdate="20180918T071426Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; erlaubt es unter Windows, das gleiche Projekt mit mehreren OmegaT-Instanzen zu öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7747,8 +7747,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180918T071309Z" creationid="Michael Motzkus" creationdate="20180918T071309Z">
-        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; richtet sich an Projekte, die für Teamarbeit eingerichtet wurden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T131522Z" creationid="Michael Motzkus" creationdate="20180918T071309Z">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; richtet sich an Projekte, die für Teamarbeit ausgelegt sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13214,8 +13214,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T132234Z">
-        <seg>Ein zusätzlicher Parameter für die Befehlszeile im Konsolenmodus: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T131812Z">
+        <seg>Ein zusätzlicher Befehlszeilenparameter speziell für den Konsolenmodus: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15126,8 +15126,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T132512Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; kompilieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T132146Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; anhand des Quellcodes kompilieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -15469,8 +15469,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T132052Z" creationid="Ragnar-F" creationdate="20210111T132052Z">
-        <seg>In Windows ist &lt;f1&gt;omegat.project&lt;/f1&gt; standardmäßig gesperrt; das heißt, dass Sie eine Fehlermeldung erhalten, wenn Sie versuchen, ein Projekt zu öffnen, das bereits in einer anderen Instanz von OmegaT geöffnet ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T131719Z" creationid="Ragnar-F" creationdate="20210111T132052Z">
+        <seg>In Windows ist &lt;f1&gt;omegat.project&lt;/f1&gt; standardmäßig gesperrt; das heißt, dass Sie eine Fehlermeldung erhalten, wenn Sie versuchen, ein Projekt zu öffnen, das bereits mit einer anderen Instanz von OmegaT geöffnet ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27189,8 +27189,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="en">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T100521Z">
-        <seg>Wenn &lt;l1&gt;warn&lt;/l1&gt; angegeben ist, wird die Tag-Überprüfung alle Segmente verarbeiten und Warnungen zu ungültigen Tags in die angegebene Datei schreiben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T131442Z">
+        <seg>Wenn &lt;l1&gt;warn&lt;/l1&gt; angegeben ist, überprüft der Tag-Validierer alle Segmente und schreibt Warnungen bezüglich aller Segmente mit ungültigen Tags in die angegebene Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28468,8 +28468,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130606T050508Z">
-        <seg>Wenn es andere Dateien mit dem Namen test.html in anderen Ordnern gibt, werden sie ignoriert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T130731Z">
+        <seg>Wenn in anderen Ordnern weitere Dateien mit dem Namen test.html vorhanden sind, werden diese ignoriert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30966,8 +30966,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In the quiet mode, less info is logged to the screen.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142234Z">
-        <seg>Im stillen Modus werden im Log-Fenster weniger Infos erscheinen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T131940Z">
+        <seg>Im Quiet-Modus werden weniger Informationen auf dem Bildschirm erscheinen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40593,8 +40593,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T131517Z" creationid="Ragnar-F" creationdate="20210111T131517Z">
-        <seg>Es wird nur die Datei &lt;f0&gt;test.html&lt;/f0&gt; im Ordner &lt;f1&gt;dir-10&lt;/f1&gt; verarbeitet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T130749Z" creationid="Ragnar-F" creationdate="20210111T131517Z">
+        <seg>Nur die Datei &lt;f0&gt;test.html&lt;/f0&gt; im Ordner &lt;f1&gt;dir-10&lt;/f1&gt; wird verarbeitet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40609,8 +40609,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Only the file test.html at the root of the source folder will be translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T153705Z">
-        <seg>Nur die Datei test.html im Stamm des Quellordners wird übersetzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T130536Z">
+        <seg>Nur die Datei test.html im Root-Verzeichnis des Quellordners wird übersetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43853,8 +43853,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>Quiet option</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T132209Z">
-        <seg>Leise-Option</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T131739Z">
+        <seg>Quiet-Option</seg>
       </tuv>
     </tu>
     <tu>
@@ -54200,8 +54200,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The messages you would usually find in the status bar are not displayed.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T180241Z">
-        <seg>Die Meldungen in der Statusleiste werden nicht angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T132033Z">
+        <seg>Die Meldungen, die Sie normalerweise in der Statusleiste finden würden, werden nicht angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58568,8 +58568,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T133115Z" creationid="Ragnar-F" creationdate="20210111T133115Z">
-        <seg>Dies wird eine vollständige OmegaT-Distribution im &lt;f0&gt;./build/distributions&lt;/f0&gt;-Ordner erstellen, in dem Sie eine Zip-Datei finden werden, die alles enthält, was zum Ausführen von &lt;a1&gt;OmegaT&lt;/a1&gt; benötigt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T132236Z" creationid="Ragnar-F" creationdate="20210111T133115Z">
+        <seg>Dies wird eine vollständige OmegaT-Distribution im &lt;f0&gt;./build/distributions&lt;/f0&gt;-Ordner erstellen, in dem Sie eine ZIP-Datei finden werden, die alles enthält, was zum Ausführen von &lt;a1&gt;OmegaT&lt;/a1&gt; benötigt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62081,8 +62081,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T084822Z">
-        <seg>Benutzen Sie es, falls OmegaT den Inhalt des Projekts nicht synchronisieren soll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T131601Z">
+        <seg>Benutzen Sie es, wenn OmegaT den Inhalt des Projekts nicht synchronisieren soll.</seg>
       </tuv>
     </tu>
     <tu>
