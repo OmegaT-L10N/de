@@ -27886,8 +27886,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231314Z">
-        <seg>Wenn ein Teil des Zielsegments gewählt wurde, dann überschreibt die Funktion das gewählte Teil.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T150310Z">
+        <seg>Wenn ein Teil des Zieltextes markiert wurde, wird nur der markierte Teil überschrieben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27962,16 +27962,16 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143349Z" creationid="Michael Motzkus" creationdate="20180918T083618Z">
-        <seg>Wenn in einem Fuzzy Match Texte ausgewählt sind, wird nur diese Auswahl an der Cursor-Position eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T151314Z" creationid="Michael Motzkus" creationdate="20180918T083618Z">
+        <seg>Wenn ein Teil des Textes innerhalb des Fuzzy Matches markiert ist, wird nur diese Auswahl an der Position des Textcursors eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143345Z" creationid="Michael Motzkus" creationdate="20180918T083511Z">
-        <seg>Wenn in einem Fuzzy Match Texte ausgewählt sind, wird nur diese Auswahl das ganze Zielsegment ersetzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T145108Z" creationid="Michael Motzkus" creationdate="20180918T083511Z">
+        <seg>Wenn ein Teil des Textes innerhalb des Fuzzy Matches markiert ist, wird nur diese Auswahl den gesamten Zieltext ersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31603,8 +31603,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142230Z">
-        <seg>Fügt an der Cursor-Position den ausgewählten Fuzzy Match in das aktive Segment ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T144914Z">
+        <seg>Fügt den aktuell ausgewählten Fuzzy Match an der Position des Textcursors ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37312,8 +37312,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T143954Z" creationid="Ragnar-F" creationdate="20210108T143954Z">
-        <seg>Keine Aktion erfolgt, wenn kein Dienst der maschinellen Übersetzung aktiviert wurde (unter &lt;m0&gt; &lt;g1&gt;Optionen&lt;/g1&gt; &lt;g2&gt;Maschinelle Übersetzung&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152246Z" creationid="Ragnar-F" creationdate="20210108T143954Z">
+        <seg>Es wird keine Aktion durchgeführt, wenn kein maschineller Übersetzungsdienst aktiviert wurde (unter &lt;m0&gt; &lt;g1&gt;Optionen&lt;/g1&gt; &lt;g2&gt;Maschinelle Übersetzung&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44970,24 +44970,24 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replaces the target segment with the translation, provided by the selected Machine Translation service.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T122635Z">
-        <seg>Ersetzt das Zielsegment mit der Übersetzung, die vom Dienst der maschinellen Übersetzung geliefert wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T151707Z">
+        <seg>Ersetzt den Zieltext mit der Übersetzung, die vom ausgewählten maschinellen Übersetzungsdienst bereitgestellt wird.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142214Z">
-        <seg>Überschreibt das ganze Zielsegment mit dem aktuell ausgewählten Fuzzy Match (standardmäßig ist der erste Match ausgewählt).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T144420Z">
+        <seg>Ersetzt den gesamten Zieltext mit dem aktuell ausgewählten Fuzzy Match (standardmäßig ist der erste Match ausgewählt).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Replaces the whole target segment with the source.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T122759Z">
-        <seg>Ersetzt das gesamte Zielsegment mit der Quelle.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152326Z">
+        <seg>Ersetzt den gesamten Zieltext mit dem Quelltext.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45226,16 +45226,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Restores the status before the last editing action was cancelled.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T122350Z">
-        <seg>Stellt den Status wieder her, bevor die letzte Aktion des Bearbeitens rückgängig gemacht wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T143831Z">
+        <seg>Stellt den Zustand wieder her, wie er vor dem Rückgängigmachen der letzten Bearbeitungsaktion war.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Restores the status before the last editing action was taken.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231243Z">
-        <seg>Stellt den Status vor der letzten Aktion des Bearbeitens wieder her.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T144012Z">
+        <seg>Stellt den Status wieder her, wie er vor der letzten Bearbeitungsaktion war.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57293,8 +57293,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This command does not work once the modified segment has been validated.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T122247Z">
-        <seg>Dieser Befehl funktioniert nicht mehr, sobald das bearbeitete Segment gültig gemacht wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T142735Z">
+        <seg>Dieser Befehl funktioniert nicht mehr, sobald das geänderte Segment validiert wurde.</seg>
       </tuv>
     </tu>
     <tu>
