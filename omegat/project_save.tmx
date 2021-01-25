@@ -12652,8 +12652,8 @@ conditions are met.</seg>
       <tuv lang="en">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T182746Z">
-        <seg>Ermöglicht dem Benutzer, einen Eintrag in der standardmäßigen Glossardatei zu erstellen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152929Z">
+        <seg>Ermöglicht dem Benutzer, einen Eintrag in der beschreibbaren Glossardatei zu erstellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15892,7 +15892,6 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Added a comment (Anmerkung) from the translator because no one can understand the translation in parentheses, not even the translator.</note>
       <tuv lang="en">
         <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
       </tuv>
@@ -22951,8 +22950,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Exports the current selection to a text file for processing.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T181504Z">
-        <seg>Exportiert die aktuelle Auswahl zur Weiterverarbeitung in eine Textdatei.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152626Z">
+        <seg>Exportiert die aktuelle Auswahl in eine Textdatei, damit sie extern verarbeitet werden kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27181,8 +27180,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="en">
         <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T151736Z" creationid="Ragnar-F" creationdate="20210108T151736Z">
-        <seg>Wenn die &lt;l0&gt;automatische Suche in Wörterbüchern&lt;/l0&gt; deaktiviert ist, können Sie mit dieser Funktion das markierte Wort in den Wörterbüchern suchen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T153624Z" creationid="Ragnar-F" creationdate="20210108T151736Z">
+        <seg>Wenn die &lt;l0&gt;automatische Suche in Wörterbüchern&lt;/l0&gt; deaktiviert ist, können Sie mit diesem Befehl das markierte Wort in den Wörterbüchern suchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27758,8 +27757,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If no text has been selected, the current source segment is written to this file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T181902Z" creationid="Ragnar-F" creationdate="20210114T181902Z">
-        <seg>Wenn kein Text ausgewählt wurde, wird das aktuelle Quellsegment in diese Datei geschrieben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152652Z" creationid="Ragnar-F" creationdate="20210114T181902Z">
+        <seg>Wenn kein Text markiert wurde, wird der aktuelle Quelltext in diese Datei geschrieben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28492,8 +28491,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210108T194602Z">
-        <seg>Wenn verschiedene alternative Übersetzungen für das aktive Segment zur Verfügung stehen, können Sie die Alternative für die Standardübersetzung wählen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T153802Z">
+        <seg>Wenn mehrere alternative Übersetzungen für das aktive Segment verfügbar sind, können Sie die ausgewählte Alternative als Standardübersetzung kennzeichnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29471,16 +29470,16 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202352Z" creationid="Michael Motzkus" creationdate="20180918T101433Z">
-        <seg>Wenn Sie einen Text (in einem beliebigen Fensterbereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g3&gt;Suchen nach&lt;/g3&gt; eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152955Z" creationid="Michael Motzkus" creationdate="20180918T101433Z">
+        <seg>Wenn Sie einen Text (in einem beliebigen Fensterbereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g3&gt;Suche nach&lt;/g3&gt; eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202355Z" creationid="Michael Motzkus" creationdate="20180918T102026Z">
-        <seg>Wenn Sie einen Text (in einem beliebigen Fensterbereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g3&gt;Suchen nach&lt;/g3&gt; eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T153422Z" creationid="Michael Motzkus" creationdate="20180918T102026Z">
+        <seg>Wenn Sie einen Text (in einem beliebigen Fensterbereich) markieren, bevor Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; drücken, wird der Text standardmäßig in das Feld &lt;g3&gt;Suche nach&lt;/g3&gt; eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31619,8 +31618,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Inserts the source at the cursor position.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142239Z">
-        <seg>Fügt an der Cursor-Position den Quelltext in das aktive Segment ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152404Z">
+        <seg>Fügt den Quelltext an der Position des Textcursors ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40986,8 +40985,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180918T101902Z" creationid="Michael Motzkus" creationdate="20180918T101902Z">
-        <seg>Öffnet ein neues &lt;l0&gt;Suchen und Ersetzen-Fenster&lt;/l0&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T153414Z" creationid="Michael Motzkus" creationdate="20180918T101902Z">
+        <seg>Öffnet ein neues &lt;l0&gt;Suchen-und-Ersetzen-Fenster&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42863,8 +42862,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180918T101824Z" creationid="Michael Motzkus" creationdate="20180918T101824Z">
-        <seg>&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; drücken zeigt das zuletzt geöffnete Suchfenster an (anstatt ein neues zu öffnen).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T153353Z" creationid="Michael Motzkus" creationdate="20180918T101824Z">
+        <seg>Wenn Sie &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; drücken, wird das bereits geöffnete Suchfenster wieder in den Vordergrund gerückt (statt ein neues Fenster zu öffnen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53169,8 +53168,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The entry will be greyed, if there's just one translation available.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130526T125403Z">
-        <seg>Der Eintrag wird grau gemacht, wenn nur eine Übersetzung vorhanden ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T185418Z">
+        <seg>Der Menüpunkt ist ausgegraut, wenn nur eine Übersetzung vorhanden ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63667,8 +63666,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When the user exits &lt;a0&gt;OmegaT&lt;/a0&gt;, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T181248Z">
-        <seg>Wenn der Benutzer &lt;a0&gt;OmegaT&lt;/a0&gt; beendet, wird diese Datei nicht geleert, um mit dem üblichen Verhalten der Zwischenablage konsistent zu sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152833Z">
+        <seg>Wenn der Benutzer &lt;a0&gt;OmegaT&lt;/a0&gt; beendet, wird diese Datei nicht geleert, was dem üblichen Verhalten einer Zwischenablage entspricht.</seg>
       </tuv>
     </tu>
     <tu>
