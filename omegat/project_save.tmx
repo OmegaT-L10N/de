@@ -3544,8 +3544,8 @@ Translated to singular.</note>
       <tuv lang="en">
         <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T130929Z" creationid="Ragnar-F" creationdate="20210111T130906Z">
-        <seg>--alignDir=&lt;p0&gt;&lt;Standort der zu übersetzenden Dateien&gt;&lt;/p0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T125641Z" creationid="Ragnar-F" creationdate="20210111T130906Z">
+        <seg>--alignDir=&lt;p0&gt;&lt;Speicherort der übersetzten Dateien&gt;&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5635,32 +5635,32 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T130450Z" creationid="Ragnar-F" creationdate="20210111T130450Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt;. &lt;a3&gt;OmegaT&lt;/a3&gt; startet im Konsolenmodus, um einen der folgenden Dienste automatisch auszuführen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T123853Z" creationid="Ragnar-F" creationdate="20210111T130450Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt;. &lt;a3&gt;OmegaT&lt;/a3&gt; startet im Konsolenmodus, um einen der folgenden Dienste automatisch auszuführen:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T124953Z" creationid="Ragnar-F" creationdate="20210111T124953Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt;. Wenn Sie sich für die Google Translate-Dienste angemeldet haben, geben Sie hier Ihren privaten Google-API-Schlüssel ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T120625Z" creationid="Ragnar-F" creationdate="20210111T124953Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; - Wenn Sie sich für die Google Translate-Dienste angemeldet haben, geben Sie hier Ihren privaten Google-API-Schlüssel ein.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T124802Z" creationid="Ragnar-F" creationdate="20210111T124802Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt;. Die IP-Adresse Ihres Proxy-Servers, wenn Ihr System einen Proxy verwendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T120540Z" creationid="Ragnar-F" creationdate="20210111T124802Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; - Die IP-Adresse Ihres Proxy-Servers, wenn Ihr System einen Proxy verwendet.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T124859Z" creationid="Ragnar-F" creationdate="20210111T124859Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt;. Die Portnummer, die Ihr System für den Zugriff auf den Proxyserver verwendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T120550Z" creationid="Ragnar-F" creationdate="20210111T124859Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; - Die Portnummer, die Ihr System für den Zugriff auf den Proxyserver verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6843,8 +6843,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;f0&gt;alignDir&lt;/f0&gt; must contain a translation in the target language of the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T094241Z">
-        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; muss eine Übersetzung in der Zielsprache des Projekts beinhalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T125721Z">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; muss eine Übersetzung in der Zielsprache des Projekts enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11814,8 +11814,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T094215Z">
-        <seg>In diesem Fall wird ein zusätzlicher Parameter gebraucht, der den Ort der Zieldaten angibt:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T125619Z">
+        <seg>In diesem Fall ist ein zusätzlicher Parameter erforderlich, der den Speicherort der Zieldaten angibt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13748,8 +13748,8 @@ paragraph of section 11).</seg>
       <tuv lang="en">
         <seg>Arguments can be combined: to launch &lt;a0&gt;OmegaT&lt;/a0&gt; with all the examples described above, the command would be:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T175421Z">
-        <seg>Argumente kann man kombinieren: um &lt;a0&gt;OmegaT&lt;/a0&gt; mit allen Beispielen zu starten, die oben beschrieben sind, würde der Befehl lauten:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121346Z">
+        <seg>Argumente können kombiniert werden: Um &lt;a0&gt;OmegaT&lt;/a0&gt; mit allen oben beschriebenen Beispielen zu starten, würde der Befehl wie folgt aussehen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28314,8 +28314,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="en">
         <seg>If the parameter is not specified, all files will be processed.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T094706Z">
-        <seg>Wenn der Parameter nicht festgelegt ist, werden alle Dateien verarbeitet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T130145Z">
+        <seg>Wenn der Parameter nicht angegeben ist, werden alle Dateien verarbeitet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28919,8 +28919,8 @@ angezeigt werden.</seg>
       <tuv lang="en">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130624T153546Z">
-        <seg>Wenn Sie &lt;a0&gt;OmegaT&lt;/a0&gt; nicht normal ausführen können (keine grafische Umgebung zur Verfügung steht): kopieren Sie die Einstellungen von einer anderen &lt;a1&gt;OmegaT&lt;/a1&gt; Installation auf einer anderen Maschine in einen spezifischen Ordner.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T122735Z">
+        <seg>Wenn Sie &lt;a0&gt;OmegaT&lt;/a0&gt; nicht normal ausführen können (keine grafische Umgebung verfügbar): Kopieren Sie die Einstellungsdateien von einer anderen &lt;a1&gt;OmegaT&lt;/a1&gt;-Installation, die sich auf einem anderen Rechner befindet, in einen bestimmten Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29351,8 +29351,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you need altered settings, the configuration files must be available.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T090501Z">
-        <seg>Sind geänderte Einstellungen nötig, müssen die Konfigurationsdateien verfügbar sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121822Z">
+        <seg>Wenn Sie andere Einstellungen benötigen, müssen Konfigurationsdateien verwendet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29495,8 +29495,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T225943Z">
-        <seg>Wenn Sie &lt;a1&gt;OmegaT&lt;/a1&gt; im Konsolenmodus starten, verwendet es die gleichen Einstellungen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T122107Z">
+        <seg>Wenn Sie &lt;a1&gt;OmegaT&lt;/a1&gt; im Konsolenmodus starten, werden dieselben Einstellungen verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31127,8 +31127,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T093603Z">
-        <seg>In diesem Modus wird OmegaT ein TMX für das ganze Projekt erstellen, das nur auf den Quelldateien beruht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T124303Z">
+        <seg>In diesem Modus erstellt OmegaT ein TMX für das gesamte Projekt, das nur auf den Quelldateien basiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35243,8 +35243,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Make sure that you have a free Microsoft account.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T084220Z">
-        <seg>Stellen Sie sicher, dass Sie ein freies Microsoft Konto haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T120648Z">
+        <seg>Stellen Sie sicher, dass Sie ein kostenloses Microsoft-Konto haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37780,8 +37780,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T125908Z" creationid="Ragnar-F" creationdate="20210111T125804Z">
-        <seg>Beachten Sie, dass alle Parameter mit einem doppelten Bindestrich (&lt;l0&gt;-&lt;/l0&gt;) beginnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T123606Z" creationid="Ragnar-F" creationdate="20210111T125804Z">
+        <seg>Beachten Sie, dass alle Parameter mit zwei Bindestrichen (&lt;l0&gt;--&lt;/l0&gt;) beginnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38052,8 +38052,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that up to 2M characters per month are free of charge.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T084443Z">
-        <seg>Bedenken Sie, dass bis zu 2M Zeichen monatlich kostenfrei sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T120835Z">
+        <seg>Beachten Sie, dass bis zu 2 Millionen Zeichen pro Monat kostenlos übersetzt werden dürfen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38084,8 +38084,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T130342Z" creationid="Ragnar-F" creationdate="20210111T130342Z">
-        <seg>Beachten Sie den doppelten Bindestrich (&lt;l5&gt;-&lt;/l5&gt;).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T123646Z" creationid="Ragnar-F" creationdate="20210111T130342Z">
+        <seg>Beachten Sie die zwei Bindestriche (&lt;l5&gt;--&lt;/l5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39268,8 +39268,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT in the command line mode</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T090014Z">
-        <seg>OmegaT im Modus Befehlszeile</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121356Z">
+        <seg>OmegaT im Befehlszeilenmodus</seg>
       </tuv>
     </tu>
     <tu>
@@ -42727,8 +42727,8 @@ language you would like to translate to.</seg>
       <tuv lang="en">
         <seg>Prerequisites</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Vorbedingungen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121528Z">
+        <seg>Voraussetzungen</seg>
       </tuv>
     </tu>
     <tu>
@@ -45546,8 +45546,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T090554Z">
-        <seg>Führen Sie &lt;a0&gt;OmegaT&lt;/a0&gt; normalerweise (mit der GUI) aus und legen die Einstellungen fest.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121953Z">
+        <seg>Führen Sie &lt;a0&gt;OmegaT&lt;/a0&gt; normal aus (mit der GUI) und nehmen Sie die Einstellungen vor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52437,8 +52437,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; specifies, whether the target segments are to be equal to the source, or left empty.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T093738Z">
-        <seg>Das Argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; legt fest, ob die Zielsegmente mit der Quelle identisch oder leer sein sollen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T125422Z">
+        <seg>Das Argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; legt fest, ob die Zieltexte identisch mit dem Quelltext sein sollen (equal), oder ob sie leer bleiben sollen (empty).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54008,16 +54008,16 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at startup.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142228Z">
-        <seg>Der Ort ist dabei ohne Bedeutung, da man ihn beim Start zur Befehlszeile hinzufügen kann.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T122839Z">
+        <seg>Der Standort spielt keine Rolle, da Sie ihn beim Starten in die Befehlszeile einfügen können.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T090455Z">
-        <seg>Der Ort ist dabei ohne Bedeutung, da man ihn beim Start in der Befehlszeile angeben muss.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121718Z">
+        <seg>Der Standort spielt keine Rolle, da Sie ihn ohnehin beim Start in die Befehlszeile einfügen müssen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54956,16 +54956,16 @@ the User Product in which it has been modified or installed.</seg>
       <tuv lang="en">
         <seg>The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T094138Z">
-        <seg>Das sich daraus ergebenden TMX wird im Ordner &lt;f1&gt;/omegat/&lt;/f1&gt; unter dem Namen &lt;f2&gt;align.tmx&lt;/f2&gt; abgespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T125518Z">
+        <seg>Die daraus resultierende TMX-Datei wird im Ordner &lt;f1&gt;/omegat/&lt;/f1&gt; unter dem Namen &lt;f2&gt;align.tmx&lt;/f2&gt; gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T131213Z" creationid="Ragnar-F" creationdate="20210111T131213Z">
-        <seg>Das resultierende TMX wird im &lt;f3&gt;omegat&lt;/f3&gt;-Ordner unter dem Namen &lt;f4&gt;align.tmx&lt;/f4&gt; gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T125820Z" creationid="Ragnar-F" creationdate="20210111T131213Z">
+        <seg>Die daraus resultierende TMX-Datei wird im Ordner &lt;f3&gt;omegat&lt;/f3&gt; unter dem Namen &lt;f4&gt;align.tmx&lt;/f4&gt; gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57205,8 +57205,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This can be achieved in two ways:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142226Z">
-        <seg>Das kann auf zwei Arten erreicht werden:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121836Z">
+        <seg>Dies kann auf zwei Arten erreicht werden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57992,8 +57992,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This is useful to run OmegaT on a server with TMX files automatically fed to a project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230318Z">
-        <seg>Das ist sinnvoll, wenn OmegaT auf einem Server läuft, wo TMX-Dateien automatisch in das Projekt eingespeist werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T124236Z">
+        <seg>Dieser Modus ist nützlich, um OmegaT auf einem Server auszuführen, wo TMX-Dateien automatisch in ein Projekt eingespeist werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59818,8 +59818,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="en">
         <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T090429Z">
-        <seg>Um &lt;a0&gt;OmegaT&lt;/a0&gt; im Modus Befehlszeile laufen zu lassen, muss ein gültiges &lt;a1&gt;OmegaT&lt;/a1&gt; Projekt vorhanden sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121558Z">
+        <seg>Um &lt;a0&gt;OmegaT&lt;/a0&gt; im Kommandozeilenmodus auszuführen, muss ein gültiges &lt;a1&gt;OmegaT&lt;/a1&gt;-Projekt vorhanden sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63579,8 +63579,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T094638Z">
-        <seg>Wenn der Modus benutzt wurde, wird diese Optionen die Dateien festlegten, die automatisch verarbeitet werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T130124Z">
+        <seg>Wenn der Konsolenmodus verwendet wird, bestimmt diese Option die automatisch zu verarbeitenden Dateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63627,8 +63627,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T090304Z">
-        <seg>Wenn im Modus Konsole gestartet wird kein GUI geladen (es wird in jeder Konsole arbeiten) und das vorhandene Projekt wird automatisch verarbeitet, wie verlangt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121512Z">
+        <seg>Wenn es im Konsolenmodus gestartet wird, wird keine GUI geladen (es funktioniert also auf jeder Konsole) und das angegebene Projekt automatisch wie gewünscht abgearbeitet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66547,8 +66547,8 @@ them.</seg>
       <tuv lang="en">
         <seg>You specify the TMX file to be created with</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T093647Z">
-        <seg>Sie legen fest, womit die TMX Datei erzeugt wird</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T124334Z">
+        <seg>Sie geben die TMX-Datei an, mit der erstellt werden soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66661,16 +66661,16 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180918T070801Z" creationid="Michael Motzkus" creationdate="20180918T070801Z">
-        <seg>Sie benötigen es, um einen Yandex Translate API-Schlüssel zu erhalten und zu nutzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121252Z" creationid="Michael Motzkus" creationdate="20180918T070801Z">
+        <seg>Sie benötigen es, um einen Yandex-Translate-API-Schlüssel zu erhalten und zu nutzen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130525T084257Z">
-        <seg>Sie müssen sich im &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; anmelden, um die Übersetzerdienste zu nutzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121129Z">
+        <seg>Sie benötigen es, um sich bei &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; anzumelden und den Übersetzungsdienst zu nutzen.</seg>
       </tuv>
     </tu>
     <tu>
