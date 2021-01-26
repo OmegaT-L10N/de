@@ -15397,8 +15397,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T083026Z" creationid="Michael Motzkus" creationdate="20180925T083026Z">
-        <seg>Standardmäßig ist es nicht möglich, Wörter im Quellsegment mit der Tastatur statt mit der Maus auszuwählen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T133544Z" creationid="Michael Motzkus" creationdate="20180925T083026Z">
+        <seg>Standardmäßig ist es nicht möglich, Wörter im Quelltext mit der Tastatur statt mit der Maus auszuwählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25719,8 +25719,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Go To Segment</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Gehe zum Segment</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T132059Z">
+        <seg>Zum Segment springen</seg>
       </tuv>
     </tu>
     <tu>
@@ -28475,8 +28475,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T082358Z">
-        <seg>Wenn kein Name angezeigt wird, dann ist die Quelle die TM des internen Projekts.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T141601Z">
+        <seg>Wenn kein Dateiname angezeigt wird, handelt es sich bei der Quelle um das projektinterne Translation Memory.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29462,8 +29462,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T131443Z" creationid="Michael Motzkus" creationdate="20180925T082426Z">
-        <seg>Wenn Sie mit der rechten Maustaste auf den Editorbereich klicken, öffnet sich ein Kontextmenü, das die Menüpunkte &lt;e0&gt;Ausschneiden, Kopieren, Einfügen&lt;/e0&gt; (als Alternative zu &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Strg&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; und &lt;k7&gt; &lt;k8&gt;Strg&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; und &lt;e11&gt;Add glossary entry&lt;/e11&gt; enthält.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T132043Z" creationid="Michael Motzkus" creationdate="20180925T082426Z">
+        <seg>Wenn Sie mit der rechten Maustaste auf den Editorbereich klicken, öffnet sich ein Kontextmenü, das die Menüpunkte &lt;e0&gt;Ausschneiden, Kopieren, Einfügen&lt;/e0&gt; (als Alternative zu &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Strg&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; und &lt;k7&gt; &lt;k8&gt;Strg&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Zum Segment springen&lt;/e10&gt; und &lt;e11&gt;Glossareintrag hinzufügen&lt;/e11&gt; enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30807,8 +30807,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T082105Z">
-        <seg>Im obigen Beispiel ist das Quellsegment &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T134819Z">
+        <seg>Im obigen Beispiel ist &lt;e0&gt;Context menu command&lt;/e0&gt; der Quelltext.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32499,8 +32499,8 @@ Benutzerhandbuch.</seg>
       <tuv lang="en">
         <seg>It is possible to drag text from anywhere in the main window and to drop it within the segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T082850Z" creationid="Michael Motzkus" creationdate="20180925T082850Z">
-        <seg>Es ist möglich, Text von einer beliebigen Stelle im Hauptfenster zu ziehen und innerhalb des Segments abzulegen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T132341Z" creationid="Michael Motzkus" creationdate="20180925T082850Z">
+        <seg>Es ist möglich, mittels Drag-und-Drop einen Text von einer beliebigen Stelle des Hauptfensters aus in das Segment abzulegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33343,6 +33343,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130520T191249Z">
         <seg>Beachten Sie, dass in einem Gruppenpaar der öffnende Tag vor dem abschließenden Tag kommen muss. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T134912Z" creationid="Ragnar-F" creationdate="20210126T134912Z">
+        <seg>Tags im übersetzten Text behalten</seg>
       </tuv>
     </tu>
     <tu>
@@ -41313,8 +41321,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T193413Z" creationid="Ragnar-F" creationdate="20210111T193413Z">
-        <seg>Verwaiste Segmente (Match #2) sind Segmente im Standard-Projekt-Translation-Memory, die kein entsprechendes Quellsegment haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T142420Z" creationid="Ragnar-F" creationdate="20210111T193413Z">
+        <seg>Verwaiste Segmente (Match #2) sind Segmente im projektinternen Translation Memory, deren Quelltexte nicht den Quelldokumenten vorkommen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42878,8 +42886,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T203726Z" creationid="Michael Motzkus" creationdate="20180925T083539Z">
-        <seg>Drücken Sie die &lt;k0&gt;F2&lt;/k0&gt;-Taste, um den Textcursor mithilfe der Pfeiltasten in das Quellsegment (oder an eine beliebige Stelle im Editor) zu verschieben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T133755Z" creationid="Michael Motzkus" creationdate="20180925T083539Z">
+        <seg>Drücken Sie die &lt;k0&gt;F2&lt;/k0&gt;-Taste, um den Textcursor mittels Pfeiltasten in den Quelltext (oder an eine beliebige Stelle im Editor) zu verschieben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48574,8 +48582,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142542Z">
-        <seg>So ist es mit dem nächsten zwei Matches und dem Match #4 ähnlich, aber anders.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T141502Z">
+        <seg>Das gilt auch für die nächsten beiden Matches, während Match #4 ähnlich, aber anders ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51192,8 +51200,8 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
       <tuv lang="en">
         <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T082943Z" creationid="Michael Motzkus" creationdate="20180925T082943Z">
-        <seg>Texte, die von außerhalb des Zielsegments gezogen werden, werden kopiert, während aus dem Segment gezogener Text verschoben wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T133104Z" creationid="Michael Motzkus" creationdate="20180925T082943Z">
+        <seg>Texte, die von außerhalb in das Segment abgelegt werden, werden kopiert, während Texte, die von innerhalb in das Segment abgelegt werden, verschoben werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53975,8 +53983,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183858Z" creationid="Ragnar-F" creationdate="20210111T193149Z">
-        <seg>Die Zeile mit den Matching-Prozentsätzen beinhaltet auch den Namen des Translation Memory, das das Match enthält.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T141533Z" creationid="Ragnar-F" creationdate="20210111T193149Z">
+        <seg>Die Zeile mit den Matching-Prozentsätzen beinhaltet auch den Namen des Translation Memory, das den Match enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55205,8 +55213,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142448Z">
-        <seg>Der ausgewählte Fuzzy Match wird in Fettschrift hervorgehoben, Wörter, die in dem Text, den Sie übersetzen, fehlen, werden blau und zusätzliche Wörter zum fehlenden Teil werden grün gefärbt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T134506Z">
+        <seg>Der aktuell ausgewählte Fuzzy Match wird fett dargestellt. Wörter, die im Zieltext des Segments fehlen, sind blau gefärbt, während Wörter, die an den fehlenden Wörtern angrenzen, grün gefärbt sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55793,8 +55801,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The top match is 100%, because all words match.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142512Z">
-        <seg>Der Top-Match ist 100 %, weil alle Wörter übereinstimmen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T134955Z">
+        <seg>Der oberste Match ist 100 %, weil alle Wörter übereinstimmen.</seg>
       </tuv>
     </tu>
     <tu>
