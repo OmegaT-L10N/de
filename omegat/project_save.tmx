@@ -10848,8 +10848,8 @@ consequence of further modification of the contributor version.</seg>
       <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T135330Z">
-        <seg>Ein vorhandenes Quellsegment kann - abhängig vom Kontext - mehrere unterschiedliche Übersetzungen bedingen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T144821Z">
+        <seg>Ein bestimmter Quelltext kann je nach Kontext mehrere verschiedene Übersetzungen erfordern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20045,8 +20045,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Dictionaries are the electronic equivalents of printed dictionaries like Merriam Webster, Duden, Larousse etc., that you may have on your desk.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T134916Z">
-        <seg>Wörterbücher sind die elektronischen Entsprechungen von gedruckten Wörterbüchern wie Merriam Webster, Duden, Larousse usw., die Sie auf Ihrem Tisch haben könnten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T144209Z">
+        <seg>Wörterbücher sind die elektronischen Äquivalente von gedruckten Wörterbüchern wie Merriam Webster, Duden, Larousse usw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28159,8 +28159,8 @@ to choose that version for the Program.</seg>
       <tuv lang="en">
         <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T135459Z">
-        <seg>Wenn die momentane Übersetzung des Segments nicht passt, kann der Nutzer &lt;g0&gt;Bearbeiten → Alternative Übersetzung erstellen&lt;/g0&gt; auswählen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T145022Z">
+        <seg>Wenn die momentane Übersetzung des Segments nicht passt, kann der Benutzer &lt;g0&gt;Bearbeiten → Alternative Übersetzung erstellen&lt;/g0&gt; auswählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29156,8 +29156,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="en">
         <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T121730Z">
-        <seg>Mit aktivierten TransTips (&lt;g0&gt;Optionen → TransTips&lt;/g0&gt;) öffnet sich bei einem Rechtsklick in der Quelle auf ein hervorgehobenes Wort ein Popup Menü mit Übersetzungen, die von Ihrem Glossar vorgeschlagen werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T143743Z">
+        <seg>Wenn Sie die Option TransTips aktiviert haben (&lt;g0&gt;Optionen → TransTips&lt;/g0&gt;), können Sie mit der rechten Maustaste auf das hervorgehobene Wort im Quelltext klicken, um ein Kontextmenü mit Übersetzungsvorschlägen zu öffnen, die von Ihrem Glossar angeboten werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30847,8 +30847,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T141750Z">
-        <seg>Im unten angeführten Beispiel, schloss der Autor der PO Datei eine Warnung an den/die Übersetzer/in ein, die Länge der Übersetzung zu prüfen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T151224Z">
+        <seg>Im folgenden Beispiel hat der Autor der PO-Datei eine Warnung für den Übersetzer eingefügt, dass die Länge der Übersetzung unbedingt beachtet werden muss:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32203,8 +32203,8 @@ Benutzerhandbuch.</seg>
       <tuv lang="en">
         <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142634Z">
-        <seg>Sie zeigt auch die Anzahl der Fuzzy Matches und Glossartreffer für das gegenwärtige Segment.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T151603Z">
+        <seg>Sie zeigt auch die Anzahl der Fuzzy Matches und Glossartreffer für das aktuelle Segment an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32817,8 +32817,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="en">
         <seg>It shows translation of terms found in the current segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T101717Z">
-        <seg>Es zeigt die Übersetzung von Begriffen an, die im aktuellen Segment zu finden sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T142550Z">
+        <seg>Dieser Bereich zeigt die Übersetzung von Begriffen an, die im aktuellen Segment gefunden wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42822,8 +42822,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T220605Z" creationid="Michael Motzkus" creationdate="20180925T085242Z">
-        <seg>Drücken Sie &lt;k0&gt;Strg+M&lt;/k0&gt;, um die Übersetzung des aktuellen Segments mit der vorgeschlagenen Übersetzung zu ersetzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T144657Z" creationid="Michael Motzkus" creationdate="20180925T085242Z">
+        <seg>Drücken Sie &lt;k0&gt;Strg+M&lt;/k0&gt;, um die Übersetzung des aktiven Segments mit der vorgeschlagenen Übersetzung zu ersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46854,8 +46854,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T134939Z">
-        <seg>Siehe mehr dazu im Kapitel zu &lt;l0&gt;Wörterbüchern&lt;/l0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T144255Z">
+        <seg>Mehr dazu finden Sie im Kapitel über &lt;l0&gt;Wörterbücher&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47654,8 +47654,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T134516Z">
-        <seg>Wenn Sie eines davon wählen, wird es in das Zielsegment an der momentanen Position des Cursors eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T143910Z">
+        <seg>Wenn Sie einen der Vorschläge auswählen, wird er an der aktuellen Position des Textcursors in den Zieltext eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49504,8 +49504,8 @@ make it effectively proprietary.</seg>
       <tuv lang="en">
         <seg>Status bar</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Status-Leiste</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T151228Z">
+        <seg>Statusleiste</seg>
       </tuv>
     </tu>
     <tu>
@@ -52886,8 +52886,8 @@ Konfigurationsordner selbst verwendet.</seg>
       <tuv lang="en">
         <seg>The counters in the lower right corner keep track of the progress of the translation (numbers in the left hand column refer to the figure above):</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130610T195141Z">
-        <seg>Die Zähler in der unteren rechten Ecke verfolgen den Fortschritt der Übersetzung (Zahlen in der linken Spalte beziehen sich auf die obige Abbildung):</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T151744Z">
+        <seg>Die Zähler in der unteren rechten Ecke zeigen den Fortschritt der Übersetzung an (die Zahlen in der linken Spalte beziehen sich auf die Abbildung oben):</seg>
       </tuv>
     </tu>
     <tu>
@@ -54111,8 +54111,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T204917Z">
-        <seg>Der Maschinelle-Übersetzung-Bereich enthält, wenn geöffnet, die Vorschläge der maschinellen Übersetzungsdienste für das aktuelle Segment.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T144316Z">
+        <seg>Der Maschinelle-Übersetzung-Bereich enthält, wenn geöffnet, die Vorschläge der maschinellen Übersetzungsdienste für das aktive Segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55397,8 +55397,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T154500Z">
-        <seg>Das Quellsegment im unten stehenden Beispiel war "&lt;e0&gt;Context menu command&lt;/e0&gt;", wie in den Fuzzy Matches oben und die Begriffe, die in den Glossaren gefunden wurden, vorhanden bei (Microsoft's Term collection und dem Glossar der slowenischen Linux User group).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T143422Z">
+        <seg>Der Quelltext im unteren Beispiel war &lt;e0&gt;Context menu command&lt;/e0&gt;, wie im obigen Fuzzy-Matches-Beispiel, und die angezeigten Begriffe wurden in den verfügbaren Glossaren gefunden (Microsoft's Term collection und Slovenian Linux User Group Glossary).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55649,8 +55649,8 @@ use, which is precisely where it is most unacceptable.</seg>
       <tuv lang="en">
         <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T121911Z">
-        <seg>Der Zieltext, der danach eingegeben wird, wird als alternative Übersetzung des Quellsegments behandelt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T145106Z">
+        <seg>Der Zieltext, der danach eingegeben wird, wird als alternative Übersetzung des Quelltextes herangezogen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55881,8 +55881,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T122022Z">
-        <seg>Der/die Übersetzer/in kann Notizen zum geöffneten Segment hinzufügen, zum Beispiel, um später zum Segment zurückzukommen und die Übersetzung zu erneuern, zu schauen, ob alternative Übersetzungen korrekt sind oder um Kollegen oder Kolleginnen nach ihrer Meinung zu fragen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T150441Z">
+        <seg>Der Übersetzer kann das geöffnete Segment mit Notizen versehen, z. B. um später zum Segment zurückzukehren und die Übersetzung zu wiederholen, alternative Übersetzungen auf ihre Richtigkeit zu überprüfen oder um Kollegen um ihre Meinung zu bitten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57155,8 +57155,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T142649Z">
-        <seg>Die Leiste stellt dem Benutzer Feedback zu bestimmten Operationen, die ablaufen, zur Verfügung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T151307Z">
+        <seg>Diese Leiste gibt dem Benutzer eine Rückmeldung über bestimmte Vorgänge, die gerade ausgeführt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58535,8 +58535,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This way the translator can be provided the context about the segment to be translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T141647Z">
-        <seg>Auf diese Weise kann der/die Übersetzer/in den Kontext es zu übersetzendes Segmentes erfahren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T151042Z">
+        <seg>Auf diese Weise kann dem Übersetzer der Kontext über das zu übersetzende Segment mitgeteilt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65281,8 +65281,8 @@ for enforcing compliance by third parties with this License.</seg>
       <tuv lang="en">
         <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T204646Z">
-        <seg>Sie können Ihre bevorzugte Alternative auch im Glossarbereich markieren und sie mit einem Rechtsklick auf die Markierung in den Zieltext einfügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T144055Z">
+        <seg>Sie können Ihre bevorzugte Alternative auch im Glossarbereich markieren und mit einem Rechtsklick in den Zieltext einfügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65384,8 +65384,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T141439Z">
-        <seg>Sie können die Notizen mit &lt;g0&gt;Gehe zu → Nächste Notiz&lt;/g0&gt; und &lt;g1&gt;Gehe zu → Vorherige Notiz&lt;/g1&gt; durchsuchen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T150858Z">
+        <seg>Sie können mit &lt;g0&gt;Gehe zu → Nächste Notiz&lt;/g0&gt; und &lt;g1&gt;Gehe zu → Vorherige Notiz&lt;/g1&gt; die Notizen durchgehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65568,8 +65568,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T135725Z">
-        <seg>Sie können eine der Alternativen - zum Beispiel die wahrscheinlichste unter ihnen - als die Standard-Übersetzung definieren, indem Sie &lt;g1&gt;Bearbeiten → als Standard-Übersetzung benutzen&lt;/g1&gt; wählen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T145709Z">
+        <seg>Sie können eine der Alternativen - zum Beispiel die am häufigsten verwendete - als Standardübersetzung definieren, indem Sie &lt;g1&gt;Bearbeiten → Als Standardübersetzung verwenden&lt;/g1&gt; auswählen.</seg>
       </tuv>
     </tu>
     <tu>
