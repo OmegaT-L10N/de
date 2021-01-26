@@ -29462,8 +29462,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231641Z" creationid="Michael Motzkus" creationdate="20180925T082426Z">
-        <seg>Wenn Sie mit der rechten Maustaste in den Editorbereich klicken, wird ein Kontextmenü angezeigt, das Ihnen die Funktionen &lt;e0&gt; Ausschneiden, Kopieren, Einfügen&lt;/e0&gt; (d. h. dieselben Funktionen wie &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Strg&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; und &lt;k7&gt; &lt;k8&gt;Strg&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Gehe zum Segment&lt;/e10&gt; und &lt;e11&gt;Glossareintrag hinzufügen&lt;/e11&gt; anbietet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T131443Z" creationid="Michael Motzkus" creationdate="20180925T082426Z">
+        <seg>Wenn Sie mit der rechten Maustaste auf den Editorbereich klicken, öffnet sich ein Kontextmenü, das die Menüpunkte &lt;e0&gt;Ausschneiden, Kopieren, Einfügen&lt;/e0&gt; (als Alternative zu &lt;k1&gt; &lt;k2&gt;Strg&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Strg&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; und &lt;k7&gt; &lt;k8&gt;Strg&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; und &lt;e11&gt;Add glossary entry&lt;/e11&gt; enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32665,8 +32665,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="en">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T070754Z">
-        <seg>Es ist das Segment, das in zwei Teilen angezeigt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T124207Z">
+        <seg>Es ist das einzige Segment, das in zwei Teilen dargestellt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38243,8 +38243,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075559Z" creationid="Michael Motzkus" creationdate="20180925T081913Z">
-        <seg>Hinweis: Der Segmentmarker zeigt &lt;l0&gt;&lt;Segment nnnn +yy mehr&gt; an, wenn das Segment nicht-einmalig ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T125927Z" creationid="Michael Motzkus" creationdate="20180925T081913Z">
+        <seg>Hinweis: Der Segmentmarker zeigt &lt;l0&gt;&lt;Segment nnnn +yy weitere&gt; an, wenn das Segment nicht-einmalig ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39352,8 +39352,8 @@ Projekte.</seg>
       <tuv lang="en">
         <seg>OmegaT is able to store translations that are identical to the source.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T072210Z">
-        <seg>OmegaT ist in der Lage Übersetzungen zu speichern, die mit der Quelle identisch sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T130109Z">
+        <seg>OmegaT ist in der Lage, Übersetzungen zu speichern, die mit der Quelle identisch sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40478,8 +40478,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>One of the above segments is the current segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T070732Z">
-        <seg>Eines der obigen Segmente ist das aktuelle Segment.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T124114Z">
+        <seg>Eines dieser Segmente ist das aktive Segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46582,8 +46582,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T072351Z">
-        <seg>Siehe &lt;e2&gt;Übersetzung bearbeiten&lt;/e2&gt; für weitere Details.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T130913Z">
+        <seg>Weitere Informationen finden Sie unter &lt;e2&gt;Übersetzung bearbeiten&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53056,8 +53056,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T070627Z">
-        <seg>Der angezeigte Text ist in Segmente aufgeteilt und Sie können durch das Dokument blättern und auf irgendein Segment doppelklicken, um es zu öffnen und zu bearbeiten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T123720Z">
+        <seg>Der dargestellte Text ist in Segmente unterteilt. Sie können durch das Dokument scrollen und auf ein beliebiges Segment doppelklicken, um es zu öffnen und zu bearbeiten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57967,8 +57967,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This is useful for documents that contain trade marks, names or other proper nouns, or parts in a third language that do not require translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T072322Z">
-        <seg>Das ist sinnvoll bei Dokumenten, die Warenzeichen, Namen oder andere Eigennamen enthalten, oder Teile in einer dritten Sprache sind, die nicht übersetzt werden müssen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T130736Z">
+        <seg>Dies ist nützlich für Dokumente, die Eigennamen wie Markenname usw. oder drittsprachige Segmente enthalten, die nicht übersetzt werden müssen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58023,8 +58023,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This is where you type and edit your translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T070319Z">
-        <seg>Hier tippen Sie Ihre Übersetzung ein und bearbeiten sie.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T123604Z">
+        <seg>Hier können Sie Ihre Übersetzung eingeben und bearbeiten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63948,8 +63948,8 @@ technological measures.</seg>
       <tuv lang="en">
         <seg>When you move to another segment, the translation is validated and stored.</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Wenn Sie zu einem anderen Segment gehen, wird die Übersetzung bestätigt und gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T130046Z">
+        <seg>Sobald Sie zu einem anderen Segment wechseln, wird die Übersetzung validiert und gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75023,8 +75023,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>restores the layout before the maximizing step</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T200511Z">
-        <seg>Stellt das Layout, das vor dem Maximierungsschritt bestand, wieder her</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T121952Z">
+        <seg>Stellt das Layout wieder her, welches vor dem Maximierungsschritt bestand</seg>
       </tuv>
     </tu>
     <tu>
