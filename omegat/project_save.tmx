@@ -13556,8 +13556,8 @@ paragraph of section 11).</seg>
       <tuv lang="en">
         <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T081245Z">
-        <seg>Irgendein Text, der schon übersetzt und in diesen Dateien gespeichert wurde, wird unter den unscharfen Treffen auftauchen, wenn er genügend Ähnlichkeit zum geraden übersetzten Text aufweist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T112950Z">
+        <seg>Jeder bereits übersetzte und in solchen Dateien gespeicherte Text wird in der Liste der Fuzzy Matches angezeigt, wenn er genügend Ähnlichkeit zum geraden übersetzten Text aufweist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28387,8 +28387,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T081547Z">
-        <seg>Wenn ein Quellsegment in einer der zusätzlichen TMs mit dem zu übersetzenden Text identisch ist, wird sich OmegaT so verhalten, wie es im Dialog &lt;m0&gt; &lt;g1&gt;Optionen&lt;/g1&gt; &lt;g2&gt;Editierverhalten...&lt;/g2&gt; &lt;/m0&gt; festgelegt wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T113530Z">
+        <seg>Wenn der Quelltext eines Segments in einem der Neben-TMs mit dem zu übersetzenden Text identisch ist, verhält sich OmegaT gemäß den Einstellungen im Dialogfenster &lt;m0&gt; &lt;g1&gt;Optionen&lt;/g1&gt; &lt;g2&gt;Editierverhalten...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50258,8 +50258,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T092603Z">
-        <seg>TMX werden nach ihren Namen sortiert und Segmente innerhalb einer vorhandenen TMX Datei eine Zeile nach der anderen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T120909Z">
+        <seg>TMX-Dateien werden sortiert nach ihren Namen und Segmenten innerhalb einer bestimmten TMX-Datei zeilenweise gelesen.</seg>
       </tuv>
     </tu>
     <tu>
