@@ -17007,8 +17007,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Clicking on any file will open it for translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T091606Z" creationid="Michael Motzkus" creationdate="20180925T091606Z">
-        <seg>Klicken auf eine Datei öffnet sie zur Übersetzung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T144810Z" creationid="Michael Motzkus" creationdate="20180925T091606Z">
+        <seg>Wenn Sie auf eine Datei klicken, wird sie für die Übersetzung geöffnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23359,8 +23359,8 @@ Backup-Dateiendung '.recover'.</seg>
       <tuv lang="en">
         <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130611T144307Z">
-        <seg>Einträge der Dateien schließen ihre Namen, Typen von Dateifiltern, ihre Kodierung und die Anzahl der Segmente, die jede Datei enthält, ein</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T150934Z">
+        <seg>Für jeden Dateinamen in der Liste wird zusätzlich noch der verwendete Filter, die Kodierung und die Anzahl der enthaltenen Segmente angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45433,8 +45433,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T092810Z" creationid="Michael Motzkus" creationdate="20180925T092810Z">
-        <seg>Rechtsklicken auf einen Dateinamen öffnet ein Kontextmenü, das es erlaubt, die Quell- und (wenn sie existiert) die Zieldatei zu öffnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T150025Z" creationid="Michael Motzkus" creationdate="20180925T092810Z">
+        <seg>Wenn Sie mit der rechten Maustaste auf einen Dateinamen klicken, wird ein Kontextmenü geöffnet, das das Öffnen der Quelldatei und der Zieldatei (falls vorhanden) ermöglicht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55269,8 +55269,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T080600Z">
-        <seg>Der Satz von &lt;e0&gt;Einmaligen&lt;/e0&gt; Segmenten wird durch den Abzug aller duplizierten Segmente von allen Segmenten berechnet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T154142Z">
+        <seg>Für die Berechnung der Anzahl &lt;e0&gt;einmaliger&lt;/e0&gt; Segmente werden alle Segmente herangezogen und doppelten Segmente entfernt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65854,8 +65854,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T220721Z" creationid="Ragnar-F" creationdate="20210111T220721Z">
-        <seg>Sie können eine Datei mit den Pfeiltasten &lt;k1&gt;Aufwärts&lt;/k1&gt; und &lt;k2&gt;Abwärts&lt;/k2&gt; auswählen und mit &lt;k3&gt;Enter&lt;/k3&gt; zum Übersetzen öffnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T145627Z" creationid="Ragnar-F" creationdate="20210111T220721Z">
+        <seg>Sie können eine Datei mit den Pfeiltasten &lt;k1&gt;Aufwärts&lt;/k1&gt; und &lt;k2&gt;Abwärts&lt;/k2&gt; auswählen und mit &lt;k3&gt;Enter&lt;/k3&gt; für die Übersetzung öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76263,8 +76263,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>the list of all translatable files in the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T145500Z">
-        <seg>Die Liste aller übersetzbaren Dateien im Projekt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T144817Z">
+        <seg>Eine Liste aller übersetzbaren Dateien im Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76367,8 +76367,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T080534Z">
-        <seg>die Gesamtzahl der Segmente, die Anzahl einmaliger Segmente im gesamten Projekt und die Anzahl bereits übersetzter einmaliger Segmente werden unten angezeigt</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T151459Z">
+        <seg>Direkt darunter wird die Gesamtzahl der Segmente, die Anzahl einmaliger Segmente im gesamten Projekt und die Anzahl bereits übersetzter einmaliger Segmente angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
