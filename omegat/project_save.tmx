@@ -14569,8 +14569,8 @@ korrektem Verhalten kommen kann.</seg>
       <tuv lang="en">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130513T093152Z">
-        <seg>Backups dieser Datei (mit der Erweiterung bak) werden nach und nach diesem Unterordner hinzugefügt, zuerst am Anfang der Sitzung der Übersetzung, an seinem Ende und im Verlauf der Übersetzung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T130724Z">
+        <seg>Zu Beginn, während und am Ende der Übersetzungsphase werden Sicherungskopien dieser Datei (mit der Endung .bak) in diesem Unterordner erstellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27680,8 +27680,8 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="en">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T093133Z">
-        <seg>Von Beginn ist es klar, dass Übersetzungen in einer vorhandenen TM (oder in TMs) alle korrekt sind, man kann sie in den &lt;e0&gt; tm/auto&lt;/e0&gt; Ordner packen, um nicht viele Vorfälle von &lt;e1&gt; [fuzzy]&lt;/e1&gt; bestätigen zu müssen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T122004Z">
+        <seg>Wenn von vornherein klar ist, dass alle Übersetzungen in einem oder mehreren TMs korrekt sind, kann man diese in den &lt;e0&gt;tm/auto&lt;/e0&gt;-Ordner kopieren und so vermeiden, dass viele &lt;e1&gt;[fuzzy]&lt;/e1&gt;-Fälle bestätigt werden müssen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28499,16 +28499,16 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T063746Z" creationid="Michael Motzkus" creationdate="20180925T063746Z">
-        <seg>Wenn Sie &lt;e0&gt;nicht&lt;/e0&gt; vor weiteren Änderungen geschützt werden müssen, entfernen Sie die TMX aus /tm/enforce.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T123903Z" creationid="Michael Motzkus" creationdate="20180925T063746Z">
+        <seg>Wenn sie &lt;e0&gt;nicht&lt;/e0&gt; gegen weitere Änderungen immun bleiben müssen, dann entfernen Sie die TMX-Datei aus den /tm/enforce-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T063924Z" creationid="Michael Motzkus" creationdate="20180925T063924Z">
-        <seg>Wenn Sie vor weiteren Änderungen geschützt werden &lt;e0&gt;müssen&lt;/e0&gt;, dann behalten Sie die TMX in /tm/enforce.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T123828Z" creationid="Michael Motzkus" creationdate="20180925T063924Z">
+        <seg>Wenn sie gegen weitere Änderungen immun bleiben müssen, dann behalten Sie die TMX-Datei im /tm/enforce-Ordner.&lt;e0&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29294,8 +29294,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T063414Z" creationid="Michael Motzkus" creationdate="20180925T063414Z">
-        <seg>Wenn Sie keine Zweifel haben, dass eine TMX akkurater ist als &lt;f0&gt;project_save.tmx&lt;/f0&gt; von OmegaT, legen Sie diese in /tm/enforce um vorhandene Standardübersetzungen zwangsweise zu überschreiben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T123320Z" creationid="Michael Motzkus" creationdate="20180925T063414Z">
+        <seg>Wenn Sie keinen Zweifel daran haben, dass eine TMX-Datei korrekter als die &lt;f0&gt;project_save.tmx&lt;/f0&gt;-Datei von OmegaT ist, kopieren Sie diese TMX-Datei in den /tm/enforce-Ordner, um bestehende Standardübersetzungen bedingungslos zu überschreiben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30839,8 +30839,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T194325Z" creationid="Ragnar-F" creationdate="20210111T195943Z">
-        <seg>Wenn im Editorbereich ein Match aus einer TMX-Datei eingefügt wird, die in einem Ordner namens &lt;f0&gt;mt&lt;/f0&gt; enthalten ist, wird der Hintergrund des aktiven Segments auf rot geändert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T124240Z" creationid="Ragnar-F" creationdate="20210111T195943Z">
+        <seg>Wenn im Editorbereich ein Match aus einer TMX-Datei eingefügt wird, die in einem Ordner namens &lt;f0&gt;mt&lt;/f0&gt; enthalten ist, wird der Hintergrund des aktiven Segments rot gefärbt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35210,16 +35210,16 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Make a slight change anywhere in the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T062840Z" creationid="Michael Motzkus" creationdate="20180925T062840Z">
-        <seg>Machen Sie irgendwo im Projekt eine leichte Änderung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T122131Z" creationid="Michael Motzkus" creationdate="20180925T062840Z">
+        <seg>Nehmen Sie an einer beliebigen Stelle des Projekts eine kleine Änderung vor.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Make decision about immunity of the enforced segments:</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T063622Z" creationid="Michael Motzkus" creationdate="20180925T063622Z">
-        <seg>Treffen Sie eine Entscheidung über den Schutz der erzwungenen Segmente:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T123437Z" creationid="Michael Motzkus" creationdate="20180925T063622Z">
+        <seg>Treffen Sie eine Entscheidung über die Immunität der erzwungenen Segmente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38203,16 +38203,16 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T063128Z" creationid="Michael Motzkus" creationdate="20180925T063128Z">
-        <seg>Hinweis: wenn TMX aus /tm/auto vor Schritt 3 entfernt wird, wird keine zusätzliche Übersetzungseinheit hinzugefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T123020Z" creationid="Michael Motzkus" creationdate="20180925T063128Z">
+        <seg>Hinweis: Wenn die TMX-Datei vor Schritt 3 aus dem /tm/auto-Ordner entfernt wird, wird keine zusätzliche Übersetzungseinheit hinzugefügt.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Note: if TMX is removed from /tm/enforce before step 3, enforcements aren't kept at all.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T064200Z" creationid="Michael Motzkus" creationdate="20180925T064200Z">
-        <seg>Hinweis: Wenn TMX vor Schritt 3 aus /tm/enforce entfernt wird, werden keine erzwungenen (Segmente) behalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T124201Z" creationid="Michael Motzkus" creationdate="20180925T064200Z">
+        <seg>Hinweis: Wenn die TMX-Datei vor Schritt 3 aus dem /tm/enforce-Ordner entfernt wird, werden erzwungene Segmente überhaupt nicht behalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43780,16 +43780,16 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>Put the TMX in /tm/auto.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T062739Z" creationid="Michael Motzkus" creationdate="20180925T062739Z">
-        <seg>Speichern Sie die TMX in /tm/auto.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T121936Z" creationid="Michael Motzkus" creationdate="20180925T062739Z">
+        <seg>Kopieren Sie die TMX-Datei in den /tm/auto-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Put the TMX in /tm/enforce.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T063434Z" creationid="Michael Motzkus" creationdate="20180925T063434Z">
-        <seg>Legen Sie die TMX in /tm/enforce.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T123339Z" creationid="Michael Motzkus" creationdate="20180925T063434Z">
+        <seg>Kopieren Sie die TMX-Datei in den /tm/enforce-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51606,8 +51606,8 @@ for making modifications to it.</seg>
       <tuv lang="en">
         <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130513T092206Z">
-        <seg>Der Unterordner &lt;e0&gt;omegat&lt;/e0&gt; hat mindestens eine und eventuelle einige andere Dateien.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T124636Z">
+        <seg>Der Unterordner &lt;e0&gt;omegat&lt;/e0&gt; enthält mindestens eine und ggf. mehrere andere Dateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53883,8 +53883,8 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode ist (optional).</seg>
       <tuv lang="en">
         <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
       </tuv>
-      <tuv lang="de" changeid="helmut" changedate="20130602T092800Z">
-        <seg>Das letzte Segment mit dem identischen Text wird daher vorherrschen (Hinweis: es macht natürlich mehr Sinn, erst einmal zu verhindern, dass dies passiert).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T121119Z">
+        <seg>Dies hat zur Folge, dass sich das letzte Segment mit dem identischen Quelltext durchsetzen wird (Anmerkung: natürlich ist es sinnvoller, dies von vornherein zu vermeiden).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54255,8 +54255,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142316Z">
-        <seg>Die Datei &lt;f1&gt;project_save.tmx, &lt;/f1&gt; ist der TM-Arbeitsspeicher für das Projekt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T125559Z">
+        <seg>Die wichtigste Datei ist in diesem Ordner ist der projektinterne Translation Memory namens &lt;f1&gt;project_save.tmx&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58191,16 +58191,16 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T062959Z" creationid="Michael Motzkus" creationdate="20180925T062959Z">
-        <seg>Das ändert &lt;f0&gt;project_save.tmx&lt;/f0&gt; (durch Hinzufügen geeigneter Übersetzungseinheiten aus "auto"-TMX)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T123004Z" creationid="Michael Motzkus" creationdate="20180925T062959Z">
+        <seg>Dies ändert die &lt;f0&gt;project_save.tmx&lt;/f0&gt;-Datei (durch Hinzufügen der richtigen Übersetzungseinheiten aus der im /tm/auto-Ordner befindlichen TMX-Datei)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T063443Z" creationid="Michael Motzkus" creationdate="20180925T063443Z">
-        <seg>Das ändert &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210127T123414Z" creationid="Michael Motzkus" creationdate="20180925T063443Z">
+        <seg>Dies ändert die &lt;f0&gt;project_save.tmx&lt;/f0&gt;-Datei.</seg>
       </tuv>
     </tu>
     <tu>
