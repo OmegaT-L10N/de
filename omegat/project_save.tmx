@@ -5835,8 +5835,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is found is displayed above each result.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T205739Z" creationid="Michael Motzkus" creationdate="20180921T071815Z">
-        <seg>&lt;e0&gt;Anzeigen: Dateinamen:&lt;/e0&gt; Wenn aktiviert, wird der Name der Datei, in der das jeweilige Segment gefunden wurde, über jedem Suchergebnis angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T220554Z" creationid="Michael Motzkus" creationdate="20180921T071815Z">
+        <seg>&lt;e0&gt;Zeige: Dateinamen:&lt;/e0&gt; Wenn aktiviert, wird der Name der Datei, in der das jeweilige Segment gefunden wurde, über jedem Suchergebnis angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17551,8 +17551,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
       <tuv lang="en">
         <seg>Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T191112Z">
-        <seg>Obwohl OmegaT also durchaus in der Lage ist, mit &lt;f1&gt;TMX&lt;/f1&gt;-Dateien umzugehen, werden diese nicht in die Suche nach Dateien einbezogen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T220807Z">
+        <seg>Obwohl OmegaT also durchaus in der Lage ist, mit &lt;f1&gt;.tmx&lt;/f1&gt;-Dateien umzugehen, werden diese nicht in die Suche nach Dateien einbezogen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59785,8 +59785,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="en">
         <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T215859Z" creationid="Michael Motzkus" creationdate="20180921T080859Z">
-        <seg>Um den Filter zu entfernen, drücken Sie die Schaltfläche &lt;e0&gt;Filter entfernen&lt;/e0&gt; oder laden Sie das Projekt neu.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T220814Z" creationid="Michael Motzkus" creationdate="20180921T080859Z">
+        <seg>Um den Filter wieder zu entfernen, drücken Sie die Schaltfläche &lt;e0&gt;Filter entfernen&lt;/e0&gt; oder laden Sie das Projekt neu.</seg>
       </tuv>
     </tu>
     <tu>
