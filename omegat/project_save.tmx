@@ -55109,16 +55109,16 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T192926Z">
-        <seg>Die zu suchende Zeichenkette - [a-zA-Z]+[öäüqwß] - im obigen Beispiel sucht z. B. nach Wörtern im Zieltext des Segments, die Umlaute der deutschen Sprache enthalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T203058Z">
+        <seg>Der Suchbegriff - [a-zA-Z]+[öäüß] - im obigen Beispiel sucht z. B. nach Wörtern im Zieltext des Segments, die Umlaute der deutschen Sprache enthalten.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The search string will be treated as a regular expression.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T190818Z">
-        <seg>Die zu suchende Zeichenkette wird als regulärer Ausdruck behandelt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T192935Z">
+        <seg>Der Suchbegriff wird als regulärer Ausdruck behandelt.</seg>
       </tuv>
     </tu>
     <tu>
