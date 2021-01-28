@@ -1840,8 +1840,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Search for Selection</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195926Z" creationid="Michael Motzkus" creationdate="20190129T072813Z">
-        <seg>Ausgewählten Text &amp;suchen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T125236Z" creationid="Michael Motzkus" creationdate="20190129T072813Z">
+        <seg>Markierten Text &amp;suchen</seg>
       </tuv>
     </tu>
     <tu>
@@ -12812,8 +12812,8 @@ conditions are met.</seg>
       <tuv lang="en">
         <seg>Alternatively, you can select a word or phrase in the Editor pane, Fuzzy matches pane or Glossary pane and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142948Z" creationid="Michael Motzkus" creationdate="20180921T063015Z">
-        <seg>Alternativ können Sie ein Wort oder eine Wortgruppe im Editor-, Fuzzy-Matches- oder Glossarbereich auswählen und &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; drücken.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T123933Z" creationid="Michael Motzkus" creationdate="20180921T063015Z">
+        <seg>Alternativ können Sie ein Wort oder eine Wortgruppe im Editor-, Fuzzy-Matches- oder Glossarbereich markieren und &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; drücken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21583,24 +21583,24 @@ propagate that work, subject to this License.</seg>
       <tuv lang="en">
         <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T185715Z" creationid="Michael Motzkus" creationdate="20180921T065114Z">
-        <seg>Bearbeiten &gt; Glossareintrag erstellen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): Einen neuen Glossareintrag hinzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T132346Z" creationid="Michael Motzkus" creationdate="20180921T065114Z">
+        <seg>Bearbeiten &gt; Glossareintrag erstellen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): Fügt einen neuen Glossareintrag hinzu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T185518Z" creationid="Michael Motzkus" creationdate="20180921T064934Z">
-        <seg>Bearbeiten &gt; Quelle einfügen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): Quelltext des aktuellen Segments einfügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T125831Z" creationid="Michael Motzkus" creationdate="20180921T064934Z">
+        <seg>Bearbeiten &gt; Quelle einfügen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): Fügt den Quelltext des aktiven Segments in das Suchfeld ein.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T185455Z" creationid="Michael Motzkus" creationdate="20180921T065011Z">
-        <seg>Bearbeiten &gt; Mit Quelle ersetzen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): Mit dem Quelltext des aktuellen Segments ersetzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T125733Z" creationid="Michael Motzkus" creationdate="20180921T065011Z">
+        <seg>Bearbeiten &gt; Mit Quelle ersetzen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Umschalt&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): Ersetzt den Inhalt des Suchfelds mit dem Quelltext des aktiven Segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23303,16 +23303,16 @@ Backup-Dateiendung '.recover'.</seg>
       <tuv lang="en">
         <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T185529Z" creationid="Michael Motzkus" creationdate="20180921T064904Z">
-        <seg>Datei &gt; Schließen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): Das Suchfenster schließen (auf dieselbe Weise wie &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T125537Z" creationid="Michael Motzkus" creationdate="20180921T064904Z">
+        <seg>Datei &gt; Schließen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): Schließt das Suchfenster (auf dieselbe Weise wie &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T185642Z" creationid="Michael Motzkus" creationdate="20180921T064228Z">
-        <seg>Datei &gt; Ausgewählten Text suchen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): Den Eingabefokus auf das Suchfeld setzen und dessen gesamten Inhalt markieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T125523Z" creationid="Michael Motzkus" creationdate="20180921T064228Z">
+        <seg>Datei &gt; Markierten Text suchen (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): Setzt den Eingabefokus auf das Suchfeld, fügt den markierten Text ein und markiert den gesamten Inhalt des Felds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40816,8 +40816,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T062734Z" creationid="Michael Motzkus" creationdate="20180921T062734Z">
-        <seg>Öffnen Sie das Suchfenster mit &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; und geben Sie das Wort, nach dem Sie suchen möchten, in das Feld &lt;e3&gt;Suchen nach&lt;/e3&gt; ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T123902Z" creationid="Michael Motzkus" creationdate="20180921T062734Z">
+        <seg>Öffnen Sie das Suchfenster mit &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; und geben Sie das Wort oder die Wortgruppe, nach dem/der Sie suchen möchten, in das Feld &lt;e3&gt;Suche nach&lt;/e3&gt; ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56089,8 +56089,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The word or phrase is entered in the &lt;e3&gt;Search for&lt;/e3&gt; box automatically.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T063102Z" creationid="Michael Motzkus" creationdate="20180921T063102Z">
-        <seg>Das Wort oder der Ausdruck wird automatisch in das Feld &lt;e3&gt;Suchen nach&lt;/e3&gt; eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T124002Z" creationid="Michael Motzkus" creationdate="20180921T063102Z">
+        <seg>Das Wort oder die Wortgruppe wird automatisch in das Feld &lt;e3&gt;Suche nach&lt;/e3&gt; eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
