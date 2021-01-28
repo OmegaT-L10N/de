@@ -5787,8 +5787,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T074922Z" creationid="Michael Motzkus" creationdate="20180919T074922Z">
-        <seg>&lt;e0&gt;Schließen:&lt;/e0&gt; Schließen Sie das Fenster ohne Änderungen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T120206Z" creationid="Michael Motzkus" creationdate="20180919T074922Z">
+        <seg>&lt;e0&gt;Schließen:&lt;/e0&gt; Schließen Sie das Fenster, ohne etwas zu ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6307,8 +6307,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T073728Z" creationid="Michael Motzkus" creationdate="20180919T073728Z">
-        <seg>&lt;e0&gt;Alle ersetzen:&lt;/e0&gt; führt das Ersetzen auf alle Vorkommen aus (nach der Anzeige eines Bestätigungsfensters, wo die Anzahl der Vorkommen angezeigt wird).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T115741Z" creationid="Michael Motzkus" creationdate="20180919T073728Z">
+        <seg>&lt;e0&gt;Alle ersetzen:&lt;/e0&gt; Führt eine Ersetzung aller Vorkommen durch (nach Anzeige eines Bestätigungsfensters mit der Anzahl der Vorkommen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16719,8 +16719,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210116T140508Z" creationid="Michael Motzkus" creationdate="20180919T074607Z">
-        <seg>Klicken Sie auf &lt;e2&gt;Nächstes Vorkommen ersetzen&lt;/e2&gt; oder &lt;e3&gt;Überspringen&lt;/e3&gt; und beenden Sie danach die Sitzung mit &lt;e4&gt;Beenden&lt;/e4&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T115830Z" creationid="Michael Motzkus" creationdate="20180919T074607Z">
+        <seg>Klicken Sie auf &lt;e2&gt;Nächstes Vorkommen ersetzen&lt;/e2&gt; oder &lt;e3&gt;Überspringen&lt;/e3&gt; und beenden Sie anschließend die Sitzung mit &lt;e4&gt;Beenden&lt;/e4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22180,8 +22180,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T073148Z" creationid="Michael Motzkus" creationdate="20180919T073148Z">
-        <seg>Geben Sie das / den neue/n Wort oder Ausdruck (reguläre Ausdrücke werden nicht unterstützt) in die Box &lt;e0&gt;Ersetzen mit&lt;/e0&gt; ein, klicken Sie dann auf eine der folgenden Optionen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T114330Z" creationid="Michael Motzkus" creationdate="20180919T073148Z">
+        <seg>Geben Sie das neue Wort oder die neue Wortgruppe (reguläre Ausdrücke werden nicht unterstützt) in das Feld &lt;e0&gt;Ersetzen mit&lt;/e0&gt; ein und klicken Sie dann auf eine der folgenden Schaltflächen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22737,8 +22737,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T075435Z" creationid="Michael Motzkus" creationdate="20180919T075307Z">
-        <seg>Außer einer: wählen Sie &lt;e0&gt;Unübersetzt&lt;/e0&gt; um Suchen und Ersetzen auch auf Segmente auszuführen, die noch nicht übersetzt worden sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T121553Z" creationid="Michael Motzkus" creationdate="20180919T075307Z">
+        <seg>Mit einer Ausnahme: Aktivieren Sie &lt;e0&gt;Unübersetzt&lt;/e0&gt;, um Suchen und Ersetzen auch auf Segmente anzuwenden, die noch nicht übersetzt wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27749,8 +27749,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T062520Z" creationid="Michael Motzkus" creationdate="20180921T062520Z">
-        <seg>Wenn für das gegebene Segment keine Ersetzung erfolgt, wird das Zielsegment "geleert", das heißt, es bleibt unübersetzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T122301Z" creationid="Michael Motzkus" creationdate="20180921T062520Z">
+        <seg>Wenn für ein bestimmtes Segment keine Ersetzung vorgenommen wird, wird dessen Zieltext "geleert", soll heißen, das Segment bleibt unübersetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46438,8 +46438,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T075244Z" creationid="Michael Motzkus" creationdate="20180919T075244Z">
-        <seg>Suchoptionen sind ähnlich den im &lt;l0&gt;Suchfenster&lt;/l0&gt; angezeigten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T121135Z" creationid="Michael Motzkus" creationdate="20180919T075244Z">
+        <seg>Die Suchoptionen sind nahezu identisch mit den Optionen des Dialogfensters &lt;l0&gt;Textsuche&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59581,8 +59581,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T062359Z" creationid="Michael Motzkus" creationdate="20180920T095351Z">
-        <seg>Um dies zu ermöglichen (obwohl Suchen und Ersetzen nur im Speicher arbeitet), kopiert OmegaT das Quellsegment in das Zielsegment, bevor der Ersetzungsvorgang stattfindet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T121914Z" creationid="Michael Motzkus" creationdate="20180920T095351Z">
+        <seg>Um dies möglich zu machen (da Suchen und Ersetzen eigentlich nur im Speicher operiert), kopiert OmegaT den Quelltext des Segments in dessen Zieltext, bevor die Ersetzung stattfindet.</seg>
       </tuv>
     </tu>
     <tu>
