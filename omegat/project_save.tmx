@@ -5827,16 +5827,16 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Display: all matching segments: &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T071132Z" creationid="Michael Motzkus" creationdate="20180921T070924Z">
-        <seg>&lt;e0&gt;Anzeigen: alle Resultate anzeigen: &lt;/e0&gt;wenn ausgewählt, werden alle Segmente eins nach dem anderen angezeigt, sogar, wenn sie mehrfach im selben Dokument oder in anderen Dokumenten vorkommen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T205419Z" creationid="Michael Motzkus" creationdate="20180921T070924Z">
+        <seg>&lt;e0&gt;Zeige: alle gefundenen Segmente:&lt;/e0&gt; Wenn aktiviert, werden alle Segmente einmalig angezeigt, selbst wenn sie mehrfach im selben Dokument oder in verschiedenen Dokumenten vorhanden sind.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is found is displayed above each result.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20180921T071815Z" creationid="Michael Motzkus" creationdate="20180921T071815Z">
-        <seg>&lt;e0&gt;Anzeigen: Dateinamen: &lt;/e0&gt;wenn ausgewählt, wird der Name der Datei, in der das Segment gefunden wird, über jedem Ergebnis angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T205739Z" creationid="Michael Motzkus" creationdate="20180921T071815Z">
+        <seg>&lt;e0&gt;Anzeigen: Dateinamen:&lt;/e0&gt; Wenn aktiviert, wird der Name der Datei, in der das jeweilige Segment gefunden wurde, über jedem Suchergebnis angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6675,8 +6675,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T140557Z">
-        <seg>&lt;e0&gt;Groß-/Kleinschreibung beachten&lt;/e0&gt;: Es wird genau nach der angegebenen Zeichenfolge gesucht; das heißt, dass die Großschreibung berücksichtigt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T204112Z">
+        <seg>&lt;e0&gt;Groß-/Kleinschreibung beachten&lt;/e0&gt;: Es wird genau nach der angegebenen Zeichenkette gesucht; das heißt, dass die Groß- und Kleinschreibung von Bedeutung ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42894,8 +42894,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130528T160157Z">
-        <seg>Wenn Sie nach Eingabe einer Zeichenfolge auf die Schaltfläche Suchen drücken, werden alle Segmente im Projekt, die der gesuchten Zeichenfolge entsprechen, aufgelistet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T210603Z">
+        <seg>Wenn Sie nach der Eingabe einer Zeichenkette in das Suchfeld auf die Suchen-Schaltfläche klicken, werden alle Segmente im Projekt angezeigt, die die eingegebene Zeichenkette enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60602,8 +60602,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230421Z">
-        <seg>Übersetzte Segmente werden mit dem ursprünglichen Text oben und dem übersetzten Text unten gezeigt, bei den noch unübersetzten Segmenten wird nur der ursprüngliche Text gezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210128T212600Z">
+        <seg>Für übersetzte Segmente wird sowohl der Quell- als auch Zieltext angezeigt, während für unübersetzte Segmente nur der Quelltext angezeigt wird.</seg>
       </tuv>
     </tu>
     <tu>
