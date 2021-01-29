@@ -10345,16 +10345,16 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T211202Z" creationid="BVB" creationdate="20180826T092534Z">
-        <seg>&lt;s1&gt;Der Vorteil&lt;/s1&gt;: einmal ausgeführt, werden zukünftige Updates der Web-Start-Version automatisch auf Ihrem Computer installiert.&lt;br2/&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T111804Z" creationid="BVB" creationdate="20180826T092534Z">
+        <seg>&lt;s1&gt;Der Vorteil&lt;/s1&gt;: Einmal gestartet, werden zukünftige Updates der Web-Start-Variante automatisch auf Ihrem Computer installiert.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T092644Z" creationid="BVB" creationdate="20180826T092644Z">
-        <seg>&lt;s3&gt;Der Nachteil&lt;/s3&gt;: Zurzeit kann diese Version nicht in Verbindung mit Plugins genutzt werden, sodass nicht alle Funktionen zur Verfügung stehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T112640Z" creationid="BVB" creationdate="20180826T092644Z">
+        <seg>&lt;s3&gt;Der Nachteil&lt;/s3&gt;: Zurzeit kann diese Variante nicht in Verbindung mit Plugins genutzt werden, sodass nicht alle Funktionen zur Verfügung stehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24491,8 +24491,8 @@ sale, or importing the Program or any portion of it.</seg>
       <tuv lang="en">
         <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T092818Z" creationid="BVB" creationdate="20180826T092818Z">
-        <seg>Für die Installation auf anderen Betriebssystemen (wie FreeBSD und Solaris).&lt;br0/&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T112824Z" creationid="BVB" creationdate="20180826T092818Z">
+        <seg>Für die Installation auf anderen Betriebssystemen (wie z. B. FreeBSD und Solaris).&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27332,8 +27332,8 @@ not survive such relicensing or conveying.</seg>
       <tuv lang="en">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T211306Z" creationid="BVB" creationdate="20180826T093324Z">
-        <seg>Wenn auf Ihrem Windows-System schon eine passende JRE installiert ist, wählen Sie "ohne JRE".</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T113420Z" creationid="BVB" creationdate="20180826T093324Z">
+        <seg>Wenn auf Ihrem Windows-System schon eine geeignete JRE installiert ist, wählen Sie "ohne JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -27638,8 +27638,8 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="en">
         <seg>If in doubt, select this version.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T092318Z" creationid="BVB" creationdate="20180826T092318Z">
-        <seg>Wählen Sie im Zweifelsfall diese Version.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T110955Z" creationid="BVB" creationdate="20180826T092318Z">
+        <seg>Wählen Sie im Zweifelsfall diese Variante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27837,8 +27837,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T093357Z" creationid="BVB" creationdate="20180826T093357Z">
-        <seg>Wenn nicht oder wenn Sie sich nicht sicher sind, wählen Sie "mit JRE".</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T113543Z" creationid="BVB" creationdate="20180826T093357Z">
+        <seg>Falls dies nicht der Fall ist oder wenn Sie sich nicht sicher sind, wählen Sie "mit JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -31690,8 +31690,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T092005Z" creationid="BVB" creationdate="20180826T092005Z">
-        <seg>Installationstyp</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T110924Z" creationid="BVB" creationdate="20180826T092005Z">
+        <seg>Installationsvariante</seg>
       </tuv>
     </tu>
     <tu>
@@ -40030,8 +40030,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T211312Z" creationid="BVB" creationdate="20180826T093553Z">
-        <seg>OmegaT wird normalerweise auf jedem Linux-System laufen, auf dem eine passende Version der Java Runtime Environment (JRE) installiert werden kann.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T114825Z" creationid="BVB" creationdate="20180826T093553Z">
+        <seg>OmegaT wird normalerweise auf jedem Linux-System laufen, auf dem eine geeignete Version der Java Runtime Environment (JRE) installiert werden kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47590,8 +47590,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T093237Z" creationid="BVB" creationdate="20180826T093237Z">
-        <seg>Wählen Sie, ob Sie OmegaT einschließlich oder ohne Java Runtime Environment (JRE) herunterladen möchten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T113248Z" creationid="BVB" creationdate="20180826T093237Z">
+        <seg>Wählen Sie, ob Sie OmegaT mit oder ohne Java Runtime Environment (JRE) herunterladen möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52340,8 +52340,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T211157Z" creationid="BVB" creationdate="20180826T092423Z">
-        <seg>Die Web-Start-Version ist die "Starten-und-Vergessen"-Version.&lt;br0/&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T111759Z" creationid="BVB" creationdate="20180826T092423Z">
+        <seg>Die Web-Start-Variante gemäß dem Motto "installieren und vergessen".&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56017,8 +56017,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T092301Z" creationid="BVB" creationdate="20180826T092301Z">
-        <seg>Die Installationsversion für bestehende Benutzer, die mit OmegaT vertraut sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T110916Z" creationid="BVB" creationdate="20180826T092301Z">
+        <seg>Die Variante für die benutzerdefinierte Installation, die den bestehenden OmegaT-Benutzern vertraut ist.</seg>
       </tuv>
     </tu>
     <tu>
