@@ -10257,8 +10257,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T105408Z" creationid="BVB" creationdate="20180826T105408Z">
-        <seg>&lt;s0&gt;Linux-Benutzer&lt;/s0&gt;: Die meisten Linux-Distributionen werden mit einer Java-Laufzeitumgebung ausgeliefert, einige Open-Source-Implementierungen funktionieren jedoch nicht ordnungsgemäß mit OmegaT (obwohl dies möglicherweise nicht sofort offensichtlich ist).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T153108Z" creationid="BVB" creationdate="20180826T105408Z">
+        <seg>&lt;s0&gt;Linux-Benutzer&lt;/s0&gt;: Die meisten Linux-Distributionen werden zusammen mit einer Java Runtime Environment bereitgestellt, doch einige Open-Source-Implementierungen kommen mit OmegaT nicht richtig zurecht (auch wenn dies vielleicht nicht sofort ersichtlich ist).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28731,8 +28731,8 @@ where to find the applicable terms.</seg>
       <tuv lang="en">
         <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T105533Z" creationid="BVB" creationdate="20180826T105533Z">
-        <seg>Wenn Sie bei Linux relativ neu sind, empfehlen wir Ihnen, eine OmegaT-Version mit der JRE zu wählen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T153303Z" creationid="BVB" creationdate="20180826T105533Z">
+        <seg>Wenn Sie sich noch nicht so gut mit Linux auskennen, raten wir Ihnen, eine OmegaT-Version zu wählen, die die JRE enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28803,8 +28803,8 @@ where to find the applicable terms.</seg>
       <tuv lang="en">
         <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T105146Z" creationid="BVB" creationdate="20180826T105146Z">
-        <seg>Wenn Sie sich unsicher sind, ob Sie eine geeignete Version der JRE haben oder nicht, wählen Sie eine Version mit JRE (oder die Standardversion).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T152900Z" creationid="BVB" creationdate="20180826T105146Z">
+        <seg>Wenn Sie sich nicht sicher sind, ob Sie eine geeignete Version der JRE haben, wählen Sie eine Version "mit JRE" (oder die Standardversion).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29326,8 +29326,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T104750Z" creationid="BVB" creationdate="20180826T104750Z">
-        <seg>Wenn Sie die OmegaT-Version mit JRE installieren, obwohl die JRE bereits auf Ihrem Computer installiert ist, wird die JRE von OmegaT separat installiert und steht nicht in Konflikt mit ihr.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T152617Z" creationid="BVB" creationdate="20180826T104750Z">
+        <seg>Wenn Sie die OmegaT-Version mit JRE installieren, obwohl die JRE bereits auf Ihrem Computer installiert ist, wird die JRE von OmegaT separat installiert, ohne in Konflikt mit anderen JRE-Installationen zu geraten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34978,8 +34978,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T105727Z" creationid="BVB" creationdate="20180826T105727Z">
-        <seg>Mac OS X verfügt über eine Funktion namens Gatekeeper, die die Sicherheit erhöht, indem es das Ausführen nicht signierter Programme erschwert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T153736Z" creationid="BVB" creationdate="20180826T105727Z">
+        <seg>Mac OS X verfügt über ein Feature namens Gatekeeper, das die Sicherheit erhöht, indem es die Ausführung unsignierter Programme erschwert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36397,8 +36397,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T105626Z" creationid="BVB" creationdate="20180826T105626Z">
-        <seg>Erfahrenere Linux-Benutzer mögen es vorziehen, Oracle (früher Sun) JRE auf Systemebene zu installieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T153546Z" creationid="BVB" creationdate="20180826T105626Z">
+        <seg>Erfahrene Linux-Benutzer bevorzugen es eher, die JRE von Oracle (früher Sun) direkt auf Ihr System zu installieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39155,8 +39155,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T105811Z" creationid="BVB" creationdate="20180826T105811Z">
-        <seg>OmegaT für Mac OS X ist sowohl in signierter als auch in unsignierter Version verfügbar. Sie sind funktional identisch, aber die signierte Version wird bevorzugt, da sie vom System als von einem bekannten Entwickler veröffentlicht erkannt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T154044Z" creationid="BVB" creationdate="20180826T105811Z">
+        <seg>OmegaT für Mac OS X ist sowohl in signierter als auch in unsignierter Version erhältlich; sie sind funktional identisch, wobei die signierte Version vorzuziehen ist, da sie vom System als Veröffentlichung eines bekannten Entwicklers erkannt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48310,8 +48310,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Signed/Unsigned</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T105647Z" creationid="BVB" creationdate="20180826T105647Z">
-        <seg>Signiert / Unsigniert</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T153555Z" creationid="BVB" creationdate="20180826T105647Z">
+        <seg>Signiert/Unsigniert</seg>
       </tuv>
     </tu>
     <tu>
@@ -56409,8 +56409,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>There may be a delay in publishing signed versions.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T105827Z" creationid="BVB" creationdate="20180826T105827Z">
-        <seg>Es kann zu Verzögerungen bei der Veröffentlichung signierter Versionen kommen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T154109Z" creationid="BVB" creationdate="20180826T105827Z">
+        <seg>Es kann zu einer Verzögerung bei der Veröffentlichung signierter Versionen kommen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62562,8 +62562,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T110126Z" creationid="BVB" creationdate="20180826T110126Z">
-        <seg>Eilige Benutzer können stattdessen die unsignierte Version verwenden; Wenn Sie Probleme beim Starten der App haben, lesen Sie, &lt;a0&gt;wie Sie eine App von einem unbekannten Entwickler öffnen&lt;/a0&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T154635Z" creationid="BVB" creationdate="20180826T110126Z">
+        <seg>Benutzer, die es eilig haben, können stattdessen die unsignierte Version verwenden; wenn Sie Schwierigkeiten mit dem Starten der App haben, siehe &lt;a0&gt;Wie man eine App von einem unbekannten Entwickler öffnet&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
