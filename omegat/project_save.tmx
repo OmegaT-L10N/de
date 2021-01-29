@@ -6259,8 +6259,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start does not save any of your information beyond the computer on which you are running it.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T225130Z">
-        <seg>&lt;e0&gt;Datenschutz&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start speichert keine Ihrer persönlichen Informationen außerhalb des von Ihnen genutzten Computers.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T155651Z">
+        <seg>&lt;e0&gt;Datenschutz&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start speichert keine persönlichen Daten außerhalb des von Ihnen genutzten Computers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30511,8 +30511,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T212007Z" creationid="BVB" creationdate="20180826T111239Z">
-        <seg>Um die Web-Start-Version zu installieren, müssen Sie bereits Java Version 1.3 oder höher auf Ihrem Computer installiert haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T155525Z" creationid="BVB" creationdate="20180826T111239Z">
+        <seg>Um die Web-Start-Version installieren zu können, muss mindestens Java Version 1.3 auf Ihrem Computer installiert sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43032,8 +43032,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T212039Z" creationid="BVB" creationdate="20180826T111421Z">
-        <seg>Informationen zum Datenschutz: OmegaT Java Web Start speichert keine Ihrer Daten auf den Webservern von OmegaT.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T155618Z" creationid="BVB" creationdate="20180826T111421Z">
+        <seg>Informationen zum Datenschutz: OmegaT Java Web Start speichert keine persönlichen Daten auf den Webservern von OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52436,8 +52436,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The application runs on your machine.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T111510Z" creationid="BVB" creationdate="20180826T111510Z">
-        <seg>Die Anwendung läuft auf Ihrem Computer.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T155825Z" creationid="BVB" creationdate="20180826T111510Z">
+        <seg>Das Programm läuft nur auf Ihrem Rechner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52580,8 +52580,8 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
       <tuv lang="en">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T110413Z" creationid="BVB" creationdate="20180826T110413Z">
-        <seg>Das Zertifikat ist von &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt; signiert, einer in Frankreich registrierten Firma.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T155041Z" creationid="BVB" creationdate="20180826T110413Z">
+        <seg>Das Zertifikat ist von &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt; signiert, einem in Frankreich registrierten Unternehmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54547,8 +54547,8 @@ content, constitutes a covered work.</seg>
       <tuv lang="en">
         <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T110557Z" creationid="BVB" creationdate="20180826T110557Z">
-        <seg>Die Berechtigungen, die Sie dieser Version erteilen (die als "uneingeschränkter Zugriff auf den Computer" bezeichnet werden können) unterscheiden sich nicht von den Berechtigungen, die Sie der lokalen Version zuweisen, zum Beispiel einem Zugriff auf die Festplatte Ihres Computers.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T155412Z" creationid="BVB" creationdate="20180826T110557Z">
+        <seg>Die Rechte, die Sie dieser Version geben (die man als "uneingeschränkten Zugriff auf den Computer" bezeichnen kann), unterscheiden sich nicht von den Rechten, die Sie der lokalen Version geben; diese ermöglichen den Zugriff auf die Festplatte des Computers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66626,16 +66626,16 @@ them.</seg>
       <tuv lang="en">
         <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T142448Z">
-        <seg>Die Dokumente und Translation Memories verbleiben auf Ihrem Computer, außerdem hat das &lt;a2&gt;OmegaT&lt;/a2&gt;-Projekt keinen Zugriff auf Ihre Arbeit oder persönlichen Informationen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T160021Z">
+        <seg>Die Dokumente und Translation Memories verbleiben auf Ihrem Computer, außerdem hat das &lt;a2&gt;OmegaT&lt;/a2&gt;-Projekt keinen Zugriff auf Ihre Arbeit oder persönlichen Daten.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T143124Z" creationid="BVB" creationdate="20180826T111634Z">
-        <seg>Ihre Dokumente und Translation Memory verbleiben auf Ihrem Computer und das OmegaT-Projekt wird keinen Zugriff auf Ihre Arbeit oder Information haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T155918Z" creationid="BVB" creationdate="20180826T111634Z">
+        <seg>Die Dokumente und Translation Memories verbleiben auf Ihrem Computer, außerdem hat das OmegaT-Projekt keinen Zugriff auf Ihre Arbeit oder persönlichen Daten.</seg>
       </tuv>
     </tu>
     <tu>
