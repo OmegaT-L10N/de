@@ -10361,8 +10361,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T122845Z">
-        <seg>&lt;Tastenkürzel&gt; muss folgende Form haben: 0 oder mehr &lt;c0&gt;&lt;Modifikator&gt;&lt;/c0&gt;, gefolgt von 0 oder 1 &lt;c1&gt;&lt;Ereignis&gt;&lt;/c1&gt;, gefolgt von 1 &lt;c2&gt;&lt;Taste&gt;&lt;/c2&gt;:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160710Z">
+        <seg>&lt;Tastaturkurzbefehl&gt; muss folgende Form haben: 0 oder mehr &lt;c0&gt;&lt;Modifikator&gt;&lt;/c0&gt;, gefolgt von 0 oder 1 &lt;c1&gt;&lt;Ereignis&gt;&lt;/c1&gt;, gefolgt von 1 &lt;c2&gt;&lt;Taste&gt;&lt;/c2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19649,8 +19649,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Default shortcut</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T215320Z">
-        <seg>Standardtastenkürzel</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T161033Z">
+        <seg>Standard-Tastaturkurzbefehl</seg>
       </tuv>
     </tu>
     <tu>
@@ -24353,8 +24353,8 @@ freedoms that you received.</seg>
       <tuv lang="en">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T140003Z">
-        <seg>Unter den Standardtastenkürzeln</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160743Z">
+        <seg>Unter den vordefinierten Tastaturkurzbefehlen</seg>
       </tuv>
     </tu>
     <tu>
@@ -28554,8 +28554,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124219Z">
-        <seg>Solange die Tastenkürzel nicht mit Tastenkürzeln des Systems in Konflikt stehen, sollten diese in OmegaT nutzbar sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T161001Z">
+        <seg>Solange die Tastaturkurzbefehle nicht mit den Tastaturkurzbefehlen des Systems in Konflikt stehen, sollten diese in OmegaT nutzbar sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28746,8 +28746,8 @@ where to find the applicable terms.</seg>
       <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124017Z">
-        <seg>Wenn Sie auf macOS das Tastenkürzel &lt;k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; in &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistiken&lt;/g6&gt; &lt;/m4&gt; einfügen möchten, fügen Sie die folgende Zeile zu Ihrer &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;-Datei hinzu:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160922Z">
+        <seg>Wenn Sie auf macOS den Tastaturkurzbefehl &lt;k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; in &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistiken&lt;/g6&gt; &lt;/m4&gt; einfügen möchten, fügen Sie die folgende Zeile zu Ihrer &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;-Datei hinzu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30822,8 +30822,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In the Search window, you can use standard shortcuts (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) to move from one segment to another.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T195802Z" creationid="Michael Motzkus" creationdate="20180921T075342Z">
-        <seg>Im Suchfenster können Sie die Standardtastenkürzel (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Strg&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) verwenden, um von einem Segment zum anderen zu wechseln.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T161237Z" creationid="Michael Motzkus" creationdate="20180921T075342Z">
+        <seg>Im Suchfenster können Sie vordefinierte Tastaturkurzbefehle (&lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Strg&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) verwenden, um von einem Segment zum anderen zu wechseln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36551,8 +36551,8 @@ your receipt of the notice.</seg>
       <tuv lang="en">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T121635Z">
-        <seg>Die meisten im Hauptmenü dargestellten Elemente können mit einem neuen Tastenkürzel versehen werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160527Z">
+        <seg>Die meisten im Hauptmenü dargestellten Elemente können mit einem neuen Tastaturkurzbefehl versehen werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38146,16 +38146,16 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T105939Z" creationid="Ragnar-F" creationdate="20210111T133412Z">
-        <seg>Hinweis: &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; kann als alternatives Tastenkürzel verwendet werden, wenn die Option &lt;l3&gt;TAB zum Weiterschalten verwenden&lt;/l3&gt; deaktiviert ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T161056Z" creationid="Ragnar-F" creationdate="20210111T133412Z">
+        <seg>Hinweis: &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; kann als alternativer Tastaturkurzbefehl verwendet werden, wenn die Option &lt;l3&gt;TAB zum Weiterschalten verwenden&lt;/l3&gt; deaktiviert ist.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210126T105809Z" creationid="Ragnar-F" creationdate="20210108T201812Z">
-        <seg>Hinweis: &lt;k0&gt;Enter&lt;/k0&gt; kann als alternatives Tastenkürzel verwendet werden, wenn die Option &lt;l1&gt;TAB zum Weiterschalten verwenden&lt;/l1&gt; deaktiviert ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T161047Z" creationid="Ragnar-F" creationdate="20210108T201812Z">
+        <seg>Hinweis: &lt;k0&gt;Enter&lt;/k0&gt; kann als alternativer Tastaturkurzbefehl verwendet werden, wenn die Option &lt;l1&gt;TAB zum Weiterschalten verwenden&lt;/l1&gt; deaktiviert ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40357,8 +40357,8 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="en">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T121906Z">
-        <seg>Nachdem die &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;-Datei geändert wurde, muss &lt;a1&gt;OmegaT&lt;/a1&gt; neu gestartet werden, um die neuen Tastenkürzel zu übernehmen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160623Z">
+        <seg>Nachdem die &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;-Datei geändert wurde, muss &lt;a1&gt;OmegaT&lt;/a1&gt; neu gestartet werden, um die neuen Tastaturkurzbefehle zu übernehmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41080,8 +41080,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T153326Z" creationid="Ragnar-F" creationdate="20210111T153326Z">
-        <seg>Öffnet das &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt;-Fenster&lt;/l0&gt;, mit dem der Standort für Skripte festgelegt werden kann und mit dem Skripte geschrieben, ausgeführt und mit einem Tastenkürzel verknüpft werden können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T161118Z" creationid="Ragnar-F" creationdate="20210111T153326Z">
+        <seg>Öffnet das &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt;-Fenster&lt;/l0&gt;, mit dem der Standort für Skripte festgelegt werden kann und mit dem Skripte geschrieben, ausgeführt und mit einem Tastaturkurzbefehl verknüpft werden können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42909,8 +42909,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T095122Z" creationid="Ragnar-F" creationdate="20210111T211840Z">
-        <seg>Drücken Sie die Leertaste (Tastenkürzel für &lt;m0&gt; &lt;g1&gt;Bearbeiten&lt;/g1&gt; &lt;g2&gt;Punktuelles Ausrichten starten&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T161130Z" creationid="Ragnar-F" creationdate="20210111T211840Z">
+        <seg>Drücken Sie die Leertaste (Tastaturkurzbefehl für &lt;m0&gt; &lt;g1&gt;Bearbeiten&lt;/g1&gt; &lt;g2&gt;Punktuelles Ausrichten starten&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48205,8 +48205,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Shortcut:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T115138Z" creationid="Ragnar-F" creationdate="20210113T115138Z">
-        <seg>Tastenkürzel:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160433Z" creationid="Ragnar-F" creationdate="20210113T115138Z">
+        <seg>Tastaturkurzbefehl:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48221,8 +48221,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Shortcuts customization</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T121524Z">
-        <seg>Anpassung der Tastenkürzel</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160513Z">
+        <seg>Anpassung der Tastaturkurzbefehle</seg>
       </tuv>
     </tu>
     <tu>
@@ -53023,16 +53023,16 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T222310Z">
-        <seg>Die Standard-OmegaT-Tastenkürzel sind auf SourceForge verfügbar: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160804Z">
+        <seg>Die vordefinierten OmegaT-Tastaturkurzbefehle sind auf SourceForge verfügbar: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T222431Z">
-        <seg>Die Standard-OmegaT-Tastenkürzel für macOS sind ebenfalls auf SourceForge verfügbar; sie verwenden alle "meta" statt "ctrl": &lt;u0&gt;Default OmegaT Shortcuts für Mac&lt;/u0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160822Z">
+        <seg>Die vordefinierten OmegaT-Tastaturkurzbefehle für macOS sind ebenfalls auf SourceForge verfügbar; sie verwenden alle "meta" statt "ctrl": &lt;u0&gt;Default OmegaT Shortcuts für Mac&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -53439,8 +53439,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T102301Z">
-        <seg>Das erste ist das Tastenkürzel für &lt;g0&gt;Projekt öffnen&lt;/g0&gt;, das zweite ist für &lt;g1&gt;Glossareintrag erstellen&lt;/g1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160841Z">
+        <seg>Das erste ist der Tastaturkurzbefehl für &lt;g0&gt;Projekt öffnen&lt;/g0&gt;, das zweite ist für &lt;g1&gt;Glossareintrag erstellen&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53703,8 +53703,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T125404Z">
-        <seg>Die vollständige Syntax für Tastenkombinationen (Tastenkürzel) wird in der folgenden Java-1.6-Dokumentation von Oracle aufgeführt (am Ende der Seite): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160705Z">
+        <seg>Die vollständige Syntax für Tastenkombinationen (Tastaturkurzbefehle) wird in der folgenden Java-1.6-Dokumentation von Oracle aufgeführt (am Ende der Seite): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55378,16 +55378,16 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T124824Z">
-        <seg>Die Definitionsdatei muss &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; heißen und darf maximal eine Tastenkürzeldefinition pro Zeile enthalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160614Z">
+        <seg>Die Definitionsdatei muss &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; heißen und darf maximal eine Tastaturkurzbefehldefinition pro Zeile enthalten.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124840Z">
-        <seg>Die Syntax zum Definieren von Tastenkürzeln ist &lt;c0&gt;&lt;MenüpunktID&gt;=&lt;Tastenkürzel&gt;&lt;/c0&gt;, wobei &lt;e1&gt;&lt;MenüpunktID&gt;&lt;/e1&gt; ein Identifikator aus den unteren Tabellen und &lt;e2&gt;&lt;Tastenkürzel&gt;&lt;/e2&gt; eine vom Benutzer festgelegte Tastenkombination ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160652Z">
+        <seg>Die Syntax zum Definieren von Tastaturkurzbefehlen ist &lt;c0&gt;&lt;MenüpunktID&gt;=&lt;Tastaturkurzbefehl&gt;&lt;/c0&gt;, wobei &lt;e1&gt;&lt;MenüpunktID&gt;&lt;/e1&gt; ein Identifikator aus den unteren Tabellen und &lt;e2&gt;&lt;Tastaturkurzbefehl&gt;&lt;/e2&gt; eine vom Benutzer festgelegte Tastenkombination ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65500,8 +65500,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T125730Z" creationid="Ragnar-F" creationdate="20210113T125730Z">
-        <seg>Sie können die bereits zugewiesenen Tastenkürzel ändern und neue Tastenkürzel hinzufügen, indem Sie eine Definitionsdatei in Ihrem Benutzerordner von &lt;a0&gt;OmegaT&lt;/a0&gt; erstellen (zugänglich über das Menü &lt;m1&gt; &lt;g2&gt;Optionen&lt;/g2&gt; &lt;g3&gt;Konfigurationsordner öffnen&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160547Z" creationid="Ragnar-F" creationdate="20210113T125730Z">
+        <seg>Sie können die bereits zugewiesenen Tastaturkurzbefehle ändern und neue Tastaturkurzbefehle hinzufügen, indem Sie eine Definitionsdatei in Ihrem Benutzerordner von &lt;a0&gt;OmegaT&lt;/a0&gt; erstellen (zugänglich über das Menü &lt;m1&gt; &lt;g2&gt;Optionen&lt;/g2&gt; &lt;g3&gt;Konfigurationsordner öffnen&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -66734,8 +66734,8 @@ them.</seg>
       <tuv lang="en">
         <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124130Z">
-        <seg>Ihre neuen Tastenkürzel sollten nun neben den entsprechenden Menüpunkten zu sehen sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160932Z">
+        <seg>Ihre neuen Tastaturkurzbefehle sollten nun neben den entsprechenden Menüpunkten zu sehen sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78424,8 +78424,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>Shortcut</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T224826Z" creationid="Ragnar-F" creationdate="20210112T224826Z">
-        <seg>Tastenkürzel</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160443Z" creationid="Ragnar-F" creationdate="20210112T224826Z">
+        <seg>Tastaturkurzbefehl</seg>
       </tuv>
     </tu>
     <tu>
