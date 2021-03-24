@@ -10846,6 +10846,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T111237Z" creationid="Ragnar-F" creationdate="20210324T110202Z">
+        <seg>Ein Projekt kann eine beliebige Anzahl von Referenzglossaren haben, allerdings ist nur ein Glossar, das Standardglossar des Projekts, direkt über die OmegaT-Benutzeroberfläche beschreibbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T144821Z">
@@ -15112,6 +15120,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T101555Z">
         <seg>Fehlerberichte (in Englisch), auf der SourceForge-Seite:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T102847Z" creationid="Ragnar-F" creationdate="20210324T102847Z">
+        <seg>Bugs, Feature Requests und Dokumentationsprobleme werden auf SourceForge über die folgenden Trackingsysteme abgewickelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19627,6 +19643,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="de">
         <seg>Standardkodierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default glossary</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T112124Z" creationid="Ragnar-F" creationdate="20210324T112124Z">
+        <seg>Standardglossar</seg>
       </tuv>
     </tu>
     <tu>
@@ -25549,6 +25573,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are terminology files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T110026Z" creationid="Ragnar-F" creationdate="20210324T110026Z">
+        <seg>Glossare sind Terminologiedateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130522T185259Z">
@@ -30556,6 +30588,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T110003Z" creationid="Ragnar-F" creationdate="20210324T110003Z">
+        <seg>Um die Web-Start-Version installieren zu können, muss mindestens Java Version 1.8 auf Ihrem Computer installiert sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to make the workings of the script code clearer, each script essentially performs only one function.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20180912T031414Z" creationid="Michael Motzkus" creationdate="20180912T031414Z">
@@ -32990,6 +33030,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T142239Z" creationid="BVB" creationdate="20180826T101707Z">
         <seg>Die Dokumentation, zumindest in englischer Sprache, ist grundsätzlich auf dem neuesten Stand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;/glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T113017Z" creationid="Ragnar-F" creationdate="20210324T113017Z">
+        <seg>Den Namen und Speicherort können Sie im Dialogfenster "Projekteigenschaften" ändern. Beachten Sie jedoch, dass der Dateiname mit &lt;f0&gt;.txt&lt;/f0&gt; oder &lt;f1&gt;.utf8&lt;/f1&gt; enden muss und dass der Speicherort im Projektordner &lt;f2&gt;/glossary&lt;/f2&gt; sein muss.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37728,6 +37776,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T105537Z" creationid="Ragnar-F" creationdate="20210324T102936Z">
+        <seg>Notarisiert vs Unsigniert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="de">
@@ -38992,6 +39048,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T102840Z" creationid="Ragnar-F" creationdate="20210324T102840Z">
+        <seg>OmegaT hat auch die folgenden Mailinglisten und Tracker, die auf SourceForge gehostet werden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T094828Z" creationid="BVB" creationdate="20180823T071702Z">
@@ -39196,6 +39260,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T154044Z" creationid="BVB" creationdate="20180826T105811Z">
         <seg>OmegaT für Mac OS X ist sowohl in signierter als auch in unsignierter Version erhältlich; sie sind funktional identisch, wobei die signierte Version vorzuziehen ist, da sie vom System als Veröffentlichung eines bekannten Entwicklers erkannt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T105525Z" creationid="Ragnar-F" creationdate="20210324T105525Z">
+        <seg>Für macOS gibt es sowohl eine notarisierte als auch eine unsignierte Version von OmegaT; beide Versionen sind funktional identisch, wobei die notarisierte Version vorzuziehen ist, da das System auf diese Weise erkennt, dass sie a) die Veröffentlichung eines bekannten Entwicklers ist und b) von Apple gescannt wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42067,6 +42139,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T110013Z" creationid="Ragnar-F" creationdate="20210324T110013Z">
+        <seg>Regelmäßig erscheinende Builds sind auf SourceForge verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Periodic builds are available on Sourceforge.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T212116Z" creationid="Ragnar-F" creationdate="20210112T135107Z">
@@ -44202,6 +44282,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210120T094138Z" creationid="Michael Motzkus" creationdate="20190129T091536Z">
         <seg>Scripts-Ordner "{0}" wird aktualisiert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T112116Z" creationid="Ragnar-F" creationdate="20210324T112116Z">
+        <seg>Wenn OmegaT Glossarbegriffe im Segment findet, werden diese im Glossarbereich angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52657,6 +52745,14 @@ Versuchen Sie, den Fehler zu korrigieren und das Projekt erneut zu laden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The certificate is signed by OmegaT's lead developer.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T105954Z" creationid="Ragnar-F" creationdate="20210324T105954Z">
+        <seg>Das Zertifikat wurde vom leitenden Entwickler von OmegaT signiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The change will then become visible after a delay of at most the interval you selected (plus the time taken by OmegaT to save and produce the target files).</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180911T072027Z" creationid="BVB" creationdate="20180911T072027Z">
@@ -53033,6 +53129,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160822Z">
         <seg>Die vordefinierten OmegaT-Tastaturkurzbefehle für macOS sind ebenfalls auf SourceForge verfügbar; sie verwenden alle "meta" statt "ctrl": &lt;u0&gt;Default OmegaT Shortcuts für Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T112211Z" creationid="Ragnar-F" creationdate="20210324T112211Z">
+        <seg>Das beschreibbare Standardglossar befindet sich im Projektordner &lt;f0&gt;/glossary&lt;/f0&gt; und heißt &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56500,6 +56604,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T105702Z" creationid="Ragnar-F" creationdate="20210324T105702Z">
+        <seg>Es kann zu einer Verzögerung bei der Veröffentlichung der notarisierten Version kommen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T194725Z">
@@ -56836,6 +56948,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130513T085852Z">
         <seg>Es sind die Dateien, mit denen Sie täglich zu tun haben, wenn Sie übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be created and updated manually or imported from other projects.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T110043Z" creationid="Ragnar-F" creationdate="20210324T110043Z">
+        <seg>Sie können manuell erstellt und aktualisiert oder aus anderen Projekten importiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62648,6 +62768,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180901T081340Z" creationid="BVB" creationdate="20180901T081340Z">
         <seg>Benutzer müssen OmegaT daher nicht selbst kompilieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T105810Z" creationid="Ragnar-F" creationdate="20210324T105810Z">
+        <seg>Benutzer, die es eilig haben, können stattdessen die unsignierte Version verwenden; wenn Sie Schwierigkeiten mit dem Starten der App haben, schauen Sie sich &lt;a0&gt;Wie man eine App von einem unbekannten Entwickler öffnet&lt;/a0&gt; an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72563,8 +72691,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>macOS Notarized</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210130T134701Z" creationid="Ragnar-F" creationdate="20210130T134649Z">
-        <seg>macOS Signiert</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T105615Z" creationid="Ragnar-F" creationdate="20210130T134649Z">
+        <seg>macOS Notarisiert</seg>
       </tuv>
     </tu>
     <tu>
@@ -72589,6 +72717,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T111613Z" creationid="Ragnar-F" creationdate="20210111T111613Z">
         <seg>macOS-Goodies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T103003Z" creationid="Ragnar-F" creationdate="20210324T103003Z">
+        <seg>macOS versucht, die Sicherheit zu erhöhen, indem es die Ausführung nicht verifizierter Programme erschwert.</seg>
       </tuv>
     </tu>
     <tu>
