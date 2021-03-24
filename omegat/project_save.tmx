@@ -11174,6 +11174,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T122655Z" creationid="Ragnar-F" creationdate="20210324T122655Z">
+        <seg>Ein drittes mögliches Format ist der ISO-Standard "TBX" (TermBase eXchange).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A tokenizer package adapted from the Lucene project is distributed as an OmegaT plug-in at http://sourceforge.net/projects/omegat-plugins/files/.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130509T140603Z">
@@ -17309,6 +17317,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (Entwicklungsmanager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments are displayed after a number and each on a separate line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T115150Z" creationid="Ragnar-F" creationdate="20210324T115150Z">
+        <seg>Kommentare werden nach einer Nummer und jeweils in einer eigenen Zeile angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments by the author in PO files, or the name of the attribute being translated (in XHTML)</seg>
       </tuv>
       <tuv lang="de" changeid="helmut" changedate="20130607T064607Z">
@@ -19603,6 +19619,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T085037Z" creationid="Michael Motzkus" creationdate="20180925T085037Z">
         <seg>Datum des Treffers, als der Treffer zuletzt geändert wurde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T114442Z" creationid="Ragnar-F" creationdate="20210324T114442Z">
+        <seg>Deaktivieren Sie &lt;g0&gt;Stammformreduktion für Glossareinträge verwenden&lt;/g0&gt; in den globalen Einstellungen von OmegaT, um nur exakte Übereinstimmungen für einen Begriff zu finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28274,6 +28298,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T093042Z">
         <seg>Wenn die Datei bereits vorhanden ist, wird das Format oder die Kodierung der Datei nicht auf Richtigkeit überprüft: Die neuen Einträge werden immer im tabulatorgetrennten Format sein und UTF-8 als Kodierung verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and the file will be saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T113606Z" creationid="Ragnar-F" creationdate="20210324T113606Z">
+        <seg>Wenn die Datei bereits vorhanden ist, wird das Format oder die Kodierung der Datei nicht auf Richtigkeit überprüft: Die neuen Einträge werden immer im tabulatorgetrennten Format sein und die Datei wird in der UTF-8-Kodierung gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37244,6 +37276,22 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Newly added terms will be immediately recognized.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T113917Z" creationid="Ragnar-F" creationdate="20210324T113917Z">
+        <seg>Neu hinzugefügte Begriffe werden sofort erkannt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Newly added terms will be recognized as soon as the changes have been saved.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T114206Z" creationid="Ragnar-F" creationdate="20210324T114206Z">
+        <seg>Neu hinzugefügte Begriffe werden erkannt, sobald die Änderungen gespeichert wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T094943Z">
@@ -39268,6 +39316,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T105525Z" creationid="Ragnar-F" creationdate="20210324T105525Z">
         <seg>Für macOS gibt es sowohl eine notarisierte als auch eine unsignierte Version von OmegaT; beide Versionen sind funktional identisch, wobei die notarisierte Version vorzuziehen ist, da das System auf diese Weise erkennt, dass sie a) die Veröffentlichung eines bekannten Entwicklers ist und b) von Apple gescannt wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T120424Z" creationid="Ragnar-F" creationdate="20210324T120424Z">
+        <seg>OmegaT-Glossardateien sind reine Textdateien, die aus drei Spalten bestehen. In der ersten Spalte steht der Quellbegriff, in der zweiten Spalte ein optionaler Zielbegriff und in der dritten Spalte ein optionaler Kommentar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42280,6 +42336,14 @@ Sie es.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T122844Z" creationid="Ragnar-F" creationdate="20210324T122633Z">
+        <seg>Nur-Text-Glossare können Dateien sein, deren Werte via Tabulatorzeichen getrennt sind ("tab separated values" oder kurz TSV) oder via Komma getrennt sind ("comma separated values" oder kurz CSV).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Platform</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T101746Z" creationid="BVB" creationdate="20180826T101746Z">
@@ -44288,8 +44352,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T112116Z" creationid="Ragnar-F" creationdate="20210324T112116Z">
-        <seg>Wenn OmegaT Glossarbegriffe im Segment findet, werden diese im Glossarbereich angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T113046Z" creationid="Ragnar-F" creationdate="20210324T112116Z">
+        <seg>Wenn OmegaT Glossareinträge im Segment findet, werden diese im Glossarbereich angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45562,6 +45626,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T192902Z" creationid="Ragnar-F" creationdate="20210111T103941Z">
         <seg>Rechtsklicken Sie auf den Panel und wählen Sie &lt;e0&gt;Neues Startprogramm hinzufügen&lt;/e0&gt; aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the underlined term and select a target term to insert it at the cursor location in the target part of the segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T115901Z" creationid="Ragnar-F" creationdate="20210324T115901Z">
+        <seg>Rechtsklicken Sie auf den unterstrichenen Begriff und wählen Sie einen Zielbegriff aus, um ihn an der Position des Textcursors im Zieltext des Segments einzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51195,6 +51267,22 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms from the project writable glossary are displayed in bold face.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T115226Z" creationid="Ragnar-F" creationdate="20210324T115226Z">
+        <seg>Begriffe aus dem beschreibbaren Projektglossar werden fett dargestellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms from the reference glossaries are displayed in normal face.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T115250Z" creationid="Ragnar-F" creationdate="20210324T115250Z">
+        <seg>Begriffe aus den Referenzglossaren werden normal dargestellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202110Z" creationid="Ragnar-F" creationdate="20210113T124900Z">
@@ -53453,6 +53541,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file does not need to exist when setting it, it will be created when adding the first glossary entry.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T113130Z" creationid="Ragnar-F" creationdate="20210324T113036Z">
+        <seg>Die angegebene Datei muss nicht unbedingt vorhanden sein - sie wird automatisch erstellt, sobald der erste Glossareintrag hinzugefügt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file is commented to help you.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180905T063149Z" creationid="BVB" creationdate="20180905T063149Z">
@@ -53865,6 +53961,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T224630Z">
         <seg>Es werden nur exakte Übereinstimmungen mit dem Glossareintrag gefunden (z. B. werden keine flektierten Formen erkannt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary function uses stemming to find matches.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T114306Z" creationid="Ragnar-F" creationdate="20210324T114306Z">
+        <seg>Die Glossarfunktion verwendet Stammformreduktion, um Übereinstimmungen zu finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55600,10 +55704,26 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source term can be a multi-word term.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T114230Z" creationid="Ragnar-F" creationdate="20210324T114230Z">
+        <seg>Der Quellbegriff kann aus mehreren Wörtern bestehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T095310Z">
         <seg>Der Quellbegriff muss nicht aus einem einzigen Wort bestehen, wie das nächste Beispiel zeigt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source term is displayed before the " = " sign and the target terms after.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T115020Z" creationid="Ragnar-F" creationdate="20210324T115020Z">
+        <seg>Der Quellbegriff wird vor dem " = "-Zeichen angezeigt, während die Zielbegriffe nach diesem Zeichen erfolgen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59167,6 +59287,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T113902Z" creationid="Ragnar-F" creationdate="20210324T113902Z">
+        <seg>Um einen neuen Begriff in das beschreibbare Glossar einzufügen, verwenden Sie &lt;g0&gt;Bearbeiten&lt;/g0&gt; &gt; &lt;g1&gt;Glossareintrag erstellen&lt;/g1&gt; (&lt;k2&gt;Strg+Umschalt+G&lt;/k2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180911T102328Z" creationid="BVB" creationdate="20180911T064158Z">
@@ -59179,6 +59307,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T104227Z">
         <seg>Um ihn zu füllen, wählen Sie &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Strg&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Projekt&lt;/g5&gt; &lt;g6&gt;Übersetzte Dokumente erstellen&lt;/g6&gt; &lt;/m0&gt; aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T114108Z" creationid="Ragnar-F" creationdate="20210324T114108Z">
+        <seg>Um neue Begriffe in einen Referenzglossar einzufügen, öffnen Sie die entsprechende Datei in einem externen Texteditor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59467,6 +59603,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130520T191731Z">
         <seg>Um Tags-Gruppen zu löschen, entfernen Sie sie einfach aus dem Segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T115528Z" creationid="Ragnar-F" creationdate="20210324T115528Z">
+        <seg>Um das &lt;g0&gt;Autovervollständigung&lt;/g0&gt;-Kontextmenü für die Glossar-Matches anzuzeigen, drücken Sie die betriebssystemabhängige Taste (&lt;k1&gt;Esc&lt;/k1&gt; für macOS, &lt;k2&gt;Strg+Leertaste&lt;/k2&gt; für die anderen Plattformen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60191,6 +60335,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180905T094855Z" creationid="BVB" creationdate="20180905T094855Z">
         <seg>Um das letztere in OmegaT zu übersetzen, müssen Sie die Erweiterung .php mit dem HTML- und XHTML-Filter wie folgt registrieren:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T115706Z" creationid="Ragnar-F" creationdate="20210324T115706Z">
+        <seg>Um übereinstimmende Begriffe im Quelltext des Segments zu unterstreichen, verwenden Sie &lt;g0&gt;Ansicht&lt;/g0&gt; &gt; &lt;g1&gt;Glossar-Matches hervorheben&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
