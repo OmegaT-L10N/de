@@ -10367,6 +10367,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T123230Z" creationid="Ragnar-F" creationdate="20210324T123121Z">
+        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS-abhängige Standardkodierung&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS-abhängige Standardkodierung&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Format&lt;/t0&gt; &lt;t1&gt;Extension&lt;/t1&gt; &lt;t2&gt;Encoding&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T123117Z" creationid="Ragnar-F" creationdate="20210324T123108Z">
+        <seg>&lt;t0&gt;Format&lt;/t0&gt; &lt;t1&gt;Endung&lt;/t1&gt; &lt;t2&gt;Kodierung&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T141119Z" creationid="karsten" creationdate="20150919T141119Z">
@@ -25029,6 +25045,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format, extensions and expected encoding</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T123104Z" creationid="Ragnar-F" creationdate="20210324T123104Z">
+        <seg>Format, Endungen und erwartete Kodierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T181352Z">
@@ -25597,10 +25621,34 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are read in an encoding that depends on the file extension:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T123037Z" creationid="Ragnar-F" creationdate="20210324T123037Z">
+        <seg>Glossare werden in einer Kodierung gelesen, die von der Dateiendung abhängt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries are terminology files.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T110026Z" creationid="Ragnar-F" creationdate="20210324T110026Z">
         <seg>Glossare sind Terminologiedateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries located in nested folders are also recognized.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T123511Z" creationid="Ragnar-F" creationdate="20210324T123511Z">
+        <seg>Glossare, die sich in tiefer liegenden Ordnern befinden, werden ebenfalls erkannt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries must be located in the &lt;f0&gt;/glossary&lt;/f0&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T123311Z" creationid="Ragnar-F" creationdate="20210324T123311Z">
+        <seg>Glossare müssen sich im Projektordner &lt;f0&gt;/glossary&lt;/f0&gt; befinden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55032,6 +55080,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T122959Z" creationid="Ragnar-F" creationdate="20210324T122959Z">
+        <seg>Das beschreibbare Standardglossar des Projekts ist immer eine TSV-Datei, die in der UTF-8-Kodierung gespeichert ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project folder {0} is missing and could not be created.</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130428T153126Z">
@@ -59609,8 +59665,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T115528Z" creationid="Ragnar-F" creationdate="20210324T115528Z">
-        <seg>Um das &lt;g0&gt;Autovervollständigung&lt;/g0&gt;-Kontextmenü für die Glossar-Matches anzuzeigen, drücken Sie die betriebssystemabhängige Taste (&lt;k1&gt;Esc&lt;/k1&gt; für macOS, &lt;k2&gt;Strg+Leertaste&lt;/k2&gt; für die anderen Plattformen).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T123257Z" creationid="Ragnar-F" creationdate="20210324T115528Z">
+        <seg>Um das &lt;g0&gt;Autovervollständigung&lt;/g0&gt;-Kontextmenü für die Glossar-Matches anzuzeigen, drücken Sie die OS-abhängige Taste (&lt;k1&gt;Esc&lt;/k1&gt; für macOS, &lt;k2&gt;Strg+Leertaste&lt;/k2&gt; für die anderen Plattformen).</seg>
       </tuv>
     </tu>
     <tu>
