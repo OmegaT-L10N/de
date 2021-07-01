@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.4.4" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1156,6 +1156,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T085312Z" creationid="Ragnar-F" creationdate="20210701T085312Z">
+        <seg>Neu st&amp;arten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="de">
@@ -1538,6 +1546,17 @@
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T103600Z" creationid="Ragnar-F" creationdate="20210112T101158Z">
+        <seg>(Wenn Sie der Meinung sind, dass Sie einen wichtigen Beitrag zum OmegaT-Projekt
+geleistet haben, aber Ihren Namen nicht auf den Listen sehen, können Sie uns
+gerne kontaktieren.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090716Z" creationid="Ragnar-F" creationdate="20210701T090716Z">
         <seg>(Wenn Sie der Meinung sind, dass Sie einen wichtigen Beitrag zum OmegaT-Projekt
 geleistet haben, aber Ihren Namen nicht auf den Listen sehen, können Sie uns
 gerne kontaktieren.)</seg>
@@ -6285,6 +6304,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de">
         <seg>Zeichen (mit Leerzeichen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T085804Z" creationid="Ragnar-F" creationdate="20210701T085804Z">
+        <seg>Zeichen (mit Leerzeichen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T085733Z" creationid="Ragnar-F" creationdate="20210701T085733Z">
+        <seg>Zeichen (ohne Leerzeichen)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12285,6 +12320,22 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130428T142732Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090415Z" creationid="Ragnar-F" creationdate="20210701T090415Z">
+        <seg>Unerwartete HTTP-Antwort {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090345Z" creationid="Ragnar-F" creationdate="20210701T090345Z">
+        <seg>Unerwarteter MIME-TYP {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -19077,6 +19128,22 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090535Z" creationid="Ragnar-F" creationdate="20210701T090535Z">
+        <seg>OmegaT Klassisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090448Z" creationid="Ragnar-F" creationdate="20210701T090448Z">
+        <seg>OmegaT Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T211117Z" creationid="BVB" creationdate="20180826T091948Z">
@@ -19165,10 +19232,26 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090603Z" creationid="Ragnar-F" creationdate="20210701T090603Z">
+        <seg>Klassisches Farbschema von OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T134327Z" creationid="Ragnar-F" creationdate="20210112T134327Z">
         <seg>OmegaT benötigt derzeit JRE Version 1.8 oder höher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090522Z" creationid="Ragnar-F" creationdate="20210701T090522Z">
+        <seg>Standardfarbschema von OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -22247,6 +22330,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130604T224449Z">
         <seg>Verbleibende Zeichen (mit Leerzeichen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T085959Z" creationid="Ragnar-F" creationdate="20210701T085959Z">
+        <seg>Verbleibende Zeichen (mit Leerzeichen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T085914Z" creationid="Ragnar-F" creationdate="20210701T085914Z">
+        <seg>Verbleibende Zeichen (ohne Leerzeichen)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28520,6 +28619,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T085548Z" creationid="Ragnar-F" creationdate="20210701T085548Z">
+        <seg>Farbschema:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T150201Z" creationid="Michael Motzkus" creationdate="20180919T072835Z">
@@ -30240,6 +30347,22 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T085942Z" creationid="Ragnar-F" creationdate="20210701T085942Z">
+        <seg>Zeichen Gesamt (mit Leerzeichen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T085903Z" creationid="Ragnar-F" creationdate="20210701T085903Z">
+        <seg>Zeichen Gesamt (ohne Leerzeichen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130604T224356Z">
@@ -31028,6 +31151,22 @@ Die exakte Suche verwendet den kompletten Text, um Übereinstimmungen zu finden.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090012Z" creationid="Ragnar-F" creationdate="20210701T090012Z">
+        <seg>Einmalige Zeichen (mit Leerzeichen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T085922Z" creationid="Ragnar-F" creationdate="20210701T085922Z">
+        <seg>Einmalige Zeichen (ohne Leerzeichen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130701T165117Z">
@@ -31040,6 +31179,22 @@ Die exakte Suche verwendet den kompletten Text, um Übereinstimmungen zu finden.
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130701T165224Z">
         <seg>Verbleibende einmalige Zeichen (mit Leerzeichen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090028Z" creationid="Ragnar-F" creationdate="20210701T090028Z">
+        <seg>Verbleibende einmalige Zeichen (mit Leerzeichen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T085933Z" creationid="Ragnar-F" creationdate="20210701T085933Z">
+        <seg>Verbleibende einmalige Zeichen (ohne Leerzeichen)</seg>
       </tuv>
     </tu>
     <tu>
