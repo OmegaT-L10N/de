@@ -1588,6 +1588,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T160619Z" creationid="Ragnar-F" creationdate="20221109T160619Z">
+        <seg>'*' entspricht null oder mehr Zeichen ('Auto*' findet 'Auto', 'Autor', 'Autoren' usw.)
+'?' entspricht genau einem Zeichen ('Auto?' findet 'Autos' und Autor', aber nicht 'Autoren').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -27465,6 +27475,16 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     <tu>
       <tuv lang="en">
         <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T160941Z" creationid="Ragnar-F" creationdate="20221109T160941Z">
+        <seg>Textersetzung:
+Die Ersetzung erfolgt in den Zielsegmenten des Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T193706Z" creationid="Michael Motzkus" creationdate="20190129T072056Z">
@@ -37984,6 +38004,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T121452Z" creationid="Ragnar-F" creationdate="20210111T121452Z">
         <seg>Hierbei ist &lt;p0&gt;Ordner&lt;/p0&gt; der Name des Ordners mit vollständigem Pfad, in dem sich Ihr Programm &lt;a1&gt;OmegaT&lt;/a1&gt; - konkret die Datei &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - befindet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wildcards.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T160524Z" creationid="Ragnar-F" creationdate="20221109T160524Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
