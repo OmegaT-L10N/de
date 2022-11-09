@@ -11888,6 +11888,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T225139Z" creationid="Ragnar-F" creationdate="20221109T225139Z">
+        <seg>Externer GPG hat keine gültige Signatur zurückgegeben; erhielt: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T222430Z" creationid="Michael Motzkus" creationdate="20190129T073855Z">
@@ -34734,8 +34742,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>User canceled signing (no passphrase provided)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T224849Z" creationid="Ragnar-F" creationdate="20221109T224849Z">
-        <seg>Benutzer hat die Anmeldung abgebrochen (kein Passwort angegeben)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T225259Z" creationid="Ragnar-F" creationdate="20221109T224849Z">
+        <seg>Benutzer hat die Signierung abgebrochen (kein Passwort bereitgestellt)</seg>
       </tuv>
     </tu>
     <tu>
