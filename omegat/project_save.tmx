@@ -1516,6 +1516,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Use local segmentation rules</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T142837Z" creationid="Ragnar-F" creationdate="20221109T142837Z">
+        <seg>Lokale Segmentierungsregeln &amp;verwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User Guide...</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T134209Z" creationid="Ragnar-F" creationdate="20221109T134209Z">
@@ -7630,6 +7638,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T141135Z" creationid="Ragnar-F" creationdate="20221109T140322Z">
+        <seg>Fertige und aktuelle Übersetzungen wurden gespeichert unter {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T141411Z">
@@ -8233,6 +8249,14 @@ Fehler entstanden ist, an den Softwarehersteller.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T145238Z" creationid="Ragnar-F" creationdate="20221109T145238Z">
+        <seg>Projektordner erstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T141710Z">
@@ -8421,6 +8445,14 @@ Fehler entstanden ist, an den Softwarehersteller.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T141831Z">
         <seg>Erstelle übersetzte Dokumente: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T141003Z" creationid="Ragnar-F" creationdate="20221109T141003Z">
+        <seg>Erstelle übersetzte Dateien: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8765,6 +8797,14 @@ Fehler entstanden ist, an den Softwarehersteller.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T152743Z">
         <seg>Aktuelle Speichernutzung durch VM: {0}MB; davon freier Speicher: {1}MB; maximal verfügbar: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T145339Z" creationid="Ragnar-F" creationdate="20221109T145339Z">
+        <seg>Aktuelle Projektkonfiguration wird von der Remote-Projektkonfiguration überschrieben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9151,6 +9191,14 @@ Fehler entstanden ist, an den Softwarehersteller.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130510T083029Z">
         <seg>Wörterbücher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionaries Folder:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T142958Z" creationid="Ragnar-F" creationdate="20221109T142958Z">
+        <seg>Ordner für Wörterbücher:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10384,6 +10432,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T143443Z" creationid="Ragnar-F" creationdate="20221109T143443Z">
+        <seg>Aktivieren Sie sie unter "Einstellungen &gt; Speichern und Ausgabe..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="de">
@@ -10540,6 +10596,16 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T181111Z">
         <seg>Geben Sie &lt;a2&gt;OmegaT&lt;/a2&gt; als Namen für das neue Element ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY  format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T151800Z" creationid="Ragnar-F" creationdate="20221109T151800Z">
+        <seg>Geben Sie einen Sprachcode im Format xx-YY, xxx-YY, xx_YY oder xxx_YY ein,
+wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10709,6 +10775,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T142451Z" creationid="Ragnar-F" creationdate="20221109T142451Z">
+        <seg>Fehler beim Überwachen der Nachbearbeitungsbefehle!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T173634Z">
@@ -10761,6 +10835,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T090057Z">
         <seg>Fehler beim Starten des externen Befehls: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T141354Z" creationid="Ragnar-F" creationdate="20221109T141354Z">
+        <seg>Fehler beim Starten der Nachbearbeitungsbefehle: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11082,6 +11164,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T141253Z" creationid="Ragnar-F" creationdate="20221109T141253Z">
+        <seg>Führe Nachbearbeitungsbefehle aus...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T204258Z" creationid="Ragnar-F" creationdate="20210112T204258Z">
@@ -11126,6 +11216,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T181318Z">
         <seg>Auswahl exportieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T143041Z" creationid="Ragnar-F" creationdate="20221109T143041Z">
+        <seg>Ordner für exportierte Translation-Memory-Dateien:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T143547Z" creationid="Ragnar-F" creationdate="20221109T143547Z">
+        <seg>Ordner für exportierte Translation-Memory-Dateien</seg>
       </tuv>
     </tu>
     <tu>
@@ -12585,6 +12691,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de">
         <seg>Glossare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries Folder:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T142950Z" creationid="Ragnar-F" creationdate="20221109T142950Z">
+        <seg>Ordner für Glossardateien:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17282,6 +17396,22 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T142736Z" creationid="Ragnar-F" creationdate="20221109T142736Z">
+        <seg>Lokale &amp;Segmentierungsregeln...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local External Searches...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T144036Z" creationid="Ragnar-F" creationdate="20221109T144036Z">
+        <seg>Lokale externe Suchvorgänge...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T133023Z" creationid="Ragnar-F" creationdate="20221109T131722Z">
@@ -17298,6 +17428,22 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Post-processing Commands</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T143240Z" creationid="Ragnar-F" creationdate="20221109T143240Z">
+        <seg>Lokale Nachbearbeitungsbefehle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Post-processing Commands (Disabled):</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T143325Z" creationid="Ragnar-F" creationdate="20221109T143325Z">
+        <seg>Lokale Nachbearbeitungsbefehle (Deaktiviert):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T085858Z" creationid="Ragnar-F" creationdate="20210111T085858Z">
@@ -17310,6 +17456,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T193822Z" creationid="Michael Motzkus" creationdate="20190129T090123Z">
         <seg>Pfad der lokalen Installation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T143406Z" creationid="Ragnar-F" creationdate="20221109T143406Z">
+        <seg>Lokale Nachbearbeitungsbefehle sind deaktiviert und werden nicht ausgeführt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21866,6 +22020,38 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post processing command failed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T141629Z" creationid="Ragnar-F" creationdate="20221109T141629Z">
+        <seg>Nachbearbeitungsbefehl fehlgeschlagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T141644Z" creationid="Ragnar-F" creationdate="20221109T141432Z">
+        <seg>Nachbearbeitungsbefehle abgeschlossen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands failed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T141601Z" creationid="Ragnar-F" creationdate="20221109T141548Z">
+        <seg>Nachbearbeitungsbefehle fehlgeschlagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands was interrupted.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T142114Z" creationid="Ragnar-F" creationdate="20221109T142114Z">
+        <seg>Nachbearbeitungsbefehle wurden unterbrochen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T145531Z">
@@ -24332,6 +24518,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;ntence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T142600Z" creationid="Ragnar-F" creationdate="20221109T142600Z">
+        <seg>Satzsegme&amp;ntierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;t</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T121547Z" creationid="Ragnar-F" creationdate="20210113T121547Z">
@@ -26172,6 +26366,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T144154Z" creationid="Ragnar-F" creationdate="20221109T144154Z">
+        <seg>Geben Sie ihre neuen Speicherorte an oder erstellen Sie sie neu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spell checker</seg>
       </tuv>
       <tuv lang="de">
@@ -26320,6 +26522,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130625T131615Z">
         <seg>Neuen Absatz beginnen bei:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T140911Z" creationid="Ragnar-F" creationdate="20221109T140911Z">
+        <seg>Neues Projekt gestartet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26720,6 +26930,22 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T224257Z" creationid="Michael Motzkus" creationdate="20190129T090506Z">
         <seg>TM-Matching-Optionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T143122Z" creationid="Ragnar-F" creationdate="20221109T143112Z">
+        <seg>TMX-Level 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T143133Z" creationid="Ragnar-F" creationdate="20221109T143133Z">
+        <seg>TMX-Level 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -28578,6 +28804,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T162832Z" creationid="Ragnar-F" creationdate="20210111T095656Z">
         <seg>Die Optionen für den Programmstart werden in diesem Fall aus der Datei &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; gelesen, die sich im gleichen Ordner wie die EXE-Datei befindet und die Sie nach Belieben bearbeiten können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T145632Z" creationid="Ragnar-F" creationdate="20221109T145632Z">
+        <seg>Ein Backup der Originaldatei wurde angelegt unter: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31366,6 +31600,14 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T141152Z" creationid="Ragnar-F" creationdate="20221109T141152Z">
+        <seg>Übersetzte Datei wurde erstellt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -31380,6 +31622,14 @@ Skript mit ./linux-install.sh aus.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T182212Z" creationid="Ragnar-F" creationdate="20210109T181331Z">
         <seg>Zieldateiname</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T141051Z" creationid="Ragnar-F" creationdate="20221109T141051Z">
+        <seg>Übersetzte Dateien wurden erstellt</seg>
       </tuv>
     </tu>
     <tu>
@@ -31464,6 +31714,14 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T142941Z" creationid="Ragnar-F" creationdate="20221109T142903Z">
+        <seg>Ordner für Translation-Memory-Dateien:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T182503Z">
@@ -31500,6 +31758,14 @@ Skript mit ./linux-install.sh aus.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T113636Z">
         <seg>Translation Memories können auch Referenzübersetzungen enthalten: Multinationale Rechtsvorschriften, wie die der Europäischen Gemeinschaft, sind ein typisches Beispiel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T143107Z" creationid="Ragnar-F" creationdate="20221109T143107Z">
+        <seg>Zu exportierende Translation-Memory-Dateien:</seg>
       </tuv>
     </tu>
     <tu>
