@@ -1004,6 +1004,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T203732Z" creationid="Ragnar-F" creationdate="20221109T203732Z">
+        <seg>&amp;Keine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130621T134743Z">
@@ -1384,6 +1392,14 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131237Z" creationid="Michael Motzkus" creationdate="20190129T065444Z">
         <seg>Relevante Vorschläge automati&amp;sch anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T204332Z" creationid="Ragnar-F" creationdate="20221109T204332Z">
+        <seg>&amp;Einfache Variablen (z. B. %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4092,6 +4108,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T212142Z" creationid="Ragnar-F" creationdate="20221109T212142Z">
+        <seg>Eine Notiz ist eine einfache Möglichkeit, den Quelltext oder die Übersetzung näher zu beschreiben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T224904Z">
@@ -5012,6 +5036,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T204606Z" creationid="Ragnar-F" creationdate="20221109T204350Z">
+        <seg>&amp;Alle Variablen (z. B. %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T151650Z" creationid="Ragnar-F" creationdate="20210112T151650Z">
@@ -5713,6 +5745,14 @@ korrektem Verhalten kommen kann.</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130427T135516Z">
         <seg>Au&amp;tor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authenticated proxy credentials:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T203213Z" creationid="Ragnar-F" creationdate="20221109T203213Z">
+        <seg>Authentifizierte Proxy-Zugangsdaten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6874,6 +6914,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &amp;Java MessageFormat placeholders (e.g. {0})</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T204707Z" creationid="Ragnar-F" creationdate="20221109T204707Z">
+        <seg>&amp;Java-MessageFormat-Platzhalter (z. B. {0}) überprüfen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T153830Z">
@@ -7110,6 +7158,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T114349Z" creationid="Ragnar-F" creationdate="20210110T114349Z">
         <seg>Sie können die Regeln je nach Relevanz aktivieren oder deaktivieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check printf function variables:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T203709Z" creationid="Ragnar-F" creationdate="20221109T203709Z">
+        <seg>Variablen der printf-Funktion überprüfen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8275,6 +8331,14 @@ Fehler entstanden ist, an den Softwarehersteller.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T204921Z" creationid="Ragnar-F" creationdate="20221109T204921Z">
+        <seg>Gekennzeichnete Te&amp;xte und benutzerdefinierte Tags in den Statistiken einbeziehen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T130240Z" creationid="karsten" creationdate="20150919T154226Z">
@@ -9021,10 +9085,26 @@ Fehler entstanden ist, an den Softwarehersteller.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T204941Z" creationid="Ragnar-F" creationdate="20221109T204941Z">
+        <seg>Benutzerdefinierte Tags (regulärer Ausdruck):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customize character &amp;table</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T225046Z" creationid="Ragnar-F" creationdate="20210112T225046Z">
         <seg>Zeichen&amp;tabelle individuell anpassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T203130Z" creationid="Ragnar-F" creationdate="20221109T203130Z">
+        <seg>Segmentänderungs&amp;information anpassen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9645,6 +9725,14 @@ Fehler entstanden ist, an den Softwarehersteller.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T205609Z" creationid="Ragnar-F" creationdate="20221109T205609Z">
+        <seg>Zeigt Einträge aus den Glossardateien im /glossary/-Ordner an, die im Quelltext des aktiven Segments gefunden werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143520Z" creationid="Ragnar-F" creationdate="20210111T150946Z">
@@ -9719,8 +9807,16 @@ Fehler entstanden ist, an den Softwarehersteller.</seg>
       <tuv lang="en">
         <seg>Displays the translation memory segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="SabineWanner" changedate="20221109T203058Z" creationid="SabineWanner" creationdate="20221109T203058Z">
-        <seg>Zeigt die Translation Memory-Segmente an, die mit dem Quellsegment übereinstimmen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T205055Z" creationid="Ragnar-F" creationdate="20221109T205055Z">
+        <seg>Zeigt Translation-Memory-Segmente an, die mit dem aktiven Segment im Editor übereinstimmen. Solche Übereinstimmungen werden Fuzzy Matches genannt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T211232Z" creationid="Ragnar-F" creationdate="20221109T211232Z">
+        <seg>Zeigt maschinelle Übersetzungen des aktuellen Segments an, die von den unter "Einstellungen &gt; Maschinelle Übersetzung" ausgewählten Übersetzungsdiensten bereitgestellt werden, sofern diese Dienste verfügbar sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12019,6 +12115,14 @@ Backup-Dateiendung '.recover'.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T152948Z">
         <seg>Die Fehlerbehebung ist trivial, außerdem wird OmegaT Ihnen bei der Fehlersuche mit der entsprechenden Fehlermeldung helfen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text (regular expression):</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T205001Z" creationid="Ragnar-F" creationdate="20221109T205001Z">
+        <seg>Gekennzeichnete Texte (regulärer Ausdruck):</seg>
       </tuv>
     </tu>
     <tu>
@@ -18488,8 +18592,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="SabineWanner" changedate="20221109T200959Z" creationid="SabineWanner" creationdate="20221109T200959Z">
-        <seg>Die Matches stammen aus Ihrer aktuellen Übersetzung oder aus den TMX-Dateien im Ordner /tm/.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T205349Z" creationid="Ragnar-F" creationdate="20221109T205349Z">
+        <seg>Fuzzy Matches stammen aus Ihrer aktuellen Übersetzung oder aus den TMX-Dateien im /tm/-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26658,6 +26762,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by target term length</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T210006Z" creationid="Ragnar-F" creationdate="20221109T210006Z">
+        <seg>Sortieren nach Länge des Zielbegriffs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143106Z" creationid="karsten" creationdate="20150919T144216Z">
@@ -27118,8 +27230,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Standard template</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T190211Z" creationid="Ragnar-F" creationdate="20221109T190211Z">
-        <seg>Standardvorlage</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T202553Z" creationid="Ragnar-F" creationdate="20221109T190211Z">
+        <seg>Standard-Darstellungsweise</seg>
       </tuv>
     </tu>
     <tu>
@@ -33404,6 +33516,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T205817Z" creationid="Ragnar-F" creationdate="20221109T205817Z">
+        <seg>Mit dem Menüpunkt "Glossareintrag erstellen" im Bearbeiten-Menü können Sie neue Einträge hinzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T201907Z">
@@ -34076,6 +34196,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210118T115024Z">
         <seg>Hier können Sie alle verfügbaren Dateifilter sehen und ggf. bearbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T211325Z" creationid="Ragnar-F" creationdate="20221109T211325Z">
+        <seg>Anzeigen, Hinzufügen, Entfernen oder Bearbeiten einer Notiz im aktiven Segment.</seg>
       </tuv>
     </tu>
     <tu>
