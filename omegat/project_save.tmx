@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1805,6 +1805,21 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T104850Z" creationid="Ragnar-F" creationdate="20221109T104231Z">
+        <seg>--ITokenizer=&lt;Klassenname&gt;
+	--ITokenizerTarget=&lt;Klassenname&gt;
+	  Der zu verwendende Quell- oder Zielsprachen-Tokenizer (über-
+	schreibt Projekteinstellungen).
+	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T125641Z" creationid="Ragnar-F" creationdate="20210111T130906Z">
@@ -1817,6 +1832,17 @@ java.exe.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T125656Z" creationid="Ragnar-F" creationdate="20210111T125629Z">
         <seg>--config-dir=&lt;p1&gt;/Pfad/zu/den/Config-Dateien/&lt;/p1&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T104906Z" creationid="Ragnar-F" creationdate="20221109T104340Z">
+        <seg>--config-dir=&lt;Pfad&gt;
+	  Das Verzeichnis, welches zum Lesen oder Schreiben von
+	  OmegaT-Konfigurationsdateien verwendet wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1840,6 +1866,17 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T104901Z" creationid="Ragnar-F" creationdate="20221109T104250Z">
+        <seg>--config-file=&lt;Pfad&gt;
+	  Eine Java-.properties-Datei, aus der die Standardeinstellungen
+	  geladen werden sollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
@@ -1847,6 +1884,17 @@ java.exe.</seg>
         <seg>--disable-location-save
 		Das zuletzt in der Dateiauswahl geöffnete Verzeichnis wird
 		nicht gespeichert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T104106Z" creationid="Ragnar-F" creationdate="20221109T104106Z">
+        <seg>--disable-location-save
+	  Das zuletzt in der Dateiauswahl geöffnete Verzeichnis wird
+	  nicht gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1861,10 +1909,30 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T104015Z" creationid="Ragnar-F" creationdate="20221109T103856Z">
+        <seg>--disable-project-locking
+	  Die omegat.project-Datei wird nicht gesperrt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T125633Z" creationid="Ragnar-F" creationdate="20210111T125633Z">
         <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T105601Z" creationid="Ragnar-F" creationdate="20221109T105356Z">
+        <seg>--mode=[Konsolenmodusname]
+	  Einen anderen Modus als den GUI-Standardmodus angeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1887,10 +1955,53 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T110047Z" creationid="Ragnar-F" creationdate="20221109T110011Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;Pfad&gt;
+	    Ein Verzeichnis, das die übersetzten Dateien enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130525T093508Z">
         <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T105706Z" creationid="Ragnar-F" creationdate="20221109T105648Z">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;Pfad&gt;
+	    Speicherort der pseudoübersetzten TMX-Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T110552Z" creationid="Ragnar-F" creationdate="20221109T110048Z">
+        <seg>--mode=console-stats
+	  Projektpfad
+	    Der Pfad zum Projekt
+	  --output-file=[Stats-Ausgabedatei]
+	    Schreibt in die angegebene Datei, oder in die Standardausgabe,
+	    wenn keine Datei angegeben ist oder die Option
+	    nicht verwendet wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1903,12 +2014,34 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T105639Z" creationid="Ragnar-F" creationdate="20221109T105611Z">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;Muster&gt;
+	    Eine RegEx-Whitelist der zu verarbeitenden Quelldateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T115957Z" creationid="Michael Motzkus" creationdate="20181018T124614Z">
         <seg>--no-team
 		Teamprojekt-Funktionalität deaktivieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T103522Z" creationid="Ragnar-F" creationdate="20221109T103510Z">
+        <seg>--no-team
+	  Teamprojekt-Funktionalität deaktivieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1931,6 +2064,27 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T105950Z" creationid="Ragnar-F" creationdate="20221109T105716Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    Was in die pseudoübersetzten TMX eingefügt werden soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T111009Z" creationid="Ragnar-F" creationdate="20221109T111009Z">
+        <seg>Nicht-GUI-Modus-Optionen:
+--quiet
+	  Ausgabe der Befehlszeile reduzieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -1939,6 +2093,18 @@ java.exe.</seg>
         <seg>--remote-project
 		Eine omegat.project-Datei von der in &lt;Projektpfad&gt; angegebenen
 		URL herunterladen und das Projekt laden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T103508Z" creationid="Ragnar-F" creationdate="20221109T103413Z">
+        <seg>--remote-project
+	  Eine omegat.project-Datei von der in &lt;Projektpfad&gt; angegebenen
+	  URL herunterladen und das Projekt laden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1959,6 +2125,17 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T105352Z" creationid="Ragnar-F" creationdate="20221109T104743Z">
+        <seg>--resource-bundle=&lt;path&gt;
+	   Eine Java-.properties-Datei, die für die Texte der
+	   Benutzeroberfläche verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
@@ -1966,6 +2143,17 @@ java.exe.</seg>
         <seg>--script=&lt;Pfad&gt;
 		Eine Skriptdatei, die bei Projektereignissen ausgeführt
 		werden soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T111020Z" creationid="Ragnar-F" creationdate="20221109T111020Z">
+        <seg>--script=&lt;Pfad&gt;
+	  Eine Skriptdatei, die bei Projektereignissen ausgeführt
+	  werden soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,6 +2174,16 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T110618Z" creationid="Ragnar-F" creationdate="20221109T110555Z">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Spezifiziert das Ausgabeformat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
@@ -1993,6 +2191,16 @@ java.exe.</seg>
         <seg>--tag-validation=[abort|warn]
 		Tags validieren.
 		</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T111142Z" creationid="Ragnar-F" creationdate="20221109T111142Z">
+        <seg>--tag-validation=[abort|warn]
+	  Tags validieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2035,6 +2243,16 @@ java.exe.</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T113703Z" creationid="Michael Motzkus" creationdate="20181018T121600Z">
         <seg>-h, --help
 		Informationen zur Verwendung anzeigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T103411Z" creationid="Ragnar-F" creationdate="20221109T103356Z">
+        <seg>-h, --help
+	  Diesen Hilfetext ausgeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2111,6 +2329,14 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T111543Z" creationid="Ragnar-F" creationdate="20221109T111543Z">
+        <seg>1) Reduzieren Sie die Anzahl der Dateien im Quellordner;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T152159Z">
@@ -2138,6 +2364,14 @@ The current setting is {0}MB;</seg>
 Sie "java -Xmx&lt;Größe-in-MB&gt;M -jar OmegaT.jar" auf der Befehlszeile
 oder im OmegaT-Startskript angeben;
 Die aktuelle Einstellung ist {0}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T111736Z" creationid="Ragnar-F" creationdate="20221109T111620Z">
+        <seg>2) Erhöhen Sie den für OmegaT verfügbaren Arbeitsspeicher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7338,6 +7572,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T105610Z" creationid="Ragnar-F" creationdate="20221109T105610Z">
+        <seg>Konsolenmodusnamen und ihre Optionen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -8486,6 +8728,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210223T161033Z">
         <seg>Standard-Tastaturkurzbefehl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T110801Z" creationid="Ragnar-F" creationdate="20221109T110801Z">
+        <seg>Standardmäßig xml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12996,6 +13246,16 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T110748Z" creationid="Ragnar-F" creationdate="20221109T110621Z">
+        <seg>Wenn --stats-type nicht angegeben ist,
+	    wird das Format via Dateiendung ermittelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T215551Z" creationid="Michael Motzkus" creationdate="20180918T172150Z">
@@ -13258,6 +13518,16 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T124231Z" creationid="Michael Motzkus" creationdate="20181018T132724Z">
         <seg>		Wenn der Befehl in einem Git Working Tree oder SVN Checkout
 		aufgerufen wird, werden die Ergebnisse bereitgestellt/hinzugefügt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T103853Z" creationid="Ragnar-F" creationdate="20221109T103853Z">
+        <seg>	  Wenn der Befehl in einem Git Working Tree oder SVN Checkout
+	  aufgerufen wird, werden die Ergebnisse bereitgestellt/hinzugefügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14896,6 +15166,15 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T102148Z" creationid="BVB" creationdate="20180826T083235Z">
         <seg>Informationen über Verfahren und Funktionen von OmegaT für fortgeschrittene Benutzer, die auf anderen Seiten zu finden sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T103658Z" creationid="Ragnar-F" creationdate="20221109T103658Z">
+        <seg>Ein minimales Teamprojekt mit den angegebenen Sprachen
+	  initialisieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18372,6 +18651,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T103129Z" creationid="Ragnar-F" creationdate="20221109T103129Z">
+        <seg>Keine Option: GUI starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T131554Z" creationid="Ragnar-F" creationdate="20210112T131554Z">
@@ -19602,6 +19889,23 @@ be launched.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T055726Z" creationid="BVB" creationdate="20180829T055436Z">
         <seg>OmegaT auf Wikipedia &lt;s0&gt;in 25 Sprachen&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T103051Z" creationid="Ragnar-F" creationdate="20221109T103044Z">
+        <seg>OmegaT-Optionen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T111403Z" creationid="Ragnar-F" creationdate="20221109T111403Z">
+        <seg>Nicht genügend freier Arbeitsspeicher für OmegaT verfügbar.
+Klicken Sie auf OK, um das Programm zu beenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20862,6 +21166,18 @@ committen Sie dann alles.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T111327Z" creationid="Ragnar-F" creationdate="20221109T111327Z">
+        <seg>Platzieren Sie die Quelldateien in ./source und
+den Rest nach Bedarf in ./tm, ./glossary und ./dictionary, und
+committen Sie dann alles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T103043Z" creationid="Ragnar-F" creationdate="20210112T091928Z">
@@ -21219,6 +21535,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T060154Z" creationid="BVB" creationdate="20180829T060154Z">
         <seg>Portavita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T111514Z" creationid="Ragnar-F" creationdate="20221109T111514Z">
+        <seg>Mögliche Lösungsansätze:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21829,6 +22153,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T094244Z" creationid="Ragnar-F" creationdate="20210111T094244Z">
         <seg>Projektparameter müssen vom Projektleiter geändert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T103224Z" creationid="Ragnar-F" creationdate="20221109T103224Z">
+        <seg>Nur Projektpfad: GUI starten und angegebenes Projekt laden</seg>
       </tuv>
     </tu>
     <tu>
@@ -23214,6 +23546,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user guide.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T112209Z" creationid="Ragnar-F" creationdate="20221109T112209Z">
+        <seg>OmegaT ausführen" in der Bedienungsanleitung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130630T170754Z">
@@ -23841,6 +24181,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T112127Z" creationid="Ragnar-F" creationdate="20221109T112127Z">
+        <seg>Siehe "Anleitung:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See /docs/contributors.txt</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T074115Z" creationid="Michael Motzkus" creationdate="20190129T074115Z">
@@ -23953,6 +24301,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Help &gt; User Guide for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T104155Z" creationid="Ragnar-F" creationdate="20221109T102658Z">
+        <seg>Für Einzelheiten, inklusive Java-Optionen, siehe Hilfe &gt; Bedienungsanleitung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T135740Z" creationid="Michael Motzkus" creationdate="20181018T131144Z">
@@ -23971,8 +24327,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T124859Z" creationid="Michael Motzkus" creationdate="20181018T124859Z">
-        <seg>Siehe OmegaT.jar/META-INF/MANIFEST.MF für gültige Werte.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T104855Z" creationid="Michael Motzkus" creationdate="20181018T124859Z">
+        <seg>  Siehe OmegaT.jar/META-INF/MANIFEST.MF für gültige Werte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29829,6 +30185,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T115239Z" creationid="Ragnar-F" creationdate="20221109T115239Z">
+        <seg>Um Dateien zum Projekt hinzuzufügen, können Sie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T114108Z" creationid="Ragnar-F" creationdate="20210324T114108Z">
@@ -31473,10 +31837,40 @@ Dokumentationsdatei und die OmegaT-Anwendung enthält.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T102558Z" creationid="Ragnar-F" creationdate="20221109T102431Z">
+        <seg>Verwendung: java -jar [&lt;Java-Optionen&gt;] OmegaT.jar [&lt;OmegaT-Optionen&gt;] [&lt;Projektpfad&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T111252Z" creationid="Ragnar-F" creationdate="20221109T111218Z">
+        <seg>Verwendung: team init &lt;Quellsprache&gt; &lt;Zielsprache&gt;
+	Siehe --help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T063249Z" creationid="BVB" creationdate="20180829T063249Z">
         <seg>Benutzung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T112009Z" creationid="Ragnar-F" creationdate="20221109T112009Z">
+        <seg>Nutzen Sie "java -Xmx&lt;Größe-in-MB&gt;M -jar OmegaT.jar" als Befehlszeile
+oder im OmegaT-Startskript;
+Die aktuelle Einstellung ist {0} MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33790,6 +34184,14 @@ Methoden zu lösen:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T113628Z" creationid="Ragnar-F" creationdate="20221109T113628Z">
+        <seg>Ihr Projekt scheint keine übersetzbaren Dateien zu enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T182741Z" creationid="Michael Motzkus" creationdate="20181022T143359Z">
@@ -35739,6 +36141,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>only options:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T110946Z" creationid="Ragnar-F" creationdate="20221109T110946Z">
+        <seg>Nur Optionen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>open the project</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T101224Z">
@@ -36359,6 +36769,16 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130503T162246Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T103614Z" creationid="Ragnar-F" creationdate="20221109T103525Z">
+        <seg>team init &lt;Quellsprache&gt; &lt;Zielsprache&gt;
+	  Teamprojekt-Tool.</seg>
       </tuv>
     </tu>
     <tu>
