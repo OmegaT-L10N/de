@@ -5324,6 +5324,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All terms in a segment with a match in &lt;e0&gt;any&lt;/e0&gt; of the glossaries will be displayed in the &lt;l1/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="SabineWanner" changedate="20221110T195939Z" creationid="SabineWanner" creationdate="20221110T195939Z">
+        <seg>Alle Begriffe in einem Segment, die in &lt;e0&gt;irgendeinem&lt;/e0&gt; der Glossare übereinstimmen, werden im Bereich &lt;l1/&gt; angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T094325Z" creationid="Ragnar-F" creationdate="20210111T094325Z">
@@ -14039,6 +14047,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T123037Z" creationid="Ragnar-F" creationdate="20210324T123037Z">
         <seg>Glossare werden in einer Kodierung gelesen, die von der Dateiendung abhängt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are terminology files stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="SabineWanner" changedate="20221110T195811Z" creationid="SabineWanner" creationdate="20221110T195811Z">
+        <seg>Glossare sind Terminologiedateien, die im Ordner &lt;l0/&gt; gespeichert sind.</seg>
       </tuv>
     </tu>
     <tu>
