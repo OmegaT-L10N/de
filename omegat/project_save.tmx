@@ -8080,6 +8080,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configuration Folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T095533Z" creationid="Ragnar-F" creationdate="20221110T095533Z">
+        <seg>Konfigurationsordner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="de">
@@ -9467,6 +9475,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T220646Z" creationid="Ragnar-F" creationdate="20221109T220646Z">
         <seg>Standard-Branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default contents</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100607Z" creationid="Ragnar-F" creationdate="20221110T100607Z">
+        <seg>Standardinhalt</seg>
       </tuv>
     </tu>
     <tu>
@@ -26262,6 +26278,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; for details</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100544Z" creationid="Ragnar-F" creationdate="20221110T100544Z">
+        <seg>Einzelheiten finden Sie unter &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T093532Z" creationid="Ragnar-F" creationdate="20221110T093532Z">
@@ -29869,6 +29893,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT parameters and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T095627Z" creationid="Ragnar-F" creationdate="20221110T095627Z">
+        <seg>Der Konfigurationsordner enthält den Großteil der OmegaT-Parameter und -Einstellungen für den Benutzer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -30528,6 +30560,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121718Z">
         <seg>Der Standort spielt keine Rolle, da Sie ihn ohnehin beim Start in die Befehlszeile einfügen müssen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home directory):</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100343Z" creationid="Ragnar-F" creationdate="20221110T100308Z">
+        <seg>Der Speicherort des regulären Konfigurationsordners variiert je nach System (das Zeichen &lt;e0&gt;~&lt;/e0&gt; repräsentiert das Benutzerverzeichnis):</seg>
       </tuv>
     </tu>
     <tu>
@@ -32154,6 +32194,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T090316Z" creationid="Ragnar-F" creationdate="20210111T090316Z">
         <seg>Dieses Feature ist eigentlich für das Zusammentragen von Quelldateien gedacht, aber es ist nicht auf Quelldateien beschränkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file includes a number of important user preferences.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100624Z" creationid="Ragnar-F" creationdate="20221110T100624Z">
+        <seg>Diese Datei enthält eine Reihe von wichtigen Benutzereinstellungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36680,6 +36728,22 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use non default configuration folders by starting OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100537Z" creationid="Ragnar-F" creationdate="20221110T100537Z">
+        <seg>Sie können auch benutzerdefinierte Konfigurationsordner verwenden, indem Sie OmegaT von der Befehlszeile aus starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can always access it directly from &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T095806Z" creationid="Ragnar-F" creationdate="20221110T095806Z">
+        <seg>Sie können jederzeit direkt über &lt;l0/&gt; im &lt;l1/&gt;-Menü darauf zugreifen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can ask the user group for advice if you have problems.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T153037Z">
@@ -39096,6 +39160,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat.prefs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100608Z" creationid="Ragnar-F" creationdate="20221110T100608Z">
+        <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>omegat.project (file)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T200953Z" creationid="Ragnar-F" creationdate="20210111T200945Z">
@@ -40382,6 +40454,30 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130503T162247Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/.omegat</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100309Z" creationid="Ragnar-F" creationdate="20221110T100309Z">
+        <seg>~/.omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100311Z" creationid="Ragnar-F" creationdate="20221110T100311Z">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~\AppData\Roaming\OmegaT</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100312Z" creationid="Ragnar-F" creationdate="20221110T100312Z">
+        <seg>~\AppData\Roaming\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
