@@ -180,6 +180,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133513Z" creationid="Ragnar-F" creationdate="20221110T133513Z">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133541Z" creationid="Ragnar-F" creationdate="20221110T133541Z">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${filename}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132109Z" creationid="Ragnar-F" creationdate="20221110T132109Z">
@@ -236,10 +252,82 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${system-host-name}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133442Z" creationid="Ragnar-F" creationdate="20221110T133442Z">
+        <seg>${system-host-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-os-name}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133417Z" creationid="Ragnar-F" creationdate="20221110T133417Z">
+        <seg>${system-os-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-user-name}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133429Z" creationid="Ragnar-F" creationdate="20221110T133429Z">
+        <seg>${system-user-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132804Z" creationid="Ragnar-F" creationdate="20221110T132804Z">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132739Z" creationid="Ragnar-F" creationdate="20221110T132739Z">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguage}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132718Z" creationid="Ragnar-F" creationdate="20221110T132718Z">
+        <seg>${targetLanguage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocaleLCID}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133552Z" creationid="Ragnar-F" creationdate="20221110T133552Z">
+        <seg>${targetLocaleLCID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocale}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132650Z" creationid="Ragnar-F" creationdate="20221110T132650Z">
+        <seg>${targetLocale}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetText}</seg>
       </tuv>
       <tuv lang="de" changeid="helmut" changedate="20130611T100652Z">
         <seg>${targetText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${timestamp-????}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132934Z" creationid="Ragnar-F" creationdate="20221110T132934Z">
+        <seg>${timestamp-????}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3566,6 +3654,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T134931Z" creationid="Ragnar-F" creationdate="20221110T134931Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130513T082941Z">
@@ -3574,10 +3670,26 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;: &lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T134933Z" creationid="Ragnar-F" creationdate="20221110T134933Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;: &lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130513T082943Z">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T134935Z" creationid="Ragnar-F" creationdate="20221110T134935Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3614,6 +3726,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Document&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T134920Z" creationid="Ragnar-F" creationdate="20221110T134911Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Dokument&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130513T082936Z">
@@ -3622,10 +3742,26 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Document.xx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T134925Z" creationid="Ragnar-F" creationdate="20221110T134922Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Dokument.xx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130513T082938Z">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T134930Z" creationid="Ragnar-F" creationdate="20221110T134927Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Dokument.xx.docx&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4316,6 +4452,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A value of 0 sets no limits.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140717Z" creationid="Ragnar-F" creationdate="20221110T140600Z">
+        <seg>0 bedeutet unlimitiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T190728Z" creationid="BVB" creationdate="20180826T190728Z">
@@ -4836,6 +4980,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${Extension}&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133653Z" creationid="Ragnar-F" creationdate="20221110T133653Z">
+        <seg>Zusätzliche Varianten sind für &lt;l0&gt;${nameOnly}&lt;/l0&gt; und &lt;l1&gt;${Extension}&lt;/l1&gt; verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T190621Z">
@@ -4944,6 +5096,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T131521Z">
         <seg>Beachten Sie erneut, dass der umgekehrte Schrägstrich ebenfalls mit einem Escapezeichen versehen ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aggregate tags</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T141852Z" creationid="Ragnar-F" creationdate="20221110T141852Z">
+        <seg>Tags zusammenfassen</seg>
       </tuv>
     </tu>
     <tu>
@@ -7666,6 +7826,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose here the way OmegaT creates paragraphs in your text files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140400Z" creationid="Ragnar-F" creationdate="20221110T140400Z">
+        <seg>Wählen Sie hier, wie OmegaT Absätze in Ihren Textdateien erzeugt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose the one that provides the best results.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T210644Z" creationid="Ragnar-F" creationdate="20210111T210644Z">
@@ -8040,6 +8208,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments and sheet names.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T141757Z" creationid="Ragnar-F" creationdate="20221110T141757Z">
+        <seg>Kommentare und Blattnamen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments are displayed after a number and each on a separate line.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T115150Z" creationid="Ragnar-F" creationdate="20210324T115150Z">
@@ -8124,6 +8300,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181107T102410Z" creationid="Michael Motzkus" creationdate="20181107T102410Z">
         <seg>Kompatibilität</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T135207Z" creationid="Ragnar-F" creationdate="20221110T135207Z">
+        <seg>Kompatibilität mit OmegaT 2.6</seg>
       </tuv>
     </tu>
     <tu>
@@ -11236,6 +11420,22 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable this option if soft-returns are intended to be paragraph starters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T142708Z" creationid="Ragnar-F" creationdate="20221110T142708Z">
+        <seg>Aktivieren Sie diese Option, wenn weiche Zeilenumbrüche zum Starten neuer Absätze gedacht sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable this option if you need to work with XLIFF files created with OmegaT 2.6.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T135328Z" creationid="Ragnar-F" creationdate="20221110T135328Z">
+        <seg>Aktivieren Sie diese Option, wenn Sie mit XLIFF-Dateien arbeiten müssen, die mit OmegaT 2.6 erstellt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="de">
@@ -12232,6 +12432,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External links, charts, diagrams, drawings, and WordArt.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T141835Z" creationid="Ragnar-F" creationdate="20221110T141835Z">
+        <seg>Externe Links, Grafiken, Diagramme, Zeichnungen und WordArt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External program failed({1}): {0}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T224444Z" creationid="Ragnar-F" creationdate="20221109T224444Z">
@@ -12895,6 +13103,14 @@ provided (omegat.kaptn).</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T103419Z" creationid="Ragnar-F" creationdate="20210112T094939Z">
         <seg>Um OmegaT benutzerfreundlicher zu starten, können Sie das im Lieferumfang
 enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T134905Z" creationid="Ragnar-F" creationdate="20221110T134905Z">
+        <seg>Handelt es sich zum Beispiel um eine Quelldatei namens Dokument.xx.docx, würde die Nutzung folgender Variablenvarianten zu folgenden Ergebnissen führen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15246,6 +15462,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T090802Z" creationid="Ragnar-F" creationdate="20210111T090802Z">
         <seg>Wenn die Datei keine Zuordnungen enthält, werden die vorhandenen lokalen Zuordnungen wieder angewendet, und nur diese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file name is ambiguous, variables of the form &lt;l0&gt;${nameonly&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt; can be used.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T134323Z" creationid="Ragnar-F" creationdate="20221110T134323Z">
+        <seg>Wenn der Dateiname mehrdeutig ist, können Variablen in Form von &lt;l0&gt;${nameonly-&lt;e1&gt;Endungsnummer&lt;/e1&gt;}&lt;/l0&gt; und &lt;l2&gt;${extension-&lt;e3&gt;Endungsnummer&lt;/e3&gt;}&lt;/l2&gt; verwendet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18540,6 +18764,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line length</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140406Z" creationid="Ragnar-F" creationdate="20221110T140406Z">
+        <seg>Zeilenlänge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length in target files (0 = no limit)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T172223Z" creationid="Ragnar-F" creationdate="20221109T172223Z">
@@ -19532,6 +19764,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maximum line length</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140615Z" creationid="Ragnar-F" creationdate="20221110T140615Z">
+        <seg>Maximale Zeilenlänge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T135125Z" creationid="karsten" creationdate="20150919T135125Z">
@@ -19673,6 +19913,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T212211Z" creationid="BVB" creationdate="20180826T184928Z">
         <seg>Microsoft Word, Excel, PowerPoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133607Z" creationid="Ragnar-F" creationdate="20221110T133607Z">
+        <seg>Microsoft-Ziel-Locale</seg>
       </tuv>
     </tu>
     <tu>
@@ -20748,6 +20996,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145508Z">
         <seg>Nicht sichtbare Formatierungen (also solche, die nicht als Tags im OmegaT-Editor erscheinen) bleiben in Zieldokumenten erhalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-visible instruction text, comments, footnotes, endnotes, footers, duplicate fallback text, and document properties.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T141735Z" creationid="Ragnar-F" creationdate="20221110T141653Z">
+        <seg>Unsichtbare Anweisungstexte, Kommentare, Fußnoten, Endnoten, Fußzeilen, Reservetext für Kompatibilität, und Dokumenteigenschaften.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26838,6 +27094,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt; Oracle documentation&lt;/u0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133415Z" creationid="Ragnar-F" creationdate="20221110T133415Z">
+        <seg>Beispiele dafür finden Sie in der &lt;u0&gt;Oracle-Dokumentation&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T130130Z">
@@ -27286,6 +27550,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt; to modify them.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T135155Z" creationid="Ragnar-F" creationdate="20221110T135155Z">
+        <seg>Wählen Sie den Filter in der Liste aus und klicken Sie auf &lt;g0&gt;Optionen...&lt;/g0&gt;, um ihn zu ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the first segment.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T211136Z" creationid="Ragnar-F" creationdate="20210111T211136Z">
@@ -27662,6 +27934,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Several filters offer options.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T135019Z" creationid="Ragnar-F" creationdate="20221110T135019Z">
+        <seg>Mehrere Filter bieten zusätzliche Optionen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sharing translation memories</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T160052Z">
@@ -27954,6 +28234,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210118T111256Z">
         <seg>Folienl&amp;ayouts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide comments, slide masters, and slide layouts.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T141813Z" creationid="Ragnar-F" creationdate="20221110T141813Z">
+        <seg>Folienkommentare, Folienmasters und Folienlayouts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28672,6 +28960,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new paragraph on Word soft-returns</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T142541Z" creationid="Ragnar-F" creationdate="20221110T142541Z">
+        <seg>Neuen Absatz bei weichem Zeilenumbruch beginnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130625T131615Z">
@@ -29240,6 +29536,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag shortcuts</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T135621Z" creationid="Ragnar-F" creationdate="20221110T135621Z">
+        <seg>Tag-Kürzel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T173039Z" creationid="Ragnar-F" creationdate="20221109T173039Z">
@@ -29296,6 +29600,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags that do not enclose translatable text will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T142431Z" creationid="Ragnar-F" creationdate="20221110T142431Z">
+        <seg>Tags, die keinen übersetzbaren Text umschließen, werden zu einem einzigen Tag zusammengefasst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tagwipe</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T131905Z" creationid="Ragnar-F" creationdate="20210112T131905Z">
@@ -29340,6 +29652,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T071652Z" creationid="karsten" creationdate="20150919T175551Z">
         <seg>Anzahl Ziele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target file names</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T134352Z" creationid="Ragnar-F" creationdate="20221110T134352Z">
+        <seg>Zieldateinamen</seg>
       </tuv>
     </tu>
     <tu>
@@ -29608,6 +29928,14 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
       </tuv>
       <tuv lang="de">
         <seg>Textdateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text files do not have generic paragraph markers.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140344Z" creationid="Ragnar-F" creationdate="20221110T140344Z">
+        <seg>Textdateien haben keine generischen Absatzmarkierungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32351,6 +32679,14 @@ werden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These option specify the way OmegaT creates tags from the XLIFF contents.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140053Z" creationid="Ragnar-F" creationdate="20221110T140053Z">
+        <seg>Diese Option bestimmt, wie OmegaT die Tags aus den XLIFF-Inhalten erzeugt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T135303Z" creationid="Ragnar-F" creationdate="20210111T135303Z">
@@ -32448,6 +32784,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T103316Z" creationid="Ragnar-F" creationdate="20221110T103316Z">
         <seg>Sie müssen manuell geändert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will appear as separate segments in the editor.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140828Z" creationid="Ragnar-F" creationdate="20221110T140828Z">
+        <seg>Die Elemente werden im Editor als separate Segmente angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35732,6 +36076,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or, &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T135605Z" creationid="Ragnar-F" creationdate="20221110T135605Z">
+        <seg>Der Benutzer kann zwischen drei Optionen wählen: vorheriger und nächster Absatz, &lt;trans-unit&gt;-ID, oder &lt;trans-unit&gt;-resname-Attribut, sofern verfügbar (ist es nicht verfügbar, wird die ID als Fallback verwendet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User canceled signing (no passphrase provided)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T225259Z" creationid="Ragnar-F" creationdate="20221109T224849Z">
@@ -36712,6 +37064,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whitespace (i.e., spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T142524Z" creationid="Ragnar-F" creationdate="20221110T142524Z">
+        <seg>Leerräume (Leerzeichen, Zeilenumbrüche usw.) werden beibehalten, selbst wenn diese Option im Dokument nicht definiert ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whitespace - leading</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T115840Z" creationid="Ragnar-F" creationdate="20210112T110147Z">
@@ -37524,6 +37884,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T183508Z" creationid="Ragnar-F" creationdate="20210109T175716Z">
         <seg>Sie können die Quellkodierung für jedes verschiedene Quelldateinamensmuster ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose additional document elements to translate.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140748Z" creationid="Ragnar-F" creationdate="20221110T140748Z">
+        <seg>Sie können zusätzliche Dokumentelemente für die Übersetzung auswählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38901,6 +39269,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>encoding of the source file</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133540Z" creationid="Ragnar-F" creationdate="20221110T133540Z">
+        <seg>Kodierung der Quelldatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>encoding of the target file</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133549Z" creationid="Ragnar-F" creationdate="20221110T133549Z">
+        <seg>Kodierung der Zieldatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>etc...</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130524T075215Z">
@@ -39181,6 +39565,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>host name on the system</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133511Z" creationid="Ragnar-F" creationdate="20221110T133511Z">
+        <seg>Hostname auf dem System</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130625T123937Z">
@@ -39313,6 +39705,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130525T083856Z">
         <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133110Z" creationid="Ragnar-F" creationdate="20221110T133110Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -39489,6 +39889,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130503T162243Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if checked, OmegaT changes the state of the XLIFF target part to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140314Z" creationid="Ragnar-F" creationdate="20221110T140314Z">
+        <seg>Wenn diese Option aktiviert ist, ändert OmegaT den Status des XLIFF-Zielteils auf "needs-review-translation" anstelle von "translated".</seg>
       </tuv>
     </tu>
     <tu>
@@ -39880,6 +40288,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>name of the operating system</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133428Z" creationid="Ragnar-F" creationdate="20221110T133428Z">
+        <seg>Name des Betriebssystems</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>name of the source file, without the extension</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132541Z" creationid="Ragnar-F" creationdate="20221110T132541Z">
@@ -40196,6 +40612,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T094438Z" creationid="Ragnar-F" creationdate="20210111T094438Z">
         <seg>oder öffnen Sie das Projekt über die Befehlszeile mit der Option &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>original file extension</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132649Z" creationid="Ragnar-F" creationdate="20221110T132649Z">
+        <seg>originale Dateiendung</seg>
       </tuv>
     </tu>
     <tu>
@@ -40640,6 +41064,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>specifies the maximum number of characters before breaking a long line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140520Z" creationid="Ragnar-F" creationdate="20221110T140520Z">
+        <seg>spezifiziert die maximale Anzahl von Zeichen, bevor eine lange Zeile umgebrochen wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before cutting a line and ignoring the rest.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140714Z" creationid="Ragnar-F" creationdate="20221110T140714Z">
+        <seg>spezifiziert die maximale Anzahl von Zeichen, bevor eine Zeile abgeschnitten und der Rest ignoriert wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>specify what parts of text should NOT be separated.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T221922Z">
@@ -40672,6 +41112,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>system time when the file is was created</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133108Z" creationid="Ragnar-F" creationdate="20221110T133108Z">
+        <seg>Systemzeit, als die Datei erstellt wurde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>target</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T193803Z" creationid="Ragnar-F" creationdate="20210111T193803Z">
@@ -40684,6 +41132,38 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130503T162246Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language code (xx)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132929Z" creationid="Ragnar-F" creationdate="20221110T132802Z">
+        <seg>Code der Zielsprache (xx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region (xx-YY)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132738Z" creationid="Ragnar-F" creationdate="20221110T132738Z">
+        <seg>Zielsprache+Region (xx-YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region code (xx_YY)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132716Z" creationid="Ragnar-F" creationdate="20221110T132657Z">
+        <seg>Zielsprache+Regionscode (xx_YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target region code (YY)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132913Z" creationid="Ragnar-F" creationdate="20221110T132913Z">
+        <seg>Code der Zielregion (YY)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40942,6 +41422,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T074600Z" creationid="Ragnar-F" creationdate="20210111T074600Z">
         <seg>Verwenden Sie &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Quelldateien committen&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user’s login name</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133441Z" creationid="Ragnar-F" creationdate="20221110T133441Z">
+        <seg>Anmeldename des Benutzers</seg>
       </tuv>
     </tu>
     <tu>
@@ -41435,6 +41923,17 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T092229Z" creationid="Ragnar-F" creationdate="20210113T092229Z">
         <seg>Notiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_FileFilters.xml</prop>
+      <prop type="prev">They will appear as separate segments in the editor.</prop>
+      <prop type="next">Non-visible instruction text, comments, footnotes, endnotes, footers, duplicate fallback text, and document properties.</prop>
+      <tuv lang="en">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140854Z" creationid="Ragnar-F" creationdate="20221110T140854Z">
+        <seg>Word</seg>
       </tuv>
     </tu>
     <tu>
