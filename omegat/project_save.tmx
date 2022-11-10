@@ -3852,6 +3852,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104037Z" creationid="Ragnar-F" creationdate="20221110T104037Z">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T103423Z">
@@ -4784,6 +4792,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T093950Z" creationid="Ragnar-F" creationdate="20210111T093950Z">
         <seg>Neue Quelldateien hinzufügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional contents</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110023Z" creationid="Ragnar-F" creationdate="20221110T110023Z">
+        <seg>Zusätzliche Inhalte</seg>
       </tuv>
     </tu>
     <tu>
@@ -10175,6 +10191,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not automatically display the Source Files list</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T103427Z" creationid="Ragnar-F" creationdate="20221110T103427Z">
+        <seg>Die Quelldateien-Liste nicht automatisch anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T103530Z">
@@ -10995,6 +11019,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T135406Z" creationid="Ragnar-F" creationdate="20210111T135406Z">
         <seg>Editor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110024Z" creationid="Ragnar-F" creationdate="20221110T110024Z">
+        <seg>EditorShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -14549,6 +14581,14 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT behaves erratically, include this file, or the relevant part thereof, to your report.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104937Z" creationid="Ragnar-F" creationdate="20221110T104937Z">
+        <seg>Wenn OmegaT sich fehlerhaft verhält, fügen Sie diese Datei oder den entsprechenden Teil davon Ihrem Fehlerbericht bei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T180948Z" creationid="Ragnar-F" creationdate="20210110T180948Z">
@@ -14966,6 +15006,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T213026Z" creationid="Ragnar-F" creationdate="20210111T203902Z">
         <seg>Wenn die Ausrichtung verbesserungswürdig ist, versuchen Sie, die Parameter zu ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the applicable functions are used, this folder can contain up to three text files:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105200Z" creationid="Ragnar-F" creationdate="20221110T105200Z">
+        <seg>Wenn die entsprechenden Funktionen verwendet werden, kann dieser Ordner bis zu drei Textdateien enthalten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15465,6 +15513,14 @@ angezeigt werden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143251Z" creationid="Ragnar-F" creationdate="20210110T190935Z">
         <seg>Wenn Sie mitten in der Übersetzung beschließen, von der satzweisen auf die absatzweise Übersetzung umzuschalten, wird der interne Translation Memory des Projekts nicht verändert (OmegaT kann alte Translation Memories, die keine Satzsegmentierung verwendet haben, aktualisieren, aber nicht umgekehrt). Dennoch wird OmegaT versuchen, absatzbezogene Fuzzy Matches zu erstellen, indem es vorhandene Satzübersetzungen zusammenfügt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not use the default configuration folder, all modifications made in &lt;l0/&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T111509Z" creationid="Ragnar-F" creationdate="20221110T111509Z">
+        <seg>Wenn Sie nicht den regulären Konfigurationsordner verwenden, werden alle in &lt;l0/&gt; vorgenommenen Änderungen im angegebenen Konfigurationsordner gespeichert. Diese Änderungen haben keine Wirkung, wenn Sie Ihre Arbeit mit dem regulären Konfigurationsordner fortsetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18590,8 +18646,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Location</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210115T152404Z">
-        <seg>Ordner:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T102742Z">
+        <seg>Speicherort</seg>
       </tuv>
     </tu>
     <tu>
@@ -18728,6 +18784,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="helmut" changedate="20130610T195216Z">
         <seg>Hauptfenster - Zähler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110153Z" creationid="Ragnar-F" creationdate="20221110T110153Z">
+        <seg>MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -19569,6 +19633,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T123455Z" creationid="Ragnar-F" creationdate="20210112T123455Z">
         <seg>Modifizierte Segmente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110738Z" creationid="Ragnar-F" creationdate="20221110T110738Z">
+        <seg>Geänderte Einstellungen werden im Konfigurationsordner gespeichert, der vom Projekt verwendet wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22134,6 +22206,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T130536Z">
         <seg>Nur die Datei test.html im Root-Verzeichnis des Quellordners wird übersetzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only this preference currently requires manual modification.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104123Z" creationid="Ragnar-F" creationdate="20221110T104123Z">
+        <seg>Derzeit muss nur diese Einstellung manuell geändert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27630,6 +27710,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some preference do not have an equivalent in the user interface.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T103308Z" creationid="Ragnar-F" creationdate="20221110T103308Z">
+        <seg>Einige Einstellungen haben kein Äquivalent in der Benutzeroberfläche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T182711Z">
@@ -29943,6 +30031,14 @@ Konfigurationsordner selbst verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contents of the file can also be viewed using the &lt;l0/&gt; option in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105120Z" creationid="Ragnar-F" creationdate="20221110T105120Z">
+        <seg>Der Inhalt der Datei kann auch über die Option &lt;l0/&gt; im Menü &lt;l1/&gt; angezeigt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T115717Z">
@@ -30173,6 +30269,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T093000Z" creationid="Ragnar-F" creationdate="20210113T093000Z">
         <seg>Die Datei "{0}" wird nicht unterstützt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file contents are not encrypted.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110506Z" creationid="Ragnar-F" creationdate="20221110T110506Z">
+        <seg>Der Inhalt der Datei ist nicht verschlüsselt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30640,6 +30744,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T101234Z" creationid="Ragnar-F" creationdate="20210112T101234Z">
         <seg>Die aktuellsten Informationen über OmegaT finden Sie unter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most current is &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104509Z" creationid="Ragnar-F" creationdate="20221110T104509Z">
+        <seg>Zum Beispiel &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31444,6 +31556,22 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105555Z" creationid="Ragnar-F" creationdate="20221110T105555Z">
+        <seg>Der Text in der Datei wird jedes Mal ersetzt, wenn ein neues Segment betreten wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105354Z" creationid="Ragnar-F" creationdate="20221110T105354Z">
+        <seg>Der Text in der Datei wird jedes Mal ersetzt, wenn diese Funktion aufgerufen wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The three matching percentages are in the following order:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T182327Z" creationid="Ragnar-F" creationdate="20210111T182327Z">
@@ -31799,6 +31927,14 @@ werden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104758Z" creationid="Ragnar-F" creationdate="20221110T104758Z">
+        <seg>Diese Dateien protokollieren verschiedene interne Statusmeldungen und Programmereignisse, die während der Ausführung von OmegaT erzeugt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T135303Z" creationid="Ragnar-F" creationdate="20210111T135303Z">
@@ -31888,6 +32024,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T133356Z">
         <seg>Ihre Bedeutung dürfte den meisten Word-Benutzern vertraut sein:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They must be modified manually.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T103316Z" creationid="Ragnar-F" creationdate="20221110T103316Z">
+        <seg>Sie müssen manuell geändert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32198,6 +32342,38 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when &lt;l1/&gt; is active.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105832Z" creationid="Ragnar-F" creationdate="20221110T105508Z">
+        <seg>Diese Datei enthält den &lt;e0&gt;Quelltext&lt;/e0&gt; des aktuellen Segments, wenn &lt;l1/&gt; aktiv ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when &lt;l1/&gt; is active.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105841Z" creationid="Ragnar-F" creationdate="20221110T105711Z">
+        <seg>Diese Datei enthält den &lt;e0&gt;Zieltext&lt;/e0&gt; des aktuellen Segments, wenn &lt;l1/&gt; aktiv ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the login information for your team project repositories.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110447Z" creationid="Ragnar-F" creationdate="20221110T110447Z">
+        <seg>Diese Datei enthält die Zugangsdaten für Ihre Teamprojekt-Repositories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file describes the overall OmegaT layout.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104139Z" creationid="Ragnar-F" creationdate="20221110T104139Z">
+        <seg>Diese Datei beschreibt das gesamte OmegaT-Layout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file includes a number of important user preferences.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100624Z" creationid="Ragnar-F" creationdate="20221110T100624Z">
@@ -32206,10 +32382,42 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file stores the currently selected text when the &lt;l0/&gt; command in the &lt;l1/&gt; menu is used.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105322Z" creationid="Ragnar-F" creationdate="20221110T105322Z">
+        <seg>Diese Datei enthält den aktuell markierten Text, wenn der Befehl &lt;l0/&gt; im Menü &lt;l1/&gt; verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains a number of log files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104245Z" creationid="Ragnar-F" creationdate="20221110T104245Z">
+        <seg>Dieser Ordner enthält eine Reihe von Log-Dateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains your spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110620Z" creationid="Ragnar-F" creationdate="20221110T110620Z">
+        <seg>Dieser Ordner enthält Ihre Rechtschreibwörterbücher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130513T092005Z">
         <seg>Dieser Ordner ist anfänglich leer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides an alternative location for manually installed OmegaT extension plugins.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110604Z" creationid="Ragnar-F" creationdate="20221110T110604Z">
+        <seg>Dieser Ordner ermöglicht einen alternativen Speicherort für manuell installierte OmegaT-Erweiterungs-Plugins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32574,6 +32782,54 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized autotext parameters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110342Z" creationid="Ragnar-F" creationdate="20221110T110342Z">
+        <seg>Diese Parameterdatei enthält benutzerdefinierte Autotext-Parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110137Z" creationid="Ragnar-F" creationdate="20221110T110137Z">
+        <seg>Diese Parameterdatei enthält benutzerdefinierte Tastaturkurzbefehle für den Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized external search parameters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110316Z" creationid="Ragnar-F" creationdate="20221110T110316Z">
+        <seg>Diese Parameterdatei enthält benutzerdefinierte Parameter für externe Suchvorgänge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized file filters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110237Z" creationid="Ragnar-F" creationdate="20221110T110237Z">
+        <seg>Diese Parameterdatei enthält benutzerdefinierte Dateifilter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110524Z" creationid="Ragnar-F" creationdate="20221110T110524Z">
+        <seg>Diese Parameterdatei enthält benutzerdefinierte Segmentierungsparameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized user interface shortcuts.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110221Z" creationid="Ragnar-F" creationdate="20221110T110221Z">
+        <seg>Diese Parameterdatei enthält benutzerdefinierte Tastaturkurzbefehle für die Benutzeroberfläche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T182507Z">
@@ -32732,6 +32988,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T175105Z">
         <seg>Dies sollte jedoch ohnehin vermieden werden, falls Sie bereits mit der Übersetzung des Projekts begonnen haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those three files provide as a simple way to access some OmegaT content and process it with local programs such as shell scripts.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105952Z" creationid="Ragnar-F" creationdate="20221110T105952Z">
+        <seg>Diese drei Dateien bieten eine einfache Möglichkeit, auf einige OmegaT-Inhalte zuzugreifen und sie mit lokalen Programmen wie Shell-Skripten weiterzuverarbeiten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33100,6 +33364,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130510T083233Z">
         <seg>Um die notwendigen Dateien für das StarDict Format zu installieren, gehen Sie folgendermaßen vor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To keep the Source Files list window to automatically open when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104033Z" creationid="Ragnar-F" creationdate="20221110T104033Z">
+        <seg>Um das automatische Öffnen des Quelldateienfensters beim Laden eines Projekts zu verhindern, suchen Sie &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; und ersetzen Sie &lt;t1&gt;true&lt;/t1&gt; mit &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36974,6 +37246,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110713Z" creationid="Ragnar-F" creationdate="20221110T110713Z">
+        <seg>Sie können einen benutzerdefinierten Konfigurationsordner angeben, wenn Sie OmegaT über die Befehlszeile starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T143054Z" creationid="BVB" creationdate="20180826T104003Z">
@@ -38229,6 +38509,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>finder.xml</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110238Z" creationid="Ragnar-F" creationdate="20221110T110238Z">
+        <seg>finder.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130503T162236Z">
@@ -38984,6 +39272,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>logs/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104140Z" creationid="Ragnar-F" creationdate="20221110T104140Z">
+        <seg>logs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>long intervals for team projects hosted on external servers.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T075806Z" creationid="Ragnar-F" creationdate="20210110T180117Z">
@@ -39148,6 +39444,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T200721Z" creationid="Ragnar-F" creationdate="20210111T200721Z">
         <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.autotext</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110318Z" creationid="Ragnar-F" creationdate="20221110T110318Z">
+        <seg>omegat.autotext</seg>
       </tuv>
     </tu>
     <tu>
@@ -39656,6 +39960,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>repositories.properties</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110344Z" creationid="Ragnar-F" creationdate="20221110T110344Z">
+        <seg>repositories.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>repository type</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T083400Z" creationid="Ragnar-F" creationdate="20210111T083400Z">
@@ -39700,6 +40012,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T114010Z">
         <seg>Speichern Sie die Datei im ODT-Format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>script/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105122Z" creationid="Ragnar-F" creationdate="20221110T105122Z">
+        <seg>script/</seg>
       </tuv>
     </tu>
     <tu>
@@ -39756,6 +40076,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T144742Z" creationid="Ragnar-F" creationdate="20210111T144742Z">
         <seg>Wählen Sie eine Zeile aus oder bewegen Sie den Mauszeiger über eine Zeile, um in der letzten Spalte ein Popup-Menü-Symbol anzuzeigen, das Aktionen zum Beheben oder Ignorieren des Problems enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selection.txt</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105201Z" creationid="Ragnar-F" creationdate="20221110T105201Z">
+        <seg>selection.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -39824,10 +40152,26 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source.txt</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105354Z" creationid="Ragnar-F" creationdate="20221110T105354Z">
+        <seg>source.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>specify what parts of text should NOT be separated.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T221922Z">
         <seg>Geben Sie an, welche Teile des Textes NICHT getrennt werden sollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>spelling/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110605Z" creationid="Ragnar-F" creationdate="20221110T110605Z">
+        <seg>spelling/</seg>
       </tuv>
     </tu>
     <tu>
@@ -39860,6 +40204,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130503T162246Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target.txt</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105556Z" creationid="Ragnar-F" creationdate="20221110T105556Z">
+        <seg>target.txt</seg>
       </tuv>
     </tu>
     <tu>
