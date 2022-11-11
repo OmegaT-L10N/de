@@ -8959,8 +8959,8 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       <tuv lang="en">
         <seg>Count &amp;flagged text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T204921Z" creationid="Ragnar-F" creationdate="20221109T204921Z">
-        <seg>Gekennzeichnete Te&amp;xte und benutzerdefinierte Tags in den Statistiken einbeziehen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T093117Z" creationid="Ragnar-F" creationdate="20221109T204921Z">
+        <seg>Geschützte Te&amp;xte und benutzerdefinierte Tags in den Statistiken einbeziehen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9719,10 +9719,26 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T091648Z" creationid="Ragnar-F" creationdate="20221111T091648Z">
+        <seg>Benutzerdefinierte Tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom tags (regular expression):</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T204941Z" creationid="Ragnar-F" creationdate="20221109T204941Z">
         <seg>Benutzerdefinierte Tags (regulärer Ausdruck):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T092030Z" creationid="Ragnar-F" creationdate="20221111T092030Z">
+        <seg>Benutzerdefinierte Tags sind regex-definierte Tags, die von OmegaT wie normale Tags behandelt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13073,10 +13089,18 @@ Backup-Dateiendung '.recover'.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Flagged fragments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T092949Z" creationid="Ragnar-F" creationdate="20221111T092949Z">
+        <seg>Geschützte Textfragmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flagged text (regular expression):</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T205001Z" creationid="Ragnar-F" creationdate="20221109T205001Z">
-        <seg>Gekennzeichnete Texte (regulärer Ausdruck):</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T093124Z" creationid="Ragnar-F" creationdate="20221109T205001Z">
+        <seg>Geschützte Texte (regulärer Ausdruck):</seg>
       </tuv>
     </tu>
     <tu>
@@ -19556,6 +19580,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Many OmegaT functions rely on regular expressions or make them available as an option:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T085636Z" creationid="Ragnar-F" creationdate="20221111T085636Z">
+        <seg>Viele OmegaT-Funktionen verwenden reguläre Ausdrücke oder stellen sie als Option zur Verfügung:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T103535Z" creationid="BVB" creationdate="20180826T191918Z">
@@ -22494,6 +22526,14 @@ installed on your system.</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T102933Z" creationid="Ragnar-F" creationdate="20210112T091331Z">
         <seg>OmegaT erfordert, dass die Java Runtime Environment (JRE) Version 1.8 oder
 höher auf Ihrem System installiert ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT searches include a &lt;l0/&gt; option that allows you to make extremely powerful searches across your files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T091332Z" creationid="Ragnar-F" creationdate="20221111T091332Z">
+        <seg>Die Suche in OmegaT bietet die Option &lt;l0/&gt;, mit der Sie Ihre Dateien mit hoher Effizienz durchsuchen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26099,8 +26139,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Represents one or more “word characters”, namely the letters of the alphabet, digits, and underscore symbols.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T084617Z" creationid="Ragnar-F" creationdate="20221111T084617Z">
-        <seg>Repräsentiert ein oder mehrere "Wortzeichen", sprich die Buchstaben des Alphabets, Ziffern und der Unterstrich.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T085204Z" creationid="Ragnar-F" creationdate="20221111T084617Z">
+        <seg>Repräsentiert ein oder mehr "Wortzeichen" (Buchstaben, Ziffern und der Unterstrich).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents zero or one horizontal whitespace character (this includes regular and non-breaking spaces as well as tabs, but not line break characters, which belong to the “vertical whitespace” category: \v.)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T085542Z" creationid="Ragnar-F" creationdate="20221111T085542Z">
+        <seg>Repräsentiert ein optionales horizontales Leerraumzeichen (dazu zählen reguläre und geschützte Leerzeichen sowie Tabulatorzeichen, aber keine Zeilenumbruchzeichen, die zur Kategorie "vertikaler Leerraum" gehören: \v.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27122,6 +27170,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de">
         <seg>Die Suche wurde unerwartet abgebrochen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T085709Z" creationid="Ragnar-F" creationdate="20221111T085709Z">
+        <seg>Suche</seg>
       </tuv>
     </tu>
     <tu>
@@ -32292,6 +32348,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same option in the &lt;l0/&gt; dialog allows you to apply regular expressions to both the search and replaced text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T091632Z" creationid="Ragnar-F" creationdate="20221111T091632Z">
+        <seg>Das Dialogfenster &lt;l0/&gt; besitzt dieselbe Option, mit der Sie reguläre Ausdrücke sowohl auf den gesuchten als auch auf den ersetzten Text anwenden können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The same spirit can be found within the OmegaT project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T114051Z" creationid="BVB" creationdate="20180826T202029Z">
@@ -36450,6 +36514,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual fragment definitions.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T094618Z" creationid="Ragnar-F" creationdate="20221111T094618Z">
+        <seg>Verwenden Sie das &lt;c0&gt;|&lt;/c0&gt;-Zeichen (OR), um mehrere Textfragmente voneinander zu trennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual tag definitions.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T092127Z" creationid="Ragnar-F" creationdate="20221111T092127Z">
+        <seg>Verwenden Sie das &lt;c0&gt;|&lt;/c0&gt;-Zeichen (OR), um einzelne Tag-Definitionen voneinander zu trennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T111425Z" creationid="Ragnar-F" creationdate="20210111T111425Z">
@@ -39157,6 +39237,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\h?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T084618Z" creationid="Ragnar-F" creationdate="20221111T084618Z">
+        <seg>\h?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\n</seg>
       </tuv>
       <tuv lang="de">
@@ -39305,6 +39393,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T152222Z">
         <seg>alle gefundenen Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>allow you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T094449Z" creationid="Ragnar-F" creationdate="20221111T094449Z">
+        <seg>ermöglichen es Ihnen, Zeichenketten zu definieren, die OmegaT standardmäßig rot markiert und zu Validierungszwecken als überschüssige Tags behandelt.</seg>
       </tuv>
     </tu>
     <tu>
