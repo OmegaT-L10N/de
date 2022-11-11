@@ -1872,6 +1872,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(?&lt;!q)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170302Z" creationid="Ragnar-F" creationdate="20221111T170302Z">
+        <seg>(?&lt;!q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(?&lt;=q)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170019Z" creationid="Ragnar-F" creationdate="20221111T170019Z">
+        <seg>(?&lt;=q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(?=u)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T155856Z" creationid="Ragnar-F" creationdate="20221111T155856Z">
@@ -2084,6 +2100,14 @@ java.exe.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T123718Z">
         <seg>von OmegaT findet man zum Beispiel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>,\h[\h(\w+\.\w+)\w,'ʼ"“”-]+[\.,]</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170853Z" creationid="Ragnar-F" creationdate="20221111T170853Z">
+        <seg>,\h[\h(\w+\.\w+)\w,'ʼ"“”-]+[\.,]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2782,6 +2806,14 @@ schubweise;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1969.7.20</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172613Z" creationid="Ragnar-F" creationdate="20221111T172613Z">
+        <seg>1969.7.20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T125532Z" creationid="Ragnar-F" creationdate="20221111T125532Z">
@@ -2808,6 +2840,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T111736Z" creationid="Ragnar-F" creationdate="20221109T111620Z">
         <seg>2) Erhöhen Sie den für OmegaT verfügbaren Arbeitsspeicher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2002/11/8</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172612Z" creationid="Ragnar-F" creationdate="20221111T172612Z">
+        <seg>2002/11/8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2022-10-31</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172614Z" creationid="Ragnar-F" creationdate="20221111T172614Z">
+        <seg>2022-10-31</seg>
       </tuv>
     </tu>
     <tu>
@@ -4388,10 +4436,26 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character preceded by the letter “q”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170114Z" creationid="Ragnar-F" creationdate="20221111T170114Z">
+        <seg>Ein Zeichen, das den Buchstaben "q" davor hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character that is &lt;e0&gt;Not&lt;/e0&gt; followed by the letter “u”.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T160511Z" creationid="Ragnar-F" creationdate="20221111T160511Z">
         <seg>Ein Zeichen, das &lt;e0&gt;nicht&lt;/e0&gt; den Buchstaben "u" dahinter hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; preceded by the letter “q”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170325Z" creationid="Ragnar-F" creationdate="20221111T170325Z">
+        <seg>Ein Zeichen, das &lt;e0&gt;nicht&lt;/e0&gt; den Buchstaben "q" davor hat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4448,6 +4512,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130528T130626Z">
         <seg>Eine Ziffer: [0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A few additional resources are presented below.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173838Z" creationid="Ragnar-F" creationdate="20221111T173838Z">
+        <seg>Nachfolgend sind einige zusätzliche Ressourcen aufgeführt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5804,6 +5876,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although OmegaT does not offer fancy colouring for your regular expressions, you can get a lot of practice by using the &lt;l0/&gt; window since OmegaT does colour the matching results.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173810Z" creationid="Ragnar-F" creationdate="20221111T173810Z">
+        <seg>Obwohl OmegaT keine ausgefallene Färbung für Ihre regulären Ausdrücke bereitstellt, können Sie durch Nutzung des Fensters &lt;l0/&gt; viel Übung bekommen, da OmegaT die passenden Ergebnisse einfärbt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T101641Z" creationid="BVB" creationdate="20180826T191634Z">
@@ -6068,6 +6148,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T222739Z" creationid="Ragnar-F" creationdate="20221109T222739Z">
         <seg>Eine Datei namens "{0}" existiert bereits an diesem Ort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An online regular expression matcher that lets you enter the text you want to search and the regular expressions you want to test.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T175449Z" creationid="Ragnar-F" creationdate="20221111T175449Z">
+        <seg>Ein RegEx-Online-Tool, das Ihnen erlaubt, den Text, der durchsucht werden soll, und die regulären Ausdrücke, die getestet werden sollen, einzutragen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12691,6 +12779,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Examples of regular expressions that use the above expressions</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170803Z" creationid="Ragnar-F" creationdate="20221111T170803Z">
+        <seg>RegEx-Beispiele, die die oben genannten Ausdrücke verwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T145524Z">
@@ -13537,6 +13633,78 @@ Backup-Dateiendung '.recover'.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find a period followed by an uppercase letter.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173034Z" creationid="Ragnar-F" creationdate="20221111T173034Z">
+        <seg>Einen Punkt gefolgt von einem Großbuchstaben finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find an email address.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173244Z" creationid="Ragnar-F" creationdate="20221111T173244Z">
+        <seg>Eine E-Mail-Adresse finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find clauses that start with a comma followed by a whitespace character, contain one or more words (including words in quotation marks, contractions, and filenames with a file extension), and end either with a comma or period.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T171854Z" creationid="Ragnar-F" creationdate="20221111T171854Z">
+        <seg>Nebensätze finden, die mit einem Komma gefolgt von einem Leerzeichen beginnen, ein oder mehrere Wörter enthalten (einschließlich Wörter in Anführungszeichen, Verschmelzungen und Dateinamen mit einer Dateiendung) und entweder mit einem Komma oder einem Punkt enden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find double words.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170852Z" creationid="Ragnar-F" creationdate="20221111T170852Z">
+        <seg>Wortwiederholungen finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find extra whitespace after the period at the end of a line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172023Z" creationid="Ragnar-F" creationdate="20221111T172023Z">
+        <seg>Überschüssige Leerräume nach dem Punkt am Ende einer Zeile finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find numerical dates in year, month, and day order with the month and day separated by a slash, period, or hyphen, such as:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172611Z" creationid="Ragnar-F" creationdate="20221111T172611Z">
+        <seg>Numerische Datumsangaben in der Reihenfolge Jahr, Monat und Tag finden, wobei Monat und Tag mit einem Schrägstrich, Punkt oder Bindestrich voneinander getrennt sind, wie z. B.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find words starting with a vowel that come after the article “a” rather than “an”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172423Z" creationid="Ragnar-F" creationdate="20221111T172109Z">
+        <seg>Wörter finden, die mit einem Vokal beginnen und den Artikel "a" statt "an" davor haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find words starting with consonant that come after “an” rather than “a”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172407Z" creationid="Ragnar-F" creationdate="20221111T172407Z">
+        <seg>Wörter finden, die mit einem Konsonanten beginnen und den Artikel "an" statt "a" davor haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find “is” as a whole word in a sentence, without matching “this”, “isn’t”, or even “Is”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173223Z" creationid="Ragnar-F" creationdate="20221111T173223Z">
+        <seg>"is" als ganzes Wort in einem Satz finden, ohne "this", "isn't" oder sogar "Is" einzubeziehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T123502Z">
@@ -13819,6 +13987,22 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;(?&lt;!q)u&lt;/l0&gt; matches the letter “u” if it does &lt;e1&gt;not&lt;/e1&gt; come after “q”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170444Z" creationid="Ragnar-F" creationdate="20221111T170444Z">
+        <seg>Zum Beispiel findet &lt;l0&gt;(?&lt;!q)u&lt;/l0&gt; den Buchstaben "u", wenn davor &lt;e1&gt;kein&lt;/e1&gt; "q" steht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l0&gt;(?&lt;=q)u&lt;/l0&gt; matches the letter “u” if it comes after “q”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170231Z" creationid="Ragnar-F" creationdate="20221111T170231Z">
+        <seg>Zum Beispiel findet &lt;l0&gt;(?&lt;=q)u&lt;/l0&gt; den Buchstaben "u", wenn davor ein "q" steht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T130049Z" creationid="Ragnar-F" creationdate="20210109T125705Z">
@@ -13831,6 +14015,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T150734Z" creationid="Ragnar-F" creationdate="20221111T150639Z">
         <seg>Zum Beispiel ist &lt;l0&gt;\d&lt;/l0&gt; die Kurzform für &lt;l1&gt;[0-9]&lt;/l1&gt;, womit eine beliebige Ziffer zwischen 0 und 9 gefunden werden kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l0&gt;q(?!u)&lt;/l0&gt; matches the letter “q” when it is &lt;e1&gt;not&lt;/e1&gt; followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T165926Z" creationid="Ragnar-F" creationdate="20221111T165926Z">
+        <seg>Zum Beispiel findet &lt;l0&gt;q(?!u)&lt;/l0&gt; den Buchstaben "q", wenn dahinter &lt;e1&gt;kein&lt;/e1&gt; "u" steht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16896,6 +17088,14 @@ folgt starten können:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to learn more about using regular expressions, the two following sites have proven very useful.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T174828Z" creationid="Ragnar-F" creationdate="20221111T174828Z">
+        <seg>Wenn Sie mehr über die Nutzung regulärer Ausdrücke erfahren möchten, könnten die beiden folgenden Seiten sehr nützlich sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T182415Z" creationid="Ragnar-F" creationdate="20210109T182004Z">
@@ -18661,10 +18861,34 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It therefore matches the “q” in “qigong” or “Iraq”, but &lt;e2&gt;not&lt;/e2&gt; the one in “equal” or “question”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170017Z" creationid="Ragnar-F" creationdate="20221111T170017Z">
+        <seg>Es findet also das "q" in "qigong" oder "Iraq", aber &lt;e2&gt;nicht&lt;/e2&gt; in "equal" oder "question".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It therefore matches the “q”in “equal” or “question”, but &lt;e1&gt;not&lt;/e1&gt; the one in “qigong” or “Iraq”.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T160310Z" creationid="Ragnar-F" creationdate="20221111T160310Z">
         <seg>Es findet also das "q" in "equal" oder "question", aber &lt;e1&gt;nicht&lt;/e1&gt; in "qigong" oder "Iraq".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “u” in “quick”, but not the one in “run”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170301Z" creationid="Ragnar-F" creationdate="20221111T170301Z">
+        <seg>Es findet also das "u" in "quick", aber nicht in "run".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “u” in “run”, but &lt;e2&gt;not&lt;/e2&gt; the one in “quick”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170539Z" creationid="Ragnar-F" creationdate="20221111T170539Z">
+        <seg>Es findet also das "u" in "run", aber &lt;e2&gt;nicht&lt;/e2&gt; in "quick".</seg>
       </tuv>
     </tu>
     <tu>
@@ -18683,6 +18907,14 @@ Konfigurationsordners zu erstellen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145727Z">
         <seg>Es war nicht möglich, die übersetzten Dokumente zu erstellen, weil einige Tags fehlen bzw. beschädigt sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will also find patterns such as “5136/36/71”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173014Z" creationid="Ragnar-F" creationdate="20221111T173005Z">
+        <seg>Er wird auch Muster wie "5136/36/71" finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18861,6 +19093,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T150454Z" creationid="Ragnar-F" creationdate="20210112T150454Z">
         <seg>Java Properties XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Regex documentation</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T174329Z" creationid="Ragnar-F" creationdate="20221111T174329Z">
+        <seg>Java-Regex-Dokumentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -21173,6 +21413,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More examples</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170546Z" creationid="Ragnar-F" creationdate="20221111T170546Z">
+        <seg>Weitere Beispiele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T153546Z" creationid="BVB" creationdate="20180826T105626Z">
@@ -22896,6 +23144,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not support either site in any way.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T175818Z" creationid="Ragnar-F" creationdate="20221111T175818Z">
+        <seg>OmegaT unterstützt keine der beiden Seiten in irgendeiner Weise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T114214Z" creationid="Ragnar-F" creationdate="20210113T114214Z">
@@ -23652,6 +23908,14 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T124114Z">
         <seg>Eines dieser Segmente ist das aktive Segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the most thorough regular expression tutorial and reference on the web.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T175554Z" creationid="Ragnar-F" creationdate="20221111T175554Z">
+        <seg>Eines der ausführlichsten Tutorials und Referenzen für reguläre Ausdrücke im Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25980,6 +26244,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Purpose</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170818Z" creationid="Ragnar-F" creationdate="20221111T170818Z">
+        <seg>Zweck</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Push failed.</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130428T150542Z">
@@ -26165,6 +26437,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T175334Z">
         <seg>Letzte Aktion wiederholen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>References</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173608Z" creationid="Ragnar-F" creationdate="20221111T173608Z">
+        <seg>Referenzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -31717,6 +31997,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Java technical reference is useful as a canonical reference.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T174320Z" creationid="Ragnar-F" creationdate="20221111T174320Z">
+        <seg>Die technische Java-Referenz ist nützlich als kanonische Referenz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The KMenuEditor appears.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T175611Z">
@@ -32713,6 +33001,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The flip side of the preceding example.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172124Z" creationid="Ragnar-F" creationdate="20221111T172124Z">
+        <seg>Die Kehrseite des vorherigen Beispiels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T104929Z" creationid="Ragnar-F" creationdate="20210111T104929Z">
@@ -33232,6 +33528,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143214Z">
         <seg>Die Nummern des Quelltextes und der Fuzzy Matches müssen exakt übereinstimmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The official reference for regular expressions used in Java.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T174400Z" creationid="Ragnar-F" creationdate="20221111T174400Z">
+        <seg>Die offizielle Referenz für in Java verwendete reguläre Ausdrücke.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35054,6 +35358,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This expression finds number and separator patterns matching possible dates, but does not validate them.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172939Z" creationid="Ragnar-F" creationdate="20221111T172939Z">
+        <seg>Dieser Ausdruck findet Zahlen- und Trennzeichenmuster, die eventuell Datumsangaben sein könnten, prüft sie aber nicht auf Richtigkeit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T150416Z" creationid="Michael Motzkus" creationdate="20180919T071043Z">
@@ -35638,10 +35950,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This section presents a few examples demonstrating how the various expressions described above can be combined to perform powerful searches in OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170713Z" creationid="Ragnar-F" creationdate="20221111T170713Z">
+        <seg>Dieser Abschnitt enthält einige Beispiele, die zeigen, wie die verschiedenen oben beschriebenen Ausdrücke kombiniert werden können, um die Suche in OmegaT zu optimieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This section presents various types of regular expression, ranging from the simple to the complex.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T140324Z" creationid="Ragnar-F" creationdate="20221111T140324Z">
         <seg>Dieser Abschnitt enthält verschiedene Arten von regulären Ausdrücken, die von einfach bis komplex reichen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This simple expression may not cover every possible valid email address format.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173359Z" creationid="Ragnar-F" creationdate="20221111T173359Z">
+        <seg>Dieser einfache Ausdruck findet vermutlich nicht alle möglichen gültigen E-Mail-Adressformate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38212,6 +38540,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Useful to find possible missing spaces between the period and the start of a new sentence</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173118Z" creationid="Ragnar-F" creationdate="20221111T173118Z">
+        <seg>Nützlich, um eventuell fehlende Leerzeichen zwischen dem Punkt und dem Beginn eines neuen Satzes zu finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User Manual...</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T135926Z">
@@ -40661,6 +40997,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[\w\.-]+@[\w\.-]+</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173225Z" creationid="Ragnar-F" creationdate="20221111T173225Z">
+        <seg>[\w\.-]+@[\w\.-]+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[^\n\r\t]</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T151945Z" creationid="Ragnar-F" creationdate="20221111T151945Z">
@@ -40877,6 +41221,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\d{4}([/\.-]\d{1,2}){2}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172426Z" creationid="Ragnar-F" creationdate="20221111T172426Z">
+        <seg>\d{4}([/\.-]\d{1,2}){2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\d{4}/\d{1,3}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T132705Z" creationid="Ragnar-F" creationdate="20221111T132705Z">
@@ -40897,6 +41249,30 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de">
         <seg>\f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+$</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T171856Z" creationid="Ragnar-F" creationdate="20221111T171856Z">
+        <seg>\h+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+a\h+[aeiou]</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172024Z" creationid="Ragnar-F" creationdate="20221111T172024Z">
+        <seg>\h+a\h+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+an\h+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172110Z" creationid="Ragnar-F" creationdate="20221111T172110Z">
+        <seg>\h+an\h+[^aeiou]</seg>
       </tuv>
     </tu>
     <tu>
@@ -42157,6 +42533,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://regex101.com</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T174829Z" creationid="Ragnar-F" creationdate="20221111T174829Z">
+        <seg>https://regex101.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
       <tuv lang="de" changeid="helmut" changedate="20130606T045045Z">
@@ -42273,6 +42657,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T072847Z" creationid="Michael Motzkus" creationdate="20180917T072847Z">
         <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.regular-expressions.info</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T175450Z" creationid="Ragnar-F" creationdate="20221111T175450Z">
+        <seg>https://www.regular-expressions.info</seg>
       </tuv>
     </tu>
     <tu>
