@@ -1856,6 +1856,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(?-i)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T142712Z" creationid="Ragnar-F" creationdate="20221111T142712Z">
+        <seg>(?-i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(?i)</seg>
       </tuv>
       <tuv lang="de">
@@ -7346,6 +7354,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Case</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141551Z" creationid="Ragnar-F" creationdate="20221111T141551Z">
+        <seg>Groß-/Kleinschreibung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Catalan</seg>
       </tuv>
       <tuv lang="de">
@@ -7518,6 +7534,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T224947Z" creationid="karsten" creationdate="20150919T172507Z">
         <seg>Zeichentabelle-Autovervollständiger-Optionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141108Z" creationid="Ragnar-F" creationdate="20221111T141108Z">
+        <seg>Zeichen</seg>
       </tuv>
     </tu>
     <tu>
@@ -8070,6 +8094,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T113039Z" creationid="Ragnar-F" creationdate="20210113T113039Z">
         <seg>Klasse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T143548Z" creationid="Ragnar-F" creationdate="20221111T143548Z">
+        <seg>Klassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Classes are defined by enclosing the desired characters in square brackets, and can be specified either by listing each individual character to include, or by specifying a range of characters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T144522Z" creationid="Ragnar-F" creationdate="20221111T144522Z">
+        <seg>Um eine Klasse zu definieren, umschließen Sie einzelne Zeichen und/oder Zeichenbereiche mit eckigen Klammern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10991,6 +11031,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doing so makes the entire search expression case sensitive.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T142032Z" creationid="Ragnar-F" creationdate="20221111T142032Z">
+        <seg>Dadurch wird die Groß- und Kleinschreibung des gesamten Suchbegriffs berücksichtigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T143323Z">
@@ -12648,6 +12696,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Expression</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141112Z" creationid="Ragnar-F" creationdate="20221111T141112Z">
+        <seg>Ausdruck</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T225139Z" creationid="Ragnar-F" creationdate="20221109T225139Z">
@@ -13711,6 +13767,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T130420Z" creationid="Ragnar-F" creationdate="20221110T130420Z">
         <seg>Zum Beispiel können Sie das Muster &lt;l0&gt;read*&lt;/l0&gt; verwenden, um den Textfilter Readme-Dateien (&lt;l1&gt;readme, read.me&lt;/l1&gt; oder &lt;l2&gt;readme.txt&lt;/l2&gt;) erfassen und bearbeiten zu lassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you could create the &lt;l0&gt;[£€$]&lt;/l0&gt; class to find any of those three currency symbols in the text, or [1-3] to find the number 1, 2 or 3.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T144644Z" creationid="Ragnar-F" creationdate="20221111T144644Z">
+        <seg>Sie können zum Beispiel die Klasse &lt;l0&gt;[£€$]&lt;/l0&gt; erstellen, um eines der drei Währungssymbole im Text zu finden, oder [1-3], um die Zahlen 1, 2 oder 3 zu finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15028,6 +15092,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T121656Z">
         <seg>Wenn Sie allerdings einen Tag fehlerhaft eingeben, kann es vorkommen, dass die übersetzten Dateien nicht mehr geöffnet werden können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, regular expressions also provide special modifiers to specify case sensitivity within the expression:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T142621Z" creationid="Ragnar-F" creationdate="20221111T142621Z">
+        <seg>Allerdings bieten reguläre Ausdrücke spezielle Modifikatoren, um die Groß-/Kleinschreibung-Sensitivität innerhalb des Ausdrucks umzustellen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16990,6 +17062,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T122445Z" creationid="karsten" creationdate="20150919T122445Z">
         <seg>In Kommentaren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In contrast, Regular expressions are case sensitive by default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T142107Z" creationid="Ragnar-F" creationdate="20221111T142107Z">
+        <seg>Reguläre Ausdrücke hingegen sind standardmäßig Groß-/Kleinschreibung-sensitiv.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19700,6 +19780,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lots of expressions</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T140301Z" creationid="Ragnar-F" creationdate="20221111T140301Z">
+        <seg>Weitere Ausdrücke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lucene (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130624T120558Z">
@@ -19872,6 +19960,22 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T113041Z" creationid="Ragnar-F" creationdate="20210111T113041Z">
         <seg>Vergewissern Sie sich, dass Ihre &lt;v2&gt;PATH&lt;/v2&gt;-Einstellungen korrekt sind und dass die &lt;f3&gt;.jar&lt;/f3&gt;-Dateien ordnungsgemäß mit einem Java-Launcher verknüpft sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T142710Z" creationid="Ragnar-F" creationdate="20221111T142710Z">
+        <seg>Macht den Teil des Ausdrucks rechts vom Modifikator nicht-Groß-/Kleinschreibung-sensitiv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Makes the part of the expression to the right of the modifier case sensitive.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T142724Z" creationid="Ragnar-F" creationdate="20221111T142724Z">
+        <seg>Macht den Teil des Ausdrucks rechts vom Modifikator Groß-/Kleinschreibung-sensitiv.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20200,6 +20304,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T224046Z" creationid="Ragnar-F" creationdate="20221109T224046Z">
         <seg>Master-Passwort:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141147Z" creationid="Ragnar-F" creationdate="20221111T141147Z">
+        <seg>Übereinstimmung</seg>
       </tuv>
     </tu>
     <tu>
@@ -20817,6 +20929,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210120T093223Z" creationid="Michael Motzkus" creationdate="20190129T091101Z">
         <seg>Moses-Server-URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most characters match themselves.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141227Z" creationid="Ragnar-F" creationdate="20221111T141227Z">
+        <seg>Die meisten Zeichen finden sich selbst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23850,6 +23970,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ordinary OmegaT searches are case insensitive by default: they match both uppercase and lowercase characters, unless you choose to enable the &lt;l0&gt;case sensitive option&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141958Z" creationid="Ragnar-F" creationdate="20221111T141958Z">
+        <seg>Die normale OmegaT-Suche ist standardmäßig nicht Groß-/Kleinschreibung-sensitiv: Sie findet sowohl Groß- als auch Kleinbuchstaben, es sei denn, Sie haben die Option &lt;l0&gt;Groß-/Kleinschreibung beachten&lt;/l0&gt; aktiviert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Origin</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T222659Z" creationid="Ragnar-F" creationdate="20221109T222659Z">
@@ -25961,6 +26089,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions allow you to create sets of characters—known as &lt;e0&gt;classes&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T143737Z" creationid="Ragnar-F" creationdate="20221111T143737Z">
+        <seg>Reguläre Ausdrücke ermöglichen es Ihnen, Zeichensätze zu erstellen, die als &lt;e0&gt;Klassen&lt;/e0&gt; bezeichnet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions are used to find text (including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T101244Z" creationid="Ragnar-F" creationdate="20221111T101244Z">
@@ -26077,6 +26213,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130701T164942Z">
         <seg>Verbleibend:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remember that most &lt;e0&gt;alphabetic&lt;/e0&gt; characters preceded by a &lt;l1&gt;\&lt;/l1&gt; turn into an expression that represents &lt;e2&gt;not the character itself, but its associated special meaning&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T140531Z" creationid="Ragnar-F" creationdate="20221111T140531Z">
+        <seg>Denken Sie daran, dass die meisten &lt;e0&gt;alphabetischen&lt;/e0&gt; Zeichen, denen ein &lt;l1&gt;\&lt;/l1&gt; vorangestellt ist, zu einem Ausdruck werden, der &lt;e2&gt;nicht das Zeichen selbst, sondern die damit verbundene besondere Bedeutung&lt;/e2&gt; repräsentiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27662,6 +27806,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Searches will match any of the characters in the set.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T143800Z" creationid="Ragnar-F" creationdate="20221111T143800Z">
+        <seg>Bei der Suche werden alle Zeichen des Satzes berücksichtigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T135306Z">
@@ -28974,6 +29126,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple expressions</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T140540Z" creationid="Ragnar-F" creationdate="20221111T140540Z">
+        <seg>Einfache Ausdrücke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple installation and running instructions.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T093924Z" creationid="Ragnar-F" creationdate="20221110T093924Z">
@@ -30180,6 +30340,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T093050Z" creationid="Ragnar-F" creationdate="20210113T093050Z">
         <seg>Unterstützte Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Suppose, for example, that you want to find instances of “OmegaT” and “omegat”, but not “OMEGAT”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T142955Z" creationid="Ragnar-F" creationdate="20221111T142955Z">
+        <seg>Nehmen wir zum Beispiel an, dass Sie Instanzen von "OmegaT" und "omegat" finden wollen, aber nicht "OMEGAT".</seg>
       </tuv>
     </tu>
     <tu>
@@ -31661,6 +31829,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The carriage-return character, not the letter “r”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141412Z" creationid="Ragnar-F" creationdate="20221111T141412Z">
+        <seg>Das Wagenrücklaufzeichen (CR), nicht der Buchstabe "r".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The certificate is signed by OmegaT's lead developer.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T105954Z" creationid="Ragnar-F" creationdate="20210324T105954Z">
@@ -31721,6 +31897,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T123031Z">
         <seg>Das Zeichen x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character “x” itself</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141212Z" creationid="Ragnar-F" creationdate="20221111T141212Z">
+        <seg>Das "x"-Zeichen selbst</seg>
       </tuv>
     </tu>
     <tu>
@@ -32716,6 +32900,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The newline (line feed) character, not the letter “n”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141349Z" creationid="Ragnar-F" creationdate="20221111T141349Z">
+        <seg>Das Zeilenvorschubzeichen (LF), nicht der Buchstabe "n".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T110721Z">
@@ -33276,6 +33468,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The simplest regular expression simply consist of a single character, or combination of a &lt;l0&gt;\&lt;/l0&gt; and a character constituting a unit with a single meaning.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141105Z" creationid="Ragnar-F" creationdate="20221111T141105Z">
+        <seg>Der einfachste reguläre Ausdruck besteht aus einem einzigen Zeichen, oder aus einem &lt;l0&gt;\&lt;/l0&gt; und einem Zeichen, die zusammen eine besondere Bedeutung haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T095455Z" creationid="Ragnar-F" creationdate="20210111T095455Z">
@@ -33480,6 +33680,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111246Z">
         <seg>Das Tabulatorzeichen ('\u0009')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tab character, not the letter “t”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141308Z" creationid="Ragnar-F" creationdate="20221111T141308Z">
+        <seg>Das Tabulatorzeichen, nicht der Buchstabe "t".</seg>
       </tuv>
     </tu>
     <tu>
@@ -34814,6 +35022,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This means that a regular expression search for “OmegaT”, for example, will not match “omegat”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T142344Z" creationid="Ragnar-F" creationdate="20221111T142344Z">
+        <seg>Das bedeutet, dass eine RegEx-Suche nach "OmegaT" zum Beispiel "omegat" nicht finden wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T134648Z">
@@ -35058,6 +35274,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T131458Z" creationid="Ragnar-F" creationdate="20210112T131458Z">
         <seg>Dieses Skript ist für OmegaT 3.6 und höher vorgesehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section presents various types of regular expression, ranging from the simple to the complex.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T140324Z" creationid="Ragnar-F" creationdate="20221111T140324Z">
+        <seg>Dieser Abschnitt enthält verschiedene Arten von regulären Ausdrücken, die von einfach bis komplex reichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39528,6 +39752,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can do so with the following expression: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, which represents a case insensitive “o” followed by a case sensitive “mega”, followed by a case insensitive “t”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T143544Z" creationid="Ragnar-F" creationdate="20221111T143544Z">
+        <seg>Sie können das mit folgendem Ausdruck tun: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt; (ein groß- oder kleingeschriebenes "o", gefolgt von einem kleingeschriebenen "mega", gefolgt von einem groß- oder kleingeschriebenen "t").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T132604Z">
@@ -39690,6 +39922,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T143054Z" creationid="BVB" creationdate="20180826T104003Z">
         <seg>Notfalls können Sie immer noch &lt;a0&gt;veraltete Versionen von OmegaT&lt;/a0&gt; beziehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can take advantage of this to apply a fine degree of control to case sensitivity in searches.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T142935Z" creationid="Ragnar-F" creationdate="20221111T142935Z">
+        <seg>Sie können das nutzen, um die Groß-/Kleinschreibung-Sensitivität bei der Suche präzise einzustellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42780,6 +43020,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T180103Z" creationid="Ragnar-F" creationdate="20210110T180103Z">
         <seg>kurze Intervalle (Minimum: 10 Sekunden) für synchronisierte Projekte auf einem internen Server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>similarly, &lt;l0&gt;\R&lt;/l0&gt; is any line break character.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141501Z" creationid="Ragnar-F" creationdate="20221111T141501Z">
+        <seg>&lt;l0&gt;\R&lt;/l0&gt; hingegen findet ein beliebiges Zeilenumbruchzeichen.</seg>
       </tuv>
     </tu>
     <tu>
