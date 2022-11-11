@@ -5540,6 +5540,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although seen as daunting and complex, even the simplest regular expressions (often abbreviated &lt;e0&gt;regex&lt;/e0&gt; or &lt;e1&gt;regexp&lt;/e1&gt;) are extremely useful, not only in OmegaT, but in many other applications you might use on a day-to-day basis, with some variations.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T083615Z" creationid="Ragnar-F" creationdate="20221111T080800Z">
+        <seg>Obwohl reguläre Ausdrücke (oft mit &lt;e0&gt;regex&lt;/e0&gt; oder &lt;e1&gt;regexp&lt;/e1&gt; abgekürzt) als abschreckend und komplex angesehen werden, sind die einfachsten unter ihnen äußerst nützlich - sowohl in OmegaT als auch in vielen anderen Applikationen, die Sie tagtäglich verwenden, mit einigen Variationen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="de">
@@ -5844,6 +5852,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T113359Z">
         <seg>Beliebiger Buchstabe außer Großbuchstabe (Subtraktion)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any single digit from 0 to 9.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T084417Z" creationid="Ragnar-F" creationdate="20221111T084417Z">
+        <seg>Eine beliebige Ziffer von 0 bis 9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14544,6 +14560,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here are a few examples.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T084349Z" creationid="Ragnar-F" creationdate="20221111T084349Z">
+        <seg>Hier einige Beispiele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T181238Z" creationid="Ragnar-F" creationdate="20210110T181238Z">
@@ -16163,6 +16187,14 @@ unter anderem über Java Web Start installieren.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T132756Z">
         <seg>Wenn Sie Hilfe zu irgendeinem Aspekt von OmegaT benötigen, können Sie gerne der &lt;u1&gt;OmegaT-Benutzergruppe&lt;/u1&gt; beitreten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need help for a specific case, you can also ask questions in the various support channels.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T083852Z" creationid="Ragnar-F" creationdate="20221111T083852Z">
+        <seg>Wenn Sie Hilfe benötigen, können Sie Ihre Fragen auch in den verschiedenen Support-Kanälen stellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22930,6 +22962,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the fundamentals most useful to translators are covered.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T081221Z" creationid="Ragnar-F" creationdate="20221111T081221Z">
+        <seg>Es werden nur die Grundlagen behandelt, die für Übersetzer am nützlichsten sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T144524Z" creationid="Ragnar-F" creationdate="20221110T144524Z">
@@ -25425,6 +25465,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions use a combination of letters, digits, and symbols (collectively known as &lt;e0&gt;characters&lt;/e0&gt;) to define an &lt;e1&gt;expression&lt;/e1&gt; that represents a specific text pattern.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T084339Z" creationid="Ragnar-F" creationdate="20221111T084339Z">
+        <seg>Reguläre Ausdrücke verwenden eine Kombination aus Buchstaben, Ziffern und Symbolen (zusammenfassend als &lt;e0&gt;Zeichen&lt;/e0&gt; bezeichnet), um einen &lt;e1&gt;Ausdruck&lt;/e1&gt; zu definieren, der ein bestimmtes Textmuster repräsentiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20131008T185850Z">
@@ -26045,6 +26093,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T144402Z" creationid="Michael Motzkus" creationdate="20181022T144402Z">
         <seg>Repository {0} unbekannt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents one or more “word characters”, namely the letters of the alphabet, digits, and underscore symbols.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T084617Z" creationid="Ragnar-F" creationdate="20221111T084617Z">
+        <seg>Repräsentiert ein oder mehrere "Wortzeichen", sprich die Buchstaben des Alphabets, Ziffern und der Unterstrich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30429,6 +30485,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this guide.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T083800Z" creationid="Ragnar-F" creationdate="20221111T083800Z">
+        <seg>Der Abschnitt &lt;l0/&gt; am Ende dieser Seite bietet einige Anregungen für fortgeschrittene oder komplexe Anwendungsfälle, die über den Rahmen dieses Leitfadens hinausgehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T123749Z" creationid="Ragnar-F" creationdate="20210111T123749Z">
@@ -33218,6 +33282,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T094025Z">
         <seg>Dies ist eine Ausnahmeregel, daher muss das Kontrollkästchen deaktiviert sein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This appendix is intended for users interested in exploring a powerful way to boost their productivity.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T080635Z" creationid="Ragnar-F" creationdate="20221111T075711Z">
+        <seg>Diese Seite richtet sich an Benutzer, die ihre Produktivität erheblich steigern möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38837,6 +38909,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[0-9]</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T084350Z" creationid="Ragnar-F" creationdate="20221111T084350Z">
+        <seg>[0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[Fuzzy]</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T173435Z">
@@ -39177,6 +39257,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de">
         <seg>\w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\w+</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T084418Z" creationid="Ragnar-F" creationdate="20221111T084418Z">
+        <seg>\w+</seg>
       </tuv>
     </tu>
     <tu>
