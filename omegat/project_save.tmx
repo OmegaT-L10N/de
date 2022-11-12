@@ -3798,6 +3798,46 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; or &lt;k1&gt;Control&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110553Z" creationid="Ragnar-F" creationdate="20221112T110355Z">
+        <seg>&lt;k0&gt;Strg&lt;/k0&gt; oder &lt;k1&gt;Ctrl&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; or &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110603Z" creationid="Ragnar-F" creationdate="20221112T110559Z">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; oder &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;command&lt;/k0&gt; or &lt;k1&gt;⌘&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110533Z" creationid="Ragnar-F" creationdate="20221112T110527Z">
+        <seg>&lt;k0&gt;command&lt;/k0&gt; oder &lt;k1&gt;⌘&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; or &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110902Z" creationid="Ragnar-F" creationdate="20221112T110738Z">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; oder &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;shift&lt;/k0&gt; or &lt;k1&gt;⇧&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110353Z" creationid="Ragnar-F" creationdate="20221112T110350Z">
+        <seg>&lt;k0&gt;shift&lt;/k0&gt; oder &lt;k1&gt;⇧&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130513T082940Z">
@@ -4420,6 +4460,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110556Z" creationid="Ragnar-F" creationdate="20221112T110556Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character followed by a “u”.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T155906Z" creationid="Ragnar-F" creationdate="20221111T155906Z">
@@ -4768,6 +4816,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T215623Z" creationid="Michael Motzkus" creationdate="20180921T080636Z">
         <seg>Eine Suche kann auf 1000 Elemente begrenzt sein. Wenn Sie also nach einem geläufigen Begriff suchen, zeigt der Editor nicht mehr alle gefundenen Elemente an, sondern nur noch 1000 Elemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A shortcut based workflow</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111722Z" creationid="Ragnar-F" creationdate="20221112T111722Z">
+        <seg>Ein auf Tastaturkurzbefehlen basierender Workflow</seg>
       </tuv>
     </tu>
     <tu>
@@ -5872,6 +5928,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T202637Z">
         <seg>Überprüfen Sie auch, ob der Zielsprachencode Ihres Projekts mit den bereits installierten Wörterbüchern im Setup-Fenster übereinstimmt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alt</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110554Z" creationid="Ragnar-F" creationdate="20221112T110554Z">
+        <seg>Alt</seg>
       </tuv>
     </tu>
     <tu>
@@ -7486,6 +7550,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T131719Z" creationid="Ragnar-F" creationdate="20210111T132052Z">
         <seg>In Windows ist &lt;f1&gt;omegat.project&lt;/f1&gt; standardmäßig gesperrt; das heißt, dass Sie eine Fehlermeldung erhalten, wenn Sie versuchen, ein Projekt zu öffnen, das bereits mit einer anderen Instanz von OmegaT geöffnet ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110525Z" creationid="Ragnar-F" creationdate="20221112T110525Z">
+        <seg>C</seg>
       </tuv>
     </tu>
     <tu>
@@ -9873,6 +9945,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181107T103802Z" creationid="Michael Motzkus" creationdate="20181107T103802Z">
         <seg>Plattformübergreifend ohne JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110736Z" creationid="Ragnar-F" creationdate="20221112T110736Z">
+        <seg>Ctrl</seg>
       </tuv>
     </tu>
     <tu>
@@ -15624,6 +15704,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How we avoid listing multiple notations:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111332Z" creationid="Ragnar-F" creationdate="20221112T111332Z">
+        <seg>So vermeiden wir die Auflistung mehrerer Schreibweisen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How-To</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T140611Z" creationid="Michael Motzkus" creationdate="20181107T102350Z">
@@ -18003,6 +18091,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111511Z" creationid="Ragnar-F" creationdate="20221112T111511Z">
+        <seg>In dieser Dokumentation: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T124303Z">
@@ -18497,6 +18593,14 @@ Bedienungsanleitung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T083222Z" creationid="Ragnar-F" creationdate="20210111T083222Z">
         <seg>Stattdessen kopieren die Übersetzer die Dateien selbst oder fügen Zuordnungen hinzu, um Dateien von anderen Standorten zu synchronisieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, they are called from the menus or, for the majority of functions, from their assigned default shortcut.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T104539Z" creationid="Ragnar-F" creationdate="20221112T104539Z">
+        <seg>Stattdessen werden sie über die Menüs oder, bei den meisten Funktionen, über ihre Tastaturkurzbefehle aufgerufen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19473,6 +19577,14 @@ Computer und das Programm selbst installiert.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key identifier</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110012Z" creationid="Ragnar-F" creationdate="20221112T110012Z">
+        <seg>Tastendarstellung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130428T094135Z">
@@ -19930,6 +20042,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Learning the most frequent shortcuts will not take long once you start working with OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T104651Z" creationid="Ragnar-F" creationdate="20221112T104651Z">
+        <seg>Es wird nicht lange dauern, bis Sie die häufig verwendeten Tastaturkurzbefehle gelernt haben, sobald Sie mit OmegaT arbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Leave the segment empty</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T120752Z">
@@ -20168,6 +20288,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181107T103721Z" creationid="Michael Motzkus" creationdate="20181107T103721Z">
         <seg>Linux mit JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux/Windows</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110004Z" creationid="Ragnar-F" creationdate="20221112T110004Z">
+        <seg>Linux/Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -21505,6 +21633,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110738Z" creationid="Ragnar-F" creationdate="20221110T110738Z">
         <seg>Geänderte Einstellungen werden im Konfigurationsordner gespeichert, der vom Projekt verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifier key identifiers</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T105940Z" creationid="Ragnar-F" creationdate="20221112T105940Z">
+        <seg>Modifikatortastendarstellung</seg>
       </tuv>
     </tu>
     <tu>
@@ -23240,6 +23376,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Shortcuts</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T103515Z" creationid="Ragnar-F" creationdate="20221112T103506Z">
+        <seg>OmegaT-Tastaturkurzbefehle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT User Interface Language</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T201757Z">
@@ -23778,6 +23922,14 @@ höher auf Ihrem System installiert ist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT runs on any platform that runs a Java Runtime Environment (Windows, macOS, and Linux being the most mainstream).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T104905Z" creationid="Ragnar-F" creationdate="20221112T104905Z">
+        <seg>OmegaT läuft auf jeder Plattform, auf der eine Java-Laufzeitumgebung installiert ist (Windows, macOS und Linux sind die gängigsten).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT searches include a &lt;l0/&gt; option that allows you to make extremely powerful searches across your files.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T091332Z" creationid="Ragnar-F" creationdate="20221111T091332Z">
@@ -24016,6 +24168,14 @@ enthalten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111415Z" creationid="Ragnar-F" creationdate="20221112T111333Z">
+        <seg>Bei Windows und Linux: &lt;k0&gt;&lt;k1&gt;Strg&lt;/k1&gt;&lt;k2&gt;Umschalt&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T121242Z">
@@ -24028,6 +24188,14 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T121643Z" creationid="Ragnar-F" creationdate="20210111T121631Z">
         <seg>In macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111425Z" creationid="Ragnar-F" creationdate="20221112T111417Z">
+        <seg>Bei macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25275,6 +25443,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181107T102336Z" creationid="Michael Motzkus" creationdate="20181107T102336Z">
         <seg>Philosophie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Picture a technical translator tasked with translating an updated version of a manual from a previous job.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T113046Z" creationid="Ragnar-F" creationdate="20221112T112834Z">
+        <seg>Stellen Sie sich eine technische Übersetzerin vor, die mit der Übersetzung einer aktualisierten Version einer bereits damals übersetzten Bedienungsanleitung beauftragt ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26625,6 +26801,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rather than tediously scroll down until she finds the first segment to translate, the translator quickly presses &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to &lt;l3&gt;jump straight into the action&lt;/l3&gt; and start translating.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T113235Z" creationid="Ragnar-F" creationdate="20221112T113235Z">
+        <seg>Anstatt mühsam nach unten zu scrollen, bis sie das erste zu übersetzende Segment gefunden hat, drückt die Übersetzerin schnell &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;, um &lt;l3&gt;sofort loszulegen&lt;/l3&gt; und mit der Übersetzung zu beginnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Re&amp;place All</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150918T201409Z" creationid="karsten" creationdate="20150918T201409Z">
@@ -27037,6 +27221,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130429T060758Z">
         <seg>Merken Sie sich, wo Sie das Projekt erstellt haben, denn Sie müssen später dorthin zurückkehren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remembering the main editing and navigation shortcuts (or &lt;l0&gt;modifying them to suit your needs&lt;/l0&gt;) can help you streamline your work.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T112032Z" creationid="Ragnar-F" creationdate="20221112T112024Z">
+        <seg>Merken Sie sich die wichtigsten Tastaturkurzbefehle für die Bearbeitung und Navigation (oder &lt;l0&gt;passen Sie sie an Ihre Bedürfnisse an&lt;/l0&gt;), um Ihre Arbeitsweise zu optimieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28013,6 +28205,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de">
         <seg>Russisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110503Z" creationid="Ragnar-F" creationdate="20221112T110021Z">
+        <seg>S</seg>
       </tuv>
     </tu>
     <tu>
@@ -29822,6 +30022,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shift</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110016Z" creationid="Ragnar-F" creationdate="20221112T110016Z">
+        <seg>Umschalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift+F3</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T072934Z">
@@ -30034,6 +30242,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T093913Z" creationid="BVB" creationdate="20180826T184822Z">
         <seg>Gleichzeitige Verwendung von mehreren Translation Memories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since the first few pages have not changed, the translator is greeted with a screenful of already translated segments from the previous job's memory upon opening the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T113108Z" creationid="Ragnar-F" creationdate="20221112T113009Z">
+        <seg>Da sich die ersten Seiten nicht geändert haben, wird die Übersetzerin beim Öffnen des Projekts mit einem Bildschirm voller bereits übersetzter Segmente aus dem Translation Memory des vorherigen Auftrags begrüßt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32101,6 +32317,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e0&gt;Key identifiers&lt;/e0&gt; above enable us to avoid listing multiple notations for every shortcut.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111308Z" creationid="Ragnar-F" creationdate="20221112T111246Z">
+        <seg>Dank der oben genannten &lt;e0&gt;Tastendarstellungen&lt;/e0&gt; müssen wir nicht für jeden Tastaturkurzbefehl mehrere Schreibweisen auflisten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T124636Z">
@@ -32159,8 +32383,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this guide.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T083800Z" creationid="Ragnar-F" creationdate="20221111T083800Z">
-        <seg>Der Abschnitt &lt;l0/&gt; am Ende dieser Seite bietet einige Anregungen für fortgeschrittene oder komplexe Anwendungsfälle, die über den Rahmen dieses Leitfadens hinausgehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111542Z" creationid="Ragnar-F" creationdate="20221111T083800Z">
+        <seg>Der Abschnitt &lt;l0/&gt; am Ende dieser Seite bietet einige Anregungen für fortgeschrittene oder komplexe Anwendungsfälle, die über den Rahmen dieser Dokumentation hinausgehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32401,6 +32625,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T204715Z" creationid="BVB" creationdate="20180823T071729Z">
         <seg>Die Liste der OmegaT-Entwickler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT interface generally does not rely on buttons to give access to its functions.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T104006Z" creationid="Ragnar-F" creationdate="20221112T104006Z">
+        <seg>Die Benutzeroberfläche von OmegaT verwendet in der Regel keine Schaltflächen für den Zugriff auf die Funktionen von OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33756,6 +33988,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The modifier keys that form the shortcuts vary slightly depending between platforms.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T105043Z" creationid="Ragnar-F" creationdate="20221112T105043Z">
+        <seg>Die Modifikatortasten der Tastaturkurzbefehle unterscheiden sich leicht je nach Plattform.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most current info about OmegaT can be found at:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T101234Z" creationid="Ragnar-F" creationdate="20210112T101234Z">
@@ -34400,6 +34640,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160652Z">
         <seg>Die Syntax zum Definieren von Tastaturkurzbefehlen ist &lt;c0&gt;&lt;MenüpunktID&gt;=&lt;Tastaturkurzbefehl&gt;&lt;/c0&gt;, wobei &lt;e1&gt;&lt;MenüpunktID&gt;&lt;/e1&gt; ein Identifikator aus den unteren Tabellen und &lt;e2&gt;&lt;Tastaturkurzbefehl&gt;&lt;/e2&gt; eine vom Benutzer festgelegte Tastenkombination ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcuts are indicated next to each menu item, allowing them to learn new shortcuts gradually as you use the software.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T104733Z" creationid="Ragnar-F" creationdate="20221112T104733Z">
+        <seg>Die Tastaturkurzbefehle werden neben jedem Menüpunkt angezeigt, so dass Sie nach und nach neue Tastaturkurzbefehle lernen können, während Sie die Software verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35784,8 +36032,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This guide only describes a small subset of letters that take on a special meaning.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T105103Z" creationid="Ragnar-F" creationdate="20221111T105103Z">
-        <seg>Dieser Leitfaden behandelt nur einen kleinen Teil der Buchstaben, die eine besondere Bedeutung haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111549Z" creationid="Ragnar-F" creationdate="20221111T105103Z">
+        <seg>Diese Dokumentation behandelt nur einen kleinen Teil der Buchstaben, die eine besondere Bedeutung haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35842,6 +36090,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T220923Z" creationid="Ragnar-F" creationdate="20210112T220923Z">
         <seg>Dies ist eine gültige Projektdatei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is best illustrated with an example:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T112045Z" creationid="Ragnar-F" creationdate="20221112T112045Z">
+        <seg>Dies lässt sich am besten anhand eines Beispiels veranschaulichen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36884,6 +37140,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T121914Z" creationid="Michael Motzkus" creationdate="20180920T095351Z">
         <seg>Um dies möglich zu machen (da Suchen und Ersetzen eigentlich nur im Speicher operiert), kopiert OmegaT den Quelltext des Segments in dessen Zieltext, bevor die Ersetzung stattfindet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make reading easier we have adopted the following convention for modifier keys:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T105725Z" creationid="Ragnar-F" creationdate="20221112T105725Z">
+        <seg>Um das Lesen zu erleichtern, werden wir die Modifikatortasten in dieser Dokumentation wie folgt darstellen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39134,6 +39398,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using shortcuts to streamline the translation process</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T112352Z" creationid="Ragnar-F" creationdate="20221112T112352Z">
+        <seg>Tastaturkurzbefehle verwenden, um die Übersetzung zu beschleunigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using spellchecker</seg>
       </tuv>
       <tuv lang="de" changeid="helmut" changedate="20130530T162215Z">
@@ -40796,6 +41068,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T133044Z" creationid="Michael Motzkus" creationdate="20190129T084235Z">
         <seg>Sie können Glossareinträge mit "Glossareintrag erstellen" im Menü "Bearbeiten" erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can customize the majority of the shortcuts in OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T104750Z" creationid="Ragnar-F" creationdate="20221112T104750Z">
+        <seg>Sie können die meisten Tastaturkurzbefehle in OmegaT individuell anpassen.</seg>
       </tuv>
     </tu>
     <tu>
