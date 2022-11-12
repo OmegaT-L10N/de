@@ -3406,6 +3406,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Paragraph segmentation&lt;/e0&gt; works well with more literary or creative texts, as well as, more generally, with documents for which translation memory matches are not so important.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T084807Z" creationid="Ragnar-F" creationdate="20221112T084807Z">
+        <seg>&lt;e0&gt;Absatzsegmentierung&lt;/e0&gt; funktioniert gut bei eher literarischen oder kreativen Texten sowie generell bei Dokumenten, bei denen Translation-Memory-Matches nicht so wichtig sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T134149Z">
@@ -3466,6 +3474,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T190456Z" creationid="Michael Motzkus" creationdate="20180921T072024Z">
         <seg>&lt;e0&gt;Suche in Projekt:&lt;/e0&gt; Aktivieren Sie &lt;e1&gt;Speicher&lt;/e1&gt;, um das Translation Memory des Projekts (die Datei project_save.tmx) in die Suche einzubeziehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Sentence segmentation&lt;/e0&gt; relies on a number of rules (called &lt;e1&gt;segmentation rules&lt;/e1&gt;) that define what constitutes a sentence in the source language.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T084930Z" creationid="Ragnar-F" creationdate="20221112T084930Z">
+        <seg>&lt;e0&gt;Satzsegmentierung&lt;/e0&gt; stützt sich auf eine Reihe von Regeln (sogenannte &lt;e1&gt;Segmentierungsregeln&lt;/e1&gt;), die definieren, was einen Satz in der Quellsprache ausmacht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5392,6 +5408,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T092502Z">
         <seg>Danach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After dividing the source file into structural units, OmegaT further divides those units into segments.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T091432Z" creationid="Ragnar-F" creationdate="20221112T091432Z">
+        <seg>Nach der Unterteilung der Quelldatei in Struktureinheiten wird OmegaT diese Blöcke weiter in Sätze segmentieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13521,6 +13545,14 @@ Backup-Dateiendung '.recover'.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085636Z" creationid="Ragnar-F" creationdate="20221112T085636Z">
+        <seg>Dateien, die Formatierungen enthalten (ODF-, HTML- oder andere Dokumente), werden bei Block-Elementen (Paragraph-Tags) geteilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T140926Z" creationid="BVB" creationdate="20180826T101203Z">
@@ -14119,6 +14151,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T223042Z">
         <seg>Zum Beispiel sollten die Regeln für kanadisches Französisch (FR-CA) höher als die Regeln für Französisch (FR.*) und höher als die Standardregeln (.*) gesetzt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not at all.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085408Z" creationid="Ragnar-F" creationdate="20221112T085408Z">
+        <seg>Textdateien können zum Beispiel an Zeilenumbrüchen, Leerzeilen oder überhaupt nicht segmentiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17678,6 +17718,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T221939Z">
         <seg>Trotz des Punktes sollte &lt;e0&gt;"Mrs. Dalloway"&lt;/e0&gt; nicht in zwei Segmente aufgeteilt werden, also sollte eine Ausnahmeregel für Mrs (und für Mr, für Dr, für prof usw.), gefolgt von einem Punkt, festgelegt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T084605Z" creationid="Ragnar-F" creationdate="20221112T084605Z">
+        <seg>In diesem Fall wird jeder Absatz (wie vom Format des Originaldokuments vorgegeben) als ein einzelnes Segment angezeigt, wodurch es dem Übersetzer freisteht, die Sätze innerhalb des Segments nach Belieben neu anzuordnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22360,6 +22408,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not using &lt;e0&gt;sentence&lt;/e0&gt; segmentation on a document is equivalent to using &lt;e1&gt;paragraph&lt;/e1&gt; segmentation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T084220Z" creationid="Ragnar-F" creationdate="20221112T084128Z">
+        <seg>Der Verzicht auf die &lt;e0&gt;Satzsegmentierung&lt;/e0&gt; in einem Dokument führt dazu, dass automatisch die &lt;e1&gt;Absatzsegmentierung&lt;/e1&gt; verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notarized vs Unsigned</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T105537Z" creationid="Ragnar-F" creationdate="20210324T102936Z">
@@ -23172,6 +23228,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T230244Z">
         <seg>OmegaT exportiert TMX-Dateien der Version 1.4 (sowohl Level 1 als auch Level 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT first parses the text for paragraph-level segmentation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085237Z" creationid="Ragnar-F" creationdate="20221112T085237Z">
+        <seg>OmegaT segmentiert den Text zunächst auf Absatzebene.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24839,6 +24903,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph or sentence?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T080746Z" creationid="Ragnar-F" creationdate="20221112T080746Z">
+        <seg>Absatz oder Satz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T193052Z">
@@ -24851,6 +24923,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T112539Z">
         <seg>Absatzsegmentierung bei Zeilenumbrüchen, Leerzeilen oder nie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph-Level segmentation</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085213Z" creationid="Ragnar-F" creationdate="20221112T085213Z">
+        <seg>Segmentierung auf Absatzebene</seg>
       </tuv>
     </tu>
     <tu>
@@ -28822,6 +28902,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments are by default &lt;e0&gt;paragraphs&lt;/e0&gt; defined by the file format itself.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T082543Z" creationid="Ragnar-F" creationdate="20221112T082543Z">
+        <seg>Segmente sind standardmäßig &lt;e0&gt;Absätze&lt;/e0&gt;, die vom Dateiformat selbst vorgegeben werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments with notes</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T083521Z" creationid="karsten" creationdate="20150919T220028Z">
@@ -29190,6 +29278,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the type of segmentation by clicking &lt;l0/&gt; in the &lt;l1/&gt; menu and checking or unchecking the &lt;l2/&gt; box.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T082333Z" creationid="Ragnar-F" creationdate="20221112T082333Z">
+        <seg>Um die Art der Segmentierung auszuwählen, klicken Sie im Menü &lt;l1/&gt; auf &lt;l0/&gt; und setzen oder entfernen Sie das Häkchen bei &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T190023Z">
@@ -29290,6 +29386,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T103635Z">
         <seg>Satzsegmentierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085711Z" creationid="Ragnar-F" creationdate="20221112T085711Z">
+        <seg>Segmentierung auf Satzebene</seg>
       </tuv>
     </tu>
     <tu>
@@ -35926,6 +36030,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This process relies only on the structure of the source file to produce segments.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085320Z" creationid="Ragnar-F" creationdate="20221112T085320Z">
+        <seg>Dieser Vorgang verlässt sich nur auf die Struktur der Quelldatei, um Segmente zu erzeugen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T182507Z">
@@ -35970,6 +36082,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T140324Z" creationid="Ragnar-F" creationdate="20221111T140324Z">
         <seg>Dieser Abschnitt enthält verschiedene Arten von regulären Ausdrücken, die von einfach bis komplex reichen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This setting works well with documents where repetitions or similar sentences are common, such as technical or legal documents.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085018Z" creationid="Ragnar-F" creationdate="20221112T085018Z">
+        <seg>Diese Einstellung eignet sich gut für Dokumente, in denen Wiederholungen oder ähnliche Sätze häufig vorkommen, wie z. B. in technischen oder juristischen Dokumenten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36962,6 +37082,14 @@ Skript mit ./linux-install.sh aus.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T174057Z">
         <seg>TransTips → TransTips aktivieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate "paragraphs".</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085657Z" creationid="Ragnar-F" creationdate="20221112T085657Z">
+        <seg>Übersetzbare Objektattribute in XHTML- oder HTML-Dateien können als separate "Absätze" extrahiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39244,6 +39372,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T101924Z" creationid="Michael Motzkus" creationdate="20190129T083541Z">
         <seg>Wenn die Anzahl der Segmente einer einzelnen Datei diese Zahl übersteigt, werden beim Scrollen nach und nach weitere Segmente geladen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a translation is entered, the segment containing the source text is stored with its translation in the project memory, and subsequently used to match other source segments in the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T082031Z" creationid="Ragnar-F" creationdate="20221112T082031Z">
+        <seg>Nachdem eine Übersetzung eingegeben wurde, wird das Segment, das den Quelltext enthält, zusammen mit seiner Übersetzung in den Translation Memory des Projekts gespeichert und anschließend mit anderen Quellsegmenten im Projekt abgeglichen.</seg>
       </tuv>
     </tu>
     <tu>
