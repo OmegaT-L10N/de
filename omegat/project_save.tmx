@@ -5414,8 +5414,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>After dividing the source file into structural units, OmegaT further divides those units into segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T091432Z" creationid="Ragnar-F" creationdate="20221112T091432Z">
-        <seg>Nach der Unterteilung der Quelldatei in Struktureinheiten wird OmegaT diese Blöcke weiter in Sätze segmentieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T091530Z" creationid="Ragnar-F" creationdate="20221112T091432Z">
+        <seg>Nach der Unterteilung der Quelldatei in Struktureinheiten teilt OmegaT diese Einheiten weiter in Segmente auf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11815,6 +11815,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each time the cursor moves to the next character, OmegaT checks whether:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T095241Z" creationid="Ragnar-F" creationdate="20221112T095241Z">
+        <seg>Jedes Mal, wenn sich der Textcursor zum nächsten Zeichen bewegt, prüft OmegaT, ob:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each translated user guide comes in a different language folder.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T094134Z" creationid="Ragnar-F" creationdate="20221110T094134Z">
@@ -16446,6 +16454,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T123554Z" creationid="Ragnar-F" creationdate="20210111T123450Z">
         <seg>Wenn die Benutzersprache des Systems nicht abgerufen werden kann, verwendet &lt;a7&gt;OmegaT&lt;/a7&gt; standardmäßig Englisch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending of what the rule defined.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T100655Z" creationid="Ragnar-F" creationdate="20221112T100655Z">
+        <seg>Wenn die Stelle beide Regeln erfüllt, wird der Text an dieser Stelle je nach Regeltyp geteilt oder nicht geteilt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40862,6 +40878,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can visualize segmentation as the process of moving the cursor along the text, one character at a time, and looking for the position where a break will occur, or where a break will not be allowed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T095202Z" creationid="Ragnar-F" creationdate="20221112T095202Z">
+        <seg>Sie können sich die Segmentierung auch so vorstellen, dass der Textcursor zeichenweise entlang des Textes bewegt wird und nach der Stelle gesucht wird, an der ein Umbruch erfolgen oder nicht erfolgen soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You currently have {1}.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T123045Z" creationid="Ragnar-F" creationdate="20210113T123045Z">
@@ -41665,6 +41689,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de">
         <seg>und viele, viele andere sehr hilfsbereite Personen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and the text after the location corresponds to the associated &lt;e0&gt;After&lt;/e0&gt; rule.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T095747Z" creationid="Ragnar-F" creationdate="20221112T095747Z">
+        <seg>und der Text nach der Stelle der zugehörigen &lt;e0&gt;Danach&lt;/e0&gt;-Regel entspricht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44230,6 +44262,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T183359Z" creationid="Ragnar-F" creationdate="20210111T183359Z">
         <seg>Der Prozentsatz, der ohne Stammformreduktion und ohne Berücksichtigung von Tags und Zahlen berechnet wird (generell etwas niedriger)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the text before the location corresponds to a &lt;e0&gt;Before&lt;/e0&gt; rule,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T095424Z" creationid="Ragnar-F" creationdate="20221112T095424Z">
+        <seg>der Text vor der Stelle einer &lt;e0&gt;Davor&lt;/e0&gt;-Regel entspricht,</seg>
       </tuv>
     </tu>
     <tu>
