@@ -116,6 +116,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># editMultipleAlternate=</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140336Z" creationid="Ragnar-F" creationdate="20221112T140336Z">
+        <seg># editMultipleAlternate=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#Files</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T102853Z" creationid="karsten" creationdate="20150919T102853Z">
@@ -1912,6 +1920,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Call Last Search Window)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142500Z" creationid="Ragnar-F" creationdate="20221112T142500Z">
+        <seg>(Letztes Suchfenster aufrufen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
@@ -3152,8 +3168,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;c0&gt;event&lt;/c0&gt; can be: &lt;o1&gt;typed&lt;/o1&gt;, &lt;o2&gt;pressed&lt;/o2&gt;, &lt;o3&gt;released&lt;/o3&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T133153Z" creationid="Ragnar-F" creationdate="20221112T133153Z">
-        <seg>&lt;c0&gt;event&lt;/c0&gt; can be: &lt;o1&gt;typed&lt;/o1&gt;, &lt;o2&gt;pressed&lt;/o2&gt;, &lt;o3&gt;released&lt;/o3&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T133336Z" creationid="Ragnar-F" creationdate="20221112T133153Z">
+        <seg>&lt;c0&gt;Ereignis&lt;/c0&gt; folgendes sein kann: &lt;o1&gt;typed&lt;/o1&gt; (eingegeben), &lt;o2&gt;pressed&lt;/o2&gt; (gedrückt), &lt;o3&gt;released&lt;/o3&gt; (losgelassen)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4580,6 +4596,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the applicaton.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T134037Z" creationid="Ragnar-F" creationdate="20221112T134037Z">
+        <seg>Eine Kommentarzeile beginnt mit einem &lt;c0&gt;#&lt;/c0&gt;; alles, was danach kommt, wird von der Applikation ignoriert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T130305Z" creationid="BVB" creationdate="20180827T070059Z">
@@ -5188,10 +5212,26 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents/Exported TMs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142017Z" creationid="Ragnar-F" creationdate="20221112T142017Z">
+        <seg>Auf Projektinhalte zugreifen → Exportierte TMs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents/Glossaries</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T174127Z" creationid="BVB" creationdate="20180829T065203Z">
         <seg>Auf Projektinhalte zugreifen → Glossare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Project Folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141942Z" creationid="Ragnar-F" creationdate="20221112T141942Z">
+        <seg>Auf Projektinhalte zugreifen → Projektordner</seg>
       </tuv>
     </tu>
     <tu>
@@ -5212,10 +5252,26 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents/TMs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141958Z" creationid="Ragnar-F" creationdate="20221112T141958Z">
+        <seg>Auf Projektinhalte zugreifen → TMs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents/Target Files</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T174130Z" creationid="BVB" creationdate="20180829T065251Z">
         <seg>Auf Projektinhalte zugreifen → Zieldateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Writable Glossary</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142033Z" creationid="Ragnar-F" creationdate="20221112T142033Z">
+        <seg>Auf Projektinhalte zugreifen → Beschreibbares Glossar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5308,10 +5364,26 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Files...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141707Z" creationid="Ragnar-F" creationdate="20221112T141707Z">
+        <seg>Dateien hinzufügen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T084306Z" creationid="Michael Motzkus" creationdate="20190129T084306Z">
         <seg>Glossareintrag hinzufügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141754Z" creationid="Ragnar-F" creationdate="20221112T141754Z">
+        <seg>MediaWiki-Seite hinzufügen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5448,6 +5520,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T173940Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; zu Ihren Menüs (KDE) oder Panels (Gnome) hinzufügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding a shortcut</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135406Z" creationid="Ragnar-F" creationdate="20221112T135406Z">
+        <seg>Tastenkürzel hinzufügen</seg>
       </tuv>
     </tu>
     <tu>
@@ -5636,6 +5716,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Agressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143018Z" creationid="Ragnar-F" creationdate="20221112T143018Z">
+        <seg>Aggressiver Font-Fallback</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alex Buloichik</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180822T160120Z" creationid="BVB" creationdate="20180822T160120Z">
@@ -5656,6 +5744,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T094347Z" creationid="Ragnar-F" creationdate="20210113T094347Z">
         <seg>Ausrichten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align File...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143145Z" creationid="Ragnar-F" creationdate="20221112T143145Z">
+        <seg>Dateien ausrichten...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6637,6 +6733,14 @@ korrektem Verhalten kommen kann.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140251Z" creationid="Ragnar-F" creationdate="20221112T140251Z">
+        <seg>Wie in der &lt;l0&gt;Bearbeiten-Menü-Tabelle&lt;/l0&gt; unten gezeigt, lautet der Funktionscode für die Funktion &lt;g1&gt;Alternative Übersetzung erstellen&lt;/g1&gt; &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T225955Z">
@@ -7025,6 +7129,14 @@ korrektem Verhalten kommen kann.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T161022Z">
         <seg>Durchsuche&amp;n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back in History</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142856Z" creationid="Ragnar-F" creationdate="20221112T142856Z">
+        <seg>Zurück im Verlauf</seg>
       </tuv>
     </tu>
     <tu>
@@ -9765,6 +9877,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Current Translated File</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141824Z" creationid="Ragnar-F" creationdate="20221112T141824Z">
+        <seg>Aktuell übersetzte Datei erstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T161947Z">
@@ -9809,6 +9929,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T141710Z">
         <seg>Übersetzte Dokumente erstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Translated Files</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141815Z" creationid="Ragnar-F" creationdate="20221112T141815Z">
+        <seg>Übersetzte Dateien erstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -10675,6 +10803,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T055334Z" creationid="BVB" creationdate="20180829T055334Z">
         <seg>Diplomarbeit von Sébastien Guillardeau, 2010 (auf Deutsch).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete the &lt;c0&gt;#&lt;/c0&gt; at the beginning of the line so OmegaT will recognize the shortcut, and add &lt;o1&gt;alt X&lt;/o1&gt; after the &lt;c2&gt;=&lt;/c2&gt; sign at the end of the line:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140506Z" creationid="Ragnar-F" creationdate="20221112T140506Z">
+        <seg>Löschen Sie das &lt;c0&gt;#&lt;/c0&gt; am Anfang der Zeile, damit OmegaT das Tastenkürzel erkennt, und fügen Sie &lt;o1&gt;alt X&lt;/o1&gt; nach dem &lt;c2&gt;=&lt;/c2&gt;-Zeichen am Ende der Zeile ein:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12296,6 +12432,14 @@ Your help page not found</seg>
         <seg>Emptiness of soul
 Forever aching blackness
 Your help page not found</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Empty lines and comments can be added to organize the list and make it easier to read.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T133826Z" creationid="Ragnar-F" creationdate="20221112T133826Z">
+        <seg>Es können Leerzeilen und Kommentare hinzugefügt werden, um die Liste zu ordnen und besser lesbar zu machen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14691,6 +14835,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Forward in History</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142851Z" creationid="Ragnar-F" creationdate="20221112T142851Z">
+        <seg>Vor im Verlauf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="de">
@@ -14847,6 +14999,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T153028Z" creationid="Ragnar-F" creationdate="20221109T153028Z">
         <seg>Zeichen unabhängig von voller/halber Breite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Function code</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141552Z" creationid="Ragnar-F" creationdate="20221112T141552Z">
+        <seg>Funktioncode</seg>
       </tuv>
     </tu>
     <tu>
@@ -15880,6 +16040,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, you may want to remove the &lt;k0&gt;S&lt;/k0&gt; key from the shortcut to make it only &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (or &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; on macOS) to match the shortcut you use in other applications.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135230Z" creationid="Ragnar-F" creationdate="20221112T135230Z">
+        <seg>Möglicherweise möchten Sie jedoch die &lt;k0&gt;S&lt;/k0&gt;-Taste aus dem Tastenkürzel entfernen, so dass es nur noch &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (bzw. &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; unter macOS) ist, damit es dem Tastenkürzel entspricht, das Sie in anderen Applikationen verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130527T084022Z">
@@ -16185,6 +16353,14 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104937Z" creationid="Ragnar-F" creationdate="20221110T104937Z">
         <seg>Wenn OmegaT sich fehlerhaft verhält, fügen Sie diese Datei oder den entsprechenden Teil davon Ihrem Fehlerbericht bei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT is open, you will have to restart it for your changes to take effect.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140725Z" creationid="Ragnar-F" creationdate="20221112T140725Z">
+        <seg>Wenn OmegaT offen ist, müssen Sie es neu starten, damit Ihre Änderungen wirksam werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17496,6 +17672,14 @@ folgt starten können:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your language pair calls for the frequent use &lt;l0&gt;alternative translations&lt;/l0&gt;, you may want to assign a shortcut to that function since it does not have one by default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135755Z" creationid="Ragnar-F" creationdate="20221112T135755Z">
+        <seg>Wenn Ihr Sprachpaar die häufige Nutzung &lt;l0&gt;alternativer Übersetzungen&lt;/l0&gt; erfordert, sollten Sie dieser Funktion ein Tastenkürzel zuweisen, da sie standardmäßig keines hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T225026Z" creationid="Ragnar-F" creationdate="20210109T225026Z">
@@ -18488,6 +18672,46 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T141030Z" creationid="Michael Motzkus" creationdate="20181018T141030Z">
         <seg>Unicode-Steuerzeichen einfügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Unicode Control Character/Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142716Z" creationid="Ragnar-F" creationdate="20221112T142716Z">
+        <seg>Unicode-Steuerzeichen einfügen → Links-nach-Rechts-Einbettung (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Unicode Control Character/Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142647Z" creationid="Ragnar-F" creationdate="20221112T142647Z">
+        <seg>Unicode-Steuerzeichen einfügen → Links-nach-Rechts-Markierung (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Unicode Control Character/Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142757Z" creationid="Ragnar-F" creationdate="20221112T142757Z">
+        <seg>Unicode-Steuerzeichen einfügen → Einbettung beenden (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Unicode Control Character/Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142736Z" creationid="Ragnar-F" creationdate="20221112T142736Z">
+        <seg>Unicode-Steuerzeichen einfügen → Rechts-nach-Links-Einbettung (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Unicode Control Character/Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142704Z" creationid="Ragnar-F" creationdate="20221112T142704Z">
+        <seg>Unicode-Steuerzeichen einfügen → Rechts-nach-Links-Markierung (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20444,6 +20668,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lists of functions and codes</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141230Z" creationid="Ragnar-F" creationdate="20221112T141230Z">
+        <seg>Listen von Funktionen und Codes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T122914Z" creationid="BVB" creationdate="20180826T204101Z">
@@ -21124,6 +21356,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142933Z" creationid="Ragnar-F" creationdate="20221112T142933Z">
+        <seg>Geschützte Leerzeichen hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Non-Unique Se&amp;gments</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210120T091102Z" creationid="Michael Motzkus" creationdate="20190129T090339Z">
@@ -21144,6 +21384,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T155103Z">
         <seg>Geschützte Leerzeichen hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142925Z" creationid="Ragnar-F" creationdate="20221112T142925Z">
+        <seg>Absatzbegrenzungen hervorheben</seg>
       </tuv>
     </tu>
     <tu>
@@ -21484,6 +21732,22 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu functions</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141248Z" creationid="Ragnar-F" creationdate="20221112T141248Z">
+        <seg>Menüfunktionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu item</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141544Z" creationid="Ragnar-F" creationdate="20221112T141544Z">
+        <seg>Menüpunkt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T193712Z" creationid="Ragnar-F" creationdate="20210111T193712Z">
@@ -21709,6 +21973,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modification Info/Display for Current Segment</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143054Z" creationid="Ragnar-F" creationdate="20221112T143054Z">
+        <seg>Modifikationsinfo → Nur für aktives Segment anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification info</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T081117Z" creationid="karsten" creationdate="20150919T220434Z">
@@ -21785,6 +22057,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T180124Z" creationid="Ragnar-F" creationdate="20221109T180124Z">
         <seg>Kodierungsdeklaration ändern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifying a shortcut</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T134659Z" creationid="Ragnar-F" creationdate="20221112T134659Z">
+        <seg>Tastenkürzel ändern</seg>
       </tuv>
     </tu>
     <tu>
@@ -24722,6 +25002,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Recent...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141656Z" creationid="Ragnar-F" creationdate="20221112T141656Z">
+        <seg>Zuletzt verwendete öffnen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Source File</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T180019Z" creationid="Michael Motzkus" creationdate="20181022T141036Z">
@@ -24782,6 +25070,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T140231Z" creationid="Ragnar-F" creationdate="20210111T140231Z">
         <seg>Öffnen Sie die im &lt;f1&gt;/target&lt;/f1&gt;-Ordner erzeugte &lt;f0&gt;.UTF8&lt;/f0&gt;-Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to &lt;l1&gt;your configuration folder&lt;/l1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140003Z" creationid="Ragnar-F" creationdate="20221112T140003Z">
+        <seg>Öffnen Sie die &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;-Datei, die Sie in &lt;l1&gt;Ihren Konfigurationsordner&lt;/l1&gt; kopiert haben, in einem Texteditor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28033,6 +28329,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142040Z" creationid="Ragnar-F" creationdate="20221112T142040Z">
+        <seg>Neu starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210915T124903Z" creationid="Ragnar-F" creationdate="20210915T120444Z">
@@ -28537,6 +28841,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save and close the file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140515Z" creationid="Ragnar-F" creationdate="20221112T140515Z">
+        <seg>Speichern und schließen Sie die Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T110145Z" creationid="Michael Motzkus" creationdate="20190129T083446Z">
@@ -28573,6 +28885,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T185455Z" creationid="Ragnar-F" creationdate="20221109T185455Z">
         <seg>Herkunf&amp;t der Übersetzung speichern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save the file after you have finished making your changes.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140703Z" creationid="Ragnar-F" creationdate="20221112T140703Z">
+        <seg>Speichern Sie die Datei, nachdem Sie Ihre Änderungen vorgenommen haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28978,6 +29298,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T135306Z">
         <seg>Sucht man zum Beispiel nach &lt;l0&gt;open file&lt;/l0&gt;, werden alle Vorkommen der Zeichenkette &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt; gefunden, aber nicht &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; oder &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching for that code in the file will bring you to the following line:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140335Z" creationid="Ragnar-F" creationdate="20221112T140335Z">
+        <seg>Wenn Sie nach diesem Code in der Datei suchen, werden Sie die folgende Zeile finden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30214,6 +30542,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcuts in parentheses are alternatives for the same function found in the &lt;f1&gt;EditorShortcuts.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141536Z" creationid="Ragnar-F" creationdate="20221112T141536Z">
+        <seg>Die Tastenkürzel in Klammern sind Alternativen für dieselbe Funktion aus der &lt;f1&gt;EditorShortcuts.properties&lt;/f1&gt;-Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T175216Z" creationid="Ragnar-F" creationdate="20210111T175216Z">
@@ -30810,6 +31146,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T103428Z">
         <seg>Ordner für Quelldateien:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141835Z" creationid="Ragnar-F" creationdate="20221112T141835Z">
+        <seg>Quelldateien...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32565,6 +32909,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143218Z" creationid="Ragnar-F" creationdate="20221112T143218Z">
+        <seg>Der Menüpunkt &lt;l0/&gt; im Menü &lt;l1/&gt; ist eine Ausnahme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this guide.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111542Z" creationid="Ragnar-F" creationdate="20221111T083800Z">
@@ -33449,6 +33801,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default shortcut for &lt;l0&gt;closing a project&lt;/l0&gt; is defined as:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T134807Z" creationid="Ragnar-F" creationdate="20221112T134737Z">
+        <seg>Das reguläre Tastenkürzel zum &lt;l0&gt;Schließen eines Projekts&lt;/l0&gt; ist definiert als:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T112211Z" creationid="Ragnar-F" creationdate="20210324T112211Z">
@@ -33557,6 +33917,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132055Z" creationid="Ragnar-F" creationdate="20221110T132055Z">
         <seg>Mit dem Dialogfenster &lt;g0&gt;Muster bearbeiten&lt;/g0&gt; kann es auf einfache Weise geändert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The easiest way to modify the shortcuts is to download copies of the default files to &lt;l0&gt;your configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T134553Z" creationid="Ragnar-F" creationdate="20221112T134553Z">
+        <seg>Am einfachsten können Sie die Tastenkürzel ändern, indem Sie, wie oben erwähnt, die Standarddateien herunterladen und in &lt;l0&gt;Ihren Konfigurationsordner&lt;/l0&gt; kopieren und dort die gewünschten Änderungen vornehmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33865,6 +34233,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The functions that can be modified in the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file, along with their default values, are presented in the tables below.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141406Z" creationid="Ragnar-F" creationdate="20221112T141406Z">
+        <seg>In den folgenden Tabellen finden Sie die Funktionen, die in der &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;-Datei geändert werden können, sowie ihre Standardwerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111727Z">
@@ -34032,6 +34408,14 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode ist (optional).</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T102655Z" creationid="Ragnar-F" creationdate="20210112T090924Z">
         <seg>Die Lizenz jeder Bibliothek ist
 in /lib/licenses/Licenses.txt aufgeführt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The line is currently a comment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140409Z" creationid="Ragnar-F" creationdate="20221112T140409Z">
+        <seg>Aktuell ist die Zeile ein Kommentar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34268,10 +34652,26 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The next section presents tables with the function codes and corresponding default shortcut for each menu or editor function in OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141132Z" creationid="Ragnar-F" creationdate="20221112T141132Z">
+        <seg>Der nächste Abschnitt enthält Tabellen mit den Funktionscodes und den zugehörigen regulären Tastenkürzeln für jedes Menü oder jede Editorfunktion in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T110721Z">
         <seg>Springt zum nächsten Segment, das mit einer Notiz versehen ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next time you start OmegaT, you your new shortcut should be active and displayed next to the name of the function in the menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140637Z" creationid="Ragnar-F" creationdate="20221112T140637Z">
+        <seg>Wenn Sie OmegaT das nächste Mal starten, sollte Ihr neues Tastenkürzel aktiv sein und neben dem Namen der Funktion im Menü angezeigt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35076,6 +35476,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The steps below demonstrate how to assign the &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; shortcut to the &lt;l3/&gt; function.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135831Z" creationid="Ragnar-F" creationdate="20221112T135831Z">
+        <seg>Die folgenden Schritte zeigen, wie Sie das Tastenkürzel &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; der Funktion &lt;l3/&gt; zuweisen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T152933Z" creationid="Ragnar-F" creationdate="20210111T152933Z">
@@ -35808,6 +36216,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T132917Z">
         <seg>Sie werden bei der Übersetzung als separate Segmente angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will now be availabe in OmegaT as long as there are no conflicts with other functions or with system-wide shortcuts.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140848Z" creationid="Ragnar-F" creationdate="20221112T140848Z">
+        <seg>Sie stehen nun in OmegaT zur Verfügung, sofern es keine Konflikte mit anderen Funktionen oder mit systemweiten Tastenkürzeln gibt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37292,6 +37708,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142222Z">
         <seg>Um das Schnellstart-Handbuch in der gewünschten Sprache anzuzeigen, müssen Sie sowohl die Sprache als auch das Land angeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do so, modify the &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135313Z" creationid="Ragnar-F" creationdate="20221112T135313Z">
+        <seg>Um das zu tun, ändern Sie die &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;-Datei wie folgt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40649,6 +41073,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows/Linux</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141554Z" creationid="Ragnar-F" creationdate="20221112T141554Z">
+        <seg>Windows/Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With 64-bit JRE</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T134807Z" creationid="BVB" creationdate="20180826T095605Z">
@@ -41550,6 +41982,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can refer to the &lt;l1&gt;table presenting the different editor shortcuts&lt;/l1&gt; to find the values for keys such as &lt;l2&gt;Home&lt;/l2&gt;, &lt;l3&gt;Page Up&lt;/l3&gt;, or the arrow keys.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T133748Z" creationid="Ragnar-F" creationdate="20221112T133748Z">
+        <seg>In der &lt;l1&gt;Editor-Tastenkürzel-Tabelle&lt;/l1&gt; finden Sie die Werte für Tasten wie &lt;l2&gt;Pos1&lt;/l2&gt;, &lt;l3&gt;Bild↑&lt;/l3&gt; oder die Pfeiltasten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T154600Z">
@@ -41837,6 +42277,14 @@ Methoden zu lösen:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T155918Z" creationid="BVB" creationdate="20180826T111634Z">
         <seg>Die Dokumente und Translation Memories verbleiben auf Ihrem Computer, außerdem hat das OmegaT-Projekt keinen Zugriff auf Ihre Arbeit oder persönlichen Daten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your modified or added shortcuts should now be displayed next to the menu items you have changed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140808Z" creationid="Ragnar-F" creationdate="20221112T140808Z">
+        <seg>Ihre geänderten oder hinzugefügten Tastenkürzel sollten nun neben den von Ihnen geänderten Menüpunkten angezeigt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42461,6 +42909,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and &lt;c0&gt;key&lt;/c0&gt; can be any key available on your keyboard.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T133431Z" creationid="Ragnar-F" creationdate="20221112T133431Z">
+        <seg>und &lt;c0&gt;Taste&lt;/c0&gt; eine beliebige Taste auf Ihrer Tastatur sein kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T155848Z" creationid="Ragnar-F" creationdate="20210110T155848Z">
@@ -42669,6 +43125,326 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl 1</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142520Z" creationid="Ragnar-F" creationdate="20221112T142520Z">
+        <seg>ctrl 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 2</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142524Z" creationid="Ragnar-F" creationdate="20221112T142524Z">
+        <seg>ctrl 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 3</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142527Z" creationid="Ragnar-F" creationdate="20221112T142527Z">
+        <seg>ctrl 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 4</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142530Z" creationid="Ragnar-F" creationdate="20221112T142530Z">
+        <seg>ctrl 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 5</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142533Z" creationid="Ragnar-F" creationdate="20221112T142533Z">
+        <seg>ctrl 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl D</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141815Z" creationid="Ragnar-F" creationdate="20221112T141815Z">
+        <seg>ctrl D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl DOWN</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142517Z" creationid="Ragnar-F" creationdate="20221112T142517Z">
+        <seg>ctrl DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl E</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141829Z" creationid="Ragnar-F" creationdate="20221112T141829Z">
+        <seg>ctrl E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl F</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142120Z" creationid="Ragnar-F" creationdate="20221112T142120Z">
+        <seg>ctrl F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl I</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142057Z" creationid="Ragnar-F" creationdate="20221112T142057Z">
+        <seg>ctrl I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl J</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142823Z" creationid="Ragnar-F" creationdate="20221112T142823Z">
+        <seg>ctrl J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl K</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142506Z" creationid="Ragnar-F" creationdate="20221112T142506Z">
+        <seg>ctrl K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl L</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141836Z" creationid="Ragnar-F" creationdate="20221112T141836Z">
+        <seg>ctrl L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl M</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142101Z" creationid="Ragnar-F" creationdate="20221112T142101Z">
+        <seg>ctrl M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl N (Enter/Tab)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142814Z" creationid="Ragnar-F" creationdate="20221112T142814Z">
+        <seg>ctrl N (Enter/Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl O</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141614Z" creationid="Ragnar-F" creationdate="20221112T141614Z">
+        <seg>ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl P (ctrl Enter / ctrl Tab)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142817Z" creationid="Ragnar-F" creationdate="20221112T142817Z">
+        <seg>ctrl P (ctrl Enter / ctrl Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl Q</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142044Z" creationid="Ragnar-F" creationdate="20221112T142044Z">
+        <seg>ctrl Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl R</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142055Z" creationid="Ragnar-F" creationdate="20221112T142055Z">
+        <seg>ctrl R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl S</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141759Z" creationid="Ragnar-F" creationdate="20221112T141759Z">
+        <seg>ctrl S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl T</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142112Z" creationid="Ragnar-F" creationdate="20221112T142112Z">
+        <seg>ctrl T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl U</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142805Z" creationid="Ragnar-F" creationdate="20221112T142805Z">
+        <seg>ctrl U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl UP</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142513Z" creationid="Ragnar-F" creationdate="20221112T142513Z">
+        <seg>ctrl UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl Y</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142051Z" creationid="Ragnar-F" creationdate="20221112T142051Z">
+        <seg>ctrl Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl Z</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142048Z" creationid="Ragnar-F" creationdate="20221112T142048Z">
+        <seg>ctrl Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift C</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142115Z" creationid="Ragnar-F" creationdate="20221112T142115Z">
+        <seg>ctrl shift C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift D</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141825Z" creationid="Ragnar-F" creationdate="20221112T141825Z">
+        <seg>ctrl shift D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift F</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142503Z" creationid="Ragnar-F" creationdate="20221112T142503Z">
+        <seg>ctrl shift F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift G</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142117Z" creationid="Ragnar-F" creationdate="20221112T142117Z">
+        <seg>ctrl shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift I</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142107Z" creationid="Ragnar-F" creationdate="20221112T142107Z">
+        <seg>ctrl shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift M</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142829Z" creationid="Ragnar-F" creationdate="20221112T142829Z">
+        <seg>ctrl shift M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift N</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141559Z" creationid="Ragnar-F" creationdate="20221112T141559Z">
+        <seg>ctrl shift N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift P</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142857Z" creationid="Ragnar-F" creationdate="20221112T142857Z">
+        <seg>ctrl shift P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift Q</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142826Z" creationid="Ragnar-F" creationdate="20221112T142826Z">
+        <seg>ctrl shift Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift R</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142103Z" creationid="Ragnar-F" creationdate="20221112T142103Z">
+        <seg>ctrl shift R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift S</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142801Z" creationid="Ragnar-F" creationdate="20221112T142801Z">
+        <seg>ctrl shift S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift T</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142109Z" creationid="Ragnar-F" creationdate="20221112T142109Z">
+        <seg>ctrl shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift U</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142808Z" creationid="Ragnar-F" creationdate="20221112T142808Z">
+        <seg>ctrl shift U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift V</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143056Z" creationid="Ragnar-F" creationdate="20221112T143056Z">
+        <seg>ctrl shift V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift W</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141755Z" creationid="Ragnar-F" creationdate="20221112T141755Z">
+        <seg>ctrl shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>currSegment = files[i].entries[j];</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130503T162240Z">
@@ -42813,6 +43589,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editMultipleAlternate=alt X</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140507Z" creationid="Ragnar-F" creationdate="20221112T140507Z">
+        <seg>editMultipleAlternate=alt X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editMultipleDefault</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130504T160504Z">
@@ -42881,6 +43665,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T070102Z" creationid="BVB" creationdate="20180829T070102Z">
         <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSearchDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142508Z" creationid="Ragnar-F" creationdate="20221112T142508Z">
+        <seg>editSearchDictionaryMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -43773,6 +44565,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>in Windows or Linux, or</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135353Z" creationid="Ragnar-F" creationdate="20221112T135335Z">
+        <seg>unter Windows oder Linux, oder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>in regular expressions</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130529T084725Z">
@@ -43812,6 +44612,46 @@ Konfigurationsordner erstellen zu lassen.</seg>
         <seg>init &lt;Quellsprache&gt; &lt;Zielsprache&gt;
 		Ein minimales Teamprojekt mit den angegebenen Sprachen
 		initialisieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsLRE</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142717Z" creationid="Ragnar-F" creationdate="20221112T142717Z">
+        <seg>insertCharsLRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsLRM</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142649Z" creationid="Ragnar-F" creationdate="20221112T142649Z">
+        <seg>insertCharsLRM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsPDF</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142758Z" creationid="Ragnar-F" creationdate="20221112T142758Z">
+        <seg>insertCharsPDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsRLE</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142737Z" creationid="Ragnar-F" creationdate="20221112T142737Z">
+        <seg>insertCharsRLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsRLM</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142705Z" creationid="Ragnar-F" creationdate="20221112T142705Z">
+        <seg>insertCharsRLM</seg>
       </tuv>
     </tu>
     <tu>
@@ -44088,6 +44928,326 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta 1</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142522Z" creationid="Ragnar-F" creationdate="20221112T142522Z">
+        <seg>meta 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 2</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142525Z" creationid="Ragnar-F" creationdate="20221112T142525Z">
+        <seg>meta 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 3</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142528Z" creationid="Ragnar-F" creationdate="20221112T142528Z">
+        <seg>meta 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 4</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142531Z" creationid="Ragnar-F" creationdate="20221112T142531Z">
+        <seg>meta 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 5</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142534Z" creationid="Ragnar-F" creationdate="20221112T142534Z">
+        <seg>meta 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta D</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141816Z" creationid="Ragnar-F" creationdate="20221112T141816Z">
+        <seg>meta D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta DOWN</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142519Z" creationid="Ragnar-F" creationdate="20221112T142519Z">
+        <seg>meta DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta E</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141830Z" creationid="Ragnar-F" creationdate="20221112T141830Z">
+        <seg>meta E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta F</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142121Z" creationid="Ragnar-F" creationdate="20221112T142121Z">
+        <seg>meta F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta I</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142058Z" creationid="Ragnar-F" creationdate="20221112T142058Z">
+        <seg>meta I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta J</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142824Z" creationid="Ragnar-F" creationdate="20221112T142824Z">
+        <seg>meta J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta K</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142507Z" creationid="Ragnar-F" creationdate="20221112T142507Z">
+        <seg>meta K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta L</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141838Z" creationid="Ragnar-F" creationdate="20221112T141838Z">
+        <seg>meta L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta M</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142102Z" creationid="Ragnar-F" creationdate="20221112T142102Z">
+        <seg>meta M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta N (Enter/Tab)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142815Z" creationid="Ragnar-F" creationdate="20221112T142815Z">
+        <seg>meta N (Enter/Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta O</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141615Z" creationid="Ragnar-F" creationdate="20221112T141615Z">
+        <seg>meta O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta P (meta Enter / shift Tab)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142820Z" creationid="Ragnar-F" creationdate="20221112T142820Z">
+        <seg>meta P (meta Enter / shift Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta Q</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142045Z" creationid="Ragnar-F" creationdate="20221112T142045Z">
+        <seg>meta Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta R</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142056Z" creationid="Ragnar-F" creationdate="20221112T142056Z">
+        <seg>meta R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta S</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141800Z" creationid="Ragnar-F" creationdate="20221112T141800Z">
+        <seg>meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta T</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142113Z" creationid="Ragnar-F" creationdate="20221112T142113Z">
+        <seg>meta T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta U</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142806Z" creationid="Ragnar-F" creationdate="20221112T142806Z">
+        <seg>meta U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta UP</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142516Z" creationid="Ragnar-F" creationdate="20221112T142516Z">
+        <seg>meta UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta Y</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142052Z" creationid="Ragnar-F" creationdate="20221112T142052Z">
+        <seg>meta Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta Z</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142050Z" creationid="Ragnar-F" creationdate="20221112T142050Z">
+        <seg>meta Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift C</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142116Z" creationid="Ragnar-F" creationdate="20221112T142116Z">
+        <seg>meta shift C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift D</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141826Z" creationid="Ragnar-F" creationdate="20221112T141826Z">
+        <seg>meta shift D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift F</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142504Z" creationid="Ragnar-F" creationdate="20221112T142504Z">
+        <seg>meta shift F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift G</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142118Z" creationid="Ragnar-F" creationdate="20221112T142118Z">
+        <seg>meta shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift I</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142108Z" creationid="Ragnar-F" creationdate="20221112T142108Z">
+        <seg>meta shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift M</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142830Z" creationid="Ragnar-F" creationdate="20221112T142830Z">
+        <seg>meta shift M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift N</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141610Z" creationid="Ragnar-F" creationdate="20221112T141610Z">
+        <seg>meta shift N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift P</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142859Z" creationid="Ragnar-F" creationdate="20221112T142859Z">
+        <seg>meta shift P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift Q</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142827Z" creationid="Ragnar-F" creationdate="20221112T142827Z">
+        <seg>meta shift Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift R</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142104Z" creationid="Ragnar-F" creationdate="20221112T142104Z">
+        <seg>meta shift R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift S</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142803Z" creationid="Ragnar-F" creationdate="20221112T142803Z">
+        <seg>meta shift S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift T</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142110Z" creationid="Ragnar-F" creationdate="20221112T142110Z">
+        <seg>meta shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift U</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142809Z" creationid="Ragnar-F" creationdate="20221112T142809Z">
+        <seg>meta shift U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift V</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143057Z" creationid="Ragnar-F" creationdate="20221112T143057Z">
+        <seg>meta shift V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift W</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141757Z" creationid="Ragnar-F" creationdate="20221112T141757Z">
+        <seg>meta shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T200200Z">
@@ -44220,6 +45380,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T074747Z" creationid="Ragnar-F" creationdate="20210111T074747Z">
         <seg>omegat/project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on Windows and Linux, and as</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135043Z" creationid="Ragnar-F" creationdate="20221112T134933Z">
+        <seg>unter Windows und Linux, und als</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on macOS.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135051Z" creationid="Ragnar-F" creationdate="20221112T134954Z">
+        <seg>unter macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44528,6 +45704,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>projectAccessExportTMMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142018Z" creationid="Ragnar-F" creationdate="20221112T142018Z">
+        <seg>projectAccessExportTMMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>projectAccessGlossaryMenuItem</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T065206Z" creationid="BVB" creationdate="20180829T065206Z">
@@ -44552,6 +45736,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>projectAccessTMMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141959Z" creationid="Ragnar-F" creationdate="20221112T141959Z">
+        <seg>projectAccessTMMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>projectAccessTargetMenuItem</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T065253Z" creationid="BVB" creationdate="20180829T065253Z">
@@ -44572,6 +45764,54 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130504T154843Z">
         <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=ctrl W</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135314Z" creationid="Ragnar-F" creationdate="20221112T135314Z">
+        <seg>projectCloseMenuItem=ctrl W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=ctrl shift W</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T134738Z" creationid="Ragnar-F" creationdate="20221112T134738Z">
+        <seg>projectCloseMenuItem=ctrl shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=meta W</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135341Z" creationid="Ragnar-F" creationdate="20221112T135341Z">
+        <seg>projectCloseMenuItem=meta W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=meta shift W</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T134934Z" creationid="Ragnar-F" creationdate="20221112T134934Z">
+        <seg>projectCloseMenuItem=meta shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCommitSourceFiles</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141802Z" creationid="Ragnar-F" creationdate="20221112T141802Z">
+        <seg>projectCommitSourceFiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCommitTargetFiles</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141804Z" creationid="Ragnar-F" creationdate="20221112T141804Z">
+        <seg>projectCommitTargetFiles</seg>
       </tuv>
     </tu>
     <tu>
@@ -44644,6 +45884,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130504T154822Z">
         <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectRestartMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142041Z" creationid="Ragnar-F" creationdate="20221112T142041Z">
+        <seg>projectRestartMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -44884,6 +46132,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T072720Z" creationid="BVB" creationdate="20180829T072720Z">
         <seg>sentenceCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>shift F3</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142511Z" creationid="Ragnar-F" creationdate="20221112T142511Z">
+        <seg>shift F3</seg>
       </tuv>
     </tu>
     <tu>
@@ -45194,6 +46450,30 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>toolsAlignFilesMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143146Z" creationid="Ragnar-F" creationdate="20221112T143146Z">
+        <seg>toolsAlignFilesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsCheckIssuesCurrentFileMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143058Z" creationid="Ragnar-F" creationdate="20221112T143058Z">
+        <seg>toolsCheckIssuesCurrentFileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsCheckIssuesMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143055Z" creationid="Ragnar-F" creationdate="20221112T143055Z">
+        <seg>toolsCheckIssuesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>toolsShowStatisticsMatchesMenuItem</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130504T161036Z">
@@ -45410,6 +46690,30 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>viewMarkFontFallbackCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143020Z" creationid="Ragnar-F" creationdate="20221112T143020Z">
+        <seg>viewMarkFontFallbackCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkGlossaryMatchesCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142933Z" creationid="Ragnar-F" creationdate="20221112T142933Z">
+        <seg>viewMarkGlossaryMatchesCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkLanguageCheckerCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142935Z" creationid="Ragnar-F" creationdate="20221112T142935Z">
+        <seg>viewMarkLanguageCheckerCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>viewMarkNBSPCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130504T160833Z">
@@ -45430,6 +46734,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130504T160824Z">
         <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkParagraphStartCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142926Z" creationid="Ragnar-F" creationdate="20221112T142926Z">
+        <seg>viewMarkParagraphStartCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
