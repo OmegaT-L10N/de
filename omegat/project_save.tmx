@@ -12567,6 +12567,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each mode can be used separately in the &lt;g0&gt;Editor&lt;/g0&gt;, &lt;g1&gt;Fuzzy Matches&lt;/g1&gt;, and &lt;g2&gt;Glossary&lt;/g2&gt; panes by selecting the desired pane and toggling the justification mode.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T184541Z" creationid="Ragnar-F" creationdate="20221114T184541Z">
+        <seg>Jeder Modus kann separat in den Bereichen &lt;g0&gt;Editor&lt;/g0&gt;, &lt;g1&gt;Fuzzy Matches&lt;/g1&gt; und &lt;g2&gt;Glossar&lt;/g2&gt; verwendet werden. Wählen Sie den gewünschten Bereich aus und schalten Sie den Ausrichtungsmodus um.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T135957Z">
@@ -19981,6 +19989,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be used in all OmegaT input fields, such as the &lt;g3&gt;Text Search&lt;/g3&gt; window or the segmentation rules dialog, for example.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T184942Z" creationid="Ragnar-F" creationdate="20221114T184942Z">
+        <seg>Der Modus kann auch in allen OmegaT-Eingabefeldern verwendet werden, wie z. B. im &lt;g3&gt;Textsuche&lt;/g3&gt;-Fenster oder im Segmentierungsregeln-Dialogfenster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T132103Z">
@@ -22801,6 +22817,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145019Z">
         <seg>Falsch übersetzte Segmente können natürlich später manuell mit &lt;g0&gt;Alternative Übersetzung erstellen&lt;/g0&gt; korrigiert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mixing RTL and LTR</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T184959Z" creationid="Ragnar-F" creationdate="20221114T184959Z">
+        <seg>RTL und LTR mischen</seg>
       </tuv>
     </tu>
     <tu>
@@ -33324,6 +33348,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T065516Z" creationid="Michael Motzkus" creationdate="20190129T065516Z">
         <seg>Ansichten mit {0} und {1} wechseln</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switching between modes changes both how the text is entered and displayed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T184300Z" creationid="Ragnar-F" creationdate="20221114T184300Z">
+        <seg>Wenn Sie zwischen den Modi umschalten, ändert sich die Art und Weise, wie der Text eingegeben und angezeigt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44106,6 +44138,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T201031Z" creationid="Michael Motzkus" creationdate="20180921T080426Z">
         <seg>Sie können die normale Navigation verwenden, um z. B. zum nächsten (unübersetzten) Segment zu wechseln, das den Suchkriterien entspricht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use the default (LTR) mode to write purely RTL text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T185023Z" creationid="Ragnar-F" creationdate="20221114T185023Z">
+        <seg>Sie können den Standardmodus (LTR) verwenden, um reinen RTL-Text zu schreiben.</seg>
       </tuv>
     </tu>
     <tu>
