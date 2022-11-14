@@ -7722,6 +7722,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, segmentation rules are global and apply to all projects.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T103701Z" creationid="Ragnar-F" creationdate="20221114T103701Z">
+        <seg>Standardmäßig sind Segmentierungsregeln global und gelten für alle Projekte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, segmentation settings are global and shared by all projects.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T100800Z" creationid="Ragnar-F" creationdate="20221112T100800Z">
@@ -8126,6 +8134,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T104014Z">
         <seg>Das Ändern der Segmentierungseinstellungen kann dazu führen, dass einige bereits übersetzte Segmente gesplittet oder zusammengeführt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the segmentation rules settings during a translation does not modify the segments registered in the project translation memory.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T105026Z" creationid="Ragnar-F" creationdate="20221114T105026Z">
+        <seg>Wenn Sie die Segmentierungsregeln während einer laufenden Übersetzung ändern, werden die registrierten Segmente im Translation Memory des Projekts nicht verändert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8806,6 +8822,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T115830Z" creationid="Michael Motzkus" creationdate="20180919T074607Z">
         <seg>Klicken Sie auf &lt;e2&gt;Nächstes Vorkommen ersetzen&lt;/e2&gt; oder &lt;e3&gt;Überspringen&lt;/e3&gt; und beenden Sie anschließend die Sitzung mit &lt;e4&gt;Beenden&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;g0&gt;&lt;l1/&gt;&lt;/g0&gt; if you want to use project specific segmentation rules (local rules) and not global rules, or start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T103923Z" creationid="Ragnar-F" creationdate="20221114T103923Z">
+        <seg>Klicken Sie auf &lt;g0&gt;&lt;l1/&gt;&lt;/g0&gt;, wenn Sie projektspezifische Segmentierungsregeln (lokale Regeln) anstelle von globalen Regeln verwenden möchten, oder starten Sie OmegaT über die Befehlszeile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11259,6 +11283,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T103903Z" creationid="Ragnar-F" creationdate="20210113T103903Z">
         <seg>Regel deaktivieren: "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable this option if you prefer not to further segment the paragraphs.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T103610Z" creationid="Ragnar-F" creationdate="20221114T103331Z">
+        <seg>Deaktivieren Sie diese Option, wenn die Absätze nicht weiter aufgeteilt werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17639,8 +17671,8 @@ angezeigt werden.</seg>
       <tuv lang="en">
         <seg>If you change the segmentation while translating, you will have to reload the project for the new segmentation to take effect.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T101759Z" creationid="Ragnar-F" creationdate="20221112T101759Z">
-        <seg>Wenn Sie die Segmentierung bei laufender Übersetzung ändern, müssen Sie das Projekt neu laden, damit die neue Segmentierung wirksam wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T105038Z" creationid="Ragnar-F" creationdate="20221112T101759Z">
+        <seg>Wenn Sie die Segmentierung während einer laufenden Übersetzung ändern, müssen Sie das Projekt neu laden, damit die neue Segmentierung wirksam wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20421,6 +20453,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de">
         <seg>Sprachmuster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language codes are used in &lt;l0/&gt;, &lt;l1/&gt;, the &lt;l2/&gt;, &lt;l3/&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T100949Z" creationid="Ragnar-F" creationdate="20221114T100617Z">
+        <seg>Sprachcodes werden für &lt;l0/&gt;, &lt;l1/&gt;, die &lt;l2/&gt;, &lt;l3/&gt; und so weiter verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24220,6 +24260,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T140747Z" creationid="Ragnar-F" creationdate="20210111T140747Z">
         <seg>OmegaT speichert Übersetzungen automatisch alle 3 Minuten, und wenn Sie das Projekt schließen oder OmegaT beenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically selects the tokenizers that correspond to the source and target languages but you can manually modify the settings.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T101101Z" creationid="Ragnar-F" creationdate="20221114T101101Z">
+        <seg>OmegaT wählt automatisch die Tokenizer aus, die der Quell- und Zielsprache entsprechen, aber Sie können die Einstellungen auch manuell ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30558,6 +30606,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the source and target languages by hand, or use the drop-down menus.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T101413Z" creationid="Ragnar-F" creationdate="20221114T095759Z">
+        <seg>Tragen Sie die Quell- und Zielsprache entweder manuell ein oder wählen Sie sie in den Aufklappmenüs aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T212911Z" creationid="Ragnar-F" creationdate="20210111T151722Z">
@@ -30678,10 +30734,26 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T102727Z" creationid="Ragnar-F" creationdate="20221114T102727Z">
+        <seg>Segmentierung auf Satzebene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sentence-level segmentation</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085711Z" creationid="Ragnar-F" creationdate="20221112T085711Z">
         <seg>Segmentierung auf Satzebene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence-level segmentation splits the source file “paragraphs” into segments based on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T103531Z" creationid="Ragnar-F" creationdate="20221114T103050Z">
+        <seg>Die Satzsegmentierung teilt die "Absätze" der Quelldatei in mehrere Segmente auf, basierend auf den Segmentierungsregeln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32484,6 +32556,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T065516Z" creationid="Michael Motzkus" creationdate="20190129T065516Z">
         <seg>Ansichten mit {0} und {1} wechseln</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switching from &lt;e0&gt;sentence&lt;/e0&gt; to &lt;e1&gt;paragraph&lt;/e1&gt; segmentation mid-translation may force OmegaT to upgrade old translation memories that did not use sentence segmentation, but not vice versa.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T105329Z" creationid="Ragnar-F" creationdate="20221114T105329Z">
+        <seg>Der Wechsel von &lt;e0&gt;Satz&lt;/e0&gt;- zu &lt;e1&gt;Absatz&lt;/e1&gt;-Segmentierung mitten in der Übersetzung könnte OmegaT dazu zwingen, alte Translation Memorys zu aktualisieren, die keine Satzsegmentierung verwenden, aber nicht umgekehrt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34321,6 +34401,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog is used to set the initial project properties when creating a new project and also to modify them later, after the project has been created.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T095723Z" creationid="Ragnar-F" creationdate="20221114T095723Z">
+        <seg>In diesem Dialogfenster können Sie die anfänglichen Projekteigenschaften beim Erstellen eines neuen Projekts festlegen und später nachträglich ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog offers various options:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132107Z" creationid="Ragnar-F" creationdate="20221110T132107Z">
@@ -35814,8 +35902,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The source and target encoding fields use drop-down menus listing all supported encodings.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T130642Z" creationid="Ragnar-F" creationdate="20221110T130642Z">
-        <seg>Die Felder bei der Quell- und Zielkodierung sind aufklappbare Listen, die alle unterstützten Kodierungen enthalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T100204Z" creationid="Ragnar-F" creationdate="20221110T130642Z">
+        <seg>Die Felder bei der Quell- und Zielkodierung sind Aufklappmenüs, die alle unterstützten Kodierungen auflisten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38582,6 +38670,14 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tokenizers allow OmegaT to provide better matches.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T102712Z" creationid="Ragnar-F" creationdate="20221114T102712Z">
+        <seg>Die Tokenizer helfen OmegaT, bessere Treffer zu liefern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T102906Z" creationid="Michael Motzkus" creationdate="20180919T063807Z">
@@ -40074,6 +40170,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; in the &lt;l1/&gt; menu to open the dialog.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T095335Z" creationid="Ragnar-F" creationdate="20221114T095335Z">
+        <seg>Verwenden Sie &lt;l0/&gt; im Menü &lt;l1/&gt;, um das Dialogfenster zu öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T205817Z" creationid="Ragnar-F" creationdate="20221109T205817Z">
@@ -40260,8 +40364,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use the &lt;g0&gt;Filename Variables&lt;/g0&gt; drop-down menu to customize the target file name.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T123456Z" creationid="Ragnar-F" creationdate="20221110T123456Z">
-        <seg>Verwenden Sie das Dropdown-Menü &lt;g0&gt;Dateinamenvariablen&lt;/g0&gt;, um den Zieldateinamen anzupassen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T100132Z" creationid="Ragnar-F" creationdate="20221110T123456Z">
+        <seg>Verwenden Sie das Aufklappmenü &lt;g0&gt;Dateinamenvariablen&lt;/g0&gt;, um den Zieldateinamen anzupassen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42087,6 +42191,14 @@ Kaptain-Startskript wie folgt starten:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T185134Z">
         <seg>Sie deinstallieren gerade das Wörterbuch, das Ihr Projekt zur Rechtschreibprüfung verwendet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can access the global rules with &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T103752Z" creationid="Ragnar-F" creationdate="20221114T103752Z">
+        <seg>Sie können die globalen Regeln über &lt;l0/&gt; im Menü &lt;l1/&gt; aufrufen.</seg>
       </tuv>
     </tu>
     <tu>
