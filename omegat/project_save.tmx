@@ -5012,6 +5012,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A “level 1” TMX contains only textual data and has removed all tag information.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132712Z" creationid="Ragnar-F" creationdate="20221114T132712Z">
+        <seg>Eine "Level 1"-TMX-Datei enthält nur Textdaten, keine Tag-Informationen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A “level 2” TMX contains textual data along with tags encapsulated in a way that is compatible with other CAT tools.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132829Z" creationid="Ragnar-F" creationdate="20221114T132829Z">
+        <seg>Eine "Level 2"-TMX-Datei enthält Textdaten und Tags, die mit anderen CAT-Tools kompatibel sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130701T153549Z">
@@ -5488,6 +5504,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T073548Z" creationid="Ragnar-F" creationdate="20210111T073548Z">
         <seg>Fügen Sie das neue OmegaT-Projekt dem Versionierungssystem hinzu (&lt;c0&gt;add&lt;/c0&gt; mit SVN und Git)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Added items are automatically recognized and displayed if they match terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130147Z" creationid="Ragnar-F" creationdate="20221114T130147Z">
+        <seg>Hinzugefügte Einträge werden automatisch erkannt und angezeigt, wenn sie mit Begriffen im aktuellen Segment übereinstimmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6436,6 +6460,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T123125Z">
         <seg>Ein Großbuchstabe (einfache &lt;u0&gt;Kategorie&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An “OmegaT” TMX contains the tags that OmegaT created, in a form that can only be properly used by an OmegaT project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132528Z" creationid="Ragnar-F" creationdate="20221114T132528Z">
+        <seg>Eine "OmegaT"-TMX-Datei enthält die von OmegaT erstellten Tags in einer Form, die nur von einem OmegaT-Projekt sinnvoll genutzt werden kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7758,6 +7790,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T114848Z" creationid="Ragnar-F" creationdate="20221112T100800Z">
         <seg>Standardmäßig sind Segmentierungseinstellungen global und werden für alle Projekte verwendet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, that folder is the project folder itself but you can change its location to make it more practical to share exported TM files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132129Z" creationid="Ragnar-F" creationdate="20221114T132129Z">
+        <seg>Standardmäßig ist dieser Ordner der Projektordner selbst, aber Sie können den Speicherort ändern, um die gemeinsame Nutzung exportierter TM-Dateien zu erleichtern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11183,6 +11223,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries Folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130212Z" creationid="Ragnar-F" creationdate="20221114T130212Z">
+        <seg>Ordner für Wörterbücher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries Folder:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T142958Z" creationid="Ragnar-F" creationdate="20221109T142958Z">
@@ -13628,6 +13676,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T215403Z" creationid="Ragnar-F" creationdate="20221109T215403Z">
         <seg>Ordner für exportierte Translation-Memory-Dateien {0} existiert nicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exported Translation Memories Folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T131833Z" creationid="Ragnar-F" creationdate="20221114T131833Z">
+        <seg>Ordner für exportierte Translation-Memory-Dateien</seg>
       </tuv>
     </tu>
     <tu>
@@ -17094,6 +17150,14 @@ their defaults as a result of the location change.</seg>
 gewünschten Speicherort gewährt wird, wird dieser Speicherort
 verwendet, und alle Einstellungen werden infolge der
 Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If matches are found, they are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130332Z" creationid="Ragnar-F" creationdate="20221114T130332Z">
+        <seg>Wenn Übereinstimmungen gefunden werden, werden sie im Bereich &lt;l0/&gt; angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25010,6 +25074,14 @@ höher auf Ihrem System installiert ist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT tries to read all the files at once, and matches their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130318Z" creationid="Ragnar-F" creationdate="20221114T130318Z">
+        <seg>OmegaT versucht, alle Dateien einzulesen, und vergleicht ihre Inhalte mit dem Segment, den Sie gerade übersetzen, um Übereinstimmungen zu finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T090859Z" creationid="Ragnar-F" creationdate="20210112T090859Z">
@@ -30342,6 +30414,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt;TMX 1.4b Specification&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T133001Z" creationid="Ragnar-F" creationdate="20221114T133001Z">
+        <seg>Einzelheiten finden Sie unter &lt;u0&gt;TMX 1.4b Specification&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T130130Z">
@@ -30410,6 +30490,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130621T132652Z">
         <seg>Quelltext absatzweise segmentieren bei:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment that have been translated will be replaced by their translation and untranslated segments will remain in the source language.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T131623Z" creationid="Ragnar-F" creationdate="20221114T131623Z">
+        <seg>Jedes Segment, das übersetzt wurde, wird in der Zieldatei ersetzt. Unübersetzte Segmente bleiben in der Quellsprache.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34213,6 +34301,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX files will contain only the segments that correspond to the current contents of the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132018Z" creationid="Ragnar-F" creationdate="20221114T132018Z">
+        <seg>Die TMX-Dateien enthalten nur die Segmente, die dem aktuellen Inhalt des Ordners &lt;l0/&gt; entsprechen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T170816Z" creationid="Ragnar-F" creationdate="20221109T170816Z">
@@ -35021,6 +35117,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T104929Z" creationid="Ragnar-F" creationdate="20210111T104929Z">
         <seg>Der Ordner enthält 2 Dateien: &lt;f2&gt;index.html&lt;/f2&gt; und &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder structure reflects the copied contents and files that are not supported by OmegaT’s file filters will be copied without modifications.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T131808Z" creationid="Ragnar-F" creationdate="20221114T131808Z">
+        <seg>Die Ordnerstruktur spiegelt den kopierten Inhalt wider, und Dateien, die nicht von den OmegaT-Dateifiltern unterstützt werden, werden unverändert kopiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36588,6 +36692,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated files are the translated versions of the files located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130618Z" creationid="Ragnar-F" creationdate="20221114T130618Z">
+        <seg>Die übersetzten Dateien sind die übersetzten Versionen der Dateien im Ordner &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated files folder does not exist!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T152045Z" creationid="Ragnar-F" creationdate="20221109T152045Z">
@@ -36744,6 +36856,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T122427Z" creationid="Ragnar-F" creationdate="20221111T122427Z">
         <seg>Das Wort "run" sowie auch "runs", "runner", "runway", "runt" in "grunt" oder "brunt" und jede andere Zeichenkette, die "run" enthält, gefolgt von null oder mehr "&lt;e0&gt;Wortzeichen&lt;/e0&gt;" (zu denen auch Ziffern und der Unterstrich gehören, so dass der Teil vor dem "@" in einer E-Mail-Adresse wie run_123@example.email.org ebenfalls gefunden werden kann).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writable glossary if the file that OmegaT uses when you add translated glossary terms to your project with &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130015Z" creationid="Ragnar-F" creationdate="20221114T130015Z">
+        <seg>OmegaT verwendet diese Datei, sobald Sie Ihrem Projekt übersetzte Glossarbegriffe mittels &lt;l0/&gt; hinzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37454,6 +37574,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This checkbox lists lets you choose in which format you want OmegaT to create the above TMX files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132450Z" creationid="Ragnar-F" creationdate="20221114T132450Z">
+        <seg>Mit dieser Option können Sie festlegen, in welchem Format OmegaT die oben genannten TMX-Dateien erstellen soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T125330Z" creationid="BVB" creationdate="20180827T063023Z">
@@ -37646,6 +37774,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is &lt;e0&gt;always&lt;/e0&gt; located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130206Z" creationid="Ragnar-F" creationdate="20221114T130206Z">
+        <seg>Diese Datei befindet sich &lt;e0&gt;immer&lt;/e0&gt; im Ordner &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file stores the currently selected text when the &lt;l0/&gt; command in the &lt;l1/&gt; menu is used.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105322Z" creationid="Ragnar-F" creationdate="20221110T105322Z">
@@ -37670,18 +37806,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference dictionaries.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130235Z" creationid="Ragnar-F" creationdate="20221114T130235Z">
+        <seg>Dieser Ordner enthält Wörterbuchdateien, die Sie als Referenz verwenden möchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains the files that you want to use as reference glossaries.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T125027Z" creationid="Ragnar-F" creationdate="20221114T125027Z">
-        <seg>Dieser Ordner enthält die Glossardateien, die Sie als Referenz verwenden möchten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T125237Z" creationid="Ragnar-F" creationdate="20221114T125027Z">
+        <seg>Dieser Ordner enthält Glossardateien, die Sie als Referenz verwenden möchten.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This folder contains the files that you want to use as reference translation memories.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T124508Z" creationid="Ragnar-F" creationdate="20221114T124455Z">
-        <seg>Dieser Ordner enthält die Translation Memories, die Sie als Referenz verwenden möchten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T125209Z" creationid="Ragnar-F" creationdate="20221114T124455Z">
+        <seg>Dieser Ordner enthält Translation Memories, die Sie als Referenz verwenden möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37698,6 +37842,22 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130513T092005Z">
         <seg>Dieser Ordner ist anfänglich leer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder is the place where OmegaT copies the current state of the translation in the form of TMX files when you create the translated files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T131947Z" creationid="Ragnar-F" creationdate="20221114T131947Z">
+        <seg>In diesen Ordner kopiert OmegaT den aktuellen Übersetzungsstand in Form von TMX-Dateien, wenn Sie die übersetzten Dateien erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder is the place where OmegaT creates the translated files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130358Z" creationid="Ragnar-F" creationdate="20221114T130358Z">
+        <seg>In diesem Ordner erstellt OmegaT die übersetzten Dateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39640,6 +39800,14 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories to export</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132135Z" creationid="Ragnar-F" creationdate="20221114T132135Z">
+        <seg>Zu exportierende Translation-Memory-Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories to export:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T143107Z" creationid="Ragnar-F" creationdate="20221109T143107Z">
@@ -40638,6 +40806,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T095335Z" creationid="Ragnar-F" creationdate="20221114T095335Z">
         <seg>Verwenden Sie &lt;l0/&gt; im Menü &lt;l1/&gt;, um das Dialogfenster zu öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files and the exported TMX files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132030Z" creationid="Ragnar-F" creationdate="20221114T132030Z">
+        <seg>Verwenden Sie &lt;l0/&gt; oder &lt;l1/&gt;, um die übersetzten Dateien und die exportierten TMX-Dateien zu erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T131823Z" creationid="Ragnar-F" creationdate="20221114T131823Z">
+        <seg>Verwenden Sie &lt;l0/&gt; oder &lt;l1/&gt;, um die übersetzten Dateien zu erstellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46145,6 +46329,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T155040Z" creationid="Ragnar-F" creationdate="20221111T155040Z">
         <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132832Z" creationid="Ragnar-F" creationdate="20221114T132832Z">
+        <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
       </tuv>
     </tu>
     <tu>
