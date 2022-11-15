@@ -6172,6 +6172,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also remember not modifying the project configuration or adding TMX files on the meantime, as that may affect the results.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T135547Z" creationid="Ragnar-F" creationdate="20221115T135547Z">
+        <seg>Denken Sie auch daran, in der Zwischenzeit die Projektkonfiguration nicht zu ändern oder TMX-Dateien hinzuzufügen, um die Ergebnisse nicht zu verfälschen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110554Z" creationid="Ragnar-F" creationdate="20221112T110554Z">
@@ -7382,6 +7390,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T132330Z" creationid="BVB" creationdate="20180826T100201Z">
         <seg>Basierend auf Ihrer Auswahl empfehlen wir Ihnen die folgende Version:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Be cautious about making changes to the files in the source folder, to the segmentation rules, or to the file filters, partway through a project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T140158Z" creationid="Ragnar-F" creationdate="20221115T140158Z">
+        <seg>Seien Sie vorsichtig, wenn Sie während eines laufenden Projekts Änderungen an den Dateien im Quellordner, an den Segmentierungsregeln oder an den Dateifiltern vornehmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9178,6 +9194,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close the project, preventing any modification to the current status of the backup files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T134229Z" creationid="Ragnar-F" creationdate="20221115T134229Z">
+        <seg>Schließen Sie das Projekt, um weitere Änderungen am aktuellen Status der Sicherungskopien zu verhindern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close the search window.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T170322Z" creationid="Ragnar-F" creationdate="20221109T170322Z">
@@ -9973,6 +9997,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the contents of the various user folders to their equivalent in the new project (source files, reference translation memory files, glossary files).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T141020Z" creationid="Ragnar-F" creationdate="20221115T141020Z">
+        <seg>Kopieren Sie den Inhalt der verschiedenen Benutzerordner in die entsprechenden Ordner des neuen Projekts (Quelldateien, zusätzliche Translation-Memory-Dateien, Glossardateien).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155933Z">
@@ -10257,6 +10289,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183733Z" creationid="Ragnar-F" creationdate="20210111T073317Z">
         <seg>Erstellen Sie eine lokale Kopie des Repository (&lt;c0&gt;check out&lt;/c0&gt; bei SVN, &lt;c1&gt;clone&lt;/c1&gt; bei Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new project with the same settings.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T140920Z" creationid="Ragnar-F" creationdate="20221115T140920Z">
+        <seg>Erstellen Sie ein neues Projekt mit denselben Einstellungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19018,6 +19058,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In rare cases where your computer freezes and OmegaT does not have the time to properly close, some important files can be broken and keep your project from reopening after you have rebooted your machine.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T140845Z" creationid="Ragnar-F" creationdate="20221115T140845Z">
+        <seg>Ausnahmefälle, wie z. B. wenn Ihr Computer hängen bleibt und sich OmegaT infolgedessen nicht ordnungsgemäß schließen kann, können dazu führen, dass wichtige Dateien beschädigt werden und sich Ihr Projekt nach einem Neustart nicht mehr öffnen lässt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In so&amp;urce</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T145426Z">
@@ -20813,6 +20861,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T222439Z" creationid="Ragnar-F" creationdate="20221109T222439Z">
         <seg>Ihre Version behalten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep an eye on safely storing all the different files you are renaming for eventual reuse.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T135341Z" creationid="Ragnar-F" creationdate="20221115T135341Z">
+        <seg>Achten Sie darauf, die verschiedenen Dateien, die Sie umbenennen, sicher zu speichern, damit sie später wiederverwendet werden können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23049,6 +23105,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T134659Z" creationid="Ragnar-F" creationdate="20221112T134659Z">
         <seg>Tastenkürzel ändern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifying either after you have started your translation could result in some segments not being displayed anymore, or unexpected new segments appearing instead.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T140219Z" creationid="Ragnar-F" creationdate="20221115T140219Z">
+        <seg>Wenn Sie diese zwischendurch ändern, kann es passieren, dass einige Segmente nicht mehr angezeigt werden oder stattdessen unerwartete neue Segmente auftauchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27972,6 +28036,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proceed as follows:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T134136Z" creationid="Ragnar-F" creationdate="20221115T134136Z">
+        <seg>Gehen Sie wie folgt vor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proceed?</seg>
       </tuv>
       <tuv lang="de">
@@ -29249,10 +29321,34 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T134848Z" creationid="Ragnar-F" creationdate="20221115T134841Z">
+        <seg>Benennen Sie sie in &lt;f0&gt;project_save.tmx&lt;/f0&gt; um.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (to &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, for example).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T134600Z" creationid="Ragnar-F" creationdate="20221115T134600Z">
+        <seg>Benennen Sie die aktuelle &lt;f0&gt;project_save.tmx &lt;/f0&gt;-Datei um (z. B. in &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reopen the project now?</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T221614Z">
         <seg>Möchten Sie das Projekt jetzt neu öffnen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reopen the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T135023Z" creationid="Ragnar-F" creationdate="20221115T135023Z">
+        <seg>Schließen und öffnen Sie das Projekt wieder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31458,6 +31554,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T104153Z" creationid="Ragnar-F" creationdate="20210111T104153Z">
         <seg>Wählen Sie das &lt;f3&gt;OmegaT.png&lt;/f3&gt;-Symbol aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the backup translation memory most likely to contain the data you are looking for.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T134819Z" creationid="Ragnar-F" creationdate="20221115T134819Z">
+        <seg>Wählen Sie die Sicherungskopie des Translation Memory aus, der am ehesten die gesuchten Daten enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38102,6 +38206,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This action will restore the status of the translation to the moment on which the selected backup was created.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T135216Z" creationid="Ragnar-F" creationdate="20221115T135216Z">
+        <seg>Diese Aktion stellt den Status der Übersetzung zu dem Zeitpunkt wieder her, an dem die ausgewählte Sicherungskopie erstellt wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This an exception rule, so the rule check box must not be ticked</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T094025Z">
@@ -44464,6 +44576,14 @@ Finder-Fensters ziehen, um es von jedem Ort aus starten zu können.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may repeat this operation as needed for locating older situations.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T135257Z" creationid="Ragnar-F" creationdate="20221115T135257Z">
+        <seg>Sie können diesen Vorgang bei Bedarf wiederholen, um ältere Situationen zu finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142403Z" creationid="Ragnar-F" creationdate="20210111T180912Z">
@@ -44641,6 +44761,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T153837Z">
         <seg>Ihr Projekt enthält keine Dateien in einem unterstützten Dateiformat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project won’t open?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T140227Z" creationid="Ragnar-F" creationdate="20221115T140227Z">
+        <seg>Ihr Projekt lässt sich nicht öffnen?</seg>
       </tuv>
     </tu>
     <tu>
