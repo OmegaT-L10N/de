@@ -8714,6 +8714,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check tag issues with &lt;l0/&gt; and produce translated documents regularly to catch any problems quickly.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120159Z" creationid="Ragnar-F" creationdate="20221115T120159Z">
+        <seg>Untersuchen Sie Tag-Probleme mit &lt;l0/&gt; und erstellen Sie regelmäßig übersetzte Dokumente, um eventuelle Probleme schnell zu erkennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T094334Z">
@@ -9612,6 +9620,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T220807Z">
         <seg>Obwohl OmegaT also durchaus in der Lage ist, mit &lt;f1&gt;.tmx&lt;/f1&gt;-Dateien umzugehen, werden diese nicht in die Suche nach Dateien einbezogen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consequently, if the source language is LTR and the target language is RTL, or vice versa, you will need to toggle back and forth between the two modes to read the source and enter the target easily.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120009Z" creationid="Ragnar-F" creationdate="20221115T114511Z">
+        <seg>Folglich müssen Sie, wenn die Quellsprache LTR und die Zielsprache RTL ist oder umgekehrt, zwischen den beiden Modi hin- und herwechseln, um den Quelltext lesen zu können und den Zieltext bequem eintragen zu können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16544,6 +16560,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hint: it may be simpler to translate a plain text version of the document and add any necessary styling in the relevant application at a later stage.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120335Z" creationid="Ragnar-F" creationdate="20221115T120335Z">
+        <seg>Tipp: Unter Umständen ist es einfacher, zuerst eine reine Textversion des Dokuments zu übersetzen und später in der fraglichen Applikation alle erforderlichen Formatierungen vorzunehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hints</seg>
       </tuv>
       <tuv lang="de">
@@ -16676,6 +16700,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T121656Z">
         <seg>Wenn Sie allerdings einen Tag fehlerhaft eingeben, kann es vorkommen, dass die übersetzten Dateien nicht mehr geöffnet werden können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, it is often necessary to include LTR text, such as OmegaT tags, product names that must retain their original LTR language direction, or placeholders in localization files, within an RTL document.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T113925Z" creationid="Ragnar-F" creationdate="20221115T113925Z">
+        <seg>Oftmals müssen aber auch LTR-Texte in einem RTL-Dokumente geschrieben werden, wie z. B. OmegaT-Tags, Produktnamen (die ihre ursprüngliche LTR-Sprachrichtung beibehalten müssen) oder Platzhalter in Lokalisierungsdateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18990,6 +19022,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T221939Z">
         <seg>Trotz des Punktes sollte &lt;e0&gt;"Mrs. Dalloway"&lt;/e0&gt; nicht in zwei Segmente aufgeteilt werden, also sollte eine Ausnahmeregel für Mrs (und für Mr, für Dr, für prof usw.), gefolgt von einem Punkt, festgelegt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In such cases, you must switch to RTL mode to ensure the RTL (or, more precisely, bidirectional) text is displayed correctly.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T114110Z" creationid="Ragnar-F" creationdate="20221115T114110Z">
+        <seg>In solchen Fällen müssen Sie in den RTL-Modus wechseln, um sicherzustellen, dass der RTL-Text (oder genauer gesagt, der bidirektionale Text) korrekt angezeigt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24080,6 +24120,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that OmegaT shows both the source and target in the same mode.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T114216Z" creationid="Ragnar-F" creationdate="20221115T114216Z">
+        <seg>Beachten Sie, dass OmegaT sowohl die Quelle als auch das Ziel im gleichen Modus anzeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T123606Z" creationid="Ragnar-F" creationdate="20210111T125804Z">
@@ -24100,6 +24148,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T111821Z">
         <seg>Beachten Sie, dass Sie die normale Installation verwenden müssen, wenn Sie eines der Startbefehlsargumente (siehe oben) benötigen oder verwenden möchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that in Microsoft Word .docx files, a number of changes are made automatically:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120548Z" creationid="Ragnar-F" creationdate="20221115T120548Z">
+        <seg>Beachten Sie, dass in den .docx-Dateien von Microsoft Word eine Reihe von Änderungen automatisch vorgenommen werden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25342,6 +25398,14 @@ höher auf Ihrem System installiert ist.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T140959Z">
         <seg>OmegaT unterstützt das Importieren von TMX-Dateien der Versionen 1.1 bis 1.4b (sowohl Level 1 als auch Level 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT tags are LTR strings.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T114939Z" creationid="Ragnar-F" creationdate="20221115T114939Z">
+        <seg>OmegaT-Tags sind LTR-Zeichenketten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26835,6 +26899,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T152441Z">
         <seg>Absätze, Bereiche und Tabellen werden auf BiDi gesetzt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraphs, sections and tables are set to bidirectional text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120640Z" creationid="Ragnar-F" creationdate="20221115T120640Z">
+        <seg>Absätze, Bereiche und Tabellen werden auf bidirektionalen Text umgestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29821,6 +29893,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T134941Z" creationid="Ragnar-F" creationdate="20221114T134941Z">
         <seg>Die Ausführung des Skripts erfordert die Eingabe Ihres &lt;f0&gt;sudo&lt;/f0&gt;-Passworts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Runs (short sections of text in the same style) are set to RTL.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120734Z" creationid="Ragnar-F" creationdate="20221115T120734Z">
+        <seg>Runs (kurze Textabschnitte im gleichen Stil) werden auf RTL umgestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33680,6 +33760,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags in RTL Segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T114522Z" creationid="Ragnar-F" creationdate="20221115T114522Z">
+        <seg>Tags in RTL-Segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tags that do not enclose translatable text will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T142431Z" creationid="Ragnar-F" creationdate="20221110T142431Z">
@@ -37180,6 +37268,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated document will be created in the same display direction as the original.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120421Z" creationid="Ragnar-F" creationdate="20221115T120421Z">
+        <seg>Das übersetzte Dokument wird in der gleichen Anzeigerichtung wie das Original erstellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20131013T163109Z">
@@ -37611,6 +37707,14 @@ configuration folder cannot be reliably determined.</seg>
         <seg>Aus diesem Grund kann der Speicherort des
 Konfigurationsordners von OmegaT nicht zuverlässig ermittelt
 werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, translators are encouraged to remove style information from the original document whenever possible to limit the number of tags displayed in the editor.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120128Z" creationid="Ragnar-F" creationdate="20221115T120128Z">
+        <seg>Daher sollten Übersetzer, wann immer möglich, Stilinformationen aus dem Originaldokument entfernen, um die Anzahl der im Editor angezeigten Tags zu begrenzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40158,6 +40262,14 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated Documents</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120356Z" creationid="Ragnar-F" creationdate="20221115T120356Z">
+        <seg>Übersetzte Dokumente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated File Encoding</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T141448Z">
@@ -42634,8 +42746,8 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       <tuv lang="en">
         <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210122T135042Z">
-        <seg>Wenn Sie eine Übersetzung zwischen RTL- und LTR-Sprachen vornehmen, müssen Sie unter Umständen mehrmals zwischen dem LTR- und dem RTL-Modus hin und her wechseln, um die Tags in der Quelle korrekt lesen und in der Zielsprache korrekt eingeben zu können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T115832Z">
+        <seg>Wenn Sie eine Übersetzung zwischen RTL- und LTR-Sprachen vornehmen, müssen Sie unter Umständen mehrmals zwischen dem LTR- und dem RTL-Modus hin- und herwechseln, um die Tags im Quelltext korrekt lesen zu können und die Tags ordnungsgemäß in den Zieltext eintragen zu können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43029,6 +43141,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T094502Z" creationid="BVB" creationdate="20180826T094502Z">
         <seg>Mit JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With some file formats, such as ODF, it is also possible to modify the settings in the source file so that they are automatically applied to the target file, eliminating the need to set them every time you open it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120932Z" creationid="Ragnar-F" creationdate="20221115T120932Z">
+        <seg>Bei einigen Dateiformaten, wie z. B. ODF, ist es zudem möglich, die Einstellungen in der Quelldatei so zu ändern, dass sie automatisch auf die Zieldatei übertragen werden, damit sie nicht jedes Mal beim Öffnen neu eingestellt werden müssen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44144,8 +44264,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You can use the default (LTR) mode to write purely RTL text.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T185023Z" creationid="Ragnar-F" creationdate="20221114T185023Z">
-        <seg>Sie können den Standardmodus (LTR) verwenden, um reinen RTL-Text zu schreiben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T113154Z" creationid="Ragnar-F" creationdate="20221114T185023Z">
+        <seg>Sie können den Standardmodus (LTR) verwenden, um reine RTL-Texte zu schreiben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44293,6 +44413,14 @@ Methoden zu lösen:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T111349Z" creationid="Ragnar-F" creationdate="20210113T111349Z">
         <seg>Jedes Mal, wenn Sie OmegaT starten, werden Sie aufgefordert, dieses Passwort einzugeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will have to change the text direction of the target document in its own application.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120454Z" creationid="Ragnar-F" creationdate="20221115T120454Z">
+        <seg>Sie müssen die Textrichtung des Zieldokuments in dessen eigener Applikation ändern.</seg>
       </tuv>
     </tu>
     <tu>
