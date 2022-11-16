@@ -95,6 +95,28 @@
     <tu>
       <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
+	# To use a parameter, remove the '#' before the '-'
+	# Memory
+	-Xmx1024M
+	# Language
+	-Duser.language=FR
+	# Country
+	-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T084550Z" creationid="Ragnar-F" creationdate="20221116T084550Z">
+        <seg># OmegaT.exe runtime configuration
+	# To use a parameter, remove the '#' before the '-'
+	# Memory
+	-Xmx1024M
+	# Language
+	-Duser.language=FR
+	# Country
+	-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
 -Xmx1024M
@@ -2980,6 +3002,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T090924Z" creationid="Ragnar-F" creationdate="20221116T090924Z">
+        <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;&amp;br&gt; (breaks)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210118T193433Z">
@@ -3702,10 +3732,34 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;Configuration.properties&lt;/f0&gt; is located in &lt;f1&gt;Contents/Resources/&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T085817Z" creationid="Ragnar-F" creationdate="20221116T085817Z">
+        <seg>&lt;f0&gt;Configuration.properties&lt;/f0&gt; befindet sich in &lt;f1&gt;Contents/Resources/&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Info.plist&lt;/f0&gt; is located in &lt;f1&gt;Contents/&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T085834Z" creationid="Ragnar-F" creationdate="20221116T085834Z">
+        <seg>&lt;f0&gt;Info.plist&lt;/f0&gt; befindet sich in &lt;f1&gt;Contents/&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T111630Z" creationid="Ragnar-F" creationdate="20210111T111630Z">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; kann die macOS-Dienste in Anspruch nehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; comes with an &lt;f1&gt;OmegaT&lt;/f1&gt; executable located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; that you can also use to launch multiple instances of &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T085553Z" creationid="Ragnar-F" creationdate="20221116T085418Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; kommt mit einer ausführbaren &lt;f1&gt;OmegaT&lt;/f1&gt;-Datei in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;, die Sie auch zum Starten mehrerer Instanzen von &lt;f3&gt;OmegaT.app&lt;/f3&gt; verwenden können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6544,6 +6598,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And it also comes with the generic &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; that you can use to launch OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T085544Z" creationid="Ragnar-F" creationdate="20221116T085544Z">
+        <seg>Außerdem kommt es mit der generischen &lt;f0&gt;OmegaT.jar&lt;/f0&gt;-Datei in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt;, die Sie verwenden können, um OmegaT über die Befehlszeile zu starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T112257Z" creationid="BVB" creationdate="20180826T193039Z">
@@ -7434,6 +7496,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before graphical interfaces became common, users interacted with computers via a command-line interface (CLI), which requires typing commands to give instructions to the computer.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T092952Z" creationid="Ragnar-F" creationdate="20221116T092952Z">
+        <seg>Bevor grafische Benutzeroberflächen üblich wurden, erfolgte die Interaktion mit dem Computer über eine Befehlszeilenschnittstelle (CLI), die die Eingabe von Befehlen erfordert, um dem Computer Anweisungen zu geben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before proceeding</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T134335Z" creationid="Ragnar-F" creationdate="20210112T134335Z">
@@ -7542,6 +7612,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T122705Z" creationid="Ragnar-F" creationdate="20210113T115824Z">
         <seg>Beides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Both are available from the &lt;g2&gt;System Tools&lt;/g2&gt; folder of the &lt;g3&gt;Start Menu&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T093721Z" creationid="Ragnar-F" creationdate="20221116T093721Z">
+        <seg>Beide sind über den &lt;g2&gt;Systemprogramme&lt;/g2&gt;-Ordner im &lt;g3&gt;Startmenü&lt;/g3&gt; zugänglich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9332,6 +9410,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command line launch</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T092454Z" creationid="Ragnar-F" creationdate="20221116T092454Z">
+        <seg>Start über die Befehlszeile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T121656Z" creationid="Ragnar-F" creationdate="20210113T121656Z">
@@ -9552,6 +9638,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configuration.properties</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T090715Z" creationid="Ragnar-F" creationdate="20221116T090715Z">
+        <seg>Configuration.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="de">
@@ -9741,6 +9835,14 @@ a description of how this error was produced.</seg>
 wie Sie das Projekt wiederherstellen können, und senden Sie die
 unten stehenden Informationen mit einer Beschreibung, wie dieser
 Fehler entstanden ist, an den Softwarehersteller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consult the documentation for your system for more information.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T091329Z" creationid="Ragnar-F" creationdate="20221116T091329Z">
+        <seg>Weitere Informationen finden Sie in der Dokumentation zu Ihrem System.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15059,6 +15161,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l1&gt;user.language=ja&lt;/l1&gt; (without the &lt;l2&gt;#&lt;/l2&gt;) will launch OmegaT with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T090805Z" creationid="Ragnar-F" creationdate="20221116T090805Z">
+        <seg>&lt;l1&gt;user.language=ja&lt;/l1&gt; beispielsweise (ohne das &lt;l2&gt;#&lt;/l2&gt;) wird OmegaT mit der japanischsprachigen Benutzeroberfläche starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T110831Z" creationid="Ragnar-F" creationdate="20210111T110831Z">
@@ -15211,6 +15321,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, to change the amount of memory available uncomment the line</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T090923Z" creationid="Ragnar-F" creationdate="20221116T090923Z">
+        <seg>Um beispielsweise die Menge des verfügbaren Speichers zu ändern, heben Sie die Kommentierung der folgenden Zeile auf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T130420Z" creationid="Ragnar-F" creationdate="20221110T130420Z">
@@ -15315,6 +15433,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For predefined options, remove the &lt;l0&gt;#&lt;/l0&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T090744Z" creationid="Ragnar-F" creationdate="20221116T090744Z">
+        <seg>Wenn Sie vordefinierte Optionen verwenden wollen, entfernen Sie das &lt;l0&gt;#&lt;/l0&gt; vor einem Parameter, um ihn zu aktivieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For security purposes, local project-based external searches are disabled by default.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T120531Z" creationid="Ragnar-F" creationdate="20221114T120531Z">
@@ -15367,6 +15493,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T130033Z" creationid="Ragnar-F" creationdate="20210109T130008Z">
         <seg>Bezugnehmend auf das obige Beispiel müsste das Eingabefeld Folgendes enthalten: &lt;l1&gt;class=hide, translate=no&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the sake of simplicity, this manual refers to it as the terminal.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T093343Z" creationid="Ragnar-F" creationdate="20221116T093343Z">
+        <seg>Der Einfachheit halber wird sie in dieser Bedienungsanleitung als Terminal bezeichnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17137,6 +17271,14 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T215551Z" creationid="Michael Motzkus" creationdate="20180918T172150Z">
         <seg>Wenn die Option &lt;e0&gt;Relevante Vorschläge automatisch anzeigen&lt;/e0&gt; aktiviert ist, wird der Auto-Vervollständiger automatisch gestartet, wenn Sie den ersten Buchstaben eines übersetzten Glossareintrags eingeben, oder "&lt;", um Tags einzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;.jar&lt;/f0&gt; files are properly associated with Java 8 Runtime Environment and your PATH settings are correct, you can also simply click (or double-click) on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T091307Z" creationid="Ragnar-F" creationdate="20221116T091307Z">
+        <seg>Wenn &lt;f0&gt;.jar&lt;/f0&gt;-Dateien ordnungsgemäß mit der Java 8 Runtime Environment verknüpft sind und Ihre PATH-Einstellungen korrekt sind, können Sie auch einfach auf &lt;f1&gt;OmegaT.jar&lt;/f1&gt; klicken (oder doppelklicken), um es direkt zu starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19511,6 +19653,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de">
         <seg>Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Info.plist</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T090806Z" creationid="Ragnar-F" creationdate="20221116T090806Z">
+        <seg>Info.plist</seg>
       </tuv>
     </tu>
     <tu>
@@ -22916,6 +23066,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Methods vary from one system to another, but in general, once OmegaT is installed, you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T091123Z" creationid="Ragnar-F" creationdate="20221116T091123Z">
+        <seg>Die Methoden variieren je nach System, aber in der Regel können Sie OmegaT, sobald es installiert ist, direkt über die Befehlszeile starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Office Open XML files</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T130100Z">
@@ -25888,6 +26046,14 @@ enthalten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Linux, the default terminal application for your distribution should be available from the application menu or one of its submenus.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T094408Z" creationid="Ragnar-F" creationdate="20221116T094408Z">
+        <seg>In Linux sollte das Standard-Terminal für Ihre Distribution über das Anwendungsmenü oder eines seiner Untermenüs aufrufbar sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows</seg>
       </tuv>
       <tuv lang="de">
@@ -25912,6 +26078,14 @@ enthalten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows, you can use either the &lt;a0&gt;Command Prompt&lt;/a0&gt; or &lt;a1&gt;Powershell&lt;/a1&gt; as a terminal.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T093451Z" creationid="Ragnar-F" creationdate="20221116T093451Z">
+        <seg>In Windows können Sie entweder die &lt;a0&gt;Eingabeaufforderung&lt;/a0&gt; oder &lt;a1&gt;Powershell&lt;/a1&gt; als Terminal verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On macOS</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T121643Z" creationid="Ragnar-F" creationdate="20210111T121631Z">
@@ -25924,6 +26098,14 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111425Z" creationid="Ragnar-F" creationdate="20221112T111417Z">
         <seg>Bei macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On modern systems, the CLI is accessed through an application generally called a "terminal" or "console".</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T093319Z" creationid="Ragnar-F" creationdate="20221116T093319Z">
+        <seg>Bei modernen Systemen erfolgt der Zugriff auf die CLI über eine Applikation, die häufig "Terminal" oder "Konsole" genannt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30161,6 +30343,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T084411Z" creationid="Ragnar-F" creationdate="20221116T084411Z">
+        <seg>OmegaT ausführen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run OmegaT" in the user guide.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T112209Z" creationid="Ragnar-F" creationdate="20221109T112209Z">
@@ -32362,6 +32552,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T123430Z" creationid="Ragnar-F" creationdate="20210112T123430Z">
         <seg>Einfaches Suchen-und-Ersetzen-Skript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplified Overview</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T092743Z" creationid="Ragnar-F" creationdate="20221116T092743Z">
+        <seg>Vereinfachte Übersicht</seg>
       </tuv>
     </tu>
     <tu>
@@ -36428,6 +36626,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The macOS equivalent is the &lt;a0&gt;Terminal&lt;/a0&gt; application located in the &lt;f1&gt;Utilities&lt;/f1&gt; folder of the &lt;f2&gt;Applications&lt;/f2&gt; main folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T093957Z" creationid="Ragnar-F" creationdate="20221116T093957Z">
+        <seg>Das macOS-Äquivalent nennt sich &lt;a0&gt;Terminal&lt;/a0&gt; und befindet sich im Ordner &lt;f1&gt;Dienstprogramme&lt;/f1&gt; des Hauptordners &lt;f2&gt;Programme&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T115206Z" creationid="Ragnar-F" creationdate="20210111T115206Z">
@@ -36660,10 +36866,26 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options for the program start-up will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T084545Z" creationid="Ragnar-F" creationdate="20221116T084545Z">
+        <seg>Die Optionen für den Programmstart werden aus der Datei &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; gelesen, die sich im gleichen Ordner wie die EXE-Datei befindet und die Sie nach Belieben bearbeiten können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original file is backed up as: {0}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T145632Z" creationid="Ragnar-F" creationdate="20221109T145632Z">
         <seg>Ein Backup der Originaldatei wurde angelegt unter: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The package also provides a &lt;f0&gt;omegat.kaptn&lt;/f0&gt; Kaptain script, which KDE users might find useful, as well as an &lt;f1&gt;OmegaT&lt;/f1&gt; bash script that automatically launches the appropriate &lt;a2&gt;java&lt;/a2&gt; command to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T085102Z" creationid="Ragnar-F" creationdate="20221116T085102Z">
+        <seg>Das Paket enthält auch ein &lt;f0&gt;omegat.kaptn&lt;/f0&gt;-Kaptain-Skript, das für KDE-Benutzer nützlich sein könnte, sowie ein &lt;f1&gt;OmegaT&lt;/f1&gt;-Bash-Skript, das automatisch den entsprechenden &lt;a2&gt;java&lt;/a2&gt;-Befehl zur Ausführung von OmegaT startet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37256,6 +37478,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141105Z" creationid="Ragnar-F" creationdate="20221111T141105Z">
         <seg>Der einfachste reguläre Ausdruck besteht aus einem einzigen Zeichen, oder aus einem &lt;l0&gt;\&lt;/l0&gt; und einem Zeichen, die zusammen eine besondere Bedeutung haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The simplest way to launch OmegaT is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T084507Z" creationid="Ragnar-F" creationdate="20221116T084507Z">
+        <seg>Der einfachste Weg, OmegaT zu starten, ist die Ausführung des Programms &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39560,6 +39790,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l0&gt;6g&lt;/l0&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T091015Z" creationid="Ragnar-F" creationdate="20221116T091015Z">
+        <seg>Dies wird OmegaT mit 6 GB Speicher starten; ändern Sie das &lt;l0&gt;6g&lt;/l0&gt; auf die gewünschte Kapazität.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T111301Z" creationid="Ragnar-F" creationdate="20210111T111301Z">
@@ -39668,6 +39906,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T110217Z" creationid="Ragnar-F" creationdate="20210111T110217Z">
         <seg>Um auf &lt;f0&gt;Configuration.properties&lt;/f0&gt; zuzugreifen, rechtsklicken Sie auf &lt;f1&gt;OmegaT.app&lt;/f1&gt; und wählen Sie "Paketinhalt anzeigen" aus. Öffnen Sie dann die Datei in &lt;f2&gt;Contents/Resources&lt;/f2&gt;, indem Sie mit der rechten Maustaste darauf klicken und den Texteditor Ihrer Wahl auswählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To access the files inside &lt;f0&gt;OmegaT.app&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select “Show Package Contents”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T090645Z" creationid="Ragnar-F" creationdate="20221116T090645Z">
+        <seg>Um auf die Dateien in &lt;f0&gt;OmegaT.app&lt;/f0&gt; zuzugreifen, rechtsklicken Sie auf &lt;f1&gt;OmegaT.app&lt;/f1&gt; und wählen Sie "Paketinhalt zeigen" aus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42282,6 +42528,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use your text editor of choice to modify the files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T090714Z" creationid="Ragnar-F" creationdate="20221116T090714Z">
+        <seg>Verwenden Sie zum Bearbeiten der Dateien einen Texteditor Ihrer Wahl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Used when launching OmegaT from the command line.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T093500Z" creationid="Ragnar-F" creationdate="20221110T093500Z">
@@ -42586,6 +42840,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T131527Z">
         <seg>Die Verwendung des RTL-Modus in &lt;a0&gt;OmegaT&lt;/a0&gt; hat keinerlei Einfluss auf den Darstellungsmodus der übersetzten Dokumente, die in &lt;a1&gt;OmegaT&lt;/a1&gt; erstellt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the command line allows you to set various options that control or modify the behavior of the application.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T092645Z" creationid="Ragnar-F" creationdate="20221116T092645Z">
+        <seg>OmegaT über die Befehlszeile zu starten, gibt Ihnen die Möglichkeit, verschiedene Optionen festzulegen, die das Verhalten der Applikation steuern oder verändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44163,6 +44425,22 @@ Kaptain-Startskript wie folgt starten:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly if the &lt;f1&gt;.jar&lt;/f1&gt; extension is associated to the system Java launcher.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T084943Z" creationid="Ragnar-F" creationdate="20221116T084943Z">
+        <seg>Sie können auch auf &lt;f0&gt;OmegaT.jar&lt;/f0&gt; klicken, um es direkt zu starten, sofern die &lt;f1&gt;.jar&lt;/f1&gt;-Erweiterung mit dem Java-Launcher des Systems verknüpft ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define and save sets of options in scripts that you can then use to launch OmegaT for a particular purpose.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T092730Z" creationid="Ragnar-F" creationdate="20221116T092730Z">
+        <seg>Sie können auch eine Reihe von Optionen in Skripten definieren und speichern, die Sie dann verwenden können, um OmegaT für einen bestimmten Zweck zu starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define global post-processing commands available to all projects that share the same configuration folder.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T114653Z" creationid="Ragnar-F" creationdate="20221114T114653Z">
@@ -44256,10 +44534,18 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use AppleScript, Automator or Shortcuts to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T091043Z" creationid="Ragnar-F" creationdate="20221116T091043Z">
+        <seg>Sie können auch AppleScript, Automator oder Shortcuts verwenden, um Dienste oder Skripte zu erstellen, die wiederkehrende Aktionen automatisieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also use non default configuration folders by starting OmegaT from the command line.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100537Z" creationid="Ragnar-F" creationdate="20221110T100537Z">
-        <seg>Sie können auch benutzerdefinierte Konfigurationsordner verwenden, indem Sie OmegaT von der Befehlszeile aus starten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T084728Z" creationid="Ragnar-F" creationdate="20221110T100537Z">
+        <seg>Sie können auch benutzerdefinierte Konfigurationsordner verwenden, indem Sie OmegaT über die Befehlszeile starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44364,6 +44650,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T124225Z" creationid="Michael Motzkus" creationdate="20180918T071949Z">
         <seg>Sie können für jeden neuen Auftrag ein neues Projekt erstellen, und Sie können einem Projekt jederzeit neue Quelldateien hinzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a script that includes the desired command line launch parameters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T091139Z" creationid="Ragnar-F" creationdate="20221116T091139Z">
+        <seg>Sie können ein Skript erstellen, das die gewünschten Startparameter für die Befehlszeile enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44510,10 +44804,18 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T084718Z" creationid="Ragnar-F" creationdate="20221116T084718Z">
+        <seg>Sie können OmegaT über die Befehlszeile mit einem Skript starten, das Startoptionen enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can limit the segmentation rules used by the project to that project by either setting local rules with &lt;l0/&gt;, in &lt;l1/&gt;, or by starting OmegaT from the command line.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T101221Z" creationid="Ragnar-F" creationdate="20221112T101221Z">
-        <seg>Sie können die vom Projekt verwendeten Segmentierungsregeln auf dieses Projekt beschränken, indem Sie entweder lokale Regeln mit &lt;l0/&gt; in &lt;l1/&gt; festlegen oder OmegaT von der Befehlszeile aus starten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T084740Z" creationid="Ragnar-F" creationdate="20221112T101221Z">
+        <seg>Sie können die vom Projekt verwendeten Segmentierungsregeln auf dieses Projekt beschränken, indem Sie entweder lokale Regeln mit &lt;l0/&gt; in &lt;l1/&gt; festlegen oder OmegaT über die Befehlszeile starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44530,6 +44832,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T105921Z" creationid="Ragnar-F" creationdate="20210111T105921Z">
         <seg>Sie können das Verhalten von OmegaT ändern, indem Sie sowohl die &lt;e0&gt;Eigenschaften&lt;/e0&gt; als auch die &lt;f1&gt;Configuration.properties&lt;/f1&gt;-Datei im Paket bearbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the behavior of OmegaT.app by editing the &lt;f0&gt;Configuration.properties&lt;/f0&gt; (OmegaT configuration) as well as the &lt;f1&gt;Info.plist&lt;/f1&gt; (Java configuration) files located inside the OmegaT.app package.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T085755Z" creationid="Ragnar-F" creationdate="20221116T085755Z">
+        <seg>Sie können das Verhalten von OmegaT.app ändern, indem Sie die Dateien &lt;f0&gt;Configuration.properties&lt;/f0&gt; (OmegaT-Konfiguration) und &lt;f1&gt;Info.plist&lt;/f1&gt; (Java-Konfiguration) im OmegaT.app-Paket bearbeiten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45857,6 +46167,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180827T070133Z" creationid="BVB" creationdate="20180827T070133Z">
         <seg>bitext2tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by removing the &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T090957Z" creationid="Ragnar-F" creationdate="20221116T090957Z">
+        <seg>indem Sie das &lt;l0&gt;&lt;!--&lt;/l0&gt; und &lt;l1&gt;--&gt;&lt;/l1&gt; entfernen.</seg>
       </tuv>
     </tu>
     <tu>
