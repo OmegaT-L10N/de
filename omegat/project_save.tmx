@@ -3266,6 +3266,16 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124110Z" creationid="Ragnar-F" creationdate="20221116T124110Z">
+        <seg>&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
@@ -4532,10 +4542,30 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124045Z" creationid="Ragnar-F" creationdate="20221116T124045Z">
+        <seg>&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T085255Z" creationid="Ragnar-F" creationdate="20210111T085255Z">
         <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124051Z" creationid="Ragnar-F" creationdate="20221116T124051Z">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5094,6 +5124,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T093851Z" creationid="Ragnar-F" creationdate="20221110T093851Z">
         <seg>Ein Link zur Support-Seite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A list of mapping parameters is presented below, and examples of their use is provided in the next section.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123616Z" creationid="Ragnar-F" creationdate="20221116T123616Z">
+        <seg>Nachfolgend sehen Sie eine Liste von Zuordnungsparametern. Im nächsten Abschnitt finden Sie Anwendungsbeispiele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5666,6 +5704,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Accessing a team project requires the following information:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T121500Z" creationid="Ragnar-F" creationdate="20221116T121500Z">
+        <seg>Für den Zugriff auf ein Teamprojekt sind die folgenden Informationen erforderlich:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Actions &amp; Settings</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085025Z" creationid="Michael Motzkus" creationdate="20190129T085025Z">
@@ -5978,6 +6024,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Administrators have two options for sending the location of the project to the translators:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T122050Z" creationid="Ragnar-F" creationdate="20221116T122050Z">
+        <seg>Administratoren haben zwei Möglichkeiten, den Standort des Projekts an die Übersetzer zu übermitteln:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T225746Z">
@@ -5998,6 +6052,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T092502Z">
         <seg>Danach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After creating the accounts, the administrator must send the translators their individual credentials.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T122029Z" creationid="Ragnar-F" creationdate="20221116T122029Z">
+        <seg>Nach dem Erstellen der Konten muss der Administrator den Übersetzern ihre individuellen Anmeldedaten übermitteln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6050,10 +6112,26 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the project is ready and has been uploaded to the server, the team project administrator has to set up access for the translators.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124942Z" creationid="Ragnar-F" creationdate="20221116T121433Z">
+        <seg>Nachdem das Projekt erstellt und auf den Server hochgeladen wurde, muss der Teamprojektadministrator den Zugang für die Übersetzer einrichten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T202310Z">
         <seg>Wenn die Quelldatei in den &lt;g3&gt;Editorbereich&lt;/g3&gt; geladen wurde, können Sie das Dialogfenster &lt;g4&gt;Projektdateien&lt;/g4&gt; schließen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the team project administrator confirms that a translator has been able to open the team project, it is a good idea to make sure that the &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the administrator (on the server) and the translator (locally).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T125022Z" creationid="Ragnar-F" creationdate="20221116T122602Z">
+        <seg>Nachdem der Teamprojektadministrator sicherstellen konnte, dass ein Übersetzer das Teamprojekt öffnen kann, ist es ratsam, sich zu vergewissern, dass die &lt;l0&gt;Projektstatistiken&lt;/l0&gt; sowohl für den Administrator (auf dem Server) als auch für den Übersetzer (lokal) identisch sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6582,6 +6660,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T083615Z" creationid="Ragnar-F" creationdate="20221111T080800Z">
         <seg>Obwohl reguläre Ausdrücke (oft mit &lt;e0&gt;regex&lt;/e0&gt; oder &lt;e1&gt;regexp&lt;/e1&gt; abgekürzt) als abschreckend und komplex angesehen werden, sind die einfachsten unter ihnen äußerst nützlich - sowohl in OmegaT als auch in vielen anderen Applikationen, die Sie tagtäglich verwenden, mit einigen Variationen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although the mapping feature is primarily intended for gathering source files from disparate locations, it can also be used for other types of files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123253Z" creationid="Ragnar-F" creationdate="20221116T123253Z">
+        <seg>Obwohl die Zuordnungsfunktion in erster Linie für das Sammeln von Quelldateien aus verschiedenen Speicherorten gedacht ist, kann sie auch für andere Arten von Dateien verwendet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7159,6 +7245,14 @@ may experience unexpected, but correct behaviour.</seg>
 hat zur Folge, dass alle Einstellungen auf ihre Standardwerte
 zurückgesetzt werden, wodurch es zu unerwartetem, aber
 korrektem Verhalten kommen kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As above, but for files that should be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123837Z" creationid="Ragnar-F" creationdate="20221116T123837Z">
+        <seg>Wie oben, aber für Dateien, die Teil der Zuordnung sein sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14177,6 +14271,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Everything in &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; is mapped to the local OmegaT project source folder, except files with a &lt;f1&gt;.bak&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124249Z" creationid="Ragnar-F" creationdate="20221116T124249Z">
+        <seg>Alles in &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; ist dem lokalen OmegaT-Projekt-Quellordner zugeordnet, außer Dateien mit der &lt;f1&gt;.bak&lt;/f1&gt;-Endung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exact match:</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20131014T110441Z">
@@ -14209,6 +14311,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files in the project, even if they are located in an excluded folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124040Z" creationid="Ragnar-F" creationdate="20221116T124040Z">
+        <seg>Beispiel: &lt;u0&gt;**/*.docx&lt;/u0&gt;, um alle .docx-Dateien in das Projekt aufzunehmen, auch wenn sie in einem ausgeschlossenen Ordner enthalten sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T084959Z" creationid="Ragnar-F" creationdate="20210111T084959Z">
@@ -14221,6 +14331,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T084558Z" creationid="Ragnar-F" creationdate="20210111T084558Z">
         <seg>Beispiel: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; schließt Dateien aus, die /excludedfolder/ im Pfad haben, und Dateien mit der .txt-Endung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, as well as files with the &lt;f1&gt;.txt&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123823Z" creationid="Ragnar-F" creationdate="20221116T123823Z">
+        <seg>Beispiel: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; schließt Dateien aus, die /excludedfolder/ im Pfad haben, sowie Dateien mit der &lt;f1&gt;.txt&lt;/f1&gt;-Endung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15147,6 +15265,14 @@ Backup-Dateiendung '.recover'.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T094917Z" creationid="Ragnar-F" creationdate="20210113T094917Z">
         <seg>Filter...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, publish your project to the remote server (&lt;c0&gt;commit&lt;/c0&gt; in SVN, &lt;c1&gt;commit&lt;/c1&gt; and &lt;c2&gt;push&lt;/c2&gt; in Git).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T121338Z" creationid="Ragnar-F" creationdate="20221116T121338Z">
+        <seg>Veröffentlichen Sie schließlich Ihr Projekt auf dem Remote-Server (&lt;c0&gt;commit&lt;/c0&gt; in SVN, &lt;c1&gt;commit&lt;/c1&gt; und &lt;c2&gt;push&lt;/c2&gt; in Git).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17454,6 +17580,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the &lt;f2&gt;readme.bak&lt;/f2&gt; is also included.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124411Z" creationid="Ragnar-F" creationdate="20221116T124411Z">
+        <seg>Allerdings wird auch die &lt;f2&gt;readme.bak&lt;/f2&gt;-Datei eingeschlossen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T112036Z">
@@ -18472,6 +18606,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server is self-hosted that does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T125008Z" creationid="Ragnar-F" creationdate="20221116T121946Z">
+        <seg>Wenn es sich um einen selbst gehosteten Server handelt, auf dem die Übersetzer keine Möglichkeit zur Registrierung haben, muss der Teamprojektadministrator für jeden Übersetzer ein Konto mit Schreibrechten einrichten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T121100Z" creationid="Ragnar-F" creationdate="20221110T121100Z">
@@ -18612,6 +18754,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210223T161001Z">
         <seg>Solange die Tastaturkurzbefehle nicht mit den Tastaturkurzbefehlen des Systems in Konflikt stehen, sollten diese in OmegaT nutzbar sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they do not match, make sure the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are properly shared.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T122638Z" creationid="Ragnar-F" creationdate="20221116T122638Z">
+        <seg>Wenn sie nicht übereinstimmen, vergewissern Sie sich, dass die Dateien &lt;f0&gt;filters.xml&lt;/f0&gt; und &lt;f1&gt;segmentation.conf&lt;/f1&gt; ordnungsgemäß freigegeben sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21011,6 +21161,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also possible to use a team project configuration where several translators share the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file, and only a subset of the other files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T125230Z" creationid="Ragnar-F" creationdate="20221116T125230Z">
+        <seg>Es ist auch möglich, ein Teamprojekt zu konfigurieren, wo sich mehrere Übersetzer die &lt;f0&gt;project_save.tmx&lt;/f0&gt;-Datei und nur eine Teilmenge der anderen Dateien teilen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is called the &lt;e1&gt;writable&lt;/e1&gt; glossary for this reason.</seg>
       </tuv>
       <tuv lang="de" changeid="SabineWanner" changedate="20221110T200648Z" creationid="SabineWanner" creationdate="20221110T200648Z">
@@ -21055,6 +21213,14 @@ Bedienungsanleitung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T132341Z" creationid="Michael Motzkus" creationdate="20180925T082850Z">
         <seg>Es ist möglich, mittels Drag-und-Drop einen Text von einer beliebigen Stelle des Hauptfensters aus in das Segment abzulegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to map various remote locations to local files via the OmegaT user interface using &lt;l0/&gt; in the &lt;l1/&gt; dialog, or by editing the &lt;l2/&gt; file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123155Z" creationid="Ragnar-F" creationdate="20221116T123155Z">
+        <seg>Es ist möglich, verschiedene Remote-Speicherorte den lokalen Dateien zuzuordnen (über die OmegaT-Benutzeroberfläche mit &lt;l0/&gt; im &lt;l1/&gt;-Dialogfenster oder durch Bearbeiten der &lt;l2/&gt;-Datei).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23082,10 +23248,26 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for additional sources from a remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124109Z" creationid="Ragnar-F" creationdate="20221116T124109Z">
+        <seg>Zuordnung für zusätzliche Quellen aus einem Remote-Repository, mit Filtern:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping for additional sources from remote repository, with filters:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T085430Z" creationid="Ragnar-F" creationdate="20210111T085430Z">
         <seg>Zuordnung für zusätzliche Quellen aus dem Remote-Repository, mit Filtern:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for extra source files from the web:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124514Z" creationid="Ragnar-F" creationdate="20221116T124514Z">
+        <seg>Zuordnung für zusätzliche Quelldateien aus dem Web:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29378,6 +29560,22 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Projects on a hosting service</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T121513Z" creationid="Ragnar-F" creationdate="20221116T121513Z">
+        <seg>Projekte auf einem Hosting-Dienst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects on a self-hosted server</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T121631Z" creationid="Ragnar-F" creationdate="20221116T121631Z">
+        <seg>Projekte auf einem selbst gehosteten Server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Projects that you have created in the past or are currently using will &lt;e0&gt;not&lt;/e0&gt; be modified or deleted.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141353Z" creationid="Ragnar-F" creationdate="20221114T141353Z">
@@ -30667,6 +30865,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T143235Z" creationid="Michael Motzkus" creationdate="20181022T143235Z">
         <seg>Repository-Zuordnung...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository mappings</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T122652Z" creationid="Ragnar-F" creationdate="20221116T122652Z">
+        <seg>Repository-Zuordnungen</seg>
       </tuv>
     </tu>
     <tu>
@@ -32852,6 +33058,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selective sharing</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124757Z" creationid="Ragnar-F" creationdate="20221116T124757Z">
+        <seg>Selektive Freigabe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231409Z" creationid="Ragnar-F" creationdate="20210108T192247Z">
@@ -32864,6 +33078,22 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T210947Z" creationid="BVB" creationdate="20180826T085724Z">
         <seg>Online-Selbststudium in Englisch (kostenpflichtig)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send a URL and ask the translators to use the &lt;l0/&gt; command to create a local copy of the project on their own system.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T122128Z" creationid="Ragnar-F" creationdate="20221116T122128Z">
+        <seg>Senden Sie eine URL und bitten Sie die Übersetzer, mit dem Befehl &lt;l0/&gt; eine lokale Kopie des Projekts auf ihrem eigenen System zu erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing the project URL, and then have the translators copy it to an empty folder and open it in OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T122238Z" creationid="Ragnar-F" creationdate="20221116T122238Z">
+        <seg>Senden Sie eine &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei, die die Projekt-URL enthält, und lassen Sie die Übersetzer diese in einen leeren Ordner kopieren und in OmegaT öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33432,6 +33662,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T121947Z" creationid="Ragnar-F" creationdate="20221112T121947Z">
         <seg>Da OmegaT ihren Navigationsverlauf aufgezeichnet hat, braucht sie nur &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k0&gt; zu drücken, um sofort dort weiterzumachen, wo sie aufgehört hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since files are included by default unless specifically excluded, this option is only necessary to specify exceptions to an exclusion pattern.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123929Z" creationid="Ragnar-F" creationdate="20221116T123929Z">
+        <seg>Da Dateien standardmäßig eingeschlossen werden, wenn sie nicht ausdrücklich ausgeschlossen werden, ist diese Option nur erforderlich, um Ausnahmen für ein Ausschlussmuster anzugeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36347,6 +36585,22 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The above process describes the most common scenario, in which the team project administrator has full control of the project and all files (and statistics) are identical in all instances of the project, both on the server and the local systems of the translators.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T125125Z" creationid="Ragnar-F" creationdate="20221116T125125Z">
+        <seg>Die oben beschriebene Prozedur beschreibt das gängigste Szenario, wo der Teamprojektadministrator die volle Kontrolle über das Projekt hat und alle Dateien (und Statistiken) in sämtlichen Instanzen des Projekts identisch sind, sowohl auf dem Server als auch auf den lokalen Systemen der Übersetzer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The administrator will then grant write access to the repository to those accounts.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T121615Z" creationid="Ragnar-F" creationdate="20221116T121615Z">
+        <seg>Der Administrator gewährt diesen Konten dann Schreibzugriff auf das Repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T111447Z">
@@ -36431,6 +36685,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T113032Z">
         <seg>Der grundlegende Befehl wurde bereits oben erwähnt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The basic procedure is the essentially the same, except that the team project administrator does not add every file to the version-controlled project on the server.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T125809Z" creationid="Ragnar-F" creationdate="20221116T125809Z">
+        <seg>Die Prozedur ist grundsätzlich dieselbe, nur dass der Teamprojektadministrator nicht jede Datei zum versionskontrollierten Projekt auf dem Server hinzufügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38122,6 +38384,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will not load if a file specified in a mapping does not exist.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124630Z" creationid="Ragnar-F" creationdate="20221116T124630Z">
+        <seg>Das Projekt wird nicht geladen, wenn eine Datei, die in einer Zuordnung angegeben ist, nicht existiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of external searches in the &lt;l0/&gt; file of its &lt;l1/&gt; folder, and the settings will supersede the global external searches settings.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T120329Z" creationid="Ragnar-F" creationdate="20221114T120329Z">
@@ -38190,6 +38460,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T125304Z" creationid="Ragnar-F" creationdate="20210111T125304Z">
         <seg>Die relevanten Dateien sind &lt;f2&gt;filters.conf&lt;/f2&gt; und &lt;f3&gt;segmentation.conf&lt;/f3&gt; und befinden sich im persönlichen Ordner des Benutzers (z. B. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; in Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; in Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remaining files are either copied by the translators themselves, or mappings that synchronize files from other locations are defined.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T125842Z" creationid="Ragnar-F" creationdate="20221116T125842Z">
+        <seg>Die restlichen Dateien werden entweder von den Übersetzern selbst kopiert, oder es werden Zuordnungen definiert, die Dateien aus anderen Speicherorten synchronisieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38828,8 +39106,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The team project administrator must use the local VCS to &lt;e0&gt;modify&lt;/e0&gt; or &lt;e1&gt;delete&lt;/e1&gt; those files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T121215Z" creationid="Ragnar-F" creationdate="20221116T121215Z">
-        <seg>Der Team-Projektadministrator muss das lokale VKS verwenden, um diese Dateien &lt;e0&gt;zu ändern&lt;/e0&gt; oder &lt;e1&gt;zu löschen&lt;/e1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124936Z" creationid="Ragnar-F" creationdate="20221116T121215Z">
+        <seg>Der Teamprojektadministrator muss das lokale VKS verwenden, um diese Dateien &lt;e0&gt;zu ändern&lt;/e0&gt; oder &lt;e1&gt;zu löschen&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38982,6 +39260,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T200426Z">
         <seg>Die Übersetzerin wird englische Übersetzungen für niederländische Quellsegmente sehen und diese zur Erstellung der chinesischen Übersetzung verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translators will have to create an account for the service, and send their user name to the team project administrator.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124959Z" creationid="Ragnar-F" creationdate="20221116T121552Z">
+        <seg>Die Übersetzer müssen ein Konto für den Dienst einrichten und ihren Benutzernamen an den Teamprojektadministrator senden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39756,10 +40042,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either &lt;e0&gt;http&lt;/e0&gt; (which includes https), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt;, or &lt;e3&gt;file&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123650Z" creationid="Ragnar-F" creationdate="20221116T123650Z">
+        <seg>Dies kann entweder &lt;e0&gt;http&lt;/e0&gt; (was https einschließt), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt; oder &lt;e3&gt;file&lt;/e3&gt; sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be either http (which includes https), svn, git or file.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T083420Z" creationid="Ragnar-F" creationdate="20210111T083420Z">
         <seg>Dies kann entweder http (was https einschließt), svn, git oder file sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be useful if the project is set up to use different &lt;l1&gt;mappings&lt;/l1&gt; for each translator.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T122322Z" creationid="Ragnar-F" creationdate="20221116T122322Z">
+        <seg>Das ist nützlich, wenn das Projekt so eingerichtet ist, dass für jeden Übersetzer unterschiedliche &lt;l1&gt;Zuordnungen&lt;/l1&gt; verwendet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40471,6 +40773,14 @@ the server.</seg>
         <seg>This makes it possible to rename the file to be translated.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T085826Z" creationid="Ragnar-F" creationdate="20210111T085826Z">
+        <seg>Dies macht es möglich, die zu übersetzende Datei umzubenennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it possible to rename the file to translate.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124531Z" creationid="Ragnar-F" creationdate="20221116T124531Z">
         <seg>Dies macht es möglich, die zu übersetzende Datei umzubenennen.</seg>
       </tuv>
     </tu>
@@ -43392,6 +43702,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use a semicolon to separate different patterns.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123746Z" creationid="Ragnar-F" creationdate="20221116T123746Z">
+        <seg>Verwenden Sie ein Semikolon, um verschiedene Muster voneinander zu trennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210120T114446Z" creationid="karsten" creationdate="20150919T173810Z">
@@ -43668,6 +43986,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T220005Z">
         <seg>Entpacken Sie den Inhalt in den Projektordner "dictionary" (z. B. mit dem tar-Befehl in Linux oder mit Hilfsprogrammen wie &lt;f0&gt;WinRAR&lt;/f0&gt; in Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use wildcards (following the Apache Ant style: *, ?, **) to add patterns for files that should not be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123729Z" creationid="Ragnar-F" creationdate="20221116T123729Z">
+        <seg>Verwenden Sie Platzhalter (im Apache-Ant-Stil: *, ?, **), um Muster für Dateien hinzuzufügen, die nicht Teil der Zuordnung sein sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45549,6 +45875,14 @@ Kaptain-Startskript wie folgt starten:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T132032Z">
         <seg>Sie können via &lt;k0&gt;Strg+Umschalt+G&lt;/k0&gt; einen neuen Begriff in das Glossar einfügen, oder bereits vorhandene Glossare in den Unterordner &lt;f1&gt;/glossary/&lt;/f1&gt; Ihres Projektordners kopieren, um OmegaT automatisch Wörter nachschlagen zu lassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but one of the mappings must include the &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124731Z" creationid="Ragnar-F" creationdate="20221116T124731Z">
+        <seg>Sie können beliebig viele Zuordnungen hinzufügen, aber eine der Zuordnungen muss die &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei einschließen.</seg>
       </tuv>
     </tu>
     <tu>
