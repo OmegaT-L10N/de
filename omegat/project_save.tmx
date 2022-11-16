@@ -5224,6 +5224,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number of free software third party utilities provide such "round-trip" conversion, including:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132158Z" creationid="Ragnar-F" creationdate="20221116T132033Z">
+        <seg>Es gibt eine Vielzahl von kostenlosen Dienstprogrammen von Drittanbietern, die eine solche Hin-und-Her-Konvertierung ermöglichen, z. B.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T224904Z">
@@ -7365,6 +7373,14 @@ korrektem Verhalten kommen kann.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T125052Z" creationid="Ragnar-F" creationdate="20221110T125052Z">
         <seg>Die Verknüpfung einer Dateiendung mit einem Filter ist kein Garant dafür, dass der Filter die Datei ordnungsgemäß erfasst und bearbeitet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Association</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T131844Z" creationid="Ragnar-F" creationdate="20221116T131013Z">
+        <seg>Verknüpfung</seg>
       </tuv>
     </tu>
     <tu>
@@ -10457,6 +10473,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversion</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132041Z" creationid="Ragnar-F" creationdate="20221116T131848Z">
+        <seg>Konvertierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T220058Z" creationid="Ragnar-F" creationdate="20221109T215757Z">
@@ -11967,6 +11991,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180822T160335Z" creationid="BVB" creationdate="20180822T160335Z">
         <seg>Entwickler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Development</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135600Z" creationid="Ragnar-F" creationdate="20221116T135600Z">
+        <seg>Entwicklung</seg>
       </tuv>
     </tu>
     <tu>
@@ -15065,6 +15097,14 @@ Backup-Dateiendung '.recover'.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T112548Z" creationid="Ragnar-F" creationdate="20221110T112548Z">
         <seg>Dateifilter sind entweder lokal und spezifisch für ein bestimmtes Projekt, oder global und für alle Projekte verfügbar, die sich einen Konfigurationsordner teilen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File filters have a list of file extensions that are associated to them.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T131051Z" creationid="Ragnar-F" creationdate="20221116T131051Z">
+        <seg>Dateifilter haben eine Liste von Dateiendungen, die mit ihnen verknüpft sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18526,6 +18566,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the format you want to translate is structurally close to an already supported format, just add its file extension to the supported format extension list, or change the file extension to one that is accepted by the file filter that you want to use.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T131407Z" creationid="Ragnar-F" creationdate="20221116T131407Z">
+        <seg>Wenn das Format, die Sie übersetzen möchten, strukturell einem bereits unterstützten Format ähnelt, fügen Sie einfach dessen Dateiendung zur Liste der unterstützten Formatendungen hinzu, oder ändern Sie die Dateiendung in eine Endung, die vom gewünschten Dateifilter akzeptiert wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the language is not available, OmegaT defaults to English even if the system uses a different default language.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T100938Z" creationid="Ragnar-F" creationdate="20221116T100938Z">
@@ -19231,6 +19279,14 @@ unter anderem über Java Web Start installieren.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T071734Z" creationid="Michael Motzkus" creationdate="20180917T071734Z">
         <seg>Wenn Sie Textformatierungen (sowie andere Dinge wie Zeichnungen) in Ihrer Übersetzung wiederherstellen müssen, haben Sie drei Möglichkeiten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to support formats that are not covered by OmegaT, there are four ways to do that:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T130614Z" creationid="Ragnar-F" creationdate="20221116T130614Z">
+        <seg>Wenn Sie Formate unterstützen müssen, die nicht von OmegaT abgedeckt werden, gibt es vier Möglichkeiten, dies zu tun:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20082,6 +20138,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T134819Z">
         <seg>Im obigen Beispiel ist &lt;e0&gt;Context menu command&lt;/e0&gt; der Quelltext.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the case of PDF, you will find a number of online or offline utilities that provide a conversion to common office formats, but the conversion will always require a lot of manual modifications to the target document before being able to produce a proper PDF document.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T134221Z" creationid="Ragnar-F" creationdate="20221116T134221Z">
+        <seg>In Bezug auf PDF finden Sie eine Reihe von Online- oder Offline-Dienstprogrammen, die eine Konvertierung in gängige Office-Formate anbieten, allerdings erfordert die Konvertierung immer eine Menge manueller Änderungen am Zieldokument, bevor daraus ein ordentliches PDF-Dokument wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22526,6 +22590,38 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License: Apache License Version 2.0</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132222Z" creationid="Ragnar-F" creationdate="20221116T132213Z">
+        <seg>Lizenz: Apache License Version 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>License: Eclipse Public License v1.0</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133315Z" creationid="Ragnar-F" creationdate="20221116T133310Z">
+        <seg>Lizenz: Eclipse Public License v1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>License: GNU General Public License v2</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132747Z" creationid="Ragnar-F" creationdate="20221116T132742Z">
+        <seg>Lizenz: GNU General Public License v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>License: GNU General Public License v3+</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135319Z" creationid="Ragnar-F" creationdate="20221116T135314Z">
+        <seg>Lizenz: GNU General Public License v3+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
       </tuv>
@@ -23160,6 +23256,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure you understand the format requirements when you start working on a PDF or similar file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T134324Z" creationid="Ragnar-F" creationdate="20221116T134324Z">
+        <seg>Machen Sie sich zuerst mit den Formatanforderungen vertraut, bevor Sie mit der Arbeit an einer PDF-Datei oder Ähnlichem beginnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make the necessary changes to the project properties at this stage, including local file filters or segmentation settings.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T115815Z" creationid="Ragnar-F" creationdate="20221116T115815Z">
@@ -23764,6 +23868,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T181707Z">
         <seg>Maximale Trefferanzahl erreicht ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maxprograms also distributes &lt;u1&gt;XLIFF Manager&lt;/u1&gt;, which is a graphical user interface for the OpenXLIFF Filters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133526Z" creationid="Ragnar-F" creationdate="20221116T133526Z">
+        <seg>Maxprograms stellt auch den &lt;u1&gt;XLIFF Manager&lt;/u1&gt; zur Verfügung, eine grafische Benutzeroberfläche für die OpenXLIFF-Filter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25188,6 +25300,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not all of the Okapi Framework file filters are included into the file filter plugin.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T134531Z" creationid="Ragnar-F" creationdate="20221116T134531Z">
+        <seg>Das Dateifilter-Plugin enthält nicht alle Okapi-Framework-Dateifilter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not assigned</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T224040Z" creationid="Ragnar-F" creationdate="20221109T224040Z">
@@ -26546,6 +26666,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT provides developpers with thorough documentation to create file filter plugins.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135708Z" creationid="Ragnar-F" creationdate="20221116T135708Z">
+        <seg>OmegaT bietet Entwicklern eine ausführliche Dokumentation zur Erstellung von Dateifilter-Plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T101519Z" creationid="Ragnar-F" creationdate="20221112T101519Z">
@@ -26832,6 +26960,22 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T093407Z" creationid="Ragnar-F" creationdate="20221110T093407Z">
         <seg>Ausführbare Datei von OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's file filters provide a wide range of support for common and less common file formats.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T130545Z" creationid="Ragnar-F" creationdate="20221116T130545Z">
+        <seg>Die Dateifilter von OmegaT bieten eine breite Palette an Unterstützung für gängige und weniger gängige Dateiformate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's po support is robust enough to handle most po files, but OmegaT's default XLIFF filter will not be sufficient to support XLIFF files created by Rainbow, OpenXLIFF or any other CAT tool.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133635Z" creationid="Ragnar-F" creationdate="20221116T133635Z">
+        <seg>Die po-Unterstützung von OmegaT ist robust genug, um die meisten po-Dateien abzudecken, aber der Standard-XLIFF-Filter von OmegaT reicht nicht aus, um XLIFF-Dateien zu unterstützen, die von Rainbow, OpenXLIFF oder einem anderen CAT-Tool erstellt wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27606,6 +27750,30 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenXLIFF from &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133308Z" creationid="Ragnar-F" creationdate="20221116T133300Z">
+        <seg>OpenXLIFF von &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF produces XLIFF 1.2 compliant files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133540Z" creationid="Ragnar-F" creationdate="20221116T133540Z">
+        <seg>OpenXLIFF erzeugt XLIFF-1.2-konforme Dateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF supports a number of file filters, among which some that are not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133424Z" creationid="Ragnar-F" creationdate="20221116T133337Z">
+        <seg>OpenXLIFF unterstützt eine Reihe von Dateifiltern, darunter einige, die von OmegaT nicht nativ unterstützt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opening a command line window</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T115311Z">
@@ -27946,6 +28114,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T224119Z" creationid="Ragnar-F" creationdate="20221109T224119Z">
         <seg>Andere Plugins sind online verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other plugins for less common formats are listed on the OmegaT wiki.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135544Z" creationid="Ragnar-F" creationdate="20221116T135544Z">
+        <seg>Weitere Plugins für weniger verbreitete Formate finden Sie in der OmegaT-Wiki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29592,6 +29768,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proper XLIFF support in OmegaT can only be obtained thought third-party plugins.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133648Z" creationid="Ragnar-F" creationdate="20221116T133648Z">
+        <seg>Eine ordnungsgemäße XLIFF-Unterstützung in OmegaT kann nur durch Plugins von Drittanbietern erreicht werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Properties...</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130504T154903Z">
@@ -29812,6 +29996,30 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T145950Z" creationid="Ragnar-F" creationdate="20221112T145950Z">
         <seg>RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rainbow can create XLIFF 1.2 compliant files or OmegaT projects from all the files set as "input" files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133039Z" creationid="Ragnar-F" creationdate="20221116T132635Z">
+        <seg>Rainbow kann XLIFF-1.2-konforme Dateien oder OmegaT-Projekte von allen Dateien erstellen, die als "Eingabedateien" festgelegt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rainbow supported files are converted into XLIFF and inserted as source files into a full fledged OmegaT project that you can open with OmegaT right away.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132707Z" creationid="Ragnar-F" creationdate="20221116T132707Z">
+        <seg>Die von Rainbow unterstützten Dateien werden in XLIFF konvertiert und als Quelldateien in ein vollwertiges OmegaT-Projekt eingefügt, das Sie sofort mit OmegaT öffnen können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rainbow, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133050Z" creationid="Ragnar-F" creationdate="20221116T132212Z">
+        <seg>Rainbow, vom &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32250,6 +32458,30 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Converters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133257Z" creationid="Ragnar-F" creationdate="20221116T133257Z">
+        <seg>Einzelheiten finden Sie unter &lt;u0&gt;Converters&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Filters Included&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T134558Z" creationid="Ragnar-F" creationdate="20221116T134558Z">
+        <seg>Einzelheiten finden Sie unter &lt;u0&gt;Filters Included&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;How to create a file filter plugin for OmegaT&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135737Z" creationid="Ragnar-F" creationdate="20221116T135737Z">
+        <seg>Einzelheiten finden Sie unter &lt;u0&gt;How to create a file filter plugin for OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T224003Z" creationid="Michael Motzkus" creationdate="20180917T072758Z">
@@ -32258,10 +32490,42 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;List of file filters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132545Z" creationid="Ragnar-F" creationdate="20221116T132545Z">
+        <seg>Einzelheiten finden Sie unter &lt;u0&gt;List of file filters&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;OpenXLIFF Filters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133437Z" creationid="Ragnar-F" creationdate="20221116T133437Z">
+        <seg>Einzelheiten finden Sie unter &lt;u0&gt;OpenXLIFF Filters&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T190234Z">
         <seg>Beispiele für die SimpleDateFormat-Muster finden Sie in der &lt;u0&gt;Oracle-Dokumentation&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Plugins&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135555Z" creationid="Ragnar-F" creationdate="20221116T135549Z">
+        <seg>Siehe &lt;u0&gt;Plugins&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Rainbow TKit - OmegaT Project&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132738Z" creationid="Ragnar-F" creationdate="20221116T132738Z">
+        <seg>Einzelheiten finden Sie unter &lt;u0&gt;Rainbow TKit - OmegaT Project&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32330,6 +32594,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See above.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135242Z" creationid="Ragnar-F" creationdate="20221116T135242Z">
+        <seg>Siehe oben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See additional references and examples below.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T121710Z">
@@ -32350,6 +32622,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181018T122207Z" creationid="Michael Motzkus" creationdate="20181018T122207Z">
         <seg>Siehe unten für Details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See below.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133653Z" creationid="Ragnar-F" creationdate="20221116T133653Z">
+        <seg>Siehe unten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33906,6 +34186,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some formats, like PDF, cannot be properly handled through "round trip" conversions.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133757Z" creationid="Ragnar-F" creationdate="20221116T133757Z">
+        <seg>Einige Formate, wie z. B. PDF, können nicht ordnungsgemäß durch Hin-und-Her-Konvertierungen verarbeitet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T094048Z">
@@ -34588,6 +34876,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>StaX provides OmegaT with filters for SDLXLIFF files and packages, XLIFF 1 and 2, MqXliff and DOCX.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135438Z" creationid="Ragnar-F" creationdate="20221116T135438Z">
+        <seg>StaX ermöglicht OmegaT die Unterstützung von Filtern für SDLXLIFF-Dateien und -Pakete, XLIFF 1 und 2, MqXliff und DOCX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standar&amp;d</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T171736Z" creationid="Ragnar-F" creationdate="20221109T171736Z">
@@ -34976,6 +35272,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T094706Z" creationid="BVB" creationdate="20180826T185308Z">
         <seg>Unterstützung für Rechts-nach-Links-Sprachen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support other formats</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T130517Z" creationid="Ragnar-F" creationdate="20221116T130517Z">
+        <seg>Andere Formate unterstützen</seg>
       </tuv>
     </tu>
     <tu>
@@ -36129,6 +36433,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;u0&gt;StaX&lt;/u0&gt; filters</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135311Z" creationid="Ragnar-F" creationdate="20221116T135311Z">
+        <seg>Die &lt;u0&gt;StaX&lt;/u0&gt;-Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The ASTERISK: &lt;l0&gt;*&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T121746Z" creationid="Ragnar-F" creationdate="20221111T121736Z">
@@ -36337,6 +36649,22 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Okapi Filters Plugin for OmegaT, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T134410Z" creationid="Ragnar-F" creationdate="20221116T134410Z">
+        <seg>Das Okapi Filters Plugin für OmegaT, vom &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Okapi Framework comes with a number of file filters, among which some that are not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132320Z" creationid="Ragnar-F" creationdate="20221116T132320Z">
+        <seg>Das Okapi Framework kommt mit einer Reihe von Dateifiltern, darunter einige, die von OmegaT nicht nativ unterstützt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT GUI is launched if no option is specified.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T102011Z" creationid="Ragnar-F" creationdate="20221116T102011Z">
@@ -36541,6 +36869,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T141516Z" creationid="Ragnar-F" creationdate="20210112T141516Z">
         <seg>Die TexTra-API wird von NICT, der staatlichen japanischen Forschungsagentur, kostenlos zur Verfügung gestellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Translate Toolkit offers a number of convertion tools to and from the po format.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133238Z" creationid="Ragnar-F" creationdate="20221116T133238Z">
+        <seg>Das Translate Toolkit bietet eine Vielzahl von Werkzeugen zur Konvertierung in und aus dem po-Format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36979,6 +37315,14 @@ Konfigurationsordner selbst verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The converters from the &lt;u0&gt;Translate Toolkit&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133009Z" creationid="Ragnar-F" creationdate="20221116T133009Z">
+        <seg>Die Konverter vom &lt;u0&gt;Translate Toolkit&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The correct “licence” and “license” spellings, as well as the potential “lisence” and “lisense” mispellings</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T131317Z" creationid="Ragnar-F" creationdate="20221111T131317Z">
@@ -37361,6 +37705,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T145529Z" creationid="Ragnar-F" creationdate="20221110T145529Z">
         <seg>Der Filter überprüft standardmäßig printf-Variablen (z. B. %s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filters originate from the European Union DGT version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135517Z" creationid="Ragnar-F" creationdate="20221116T135517Z">
+        <seg>Die Filter stammen aus der EU-DGT-Version von OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39840,6 +40192,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They require a first conversion to a supported format, and that format must be used as a base to manually create a proper target language document.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133946Z" creationid="Ragnar-F" creationdate="20221116T133946Z">
+        <seg>Diese müssen zunächst in ein unterstütztes Format konvertiert werden, auf dessen Grundlage dann manuell ein geeignetes Dokument in der Zielsprache erstellt werden muss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They will appear as separate segments in the editor.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140828Z" creationid="Ragnar-F" creationdate="20221110T140828Z">
@@ -39860,6 +40220,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140848Z" creationid="Ragnar-F" creationdate="20221112T140848Z">
         <seg>Sie stehen nun in OmegaT zur Verfügung, sofern es keine Konflikte mit anderen Funktionen oder mit systemweiten Tastenkürzeln gibt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Third-party plugin</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T134340Z" creationid="Ragnar-F" creationdate="20221116T134340Z">
+        <seg>Drittanbieter-Plugin</seg>
       </tuv>
     </tu>
     <tu>
@@ -41696,6 +42064,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T200445Z">
         <seg>Um die Rechtschreibprüfung zu aktivieren, wählen Sie &lt;g0&gt;Optionen &gt; Rechtschreibprüfung&lt;/g0&gt; aus und aktivieren Sie die Option &lt;g1&gt;Rechtschreibung automatisch prüfen&lt;/g1&gt; (siehe oben).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To ensure that all the properties of a format are properly taken into account, it is sometimes preferable to convert the file to a supported format and then convert the translated file back to the original format.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132106Z" creationid="Ragnar-F" creationdate="20221116T131933Z">
+        <seg>Um sicherzustellen, dass alle Eigenschaften eines Formats ordnungsgemäß berücksichtigt werden, ist es manchmal besser, die Datei in ein unterstütztes Format zu konvertieren und dann die übersetzte Datei wieder in das ursprüngliche Format zu konvertieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44844,6 +45220,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When installed, the plugin offers direct access to the added formats and also allows you to associate a custom filter parameters file that you have created in Rainbow.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135236Z" creationid="Ragnar-F" creationdate="20221116T135236Z">
+        <seg>Wenn das Plugin installiert ist, bietet es direkten Zugriff auf die hinzugefügten Formate und gibt Ihnen außerdem die Möglichkeit, eine benutzerdefinierte Filterparameterdatei zu verknüpfen, die Sie in Rainbow erstellt haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When it is the first character in &lt;l0&gt;a character class enclosed in brackets&lt;/l0&gt;, it excludes the characters in that class from the match.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T115501Z" creationid="Ragnar-F" creationdate="20221111T115501Z">
@@ -46072,6 +46456,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T091043Z" creationid="Ragnar-F" creationdate="20221116T091043Z">
         <seg>Sie können auch AppleScript, Automator oder Shortcuts verwenden, um Dienste oder Skripte zu erstellen, die wiederkehrende Aktionen automatisieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use OmegaT's custom tag function to register format specific strings and have OmegaT handle them as if they were normal tags.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T131838Z" creationid="Ragnar-F" creationdate="20221116T131838Z">
+        <seg>Sie können auch die "Benutzerdefinierte Tags"-Funktion von OmegaT verwenden, um formatspezifische Zeichenketten zu registrieren und sie von OmegaT wie normale Tags behandeln zu lassen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47721,6 +48113,30 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>by associating the format to an already supported format,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T130719Z" creationid="Ragnar-F" creationdate="20221116T130719Z">
+        <seg>indem das Format mit einem bereits unterstützten Format verknüpft wird,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by converting the format to an already supported format,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132133Z" creationid="Ragnar-F" creationdate="20221116T130819Z">
+        <seg>indem das Format in ein bereits unterstütztes Format konvertiert wird,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by extending OmegaT with third-party plugins that offer support for that format,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T130858Z" creationid="Ragnar-F" creationdate="20221116T130858Z">
+        <seg>indem OmegaT mit Plugins von Drittanbietern erweitert wird, die Unterstützung für dieses Format bieten,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>by removing the &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T090957Z" creationid="Ragnar-F" creationdate="20221116T090957Z">
@@ -49145,6 +49561,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://185.13.37.79:8003/index.php/p/stax-filters/downloads/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135243Z" creationid="Ragnar-F" creationdate="20221116T135243Z">
+        <seg>http://185.13.37.79:8003/index.php/p/stax-filters/downloads/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20180918T070634Z" creationid="Michael Motzkus" creationdate="20180918T070634Z">
@@ -49189,6 +49613,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130504T081859Z">
         <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/commands/index.html</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133053Z" creationid="Ragnar-F" creationdate="20221116T133053Z">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/commands/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/index.html</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132934Z" creationid="Ragnar-F" creationdate="20221116T132934Z">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/index.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -49377,6 +49817,62 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://maxprograms.com/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133258Z" creationid="Ragnar-F" creationdate="20221116T133258Z">
+        <seg>https://maxprograms.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/products/openxliff.html</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133316Z" creationid="Ragnar-F" creationdate="20221116T133316Z">
+        <seg>https://maxprograms.com/products/openxliff.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/products/xliffmanager.html</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133318Z" creationid="Ragnar-F" creationdate="20221116T133318Z">
+        <seg>https://maxprograms.com/products/xliffmanager.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132159Z" creationid="Ragnar-F" creationdate="20221116T132159Z">
+        <seg>https://okapiframework.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT#Filters_Included</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T134412Z" creationid="Ragnar-F" creationdate="20221116T134412Z">
+        <seg>https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT#Filters_Included</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php/Rainbow_TKit_-_OmegaT_Project</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132548Z" creationid="Ragnar-F" creationdate="20221116T132548Z">
+        <seg>https://okapiframework.org/wiki/index.php/Rainbow_TKit_-_OmegaT_Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php?title=Filters</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132223Z" creationid="Ragnar-F" creationdate="20221116T132223Z">
+        <seg>https://okapiframework.org/wiki/index.php?title=Filters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T101235Z" creationid="Ragnar-F" creationdate="20210112T101235Z">
@@ -49433,6 +49929,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://po4a.org</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132738Z" creationid="Ragnar-F" creationdate="20221116T132738Z">
+        <seg>https://po4a.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://regex101.com</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T174829Z" creationid="Ragnar-F" creationdate="20221111T174829Z">
@@ -49453,6 +49957,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T132314Z" creationid="Ragnar-F" creationdate="20210111T132314Z">
         <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/docs_devel/HowToCreateFilterPlugin.md</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135601Z" creationid="Ragnar-F" creationdate="20221116T135601Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/docs_devel/HowToCreateFilterPlugin.md</seg>
       </tuv>
     </tu>
     <tu>
@@ -49501,6 +50013,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T213108Z" creationid="Ragnar-F" creationdate="20210108T213108Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Plugins/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T135518Z" creationid="Ragnar-F" creationdate="20221116T135518Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Plugins/</seg>
       </tuv>
     </tu>
     <tu>
@@ -50900,6 +51420,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>or by developping a filter for that format.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T130952Z" creationid="Ragnar-F" creationdate="20221116T130952Z">
+        <seg>oder indem ein Filter für dieses Format entwickelt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>or never and only save the target file in the encoding specified in the file filter settings.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T144903Z" creationid="Ragnar-F" creationdate="20221110T144903Z">
@@ -50952,6 +51480,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T094517Z" creationid="Ragnar-F" creationdate="20221110T094517Z">
         <seg>plugins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>po4a</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132739Z" creationid="Ragnar-F" creationdate="20221116T132739Z">
+        <seg>po4a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>po4a supports a number of free software documentation formats, listed on the site front page, and offers conversion tools to and from the po format.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132933Z" creationid="Ragnar-F" creationdate="20221116T132933Z">
+        <seg>po4a unterstützt eine Vielzahl von freien Formaten für Software-Dokumentation, die auf der Startseite aufgelistet sind, und bietet Werkzeuge zur Konvertierung in und aus dem po-Format.</seg>
       </tuv>
     </tu>
     <tu>
