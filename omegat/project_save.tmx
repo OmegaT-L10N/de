@@ -6352,6 +6352,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All changes will be synchronized the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150136Z" creationid="Ragnar-F" creationdate="20221116T150136Z">
+        <seg>Alle Änderungen werden synchronisiert, wenn das nächste Mal eine Verbindung verfügbar ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T175746Z" creationid="karsten" creationdate="20150919T175746Z">
@@ -11851,6 +11859,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting files</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T145852Z" creationid="Ragnar-F" creationdate="20221116T145852Z">
+        <seg>Dateien löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deleting source files</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T094156Z" creationid="Ragnar-F" creationdate="20210111T094156Z">
@@ -12255,6 +12271,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T094400Z" creationid="Ragnar-F" creationdate="20210111T094400Z">
         <seg>Trennen Sie die Verbindung zum Netzwerk, bevor Sie das Projekt öffnen,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disconnect from the network before opening the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150156Z" creationid="Ragnar-F" creationdate="20221116T150156Z">
+        <seg>Trennen Sie die Verbindung zum Netzwerk, bevor Sie das Projekt öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15257,6 +15281,14 @@ Backup-Dateiendung '.recover'.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T140926Z" creationid="BVB" creationdate="20180826T101203Z">
         <seg>Dateien im Microsoft-Office-XML-Format können nun direkt in OmegaT übersetzt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files in a team project cannot be deleted from OmegaT or the local file system.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150005Z" creationid="Ragnar-F" creationdate="20221116T145919Z">
+        <seg>Dateien in einem Teamprojekt können nicht via OmegaT oder via lokalem Dateisystem gelöscht werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27878,6 +27910,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the project from the command line with the &lt;p0&gt;--no-team&lt;/p0&gt; option.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150226Z" creationid="Ragnar-F" creationdate="20221116T150226Z">
+        <seg>Öffnen Sie das Projekt über die Befehlszeile mit der Option &lt;p0&gt;--no-team&lt;/p0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project in OmegaT.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T142106Z" creationid="Ragnar-F" creationdate="20221115T142106Z">
@@ -40240,6 +40280,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are two ways work offline:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150146Z" creationid="Ragnar-F" creationdate="20221116T150146Z">
+        <seg>Es gibt zwei Möglichkeiten, offline zu arbeiten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T120555Z" creationid="BVB" creationdate="20180826T203317Z">
@@ -40548,6 +40596,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T132917Z">
         <seg>Sie werden bei der Übersetzung als separate Segmente angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will be restored the next time the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150023Z" creationid="Ragnar-F" creationdate="20221116T150023Z">
+        <seg>Sie werden bei der nächsten Synchronisation des Projekts wiederhergestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41846,6 +41902,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231810Z">
         <seg>Dieser Unterordner ist anfänglich leer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This task is normally performed by the project administrator.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150055Z" creationid="Ragnar-F" creationdate="20221116T150055Z">
+        <seg>Diese Aufgabe ist normalerweise dem Projektadministrator vorbehalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47150,6 +47214,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T094924Z" creationid="Ragnar-F" creationdate="20221111T094924Z">
         <seg>Sie können diese nach Belieben ändern, um die Segmentierung eines Dokuments zu verbessern oder zusätzliche Grundregeln hinzuzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can open a team project and work on it offline.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150122Z" creationid="Ragnar-F" creationdate="20221116T150122Z">
+        <seg>Sie können ein Teamprojekt öffnen und offline daran arbeiten.</seg>
       </tuv>
     </tu>
     <tu>
