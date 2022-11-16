@@ -2489,6 +2489,14 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;e1&gt;&lt;path&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T105039Z" creationid="Ragnar-F" creationdate="20221116T105034Z">
+        <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;e1&gt;&lt;Pfad&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130525T093508Z">
@@ -2524,6 +2532,14 @@ java.exe.</seg>
 	    Schreibt in die angegebene Datei, oder in die Standardausgabe,
 	    wenn keine Datei angegeben ist oder die Option
 	    nicht verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats &lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110314Z" creationid="Ragnar-F" creationdate="20221116T110311Z">
+        <seg>--mode=console-stats &lt;e0&gt;&lt;Pfad&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2576,10 +2592,34 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--output-file=[stats-output-file]</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110339Z" creationid="Ragnar-F" creationdate="20221116T110315Z">
+        <seg>--output-file=[Stats-Ausgabedatei]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetmx=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T104834Z" creationid="Ragnar-F" creationdate="20221116T104831Z">
+        <seg>--pseudotranslatetmx=&lt;e0&gt;&lt;Pfad&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T130543Z" creationid="Ragnar-F" creationdate="20210111T130543Z">
         <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T104930Z" creationid="Ragnar-F" creationdate="20221116T104930Z">
+        <seg>--pseudotranslatetype=[equal|empty]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,6 +2640,14 @@ java.exe.</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T105950Z" creationid="Ragnar-F" creationdate="20221109T105716Z">
         <seg>--pseudotranslatetype=[equal|empty]
 	    Was in die pseudoübersetzten TMX eingefügt werden soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--quiet</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110835Z" creationid="Ragnar-F" creationdate="20221116T110835Z">
+        <seg>--quiet</seg>
       </tuv>
     </tu>
     <tu>
@@ -2682,6 +2730,14 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--script=&lt;e0&gt;&lt;e1&gt;&lt;path&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110912Z" creationid="Ragnar-F" creationdate="20221116T110908Z">
+        <seg>--script=&lt;e0&gt;&lt;e1&gt;&lt;Pfad&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
@@ -2728,12 +2784,28 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--stats-type=[xml|text][txt][json]]]</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110654Z" creationid="Ragnar-F" creationdate="20221116T110654Z">
+        <seg>--stats-type=[xml|text][txt][json]]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--stats-type=[xml|text|txt|json]
 	    Specifies the output format.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T110618Z" creationid="Ragnar-F" creationdate="20221109T110555Z">
         <seg>--stats-type=[xml|text|txt|json]
 	    Spezifiziert das Ausgabeformat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T111014Z" creationid="Ragnar-F" creationdate="20221116T111014Z">
+        <seg>--tag-validation=[abort|warn]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5154,6 +5226,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A script file to run when a project event is triggered.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T111013Z" creationid="Ragnar-F" creationdate="20221116T111013Z">
+        <seg>Eine Skriptdatei, die ausgeführt werden soll, wenn ein Projektereignis ausgelöst wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T215623Z" creationid="Michael Motzkus" creationdate="20180921T080636Z">
@@ -5414,6 +5494,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T121320Z" creationid="Michael Motzkus" creationdate="20181018T130317Z">
         <seg>Abort: Mit einem Fehler beenden, wenn Tags ungültig sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abort: Exit with an error if there are tag issues.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T111140Z" creationid="Ragnar-F" creationdate="20221116T111140Z">
+        <seg>Abort: Bei Tag-Problemen mit einem Fehler beenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6858,6 +6946,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T120446Z" creationid="Ragnar-F" creationdate="20221111T120446Z">
         <seg>Beliebige Kombinationen aus drei Buchstaben, die mit "c" beginnen und mit "t" enden: "&lt;e0&gt;cat&lt;/e0&gt;", "&lt;e1&gt;cut&lt;/e1&gt;", "&lt;e2&gt;cot&lt;/e2&gt;", oder auch absurde Kombinationen wie "&lt;e3&gt;czt&lt;/e3&gt;" oder "&lt;e4&gt;cqt&lt;/e4&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any files also named test.html in other subfolders will be ignored.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T104553Z" creationid="Ragnar-F" creationdate="20221116T104553Z">
+        <seg>Dateien in anderen Unterordnern, die ebenfalls test.html heißen, werden ignoriert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9020,6 +9116,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120159Z" creationid="Ragnar-F" creationdate="20221115T120159Z">
         <seg>Untersuchen Sie Tag-Probleme mit &lt;l0/&gt; und erstellen Sie regelmäßig übersetzte Dokumente, um eventuelle Probleme schnell zu erkennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check tag issues.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T111044Z" creationid="Ragnar-F" creationdate="20221116T111044Z">
+        <seg>Tag-Probleme untersuchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15665,6 +15769,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, the folder must contain a bundle ending with _fr.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110309Z" creationid="Ragnar-F" creationdate="20221116T110309Z">
+        <seg>Wenn es sich beispielsweise um ein EN-nach-FR-Projekt handelt, muss der Ordner ein Bundle enthalten, das mit _fr endet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For most users, these are not of interest.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T143157Z" creationid="BVB" creationdate="20180826T104200Z">
@@ -16978,6 +17090,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T084349Z" creationid="Ragnar-F" creationdate="20221111T084349Z">
         <seg>Hier einige Beispiele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here are some typical examples:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T104412Z" creationid="Ragnar-F" creationdate="20221116T104412Z">
+        <seg>Hier einige typische Beispiele:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19801,6 +19921,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode OmegaT will create a TMX for the whole project using only the source files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T104716Z" creationid="Ragnar-F" creationdate="20221116T104716Z">
+        <seg>In diesem Modus erstellt OmegaT eine TMX-Datei für das gesamte Projekt, wobei nur die Quelldateien verwendet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T124303Z">
@@ -19829,6 +19957,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T130711Z" creationid="Ragnar-F" creationdate="20210111T130711Z">
         <seg>In diesem Modus gleicht OmegaT die im &lt;f0&gt;/source/&lt;/f0&gt;-Ordner des Projekts gefundenen Dateien mit den im angegebenen Standort gefundenen Inhalten ab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will align the files in the /source folder of the project with those at the location specified by the &lt;e0&gt;--alignDir&lt;/e0&gt; parameter.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T105755Z" creationid="Ragnar-F" creationdate="20221116T105316Z">
+        <seg>In diesem Modus wird OmegaT die Dateien im Quellordner des Projekts mit denen am via &lt;e0&gt;--alignDir&lt;/e0&gt; angegebenen Speicherort synchronisieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23491,6 +23627,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimize the output shown on the command line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110907Z" creationid="Ragnar-F" creationdate="20221116T110907Z">
+        <seg>Ausgabe der Befehlszeile reduzieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minutes:</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130428T153306Z">
@@ -24602,6 +24746,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T122001Z" creationid="Ragnar-F" creationdate="20210112T122001Z">
         <seg>Geschütztes Leerzeichen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-gui mode options:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110834Z" creationid="Ragnar-F" creationdate="20221116T110834Z">
+        <seg>Nicht-GUI-Modus-Optionen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26800,6 +26952,22 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only translate &lt;f0&gt;test.html&lt;/f0&gt; file in the source folder itself.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T104456Z" creationid="Ragnar-F" creationdate="20221116T104456Z">
+        <seg>Nur die &lt;f0&gt;test.html&lt;/f0&gt;-Datei im Quellordner selbst übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only translate the &lt;f0&gt;test.html&lt;/f0&gt; file in the &lt;f1&gt;dir-10&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T104619Z" creationid="Ragnar-F" creationdate="20221116T104619Z">
+        <seg>Nur die &lt;f0&gt;test.html&lt;/f0&gt;-Datei im &lt;f1&gt;dir-10&lt;/f1&gt;-Ordner übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only works if a spelling dictionary is installed.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T143923Z" creationid="Ragnar-F" creationdate="20210111T143923Z">
@@ -28634,6 +28802,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prints to that file, or to standard output if absent.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110511Z" creationid="Ragnar-F" creationdate="20221116T110511Z">
+        <seg>Schreibt in die angegebene Datei, oder in die Standardausgabe, wenn keine Datei angegeben ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T155618Z" creationid="BVB" creationdate="20180826T111421Z">
@@ -30279,6 +30455,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reports about tag issues are output to the terminal window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T111243Z" creationid="Ragnar-F" creationdate="20221116T111243Z">
+        <seg>Berichte über Tag-Probleme werden im Terminalfenster ausgegeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T144159Z" creationid="Michael Motzkus" creationdate="20181022T144159Z">
@@ -30371,6 +30555,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T100358Z" creationid="BVB" creationdate="20180826T100358Z">
         <seg>Voraussetzungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Requires &lt;e0&gt;--output-file&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110722Z" creationid="Ragnar-F" creationdate="20221116T110722Z">
+        <seg>Benötigt &lt;e0&gt;--output-file&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33734,6 +33926,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110732Z" creationid="Ragnar-F" creationdate="20221116T110732Z">
+        <seg>Spezifiziert das Ausgabeformat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T121442Z" creationid="Ragnar-F" creationdate="20210113T121442Z">
@@ -33778,6 +33978,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T222251Z">
         <seg>Tag-Handling-Verhalten bestimmen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify the TMX file to be created with:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T104829Z" creationid="Ragnar-F" creationdate="20221116T104829Z">
+        <seg>Geben Sie die TMX-Datei an, mit der es erstellt werden soll:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34322,6 +34530,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T093050Z" creationid="Ragnar-F" creationdate="20210113T093050Z">
         <seg>Unterstützte Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Supported filters include: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, and Windows Resources.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T105939Z" creationid="Ragnar-F" creationdate="20221116T105939Z">
+        <seg>Zu den unterstützten Filtern gehören: ILIAS Language File, Java(TM) Resource Bundles, Schlüssel=Wert-Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles und Windows Resources.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35162,6 +35378,14 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That folder must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110218Z" creationid="Ragnar-F" creationdate="20221116T110218Z">
+        <seg>Der Ordner muss eine Übersetzung in der Zielsprache des Projekts enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That includes the platforms described above, but also the platforms for which specific packages are not provided.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T140545Z" creationid="Ragnar-F" creationdate="20221114T140545Z">
@@ -35311,6 +35535,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T132005Z" creationid="Ragnar-F" creationdate="20221112T132005Z">
         <seg>&lt;c0&gt;Tastenkürzel&lt;/c0&gt; repräsentiert die vom Benutzer gedrückte Tastenkombination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;--alignDir&lt;/e0&gt; parameter is used to specify the location of the data in the target language, which must be a folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110150Z" creationid="Ragnar-F" creationdate="20221116T110150Z">
+        <seg>Der &lt;e0&gt;--alignDir&lt;/e0&gt;-Parameter wird verwendet, um den Speicherort der Daten in der Zielsprache anzugeben, also einen Ordner, der die übersetzten Dateien enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36319,6 +36551,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The data is the same as when using &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110819Z" creationid="Ragnar-F" creationdate="20221116T110819Z">
+        <seg>Die Daten sind dieselben wie, als würde man &lt;l0/&gt; verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160804Z">
@@ -36587,6 +36827,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T125303Z" creationid="Ragnar-F" creationdate="20221110T125253Z">
         <seg>Die Dateistruktur muss ebenfalls mit dem Filter kompatibel sein: Selbst wenn Sie &lt;l0&gt;.odt&lt;/l0&gt; mit dem XHMTL-Filter verknüpfen, kann der Filter den Inhalt einer LibreOffice Writer-Datei nicht verstehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file types that can be aligned depend on whether the alignment is supported by the file filter .</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T105852Z" creationid="Ragnar-F" creationdate="20221116T105852Z">
+        <seg>Welche Dateitypen synchronisiert werden können, hängt davon ab, ob die Synchronisierung vom Dateifilter unterstützt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37386,6 +37634,22 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The output defaults to xml.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110651Z" creationid="Ragnar-F" creationdate="20221116T110651Z">
+        <seg>Für die Ausgabe wird standardmäßig xml verwendet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T104929Z" creationid="Ragnar-F" creationdate="20221116T104929Z">
+        <seg>Speicherort der pseudoübersetzten TMX-Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The package also provides a &lt;f0&gt;omegat.kaptn&lt;/f0&gt; Kaptain script, which KDE users might find useful, as well as an &lt;f1&gt;OmegaT&lt;/f1&gt; bash script that automatically launches the appropriate &lt;a2&gt;java&lt;/a2&gt; command to run OmegaT.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T085102Z" creationid="Ragnar-F" creationdate="20221116T085102Z">
@@ -37726,6 +37990,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T144954Z" creationid="Ragnar-F" creationdate="20221111T144954Z">
         <seg>Die restlichen zwölf Zeichen sind normal und müssen nicht mit einem umgekehrten Schrägstrich versehen werden, wenn Sie nach diesen Zeichen selbst suchen möchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resulting TMX file is saved in the /omegat folder as align.tmx.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T105519Z" creationid="Ragnar-F" creationdate="20221116T105519Z">
+        <seg>Die daraus resultierende TMX-Datei wird im OmegaT-Ordner als align.tmx gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41412,6 +41684,14 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate all HTML files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T104424Z" creationid="Ragnar-F" creationdate="20221116T104424Z">
+        <seg>Alle HTML-Dateien übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate blank source segments</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T150011Z" creationid="Ragnar-F" creationdate="20221110T150011Z">
@@ -43716,6 +43996,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warn: Show warnings without exiting if there are tag issues.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T111219Z" creationid="Ragnar-F" creationdate="20221116T111219Z">
+        <seg>Warn: Bei Tag-Problemen Warnungen anzeigen, ohne das Programm zu beenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning</seg>
       </tuv>
       <tuv lang="de">
@@ -43850,6 +44138,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T120738Z" creationid="Ragnar-F" creationdate="20221111T120738Z">
         <seg>Welcher Buchstabe fehlt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T105034Z" creationid="Ragnar-F" creationdate="20221116T105034Z">
+        <seg>Womit die pseudoübersetzte TMX gefüllt werden soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44491,6 +44787,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T143458Z" creationid="BVB" creationdate="20180826T104339Z">
         <seg>Mit/ohne JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without &lt;e0&gt;--stats-type&lt;/e0&gt;, detects format from file extension.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110549Z" creationid="Ragnar-F" creationdate="20221116T110549Z">
+        <seg>Wenn &lt;e0&gt;--stats-type&lt;/e0&gt; nicht angegeben ist, wird das Format via Dateiendung ermittelt.</seg>
       </tuv>
     </tu>
     <tu>
