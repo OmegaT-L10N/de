@@ -4246,6 +4246,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;TAB&lt;/k2&gt;&lt;/k0&gt; can be used as an alternate shortcut if &lt;l3/&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175332Z" creationid="Ragnar-F" creationdate="20221117T175332Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;TAB&lt;/k2&gt;&lt;/k0&gt; kann als alternatives Tastenkürzel verwendet werden, wenn &lt;l3/&gt; ausgewählt ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130815Z">
@@ -4266,6 +4274,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110553Z" creationid="Ragnar-F" creationdate="20221112T110355Z">
         <seg>&lt;k0&gt;Strg&lt;/k0&gt; oder &lt;k1&gt;Ctrl&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;TAB&lt;/k0&gt; can be used as an alternate shortcut if &lt;l1/&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175047Z" creationid="Ragnar-F" creationdate="20221117T175047Z">
+        <seg>&lt;k0&gt;TAB&lt;/k0&gt; kann als alternatives Tastenkürzel verwendet werden, wenn &lt;l1/&gt; ausgewählt ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6768,6 +6784,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175211Z" creationid="Ragnar-F" creationdate="20221117T175211Z">
+        <seg>Auch: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also: &lt;k0&gt;&lt;k1&gt;Enter&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T174922Z" creationid="Ragnar-F" creationdate="20221117T174922Z">
+        <seg>Auch: &lt;k0&gt;&lt;k1&gt;Enter&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110554Z" creationid="Ragnar-F" creationdate="20221112T110554Z">
@@ -7989,6 +8021,14 @@ korrektem Verhalten kommen kann.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142856Z" creationid="Ragnar-F" creationdate="20221112T142856Z">
         <seg>Zurück im Verlauf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back in History &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;P&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T180026Z" creationid="Ragnar-F" creationdate="20221117T180023Z">
+        <seg>Zurück im Verlauf &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;P&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16711,6 +16751,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Forward in History &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175758Z" creationid="Ragnar-F" creationdate="20221117T175748Z">
+        <seg>Vor im Verlauf &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="de">
@@ -21111,6 +21159,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T174710Z" creationid="Ragnar-F" creationdate="20221117T174710Z">
+        <seg>In dieser Bedienungsanleitung: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122301Z" creationid="Ragnar-F" creationdate="20221117T122157Z">
@@ -22761,6 +22817,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T101928Z" creationid="karsten" creationdate="20150919T101928Z">
         <seg>Springe zum zuletzt bearbeiteten Segment...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jumps to the segment whose call-out or number is entered.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175600Z" creationid="Ragnar-F" creationdate="20221117T175600Z">
+        <seg>Springt zum Segment, dessen Call-Out oder Nummer eingetragen wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25592,6 +25656,30 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the next segment with a note.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175622Z" creationid="Ragnar-F" creationdate="20221117T175622Z">
+        <seg>Springt zum nächsten Segment mit einer Notiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the next segment with no target language entry in the translation memory.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T174838Z" creationid="Ragnar-F" creationdate="20221117T174838Z">
+        <seg>Springt zum nächsten Segment, das keinen Zielspracheneintrag im Translation Memory hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the next segment, or to the first segment of the next file if the current segment is the last one in the file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175017Z" creationid="Ragnar-F" creationdate="20221117T175017Z">
+        <seg>Springt zum nächsten Segment, oder zum ersten Segment der nächsten Datei, wenn das aktuelle Segment das letzte in der Datei ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves to the next segment.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T110637Z">
@@ -25600,10 +25688,42 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the next unique segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175711Z" creationid="Ragnar-F" creationdate="20221117T175711Z">
+        <seg>Springt zum nächsten einmaligen Segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the previous segment with a note.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175639Z" creationid="Ragnar-F" creationdate="20221117T175639Z">
+        <seg>Springt zum vorherigen Segment mit einer Notiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the previous segment, or to the last segment of the previous file if the current segment is the first one in the file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175303Z" creationid="Ragnar-F" creationdate="20221117T175303Z">
+        <seg>Springt zum vorherigen Segment, oder zum letzten Segment der vorherigen Datei, wenn das aktuelle Segment das erste in der Datei ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves to the previous segment.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T110656Z">
         <seg>Springt zum vorherigen Segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the segment that corresponds to the currently selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175747Z" creationid="Ragnar-F" creationdate="20221117T175728Z">
+        <seg>Springt zum Segment, das dem aktuell ausgewählten Match im &lt;g0&gt;Fuzzy-Matches&lt;/g0&gt;-Bereich entspricht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25936,10 +26056,26 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;N&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T174857Z" creationid="Ragnar-F" creationdate="20221117T174854Z">
+        <seg>Nächstes Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;N&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next Translated Segment</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T073414Z" creationid="BVB" creationdate="20180829T073414Z">
         <seg>Nächstes übersetztes Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Translated Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;U&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T174849Z" creationid="Ragnar-F" creationdate="20221117T174843Z">
+        <seg>Nächstes übersetztes Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;U&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25960,10 +26096,26 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next Unique Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;Q&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175649Z" creationid="Ragnar-F" creationdate="20221117T175641Z">
+        <seg>Nächstes einmaliges Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;Q&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next Untranslated Segment</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T230505Z">
         <seg>Nächstes unübersetztes Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Untranslated Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T174729Z" creationid="Ragnar-F" creationdate="20221117T174725Z">
+        <seg>Nächstes unübersetztes Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27836,6 +27988,14 @@ Klicken Sie auf OK, um das Programm zu beenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT remembers your segment navigation history.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175826Z" creationid="Ragnar-F" creationdate="20221117T175826Z">
+        <seg>OmegaT merkt sich den Verlauf Ihrer Segmentnavigation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
@@ -28212,6 +28372,14 @@ enthalten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T174715Z" creationid="Ragnar-F" creationdate="20221117T174715Z">
+        <seg>In Windows und Linux: &lt;k0&gt;&lt;k1&gt;Strg&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122310Z" creationid="Ragnar-F" creationdate="20221117T122310Z">
@@ -28264,6 +28432,14 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102644Z" creationid="Ragnar-F" creationdate="20221117T102639Z">
         <seg>In macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T174720Z" creationid="Ragnar-F" creationdate="20221117T174720Z">
+        <seg>In macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30586,6 +30762,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       </tuv>
       <tuv lang="de">
         <seg>Vorheriges Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;P&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175203Z" creationid="Ragnar-F" creationdate="20221117T175152Z">
+        <seg>Vorheriges Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;P&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34226,6 +34410,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment number... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;J&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175340Z" creationid="Ragnar-F" creationdate="20221117T175336Z">
+        <seg>Segmentnummer... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;J&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130621T132652Z">
@@ -36190,6 +36382,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141640Z" creationid="BVB" creationdate="20180829T073703Z">
         <seg>Quelle des ausgewählten Matches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source of Selected Match &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;M&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175724Z" creationid="Ragnar-F" creationdate="20221117T175715Z">
+        <seg>Quelle des ausgewählten Matches &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;M&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42554,6 +42754,22 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command allows you to move backward one segment at a time to segments that you have previously visited.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T180048Z" creationid="Ragnar-F" creationdate="20221117T180048Z">
+        <seg>Mit diesem Befehl können Sie sich segmentweise zu Segmenten rückwärts bewegen, die Sie zuvor besucht haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command allows you to move forward one segment at a time to segments that you have previously visited with &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T180019Z" creationid="Ragnar-F" creationdate="20221117T180019Z">
+        <seg>Mit diesem Befehl können Sie sich segmentweise zu Segmenten vorwärts bewegen, die Sie zuvor mit &lt;l0/&gt; besucht haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command also automatically registers the project in the version control system.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T114619Z" creationid="Ragnar-F" creationdate="20221116T114619Z">
@@ -43086,6 +43302,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130701T162003Z">
         <seg>In dieser Form wird der Text angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is useful for character entry systems that use &lt;k0&gt;Enter&lt;/k0&gt; to validate input.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175144Z" creationid="Ragnar-F" creationdate="20221117T175144Z">
+        <seg>Das ist nützlich für Zeicheneingabesysteme, die &lt;k0&gt;Enter&lt;/k0&gt; zur Validierung der Eingabe verwenden.</seg>
       </tuv>
     </tu>
     <tu>
