@@ -4062,6 +4062,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional): detects grammatical or typographical issues.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185510Z" creationid="Ragnar-F" creationdate="20221117T185418Z">
+        <seg>&lt;g0&gt;LanguageTool-Probleme&lt;/g0&gt; (optional): Erkennt grammatikalische oder typografische Probleme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T073409Z" creationid="Ragnar-F" creationdate="20210111T073359Z">
@@ -4134,10 +4142,34 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional): detects spelling mistakes.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185259Z" creationid="Ragnar-F" creationdate="20221117T185226Z">
+        <seg>&lt;g0&gt;Rechtschreibprobleme&lt;/g0&gt; (optional): Erkennt Rechtschreibfehler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Tag Issues&lt;/g0&gt; (always selected): detects missing or displaced tags, including custom tags and flagged text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185149Z" creationid="Ragnar-F" creationdate="20221117T185103Z">
+        <seg>&lt;g0&gt;Tag-Probleme&lt;/g0&gt; (immer ausgewählt): Erkennt fehlende oder verschobene Tags, einschließlich benutzerdefinierter Tags und geschütztem Text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T144006Z" creationid="Ragnar-F" creationdate="20210111T143933Z">
         <seg>&lt;g0&gt;Terminologie-Probleme&lt;/g0&gt; (optional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional): detects all the glossary items that are not properly translated.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185415Z" creationid="Ragnar-F" creationdate="20221117T185304Z">
+        <seg>&lt;g0&gt;Terminologieprobleme&lt;/g0&gt; (optional): Erkennt alle Glossareinträge, die nicht richtig übersetzt sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9366,10 +9398,26 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues for Current File</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T190054Z" creationid="Ragnar-F" creationdate="20221117T190054Z">
+        <seg>Probleme in aktueller Datei untersuchen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues...</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T143348Z" creationid="Ragnar-F" creationdate="20210111T143348Z">
         <seg>Probleme untersuchen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T184932Z" creationid="Ragnar-F" creationdate="20221117T184913Z">
+        <seg>Probleme untersuchen... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15773,6 +15821,14 @@ Backup-Dateiendung '.recover'.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File filter settings: some filters allow for extra parts to be considered for translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T190637Z" creationid="Ragnar-F" creationdate="20221117T190637Z">
+        <seg>Dateifiltereinstellungen: Einige Filter erlauben es, dass zusätzliche Teile für die Übersetzung herangezogen werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T112548Z" creationid="Ragnar-F" creationdate="20221110T112548Z">
@@ -16923,6 +16979,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T143717Z" creationid="Ragnar-F" creationdate="20210111T143717Z">
         <seg>Es werden vier Arten von Problemen erkannt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Four types of issues can be detected:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185048Z" creationid="Ragnar-F" creationdate="20221117T185048Z">
+        <seg>Vier Arten von Problemen können erkannt werden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21363,6 +21427,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122301Z" creationid="Ragnar-F" creationdate="20221117T122157Z">
         <seg>In dieser Bedienungsanleitung: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T184744Z" creationid="Ragnar-F" creationdate="20221117T184744Z">
+        <seg>In dieser Bedienungsanleitung: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28588,6 +28660,14 @@ enthalten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T184751Z" creationid="Ragnar-F" creationdate="20221117T184751Z">
+        <seg>In Windows und Linux: &lt;k0&gt;&lt;k1&gt;Strg&lt;/k1&gt;&lt;k2&gt;Umschalt&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T174715Z" creationid="Ragnar-F" creationdate="20221117T174715Z">
@@ -28671,6 +28751,14 @@ enthalten.</seg>
         <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T181849Z" creationid="Ragnar-F" creationdate="20221112T111417Z">
+        <seg>In macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T184908Z" creationid="Ragnar-F" creationdate="20221117T184908Z">
         <seg>In macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
@@ -29498,6 +29586,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T145206Z">
         <seg>Öffnet ein neues &lt;l0&gt;Suchfenster&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens a new window and displays project statistics such as the overall project word count or segment totals, and totals for every file in the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T190422Z" creationid="Ragnar-F" creationdate="20221117T190422Z">
+        <seg>Öffnet ein neues Fenster und zeigt projektspezifische Statistiken an, wie z. B. die Gesamtwortzahl des Projekts oder die Gesamtzahl der Segmente, und Gesamtzahlen für jede Datei im Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34922,6 +35018,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation rules: different rules will generate a different number of segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T190650Z" creationid="Ragnar-F" creationdate="20221117T190650Z">
+        <seg>Segmentierungsregeln: Verschiedene Regeln erzeugen eine unterschiedliche Anzahl von Segmenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation...</seg>
       </tuv>
       <tuv lang="de">
@@ -37094,8 +37198,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Spelling Issues</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T104050Z" creationid="Ragnar-F" creationdate="20210113T103609Z">
-        <seg>Rechtschreibungsprobleme</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185233Z" creationid="Ragnar-F" creationdate="20210113T103609Z">
+        <seg>Rechtschreibprobleme</seg>
       </tuv>
     </tu>
     <tu>
@@ -38052,6 +38156,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags: OmegaT tags are never counted in the statistics but in some cases can split terms and create discrepencies in the way OmegaT counts them.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T190824Z" creationid="Ragnar-F" creationdate="20221117T190824Z">
+        <seg>Tags: OmegaT-Tags werden in den Statistiken nie gezählt, können aber in manchen Fällen Begriffe splitten und zu Diskrepanzen in der Zählweise von OmegaT führen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tagwipe</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T131905Z" creationid="Ragnar-F" creationdate="20210112T131905Z">
@@ -38294,8 +38406,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Terminology Issues</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T104038Z" creationid="Ragnar-F" creationdate="20210113T104038Z">
-        <seg>Terminologie-Probleme</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185348Z" creationid="Ragnar-F" creationdate="20210113T104038Z">
+        <seg>Terminologieprobleme</seg>
       </tuv>
     </tu>
     <tu>
@@ -39845,6 +39957,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The data is also saved as a text file in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T190440Z" creationid="Ragnar-F" creationdate="20221117T190440Z">
+        <seg>Die Daten sind auch als Textdatei in &lt;l0/&gt; gespeichert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The data is the same as when using &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110819Z" creationid="Ragnar-F" creationdate="20221116T110819Z">
@@ -40984,6 +41104,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The option is always selected.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185205Z" creationid="Ragnar-F" creationdate="20221117T185205Z">
+        <seg>Diese Option ist immer ausgewählt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The option only appears when such a selection is possible.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210205T140107Z" creationid="Ragnar-F" creationdate="20210205T140107Z">
@@ -41444,6 +41572,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T183454Z" creationid="Ragnar-F" creationdate="20221117T183454Z">
         <seg>Die erstellte Zieldatei befinden sich im Ordner &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The results are presented as a table in which:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185630Z" creationid="Ragnar-F" creationdate="20221117T185630Z">
+        <seg>Die Ergebnisse werden in Form einer Tabelle dargestellt, in der Sie Folgendes tun können:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44262,6 +44398,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T173558Z">
         <seg>Dieses Projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This quality assurance tool carries out all automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185024Z" creationid="Ragnar-F" creationdate="20221117T185024Z">
+        <seg>Dieses Tool zur Qualitätssicherung führt alle automatischen Überprüfungen in einem Rutsch durch und zeigt die Ergebnisse in einem Fenster an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49053,6 +49197,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Word count, segment total and other items can be influenced by the following factors:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T190538Z" creationid="Ragnar-F" creationdate="20221117T190538Z">
+        <seg>Wortzahl, Gesamtzahl der Segmente und andere Elemente hängen von den folgenden Faktoren ab:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WordAr&amp;t</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T222458Z">
@@ -50028,6 +50180,14 @@ Lizenz finden Sie in /docs/OmegaT-license.txt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T105312Z" creationid="Ragnar-F" creationdate="20221117T105312Z">
         <seg>Wie Sie die Absatzmarkierung setzen können, erfahren Sie hier: &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can force issue checking each time you leave a segment (see &lt;l0/&gt;) and block translated files creation if tag issues are found (see &lt;l1/&gt;).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T190042Z" creationid="Ragnar-F" creationdate="20221117T190042Z">
+        <seg>Sie können beim Verlassen eines Segments eine Fehlerprüfung erzwingen (siehe &lt;l0/&gt;) und die Erstellung übersetzter Dateien blockieren, wenn Tag-Probleme gefunden werden (siehe &lt;l1/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51685,6 +51845,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T093538Z" creationid="Ragnar-F" creationdate="20221110T093538Z">
         <seg>changes.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>clicking a column header changes the sort order for that column,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185650Z" creationid="Ragnar-F" creationdate="20221117T185650Z">
+        <seg>Klicken Sie auf eine Spaltenüberschrift, um die Sortierreihenfolge der Spalte zu ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55464,6 +55632,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T102530Z">
         <seg>Wählen Sie die Sicherungskopie des Translation Memory aus, der am ehesten die gesuchten Daten enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selecting a row, or moving the mouse over it, displays a context menu icon in the last column; clicking that icon presents actions available to correct or ignore the error.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185930Z" creationid="Ragnar-F" creationdate="20221117T185930Z">
+        <seg>Wählen Sie eine Zeile aus oder bewegen Sie den Mauszeiger über eine Zeile, um in der letzten Spalte ein Kontextmenüsymbol anzuzeigen, auf das Sie klicken können, um den Fehler zu beheben oder zu ignorieren.</seg>
       </tuv>
     </tu>
     <tu>
