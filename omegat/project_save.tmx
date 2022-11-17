@@ -6184,6 +6184,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have created the project, you can use &lt;l0/&gt; to come back to this dialog as necessary.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103301Z" creationid="Ragnar-F" creationdate="20221117T103301Z">
+        <seg>Nachdem Sie das Projekt erstellt haben, können Sie mit &lt;l0/&gt; bei Bedarf zu diesem Dialogfenster zurückkehren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140035Z">
@@ -6744,6 +6752,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is simply a set of folders and folders that holds all your default resources.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102943Z" creationid="Ragnar-F" creationdate="20221117T102943Z">
+        <seg>Ein OmegaT-Projekt ist lediglich ein Bündel von Ordnern und Verzeichnissen, die Ihre gesamten Standardressourcen enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT team projects synchronizes the project translation memory &lt;l0/&gt; and the project writable glossary &lt;l1/&gt; between the hosting server and all the participating team members, and manages all possible conflicts between them.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T112040Z" creationid="Ragnar-F" creationdate="20221116T112040Z">
@@ -6756,6 +6772,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T120654Z" creationid="Ragnar-F" creationdate="20221114T120654Z">
         <seg>Ein OmegaT-Übersetzungsprojekt besteht aus einer Reihe von Ressourcen, die in separaten Ordnern abgelegt sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of a &lt;l0/&gt; file that stores the location of all the resources and of a &lt;l1/&gt; translation memory file that stores all the translations made while working on that project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T095328Z" creationid="Ragnar-F" creationdate="20221117T095328Z">
+        <seg>Ein OmegaT-Übersetzungsprojekt besteht aus einer Reihe von Ressourcen, die in separaten Ordnern aufbewahrt werden, aus einer &lt;l0/&gt;-Datei, die den Speicherort aller Ressourcen enthält, und aus einer &lt;l1/&gt;-Translation-Memory-Datei, die alle Übersetzungen enthält, die während der Arbeit an diesem Projekt angefertigt wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7016,6 +7040,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132528Z" creationid="Ragnar-F" creationdate="20221114T132528Z">
         <seg>Eine "OmegaT"-TMX-Datei enthält die von OmegaT erstellten Tags in einer Form, die nur von einem OmegaT-Projekt sinnvoll genutzt werden kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And before you ever need to follow those steps, OmegaT will allow you to focus on actually translating, and hopefully help you become a better translator.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101636Z" creationid="Ragnar-F" creationdate="20221117T101636Z">
+        <seg>OmegaT ermöglicht es Ihnen, sich auf das eigentliche Übersetzen zu konzentrieren, und hilft Ihnen hoffentlich, ein besserer Übersetzer zu werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7477,6 +7509,14 @@ korrektem Verhalten kommen kann.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T125624Z" creationid="Ragnar-F" creationdate="20221112T122538Z">
         <seg>Gleichzeitig hat die Übersetzerin festgestellt, dass sie während ihrer Sitzung mehrmals die Menü- und Cursortasten verwendet hat, um die Funktion &lt;l0/&gt; auszuwählen, und beschließt, &lt;l1&gt;ein neues Tastenkürzel hinzuzufügen&lt;/l1&gt;, um auch diesen Arbeitsschritt zu beschleunigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the top of that dialog, select the languages of your source and translated files, set the various options, and click the &lt;g0&gt;OK&lt;/g0&gt; button to continue.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103210Z" creationid="Ragnar-F" creationdate="20221117T103210Z">
+        <seg>Wählen Sie im oberen Teil des Dialogfensters die Sprachen Ihrer Quelldateien und übersetzten Dateien aus, stellen Sie alles ein und klicken Sie dann auf die Schaltfläche &lt;g0&gt;OK&lt;/g0&gt;, um fortzufahren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8246,6 +8286,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Buttons are very few in OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101804Z" creationid="Ragnar-F" creationdate="20221117T101804Z">
+        <seg>In OmegaT gibt es nur sehr wenige Schaltflächen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T054536Z" creationid="BVB" creationdate="20180829T054536Z">
@@ -8426,6 +8474,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T183751Z" creationid="Ragnar-F" creationdate="20221114T183751Z">
         <seg>Standardmäßig wird die linke Ausrichtung für Sprachen verwendet, die von links nach rechts gelesen werden (englisch left-to-right oder kurz LTR), und die rechte Ausrichtung für Sprachen, die von rechts nach links gelesen werden (englisch right-to-left oder kurz RTL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, resources include the project’s translation memory, which is automatically created upon project creation, and the files to translate.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T095513Z" creationid="Ragnar-F" creationdate="20221117T095513Z">
+        <seg>Zu den Ressourcen gehören standardmäßig das Translation Memory des Projekts, das bei der Projekterstellung automatisch angelegt wird, und die zu übersetzenden Dateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9638,6 +9694,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g0&gt;&lt;l1/&gt;&lt;/g0&gt; or &lt;g2&gt;&lt;l3/&gt;&lt;/g2&gt; and add source files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103558Z" creationid="Ragnar-F" creationdate="20221117T103558Z">
+        <seg>Klicken Sie auf &lt;g0&gt;&lt;l1/&gt;&lt;/g0&gt; oder &lt;g2&gt;&lt;l3/&gt;&lt;/g2&gt; und fügen Sie Quelldateien hinzu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T111305Z" creationid="Michael Motzkus" creationdate="20180918T171454Z">
@@ -9836,6 +9900,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T132931Z" creationid="Ragnar-F" creationdate="20221111T132931Z">
         <seg>Codes wie "1234/5", "1472/69" oder "9513/842", die aus vier Ziffern, einem Schrägstrich und 1-3 weiteren Ziffern bestehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collaboration</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T100145Z" creationid="Ragnar-F" creationdate="20221117T100145Z">
+        <seg>Zusammenarbeit</seg>
       </tuv>
     </tu>
     <tu>
@@ -10973,6 +11045,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183733Z" creationid="Ragnar-F" creationdate="20210111T073317Z">
         <seg>Erstellen Sie eine lokale Kopie des Repository (&lt;c0&gt;check out&lt;/c0&gt; bei SVN, &lt;c1&gt;clone&lt;/c1&gt; bei Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new project</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102657Z" creationid="Ragnar-F" creationdate="20221117T102657Z">
+        <seg>Ein neues Projekt erstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -14359,6 +14439,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even if things look very broken, do not panic.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101404Z" creationid="Ragnar-F" creationdate="20221117T101404Z">
+        <seg>Selbst wenn die Dinge sehr kaputt aussehen, keine Panik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even if you fear you might have lost translation data, it is probably safely stored in your most recent backup memory, which is usually less than a few minutes old or so.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T134113Z" creationid="Ragnar-F" creationdate="20221115T134113Z">
@@ -17724,6 +17812,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can OmegaT help against such glitches?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101226Z" creationid="Ragnar-F" creationdate="20221117T101226Z">
+        <seg>Wie kann OmegaT gegen solche Probleme helfen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T114329Z" creationid="BVB" creationdate="20180826T202607Z">
@@ -18229,6 +18325,14 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210118T194111Z">
         <seg>Wenn die HHC- oder HHK-Datei eine Kodierungsdeklaration enthält, wird diese stattdessen verwendet und alle in diesem Dialogfenster festgelegten Werte ignoriert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a file does not appear into the &lt;l0/&gt; pane, then it could be that it is empty, or in a format that is not supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103728Z" creationid="Ragnar-F" creationdate="20221117T103728Z">
+        <seg>Wenn eine Datei nicht im &lt;l0/&gt;-Fenster erscheint, liegt es möglicherweise daran, dass sie leer ist oder in einem Format vorliegt, das von OmegaT nicht unterstützt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18794,6 +18898,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T123115Z" creationid="Ragnar-F" creationdate="20221114T123115Z">
         <seg>Wenn der Ordner leer ist, wenn keine einzige Datei übersetzbare Inhalte enthält oder wenn es keine Dateien gibt, die von den OmegaT-Dateifiltern unterstützt werden, wird OmegaT Ihnen mitteilen, dass der Ordner leer ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the format is not there, use third party plugins or convert the file to a format that is supported.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103836Z" creationid="Ragnar-F" creationdate="20221117T103836Z">
+        <seg>Wenn das Format dort nicht zu finden ist, verwenden Sie Plugins von Drittanbietern oder konvertieren Sie die Datei in ein Format, das unterstützt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19393,6 +19505,14 @@ angezeigt werden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you don’t remember where your project is, you can use &lt;l0/&gt; from the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103615Z" creationid="Ragnar-F" creationdate="20221117T103615Z">
+        <seg>Wenn Sie nicht mehr wissen, wo sich Ihr Projekt befindet, können Sie &lt;l0/&gt; im Menü &lt;l1/&gt; verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T112449Z">
@@ -19487,6 +19607,14 @@ unter anderem über Java Web Start installieren.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T123320Z" creationid="Michael Motzkus" creationdate="20180925T063414Z">
         <seg>Wenn Sie keinen Zweifel daran haben, dass eine TMX-Datei korrekter als die &lt;f0&gt;project_save.tmx&lt;/f0&gt;-Datei von OmegaT ist, kopieren Sie diese TMX-Datei in den /tm/enforce-Ordner, um bestehende Standardübersetzungen bedingungslos zu überschreiben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have not yet installed OmegaT, check &lt;l0/&gt; and &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102737Z" creationid="Ragnar-F" creationdate="20221117T102737Z">
+        <seg>Wenn Sie OmegaT noch nicht installiert haben, schauen Sie sich &lt;l0/&gt; und &lt;l1/&gt; an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20454,6 +20582,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the dialog, just tell OmegaT what new resource folders to use.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103411Z" creationid="Ragnar-F" creationdate="20221117T103411Z">
+        <seg>Teilen Sie OmegaT in dem Dialogfenster einfach mit, welche neuen Ressourcenordner verwendet werden sollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T124240Z" creationid="Ragnar-F" creationdate="20210111T195943Z">
@@ -20563,6 +20699,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T082507Z" creationid="Ragnar-F" creationdate="20210111T082507Z">
         <seg>In diesem Fall ist die Vorgehensweise die gleiche, aber der Projektmanager fügt nicht die (gesamten) Dateien zum versionsverwalteten Projekt hinzu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102604Z" creationid="Ragnar-F" creationdate="20221117T102604Z">
+        <seg>In dieser Bedienungsanleitung: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21257,6 +21401,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Introduction to OmegaT</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T094426Z" creationid="Ragnar-F" creationdate="20221117T094426Z">
+        <seg>Einführung in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Introduction to OmegaT (2.5.0).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T222110Z" creationid="BVB" creationdate="20180829T054449Z">
@@ -21861,6 +22013,14 @@ Computer und das Programm selbst installiert.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will then just ask you to reload the project and start using the new locations.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103511Z" creationid="Ragnar-F" creationdate="20221117T103511Z">
+        <seg>Es wird Sie dann lediglich auffordern, das Projekt neu zu laden, um die neuen Speicherorte zu verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It's a real eye-opener!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T213357Z" creationid="BVB" creationdate="20180826T192000Z">
@@ -22129,6 +22289,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T101928Z" creationid="karsten" creationdate="20150919T101928Z">
         <seg>Springe zum zuletzt bearbeiteten Segment...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just follow the simple steps described in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101434Z" creationid="Ragnar-F" creationdate="20221117T101434Z">
+        <seg>Folgen Sie einfach den Anweisungen in &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23464,6 +23632,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Made for translators</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T100421Z" creationid="Ragnar-F" creationdate="20221117T100421Z">
+        <seg>Für Übersetzer gemacht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T143324Z">
@@ -23620,6 +23796,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T141433Z" creationid="Ragnar-F" creationdate="20210110T193037Z">
         <seg>Rechts-nach-Links-Sprachen verwalten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage your segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103845Z" creationid="Ragnar-F" creationdate="20221117T103845Z">
+        <seg>Segmente verwalten</seg>
       </tuv>
     </tu>
     <tu>
@@ -24761,6 +24945,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most of the action takes place with the help of shortcuts associated to menu items.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101910Z" creationid="Ragnar-F" creationdate="20221117T101910Z">
+        <seg>Die meisten Aktionen werden mithilfe von Tastenkürzeln ausgeführt, die an Menüpunkte gekoppelt sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160527Z">
@@ -25672,6 +25864,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T224055Z" creationid="Ragnar-F" creationdate="20221109T224055Z">
         <seg>Nicht gesetzt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not to worry.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101233Z" creationid="Ragnar-F" creationdate="20221117T101233Z">
+        <seg>Kein Grund zur Sorge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26837,6 +27037,14 @@ Software Foundation veröffentlicht wurde, entweder in Version 3 der Lizenz oder
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is designed not only to facilitate the translation process, but also to ensure the translator does not have to worry about losing data.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T100435Z" creationid="Ragnar-F" creationdate="20221117T100435Z">
+        <seg>OmegaT wurde nicht nur entwickelt, um den Übersetzungsprozess zu vereinfachen, sondern auch, um sicherzustellen, dass der Übersetzer keine Angst vor Datenverlust haben muss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is free software.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T100955Z" creationid="BVB" creationdate="20180826T191020Z">
@@ -26950,6 +27158,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="de">
         <seg>OmegaT-Lizenz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT looks a bit stern, if not outright unfriendly, to people who are used to button based interfaces.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101750Z" creationid="Ragnar-F" creationdate="20221117T101750Z">
+        <seg>OmegaT wirkt auf Menschen, die an Benutzeroberflächen mit Schaltflächen gewöhnt sind, ein wenig sperrig, um nicht zu sagen benutzerunfreundlich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27114,6 +27330,14 @@ höher auf Ihrem System installiert ist.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T114939Z" creationid="Ragnar-F" creationdate="20221115T114939Z">
         <seg>OmegaT-Tags sind LTR-Zeichenketten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT takes care of that &lt;e2&gt;automatically&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T095842Z" creationid="Ragnar-F" creationdate="20221117T095842Z">
+        <seg>OmegaT kümmert sich &lt;e2&gt;automatisch&lt;/e2&gt; darum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27428,6 +27652,14 @@ enthalten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102636Z" creationid="Ragnar-F" creationdate="20221117T102608Z">
+        <seg>In Windows und Linux: &lt;k0&gt;&lt;k1&gt;Strg&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111415Z" creationid="Ragnar-F" creationdate="20221112T111333Z">
@@ -27464,6 +27696,14 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T121643Z" creationid="Ragnar-F" creationdate="20210111T121631Z">
         <seg>In macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102644Z" creationid="Ragnar-F" creationdate="20221117T102639Z">
+        <seg>In macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29748,6 +29988,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T100500Z" creationid="Ragnar-F" creationdate="20210112T100500Z">
         <seg>Zu den früheren Mitwirkenden gehören:
 (in alphabetischer Reihenfolge)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Principles</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T094814Z" creationid="Ragnar-F" creationdate="20221117T094814Z">
+        <seg>Grundsätze</seg>
       </tuv>
     </tu>
     <tu>
@@ -33354,6 +33602,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments that are within paragraph can be further segmented, or "unsegmented" (merged).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T104230Z" creationid="Ragnar-F" creationdate="20221117T104230Z">
+        <seg>Segmente innerhalb eines Absatzes können weiter segmentiert oder "unsegmentiert" (zusammengeführt) bleiben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments with notes</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T083521Z" creationid="karsten" creationdate="20150919T220028Z">
@@ -34218,6 +34474,22 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcuts</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101647Z" creationid="Ragnar-F" creationdate="20221117T101647Z">
+        <seg>Tastenkürzel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcuts are ubiquitous in this guide and you should be able very shortly to remember the few that are useful in the course of a standard translation day.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102143Z" creationid="Ragnar-F" creationdate="20221117T102143Z">
+        <seg>Tastenkürzel sind in dieser Bedienungsanleitung allgegenwärtig, und Sie sind sicher in der Lage, sich die wenigen nützlichen Tastenkürzel zu merken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shortcuts customization</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160513Z">
@@ -34402,6 +34674,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple settings enable translators to easily share resources and work together on a project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T100205Z" creationid="Ragnar-F" creationdate="20221117T100205Z">
+        <seg>Dank einfacher Einstellungen können Übersetzer problemlos Ressourcen gemeinsam nutzen und gemeinsam an einem Projekt arbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplified Overview</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T092743Z" creationid="Ragnar-F" creationdate="20221116T092743Z">
@@ -34458,6 +34738,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since a standard space character is often used as a boundary for a segment, if you want to merge two parts that are separated by a space character,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T104448Z" creationid="Ragnar-F" creationdate="20221117T104448Z">
+        <seg>Ein reguläres Leerzeichen wird häufig als Begrenzung für ein Segment verwendet. Wenn Sie also Sie zwei Teile, die mit einem Leerzeichen voneinander getrennt sind, zusammenführen wollen,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since files are included by default unless specifically excluded, this option is only necessary to specify exceptions to an exclusion pattern.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123929Z" creationid="Ragnar-F" creationdate="20221116T123929Z">
@@ -34486,6 +34774,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180822T161059Z" creationid="BVB" creationdate="20180822T161006Z">
         <seg>Das Projekt hat von Beginn an die Unterstützung von Dutzenden von Beitragenden bekommen, zu vielen, um sie alle hier erwähnen zu können, für deren Hilfe wir aber sehr dankbar sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Single letters are used as a common identifier for modifiers.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102453Z" creationid="Ragnar-F" creationdate="20221117T102453Z">
+        <seg>Es werden einzelne Buchstaben für Modifikatoren verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37009,6 +37305,22 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; dialog opens after you have named your project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103031Z" creationid="Ragnar-F" creationdate="20221117T103031Z">
+        <seg>Es öffnet sich das Dialogfenster &lt;l0/&gt;, nachdem Sie Ihr Projekt benannt haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; dialog opens next.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103540Z" creationid="Ragnar-F" creationdate="20221117T103540Z">
+        <seg>Als Nächstes wird das Dialogfenster &lt;l0/&gt; geöffnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143218Z" creationid="Ragnar-F" creationdate="20221112T143218Z">
@@ -38049,6 +38361,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132208Z" creationid="Ragnar-F" creationdate="20221110T132208Z">
         <seg>Das Standardmuster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default setting for a translation project is to create &lt;e0&gt;sentences&lt;/e0&gt; by splitting the &lt;e1&gt;paragraph blocks&lt;/e1&gt; found in the document.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T104135Z" creationid="Ragnar-F" creationdate="20221117T104135Z">
+        <seg>Standardmäßig werden bei einem Übersetzungsprojekt &lt;e0&gt;Sätze&lt;/e0&gt; erstellt, indem vorhandene &lt;e1&gt;Absatzblöcke&lt;/e1&gt; im Dokument aufgeteilt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39560,6 +39880,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The robust design of OmegaT makes it &lt;e0&gt;extremely&lt;/e0&gt; unlikely that you have lost more than a few minutes of work.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101331Z" creationid="Ragnar-F" creationdate="20221117T101331Z">
+        <seg>Die Zuverlässigkeit von OmegaT macht es &lt;e0&gt;äußerst&lt;/e0&gt; unwahrscheinlich, dass Sie mehr als ein paar Minuten Arbeit verlieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The rules for that set will appear in the bottom half of the window.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T184646Z">
@@ -40136,6 +40464,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The team functionality offers industrial grade robustness and flexibility to synchronize project resources among team members, while allowing easy resolution of conflicts between different translations.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T100413Z" creationid="Ragnar-F" creationdate="20221117T100413Z">
+        <seg>Die Teamfunktionalität bietet professionelle Zuverlässigkeit und Flexibilität bei der Synchronisierung von Projektressourcen zwischen den Teammitgliedern und ermöglicht gleichzeitig eine einfache Behebung von Konflikten zwischen verschiedenen Übersetzungen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The team project administrator must use the local VCS to &lt;e0&gt;modify&lt;/e0&gt; or &lt;e1&gt;delete&lt;/e1&gt; those files.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124936Z" creationid="Ragnar-F" creationdate="20221116T121215Z">
@@ -40632,6 +40968,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is no limit to the number of translation memories that can be used as reference in a translation project, and OmegaT makes it very easy to assign different levels of priority to these additional memories.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T100134Z" creationid="Ragnar-F" creationdate="20221117T100134Z">
+        <seg>Die Anzahl der Translation Memories, die in einem Übersetzungsprojekt als Referenz verwendet werden können, ist unbegrenzt, und OmegaT macht es sehr einfach, diesen zusätzlichen Memories unterschiedliche Prioritätsstufen zuzuweisen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T194456Z">
@@ -40828,6 +41172,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141511Z" creationid="Ragnar-F" creationdate="20221114T141511Z">
         <seg>Es sind separate Objekte, die keine physische Verbindung mit der OmegaT-Applikation selbst haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can also include reference translation memories, glossaries, and other reference files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T095638Z" creationid="Ragnar-F" creationdate="20221117T095638Z">
+        <seg>Sie können auch externe Translation Memories, Glossare und andere Referenzdateien enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42620,6 +42972,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid duplication of shortcut description, we have adopted the following notation in this guide:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102318Z" creationid="Ragnar-F" creationdate="20221117T102318Z">
+        <seg>Um Dopplungen bei der Beschreibung von Tastenkürzeln zu vermeiden, haben wir uns in dieser Bedienungsanleitung für die folgende Schreibweise entschieden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To avoid losing important data, make regular copies of the file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; to a backup media, such as a USB key or an external hard drive, or to a cloud service.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T143637Z" creationid="Ragnar-F" creationdate="20221115T143637Z">
@@ -42876,6 +43236,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To further segment them, add a segmentation rule, to merge them, add an exception rule.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T104258Z" creationid="Ragnar-F" creationdate="20221117T104258Z">
+        <seg>Um sie weiter zu segmentieren, fügen Sie eine Segmentierungsregel hinzu; um sie zusammenzuführen, fügen Sie eine Ausnahmeregel hinzu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To ignore this content:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T143907Z" creationid="Ragnar-F" creationdate="20221110T143839Z">
@@ -43088,6 +43456,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T130457Z">
         <seg>Bevor Sie OmegaT verwenden können, müssen Sie zunächst ein Projekt erstellen, das alle Ihre Dateien wie z. B. Ihre Quelldatei, Translation-Memory-Dateien, Glossare und später auch die übersetzte Datei enthalten soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To start using OmegaT, you first have to create a project to hold all your files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102812Z" creationid="Ragnar-F" creationdate="20221117T102812Z">
+        <seg>Um mit OmegaT zu arbeiten, müssen Sie zunächst ein Projekt erstellen, das Ihre gesamten Dateien enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43724,6 +44100,14 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T095644Z" creationid="Ragnar-F" creationdate="20221117T095640Z">
+        <seg>Translation Memories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T113636Z">
@@ -43772,6 +44156,14 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation project</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T095041Z" creationid="Ragnar-F" creationdate="20221117T095041Z">
+        <seg>Übersetzungsprojekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T202650Z">
@@ -43800,6 +44192,30 @@ Skript mit ./linux-install.sh aus.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130701T141654Z">
         <seg>Kommentare des Übersetzers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators can easily modify the contents or location of those resources at any time during the translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T095421Z" creationid="Ragnar-F" creationdate="20221117T095421Z">
+        <seg>Übersetzer können den Inhalt oder den Speicherort dieser Ressourcen jederzeit während der Übersetzung problemlos ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators can very easily reuse an existing projectʼs translation memory by simply adding new translation files to the old project, or by copying the old translation memory to a new project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T100032Z" creationid="Ragnar-F" creationdate="20221117T100032Z">
+        <seg>Übersetzer können das Translation Memory eines bestehenden Projekts sehr leicht wiederverwenden, indem sie einfach neue Übersetzungsdateien zum alten Projekt hinzufügen oder den alten Translation Memory in ein neues Projekt kopieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators do not have to &lt;e0&gt;create&lt;/e0&gt; a translation memory or &lt;e1&gt;associate&lt;/e1&gt; one to a new project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T095749Z" creationid="Ragnar-F" creationdate="20221117T095749Z">
+        <seg>Die Übersetzer müssen Translation Memories weder &lt;e0&gt;erstellen&lt;/e0&gt; noch einem neuen Projekt &lt;e1&gt;zuordnen&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44834,6 +45250,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T142232Z" creationid="Ragnar-F" creationdate="20221115T142232Z">
         <seg>Verwenden Sie &lt;l0/&gt;, um die Dokumente neu zu erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;, select an empty folder, or create a new one with the name of your project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102849Z" creationid="Ragnar-F" creationdate="20221117T102849Z">
+        <seg>Verwenden Sie &lt;l0/&gt;, wählen Sie einen leeren Ordner aus oder erstellen Sie einen neuen Ordner mit dem Namen Ihres Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l1/&gt; to open the list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103803Z" creationid="Ragnar-F" creationdate="20221117T103803Z">
+        <seg>Verwenden Sie &lt;l1/&gt;, um die Liste der unterstützten Dateiformate zu öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45936,6 +46368,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130510T083808Z">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to OmegaT, a computer-assisted translation (CAT) tool that offers great flexibility, performance and robustness, as well as features beyond those of commercial offerings, even for beginning translators.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T100403Z" creationid="Ragnar-F" creationdate="20221117T095032Z">
+        <seg>Willkommen bei OmegaT, einem Tool für computergestützte Übersetzung (CAT), das große Flexibilität, Performance und Zuverlässigkeit sowie Funktionen bietet, die über die kommerziellen Angebote hinausgehen, selbst für angehende Übersetzer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47650,6 +48090,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can modify the structure of a project at any time after you have started translating.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103317Z" creationid="Ragnar-F" creationdate="20221117T103317Z">
+        <seg>Sie können die Struktur eines Projekts jederzeit ändern, nachdem Sie mit dem Übersetzen begonnen haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify the structure of your project by adding or removing files from the folders, or even by changing the folders the project will use, at will, even during the course of the translation.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T121335Z" creationid="Ragnar-F" creationdate="20221114T121335Z">
@@ -47882,6 +48330,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You have not used OmegaT yet, but you remember the times you were translating in your word processor and a computer glitch wiped out the book translation you had been working on for the last six months, or the report that was due in one hour.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101143Z" creationid="Ragnar-F" creationdate="20221117T101143Z">
+        <seg>Sie haben OmegaT noch nicht benutzt, aber Sie erinnern sich an Zeiten, als Sie beim Übersetzen eines Buches, an dem Sie seit sechs Monaten gearbeitet haben, oder an den Bericht, der in einer Stunde fällig war, durch ein Computerproblem zunichte gemacht wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You lost your translation?</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T125411Z" creationid="Ragnar-F" creationdate="20221115T125411Z">
@@ -48057,6 +48513,14 @@ Methoden zu lösen:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T120221Z" creationid="Ragnar-F" creationdate="20210110T120221Z">
         <seg>Sie müssen OmegaT neu starten, damit diese Änderung wirksam wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You're considering OmegaT, but…</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101201Z" creationid="Ragnar-F" creationdate="20221117T101201Z">
+        <seg>Sie ziehen OmegaT in Betracht, aber...</seg>
       </tuv>
     </tu>
     <tu>
