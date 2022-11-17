@@ -6480,6 +6480,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All glossaries must be located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="SabineWanner" changedate="20221117T155309Z" creationid="SabineWanner" creationdate="20221117T155309Z">
+        <seg>Alle Glossare müssen sich im Ordner &lt;l0/&gt; befinden..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other characters represent themselves.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T175042Z">
@@ -8570,6 +8578,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T085031Z" creationid="Ragnar-F" creationdate="20210111T085031Z">
         <seg>Standardmäßig werden alle Dateien, die nicht ausgeschlossen sind, eingeschlossen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, each project contains a &lt;l0/&gt; folder to store the writable glossary and any reference glossaries you want to add to the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="SabineWanner" changedate="20221117T155231Z" creationid="SabineWanner" creationdate="20221117T155231Z">
+        <seg>Standardmäßig enthält jedes Projekt einen &lt;l0/&gt; Ordner, in dem das beschreibbare Glossar und alle Referenzglossare gespeichert werden, die Sie dem Projekt hinzufügen möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25233,6 +25249,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifications made to any glossary are immediately recognized by OmegaT displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="SabineWanner" changedate="20221117T155048Z" creationid="SabineWanner" creationdate="20221117T155048Z">
+        <seg>Änderungen, die an einem Glossar vorgenommen werden, werden von OmegaT sofort erkannt und im Bereich &lt;l0/&gt; angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified OmegaT layout with auto-completion</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T105215Z" creationid="Ragnar-F" creationdate="20221117T105215Z">
@@ -39713,6 +39737,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T144041Z" creationid="Ragnar-F" creationdate="20221112T141406Z">
         <seg>In den folgenden Tabellen finden Sie Funktionen, die in der &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;-Datei geändert werden können, sowie ihre Standardwerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossaries folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="SabineWanner" changedate="20221117T155141Z" creationid="SabineWanner" creationdate="20221117T155141Z">
+        <seg>Der Glossar-Ordner</seg>
       </tuv>
     </tu>
     <tu>
