@@ -6096,6 +6096,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After reloading the old project, all its translation memory will be applied to the new source files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T085834Z" creationid="Ragnar-F" creationdate="20221117T085834Z">
+        <seg>Nach dem erneuten Laden des alten Projekts wird der gesamte Translation Memory auf die neuen Quelldateien angewendet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T214809Z">
@@ -10513,6 +10521,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversely, you can ask your partner to write the project TMX files to a folder on a shared disk that you will use as your &lt;l0/&gt; folder for the current translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T092337Z" creationid="Ragnar-F" creationdate="20221117T092337Z">
+        <seg>Umgekehrt können Sie Ihren Partner bitten, die TMX-Dateien des Projekts in einen Ordner auf einer gemeinsam genutzten Festplatte zu schreiben, den Sie als Ihren &lt;l0/&gt;-Ordner für die aktuelle Übersetzung verwenden werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Conversion</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132041Z" creationid="Ragnar-F" creationdate="20221116T131848Z">
@@ -10637,6 +10653,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T141020Z" creationid="Ragnar-F" creationdate="20221115T141020Z">
         <seg>Kopieren Sie den Inhalt der verschiedenen Benutzerordner in die entsprechenden Ordner des neuen Projekts (Quelldateien, zusätzliche Translation-Memory-Dateien, Glossardateien).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the documents for which you want to create a translation memory into the &lt;f0&gt;source&lt;/f0&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091343Z" creationid="Ragnar-F" creationdate="20221117T091343Z">
+        <seg>Kopieren Sie die Dokumente, für die Sie ein Translation Memory erstellen möchten, in den &lt;f0&gt;source&lt;/f0&gt;-Ordner Ihres Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11009,6 +11033,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create your own TMs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T084006Z" creationid="Ragnar-F" creationdate="20221117T084006Z">
+        <seg>Eigene TMs erstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create your own key then input it below.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T082411Z" creationid="Ragnar-F" creationdate="20210113T082411Z">
@@ -11069,6 +11101,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T142305Z" creationid="Ragnar-F" creationdate="20210111T142305Z">
         <seg>Erstellt die Zieldokumente basierend auf Ihrer Übersetzung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a TM specific to selected documents</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091147Z" creationid="Ragnar-F" creationdate="20221117T091147Z">
+        <seg>TM für bestimmte Dokumente erstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -11919,6 +11959,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T193337Z">
         <seg>Für viele Sprachen sind bereits verlässliche Segmentierungsregeln verfügbar, so dass Sie sich wahrscheinlich nicht mit der Erstellung eigener Segmentierungsregeln beschäftigen müssen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on how reliable the memory is, you can prefer &lt;l1/&gt;, &lt;l2/&gt;, &lt;l3/&gt;, or even &lt;l4/&gt; if it comes from machine translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090413Z" creationid="Ragnar-F" creationdate="20221117T090413Z">
+        <seg>Je nachdem, wie zuverlässig der Translation Memory ist, können Sie &lt;l1/&gt;, &lt;l2/&gt; oder &lt;l3/&gt; verwenden, oder sogar &lt;l4/&gt;, wenn er aus einer maschinellen Übersetzung stammt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13371,6 +13419,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each of the three files constitutes a bilingual export of the current content of your translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T084248Z" creationid="Ragnar-F" creationdate="20221117T084248Z">
+        <seg>Jede der drei Dateien repräsentiert einen zweisprachigen Export des aktuellen Inhalts Ihrer Übersetzung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T135957Z">
@@ -14628,6 +14684,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Existing translations are used to speed up the translation process.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T083555Z" creationid="Ragnar-F" creationdate="20221117T083555Z">
+        <seg>Vorhandene Übersetzungen werden verwendet, um den Übersetzungsprozess zu beschleunigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130701T164804Z">
@@ -15517,6 +15581,14 @@ Backup-Dateiendung '.recover'.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fixes are generally simple, and the error message provided by OmegaT will help you pinpoint the error.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090808Z" creationid="Ragnar-F" creationdate="20221117T090808Z">
+        <seg>Die Fehlerbehebung sollte in der Regel kein Problem darstellen, und die von OmegaT angezeigte Fehlermeldung wird Ihnen helfen, den Fehler zu finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T152948Z">
@@ -16107,6 +16179,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110309Z" creationid="Ragnar-F" creationdate="20221116T110309Z">
         <seg>Wenn es sich beispielsweise um ein EN-nach-FR-Projekt handelt, muss der Ordner ein Bundle enthalten, das mit _fr endet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For large jobs involving a team of translators, it is easier for everyone involved in sharing common translation memories rather than pass local versions back and forth.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091856Z" creationid="Ragnar-F" creationdate="20221117T091856Z">
+        <seg>Bei großen Aufträgen, an denen ein Team von Übersetzern beteiligt ist, ist es für alle Beteiligten einfacher, Translation Memories gemeinsam zu nutzen, als lokale Versionen hin und her zu schicken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18153,6 +18233,14 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a given sentence has already been translated once, there is no need to retranslate it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T083614Z" creationid="Ragnar-F" creationdate="20221117T083614Z">
+        <seg>Wenn ein bestimmter Satz bereits einmal übersetzt wurde, muss er nicht erneut übersetzt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T215715Z" creationid="Michael Motzkus" creationdate="20180921T080802Z">
@@ -18193,6 +18281,14 @@ verwendet, und alle Einstellungen werden auf ihre Standardwerte zurückgesetzt.<
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T152216Z">
         <seg>Wenn ein Fehler in einer solchen Datei gefunden wird, wird OmegaT die entsprechende Position innerhalb der defekten Datei melden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an old translation is similar to the contents of the segment you are translating, you can recycle it in your translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T083715Z" creationid="Ragnar-F" creationdate="20221117T083715Z">
+        <seg>Wenn eine alte Übersetzung dem Inhalt des von Ihnen zu übersetzenden Segments ähnlich ist, können Sie sie in Ihrer Übersetzung wiederverwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19644,6 +19740,14 @@ folgt starten können:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you write the TMX file to a folder on a shared disk, you can ask your partner to use that folder as the &lt;l0/&gt; folder for the current translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T092257Z" creationid="Ragnar-F" creationdate="20221117T092257Z">
+        <seg>Wenn Sie die TMX-Datei in einen Ordner auf einer gemeinsam genutzten Festplatte schreiben, können Sie Ihren Partner bitten, diesen Ordner als &lt;l0/&gt;-Ordner für die aktuelle Übersetzung zu verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T110315Z" creationid="BVB" creationdate="20180826T193840Z">
@@ -20182,6 +20286,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In situations where you need to share a TMX that contain only the text from certain specific files and excludes other content, follow the procedure below:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091301Z" creationid="Ragnar-F" creationdate="20221117T091301Z">
+        <seg>Wenn Sie ein TMX teilen müssen, das nur den Text für bestimmte Dateien enthält und andere Inhalte ausschließt, gehen Sie wie folgt vor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In so&amp;urce</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T145426Z">
@@ -20515,6 +20627,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T222404Z">
         <seg>In Bezug auf die Flexibilität können Sie weitere Ausnahmeregeln für Ihre Quellsprache definieren, um sinnvollere und kohärentere Segmente bereitzustellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In which case you will just need to use the appropriate folder as the &lt;l0/&gt; of your project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091115Z" creationid="Ragnar-F" creationdate="20221117T091115Z">
+        <seg>In diesem Fall müssen Sie nur den entsprechenden Ordner als &lt;l0/&gt; Ihres Projekts verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23496,6 +23616,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Managing your TMs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090846Z" creationid="Ragnar-F" creationdate="20221117T090846Z">
+        <seg>TMs verwalten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manual</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T135723Z" creationid="Michael Motzkus" creationdate="20181107T102343Z">
@@ -26356,6 +26484,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can read conformant TMX memories produced by other tools.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090544Z" creationid="Ragnar-F" creationdate="20221117T090544Z">
+        <seg>OmegaT kann konforme TMX-Memories lesen, die von anderen Tools erstellt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can tell you when a new version is available.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141132Z" creationid="Ragnar-F" creationdate="20221114T141132Z">
@@ -26568,6 +26704,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T132539Z">
         <seg>OmegaT fügt eine Übersetzung ein, die dem aktuellen Quelltext am ähnlichsten ist, sofern sie über dem Ähnlichkeitsschwellenwert liegt, den Sie in diesem Dialogfenster festgelegt haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT instantaneously notices modifications to TMX files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T092415Z" creationid="Ragnar-F" creationdate="20221117T092415Z">
+        <seg>OmegaT bemerkt Änderungen an TMX-Dateien sofort.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27906,6 +28050,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T141635Z" creationid="Ragnar-F" creationdate="20221115T141635Z">
         <seg>Öffnen Sie das neue Projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the old project and put the new source files in its &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T085656Z" creationid="Ragnar-F" creationdate="20221117T085656Z">
+        <seg>Öffnen Sie das alte Projekt und legen Sie die neuen Quelldateien in dessen &lt;l0/&gt;-Ordner ab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30152,6 +30304,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Put the reference memories that you took from the old project and put them in the &lt;l0/&gt; folder of the new project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090224Z" creationid="Ragnar-F" creationdate="20221117T090224Z">
+        <seg>Legen Sie die Translation Memories des alten Projekts in den &lt;l0/&gt;-Ordner des neuen Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Put the registered files on the hosting server</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T112440Z" creationid="Ragnar-F" creationdate="20221116T112440Z">
@@ -30321,6 +30481,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T172037Z">
         <seg>Lese TMX-Datei {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reading TMs from other tools</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090508Z" creationid="Ragnar-F" creationdate="20221117T090508Z">
+        <seg>TMs von anderen Tools lesen</seg>
       </tuv>
     </tu>
     <tu>
@@ -31621,6 +31789,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reuse TMs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T085234Z" creationid="Ragnar-F" creationdate="20221117T085234Z">
+        <seg>TMs wiederverwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reuse Translation Memories</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183829Z" creationid="Ragnar-F" creationdate="20210110T193122Z">
@@ -32618,6 +32794,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; above.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T092208Z" creationid="Ragnar-F" creationdate="20221117T092208Z">
+        <seg>Siehe &lt;l0/&gt; oben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0/&gt; for details</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100544Z" creationid="Ragnar-F" creationdate="20221110T100544Z">
@@ -32646,6 +32830,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T115927Z" creationid="Ragnar-F" creationdate="20221114T115927Z">
         <seg>Einzelheiten finden Sie unter &lt;l0/&gt; in &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0/&gt; in the &lt;l1/&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T083641Z" creationid="Ragnar-F" creationdate="20221117T083641Z">
+        <seg>Siehe &lt;l0/&gt; im &lt;l1/&gt;-Dialogfenster.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33946,6 +34138,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Share TMs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091701Z" creationid="Ragnar-F" creationdate="20221117T091701Z">
+        <seg>TMs teilen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sharing translation memories</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T160052Z">
@@ -34534,6 +34734,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T152147Z">
         <seg>Einige Tools sind dafür bekannt, unter Umständen ungültige TMX-Dateien zu erzeugen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some tools produce invalid TMX files under certain conditions.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090607Z" creationid="Ragnar-F" creationdate="20221117T090607Z">
+        <seg>Einige Tools erzeugen unter Umständen ungültige TMX-Dateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35540,6 +35748,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such sharing works well when the lag between TMX updates is not important, for example, a translator sends data to a reviewer a few times a day.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T093021Z" creationid="Ragnar-F" creationdate="20221117T093021Z">
+        <seg>Eine solche gemeinsame Nutzung funktioniert gut, wenn die Zeitspanne zwischen den TMX-Aktualisierungen nicht wichtig ist, z. B. wenn ein Übersetzer einige Male am Tag Daten an einen Prüfer sendet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Summary</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T121042Z" creationid="Ragnar-F" creationdate="20210113T121042Z">
@@ -36536,6 +36752,22 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That’s the easiest way to work on the new version of an already translated document.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T085856Z" creationid="Ragnar-F" creationdate="20221117T085856Z">
+        <seg>Das ist der einfachste Weg, um an der neuen Version eines bereits übersetzten Dokuments zu arbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That’s the preferred method if you want to start your translation from scratch.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090430Z" creationid="Ragnar-F" creationdate="20221117T090430Z">
+        <seg>Das ist die bevorzugte Methode, wenn Sie Ihre Übersetzung von Grund auf neu beginnen wollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
@@ -37189,6 +37421,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T170907Z" creationid="Ragnar-F" creationdate="20221109T170907Z">
         <seg>Die TMX-Datei wird trotzdem geladen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX files located in the &lt;l0/&gt; folder now contain only the original and translated text, in the selected language pair, of the files you copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091654Z" creationid="Ragnar-F" creationdate="20221117T091654Z">
+        <seg>Die TMX-Dateien im Ordner &lt;l0/&gt; enthalten jetzt nur noch den Originaltext und den übersetzten Text (im ausgewählten Sprachenpaar) der Dateien, die Sie in den Quellordner kopiert haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38313,6 +38553,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T114306Z" creationid="Ragnar-F" creationdate="20210324T114306Z">
         <seg>Die Glossarfunktion verwendet Stammformreduktion, um Übereinstimmungen zu finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The good enough way</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T092154Z" creationid="Ragnar-F" creationdate="20221117T092154Z">
+        <seg>Der "gut genug"-Weg</seg>
       </tuv>
     </tu>
     <tu>
@@ -40144,6 +40392,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Their content comes the global project memory (&lt;l0/&gt;) but is &lt;e1&gt;strictly limited&lt;/e1&gt; to what you have translated so far.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T084649Z" creationid="Ragnar-F" creationdate="20221117T084604Z">
+        <seg>Deren Inhalt stammt aus dem globalen Projektspeicher (&lt;l0/&gt;), ist aber &lt;e1&gt;streng auf das beschränkt&lt;/e1&gt;, was Sie bisher übersetzt haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Their contents will not be displayed for translation.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T113333Z" creationid="Ragnar-F" creationdate="20221110T113333Z">
@@ -40280,6 +40536,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are two ways to share translation memories:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091908Z" creationid="Ragnar-F" creationdate="20221117T091908Z">
+        <seg>Es gibt zwei Möglichkeiten, Translation Memories gemeinsam zu nutzen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are two ways work offline:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150146Z" creationid="Ragnar-F" creationdate="20221116T150146Z">
@@ -40340,6 +40604,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T090217Z" creationid="Michael Motzkus" creationdate="20190129T090217Z">
         <seg>Fehler beim Initialisieren von LanguageTool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, any time one side creates or modifies such a TMX using &lt;l0/&gt;, the other side does not need to do anything to have that TMX recognized locally.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T092502Z" creationid="Ragnar-F" creationdate="20221117T092502Z">
+        <seg>Wenn also eine Seite eine solche TMX-Datei mit &lt;l0/&gt; erstellt oder ändert, braucht die andere Seite nichts zu tun, damit diese TMX-Datei lokal erkannt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40726,6 +40998,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20180925T071326Z" creationid="Michael Motzkus" creationdate="20180925T071326Z">
         <seg>Das wird auch auf das Fenster &lt;l2&gt;Projektdateien&lt;/l2&gt; angewendet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This approach also works just as well for sharing glossaries where the &lt;l0/&gt; , named appropriately to prevent overwriting, is located in the &lt;l1/&gt; that the partner will use only as reference, and vice-versa.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T092941Z" creationid="Ragnar-F" creationdate="20221117T092941Z">
+        <seg>Dieser Ansatz eignet sich auch für die gemeinsame Nutzung von Glossaren, wo die &lt;l0/&gt; (die entsprechend benannt wird, um ein Überschreiben zu verhindern) sich im &lt;l1/&gt; befindet, den der Partner nur als Referenz verwendet, und umgekehrt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41590,6 +41870,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T143915Z" creationid="Ragnar-F" creationdate="20221116T143915Z">
         <seg>Das bedeutet, dass auch die automatische Speicherfunktion regelmäßig die lokalen Versionen mit der Version auf dem Server synchronisiert, in einem Intervall, das in &lt;l0/&gt; angegeben ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This memory is gradually filled as your translation progresses.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T083524Z" creationid="Ragnar-F" creationdate="20221117T083524Z">
+        <seg>Dieser Memory wird im Laufe der Übersetzung nach und nach gefüllt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42672,6 +42960,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T220814Z" creationid="Michael Motzkus" creationdate="20180921T080859Z">
         <seg>Um den Filter wieder zu entfernen, drücken Sie die Schaltfläche &lt;e0&gt;Filter entfernen&lt;/e0&gt; oder laden Sie das Projekt neu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To reuse translation memories from a previous project you have 2 options:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T085351Z" creationid="Ragnar-F" creationdate="20221117T085351Z">
+        <seg>Um Translation Memories aus einem früheren Projekt wiederzuverwenden, haben Sie 2 Möglichkeiten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44438,6 +44734,30 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to check for possible issues,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091454Z" creationid="Ragnar-F" creationdate="20221117T091454Z">
+        <seg>Verwenden Sie &lt;l0/&gt;, um mögliche Probleme zu untersuchen,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to create the TMX files that correspond to the current contents.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091511Z" creationid="Ragnar-F" creationdate="20221117T091511Z">
+        <seg>Verwenden Sie &lt;l0/&gt;, um die TMX-Dateien zu erstellen, die dem aktuellen Inhalt entsprechen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to find any untranslated segments (and eventually translate them),</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091431Z" creationid="Ragnar-F" creationdate="20221117T091431Z">
+        <seg>Verwenden Sie &lt;l0/&gt;, um alle unübersetzten Segmente zu finden (und sie eventuell zu übersetzen),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; to recreate the documents.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T142232Z" creationid="Ragnar-F" creationdate="20221115T142232Z">
@@ -44778,6 +45098,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T150131Z" creationid="Ragnar-F" creationdate="20221110T150131Z">
         <seg>Verwenden Sie diese Option, um eine Übersetzung auf Basis der zugehörigen Kommentare zu erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use translation memories</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T085240Z" creationid="Ragnar-F" creationdate="20221117T083031Z">
+        <seg>Translation Memories (TM) verwenden</seg>
       </tuv>
     </tu>
     <tu>
@@ -45604,6 +45932,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a project is initially created, it comes with its own empty project translation memory, &lt;l0/&gt;, located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T083255Z" creationid="Ragnar-F" creationdate="20221117T083255Z">
+        <seg>Wenn ein Projekt zum ersten Mal erstellt wird, bekommt es seinen eigenen leeren projektspezifischen Translation Memory, &lt;l0/&gt;, der sich im Ordner &lt;l1/&gt; befindet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T101924Z" creationid="Michael Motzkus" creationdate="20190129T083541Z">
@@ -45912,6 +46248,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T095522Z">
         <seg>Wenn Sie Ihre Dateien übersetzen, speichert &lt;a2&gt;OmegaT&lt;/a2&gt; Ihren gesamten Fortschritt in den Translation Memory &lt;l3&gt;project_save.tmx&lt;/l3&gt;, der sich im &lt;l4&gt;/omegat&lt;/l4&gt;-Unterordner des Projekts befindet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you use &lt;l0/&gt; to create the target documents for a project, OmegaT also outputs three translation memories that reflect the current state of the translation for the files in the source folder (see &lt;l1/&gt;).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T084158Z" creationid="Ragnar-F" creationdate="20221117T084158Z">
+        <seg>Wenn Sie &lt;l0/&gt; zum Erstellen der Zieldokumente für ein Projekt verwenden, erzeugt OmegaT außerdem drei Translation Memories, die den aktuellen Übersetzungsstand der Dateien im Quellordner widerspiegeln (siehe &lt;l1/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46751,6 +47095,14 @@ Kaptain-Startskript wie folgt starten:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also ask the user group for advice if you have problems.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090830Z" creationid="Ragnar-F" creationdate="20221117T090830Z">
+        <seg>Sie können auch die Benutzergruppe um Rat fragen, wenn Sie Probleme haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T140308Z" creationid="BVB" creationdate="20180823T094241Z">
@@ -46833,6 +47185,14 @@ es auch über das Spotlight-Suchfeld starten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also make use of reference translation memories by putting them in the &lt;l0/&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T083949Z" creationid="Ragnar-F" creationdate="20221117T083949Z">
+        <seg>Sie können auch externe Translation Memories verwenden, indem Sie sie im Ordner &lt;l0/&gt; Ihres Projekts ablegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also manually drag the file OmegaT.exe to the
 start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
@@ -46904,6 +47264,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T084728Z" creationid="Ragnar-F" creationdate="20221110T100537Z">
         <seg>Sie können auch benutzerdefinierte Konfigurationsordner verwenden, indem Sie OmegaT über die Befehlszeile starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use the &lt;l0/&gt; tool to create a TMX from two files in a format that OmegaT supports.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T085116Z" creationid="Ragnar-F" creationdate="20221117T085116Z">
+        <seg>Sie können auch das Tool &lt;l0/&gt; verwenden, um ein TMX anhand von zwei Dateien in einem von OmegaT unterstützten Format zu erstellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47493,6 +47861,14 @@ Methoden zu lösen:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may want to store translation memories in separate folders, by client or by specialty so as to be able to reuse them quickly when need arises.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090953Z" creationid="Ragnar-F" creationdate="20221117T090953Z">
+        <seg>Vielleicht möchten Sie Translation Memories in separaten Ordnern nach Kunden oder Fachgebiet aufbewahren, um sie bei Bedarf schnell wiederverwenden zu können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T222452Z">
@@ -47577,6 +47953,14 @@ Methoden zu lösen:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120454Z" creationid="Ragnar-F" creationdate="20221115T120454Z">
         <seg>Sie müssen die Textrichtung des Zieldokuments in dessen eigener Applikation ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will have to fix them if you want to use them as reference memories, otherwise OmegaT will report an error and fail to load them.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090708Z" creationid="Ragnar-F" creationdate="20221117T090708Z">
+        <seg>Sie müssen diese korrigieren, wenn Sie sie als externe Translation Memories verwenden wollen, da OmegaT sonst einen Fehler meldet und diese nicht laden kann.</seg>
       </tuv>
     </tu>
     <tu>
