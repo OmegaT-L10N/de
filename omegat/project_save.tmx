@@ -4166,6 +4166,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; reuses the most recent still open Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140920Z" creationid="Ragnar-F" creationdate="20221117T140914Z">
+        <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; verwendet das zuletzt geöffnete Suchfenster wieder (anstatt ein neues zu öffnen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T130815Z">
@@ -5472,6 +5480,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ALL LETTERS IN UPPER CASE</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T141837Z" creationid="Ragnar-F" creationdate="20221117T141459Z">
+        <seg>ALLE BUCHSTABEN IN GROSSSCHREIBUNG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ANTLR (ANTLR 3 License)</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T074209Z" creationid="Michael Motzkus" creationdate="20190129T074209Z">
@@ -6450,8 +6466,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>All terms in a segment with a match in &lt;e0&gt;any&lt;/e0&gt; of the glossaries will be displayed in the &lt;l1/&gt; pane.</seg>
       </tuv>
-      <tuv lang="de" changeid="SabineWanner" changedate="20221110T195939Z" creationid="SabineWanner" creationdate="20221110T195939Z">
-        <seg>Alle Begriffe in einem Segment, die in &lt;e0&gt;irgendeinem&lt;/e0&gt; der Glossare übereinstimmen, werden im Bereich &lt;l1/&gt; angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140420Z" creationid="SabineWanner" creationdate="20221110T195939Z">
+        <seg>Alle Begriffe in einem Segment, die in &lt;e0&gt;irgendeinem&lt;/e0&gt; der Glossare übereinstimmen, werden im Fensterbereich &lt;l1/&gt; angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6608,6 +6624,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows the user to create an entry in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T132123Z" creationid="Ragnar-F" creationdate="20221117T132123Z">
+        <seg>Ermöglicht dem Benutzer, einen Eintrag in &lt;l0/&gt; zu erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T134811Z">
@@ -6620,6 +6644,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T113357Z">
         <seg>Ermöglicht es Ihnen, einen oder mehrere maschinelle Übersetzungsdienste zu aktivieren/deaktivieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Almost all Letters in Lower Case</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T141803Z" creationid="Ragnar-F" creationdate="20221117T141803Z">
+        <seg>Alle Wörter beginnen mit einem Großbuchstaben</seg>
       </tuv>
     </tu>
     <tu>
@@ -7168,6 +7200,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T084417Z" creationid="Ragnar-F" creationdate="20221111T084417Z">
         <seg>Eine beliebige Ziffer von 0 bis 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any text selected in the &lt;l0/&gt; pane will have priority over the selected match and be inserted at the cursor position.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T123156Z" creationid="Ragnar-F" creationdate="20221117T123156Z">
+        <seg>Jeder im &lt;l0/&gt;-Bereich ausgewählte Text hat Vorrang vor dem ausgewählten Match und wird an der Position des Textcursors eingefügt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any text selected in the &lt;l0/&gt; pane will have priority over the selected match and will replace the entire target segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122914Z" creationid="Ragnar-F" creationdate="20221117T122914Z">
+        <seg>Jeder im &lt;l0/&gt;-Bereich ausgewählte Text hat Vorrang vor dem ausgewählten Match und wird das gesamte Zielsegment ersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8914,6 +8962,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T193118Z" creationid="Michael Motzkus" creationdate="20180918T103825Z">
         <seg>Ändert die Groß-/Kleinschreibung des markierten Textes im Zieltext auf die ausgewählte Option (Kleinschreibung, Großschreibung, Titelschreibung oder Satzschreibung). Anmerkung des Übersetzers: Kleinschreibung = alle Buchstaben klein, Großschreibung = alle Buchstaben groß, Titelschreibung = alle Wörter beginnen mit einem Großbuchstaben, Satzschreibung = erster Buchstabe eines Satzes groß, alle anderen Buchstaben des Satzes klein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes the case of the selected text in the target segment to the selected option, or cycles through the options.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T141235Z" creationid="Ragnar-F" creationdate="20221117T141235Z">
+        <seg>Ändert die Groß-/Kleinschreibung des markierten Textes im Zieltext auf die ausgewählte Option, oder schaltet durch die Optionen.(Kleinschreibung, Großschreibung, Titelschreibung oder Satzschreibung). Anmerkung des Übersetzers: Kleinschreibung = alle Buchstaben klein, Großschreibung = alle Buchstaben groß, Titelschreibung = alle Wörter beginnen mit einem Großbuchstaben, Satzschreibung = erster Buchstabe eines Satzes groß, alle anderen Buchstaben des Satzes klein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10981,6 +11037,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T161947Z">
         <seg>Glossareintrag erstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Glossary Entry... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T132052Z" creationid="Ragnar-F" creationdate="20221117T132047Z">
+        <seg>Glossareintrag erstellen... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13565,8 +13629,8 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       <tuv lang="en">
         <seg>Each mode can be used separately in the &lt;g0&gt;Editor&lt;/g0&gt;, &lt;g1&gt;Fuzzy Matches&lt;/g1&gt;, and &lt;g2&gt;Glossary&lt;/g2&gt; panes by selecting the desired pane and toggling the justification mode.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T184541Z" creationid="Ragnar-F" creationdate="20221114T184541Z">
-        <seg>Jeder Modus kann separat in den Bereichen &lt;g0&gt;Editor&lt;/g0&gt;, &lt;g1&gt;Fuzzy Matches&lt;/g1&gt; und &lt;g2&gt;Glossar&lt;/g2&gt; verwendet werden. Wählen Sie den gewünschten Bereich aus und schalten Sie den Ausrichtungsmodus um.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140532Z" creationid="Ragnar-F" creationdate="20221114T184541Z">
+        <seg>Jeder Modus kann separat in den Bereichen &lt;g0&gt;Editor&lt;/g0&gt;, &lt;g1&gt;Fuzzy Matches&lt;/g1&gt; und &lt;g2&gt;Glossar&lt;/g2&gt; verwendet werden. Wählen Sie den gewünschten Fensterbereich aus und schalten Sie den Ausrichtungsmodus um.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14904,6 +14968,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T181318Z">
         <seg>Auswahl exportieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Selection &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T131611Z" creationid="Ragnar-F" creationdate="20221117T131547Z">
+        <seg>Auswahl exportieren &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17876,6 +17948,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;Enter&lt;/k0&gt; or click on &lt;g1&gt;OK&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140126Z" creationid="Ragnar-F" creationdate="20221117T140126Z">
+        <seg>Drücken Sie &lt;k0&gt;Enter&lt;/k0&gt; oder klicken Sie auf &lt;g1&gt;OK&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Horizontal and vertical whitespace (generally preferred to &lt;l0&gt;\s&lt;/l0&gt;).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T154105Z" creationid="Ragnar-F" creationdate="20221111T154105Z">
@@ -18329,6 +18409,22 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0/&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T141103Z" creationid="Ragnar-F" creationdate="20221117T141103Z">
+        <seg>Wenn &lt;l0/&gt; deaktiviert ist, können Sie mit diesem Befehl das markierte Wort in den Wörterbüchern suchen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;l0/&gt; is disabled, use this action a first time to fetch the translation and a second time to insert it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T130807Z" creationid="Ragnar-F" creationdate="20221117T130807Z">
+        <seg>Wenn &lt;l0/&gt; deaktiviert ist, verwenden Sie diese Aktion das erste Mal, um die Übersetzung zu holen, und ein zweites Mal, um sie einzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T131711Z" creationid="Ragnar-F" creationdate="20210111T131711Z">
@@ -18704,16 +18800,16 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If matches are found, they are displayed in the &lt;l0/&gt; pane.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130332Z" creationid="Ragnar-F" creationdate="20221114T130332Z">
-        <seg>Wenn Übereinstimmungen gefunden werden, werden sie im Bereich &lt;l0/&gt; angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140503Z" creationid="Ragnar-F" creationdate="20221114T130332Z">
+        <seg>Wenn Übereinstimmungen gefunden werden, werden sie im Fensterbereich &lt;l0/&gt; angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If matches are found, they will be displayed in the &lt;l0/&gt; pane.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T124901Z" creationid="Ragnar-F" creationdate="20221114T124901Z">
-        <seg>Wenn Übereinstimmungen gefunden werden, werden sie im Bereich &lt;l0/&gt; angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140440Z" creationid="Ragnar-F" creationdate="20221114T124901Z">
+        <seg>Wenn Übereinstimmungen gefunden werden, werden sie im Fensterbereich &lt;l0/&gt; angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19899,6 +19995,14 @@ unter anderem über Java Web Start installieren.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you select a text string (in any pane) before calling the function, the text will be pasted by default in the &lt;g0&gt;Search for:&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140750Z" creationid="Ragnar-F" creationdate="20221117T140401Z">
+        <seg>Wenn Sie einen Text (in einem beliebigen Fensterbereich) markieren, bevor Sie die Funktion aufrufen, wird der Text standardmäßig in das Feld &lt;g0&gt;Suche nach:&lt;/g0&gt; eingefügt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152955Z" creationid="Michael Motzkus" creationdate="20180918T101433Z">
@@ -20849,8 +20953,16 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111511Z" creationid="Ragnar-F" creationdate="20221112T111511Z">
-        <seg>In dieser Dokumentation: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122255Z" creationid="Ragnar-F" creationdate="20221112T111511Z">
+        <seg>In dieser Bedienungsanleitung: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122301Z" creationid="Ragnar-F" creationdate="20221117T122157Z">
+        <seg>In dieser Bedienungsanleitung: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21128,6 +21240,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Match or Selection &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122952Z" creationid="Ragnar-F" creationdate="20221117T122935Z">
+        <seg>Match oder Auswahl einfügen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140651Z">
@@ -21152,6 +21272,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing Source Tags &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T131029Z" creationid="Ragnar-F" creationdate="20221117T131026Z">
+        <seg>Fehlende Tags aus Quelle einfügen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Mode</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T144448Z" creationid="Ragnar-F" creationdate="20210112T144448Z">
@@ -21168,6 +21296,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Next Missing Tag &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T131433Z" creationid="Ragnar-F" creationdate="20221117T131429Z">
+        <seg>Nächstes fehlendes Tag einfügen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Selection</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T084323Z" creationid="Michael Motzkus" creationdate="20190129T084323Z">
@@ -21180,6 +21316,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de">
         <seg>Quelle einfügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Source &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;I&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T123506Z" creationid="Ragnar-F" creationdate="20221117T123502Z">
+        <seg>Quelle einfügen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;I&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21284,6 +21428,30 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T144914Z">
         <seg>Fügt den aktuell ausgewählten Fuzzy Match an der Position des Textcursors ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the next missing tag at the cursor position.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T131525Z" creationid="Ragnar-F" creationdate="20221117T131525Z">
+        <seg>Fügt das nächste fehlende Tag an der Position des Textcursors ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the remaining missing source tags at the cursor position.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T131539Z" creationid="Ragnar-F" creationdate="20221117T131422Z">
+        <seg>Fügt die restlichen fehlenden Tags aus dem Quelltext an der Position des Textcursors ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the segment source at the cursor position.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T123539Z" creationid="Ragnar-F" creationdate="20221117T123539Z">
+        <seg>Fügt den Quelltext des aktiven Segments an der Position des Textcursors ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25720,6 +25888,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No action is taken if no Machine Translation service has been activated (in &lt;l0/&gt;).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T131016Z" creationid="Ragnar-F" creationdate="20221117T130944Z">
+        <seg>Es wird keine Aktion durchgeführt, wenn kein maschineller Übersetzungsdienst aktiviert wurde (in &lt;l0/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152246Z" creationid="Ragnar-F" creationdate="20210108T143954Z">
@@ -27860,6 +28036,14 @@ enthalten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122310Z" creationid="Ragnar-F" creationdate="20221117T122310Z">
+        <seg>In Windows und Linux: &lt;k0&gt;&lt;k1&gt;Strg&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T111415Z" creationid="Ragnar-F" creationdate="20221112T111333Z">
@@ -27904,6 +28088,14 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102644Z" creationid="Ragnar-F" creationdate="20221117T102639Z">
         <seg>In macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122319Z" creationid="Ragnar-F" creationdate="20221117T122319Z">
+        <seg>In macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28242,6 +28434,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T130536Z">
         <seg>Nur die Datei test.html im Root-Verzeichnis des Quellordners wird übersetzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the first letter in upper case.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T142125Z" creationid="Ragnar-F" creationdate="20221117T142125Z">
+        <seg>Nur der erste buchstabe in großschreibung</seg>
       </tuv>
     </tu>
     <tu>
@@ -28690,6 +28890,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T221725Z" creationid="Ragnar-F" creationdate="20210112T221725Z">
         <seg>Öffne Teamprojekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens a new &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140253Z" creationid="Ragnar-F" creationdate="20221117T140253Z">
+        <seg>Öffnen Sie eine neue &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30086,6 +30294,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T135623Z" creationid="Ragnar-F" creationdate="20221117T135623Z">
+        <seg>Drücken Sie &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T144657Z" creationid="Michael Motzkus" creationdate="20180925T085242Z">
@@ -31037,6 +31253,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Redo Last Action &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Y&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122658Z" creationid="Ragnar-F" creationdate="20221117T122653Z">
+        <seg>Letzte Aktion wiederholen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Y&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>References</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173608Z" creationid="Ragnar-F" creationdate="20221111T173608Z">
@@ -31861,6 +32085,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace With Match or Selection &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122811Z" creationid="Ragnar-F" creationdate="20221117T122805Z">
+        <seg>Mit Match oder Auswahl ersetzen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace With Source</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T125852Z">
@@ -31925,10 +32157,26 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace with Machine Translation &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T123559Z" creationid="Ragnar-F" creationdate="20221117T123546Z">
+        <seg>Mit maschineller Übersetzung ersetzen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with Source</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T175610Z" creationid="Ragnar-F" creationdate="20210108T144319Z">
         <seg>Mit Quelle ersetzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with Source &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T123205Z" creationid="Ragnar-F" creationdate="20221117T123201Z">
+        <seg>Mit Quelle ersetzen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31945,6 +32193,30 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T133545Z" creationid="Ragnar-F" creationdate="20221109T133515Z">
         <seg>Ersetzen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140933Z" creationid="Ragnar-F" creationdate="20221117T140933Z">
+        <seg>Ersetzen... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the entire target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122827Z" creationid="Ragnar-F" creationdate="20221117T122827Z">
+        <seg>Ersetzt den gesamten Zieltext mit dem aktuell ausgewählten Fuzzy Match (standardmäßig ist der erste Match ausgewählt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the entire target segment with the segment source.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T123444Z" creationid="Ragnar-F" creationdate="20221117T123444Z">
+        <seg>Ersetzt den gesamten Zieltext mit dem Quelltext innerhalb des aktiven Segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32257,6 +32529,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T090123Z">
         <seg>Setzt die Komponenten des OmegaT-Hauptfensters in ihren Standardzustand zurück.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restores the status before the last edit made in the current segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122615Z" creationid="Ragnar-F" creationdate="20221117T122615Z">
+        <seg>Stellt den Zustand wieder her, wie er vor der letzten Bearbeitung des aktuellen Segments war.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restores the status before the last editing action was canceled.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122800Z" creationid="Ragnar-F" creationdate="20221117T122800Z">
+        <seg>Stellt den Zustand wieder her, wie er vor dem Rückgängigmachen der letzten Bearbeitungsaktion war.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33210,6 +33498,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140145Z" creationid="Ragnar-F" creationdate="20221117T140128Z">
+        <seg>Suchen... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searches</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T085709Z" creationid="Ragnar-F" creationdate="20221111T085709Z">
@@ -34130,6 +34426,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a text string in any pane</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140536Z" creationid="Ragnar-F" creationdate="20221117T135605Z">
+        <seg>Markieren Sie einen Text in einem beliebigen Fensterbereich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select appropriate version</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T222338Z" creationid="Ragnar-F" creationdate="20221109T222338Z">
@@ -34382,6 +34686,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T122238Z" creationid="Ragnar-F" creationdate="20221116T122238Z">
         <seg>Senden Sie eine &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei, die die Projekt-URL enthält, und lassen Sie die Übersetzer diese in einen leeren Ordner kopieren und in OmegaT öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence case</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T141315Z" creationid="Ragnar-F" creationdate="20221117T141315Z">
+        <seg>Satzschreibung</seg>
       </tuv>
     </tu>
     <tu>
@@ -38893,6 +39205,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;l0/&gt; located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T132037Z" creationid="Ragnar-F" creationdate="20221117T132037Z">
+        <seg>Die exportierten Inhalte werden in die &lt;l0/&gt;-Datei im &lt;l1/&gt;-Ordner kopiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T093000Z" creationid="Ragnar-F" creationdate="20210113T093000Z">
@@ -40296,6 +40616,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The second is to select items in one of the OmegaT panes and sequentially call the dialog after each selection to have OmegaT enter it automatically in the various fields:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T135613Z" creationid="Ragnar-F" creationdate="20221117T135210Z">
+        <seg>Die zweite Möglichkeit ist, Texte in einem der OmegaT-Bereiche zu markieren und das Dialogfenster nach jeder Markierung aufzurufen, damit OmegaT sie automatisch in die verschiedenen Felder einträgt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20180918T144427Z" creationid="Michael Motzkus" creationdate="20180918T144427Z">
@@ -40348,6 +40676,30 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T152451Z">
         <seg>Die ausgewählten Sprachen werden dann installiert und erscheinen anschließend in der Verfügbarkeitsliste (dies kann eine Weile dauern).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection will be entered in the &lt;g0&gt;Comment&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140054Z" creationid="Ragnar-F" creationdate="20221117T140043Z">
+        <seg>Der markierte Text wird in das &lt;g0&gt;Kommentar&lt;/g0&gt;-Feld eingetragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection will be entered in the &lt;g0&gt;Source term&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140059Z" creationid="Ragnar-F" creationdate="20221117T135831Z">
+        <seg>Der markierte Text wird in das &lt;g0&gt;Quellbegriff&lt;/g0&gt;-Feld eingetragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection will be entered in the &lt;g0&gt;Target term&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140056Z" creationid="Ragnar-F" creationdate="20221117T135841Z">
+        <seg>Der markierte Text wird in das &lt;g0&gt;Zielbegriff&lt;/g0&gt;-Feld eingetragen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40946,8 +41298,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The translator then reaches a revised section of the text where the &lt;l0/&gt; pane shows a number of similar segments from the previous job.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T120726Z" creationid="Ragnar-F" creationdate="20221112T120726Z">
-        <seg>Die Übersetzerin gelangt dann zu einem überarbeiteten Abschnitt des Textes, wo der Bereich &lt;l0/&gt; eine Reihe von ähnlichen Segmenten aus dem vorherigen Auftrag anzeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140429Z" creationid="Ragnar-F" creationdate="20221112T120726Z">
+        <seg>Die Übersetzerin gelangt dann zu einem überarbeiteten Abschnitt des Textes, wo der Fensterbereich &lt;l0/&gt; eine Reihe von ähnlichen Segmenten aus dem vorherigen Auftrag anzeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41264,10 +41616,26 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are two ways to use this function.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T132356Z" creationid="Ragnar-F" creationdate="20221117T132356Z">
+        <seg>Es gibt zwei Möglichkeiten, diese Funktion zu nutzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are two ways work offline:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150146Z" creationid="Ragnar-F" creationdate="20221116T150146Z">
         <seg>Es gibt zwei Möglichkeiten, offline zu arbeiten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There first is to call the dialog and then manually fill in the various fields.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T135035Z" creationid="Ragnar-F" creationdate="20221117T135035Z">
+        <seg>Die erste Möglichkeit ist, das Dialogfenster aufzurufen und dann die verschiedenen Felder manuell auszufüllen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41958,6 +42326,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T114619Z" creationid="Ragnar-F" creationdate="20221116T114619Z">
         <seg>Dieser Befehl bewirkt zudem, dass das Projekt automatisch im Versionskontrollsystem registriert wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command cannot restore that status after the user moves to a different segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122647Z" creationid="Ragnar-F" creationdate="20221117T122647Z">
+        <seg>Dieser Befehl kann diesen Zustand nicht wiederherstellen, wenn der Benutzer in ein anderes Segment wechselt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43148,6 +43524,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Title Case</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T141304Z" creationid="Ragnar-F" creationdate="20221117T141304Z">
+        <seg>Titelschreibung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T074725Z" creationid="Ragnar-F" creationdate="20210111T074725Z">
@@ -43720,6 +44104,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141718Z" creationid="Ragnar-F" creationdate="20210110T171438Z">
         <seg>Um direktere, näher an 100 Prozent liegende Matches zu erhalten, wählen Sie die Option &lt;g0&gt;Gesamter Text, einschließlich Tags und Zahlen&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remain consistent with usual clipboard behavior this file is not emptied when the user exits OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T131914Z" creationid="Ragnar-F" creationdate="20221117T131914Z">
+        <seg>Um mit dem üblichen Verhalten einer Zwischenablage konsistent zu bleiben, wird diese Datei nicht geleert, wenn der Benutzer OmegaT beendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44734,6 +45126,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UPPER CASE</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T141259Z" creationid="Ragnar-F" creationdate="20221117T141259Z">
+        <seg>Großschreibung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T143653Z" creationid="Michael Motzkus" creationdate="20181022T143653Z">
@@ -44994,6 +45394,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T175243Z">
         <seg>Letzte Aktion rückgängig machen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo Last Action &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122334Z" creationid="Ragnar-F" creationdate="20221117T122334Z">
+        <seg>Letzte Aktion rückgängig machen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48143,6 +48551,14 @@ Kaptain-Startskript wie folgt starten:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also enter your comment manually.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140111Z" creationid="Ragnar-F" creationdate="20221117T140111Z">
+        <seg>Sie können Ihren Kommentar auch manuell eintragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also focus only on the results by filtering them in the Editor.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T113329Z" creationid="Ragnar-F" creationdate="20221117T113329Z">
@@ -49217,6 +49633,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[Optional] Select a text string in any pane</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140549Z" creationid="Ragnar-F" creationdate="20221117T140007Z">
+        <seg>[Optional] Markieren Sie einen Text in einem beliebigen Fensterbereich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[\.,]\s*[\.,]+</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130528T132907Z">
@@ -49709,6 +50133,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T143415Z" creationid="Ragnar-F" creationdate="20221115T143415Z">
         <seg>und fahren Sie fort, bis Sie zufrieden sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>all letters in lower case</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T141408Z" creationid="Ragnar-F" creationdate="20221117T141408Z">
+        <seg>alle buchstaben in kleinschreibung</seg>
       </tuv>
     </tu>
     <tu>
@@ -52246,8 +52678,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>is not displayed in the &lt;l0/&gt; pane,</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T123550Z" creationid="Ragnar-F" creationdate="20221114T123239Z">
-        <seg>wird nicht im Bereich &lt;l0/&gt; angezeigt,</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140433Z" creationid="Ragnar-F" creationdate="20221114T123239Z">
+        <seg>wird nicht im Fensterbereich &lt;l0/&gt; angezeigt,</seg>
       </tuv>
     </tu>
     <tu>
@@ -52448,6 +52880,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T075806Z" creationid="Ragnar-F" creationdate="20210110T180117Z">
         <seg>lange Intervalle für Teamprojekte, die auf externen Servern gehostet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lower case</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T141253Z" creationid="Ragnar-F" creationdate="20221117T141245Z">
+        <seg>Kleinschreibung</seg>
       </tuv>
     </tu>
     <tu>
