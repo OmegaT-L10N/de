@@ -55256,6 +55256,14 @@ config-dir="Pfad/zum/neuen/Konfigordner"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="SabineWanner" changedate="20221117T154812Z" creationid="SabineWanner" creationdate="20221117T154812Z">
+        <seg>wobei &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; in der Regel einer der Zeichensätze, der bei &lt;u1&gt;IANA Charset Registry&lt;/u1&gt; gelistet ist, ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T121452Z" creationid="Ragnar-F" creationdate="20210111T121452Z">
