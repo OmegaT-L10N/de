@@ -3510,6 +3510,46 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;12292&lt;/e0&gt; = number of unique translated segments / &lt;e1&gt;154896&lt;/e1&gt; = total number of unique segments, &lt;e2&gt;(177692)&lt;/e2&gt; = total number of segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T144536Z" creationid="Ragnar-F" creationdate="20221118T143938Z">
+        <seg>&lt;e0&gt;12292&lt;/e0&gt; = Anzahl einmalig übersetzter Segmente / &lt;e1&gt;154896&lt;/e1&gt; = Gesamtzahl einmaliger Segmente, &lt;e2&gt;(177692)&lt;/e2&gt; = Gesamtzahl der Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;257&lt;/e0&gt; = number of translated segments / &lt;e1&gt;271&lt;/e1&gt; = total number of segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T144547Z" creationid="Ragnar-F" creationdate="20221118T143837Z">
+        <seg>&lt;e0&gt;257&lt;/e0&gt; = Anzahl übersetzter Segmente / &lt;e1&gt;271&lt;/e1&gt; = Gesamtzahl der Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;35&lt;/e0&gt; = number of characters in the source / &lt;e1&gt;0&lt;/e1&gt; = number of characters in the target area so far</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T144226Z" creationid="Ragnar-F" creationdate="20221118T144103Z">
+        <seg>&lt;e0&gt;35&lt;/e0&gt; = Anzahl der Zeichen im Quelltext / &lt;e1&gt;0&lt;/e1&gt; = Anzahl der Zeichen im Zieltext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;7.9%&lt;/e0&gt; = % of translated segments / &lt;e1&gt;142,604&lt;/e1&gt; = number of untranslated segments, &lt;e2&gt;(177,692)&lt;/e2&gt; = total number of segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T144730Z" creationid="Ragnar-F" creationdate="20221118T144642Z">
+        <seg>&lt;e0&gt;7,9%&lt;/e0&gt; = % übersetzter Segmente / &lt;e1&gt;142.604&lt;/e1&gt; = Anzahl unübersetzter Segmente, &lt;e2&gt;(177.692)&lt;/e2&gt; = Gesamtzahl der Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;94.8%&lt;/e0&gt; = % of translated segments / &lt;e1&gt;14&lt;/e1&gt; = number of untranslated segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T144641Z" creationid="Ragnar-F" creationdate="20221118T144419Z">
+        <seg>&lt;e0&gt;94,8%&lt;/e0&gt; = % übersetzter Segmente / &lt;e1&gt;14&lt;/e1&gt; = Anzahl unübersetzter Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T123853Z" creationid="Ragnar-F" creationdate="20210111T130450Z">
@@ -6680,6 +6720,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T222701Z">
         <seg>Alle Segmentierungsregelsätze für ein entsprechendes Sprachmuster sind aktiv und werden in der angegebenen Prioritätsreihenfolge angewendet, daher sollten die Regeln für eine bestimmte Sprache höher sein als die Standardregeln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All segments have properties.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142028Z" creationid="Ragnar-F" creationdate="20221118T142028Z">
+        <seg>Alle Segmente haben Eigenschaften.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10146,6 +10194,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the figures to alternate between displaying progress as numbers or percentages.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T143630Z" creationid="Ragnar-F" creationdate="20221118T143630Z">
+        <seg>Klicken Sie auf die Zahlen, um zwischen der Zahlen- und Prozentanzeige des Fortschritts zu wechseln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T185203Z">
@@ -10580,6 +10636,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T114800Z" creationid="Ragnar-F" creationdate="20221110T114800Z">
         <seg>Häufig verwendete Einstellungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Common properties include:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142057Z" creationid="Ragnar-F" creationdate="20221118T142057Z">
+        <seg>Zu den üblichen Eigenschaften gehören:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21722,6 +21786,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the file</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T143836Z" creationid="Ragnar-F" creationdate="20221118T143836Z">
+        <seg>In der Datei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T132542Z">
@@ -21738,10 +21810,26 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the project</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T143937Z" creationid="Ragnar-F" creationdate="20221118T143937Z">
+        <seg>Im Projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the quiet mode, less info is logged to the screen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T131940Z">
         <seg>Im Quiet-Modus werden weniger Informationen auf dem Bildschirm erscheinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the segment</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T144102Z" creationid="Ragnar-F" creationdate="20221118T144102Z">
+        <seg>Im Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -23109,6 +23197,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It only displays information that is related to the segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142516Z" creationid="Ragnar-F" creationdate="20221118T142516Z">
+        <seg>Er zeigt nur Informationen an, die sich auf das Segment beziehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It represents the complete filename of the source file, including the extension.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132512Z" creationid="Ragnar-F" creationdate="20221110T132250Z">
@@ -23733,6 +23829,22 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T144517Z" creationid="Ragnar-F" creationdate="20210112T144517Z">
         <seg>LCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LCK | OVR &lt;t0&gt;257/271 (12292/154896, 177692)&lt;/t0&gt;&lt;t1&gt; 35/0 &lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T143656Z" creationid="Ragnar-F" creationdate="20221118T143656Z">
+        <seg>LCK | OVR &lt;t0&gt;257/271 (12292/154896, 177692)&lt;/t0&gt;&lt;t1&gt; 35/0 &lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LCK | OVR &lt;t0&gt;94.8% (14 left) / 7.9% (142,604 left), 177,692&lt;/t0&gt; &lt;t1&gt;35/0&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T144414Z" creationid="Ragnar-F" creationdate="20221118T144309Z">
+        <seg>LCK | OVR &lt;t0&gt;94,8% (14 verbleibend) / 7,9% (142.604 verbleibend), 177.692&lt;/t0&gt; &lt;t1&gt;35/0&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32110,6 +32222,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project autosaved at 10:48 PM</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142847Z" creationid="Ragnar-F" creationdate="20221118T142847Z">
+        <seg>Projekt automatisch gespeichert um 15:19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project autosaved at {0}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T175819Z" creationid="Ragnar-F" creationdate="20221109T175819Z">
@@ -35676,6 +35796,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment properties</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142021Z" creationid="Ragnar-F" creationdate="20221118T142018Z">
+        <seg>Segmenteigenschaften</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130621T132652Z">
@@ -38230,6 +38358,30 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Status bar messages examples</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142715Z" creationid="Ragnar-F" creationdate="20221118T142715Z">
+        <seg>Beispiele für Meldungen in der Statusleiste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Status bar progress information</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T143654Z" creationid="Ragnar-F" creationdate="20221118T143654Z">
+        <seg>Fortschrittsanzeige in der Statusleiste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Status bar progress information, percentage mode</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T144615Z" creationid="Ragnar-F" creationdate="20221118T144307Z">
+        <seg>Fortschrittsanzeige in der Statusleiste, Prozentual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T151422Z" creationid="karsten" creationdate="20150919T151422Z">
@@ -38658,6 +38810,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T143425Z" creationid="Ragnar-F" creationdate="20221116T143425Z">
         <seg>Synchronisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronization of repositories</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142729Z" creationid="Ragnar-F" creationdate="20221118T142729Z">
+        <seg>Synchronisiere Repositories</seg>
       </tuv>
     </tu>
     <tu>
@@ -39893,8 +40053,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Comments pane is &lt;e0&gt;not&lt;/e0&gt; editable.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141924Z" creationid="Ragnar-F" creationdate="20221118T141924Z">
-        <seg>Der Kommentarbereich ist &lt;e0&gt;nicht&lt;/e0&gt; editierbar.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142454Z" creationid="Ragnar-F" creationdate="20221118T141924Z">
+        <seg>Der Kommentare-Bereich ist &lt;e0&gt;nicht&lt;/e0&gt; editierbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40243,6 +40403,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Properties pane is &lt;e0&gt;not&lt;/e0&gt; editable.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142443Z" creationid="Ragnar-F" creationdate="20221118T142443Z">
+        <seg>Der Segmenteigenschaften-Bereich ist &lt;e0&gt;nicht&lt;/e0&gt; editierbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The QUESTION MARK: &lt;l0&gt;?&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T121040Z" creationid="Ragnar-F" creationdate="20221111T121040Z">
@@ -40527,6 +40695,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T122529Z">
         <seg>Am besten ist es natürlich, wenn Sie OmegaT-spezifische TMX-Dateien (siehe oben) verwenden, damit die Inline-Formatierung innerhalb des Segments erhalten bleibt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The bottom of the main window is the status bar.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142535Z" creationid="Ragnar-F" creationdate="20221118T142535Z">
+        <seg>Der untere Bereich des Hauptfensters ist die Statusleiste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41712,6 +41888,14 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode ist (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The left side displays information about actions taken in the project or error messages.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142645Z" creationid="Ragnar-F" creationdate="20221118T142645Z">
+        <seg>Auf der linken Seite werden Informationen über Aktionen, die im Projekt durchgeführt wurden, oder Fehlermeldungen angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The letter “a”, “b”, or “c”.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T151229Z" creationid="Ragnar-F" creationdate="20221111T151229Z">
@@ -42498,6 +42682,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The properties are displayed in this pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142042Z" creationid="Ragnar-F" creationdate="20221118T142042Z">
+        <seg>Die Eigenschaften werden in diesem Fensterbereich angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The purpose of the console mode is to use OmegaT as a translation tool in a scripting environment.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T175652Z">
@@ -42622,6 +42814,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T144113Z" creationid="Ragnar-F" creationdate="20210111T144113Z">
         <seg>Das Ergebnisfenster ist in Form einer Tabelle aufgebaut, in der man Folgendes machen kann:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The right side displays the &lt;l0/&gt; and the &lt;l1/&gt; status followed by progress information.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T143445Z" creationid="Ragnar-F" creationdate="20221118T143342Z">
+        <seg>Die rechte Seite zeigt den &lt;l0/&gt; und den &lt;l1/&gt;-Status an, gefolgt von Fortschrittsinformationen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55323,6 +55523,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>indicates that a segment is a duplicate and specifies whether the segment is the FIRST or not.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142324Z" creationid="Ragnar-F" creationdate="20221118T142324Z">
+        <seg>bedeutet, dass ein Segment ein Duplikat ist, und spezifiziert, ob das Segment das erste ist (FIRST) oder nicht (NEXT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>indicates the file where the segment is stored.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142411Z" creationid="Ragnar-F" creationdate="20221118T142411Z">
+        <seg>ist die Datei, in der das Segment gespeichert ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
@@ -58222,6 +58438,38 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T174112Z" creationid="karsten" creationdate="20150919T174112Z">
         <seg>← Zurück</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ Files were created by the user.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142933Z" creationid="Ragnar-F" creationdate="20221118T142921Z">
+        <seg>→ Die Dateien wurden vom Benutzer erstellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT has recently saved the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142918Z" creationid="Ragnar-F" creationdate="20221118T142849Z">
+        <seg>→ OmegaT hat das Projekt kürzlich gespeichert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT is opening a team project and synchronizes with the remote repository.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142751Z" creationid="Ragnar-F" creationdate="20221118T142731Z">
+        <seg>→ OmegaT öffnet ein Teamprojekt und synchronisiert sich mit dem Remote-Repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT opens the last edited segment from the last session.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142824Z" creationid="Ragnar-F" creationdate="20221118T142752Z">
+        <seg>→ OmegaT öffnet das zuletzt bearbeitete Segment der letzten Sitzung.</seg>
       </tuv>
     </tu>
     <tu>
