@@ -6292,10 +6292,26 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional layouts can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220804Z" creationid="Ragnar-F" creationdate="20221118T220804Z">
+        <seg>Zusätzliche Layouts können als Plugins hinzugefügt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T125619Z">
         <seg>In diesem Fall ist ein zusätzlicher Parameter erforderlich, der den Speicherort der Zieldaten angibt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional themes can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T222720Z" creationid="Ragnar-F" creationdate="20221118T222720Z">
+        <seg>Zusätzliche Designs können als Plugins hinzugefügt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19341,6 +19357,14 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a glossary item has multiple definitions, they will be displayed on the same line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T221113Z" creationid="Ragnar-F" creationdate="20221118T221113Z">
+        <seg>Wenn ein Glossareintrag mehrere Definitionen enthält, werden diese auf derselben Zeile angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T215715Z" creationid="Michael Motzkus" creationdate="20180921T080802Z">
@@ -20593,6 +20617,14 @@ angezeigt werden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141212Z" creationid="Ragnar-F" creationdate="20221114T141212Z">
         <seg>Wenn Sie sich für die Installation einer neuen Version entscheiden, sollten Sie Folgendes bedenken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you disable this function you will need to use &lt;l0/&gt; to search for dictionary matches.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T221349Z" creationid="Ragnar-F" creationdate="20221118T221349Z">
+        <seg>Wenn Sie diese Funktion deaktivieren, müssen Sie &lt;l0/&gt; verwenden, um nach Übereinstimmungen im Wörterbuch zu suchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24314,6 +24346,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layout</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220536Z" creationid="Ragnar-F" creationdate="20221118T220536Z">
+        <seg>Layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lead developer</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180822T160118Z" creationid="BVB" creationdate="20180822T160102Z">
@@ -25846,8 +25886,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Matches with very different case are not displayed.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220534Z" creationid="Ragnar-F" creationdate="20221118T220534Z">
-        <seg>Treffer mit sehr unterschiedlicher Groß-/Kleinschreibung werden nicht angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220642Z" creationid="Ragnar-F" creationdate="20221118T220534Z">
+        <seg>Treffer mit stark abweichender Groß-/Kleinschreibung werden nicht angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26008,6 +26048,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T173427Z" creationid="karsten" creationdate="20150919T173427Z">
         <seg>Zusammenführen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definition of the same term</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T221042Z" creationid="Ragnar-F" creationdate="20221118T221042Z">
+        <seg>Alternative Definitionen desselben Begriffs zusammenführen</seg>
       </tuv>
     </tu>
     <tu>
@@ -27580,6 +27628,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de">
         <seg>Keine gültige XML-Datei!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not all natively provided Java themes are compatible with OmegaT operation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T222909Z" creationid="Ragnar-F" creationdate="20221118T222909Z">
+        <seg>Nicht alle nativ bereitgestellten Java-Designs sind mit OmegaT kompatibel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31864,6 +31920,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preferences here define how the contents of the &lt;l0/&gt; folder are displayed in the &lt;l1/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T221159Z" creationid="Ragnar-F" creationdate="20221118T221159Z">
+        <seg>Hier wird festgelegt, wie der Inhalt des &lt;l0/&gt;-Ordners im &lt;l1/&gt;-Bereich dargestellt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preferences set in this dialog are saved to the default &lt;l0/&gt; and apply to all translation projects unless you have specified a different configuration folder.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T211617Z" creationid="Ragnar-F" creationdate="20221118T211425Z">
@@ -34367,6 +34431,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restores the OmegaT window panes to their default arrangement.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T223725Z" creationid="Ragnar-F" creationdate="20221118T223725Z">
+        <seg>Stellt die Standardanordnung der Fensterbereiche von OmegaT wieder her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restores the components of the main OmegaT window to their default state.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T090123Z">
@@ -35312,6 +35384,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150918T221800Z" creationid="karsten" creationdate="20150918T221800Z">
         <seg>Suchen und Ersetzen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search automatically</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T221207Z" creationid="Ragnar-F" creationdate="20221118T221207Z">
+        <seg>Automatisch suchen</seg>
       </tuv>
     </tu>
     <tu>
@@ -36420,6 +36500,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a layout for the glossary pane contents.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220730Z" creationid="Ragnar-F" creationdate="20221118T220730Z">
+        <seg>Wählen Sie ein Layout für den Inhalt des Glossarbereichs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T213015Z" creationid="Ragnar-F" creationdate="20210108T213015Z">
@@ -36432,6 +36520,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140536Z" creationid="Ragnar-F" creationdate="20221117T135605Z">
         <seg>Markieren Sie einen Text in einem beliebigen Fensterbereich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a theme for the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T222707Z" creationid="Ragnar-F" creationdate="20221118T222707Z">
+        <seg>Wählen Sie ein Design für die Benutzeroberfläche von OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37624,6 +37720,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T150754Z" creationid="Ragnar-F" creationdate="20221110T150754Z">
         <seg>Einige Applikationen erfordern die Beibehaltung einiger Unicode-Literale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some dictionary drivers provided as plugins do not support this feature.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T221452Z" creationid="Ragnar-F" creationdate="20221118T221452Z">
+        <seg>Einige Wörterbuchtreiber, die als Plugins angeboten werden, unterstützen diese Funktion nicht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43786,6 +43890,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The themes also provide predefined set of default colors.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T222743Z" creationid="Ragnar-F" creationdate="20221118T222743Z">
+        <seg>Die Designs bieten auch eine Reihe von vordefinierten Standardfarben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The three matching percentages are in the following order:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T182327Z" creationid="Ragnar-F" creationdate="20210111T182327Z">
@@ -44114,10 +44226,18 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T222640Z" creationid="Ragnar-F" creationdate="20221118T222640Z">
+        <seg>Design</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T085548Z" creationid="Ragnar-F" creationdate="20210701T085548Z">
-        <seg>Farbschema:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T222645Z" creationid="Ragnar-F" creationdate="20210701T085548Z">
+        <seg>Design:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49088,10 +49208,26 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use condensed view</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T221413Z" creationid="Ragnar-F" creationdate="20221118T221413Z">
+        <seg>Komprimierte Ansicht benutzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use custom templates for modification &amp;info</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T115124Z" creationid="Michael Motzkus" creationdate="20190129T084012Z">
         <seg>Benutzerdefinierte Darstellungsweise für Modifikations&amp;infos verwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use fuzzy matching</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T221359Z" creationid="Ragnar-F" creationdate="20221118T221359Z">
+        <seg>Fuzzy-Matching benutzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -49356,6 +49492,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T193108Z" creationid="Ragnar-F" creationdate="20210108T200552Z">
         <seg>Verwenden Sie diesen Befehl, um die Übersetzung mit dem Kennzeichen zu versehen, dass sie identisch mit der Quelle ist, sogar wenn die Option &lt;l0&gt;&lt;g1&gt;Übersetzung und Quelle dürfen identisch sein&lt;/g1&gt;&lt;/l0&gt; deaktiviert ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this feature when you are unable to restore the desired arrangement after undocking, moving, or hiding one or more panes.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T223813Z" creationid="Ragnar-F" creationdate="20221118T223813Z">
+        <seg>Verwenden Sie dieses Feature, wenn Sie nicht in der Lage sind, die gewünschte Anordnung wiederherzustellen, nachdem Sie einen oder mehrere Fensterbereiche abgedockt, verschoben oder ausgeblendet haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52384,6 +52528,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T094340Z" creationid="Ragnar-F" creationdate="20221117T094340Z">
         <seg>Sie können eine beliebige Anzahl von TMX-Dateien in beliebig vielen verschiedenen Sprachpaaren als "Brückensprachen" verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use it when panes do not appear as expected after an OmegaT upgrade.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T224214Z" creationid="Ragnar-F" creationdate="20221118T224214Z">
+        <seg>Sie können es verwenden, wenn die Fensterbereiche nach einem OmegaT-Upgrade nicht mehr wie erwartet angezeigt werden.</seg>
       </tuv>
     </tu>
     <tu>
