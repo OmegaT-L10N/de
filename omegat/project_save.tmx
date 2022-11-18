@@ -7729,6 +7729,14 @@ korrektem Verhalten kommen kann.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the bottom of the window, right-click on an unassigned number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T104452Z" creationid="Ragnar-F" creationdate="20221118T104452Z">
+        <seg>Machen Sie einen Rechtsklick auf eine nicht zugewiesene Nummer im unteren Bereich des Fensters und wählen Sie &lt;g0&gt;Skript hinzufügen&lt;/g0&gt; aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T130354Z">
@@ -10094,6 +10102,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking on an assigned slot launches the script assigned to that slot.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T104333Z" creationid="Ragnar-F" creationdate="20221118T104333Z">
+        <seg>Wenn Sie auf einen belegten Slot klicken, wird das zugewiesene Skript gestartet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking on any file will open it for translation.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T144810Z" creationid="Michael Motzkus" creationdate="20180925T091606Z">
@@ -12091,6 +12107,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags and flagged text: as for OmegaT tags, they are not counted by default in the statistics, but you can have OmegaT count them as words.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T103646Z" creationid="Ragnar-F" creationdate="20221118T103646Z">
+        <seg>Benutzerdefinierte Tags und geschützter Text: OmegaT-Tags werden standardmäßig nicht in den Statistiken gezählt, aber Sie können OmegaT veranlassen, sie als Wörter zu zählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T092030Z" creationid="Ragnar-F" creationdate="20221111T092030Z">
@@ -13021,16 +13045,16 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       <tuv lang="en">
         <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143520Z" creationid="Ragnar-F" creationdate="20210111T150946Z">
-        <seg>Zeigt die Match-Statistiken für jede Datei des Projekts an: die Anzahl der Wiederholungen, exakten Matches, Fuzzy Matches und No-Matches für Segmente, Wörter und Zeichen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T103656Z" creationid="Ragnar-F" creationdate="20210111T150946Z">
+        <seg>Zeigt die Match-Statistiken für jede Datei des Projekts an: Die Anzahl der Wiederholungen, exakten Matches, Fuzzy Matches und No-Matches für Segmente, Wörter und Zeichen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143514Z" creationid="Ragnar-F" creationdate="20210111T150740Z">
-        <seg>Zeigt die Match-Statistiken für das Projekt an: die Anzahl der Wiederholungen, exakten Matches, Fuzzy Matches und No-Matches für Segmente, Wörter und Zeichen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T103651Z" creationid="Ragnar-F" creationdate="20210111T150740Z">
+        <seg>Zeigt die Match-Statistiken für das Projekt an: Die Anzahl der Wiederholungen, exakten Matches, Fuzzy Matches und No-Matches für Segmente, Wörter und Zeichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15512,6 +15536,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T224444Z" creationid="Ragnar-F" creationdate="20221109T224444Z">
         <seg>Externes Programm fehlgeschlagen({1}): {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External search commands</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T104506Z" creationid="Ragnar-F" creationdate="20221118T104506Z">
+        <seg>Externe Suchbefehle</seg>
       </tuv>
     </tu>
     <tu>
@@ -20207,6 +20239,14 @@ unter anderem über Java Web Start installieren.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T003249Z">
         <seg>Wenn Sie bereits einen großen Textabschnitt übersetzt haben und dann feststellen, dass der Zielsprachencode des Projekts nicht mit dem Sprachcode der Rechtschreibprüfung übereinstimmt (Sie haben z. B. pt_BR als Sprache angegeben, obwohl es keine pt_BR-Wörterbücher gibt), können Sie einfach die beiden entsprechenden Dateien kopieren und umbenennen (z. B. von &lt;e0&gt;pt_PT.aff&lt;/e0&gt; und &lt;e1&gt;pt_PT.dic&lt;/e1&gt; in &lt;e2&gt;pt_BR.aff&lt;/e2&gt; und &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have defined external searches in &lt;l0/&gt;, their names are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T104700Z" creationid="Ragnar-F" creationdate="20221118T104700Z">
+        <seg>Wenn Sie externe Suchvorgänge in &lt;l0/&gt; definiert haben, sind hier ihre Namen aufgelistet und zugänglich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29646,6 +29686,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; window, which allows you to set the location where scripts are stored, as well was write and run scripts, and assign them a shortcut.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T104150Z" creationid="Ragnar-F" creationdate="20221118T104150Z">
+        <seg>Öffnet das &lt;l0/&gt;-Fenster, mit dem Sie den Speicherort für Skripte festlegen, Skripte schreiben und ausführen sowie ihnen ein Tastenkürzel zuweisen können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0/&gt; window.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T183637Z" creationid="Ragnar-F" creationdate="20221117T183627Z">
@@ -35458,10 +35506,26 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the script you want from the list on the left.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T104401Z" creationid="Ragnar-F" creationdate="20221118T104401Z">
+        <seg>Wählen Sie das gewünschte Skript in der Liste auf der linken Seite aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the source and target languages by hand, or use the drop-down menus.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T101413Z" creationid="Ragnar-F" creationdate="20221114T095759Z">
         <seg>Tragen Sie die Quell- und Zielsprache entweder manuell ein oder wählen Sie sie in den Aufklappmenüs aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the two files to align (the source file and its translation) and click &lt;g0&gt;OK&lt;/g0&gt; to open the &lt;l1/&gt; window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T103821Z" creationid="Ragnar-F" creationdate="20221118T103821Z">
+        <seg>Wählen Sie zwei Dateien aus (die Quelldatei und ihre Übersetzung), die ausgerichtet werden sollen und klicken Sie auf &lt;g0&gt;OK&lt;/g0&gt;, um das &lt;l1/&gt;-Fenster zu öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40784,6 +40848,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The list below this item displays 12 potential slots for scripts.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T104229Z" creationid="Ragnar-F" creationdate="20221118T104229Z">
+        <seg>Die Liste unter diesem Menüpunkt zeigt 12 mögliche Slots für Skripte an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The list can include Java options as well as OmegaT options.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T103535Z" creationid="Ragnar-F" creationdate="20221116T103535Z">
@@ -42116,6 +42188,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T152933Z" creationid="Ragnar-F" creationdate="20210111T152933Z">
         <seg>Unterstützte Dateiformate finden Sie unter &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Eigenschaften&lt;/g2&gt; &lt;g3&gt;Dateifilter&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The supported file formats depend on your project setting.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T103848Z" creationid="Ragnar-F" creationdate="20221118T103848Z">
+        <seg>Die unterstützten Dateiformate hängen von Ihren Projekteinstellungen ab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44816,6 +44896,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T213112Z" creationid="Ragnar-F" creationdate="20210111T211121Z">
         <seg>So richten Sie zwei Segmente auf der gleichen Zeile aus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To assign a number to a script:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T104348Z" creationid="Ragnar-F" creationdate="20221118T104348Z">
+        <seg>So weisen Sie einem Skript eine Nummer zu:</seg>
       </tuv>
     </tu>
     <tu>
