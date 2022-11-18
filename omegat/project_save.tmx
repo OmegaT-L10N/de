@@ -2150,6 +2150,14 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>, etc.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220321Z" creationid="Ragnar-F" creationdate="20221118T220321Z">
+        <seg>, usw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>, one can find:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T123718Z">
@@ -5752,6 +5760,22 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T090716Z" creationid="Michael Motzkus" creationdate="20190129T090643Z">
         <seg>API-Schlüssel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API client ID</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215307Z" creationid="Ragnar-F" creationdate="20221118T215307Z">
+        <seg>API-Client-ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API key</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215814Z" creationid="Ragnar-F" creationdate="20221118T215808Z">
+        <seg>API-Schlüssel</seg>
       </tuv>
     </tu>
     <tu>
@@ -13143,6 +13167,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display TBX glossaries context description</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215901Z" creationid="Ragnar-F" creationdate="20221118T215901Z">
+        <seg>Kontextbeschreibung für TBX-Glossare anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075254Z">
@@ -14720,6 +14752,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T164125Z" creationid="karsten" creationdate="20150919T164125Z">
         <seg>Rebase beenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Engine</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T214856Z" creationid="Ragnar-F" creationdate="20221118T214856Z">
+        <seg>Dienst</seg>
       </tuv>
     </tu>
     <tu>
@@ -20557,6 +20597,14 @@ angezeigt werden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you disable this option, machine translations will only be fetched when you use &lt;l0/&gt; in the current segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T212554Z" creationid="Ragnar-F" creationdate="20221118T212554Z">
+        <seg>Deaktivieren Sie diese Option, werden maschinelle Übersetzungen nur abgerufen, wenn Sie &lt;l0/&gt; im aktuellen Segment verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not activate this option, all segments can be assigned a different translation, even if they are duplicated in the project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T112647Z" creationid="Ragnar-F" creationdate="20221114T112647Z">
@@ -20935,6 +20983,14 @@ unter anderem über Java Web Start installieren.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you specify such a configuration folder, all modifications made in this dialog will be stored there.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T211547Z" creationid="Ragnar-F" creationdate="20221118T211547Z">
+        <seg>Wenn Sie einen solchen Konfigurationsordner angeben, werden alle Änderungen, die Sie in diesem Dialogfenster machen, dort gespeichert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T122107Z">
@@ -21157,6 +21213,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
         <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T221359Z" creationid="Ragnar-F" creationdate="20210108T221329Z">
+        <seg>Treffer mit stark abweichender Groß-/Kleinschreibung ignorieren (z. B. FOO vs. foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore matches with very different case (e.g., FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220454Z" creationid="Ragnar-F" creationdate="20221118T220454Z">
         <seg>Treffer mit stark abweichender Groß-/Kleinschreibung ignorieren (z. B. FOO vs. foo)</seg>
       </tuv>
     </tu>
@@ -21798,6 +21862,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T132542Z">
         <seg>Im nächsten Frame können Sie angeben, dass die ausgewählte Sprache für OmegaT verwendet werden soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the list of machine translation available in OmegaT, check the &lt;g0&gt;Enabled&lt;/g0&gt; box for each provider you want to access.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T214400Z" creationid="Ragnar-F" creationdate="20221118T214400Z">
+        <seg>OmegaT stellt Ihnen eine Liste mit maschinellen Übersetzungsdiensten zur Verfügung, die Sie einzeln, sofern benötigt, durch Anklicken des Kästchens &lt;g0&gt;Aktiviert&lt;/g0&gt; aktivieren können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23041,6 +23113,14 @@ Bedienungsanleitung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T132341Z" creationid="Michael Motzkus" creationdate="20180925T082850Z">
         <seg>Es ist möglich, mittels Drag-und-Drop einen Text von einer beliebigen Stelle des Hauptfensters aus in das Segment abzulegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to have OmegaT use a different configuration folder to define project-specific configurations.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T211457Z" creationid="Ragnar-F" creationdate="20221118T211457Z">
+        <seg>Es ist möglich, OmegaT einen anderen Konfigurationsordner verwenden zu lassen, um projektspezifische Konfigurationen zu definieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25140,6 +25220,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure you have the proper credentials before using this function.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T214700Z" creationid="Ragnar-F" creationdate="20221118T214700Z">
+        <seg>Vergewissern Sie sich, dass Sie über die richtigen Zugangsdaten verfügen, bevor Sie diese Funktion nutzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure you understand the format requirements when you start working on a PDF or similar file.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T134324Z" creationid="Ragnar-F" creationdate="20221116T134324Z">
@@ -25756,6 +25844,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches with very different case are not displayed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220534Z" creationid="Ragnar-F" creationdate="20221118T220534Z">
+        <seg>Treffer mit sehr unterschiedlicher Groß-/Kleinschreibung werden nicht angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matching segments: {0}</seg>
       </tuv>
       <tuv lang="de" changeid="linux" changedate="20221109T172533Z" creationid="linux" creationdate="20221109T172533Z">
@@ -26001,6 +26097,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133607Z" creationid="Ragnar-F" creationdate="20221110T133607Z">
         <seg>Microsoft-Ziel-Locale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft translator</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215116Z" creationid="Ragnar-F" creationdate="20221118T215113Z">
+        <seg>Microsoft Translator</seg>
       </tuv>
     </tu>
     <tu>
@@ -26476,6 +26580,14 @@ online erfolgen.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Most providers require some kind of registration before using their services.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T214639Z" creationid="Ragnar-F" creationdate="20221118T214639Z">
+        <seg>Die meisten Anbieter verlangen irgendeine Art von Registrierung, bevor sie deren Dienste in Anspruch nehmen können.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Siehe https://de.wikipedia.org/wiki/NetPositive#Fehlermeldungen</note>
       <tuv lang="en">
         <seg>Mourning and sorrow
@@ -26756,10 +26868,26 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MyMemory (human translation)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215621Z" creationid="Ragnar-F" creationdate="20221118T215612Z">
+        <seg>MyMemory (menschlich)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MyMemory (human)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T214137Z" creationid="karsten" creationdate="20150919T155857Z">
         <seg>MyMemory (menschlich)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyMemory (machine translation)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215347Z" creationid="Ragnar-F" creationdate="20221118T215308Z">
+        <seg>MyMemory (maschinell)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29204,6 +29332,14 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T191523Z">
         <seg>OmegaT wird versuchen, die TMX-Datei neu zu segmentieren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will use the associated tokenizer to find matches.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220035Z" creationid="Ragnar-F" creationdate="20221118T220035Z">
+        <seg>OmegaT wird den zugehörigen Tokenizer verwenden, um Übereinstimmungen zu finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31728,6 +31864,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preferences set in this dialog are saved to the default &lt;l0/&gt; and apply to all translation projects unless you have specified a different configuration folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T211617Z" creationid="Ragnar-F" creationdate="20221118T211425Z">
+        <seg>Einstellungen, die Sie in diesem Dialogfenster machen, werden im Standard-&lt;l0/&gt; gespeichert und gelten für alle Übersetzungsprojekte, es sei denn, Sie haben einen anderen Konfigurationsordner angegeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T220943Z">
@@ -32534,6 +32678,14 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T113957Z" creationid="Ragnar-F" creationdate="20210113T113957Z">
         <seg>Anbieter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provider list</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T212735Z" creationid="Ragnar-F" creationdate="20221118T212735Z">
+        <seg>Anbieterliste</seg>
       </tuv>
     </tu>
     <tu>
@@ -34015,6 +34167,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Required credentials</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T214853Z" creationid="Ragnar-F" creationdate="20221118T214853Z">
+        <seg>Erforderliche Zugangsdaten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Requirements</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T100358Z" creationid="BVB" creationdate="20180826T100358Z">
@@ -34035,6 +34195,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181027T144303Z" creationid="BVB" creationdate="20180827T064741Z">
         <seg>Benötigt Linux, w3m und Tcl/Tk (beide werden normalerweise mit Linux geliefert).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Requires a Deepl Pro Advanced plan available only in some countries</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215033Z" creationid="Ragnar-F" creationdate="20221118T215033Z">
+        <seg>Erfordert einen Deepl Pro Advanced Plan, der nur in einigen Ländern verfügbar ist</seg>
       </tuv>
     </tu>
     <tu>
@@ -41135,6 +41303,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default key to validate and leave a segment is &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T211735Z" creationid="Ragnar-F" creationdate="20221118T211654Z">
+        <seg>Standardmäßig ist &lt;k0&gt;Enter&lt;/k0&gt; die Taste zum Bestätigen und Verlassen eines Segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default pattern.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132208Z" creationid="Ragnar-F" creationdate="20221110T132208Z">
@@ -42598,6 +42774,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T214956Z">
         <seg>Den Vorgang der Segmentierung kann man sich folgendermaßen vorstellen: Der Textcursor bewegt sich zeichenweise entlang des Textes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The program will ask for confirmation before closing.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T212012Z" creationid="Ragnar-F" creationdate="20221118T212012Z">
+        <seg>Das Programm wird vor dem Beenden immer eine Bestätigung einholen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44940,6 +45124,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;l0/&gt; in the &lt;l1/&gt; menu (the &lt;l2&gt;OmegaT&lt;/l2&gt; menu on macOS).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T210834Z" creationid="Ragnar-F" creationdate="20221118T210822Z">
+        <seg>Um dieses Dialogfenster zu öffnen, wählen Sie &lt;l0/&gt; im Menü &lt;l1/&gt; aus (das &lt;l2&gt;OmegaT&lt;/l2&gt;-Menü in macOS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T205109Z" creationid="Ragnar-F" creationdate="20210108T205109Z">
@@ -45676,6 +45868,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option is useful with some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T211957Z" creationid="Ragnar-F" creationdate="20221118T211957Z">
+        <seg>Diese Option ist bei einigen chinesischen, japanischen oder koreanischen Zeicheneingabesystemen nützlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T210300Z" creationid="Ragnar-F" creationdate="20210111T210223Z">
@@ -45688,6 +45888,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T103012Z" creationid="Ragnar-F" creationdate="20221116T103012Z">
         <seg>Diese Option verhindert diesen Fehler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option sets the segment validation key to &lt;k0&gt;Tab&lt;/k0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T211902Z" creationid="Ragnar-F" creationdate="20221118T211902Z">
+        <seg>Diese Option setzt die Taste zur Bestätigung des Segments stattdessen auf &lt;k0&gt;Tab&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47784,6 +47992,22 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL, Model ID, Login ID, Password</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215802Z" creationid="Ragnar-F" creationdate="20221118T215623Z">
+        <seg>URL, Modell-ID, Login-ID, Passwort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL, key</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215607Z" creationid="Ragnar-F" creationdate="20221118T215607Z">
+        <seg>URL, Schlüssel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL:</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T090130Z" creationid="Michael Motzkus" creationdate="20190129T090130Z">
@@ -48912,6 +49136,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use stemming</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220017Z" creationid="Ragnar-F" creationdate="20221118T220017Z">
+        <seg>Stammformreduktion verwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use stemming for glossary entries</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T215224Z" creationid="Ragnar-F" creationdate="20210108T215224Z">
@@ -48976,6 +49208,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;g1&gt;Configure&lt;/g1&gt; button to manage your authentication credentials for that provider.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T214547Z" creationid="Ragnar-F" creationdate="20221118T214547Z">
+        <seg>Verwenden Sie die Schaltfläche &lt;g1&gt;Konfigurieren&lt;/g1&gt;, um Ihre Zugangsdaten für einen Anbieter zu verwalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0/&gt; menu to manage translation memory matches and perform other various useful functions.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T112608Z" creationid="Ragnar-F" creationdate="20221117T112608Z">
@@ -49028,6 +49268,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T124434Z" creationid="Ragnar-F" creationdate="20221118T124434Z">
         <seg>Verwenden Sie dieselbe Taste, um zwischen den einzelnen Modi hin- und herzuschalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the search field at the top of the preferences list to look for specific items.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T210956Z" creationid="Ragnar-F" creationdate="20221118T210956Z">
+        <seg>Verwenden Sie das Suchfeld ganz oben in der Liste, um nach bestimmten Einstellungen zu suchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49994,6 +50242,22 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T144648Z">
         <seg>Wenn OmegaT im Quellordner auf eine Datei stößt, wird es versuchen, den Filter anhand der Dateiendung auszuwählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When OmegaT inserts the source contents, with</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220257Z" creationid="Ragnar-F" creationdate="20221118T220257Z">
+        <seg>Wenn OmegaT die Quellinhalte mit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a glossary term is a compound word, the term will match even if the words appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220011Z" creationid="Ragnar-F" creationdate="20221118T220011Z">
+        <seg>Handelt es sich bei einem Glossarbegriff um ein zusammengesetztes Wort, wird der Begriff auch dann gefunden, wenn die Wörter im Quelltext separat vorkommen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51059,6 +51323,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T100804Z">
         <seg>YEARMMDDHHNN repräsentiert dabei den Zeitpunkt, wann der vorherige Translation Memory gespeichert wurde: YEAR ist das vierstellige Jahr, MM der zweistellige Monat, DD der zweistellige Tag des Monats, HH die zweistellige Stunde und NN die zweistellige Minute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215822Z" creationid="Ragnar-F" creationdate="20221118T215822Z">
+        <seg>Yandex</seg>
       </tuv>
     </tu>
     <tu>
@@ -52371,6 +52643,14 @@ Methoden zu lösen:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T120221Z" creationid="Ragnar-F" creationdate="20210110T120221Z">
         <seg>Sie müssen OmegaT neu starten, damit diese Änderung wirksam wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will then have to press that combination again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T212718Z" creationid="Ragnar-F" creationdate="20221118T212718Z">
+        <seg>Sie müssen dann dieses Tastenkürzel erneut drücken, um den Vorschlag einzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54995,6 +55275,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.apertium.org</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215610Z" creationid="Ragnar-F" creationdate="20221118T215610Z">
+        <seg>http://www.apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
       </tuv>
       <tuv lang="de">
@@ -55035,6 +55323,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www2.statmt.org/moses/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215512Z" creationid="Ragnar-F" creationdate="20221118T215512Z">
+        <seg>http://www2.statmt.org/moses/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://adoptium.net/temurin</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T140621Z" creationid="Ragnar-F" creationdate="20221114T140621Z">
@@ -55047,6 +55343,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20180919T071515Z" creationid="Michael Motzkus" creationdate="20180919T071515Z">
         <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://cloud.google.com/translate/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215820Z" creationid="Ragnar-F" creationdate="20221118T215820Z">
+        <seg>https://cloud.google.com/translate/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://cloud.google.com/translate/docs/reference/rest/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215815Z" creationid="Ragnar-F" creationdate="20221118T215815Z">
+        <seg>https://cloud.google.com/translate/docs/reference/rest/</seg>
       </tuv>
     </tu>
     <tu>
@@ -55175,6 +55487,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T133318Z" creationid="Ragnar-F" creationdate="20221116T133318Z">
         <seg>https://maxprograms.com/products/xliffmanager.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://mymemory.translated.net/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215403Z" creationid="Ragnar-F" creationdate="20221118T215403Z">
+        <seg>https://mymemory.translated.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://mymemory.translated.net/doc/cat.php</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215401Z" creationid="Ragnar-F" creationdate="20221118T215401Z">
+        <seg>https://mymemory.translated.net/doc/cat.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -55419,6 +55747,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://www.deepl.com/en/pro</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215058Z" creationid="Ragnar-F" creationdate="20221118T215034Z">
+        <seg>https://www.deepl.com/de/pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132832Z" creationid="Ragnar-F" creationdate="20221114T132832Z">
@@ -55427,10 +55763,26 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://www.ibm.com/watson</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215802Z" creationid="Ragnar-F" creationdate="20221118T215802Z">
+        <seg>https://www.ibm.com/watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20180917T072847Z" creationid="Michael Motzkus" creationdate="20180917T072847Z">
         <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.microsoft.com/en-us/translator/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215204Z" creationid="Ragnar-F" creationdate="20221118T215204Z">
+        <seg>https://www.microsoft.com/de-de/translator/</seg>
       </tuv>
     </tu>
     <tu>
@@ -55447,6 +55799,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T154558Z" creationid="Ragnar-F" creationdate="20221111T154558Z">
         <seg>https://www.regular-expressions.info/unicode.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://yandex.com/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215825Z" creationid="Ragnar-F" creationdate="20221118T215825Z">
+        <seg>https://yandex.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://yandex.com/dev/dictionary/keys/get/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215823Z" creationid="Ragnar-F" creationdate="20221118T215823Z">
+        <seg>https://yandex.com/dev/dictionary/keys/get/</seg>
       </tuv>
     </tu>
     <tu>
@@ -56774,6 +57142,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>or</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220300Z" creationid="Ragnar-F" creationdate="20221118T220300Z">
+        <seg>oder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>or as a regular backup every 3 minutes by default,</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T125219Z" creationid="Ragnar-F" creationdate="20221115T122805Z">
@@ -58094,6 +58470,14 @@ config-dir="Pfad/zum/neuen/Konfigordner"</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T160524Z" creationid="Ragnar-F" creationdate="20221109T160524Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>words with a glossary entry are automatically replaced by their translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220421Z" creationid="Ragnar-F" creationdate="20221118T220421Z">
+        <seg>einfügt, werden Wörter mit einem Glossareintrag automatisch mit ihrer Übersetzung ersetzt.</seg>
       </tuv>
     </tu>
     <tu>
