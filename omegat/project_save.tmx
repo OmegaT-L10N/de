@@ -3108,6 +3108,14 @@ schubweise;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T132332Z" creationid="Ragnar-F" creationdate="20221118T132332Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>103/114</seg>
       </tuv>
       <tuv lang="de" changeid="helmut" changedate="20130610T195438Z">
@@ -5024,6 +5032,18 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0&gt;Configuration&lt;/t0&gt; Folder
+Dossier de configuration
+&lt;50/50/66% &gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T132343Z" creationid="Ragnar-F" creationdate="20221118T132343Z">
+        <seg>&lt;t0&gt;Configuration&lt;/t0&gt; Folder
+Dossier de configuration
+&lt;50/50/66% &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0&gt;Format&lt;/t0&gt; &lt;t1&gt;Extension&lt;/t1&gt; &lt;t2&gt;Encoding&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T123117Z" creationid="Ragnar-F" creationdate="20210324T123108Z">
@@ -5500,6 +5520,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T105847Z" creationid="Ragnar-F" creationdate="20210112T105847Z">
         <seg>Eine einfache Auswahl von QA-Checks für das aktuelle OmegaT-Projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A source segment that appears in multiple locations in the project may require several different translations depending on context.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T140953Z" creationid="Ragnar-F" creationdate="20221118T140953Z">
+        <seg>Ein Quelltext, der an mehreren Stellen im Projekt vorkommt, kann je nach Kontext mehrere verschiedene Übersetzungen erfordern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17831,6 +17859,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134230Z" creationid="Ragnar-F" creationdate="20221118T134227Z">
+        <seg>Glossar-Matches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary note</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T083839Z" creationid="Ragnar-F" creationdate="20210113T083454Z">
@@ -18884,6 +18920,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hyperlinks can be present in the comment field of an entry and can be clicked upon for further reference.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134459Z" creationid="Ragnar-F" creationdate="20221118T134459Z">
+        <seg>Hyperlinks können im Kommentarfeld eines Eintrags angezeigt und angeklickt werden, um weitere Informationen zu erhalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I Understand; Do It Anyway</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T112058Z" creationid="Ragnar-F" creationdate="20210113T112058Z">
@@ -19742,6 +19786,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the current translation of the segment is not suitable, you can use the &lt;l0/&gt; command in the &lt;l1/&gt; menu to specify an alternative translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141029Z" creationid="Ragnar-F" creationdate="20221118T141029Z">
+        <seg>Wenn die aktuelle Übersetzung des Segments nicht geeignet ist, können Sie den Befehl &lt;l0/&gt; im Menü &lt;l1/&gt; verwenden, um eine alternative Übersetzung anzugeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T135236Z">
@@ -19762,6 +19814,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T114606Z" creationid="Ragnar-F" creationdate="20221117T114606Z">
         <seg>Wenn die von Ihnen übersetzten Dokumente fett, kursiv oder andere dekorative Elemente enthalten, wandelt OmegaT diese in Tags um, die den dekorierten Text umschließen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the entry contains comments, they are numbered and displayed on separate lines below the terms.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134120Z" creationid="Ragnar-F" creationdate="20221118T134120Z">
+        <seg>Wenn der Eintrag Kommentare enthält, werden diese nummeriert und auf separaten Zeilen unter den Begriffen angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20030,6 +20090,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there is a connection or authentication error with a machine translation engine, the status bar at the bottom of the window will briefly display status message.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T140539Z" creationid="Ragnar-F" creationdate="20221118T140539Z">
+        <seg>Liegt ein Verbindungs- oder Authentifizierungsfehler mit einem maschinellen Übersetzungsdienst vor, wird in der Statusleiste am unteren Rand des Fensters kurz eine Statusmeldung angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there is a declaration, that encoding  be used regardless of the setting specified here.</seg>
       </tuv>
       <tuv lang="de" changeid="linux" changedate="20221109T195100Z" creationid="linux" creationdate="20221109T195100Z">
@@ -20098,6 +20166,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T203540Z">
         <seg>Wenn sie von einer anderen Anwendung auf Ihrem System verwendet werden, verschwinden sie auch aus dieser Anwendung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they are, you may need to contact the service provider for assistance.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T140807Z" creationid="Ragnar-F" creationdate="20221118T140807Z">
+        <seg>Wenn das bereits der Fall ist und immer noch nicht funktioniert, müssen Sie sich an den Dienstanbieter wenden, um Hilfe zu erhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20493,6 +20569,14 @@ angezeigt werden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T154218Z" creationid="Michael Motzkus" creationdate="20180917T064308Z">
         <seg>Wenn Sie einen leistungsstarken Computer haben und/oder wenn Ihnen das Verhalten des Scrollbalkens beim progressiven Laden missfällt, können Sie diese Anzahl erhöhen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have activated &lt;l0/&gt; in the &lt;l1/&gt; menu, you can right-click on the highlighted word in the source segment to open a pop-up menu listing the translations available in your glossaries.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134942Z" creationid="Ragnar-F" creationdate="20221118T134942Z">
+        <seg>Wenn Sie &lt;l0/&gt; im Menü &lt;l1/&gt; aktiviert haben, können Sie mit der rechten Maustaste auf das hervorgehobene Wort im Quelltext klicken, um ein Kontextmenü mit Übersetzungen aus Ihren Glossaren zu öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23017,6 +23101,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It only displays information that is included in the file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141946Z" creationid="Ragnar-F" creationdate="20221118T141946Z">
+        <seg>Er zeigt nur Informationen an, die in der Datei enthalten sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It represents the complete filename of the source file, including the extension.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132512Z" creationid="Ragnar-F" creationdate="20221110T132250Z">
@@ -24312,6 +24404,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Links to local files (&lt;f0&gt;file:///PATH/filename&lt;/f0&gt;) open in the associated program.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134551Z" creationid="Ragnar-F" creationdate="20221118T134551Z">
+        <seg>Links zu lokalen Dateien (&lt;f0&gt;file:///PFAD/Dateiname&lt;/f0&gt;) werden im zugehörigen Programm geöffnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T092727Z" creationid="BVB" creationdate="20180826T092727Z">
@@ -24908,6 +25008,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T113041Z" creationid="Ragnar-F" creationdate="20210111T113041Z">
         <seg>Vergewissern Sie sich, dass Ihre &lt;v2&gt;PATH&lt;/v2&gt;-Einstellungen korrekt sind und dass die &lt;f3&gt;.jar&lt;/f3&gt;-Dateien ordnungsgemäß mit einem Java-Launcher verknüpft sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the service is enabled and your credentials are entered correctly.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T140625Z" creationid="Ragnar-F" creationdate="20221118T140625Z">
+        <seg>Vergewissern Sie sich, dass der Dienst aktiviert ist und dass Sie Ihre Zugangsdaten korrekt eingegeben haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25973,6 +26081,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="SabineWanner" changedate="20221117T155048Z" creationid="SabineWanner" creationdate="20221117T155048Z">
         <seg>Änderungen, die an einem Glossar vorgenommen werden, werden von OmegaT sofort erkannt und im Bereich &lt;l0/&gt; angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifications to any glossary file in the glossary folder are immediately recognized by OmegaT and displayed in the glossary pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135242Z" creationid="Ragnar-F" creationdate="20221118T135242Z">
+        <seg>Änderungen an einer beliebigen Glossardatei im Glossarordner werden von OmegaT sofort erkannt und im Glossarbereich angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28304,6 +28420,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121356Z">
         <seg>OmegaT im Befehlszeilenmodus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT includes one writable glossary file per project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135310Z" creationid="Ragnar-F" creationdate="20221118T135310Z">
+        <seg>OmegaT stellt pro Projekt eine beschreibbare Glossardatei bereit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30875,6 +30999,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Percentage calculated on the entire text, including tags and numbers (generally the lowest).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T133511Z" creationid="Ragnar-F" creationdate="20221118T133511Z">
+        <seg>Ein Prozentsatz, der unter Berücksichtigung des vollständigen Textes, einschließlich Tags und Zahlen, berechnet wird (generell der niedrigste).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Percentage calculated with &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T173331Z" creationid="Ragnar-F" creationdate="20210110T173331Z">
@@ -30895,6 +31027,22 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T173228Z" creationid="Ragnar-F" creationdate="20210110T173204Z">
         <seg>Prozentsatz, der mit der Option &lt;g0&gt;Stammformreduktion, keine Tags, keine Zahlen&lt;/g0&gt; berechnet wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated with stemming based on the source language tokenizer, and ignoring tags and numbers (generally the highest).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T133341Z" creationid="Ragnar-F" creationdate="20221118T133135Z">
+        <seg>Ein Prozentsatz, der mittels Stammformreduktion auf Basis des Tokenizers der Quellsprache ohne Berücksichtigung von Tags und Zahlen berechnet wird (generell der höchste).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated without stemming, and still ignoring tags and numbers (generally slightly lower).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T133408Z" creationid="Ragnar-F" creationdate="20221118T133253Z">
+        <seg>Ein Prozentsatz, der ohne Stammformreduktion und ohne Berücksichtigung von Tags und Zahlen berechnet wird (generell etwas niedriger).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31864,6 +32012,16 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project = &lt;t0&gt;Projet&lt;/t0&gt;
+1.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134250Z" creationid="Ragnar-F" creationdate="20221118T134250Z">
+        <seg>Project = &lt;t0&gt;Projet&lt;/t0&gt;
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Files</seg>
       </tuv>
       <tuv lang="de">
@@ -32172,6 +32330,18 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141353Z" creationid="Ragnar-F" creationdate="20221114T141353Z">
         <seg>Projekte, die Sie in der Vergangenheit erstellt haben oder aktuell verwenden, werden &lt;e0&gt;nicht&lt;/e0&gt; geändert oder gelöscht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projet de traduction
+
+Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134252Z" creationid="Ragnar-F" creationdate="20221118T134252Z">
+        <seg>Projet de traduction
+
+Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35402,6 +35572,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135518Z" creationid="Ragnar-F" creationdate="20221118T135518Z">
+        <seg>Siehe die &lt;l1/&gt;-Einstellungen für weitere Informationen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt; Oracle documentation&lt;/u0&gt; for examples.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T133415Z" creationid="Ragnar-F" creationdate="20221110T133415Z">
@@ -36146,6 +36324,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selecting one will insert it in the segment at the current cursor position.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135105Z" creationid="Ragnar-F" creationdate="20221118T135105Z">
+        <seg>Wenn Sie eine auswählen, wird sie in das Segment an der aktuellen Position des Textcursors eingefügt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T130904Z" creationid="Ragnar-F" creationdate="20221110T130849Z">
@@ -36746,6 +36932,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly, an error such as &lt;l0&gt;Unable to parse translation service response&lt;/l0&gt; suggests that there may be a communication problem between your system and the provider's server.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T140913Z" creationid="Ragnar-F" creationdate="20221118T140913Z">
+        <seg>Ein Fehler wie &lt;l0&gt;Unable to parse translation service response&lt;/l0&gt; deutet darauf hin, dass es ein Kommunikationsproblem zwischen Ihrem System und dem Server des Anbieters gibt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T160939Z" creationid="Ragnar-F" creationdate="20210110T160644Z">
@@ -37102,6 +37296,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T155554Z" creationid="Ragnar-F" creationdate="20221111T155554Z">
         <seg>Einige Ausdrücke spezifizieren eher eine Position als ein Zeichen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some file formats, such as the PO format, can provide the translator with comments to add context to the translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141838Z" creationid="Ragnar-F" creationdate="20221118T141838Z">
+        <seg>Einige Dateiformate, wie z. B. das PO-Format, können dem Übersetzer Kommentare zur Verfügung stellen, um Kontext zur Übersetzung hinzuzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38212,6 +38414,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such comments are displayed here.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141855Z" creationid="Ragnar-F" creationdate="20221118T141855Z">
+        <seg>Solche Kommentare werden hier angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such external modifications will &lt;e0&gt;not&lt;/e0&gt; be reflected in OmegaT.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T121340Z" creationid="Ragnar-F" creationdate="20221117T121340Z">
@@ -39028,6 +39238,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms found in the writable glossary are shown in bold, while those from other glossaries are presented as regular text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134225Z" creationid="Ragnar-F" creationdate="20221118T134225Z">
+        <seg>Begriffe, die im beschreibbaren Glossar gefunden werden, sind fett dargestellt, während die Begriffe aus anderen Glossaren als normaler Text dargestellt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms from the project writable glossary are displayed in bold face.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T115226Z" creationid="Ragnar-F" creationdate="20210324T115226Z">
@@ -39325,6 +39543,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T142400Z">
         <seg>Stattdessen wird der aktuelle Ordner verwendet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "Origin" property of the current segment is assigned the selected engine name.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T140450Z" creationid="Ragnar-F" creationdate="20221118T140450Z">
+        <seg>Die Eigenschaft "Herkunft" des aktuellen Segments wird auf den ausgewählten Dienstnamen gesetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39665,10 +39891,26 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Comments pane is &lt;e0&gt;not&lt;/e0&gt; editable.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141924Z" creationid="Ragnar-F" creationdate="20221118T141924Z">
+        <seg>Der Kommentarbereich ist &lt;e0&gt;nicht&lt;/e0&gt; editierbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The DOLLAR sign: &lt;l0&gt;$&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T120103Z" creationid="Ragnar-F" creationdate="20221111T120103Z">
         <seg>Das DOLLARZEICHEN: &lt;l0&gt;$&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Dictionary pane shows terms from your dictionary files that correspond to terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135429Z" creationid="Ragnar-F" creationdate="20221118T135429Z">
+        <seg>Der Wörterbuchbereich zeigt Einträge aus Ihren Wörterbüchern an, die mit Begriffen im aktuellen Segment übereinstimmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39725,6 +39967,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T204418Z">
         <seg>Der Glossarbereich ermöglicht Ihnen Zugriff auf Ihre eigene Sammlung von Ausdrücken und spezieller Terminologie, die Sie in Ihren Glossardateien angelegt haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Glossary pane shows terms from your glossary files that correspond to terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T133903Z" creationid="Ragnar-F" creationdate="20221118T133903Z">
+        <seg>Der Glossarbereich zeigt Einträge aus Ihren Glossardateien an, die mit Begriffen im aktuellen Segment übereinstimmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39813,6 +40063,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T194702Z" creationid="Ragnar-F" creationdate="20210112T150232Z">
         <seg>Der Mozilla-FTL-Filter hat folgende Exception ausgelöst:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Notes pane is an &lt;e0&gt;editable&lt;/e0&gt; space where you can add notes to the currently active segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141359Z" creationid="Ragnar-F" creationdate="20221118T141359Z">
+        <seg>Der Notizbereich ist ein &lt;e0&gt;editierbares&lt;/e0&gt; Feld, mit dem Sie Notizen zu dem gerade aktiven Segment hinzufügen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40725,6 +40983,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dictionary files are located in the project’s &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135511Z" creationid="Ragnar-F" creationdate="20221118T135511Z">
+        <seg>Die Wörterbuchdateien befinden sich im &lt;l0/&gt;-Ordner des Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dictionary files folder does not exist!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T152405Z" creationid="Ragnar-F" creationdate="20221109T152405Z">
@@ -40841,6 +41107,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de">
         <seg>Das Ende einer Zeile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The entered translation will then be treated as an alternative translation of the source segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141128Z" creationid="Ragnar-F" creationdate="20221118T141128Z">
+        <seg>Die eingegebene Übersetzung wird dann als alternative Übersetzung des Quelltextes behandelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41049,6 +41323,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T121056Z" creationid="Ragnar-F" creationdate="20221118T121056Z">
         <seg>Die erste Zeile, in fetter Schrift auf grünem Hintergrund, ist der zu übersetzende Quelltext.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first match</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T132331Z" creationid="Ragnar-F" creationdate="20221118T132331Z">
+        <seg>Der erste Match</seg>
       </tuv>
     </tu>
     <tu>
@@ -41265,6 +41547,22 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T111538Z">
         <seg>Die Glossardatei ist leer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary file name is shown as a tooltip when hovering over the terms.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134352Z" creationid="Ragnar-F" creationdate="20221118T134352Z">
+        <seg>Der Name der Glossardatei wird als Tooltip angezeigt, wenn Sie den Mauszeiger über die Begriffe bewegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary files are located in the project’s &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134011Z" creationid="Ragnar-F" creationdate="20221118T134011Z">
+        <seg>Die Glossardateien befinden sich im &lt;l0/&gt;-Ordner des Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41608,6 +41906,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The machine translation pane, when opened, contains the suggestions produced for the current segment by one or more enabled translation engines.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135906Z" creationid="Ragnar-F" creationdate="20221118T135906Z">
+        <seg>Der Maschinelle-Übersetzung-Bereich enthält, sofern geöffnet, Vorschläge, die von einem oder mehreren aktivierten Übersetzungsdiensten für das aktuelle Segment erstellt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The main window consists of several panes, described here, the main &lt;l0/&gt;, and a &lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T112920Z" creationid="Ragnar-F" creationdate="20221118T112920Z">
@@ -41636,6 +41942,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210205T135732Z" creationid="Ragnar-F" creationdate="20210205T135549Z">
         <seg>Die Zuordnungen können über &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Eigenschaften&lt;/g2&gt; &lt;g3&gt;Repository-Zuordnung&lt;/g3&gt; &lt;/m0&gt; oder durch Bearbeiten von &lt;f4&gt;omegat.project&lt;/f4&gt; hinzugefügt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The match also displays three percentages.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T132704Z" creationid="Ragnar-F" creationdate="20221118T132704Z">
+        <seg>Der Match zeigt auch drei Prozentsätze an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41780,6 +42094,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140637Z" creationid="Ragnar-F" creationdate="20221112T140637Z">
         <seg>Wenn Sie OmegaT das nächste Mal starten, sollte Ihr neues Tastenkürzel aktiv sein und neben dem Namen der Funktion im Menü angezeigt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The notes are stored in the translation memory of the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141556Z" creationid="Ragnar-F" creationdate="20221118T141556Z">
+        <seg>Die Notizen werden im Translation Memory des Projekts gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42464,6 +42786,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The selected fuzzy match is highlighted in bold, with words missing from the segment you are translating shown in blue, and adjacent words shown in green.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T132639Z" creationid="Ragnar-F" creationdate="20221118T132639Z">
+        <seg>Der aktuell ausgewählte Fuzzy Match wird fett dargestellt. Wörter, die im Zieltext des Segments fehlen, sind blau gefärbt, während Wörter, die an den fehlenden Wörtern angrenzen, grün gefärbt sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T134506Z">
@@ -42732,6 +43062,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T115020Z" creationid="Ragnar-F" creationdate="20210324T115020Z">
         <seg>Der Quellbegriff wird vor dem " = "-Zeichen angezeigt, während die Zielbegriffe nach diesem Zeichen erfolgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source term is displayed before the “=” sign and the target terms after it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134054Z" creationid="Ragnar-F" creationdate="20221118T134054Z">
+        <seg>Der Quellbegriff wird vor dem "="-Zeichen angezeigt, während die Zielbegriffe nach diesem Zeichen erfolgen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43028,6 +43366,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T182327Z" creationid="Ragnar-F" creationdate="20210111T182327Z">
         <seg>Die drei Matching-Prozentsätze sind wie folgt angeordnet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The three matching percentages have the following meaning, in order:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T132754Z" creationid="Ragnar-F" creationdate="20221118T132754Z">
+        <seg>Die drei Matching-Prozentsätze haben die folgende Bedeutung und sind wie folgt angeordnet:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43668,6 +44014,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T220509Z" creationid="BVB" creationdate="20180826T085132Z">
         <seg>Diese Hilfsprogramme ermöglichen die Verwendung von OmegaT zum Übersetzen von Dateiformaten, für die XLIFF-Konvertierungsfilter verfügbar sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are &lt;e0&gt;not&lt;/e0&gt; stored in the translated files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141613Z" creationid="Ragnar-F" creationdate="20221118T141613Z">
+        <seg>Sie werden &lt;e0&gt;nicht&lt;/e0&gt; in den übersetzten Dateien gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44838,6 +45192,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120636Z" creationid="Ragnar-F" creationdate="20221118T120636Z">
         <seg>Hier können Sie Ihre Übersetzungen eingeben und bearbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This lets you come back to it later to review the translation, check that alternative translations are correct or, in shared projects, ask colleagues for their opinion, for example.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141512Z" creationid="Ragnar-F" creationdate="20221118T141512Z">
+        <seg>So können Sie später darauf zurückgreifen, um die Übersetzung zu überprüfen, um zu sehen, ob alternative Übersetzungen korrekt sind, oder um, z. B. bei gemeinsam genutzten Projekten, Kollegen nach ihrer Meinung zu fragen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46270,6 +46632,14 @@ Skript mit ./linux-install.sh aus.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T094332Z" creationid="Ragnar-F" creationdate="20210111T094332Z">
         <seg>So arbeiten Sie offline:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To write your own comments about a translation, use the &lt;l0/&gt; pane instead.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142014Z" creationid="Ragnar-F" creationdate="20221118T142014Z">
+        <seg>Um Ihre eigenen Kommentare zu einer Übersetzung zu schreiben, verwenden Sie stattdessen den &lt;l0/&gt;-Bereich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48022,6 +48392,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; in the &lt;l1/&gt; menu to add terms to that file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135343Z" creationid="Ragnar-F" creationdate="20221118T135343Z">
+        <seg>Verwenden Sie &lt;l0/&gt; im Menü &lt;l1/&gt;, um Begriffe in diese Datei einzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; in the &lt;l1/&gt; menu to open the dialog.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T095335Z" creationid="Ragnar-F" creationdate="20221114T095335Z">
@@ -48106,6 +48484,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T142232Z" creationid="Ragnar-F" creationdate="20221115T142232Z">
         <seg>Verwenden Sie &lt;l0/&gt;, um die Dokumente neu zu erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to replace the translation field with the match, or &lt;l1/&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T133809Z" creationid="Ragnar-F" creationdate="20221118T133809Z">
+        <seg>Verwenden Sie &lt;l0/&gt;, um das Übersetzungsfeld mit dem Match zu ersetzen, oder &lt;l1/&gt;, um den Match an der Position des Textcursors einzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to replace the translation of the current segment with the selected translation engine.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T140347Z" creationid="Ragnar-F" creationdate="20221118T140347Z">
+        <seg>Verwenden Sie &lt;l0/&gt;, um die Übersetzung des aktiven Segments mit der des ausgewählten Übersetzungsdienstes zu ersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49252,6 +49646,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Web addresses (&lt;f1&gt;http://...&lt;/f1&gt;) open in the default browser.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134607Z" creationid="Ragnar-F" creationdate="20221118T134607Z">
+        <seg>Webadressen (&lt;f1&gt;http://...&lt;/f1&gt;) werden im Standardbrowser geöffnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T180000Z" creationid="Michael Motzkus" creationdate="20190129T073735Z">
@@ -49468,6 +49870,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When suggestions from more than one engine are available,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135929Z" creationid="Ragnar-F" creationdate="20221118T135929Z">
+        <seg>Wenn Vorschläge von mehr als einem Dienst verfügbar sind,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When that happens, members have to select the appropriate translation.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T140638Z" creationid="Ragnar-F" creationdate="20221116T140638Z">
@@ -49632,6 +50042,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T112255Z" creationid="Ragnar-F" creationdate="20221117T112255Z">
         <seg>Wenn Sie ein Segment betreten, das Begriffe enthält, die mit Begriffen in Ihren Glossaren übereinstimmen, werden die Begriffe und ihre Übersetzungen im &lt;l0/&gt;-Bereich angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you enter a segment, the first fuzzy match (the one with the highest match percentage) is automatically selected.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T132235Z" creationid="Ragnar-F" creationdate="20221118T132235Z">
+        <seg>Wenn Sie ein Segment betreten, wird automatisch der erste Fuzzy Match (der mit der höchsten Trefferquote) ausgewählt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50868,10 +51286,26 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can browse through the notes using &lt;l0/&gt; and &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141539Z" creationid="Ragnar-F" creationdate="20221118T141539Z">
+        <seg>Sie können mit &lt;l0/&gt; und &lt;l1/&gt; die Notizen durchgehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can call that menu using the standard method for your OS, or with the OmegaT defined shortcuts:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115552Z" creationid="Ragnar-F" creationdate="20221118T115552Z">
         <seg>Sie können dieses Menü mit der Standardmethode Ihres Betriebssystems oder mit den von OmegaT definierten Tastenkürzeln aufrufen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change how matches are displayed or sorted.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T133547Z" creationid="Ragnar-F" creationdate="20221118T133547Z">
+        <seg>Sie können die Darstellung und Sortierung der Matches ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51032,6 +51466,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T145709Z">
         <seg>Sie können eine der Alternativen - zum Beispiel die am häufigsten verwendete - als Standardübersetzung definieren, indem Sie &lt;g1&gt;Bearbeiten → Als Standardübersetzung verwenden&lt;/g1&gt; auswählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define one of the alternatives—the most common or likely, for instance—as the default translation with the &lt;l0/&gt; command.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141206Z" creationid="Ragnar-F" creationdate="20221118T141206Z">
+        <seg>Mit dem Befehl &lt;l0/&gt; können Sie eine der Alternativen - z. B. die häufigste oder wahrscheinlichste - als Standardübersetzung festlegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51250,6 +51692,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can press &lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;2, 3, 4, 5&lt;/k2&gt; &lt;/k0&gt; to select a different match.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T132303Z" creationid="Ragnar-F" creationdate="20221118T132303Z">
+        <seg>Sie können &lt;k0&gt; &lt;k1&gt;C&lt;/k1&gt; &lt;k2&gt;2, 3, 4, 5&lt;/k2&gt; &lt;/k0&gt; drücken, um einen anderen Match auszuwählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can quickly see their contents by looking at their title: it will contain the search term used.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T195905Z">
@@ -51302,6 +51752,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T145627Z" creationid="Ragnar-F" creationdate="20210111T220721Z">
         <seg>Sie können eine Datei mit den Pfeiltasten &lt;k1&gt;Aufwärts&lt;/k1&gt; und &lt;k2&gt;Abwärts&lt;/k2&gt; auswählen und mit &lt;k3&gt;Enter&lt;/k3&gt; für die Übersetzung öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a term in the glossary pane and right click on it to insert it into the translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134642Z" creationid="Ragnar-F" creationdate="20221118T134642Z">
+        <seg>Sie können einen Begriff im Glossarbereich auswählen und mit der rechten Maustaste anklicken, um ihn in die Übersetzung einzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51430,6 +51888,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T113154Z" creationid="Ragnar-F" creationdate="20221114T185023Z">
         <seg>Sie können den Standardmodus (LTR) verwenden, um reine RTL-Texte zu schreiben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use the glossary preferences to fine-tune how the glossaries are displayed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135137Z" creationid="Ragnar-F" creationdate="20221118T135137Z">
+        <seg>Sie können die Glossar-Einstellungen verwenden, um die Darstellung der Glossare zu optimieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52469,6 +52935,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T130202Z" creationid="Ragnar-F" creationdate="20221118T130202Z">
         <seg>und andere Funktionen aus dem &lt;l0/&gt;-Menü.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and the currently selected translation is highlighted.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T140213Z" creationid="Ragnar-F" creationdate="20221118T140213Z">
+        <seg>und wird die aktuell ausgewählte Übersetzung hervorgehoben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56886,6 +57360,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the name of the engine will appear after the translated text,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T140031Z" creationid="Ragnar-F" creationdate="20221118T140031Z">
+        <seg>wird der Name des Dienstes hinter dem übersetzten Text angezeigt,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the percentage calculated with stemming</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T183243Z" creationid="Ragnar-F" creationdate="20210111T182430Z">
@@ -56906,6 +57388,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T183359Z" creationid="Ragnar-F" creationdate="20210111T183359Z">
         <seg>Der Prozentsatz, der ohne Stammformreduktion und ohne Berücksichtigung von Tags und Zahlen berechnet wird (generell etwas niedriger)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the results are sorted in alphabetical order of engine names,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T140124Z" creationid="Ragnar-F" creationdate="20221118T140124Z">
+        <seg>werden die Ergebnisse nach Dienstnamen in alphabetischer Reihenfolge sortiert,</seg>
       </tuv>
     </tu>
     <tu>
