@@ -4614,6 +4614,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;2148&lt;/l0&gt; is the number of the segment in the project and the &lt;l1&gt;¶&lt;/l1&gt; symbol indicates that the segment is the first segment in a paragraph.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T121607Z" creationid="Ragnar-F" creationdate="20221118T121607Z">
+        <seg>&lt;l0&gt;2148&lt;/l0&gt; ist die Nummer des Segments im Projekt, und das &lt;l1&gt;¶&lt;/l1&gt;-Symbol zeigt an, dass das Segment das erste Segment in einem Absatz ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T084010Z" creationid="Ragnar-F" creationdate="20210112T084010Z">
@@ -10855,6 +10863,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Context menus</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115511Z" creationid="Ragnar-F" creationdate="20221118T115511Z">
+        <seg>Kontextmenüs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T094927Z" creationid="Ragnar-F" creationdate="20210113T094927Z">
@@ -12283,6 +12299,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default editor writing space</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120949Z" creationid="Ragnar-F" creationdate="20221118T120949Z">
+        <seg>Standard-Editor-Arbeitsbereich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default glossary</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T112124Z" creationid="Ragnar-F" creationdate="20210324T112124Z">
@@ -13443,6 +13467,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doing so shows a tab with the name of the panes the top of the group.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115031Z" creationid="Ragnar-F" creationdate="20221118T115031Z">
+        <seg>In diesem Fall wird ein Tab mit dem Namen des Fensterbereichs ganz oben in der Gruppe angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T143323Z">
@@ -13771,6 +13803,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dragging and dropping</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115727Z" creationid="Ragnar-F" creationdate="20221118T115647Z">
+        <seg>Ziehen und Ablegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Drop TMX files here to add them to the project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T090630Z" creationid="karsten" creationdate="20150919T224659Z">
@@ -13799,6 +13839,38 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T090621Z" creationid="karsten" creationdate="20150919T224626Z">
         <seg>Glossardateien hier ablegen, um sie zum Projekt hinzuzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropping &lt;f0&gt;.tmx&lt;/f0&gt; files here will copy them to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120418Z" creationid="Ragnar-F" creationdate="20221118T120418Z">
+        <seg>Wenn Sie hier &lt;f0&gt;.tmx&lt;/f0&gt;-Dateien ablegen, werden diese in den &lt;f1&gt;tm&lt;/f1&gt;-Ordner kopiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropping an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) or a full project here will open the corresponding project after closing the currently open project, if any.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120050Z" creationid="Ragnar-F" creationdate="20221118T120050Z">
+        <seg>Wenn Sie hier eine OmegaT-Projektdatei (&lt;f0&gt;omegat.project&lt;/f0&gt;) oder ein komplettes Projekt ablegen, wird das aktuell geöffnete Projekt, sofern vorhanden, geschlossen und das neue Projekt geöffnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropping files with a recognized glossary extension (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) here will copy them to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120622Z" creationid="Ragnar-F" creationdate="20221118T120622Z">
+        <seg>Wenn Sie hier Dateien mit einer gültigen Glossardateiendung (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt; usw.) ablegen, werden diese in den &lt;f2&gt;glossary&lt;/f2&gt;-Ordner kopiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dropping other files will copy them to the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120129Z" creationid="Ragnar-F" creationdate="20221118T120129Z">
+        <seg>Wenn Sie andere Dateien ablegen, werden diese in den &lt;f0&gt;source&lt;/f0&gt;-Ordner kopiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14199,6 +14271,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T144017Z" creationid="Ragnar-F" creationdate="20221112T144017Z">
         <seg>Editorfunktionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor pane</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115858Z" creationid="Ragnar-F" creationdate="20221118T115858Z">
+        <seg>Editorbereich</seg>
       </tuv>
     </tu>
     <tu>
@@ -15965,6 +16045,14 @@ Backup-Dateiendung '.recover'.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files can be dragged and dropped on certain panes, with the following results:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115848Z" creationid="Ragnar-F" creationdate="20221118T115848Z">
+        <seg>Dateien können auf bestimmte Fensterbereiche gezogen und abgelegt werden, was Folgendes bewirkt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T214505Z">
@@ -17207,6 +17295,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Matches pane</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120331Z" creationid="Ragnar-F" creationdate="20221118T120331Z">
+        <seg>Fuzzy-Matches-Bereich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T145316Z" creationid="Michael Motzkus" creationdate="20180925T080814Z">
@@ -17643,6 +17739,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T083839Z" creationid="Ragnar-F" creationdate="20210113T083454Z">
         <seg>Glossar: Notiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary pane</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120424Z" creationid="Ragnar-F" creationdate="20221118T120424Z">
+        <seg>Glossarbereich</seg>
       </tuv>
     </tu>
     <tu>
@@ -20383,6 +20487,14 @@ unter anderem über Java Web Start installieren.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T120308Z" creationid="Ragnar-F" creationdate="20221110T115356Z">
         <seg>Wenn Sie die führenden und nachfolgenden Tags beibehalten, müssen Sie darauf achten, dass auch die Übersetzung mit diesen Tags beginnen und enden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you lost track of the changes you made to the user interface, and cannot see some panes, use &lt;l0/&gt; in the &lt;l1/&gt; menu any time to go back to the default layout.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115500Z" creationid="Ragnar-F" creationdate="20221118T115500Z">
+        <seg>Wenn Sie den Überblick über die Änderungen verloren haben, die Sie an der Benutzeroberfläche gemacht haben, und einige Bereiche nicht sehen können, können Sie jederzeit &lt;l0/&gt; im Menü &lt;l1/&gt; verwenden, um das Standardlayout wiederherzustellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24152,6 +24264,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lists the various extra actions available in the pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T113236Z" creationid="Ragnar-F" creationdate="20221118T113236Z">
+        <seg>Listet die verschiedenen zusätzlichen Aktionen auf, die im Fensterbereich verfügbar sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T122914Z" creationid="BVB" creationdate="20180826T204101Z">
@@ -24760,6 +24880,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manipulation</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T112424Z" creationid="Ragnar-F" creationdate="20221118T112424Z">
+        <seg>Anpassung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manual</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T135723Z" creationid="Michael Motzkus" creationdate="20181107T102343Z">
@@ -25288,6 +25416,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maximizes the pane</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T113912Z" creationid="Ragnar-F" creationdate="20221118T113912Z">
+        <seg>Maximiert den Fensterbereich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximum line length</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140615Z" creationid="Ragnar-F" creationdate="20221110T140615Z">
@@ -25533,6 +25669,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110907Z" creationid="Ragnar-F" creationdate="20221116T110907Z">
         <seg>Ausgabe der Befehlszeile reduzieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimizes the pane, so that it only shows as a tab at the bottom of the window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T113800Z" creationid="Ragnar-F" creationdate="20221118T113800Z">
+        <seg>Minimiert den Fensterbereich, so dass er nur noch als Tab am unteren Rand des Fensters angezeigt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28812,6 +28956,14 @@ enthalten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;Menu&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115609Z" creationid="Ragnar-F" creationdate="20221118T115557Z">
+        <seg>In Windows und Linux: &lt;k0&gt;Menü&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T121242Z">
@@ -28848,6 +29000,14 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T121643Z" creationid="Ragnar-F" creationdate="20210111T121631Z">
         <seg>In macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt; &lt;k1&gt;S&lt;/k1&gt; &lt;k2&gt;Esc&lt;/k2&gt; &lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115632Z" creationid="Ragnar-F" creationdate="20221118T115614Z">
+        <seg>In macOS: &lt;k0&gt; &lt;k1&gt;S&lt;/k1&gt; &lt;k2&gt;Esc&lt;/k2&gt; &lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30319,6 +30479,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T174909Z" creationid="Ragnar-F" creationdate="20210111T174909Z">
         <seg>Fensterbereiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Panes can be resized by dragging the separators between them.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115318Z" creationid="Ragnar-F" creationdate="20221118T115318Z">
+        <seg>Fensterbereiche können durch Ziehen der Trennbalken zwischen den Fensterbereichen größer/kleiner gemacht werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33493,6 +33661,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restores a maximized pane to its previous layout.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T114054Z" creationid="Ragnar-F" creationdate="20221118T114054Z">
+        <seg>Stellt das vorherige Layout eines maximierten Fensterbereichs wieder her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restores the OmegaT main window layout to its default values, with the &lt;g0&gt;Editor&lt;/g0&gt; pane on the left, the &lt;g1&gt;Fuzzy Matches&lt;/g1&gt; pane at the top right and the &lt;g2&gt;Glossary&lt;/g2&gt; pane at the bottom right.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T111900Z" creationid="Ragnar-F" creationdate="20221118T111900Z">
@@ -33561,6 +33737,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T120002Z" creationid="Ragnar-F" creationdate="20221117T120002Z">
         <seg>Kehren Sie zu OmegaT zurück, überprüfen Sie Ihr Dokument auf Tag-Probleme und erstellen Sie erneut die übersetzte Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Returns the pane to the main window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T114141Z" creationid="Ragnar-F" creationdate="20221118T114141Z">
+        <seg>Dockt den Fensterbereich an das Hauptfenster an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36746,6 +36930,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some panes have a context menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115524Z" creationid="Ragnar-F" creationdate="20221118T115524Z">
+        <seg>Einige Fensterbereiche haben ein Kontextmenü.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some plugins can make this task easier.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T121228Z" creationid="Ragnar-F" creationdate="20221116T121228Z">
@@ -39025,6 +39217,22 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e0&gt;translation field&lt;/e0&gt; is the second line, between the left border and the segment marker on the right.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T121302Z" creationid="Ragnar-F" creationdate="20221118T121302Z">
+        <seg>Die zweite Zeile ist das &lt;e0&gt;Übersetzungsfeld&lt;/e0&gt;, zwischen dem linken Rand und dem rechts befindlichen Segmentmarker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e1&gt;translation field&lt;/e1&gt; is where you enter your translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T121352Z" creationid="Ragnar-F" creationdate="20221118T121352Z">
+        <seg>Im &lt;e1&gt;Übersetzungsfeld&lt;/e1&gt; geben Sie Ihre Übersetzung ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;plugins&lt;/f0&gt; and &lt;f1&gt;scripts&lt;/f1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141926Z" creationid="Ragnar-F" creationdate="20221114T141926Z">
@@ -40165,6 +40373,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The cursor is by default locked into the translation field.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T121707Z" creationid="Ragnar-F" creationdate="20221118T121707Z">
+        <seg>Der Textcursor ist standardmäßig im Übersetzungsfeld fixiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The data are exported when the segment is opened.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T131030Z">
@@ -40585,6 +40801,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T093755Z" creationid="Ragnar-F" creationdate="20221117T093755Z">
         <seg>Die erste Zeile ist das Original-Englisch, die zweite eine alte französische Version, die dritte die japanische Version und die vierte die aktuelle Übersetzung ins Französische.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first line, in bold characters against a green background, is the source text to translate.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T121056Z" creationid="Ragnar-F" creationdate="20221118T121056Z">
+        <seg>Die erste Zeile, in fetter Schrift auf grünem Hintergrund, ist der zu übersetzende Quelltext.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41132,6 +41356,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T144316Z">
         <seg>Der Maschinelle-Übersetzung-Bereich enthält, wenn geöffnet, die Vorschläge der maschinellen Übersetzungsdienste für das aktive Segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main window consists of several panes, described here, the main &lt;l0/&gt;, and a &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T112920Z" creationid="Ragnar-F" creationdate="20221118T112920Z">
+        <seg>Das Hauptfenster besteht aus mehreren Fensterbereichen, den Haupt-&lt;l0/&gt; und einer &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41936,6 +42168,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The segment marker here is &lt;l0&gt;&lt;segment 2148 ¶&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T121503Z" creationid="Ragnar-F" creationdate="20221118T121503Z">
+        <seg>Der Segmentmarker ist hier &lt;l0&gt;&lt;Segment 2148 ¶&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segmentation rules are generally valid across all the projects.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T104937Z">
@@ -42520,6 +42760,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text is split into numbered segments.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120655Z" creationid="Ragnar-F" creationdate="20221118T120655Z">
+        <seg>Der Text ist in nummerierte Segmente unterteilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The three matching percentages are in the following order:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T182327Z" creationid="Ragnar-F" creationdate="20210111T182327Z">
@@ -42548,6 +42796,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T134955Z">
         <seg>Der oberste Match ist 100 %, weil alle Wörter übereinstimmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The top right corner of a pane will show different icons depending on the type of pane and its current status:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T113212Z" creationid="Ragnar-F" creationdate="20221118T113212Z">
+        <seg>Die obere rechte Ecke eines Fensterbereichs zeigt je nach Typ und aktuellem Status unterschiedliche Symbole an:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43442,6 +43698,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This also applies to the &lt;l1/&gt; window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120303Z" creationid="Ragnar-F" creationdate="20221118T120303Z">
+        <seg>Das gilt auch für das &lt;l1/&gt;-Fenster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This an exception rule, so the rule check box must not be ticked</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T094025Z">
@@ -44286,6 +44550,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T123604Z">
         <seg>Hier können Sie Ihre Übersetzung eingeben und bearbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is where you type and edit your translations.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120636Z" creationid="Ragnar-F" creationdate="20221118T120636Z">
+        <seg>Hier können Sie Ihre Übersetzungen eingeben und bearbeiten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46838,6 +47110,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Undocks the pane from the main window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T114100Z" creationid="Ragnar-F" creationdate="20221118T114100Z">
+        <seg>Dockt den Fensterbereich vom Hauptfenster ab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unexpected char {0} ({1})!</seg>
       </tuv>
       <tuv lang="de">
@@ -47402,6 +47682,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T182858Z" creationid="Ragnar-F" creationdate="20210108T184800Z">
         <seg>Benutzen Sie &lt;k0&gt; &lt;k1&gt;Umschalt&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt;, um zwischen den vier Alternativen durchzuschalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;k0&gt;F2&lt;/k0&gt; to unlock the cursor and move it beyond the translation field, and to make it come back into the translation field when your are done.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T122227Z" creationid="Ragnar-F" creationdate="20221118T122227Z">
+        <seg>Verwenden Sie K0, um den Textcursor zu lösen und ihn außerhalb des Übersetzungsfeldes verwenden zu können, und um ihn wieder im Übersetzungsfeld zu fixieren, wenn Sie fertig sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50244,6 +50532,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can call that menu using the standard method for your OS, or with the OmegaT defined shortcuts:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115552Z" creationid="Ragnar-F" creationdate="20221118T115552Z">
+        <seg>Sie können dieses Menü mit der Standardmethode Ihres Betriebssystems oder mit den von OmegaT definierten Tastenkürzeln aufrufen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change its name and location in the &lt;l0/&gt; dialog, but you must give it a &lt;f1&gt;.txt&lt;/f1&gt; or &lt;f2&gt;.utf8&lt;/f2&gt; extension, and store it within the &lt;l3/&gt; folder or in one of its subfolders.</seg>
       </tuv>
       <tuv lang="de" changeid="SabineWanner" changedate="20221117T180823Z" creationid="SabineWanner" creationdate="20221117T180823Z">
@@ -50272,6 +50568,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210223T160547Z" creationid="Ragnar-F" creationdate="20210113T125730Z">
         <seg>Sie können die bereits zugewiesenen Tastaturkurzbefehle ändern und neue Tastaturkurzbefehle hinzufügen, indem Sie eine Definitionsdatei in Ihrem Benutzerordner von &lt;a0&gt;OmegaT&lt;/a0&gt; erstellen (zugänglich über das Menü &lt;m1&gt; &lt;g2&gt;Optionen&lt;/g2&gt; &lt;g3&gt;Konfigurationsordner öffnen&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the position of a pane, or even undock it as a separate window, by clicking and holding its name and dragging it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T113058Z" creationid="Ragnar-F" creationdate="20221118T113058Z">
+        <seg>Sie können die Position eines beliebigen Fensterbereichs ändern oder ihn sogar als separates Fenster abdocken, indem Sie seinen Namen anklicken und ziehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50480,6 +50784,14 @@ Lizenz finden Sie in /docs/OmegaT-license.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can group panes in the same area of the window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115119Z" creationid="Ragnar-F" creationdate="20221118T114224Z">
+        <seg>Sie können Fensterbereiche in einem Bereich des Fensters gruppieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can have several Search windows open at the same time, but close them when they are no longer needed so that they do not clutter your desktop.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T130824Z">
@@ -50630,6 +50942,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T113603Z" creationid="Ragnar-F" creationdate="20221117T113603Z">
         <seg>Sie können Begriffe mit &lt;l0/&gt; unter Nutzung desselben Dialogfensters ersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can scroll through the document and double-click on any segment to open and edit it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120752Z" creationid="Ragnar-F" creationdate="20221118T120752Z">
+        <seg>Sie können durch das Dokument scrollen und auf ein beliebiges Segment doppelklicken, um es zu öffnen und zu bearbeiten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56924,6 +57244,28 @@ config-dir="Pfad/zum/neuen/Konfigordner"</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180905T133257Z" creationid="BVB" creationdate="20180905T133257Z">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;Remove Tags&lt;/t0&gt;
+|Supprimer les balises&lt;t1&gt;&lt;segment 2148 ¶&gt;&lt;/t1&gt;
+
+— ¶ —————————————————————
+
+When enabled, all the formatting tags are removed from source segments.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T121439Z" creationid="Ragnar-F" creationdate="20221118T120950Z">
+        <seg>— ¶ —————————————————————
+
+&lt;t0&gt;Remove Tags&lt;/t0&gt;
+|Supprimer les balises&lt;t1&gt;&lt;Segment 2148 ¶&gt;&lt;/t1&gt;
+
+— ¶ —————————————————————
+
+When enabled, all the formatting tags are removed from source segments.</seg>
       </tuv>
     </tu>
     <tu>
