@@ -7648,6 +7648,22 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T100011Z" creationid="Ragnar-F" creationdate="20221119T100011Z">
+        <seg>Eine andere Schriftgröße auf den Wörterbuchbereich anwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T095021Z" creationid="Ragnar-F" creationdate="20221119T095021Z">
+        <seg>Diese Schriftart auf tabellarische Daten (Projektdateien, Statistiken usw.) anwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T184255Z" creationid="Ragnar-F" creationdate="20221109T184255Z">
@@ -8978,6 +8994,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the dictionary pane uses the same font size as the main window panes.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T100119Z" creationid="Ragnar-F" creationdate="20221119T100119Z">
+        <seg>Standardmäßig verwendet der Wörterbuchbereich die gleiche Schriftgröße wie die Hauptfensterbereiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T130531Z" creationid="Ragnar-F" creationdate="20221110T130531Z">
@@ -9478,6 +9502,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de">
         <seg>Zeichen (ohne Leerzeichen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters that are not supported will appear as squares.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T095012Z" creationid="Ragnar-F" creationdate="20221119T095012Z">
+        <seg>Zeichen, die nicht unterstützt werden, erscheinen als Quadrate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10432,6 +10464,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T100145Z" creationid="Ragnar-F" creationdate="20221117T100145Z">
         <seg>Zusammenarbeit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colors</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T100318Z" creationid="Ragnar-F" creationdate="20221119T100318Z">
+        <seg>Farben</seg>
       </tuv>
     </tu>
     <tu>
@@ -19658,6 +19698,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If local file filters are used, modifying global file filters will have no effect of the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T104204Z" creationid="Ragnar-F" creationdate="20221119T104204Z">
+        <seg>Wenn lokale Dateifilter verwendet werden, hat eine Änderung der globalen Dateifilter keine Auswirkungen auf das Projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If matches are found, they are displayed in the &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140503Z" creationid="Ragnar-F" creationdate="20221114T130332Z">
@@ -20791,6 +20839,14 @@ unter anderem über Java Web Start installieren.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have set local rules in &lt;l0/&gt;, modifications here will not be taken into account.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T104442Z" creationid="Ragnar-F" creationdate="20221119T104442Z">
+        <seg>Wenn Sie lokale Regeln in &lt;l0/&gt; festgelegt haben, werden hier vorgenommene Änderungen ignoriert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T115145Z">
@@ -21124,6 +21180,14 @@ folgt starten können:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155418Z">
         <seg>Wenn Sie solche Dateien als Referenzübersetzungen in OmegaT verwenden möchten, müssen sie zunächst repariert werden, da OmegaT sonst einen Fehler meldet und diese nicht laden wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you work in a language pair that uses different writing systems, make sure you choose a font that can display both languages correctly.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T094959Z" creationid="Ragnar-F" creationdate="20221119T094959Z">
+        <seg>Wenn Sie mit einem Sprachpaar arbeiten, das unterschiedliche Schriftsysteme verwendet, achten Sie darauf, dass Sie eine Schriftart wählen, die beide Sprachen korrekt darstellen kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28538,8 +28602,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>OmegaT classic theme</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090603Z" creationid="Ragnar-F" creationdate="20210701T090603Z">
-        <seg>Klassisches Farbschema von OmegaT</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T102012Z" creationid="Ragnar-F" creationdate="20210701T090603Z">
+        <seg>Klassisches Design von OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -28570,8 +28634,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>OmegaT default theme</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090522Z" creationid="Ragnar-F" creationdate="20210701T090522Z">
-        <seg>Standardfarbschema von OmegaT</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T102000Z" creationid="Ragnar-F" creationdate="20210701T090522Z">
+        <seg>Standarddesign von OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -28885,6 +28949,14 @@ published by the Free Software Foundation, either version 3 of the License, or
         <seg>OmegaT ist im Rahmen der GNU General Public License, welche von der Free
 Software Foundation veröffentlicht wurde, entweder in Version 3 der Lizenz oder
 (je nach Wunsch) in einer späteren Version, frei erhältlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is bundled with a script called &lt;l0/&gt; that provides a default dark theme.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T102128Z" creationid="Ragnar-F" creationdate="20221119T102128Z">
+        <seg>OmegaT wird mit einem Skript namens &lt;l0/&gt; ausgeliefert, das ein dunkles Farbschema bereitstellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29280,6 +29352,14 @@ höher auf Ihrem System installiert ist.</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T145633Z" creationid="Michael Motzkus" creationdate="20190129T074049Z">
         <seg>OmegaT verwendet die folgenden Bibliotheken:
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the same font for both the source and target languages.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T094840Z" creationid="Ragnar-F" creationdate="20221119T094840Z">
+        <seg>OmegaT verwendet die Schriftart sowohl für die Quell- als auch Zielsprache.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35284,6 +35364,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts can be used to set predefined themes.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T101019Z" creationid="Ragnar-F" creationdate="20221119T101019Z">
+        <seg>Skripte können verwendet werden, um vordefinierte Farbschemen festzulegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts/procedures are available to enable you to do the following:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T130633Z" creationid="BVB" creationdate="20180827T070600Z">
@@ -35600,6 +35688,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T115513Z" creationid="Ragnar-F" creationdate="20221117T115513Z">
         <seg>Einzelheiten finden Sie unter &lt;l0/&gt; und &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0/&gt; for a general explanation of segmentation (global or local, paragraph or sentence, etc.)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T104319Z" creationid="Ragnar-F" creationdate="20221119T104319Z">
+        <seg>Allgemeine Erläuterungen zur Segmentierung (global oder lokal, Absatz oder Satz, usw.) finden Sie unter &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36608,6 +36704,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T211136Z" creationid="Ragnar-F" creationdate="20210111T211136Z">
         <seg>Wählen Sie das erste Segment aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the font and font size used to display the text in the main window panes.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T100124Z" creationid="Ragnar-F" creationdate="20221119T094716Z">
+        <seg>Wählen Sie die Schriftart und Schriftgröße für die Texte in den Hauptfensterbereichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39318,6 +39422,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tabular data is by default displayed in a monospaced font that keeps columns properly aligned.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T095715Z" creationid="Ragnar-F" creationdate="20221119T095715Z">
+        <seg>Tabellarische Daten werden standardmäßig in einer Monospace-Schriftart (einer Schriftart mit gleichbreiten Zeichen) angezeigt, die die Spalten korrekt ausrichtet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130428T153945Z">
@@ -41257,6 +41369,14 @@ Konfigurationsordner selbst verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T115717Z">
         <seg>Der Inhalt des Unterordners "target" spiegelt den momentanen Stand der Übersetzung wider, analog zum Translation Memory des Projektes, das in &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt; gespeichert ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of this preference is identical to the contents of the &lt;l0/&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T104038Z" creationid="Ragnar-F" creationdate="20221119T104038Z">
+        <seg>Der Inhalt dieser Einstellung ist identisch mit dem Inhalt des Dialogfensters &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45268,10 +45388,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog lists the file filters available to projects that do not use local file filters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T102322Z" creationid="Ragnar-F" creationdate="20221119T102322Z">
+        <seg>Dieses Dialogfenster listet die Dateifilter für Projekte auf, die keine lokalen Dateifilter verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog lists the file filters available.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T140346Z" creationid="Ragnar-F" creationdate="20210109T093325Z">
         <seg>Diese Kategorie listet alle verfügbaren Filter auf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog only accesses the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T104354Z" creationid="Ragnar-F" creationdate="20221119T104354Z">
+        <seg>Dieses Dialogfenster dient nur dem Zugriff auf die globalen Segmentierungsregeln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49860,6 +49996,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using a proportional font will break that layout.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T095949Z" creationid="Ragnar-F" creationdate="20221119T095949Z">
+        <seg>Die Nutzung einer proportionalen Schriftart würde dieses Layout zunichte machen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T140230Z">
@@ -51922,6 +52066,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T153037Z">
         <seg>Sie können die Benutzergruppe um Rat fragen, wenn Sie Probleme haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can assign different colors for to the various parts of the user interface.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T100736Z" creationid="Ragnar-F" creationdate="20221119T100736Z">
+        <seg>Sie können verschiedene Bereiche der Benutzeroberfläche mit unterschiedlichen Farben versehen.</seg>
       </tuv>
     </tu>
     <tu>
