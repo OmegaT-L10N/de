@@ -7062,6 +7062,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T214519Z" creationid="Ragnar-F" creationdate="20221119T214519Z">
+        <seg>Lokale Nachbearbeitungsbefehle erlauben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow tag editing</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T151105Z">
@@ -7130,6 +7138,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T132123Z" creationid="Ragnar-F" creationdate="20221117T132123Z">
         <seg>Ermöglicht dem Benutzer, einen Eintrag in &lt;l0/&gt; zu erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows the user to select the interval between automatic project data saves.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T214155Z" creationid="Ragnar-F" creationdate="20221119T214155Z">
+        <seg>Ermöglicht dem Benutzer, einzustellen, wie oft die Projektdaten automatisch gespeichert werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8680,6 +8696,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T115101Z">
         <seg>Testen Sie alle Optionen, bevor Sie mit solchen Konvertierungen fortfahren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before resetting the master password, always make a backup of that information, because it will be deleted and will have to be re-entered.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T215142Z" creationid="Ragnar-F" creationdate="20221119T215142Z">
+        <seg>Bevor Sie das Masterpasswort zurücksetzen, sollten Sie immer eine Sicherungskopie davon machen, da es gelöscht wird und neu eingegeben werden muss.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13013,6 +13037,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T110801Z" creationid="Ragnar-F" creationdate="20221109T110801Z">
         <seg>Standardmäßig xml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Define or reset the master password used to protect login credentials as well as access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T214915Z" creationid="Ragnar-F" creationdate="20221119T214915Z">
+        <seg>Definieren oder setzen Sie das Masterpasswort zurück, das zum Schutz der Zugangsdaten und der Zugangsschlüssel für maschinelle Übersetzungsdienste verwendet wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21705,6 +21737,14 @@ unter anderem über Java Web Start installieren.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you use an authenticated proxy server to access the Internet, enter your credentials here.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T214647Z" creationid="Ragnar-F" creationdate="20221119T214647Z">
+        <seg>Wenn Sie einen authentifizierten Proxy-Server für den Zugriff auf das Internet verwenden, geben Sie hier Ihre Zugangsdaten ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you use local rules, you can still access the global rules, but modifying them will have no effect on your project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T101428Z" creationid="Ragnar-F" creationdate="20221112T101428Z">
@@ -25654,6 +25694,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local post-processing commands are saved in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T214558Z" creationid="Ragnar-F" creationdate="20221119T214558Z">
+        <seg>Lokale Nachbearbeitungsbefehle werden in &lt;l0/&gt; gespeichert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local project commands are disabled for security reasons.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T223604Z" creationid="Ragnar-F" creationdate="20221109T223604Z">
@@ -25730,6 +25778,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T153654Z" creationid="Ragnar-F" creationdate="20210113T153654Z">
         <seg>Log:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Longer intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T214436Z" creationid="Ragnar-F" creationdate="20221119T214436Z">
+        <seg>Längere Intervalle für Teamprojekte, die auf externen Servern gehostet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37062,6 +37118,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment modification information is displayed with &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T213735Z" creationid="Ragnar-F" creationdate="20221119T213735Z">
+        <seg>Segmentmodifikationsinfos werden mit &lt;l0/&gt; angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment number...</seg>
       </tuv>
       <tuv lang="de">
@@ -38226,6 +38290,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T072934Z">
         <seg>Umschalt+F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Short intervals (10 seconds minimum) for projects synchronized on an internal server.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T214323Z" creationid="Ragnar-F" creationdate="20221119T214323Z">
+        <seg>Kurze Intervalle (mindestens 10 Sekunden) für Projekte, die mit einem internen Server synchronisiert sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42417,6 +42489,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T095138Z">
         <seg>Der Befehl zum Starten von OmegaT lautet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The commands specified here are available to all the projects that use the same configuration folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T214512Z" creationid="Ragnar-F" creationdate="20221119T214512Z">
+        <seg>Die hier angegebenen Befehle sind für alle Projekte verfügbar, die denselben Konfigurationsordner verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53335,6 +53415,22 @@ Kaptain-Startskript wie folgt starten:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can adapt the "standard template" to your needs with the template variables.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T213819Z" creationid="Ragnar-F" creationdate="20221119T213819Z">
+        <seg>Sie können die "Standard-Darstellungsweise" mithilfe der Variablen an Ihre Bedürfnisse anpassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can adapt the "template for segments without date" to your needs with the template variables.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T213842Z" creationid="Ragnar-F" creationdate="20221119T213842Z">
+        <seg>Sie können die "Darstellungsweise für Segmente ohne Datum" mithilfe der Variablen an Ihre Bedürfnisse anpassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can adapt the displayed information to your needs.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T111655Z" creationid="Ragnar-F" creationdate="20221118T111655Z">
@@ -53467,6 +53563,14 @@ Kaptain-Startskript wie folgt starten:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T114653Z" creationid="Ragnar-F" creationdate="20221114T114653Z">
         <seg>Sie können auch globale Nachbearbeitungsbefehle für alle Projekte definieren, die sich denselben Konfigurationsordner teilen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define local post-processing commands available only to a given project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T214545Z" creationid="Ragnar-F" creationdate="20221119T214545Z">
+        <seg>Sie können auch lokale Nachbearbeitungsbefehle definieren, die nur für ein bestimmtes Projekt verfügbar sind.</seg>
       </tuv>
     </tu>
     <tu>
