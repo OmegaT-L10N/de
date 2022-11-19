@@ -9286,8 +9286,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, when &lt;l0/&gt; is enabled, only the non unique segments after the second are marked.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T154651Z" creationid="Ragnar-F" creationdate="20221119T154651Z">
-        <seg>Wenn &lt;l0/&gt; aktiviert ist, werden standardmäßig nur die nicht-einmaligen Segmente nach dem zweiten hervorgehoben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T155016Z" creationid="Ragnar-F" creationdate="20221119T154651Z">
+        <seg>Wenn &lt;l0/&gt; aktiviert ist, werden standardmäßig nur die nicht-einmaligen Segmente hervorgehoben, die nicht das erste Segment sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12811,8 +12811,16 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       <tuv lang="en">
         <seg>Customize segment modification &amp;information</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T203130Z" creationid="Ragnar-F" creationdate="20221109T203130Z">
-        <seg>Segmentänderungs&amp;information anpassen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T155707Z" creationid="Ragnar-F" creationdate="20221109T203130Z">
+        <seg>Segmentmodifikations&amp;infos anpassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize segment modification information</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T155721Z" creationid="Ragnar-F" creationdate="20221119T155237Z">
+        <seg>Segmentmodifikationsinfos anpassen</seg>
       </tuv>
     </tu>
     <tu>
@@ -12933,6 +12941,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T100607Z" creationid="Ragnar-F" creationdate="20221110T100607Z">
         <seg>Standardinhalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default display</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T155932Z" creationid="Ragnar-F" creationdate="20221119T155932Z">
+        <seg>Standarddarstellung</seg>
       </tuv>
     </tu>
     <tu>
@@ -15170,6 +15186,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T135328Z" creationid="Ragnar-F" creationdate="20221110T135328Z">
         <seg>Aktivieren Sie diese Option, wenn Sie mit XLIFF-Dateien arbeiten müssen, die mit OmegaT 2.6 erstellt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable this option to also mark the first.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T154728Z" creationid="Ragnar-F" creationdate="20221119T154728Z">
+        <seg>Aktivieren Sie diese Option, um auch das erste Segment hervorzuheben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37030,6 +37054,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment modification information is displayed over the segment and by default indicates when and by whom the translation was modified:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T155917Z" creationid="Ragnar-F" creationdate="20221119T155917Z">
+        <seg>Segmentmodifikationsinfos werden über dem Segment angezeigt und geben standardmäßig an, wann und von wem die Übersetzung geändert wurde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment number...</seg>
       </tuv>
       <tuv lang="de">
@@ -38474,6 +38506,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T190145Z" creationid="Ragnar-F" creationdate="20221109T190145Z">
         <seg>&amp;Tag-Tooltips vereinfachen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplify tag tooltips</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T155021Z" creationid="Ragnar-F" creationdate="20221119T155021Z">
+        <seg>Tag-Tooltips vereinfachen</seg>
       </tuv>
     </tu>
     <tu>
@@ -40448,6 +40488,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag tooltips display the real content of the tag.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T155055Z" creationid="Ragnar-F" creationdate="20221119T155055Z">
+        <seg>Tag-Tooltips zeigen den tatsächlichen Inhalt des Tags an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag validation failed</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223330Z">
@@ -40500,6 +40548,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T112838Z" creationid="Ragnar-F" creationdate="20221114T112838Z">
         <seg>Tags sind grundsätzlich nützlich, um bestimmte Layouts oder Eigenschaften des Quelltextes auf den übersetzten Text zu übertragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags are protected text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T155037Z" creationid="Ragnar-F" creationdate="20221119T155037Z">
+        <seg>Tags sind geschützter Text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49240,6 +49296,18 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation last modified by suzume on Oct 6, 2022 at 2:18:27 PM
+[[チューリッヒ大学]]大学院博士課程修了。
+[[Université de Zurich]] Elle finit sa thèse de doctorat.&lt;segment 0178&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T160016Z" creationid="Ragnar-F" creationdate="20221119T155946Z">
+        <seg>Übersetzung wurde zuletzt geändert von suzume am Oct 6, 2022 um 2:18:27 PM
+[[チューリッヒ大学]]大学院博士課程修了。
+[[Université de Zurich]] Elle finit sa thèse de doctorat.&lt;segment 0178&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130427T090617Z">
@@ -52148,6 +52216,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135929Z" creationid="Ragnar-F" creationdate="20221118T135929Z">
         <seg>Wenn Vorschläge von mehr als einem Dienst verfügbar sind,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When that content contains paired tags (as in HTML) such tooltips can be simplified when you hover on them.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T155229Z" creationid="Ragnar-F" creationdate="20221119T155229Z">
+        <seg>Wenn dieser Inhalt gepaarte Tags (wie in HTML) enthält, können solche Tooltips beim Darüberbewegen des Mauszeigers vereinfacht werden.</seg>
       </tuv>
     </tu>
     <tu>
