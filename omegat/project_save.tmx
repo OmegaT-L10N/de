@@ -3059,6 +3059,14 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/usr/bin/open|dict://{target}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132256Z" creationid="Ragnar-F" creationdate="20221119T132256Z">
+        <seg>/usr/bin/open|dict://{target}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>0 or more &lt;c0&gt;modifier&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T132110Z" creationid="Ragnar-F" creationdate="20221112T132110Z">
@@ -5544,6 +5552,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T215623Z" creationid="Michael Motzkus" creationdate="20180921T080636Z">
         <seg>Eine Suche kann auf 1000 Elemente begrenzt sein. Wenn Sie also nach einem geläufigen Begriff suchen, zeigt der Editor nicht mehr alle gefundenen Elemente an, sondern nur noch 1000 Elemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A set must be given a name.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130648Z" creationid="Ragnar-F" creationdate="20221119T130648Z">
+        <seg>Jedem Set muss ein Name gegeben werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10636,6 +10652,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command example</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132255Z" creationid="Ragnar-F" creationdate="20221119T132255Z">
+        <seg>Befehlsbeispiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command is missing command string</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T120455Z" creationid="Ragnar-F" creationdate="20210113T120455Z">
@@ -10696,6 +10720,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T120858Z" creationid="Ragnar-F" creationdate="20210113T120858Z">
         <seg>Befehle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands are opened on the command line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132038Z" creationid="Ragnar-F" creationdate="20221119T132038Z">
+        <seg>Befehle werden in der Befehlszeile geöffnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11191,6 +11223,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T135200Z" creationid="Ragnar-F" creationdate="20210111T201645Z">
         <seg>Enthält die im Dialogfenster &lt;l0&gt;Projekteigenschaften&lt;/l0&gt; definierten Projektparameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Context Menu Priority</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130257Z" creationid="Ragnar-F" creationdate="20221119T130257Z">
+        <seg>Kontextmenüpriorität</seg>
       </tuv>
     </tu>
     <tu>
@@ -12919,6 +12959,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depending on your internet connection it may take a while before the dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T124513Z" creationid="Ragnar-F" creationdate="20221119T124513Z">
+        <seg>Je nach Internetverbindung kann es eine Weile dauern, bis das Wörterbuch installiert ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T103625Z">
@@ -14467,6 +14515,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T135957Z">
         <seg>Jedes Ausgabeformat verfügt über spezifische Möglichkeiten, mit der RTL-Darstellung umzugehen; Einzelheiten finden Sie in den Bedienungsanleitungen der jeweiligen Programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each set represents a group of web searches or local commands that are launched simultaneously.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130557Z" creationid="Ragnar-F" creationdate="20221119T130557Z">
+        <seg>Jedes Set repräsentiert eine Gruppe von Websuchvorgängen oder lokalen Befehlen, die gleichzeitig gestartet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16072,6 +16128,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External searches are either web searches or local commands that take the string selected in the Editor as a parameter.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T125100Z" creationid="Ragnar-F" creationdate="20221119T125100Z">
+        <seg>Externe Suchvorgänge sind entweder Websuchvorgänge oder lokale Befehle, die den markierten Text im Editor als Parameter verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T112711Z">
@@ -17399,6 +17463,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T120531Z" creationid="Ragnar-F" creationdate="20221114T120531Z">
         <seg>Aus Sicherheitsgründen sind lokale projektbasierte externe Suchvorgänge standardmäßig deaktiviert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For security reasons, &lt;l0/&gt; are disabled by default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T125843Z" creationid="Ragnar-F" creationdate="20221119T125843Z">
+        <seg>Aus Sicherheitsgründen sind &lt;l0/&gt; standardmäßig deaktiviert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20809,6 +20881,14 @@ angezeigt werden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T105038Z" creationid="Ragnar-F" creationdate="20221112T101759Z">
         <seg>Wenn Sie die Segmentierung während einer laufenden Übersetzung ändern, müssen Sie das Projekt neu laden, damit die neue Segmentierung wirksam wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you check &lt;g0&gt;Show in Editor context menu&lt;/g0&gt;, the set name will also be displayed in the &lt;l1/&gt; if a string is selected.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130847Z" creationid="Ragnar-F" creationdate="20221119T130847Z">
+        <seg>Wenn Sie &lt;g0&gt;Im Kontextmenü des Editors anzeigen&lt;/g0&gt; aktivieren, wird der Name des Sets auch im &lt;l1/&gt; angezeigt, wenn ein Text markiert wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25172,6 +25252,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local external search commands are saved in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130105Z" creationid="Ragnar-F" creationdate="20221119T130105Z">
+        <seg>Lokale externe Suchbefehle werden in &lt;l0/&gt; gespeichert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T085858Z" creationid="Ragnar-F" creationdate="20210111T085858Z">
@@ -29048,6 +29136,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT inserts the translation with the highest match percentage above the value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T134019Z" creationid="Ragnar-F" creationdate="20221119T134019Z">
+        <seg>OmegaT fügt die Übersetzung mit der höchsten Trefferquote ein, die größer gleich dem Wert ist, den Sie in diesem Dialogfenster festgelegt haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT instantaneously notices modifications to TMX files.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T092415Z" creationid="Ragnar-F" creationdate="20221117T092415Z">
@@ -30266,10 +30362,18 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only activate this option if you trust the source of that file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130151Z" creationid="Ragnar-F" creationdate="20221119T130151Z">
+        <seg>Aktivieren Sie diese Option nur, wenn Sie der Quelle dieser Datei vertrauen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only enable local post-processing commands if you trust the source of that file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T114209Z" creationid="Ragnar-F" creationdate="20221114T114209Z">
-        <seg>Lokale Nachbearbeitungsbefehle sollten nur aktiviert werden, wenn die Quelle der Datei vertrauenswürdig ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130250Z" creationid="Ragnar-F" creationdate="20221114T114209Z">
+        <seg>Lokale Nachbearbeitungsbefehle sollten Sie nur aktivieren, wenn Sie der Quelle dieser Datei vertrauen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34703,6 +34807,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart OmegaT to apply this change.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130524Z" creationid="Ragnar-F" creationdate="20221119T130524Z">
+        <seg>Starten Sie OmegaT neu, um diese Änderung anzuwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restart OmegaT.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T143115Z" creationid="Ragnar-F" creationdate="20221115T143115Z">
@@ -37032,6 +37144,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T135021Z">
         <seg>Wählen Sie die Methode mithilfe der Radiobuttons aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T124943Z" creationid="Ragnar-F" creationdate="20221119T124943Z">
+        <seg>Wählen Sie alle Regeln aus, die für die Übersetzung relevant sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40643,6 +40763,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g0&gt;Delimiter&lt;/g0&gt;defines the delimiter between command parameters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132207Z" creationid="Ragnar-F" creationdate="20221119T132207Z">
+        <seg>Das &lt;g0&gt;Trennzeichen&lt;/g0&gt; definiert das Trennzeichen zwischen Befehlsparametern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T210541Z" creationid="Ragnar-F" creationdate="20210111T210541Z">
@@ -40767,6 +40895,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T114442Z" creationid="Ragnar-F" creationdate="20221117T114442Z">
         <seg>Das &lt;l1/&gt; ist auch im Editorbereich verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l1&gt;{target}&lt;/l1&gt; placeholder will be replaced by the string that was selected in the Editor.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T131035Z" creationid="Ragnar-F" creationdate="20221119T131035Z">
+        <seg>Der &lt;l1&gt;{target}&lt;/l1&gt;-Platzhalter wird mit dem im Editor markierten Text ersetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41875,6 +42011,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T124256Z" creationid="Ragnar-F" creationdate="20221119T124017Z">
         <seg>Eine Standard-URL, die OmegaT durchsucht, um installierbare Wörterbücher zu finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default delimiter is &lt;c1&gt;|&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132223Z" creationid="Ragnar-F" creationdate="20221119T132223Z">
+        <seg>Das Standardtrennzeichen ist &lt;c1&gt;|&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43042,6 +43186,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The name will be displayed at the bottom of the &lt;l0/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130717Z" creationid="Ragnar-F" creationdate="20221119T130717Z">
+        <seg>Der Name wird am Ende des Menüs &lt;l0/&gt; angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T160251Z">
@@ -43334,6 +43486,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T122832Z">
         <seg>Das Präfix (standardmäßig "[fuzzy]") kann zum Kennzeichnen von Übersetzungen verwendet werden, die via Fuzzy-Matching eingefügt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The prefix identifies translations inserted as fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T134232Z" creationid="Ragnar-F" creationdate="20221119T134232Z">
+        <seg>Das Präfix kennzeichnet Übersetzungen, die als Fuzzy Matches eingefügt wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44622,6 +44782,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T161833Z" creationid="BVB" creationdate="20180826T092301Z">
         <seg>Die Version für die benutzerdefinierte Installation, die den bestehenden OmegaT-Benutzern bereits vertraut ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The web searches are opened in the default browser and the commands are equivalent to items launched on the command line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T125711Z" creationid="Ragnar-F" creationdate="20221119T125711Z">
+        <seg>Websuchvorgänge werden im Standardbrowser geöffnet. Befehle sind gleichbedeutend mit Elementen, die über die Befehlszeile gestartet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46444,6 +46612,22 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This opens a search for the {target} term on DuckDuckGo with a number of search parameters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132026Z" creationid="Ragnar-F" creationdate="20221119T132026Z">
+        <seg>Dies öffnet eine Suche nach dem {target}-Begriff auf DuckDuckGo mit einer Reihe von Suchparametern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This opens the dictionary application that implements the &lt;c0&gt;dict&lt;/c0&gt; protocol on your machine looking for the {target} term.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132519Z" creationid="Ragnar-F" creationdate="20221119T132519Z">
+        <seg>Dies öffnet die Wörterbuchapplikation, die das &lt;c0&gt;dict&lt;/c0&gt;-Protokoll auf Ihrem Rechner implementiert, und sucht nach dem {target}-Begriff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T113102Z" creationid="Ragnar-F" creationdate="20210109T113102Z">
@@ -46496,6 +46680,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T160404Z" creationid="Michael Motzkus" creationdate="20180918T145316Z">
         <seg>Wenn aktiviert, werden &lt;u0&gt;bidirektionale Steuerzeichen&lt;/u0&gt; farblich hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option enables you to change the order of the commands in the Editor pane &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130425Z" creationid="Ragnar-F" creationdate="20221119T130425Z">
+        <seg>Diese Option ermöglicht es Ihnen, die Reihenfolge der Befehle im &lt;l0/&gt; des Editorbereichs zu ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48688,6 +48880,22 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL search example</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T131204Z" creationid="Ragnar-F" creationdate="20221119T131204Z">
+        <seg>URL-Suchbeispiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL searches as well as commands must contain the string &lt;l0&gt;{target}&lt;/l0&gt; to be accepted.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130947Z" creationid="Ragnar-F" creationdate="20221119T130947Z">
+        <seg>URL-Suchvorgänge und Befehle müssen die Zeichenkette &lt;l0&gt;{target}&lt;/l0&gt; enthalten, um akzeptiert zu werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL, Model ID, Login ID, Password</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215802Z" creationid="Ragnar-F" creationdate="20221118T215623Z">
@@ -48716,6 +48924,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T120847Z" creationid="Ragnar-F" creationdate="20210113T120847Z">
         <seg>URLs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URLs are opened with the default web browser, one per tab.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T131144Z" creationid="Ragnar-F" creationdate="20221119T131144Z">
+        <seg>URLs werden mit dem Standardbrowser geöffnet, jeweils ein Tab pro URL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50120,6 +50336,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this option temporarily for parts of the translation that do not require much transformation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132651Z" creationid="Ragnar-F" creationdate="20221119T132651Z">
+        <seg>Verwenden Sie diese Option, um Teile der Übersetzung, die keine große Umwandlung erfordern, vorübergehend einzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this option to leave a non translated segment blank.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T145745Z" creationid="Ragnar-F" creationdate="20221110T145745Z">
@@ -50444,6 +50668,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT allows you to customize the verification rules.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T124814Z" creationid="Ragnar-F" creationdate="20221119T124814Z">
+        <seg>Wenn Sie auf Ihrem lokalen Rechner einen anderen als den von OmegaT bereitgestellten Sprachprüfdienst verwenden, können Sie die Prüfregeln individuell anpassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T113918Z" creationid="Ragnar-F" creationdate="20210110T113918Z">
@@ -50630,8 +50862,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210110T120147Z" creationid="Ragnar-F" creationdate="20210110T120147Z">
-        <seg>Werte rund um 100 zeigen die Befehle oben an, und Werte rund um 900 zeigen diese unten an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130504Z" creationid="Ragnar-F" creationdate="20210110T120147Z">
+        <seg>Werte rund um 100 zeigen die Befehle weiter oben an, während Werte rund um 900 diese weiter unten anzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52377,6 +52609,14 @@ Kaptain-Startskript wie folgt starten:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define the prefix to as &lt;l0/&gt; to include it in the tag issues checking process and make sure you do not forget it in your translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T134825Z" creationid="Ragnar-F" creationdate="20221119T134825Z">
+        <seg>Sie können das Präfix auch als &lt;l0/&gt; definieren, um es in die Prüfung von Tag-Problemen einzubeziehen und sicherzustellen, dass Sie es in Ihrer Übersetzung nicht vergessen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T155915Z" creationid="Ragnar-F" creationdate="20210110T155915Z">
@@ -52794,6 +53034,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T120613Z" creationid="Ragnar-F" creationdate="20221114T120613Z">
         <seg>Sie können sie aktivieren, indem Sie ein Häkchen bei &lt;l0/&gt; in den Einstellungen &lt;l1/&gt; setzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can enter your translation right away.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132705Z" creationid="Ragnar-F" creationdate="20221119T132705Z">
+        <seg>Sie können Ihre Übersetzung sofort eingeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56175,6 +56423,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210205T134835Z" creationid="Ragnar-F" creationdate="20210205T134835Z">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://duckduckgo.com/?q=%22{target}%22+site%3A.fr+-linguee</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T131905Z" creationid="Ragnar-F" creationdate="20221119T131905Z">
+        <seg>https://duckduckgo.com/?q=%22{target}%22+site%3A.fr+-linguee</seg>
       </tuv>
     </tu>
     <tu>
