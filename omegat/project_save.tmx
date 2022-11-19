@@ -5876,6 +5876,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Absolutely none of your data (history, etc.) is &lt;e0&gt;ever&lt;/e0&gt; sent to an external server by OmegaT for processing.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T113947Z" creationid="Ragnar-F" creationdate="20221119T113947Z">
+        <seg>OmegaT sendet &lt;e0&gt;keinerlei&lt;/e0&gt; Daten (Verlauf usw.) an einen externen Server zur Weiterverarbeitung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T131046Z" creationid="Michael Motzkus" creationdate="20190129T070253Z">
@@ -6748,10 +6756,26 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All prediction/completion results are computed locally.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T114024Z" creationid="Ragnar-F" creationdate="20221119T114024Z">
+        <seg>Alle Ergebnisse der Vorhersage/Vervollständigung werden lokal ermittelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T114727Z" creationid="Ragnar-F" creationdate="20210113T114450Z">
         <seg>Alle mit diesem Master-Passwort geschützten Einstellungen werden zurückgesetzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in order.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T105709Z" creationid="Ragnar-F" creationdate="20221119T105709Z">
+        <seg>Alle Segmentierungsregelsätze für ein übereinstimmendes Sprachmuster sind aktiv und werden der Reihe nach angewandt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7160,6 +7184,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T095328Z" creationid="Ragnar-F" creationdate="20221117T095328Z">
         <seg>Ein OmegaT-Übersetzungsprojekt besteht aus einer Reihe von Ressourcen, die in separaten Ordnern aufbewahrt werden, aus einer &lt;l0/&gt;-Datei, die den Speicherort aller Ressourcen enthält, und aus einer &lt;l1/&gt;-Translation-Memory-Datei, die alle Übersetzungen enthält, die während der Arbeit an diesem Projekt angefertigt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An empty line will appear at the bottom of the table.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110243Z" creationid="Ragnar-F" creationdate="20221119T110243Z">
+        <seg>Am unteren Ende der Tabelle erscheint eine leere Zeile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8602,6 +8634,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Breaks</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T111653Z" creationid="Ragnar-F" creationdate="20221119T111653Z">
+        <seg>Umbrüche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Briac Pilpré</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130501T142129Z">
@@ -9258,6 +9298,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cascading priorities</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T105809Z" creationid="Ragnar-F" creationdate="20221119T105809Z">
+        <seg>Kaskadierende Prioritäten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Case</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141551Z" creationid="Ragnar-F" creationdate="20221111T141551Z">
@@ -9310,6 +9358,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T180002Z" creationid="Ragnar-F" creationdate="20210110T180002Z">
         <seg>Ändern Sie das Standardintervall (3 Minuten) je nach Ausprägung des Projekts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the name of the rule set and the language pattern to the desired label and corresponding pattern.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110409Z" creationid="Ragnar-F" creationdate="20221119T110409Z">
+        <seg>Geben Sie für den Namen des Regelsatzes und das Sprachmuster die gewünschte Bezeichnung und das zugehörige Muster an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10186,6 +10242,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;g0&gt;Add&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110121Z" creationid="Ragnar-F" creationdate="20221119T110121Z">
+        <seg>Klicken Sie auf &lt;g0&gt;Hinzufügen&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T210702Z" creationid="Ragnar-F" creationdate="20210111T210702Z">
@@ -10234,6 +10298,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Autotext&lt;/g0&gt; to configure the Autotext options, and to add or remove entries.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T113547Z" creationid="Ragnar-F" creationdate="20221119T113547Z">
+        <seg>Klicken Sie auf &lt;g0&gt;Autotext&lt;/g0&gt;, um die Autotext-Optionen zu konfigurieren und um Einträge hinzuzufügen oder zu entfernen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;g0&gt;Character Table...&lt;/g0&gt; to set the Character table auto-completer options.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T111458Z" creationid="Michael Motzkus" creationdate="20180918T171652Z">
@@ -10242,9 +10314,33 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Character Table&lt;/g0&gt; to set the Character table auto-completer options.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T113615Z" creationid="Ragnar-F" creationdate="20221119T113615Z">
+        <seg>Klicken Sie auf &lt;g0&gt;Zeichentabelle&lt;/g0&gt;, um die Zeichentabelle des Auto-Vervollständigers zu konfigurieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Enable history completion&lt;/g0&gt; or &lt;g1&gt;Enable history prediction&lt;/g1&gt; to set history based completions.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T113818Z" creationid="Ragnar-F" creationdate="20221119T113758Z">
+        <seg>Klicken Sie auf &lt;g0&gt;Verlaufsvervollständigung aktivieren&lt;/g0&gt; oder &lt;g1&gt;Verlaufsvorhersage aktivieren&lt;/g1&gt;, um verlaufsbasierte Vervollständigungen zu konfigurieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T111201Z" creationid="Michael Motzkus" creationdate="20180918T171354Z">
+        <seg>Klicken Sie auf &lt;g0&gt;Glossar&lt;/g0&gt;, um die Glossaransicht des Auto-Vervollständigers zu konfigurieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Glossary&lt;/g0&gt; to configure the auto-completer glossary view.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T113516Z" creationid="Ragnar-F" creationdate="20221119T113516Z">
         <seg>Klicken Sie auf &lt;g0&gt;Glossar&lt;/g0&gt;, um die Glossaransicht des Auto-Vervollständigers zu konfigurieren.</seg>
       </tuv>
     </tu>
@@ -15547,6 +15643,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception rules should be listed &lt;e0&gt;above&lt;/e0&gt; break rules.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110612Z" creationid="Ragnar-F" creationdate="20221119T110612Z">
+        <seg>Die Ausnahmeregeln sollten &lt;e0&gt;über&lt;/e0&gt; den Umbruchregeln stehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="de" changeid="linux" changedate="20221109T185639Z">
@@ -15559,6 +15663,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T172523Z">
         <seg>Exception während des Parsens:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exceptions</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110910Z" creationid="Ragnar-F" creationdate="20221119T110910Z">
+        <seg>Ausnahmen</seg>
       </tuv>
     </tu>
     <tu>
@@ -16787,6 +16899,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a translation from Japanese, &lt;e0&gt;only&lt;/e0&gt; the rule set associated to the &lt;c1&gt;JA.*&lt;/c1&gt; pattern and the generic rule sets associated to the &lt;c2&gt;.*&lt;/c2&gt; will be taken into account.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T105601Z" creationid="Ragnar-F" creationdate="20221119T105601Z">
+        <seg>Bei einer Übersetzung aus dem Japanischen werden &lt;e0&gt;nur&lt;/e0&gt; der Regelsatz, der dem &lt;c1&gt;JA.*&lt;/c1&gt;-Muster zugeordnet ist, und die generischen Regelsätze, die dem &lt;c2&gt;.*&lt;/c2&gt;-Muster zugeordnet sind, berücksichtigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T101525Z" creationid="BVB" creationdate="20180826T191537Z">
@@ -16851,6 +16971,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;e0&gt;Mrs. Dalloway&lt;/e0&gt; should not be split in two segments even though a break rule for &lt;e1&gt;period followed by a space&lt;/e1&gt; generally defines a sentence.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T111647Z" creationid="Ragnar-F" creationdate="20221119T111647Z">
+        <seg>Zum Beispiel sollte &lt;e0&gt;Mrs. Dalloway&lt;/e0&gt; nicht in zwei Segmente aufgeteilt werden, auch wenn eine Umbruchregel für &lt;e1&gt;Punkt gefolgt von einem Leerzeichen&lt;/e1&gt; generell einen Satz definiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114531Z" creationid="Michael Motzkus" creationdate="20180919T072216Z">
@@ -16863,6 +16991,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T114921Z">
         <seg>Zum Beispiel wird &lt;e0&gt;a+?&lt;/e0&gt; das erste &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt; finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;e0&gt;period followed by a space&lt;/e0&gt; generally defines a sentence end in English.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T112341Z" creationid="Ragnar-F" creationdate="20221119T112341Z">
+        <seg>Zum Beispiel definiert &lt;e0&gt;Punkt gefolgt von einem Leerzeichen&lt;/e0&gt; generell ein Satzende in einigen Sprachen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19894,6 +20030,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T101422Z" creationid="Ragnar-F" creationdate="20221116T101422Z">
         <seg>Wenn diese Variante nicht verfügbar ist, folgt die Benutzeroberfläche der gleichen Priorität wie oben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, typing the first letter of a translated glossary entry, or &lt;l1&gt;&lt;&lt;/l1&gt; for a tag, automatically launches the auto-completer.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T120334Z" creationid="Ragnar-F" creationdate="20221119T120334Z">
+        <seg>Wenn die Option &lt;g0&gt;Relevante Vorschläge automatisch anzeigen&lt;/g0&gt; aktiviert ist, wird bei der Eingabe des ersten Buchstabens eines übersetzten Glossareintrags (oder &lt;l1&gt;&lt;&lt;/l1&gt; für ein Tag) automatisch der Autovervollständiger gestartet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30170,6 +30314,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the rules associated to language patterns that correspond to the source language of your project are applied.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T105157Z" creationid="Ragnar-F" creationdate="20221119T105157Z">
+        <seg>Es werden nur die Regeln angewandt, die den Sprachmustern zugeordnet sind, entsprechend der Quellsprache Ihres Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only this preference currently requires manual modification.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104123Z" creationid="Ragnar-F" creationdate="20221110T104123Z">
@@ -31556,6 +31708,14 @@ Sie es.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T204927Z">
         <seg>Platzieren Sie die Wörterbuchdateien, die Sie benutzen wollen, in diesen Ordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Places that do not have such markers and that match break rules will be break locations.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110905Z" creationid="Ragnar-F" creationdate="20221119T110905Z">
+        <seg>Stellen, die keine solchen Markierungen haben und mit den Umbruchregeln übereinstimmen, werden zu Umbruchstellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34799,6 +34959,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rules for Japanese</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T105429Z" creationid="Ragnar-F" creationdate="20221119T105429Z">
+        <seg>Regeln für Japanisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rules for specific language regions should be higher than default ones.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T105752Z" creationid="Ragnar-F" creationdate="20221119T105752Z">
+        <seg>Regeln für bestimmte Sprachregionen sollten höher sein als die Standardregeln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rules...</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T094910Z" creationid="Ragnar-F" creationdate="20210113T094910Z">
@@ -35748,6 +35924,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; in &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T105346Z" creationid="Ragnar-F" creationdate="20221119T105346Z">
+        <seg>Siehe &lt;l0/&gt; in &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0/&gt; in the &lt;l1/&gt; dialog.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T083641Z" creationid="Ragnar-F" creationdate="20221117T083641Z">
@@ -35992,6 +36176,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T121710Z">
         <seg>Weitere Referenzen und Beispiele finden Sie unten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See also &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T113453Z" creationid="Ragnar-F" creationdate="20221119T113453Z">
+        <seg>Siehe auch &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36990,8 +37182,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Separates the source text into segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130529T075917Z">
-        <seg>Trennt den Quelltext in Segmente.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T111905Z">
+        <seg>Teilt den Quelltext in Segmente auf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38450,6 +38642,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T222251Z">
         <seg>Tag-Handling-Verhalten bestimmen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify text combinations that are exceptions to a break rule.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T111326Z" creationid="Ragnar-F" creationdate="20221119T111326Z">
+        <seg>Geben Sie Textkombinationen an, die Ausnahmen von einer Umbruchregel darstellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40227,10 +40427,34 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e0&gt; After&lt;/e0&gt; patterns identifies the parts that are after the break or exception point.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T113304Z" creationid="Ragnar-F" creationdate="20221119T113041Z">
+        <seg>&lt;e0&gt;Muster danach&lt;/e0&gt; identifiziert Stellen, die nach der Umbruch- oder Ausnahmestelle stehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;--alignDir&lt;/e0&gt; parameter is used to specify the location of the data in the target language, which must be a folder containing the translated files.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110150Z" creationid="Ragnar-F" creationdate="20221116T110150Z">
         <seg>Der &lt;e0&gt;--alignDir&lt;/e0&gt;-Parameter wird verwendet, um den Speicherort der Daten in der Zielsprache anzugeben, also einen Ordner, der die übersetzten Dateien enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns are regular expressions.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T113242Z" creationid="Ragnar-F" creationdate="20221119T113242Z">
+        <seg>&lt;e0&gt;Muster davor&lt;/e0&gt; and&lt;e1&gt; Muster danach&lt;/e1&gt; sind reguläre Ausdrücke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;Before&lt;/e0&gt; pattern identifies the parts that are before the break or exception point.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T113250Z" creationid="Ragnar-F" creationdate="20221119T112928Z">
+        <seg>&lt;e0&gt;Muster davor&lt;/e0&gt; identifiziert Stellen, die vor der Umbruch- oder Ausnahmestelle stehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41775,6 +41999,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The existing rules always provide a good starting point.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T113403Z" creationid="Ragnar-F" creationdate="20221119T113403Z">
+        <seg>Die bereits existierenden Regeln sind immer ein guter Anhaltspunkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The export translation memory folder does not exist!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T152332Z" creationid="Ragnar-F" creationdate="20221109T152332Z">
@@ -42308,6 +42540,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T163347Z">
         <seg>Der Sprachcode muss die Form xx-YY, xxx-YY, xx_YY oder xx_YY haben,
 wobei xx oder xxx der Sprachcode und YY der Ländercode ist (optional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The language pattern is a regular expression.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110420Z" creationid="Ragnar-F" creationdate="20221119T110420Z">
+        <seg>Das Sprachmuster ist ein regulärer Ausdruck.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43278,6 +43518,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101331Z" creationid="Ragnar-F" creationdate="20221117T101331Z">
         <seg>Die Zuverlässigkeit von OmegaT macht es &lt;e0&gt;äußerst&lt;/e0&gt; unwahrscheinlich, dass Sie mehr als ein paar Minuten Arbeit verlieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rules for &lt;e0&gt;FR-CA&lt;/e0&gt; should be set higher than those for &lt;e1&gt;FR.*&lt;/e1&gt;, which should themselves be higher than the generic &lt;e2&gt;.*&lt;/e2&gt; set.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T105919Z" creationid="Ragnar-F" creationdate="20221119T105919Z">
+        <seg>Die Regeln für &lt;e0&gt;FR-CA&lt;/e0&gt; sollten höher sein als die für &lt;e1&gt;FR.*&lt;/e1&gt;, die wiederum höher sein sollten als der generische Regelsatz &lt;e2&gt;.*&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46526,6 +46774,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thus, when translating from Canadian French the rules for Canadian French—if any—will apply first, followed by the rules for French and lastly, by the generic rules.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110042Z" creationid="Ragnar-F" creationdate="20221119T110042Z">
+        <seg>Bei der Übersetzung aus dem kanadischen Französisch werden also zuerst die Regeln für das kanadische Französisch - falls vorhanden - angewendet, dann die Regeln für das Französisch und zuletzt die generischen Regeln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tick or untick the approrpiate boxes to change these settings.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T154352Z" creationid="Ragnar-F" creationdate="20221109T154123Z">
@@ -46798,6 +47054,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create a new rule set:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110053Z" creationid="Ragnar-F" creationdate="20221119T110053Z">
+        <seg>So erstellen Sie einen neuen Regelsatz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T150847Z" creationid="Michael Motzkus" creationdate="20180919T070156Z">
@@ -46830,6 +47094,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To define a break rule, check the &lt;g0&gt;Break/Exception&lt;/g0&gt; box.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T111851Z" creationid="Ragnar-F" creationdate="20221119T111851Z">
+        <seg>Um eine Regel als Umbruchregel zu definieren, setzen Sie ein Häkchen in das &lt;g0&gt;Umbruchregel?&lt;/g0&gt;-Kästchen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T095516Z">
@@ -46842,6 +47114,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T095529Z">
         <seg>Um eine Regel als Ausnahmeregel zu definieren, deaktivieren Sie das Kontrollkästchen "Umbruchregel?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define an exception rule, leave the &lt;g0&gt;Break/Exception &lt;/g0&gt;check box unchecked.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T111237Z" creationid="Ragnar-F" creationdate="20221119T111237Z">
+        <seg>Um eine Regel als Ausnahmeregel zu definieren, lassen Sie das &lt;g0&gt;Umbruchregel?&lt;/g0&gt;-Kästchen ungesetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49480,6 +49760,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Move Up&lt;/g0&gt; button to set the rule set priority.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110449Z" creationid="Ragnar-F" creationdate="20221119T110449Z">
+        <seg>Verwenden Sie die Schaltfläche &lt;g0&gt;Nach oben&lt;/g0&gt;, um die Priorität des Regelsatzes einzustellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;g1&gt;Configure&lt;/g1&gt; button to manage your authentication credentials for that provider.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T214547Z" creationid="Ragnar-F" creationdate="20221118T214547Z">
@@ -50542,6 +50830,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When OmegaT reads files, it puts a non-breaking marker at every exception location.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110738Z" creationid="Ragnar-F" creationdate="20221119T110738Z">
+        <seg>Wenn OmegaT Dateien liest, setzt es an jeder Ausnahmestelle eine Nicht-Umbruchs-Markierung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a glossary term is a compound word, the term will match even if the words appear separately in the source text.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220011Z" creationid="Ragnar-F" creationdate="20221118T220011Z">
@@ -50794,6 +51090,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T132830Z">
         <seg>Wenn Sie ein neues Projekt zum gleichen Thema oder für den gleichen Kunden beginnen, wählen Sie &lt;g0&gt;Projekt &gt; Eigenschaften&lt;/g0&gt; aus, um das Projekteigenschaften-Dialogfenster zu öffnen, und navigieren Sie dort unter "Ordner für Translation-Memory-Dateien" zum Repository-Ordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you click on a language pattern in the top half of the dialog, a list of associated rules will be displayed in the bottom half of the dialog.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T105625Z" creationid="Ragnar-F" creationdate="20221119T105625Z">
+        <seg>Wenn Sie in der oberen Hälfte des Dialogfensters auf ein Sprachmuster klicken, wird in der unteren Hälfte des Dialogfensters eine Liste der zugehörigen Regeln angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
