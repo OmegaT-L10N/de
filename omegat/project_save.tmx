@@ -1658,6 +1658,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Stop at untranslated segments and segments with alternative translations</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T141248Z" creationid="Ragnar-F" creationdate="20221119T141248Z">
+        <seg>Bei unübersetzten Se&amp;gmenten und Segmenten mit alternativen Übersetzungen stoppen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Store for this session only</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T091230Z" creationid="Michael Motzkus" creationdate="20190129T091230Z">
@@ -5088,6 +5096,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0&gt;2001&lt;/t0&gt; in the source:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135352Z" creationid="Ragnar-F" creationdate="20221119T135343Z">
+        <seg>&lt;t0&gt;2001&lt;/t0&gt; im Quelltext:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;2003&lt;/t0&gt; in the fuzzy match:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135414Z" creationid="Ragnar-F" creationdate="20221119T135359Z">
+        <seg>&lt;t0&gt;2003&lt;/t0&gt; im Fuzzy Match:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0&gt;Configuration&lt;/t0&gt; Folder
 Dossier de configuration
 &lt;50/50/66% &gt;</seg>
@@ -5624,6 +5648,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T122655Z" creationid="Ragnar-F" creationdate="20210324T122655Z">
         <seg>Ein drittes mögliches Format ist der ISO-Standard "TBX" (TermBase eXchange).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A translation that is identical to the source text is not recognized as a translation by default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135626Z" creationid="Ragnar-F" creationdate="20221119T135626Z">
+        <seg>Eine Übersetzung, die identisch mit dem Quelltext ist, wird standardmäßig nicht als Übersetzung erkannt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8029,6 +8061,14 @@ korrektem Verhalten kommen kann.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to convert fuzzy match numbers</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T134905Z" creationid="Ragnar-F" creationdate="20221119T134905Z">
+        <seg>Versuchen, Fuzzy-Match-Zahlen zu konvertieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143145Z">
@@ -9870,6 +9910,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T124650Z" creationid="Ragnar-F" creationdate="20210113T124650Z">
         <seg>Überprüfen Sie &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Strg&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Projekt&lt;/g5&gt; &lt;g6&gt;Eigenschaften&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T141702Z" creationid="Ragnar-F" creationdate="20221119T141702Z">
+        <seg>Probleme untersuchen beim Verlassen eines Segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -17835,6 +17883,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy match number conversion</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135335Z" creationid="Ragnar-F" creationdate="20221119T135335Z">
+        <seg>Fuzzy-Match-Zahlenkonvertierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy matching</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T140436Z" creationid="BVB" creationdate="20180826T183420Z">
@@ -22575,6 +22631,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T102148Z" creationid="BVB" creationdate="20180826T083235Z">
         <seg>Informationen über Verfahren und Funktionen von OmegaT für fortgeschrittene Benutzer, die auf anderen Seiten zu finden sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T143924Z" creationid="Ragnar-F" creationdate="20221119T142751Z">
+        <seg>Zu Beginn diese Anzahl von Segmenten laden</seg>
       </tuv>
     </tu>
     <tu>
@@ -28530,8 +28594,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Number of segments to initially load:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T185703Z" creationid="Ragnar-F" creationdate="20221109T185703Z">
-        <seg>Anzahl der initial zu ladenden Segmente:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T143505Z" creationid="Ragnar-F" creationdate="20221109T185703Z">
+        <seg>Zu Beginn diese Anzahl von Segmenten laden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29538,6 +29602,14 @@ höher auf Ihrem System installiert ist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT runs an issues check on the segment as you leave it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T141829Z" creationid="Ragnar-F" creationdate="20221119T141829Z">
+        <seg>OmegaT prüft beim Verlassen des Segments, ob Probleme vorliegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT runs on any platform that runs a Java Runtime Environment (Windows, macOS, and Linux being the most mainstream).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T104905Z" creationid="Ragnar-F" creationdate="20221112T104905Z">
@@ -29692,6 +29764,14 @@ your home folder.</seg>
         <seg>OmegaT hatte keine Zugriffsrechte auf Systemeigenschaften, die
 den Namen Ihres Betriebssystems und/oder Ihres Benutzerordners
 enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will erase it and will count the segment as not translated.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135754Z" creationid="Ragnar-F" creationdate="20221119T135754Z">
+        <seg>OmegaT löscht die Übersetzung und wertet das Segment als unübersetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30398,6 +30478,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T115719Z" creationid="BVB" creationdate="20180826T203005Z">
         <seg>Sollten diese vorteilhaft für die Benutzer von OmegaT sein, wird das Entwicklungsteam sie in OmegaT aufnehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only integers and simple floats (e.g., 5.4) are considered.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135235Z" creationid="Ragnar-F" creationdate="20221119T135235Z">
+        <seg>Es werden nur ganze Zahlen und einfache Gleitkommazahlen (z. B. 5,4) berücksichtigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35503,6 +35591,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save origin of translation</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T142500Z" creationid="Ragnar-F" creationdate="20221119T142500Z">
+        <seg>Herkunft der Übersetzung speichern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save the file after you have finished making your changes.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140703Z" creationid="Ragnar-F" creationdate="20221112T140703Z">
@@ -36188,6 +36284,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T140549Z" creationid="Ragnar-F" creationdate="20221119T140549Z">
+        <seg>Siehe &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T192451Z" creationid="Ragnar-F" creationdate="20210110T191014Z">
@@ -36728,6 +36832,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T104230Z" creationid="Ragnar-F" creationdate="20221117T104230Z">
         <seg>Segmente innerhalb eines Absatzes können weiter segmentiert oder "unsegmentiert" (zusammengeführt) bleiben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments that receive automated translation at that time can be marked in the &lt;g2&gt;Editor&lt;/g2&gt; pane with &lt;l3/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T142454Z" creationid="Ragnar-F" creationdate="20221119T142454Z">
+        <seg>Segmente, die zu diesem Zeitpunkt automatisch eine Übersetzung erhalten, können im &lt;g2&gt;Editor&lt;/g2&gt;-Fenster mithilfe der Option &lt;l3/&gt; hervorgehoben werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39310,6 +39422,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stop at untranslated and alternatives translations</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T141329Z" creationid="Ragnar-F" creationdate="20221119T141047Z">
+        <seg>Bei unübersetzten und alternativen Übersetzungen stoppen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Store for this session only</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T222535Z" creationid="Ragnar-F" creationdate="20210108T222535Z">
@@ -39994,6 +40114,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T114522Z" creationid="Ragnar-F" creationdate="20221115T114522Z">
         <seg>Tags in RTL-Segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags should generally not be modified, but that is possible when this option is enabled.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T141638Z" creationid="Ragnar-F" creationdate="20221119T141638Z">
+        <seg>Tags sollten in der Regel nicht geändert werden, aber wenn Sie diese Option aktivieren, ist das möglich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40847,6 +40975,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T105545Z" creationid="Ragnar-F" creationdate="20221117T105545Z">
         <seg>Im &lt;l0/&gt;-Bereich geben Sie Ihre Übersetzung ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; script does something similar but for the whole project at once.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T140543Z" creationid="Ragnar-F" creationdate="20221119T140543Z">
+        <seg>Das Skript &lt;l0/&gt; macht etwas Ähnliches, aber für das gesamte Projekt in einem Rutsch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42207,6 +42343,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The editor initially loads and displays 2,000 segments, and progressively loads more as you scroll up or down.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T144524Z" creationid="Ragnar-F" creationdate="20221119T143713Z">
+        <seg>Der Editor zeigt zu Beginn 2.000 Segmente an und lädt nach und nach mehr, wenn Sie hoch oder runter scrollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The encoding of an HTML document is generally declared within a &lt;meta&gt; element situated in the &lt;head&gt; element.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T144552Z" creationid="Ragnar-F" creationdate="20221110T144552Z">
@@ -42379,6 +42523,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130510T155425Z">
         <seg>Die Dateien sind unformatierte reine Textdateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files is are overwritten when OmegaT enters a new segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T140318Z" creationid="Ragnar-F" creationdate="20221119T140318Z">
+        <seg>Die Dateien werden überschrieben, wenn OmegaT ein neues Segment betritt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46204,6 +46356,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This function has no relation to the &lt;l0/&gt; function.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T140723Z" creationid="Ragnar-F" creationdate="20221119T140723Z">
+        <seg>Diese Funktion steht in keinem Zusammenhang mit der &lt;l0/&gt;-Funktion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This function is specific to team projects.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T140951Z" creationid="Ragnar-F" creationdate="20210111T140951Z">
@@ -48534,6 +48694,14 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories in &lt;l0/&gt; and &lt;l1/&gt; can auto-populate the project memory.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T142012Z" creationid="Ragnar-F" creationdate="20221119T142012Z">
+        <seg>Translation Memories in &lt;l0/&gt; und &lt;l1/&gt; können den Translation Memory des Projekts automatisch ausfüllen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T113636Z">
@@ -50344,6 +50512,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this option to force OmegaT to register such entries and count them as translated.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135921Z" creationid="Ragnar-F" creationdate="20221119T135921Z">
+        <seg>Verwenden Sie diese Option, um OmegaT zu zwingen, solche Übersetzungen zu registrieren und als übersetzt zu werten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this option to leave a non translated segment blank.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T145745Z" creationid="Ragnar-F" creationdate="20221110T145745Z">
@@ -51222,6 +51398,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When OmegaT enters a segment,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135954Z" creationid="Ragnar-F" creationdate="20221119T135954Z">
+        <seg>Wenn OmegaT ein Segment betritt,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When OmegaT inserts the source contents, with</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220257Z" creationid="Ragnar-F" creationdate="20221118T220257Z">
@@ -51234,6 +51418,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110738Z" creationid="Ragnar-F" creationdate="20221119T110738Z">
         <seg>Wenn OmegaT Dateien liest, setzt es an jeder Ausnahmestelle eine Nicht-Umbruchs-Markierung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a fuzzy match is inserted, OmegaT tries to adapt the numbers in the fuzzy match to the numbers in the source.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135155Z" creationid="Ragnar-F" creationdate="20221119T135155Z">
+        <seg>Wenn ein Fuzzy Match eingefügt wird, versucht OmegaT, die darin befindlichen Zahlen an die Zahlen im Quelltext anzupassen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51334,6 +51526,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When machine translation is enabled, OmegaT registers the name of the engine that was used to populate a given segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T142615Z" creationid="Ragnar-F" creationdate="20221119T142615Z">
+        <seg>Wenn maschinelle Übersetzung aktiviert ist, registriert OmegaT den Namen des Dienstes, der zum Ausfüllen eines bestimmten Segments verwendet wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T130124Z">
@@ -51370,6 +51570,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T140638Z" creationid="Ragnar-F" creationdate="20221116T140638Z">
         <seg>Wenn dies der Fall ist, müssen die Mitglieder die beste Übersetzung auswählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the match is inserted, OmegaT will convert &lt;t0&gt;2003&lt;/t0&gt; to &lt;t1&gt;2001&lt;/t1&gt;:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135454Z" creationid="Ragnar-F" creationdate="20221119T135454Z">
+        <seg>Wenn der Match eingefügt wird, wandelt OmegaT &lt;t0&gt;2003&lt;/t0&gt; in &lt;t1&gt;2001&lt;/t1&gt; um:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53875,6 +54083,32 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[[&lt;t0&gt;2001&lt;/t0&gt;]], elle acquiert la nationalité allemande.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135455Z" creationid="Ragnar-F" creationdate="20221119T135455Z">
+        <seg>[[&lt;t0&gt;2001&lt;/t0&gt;]], elle acquiert la nationalité allemande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[[&lt;t0&gt;2001&lt;/t0&gt;年]]、ドイツの永住権を取得。</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135354Z" creationid="Ragnar-F" creationdate="20221119T135354Z">
+        <seg>[[&lt;t0&gt;2001&lt;/t0&gt;年]]、ドイツの永住権を取得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[[&lt;t0&gt;2003&lt;/t0&gt;年]]、ドイツの永住権を取得。
+[[&lt;t1&gt;2003&lt;/t1&gt;]], elle acquiert la nationalité allemande.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135415Z" creationid="Ragnar-F" creationdate="20221119T135415Z">
+        <seg>[[&lt;t0&gt;2003&lt;/t0&gt;年]]、ドイツの永住権を取得。
+[[&lt;t1&gt;2003&lt;/t1&gt;]], elle acquiert la nationalité allemande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[\.,]\s*[\.,]+</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130528T132907Z">
@@ -54395,6 +54629,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>also stops at segments with alternative translations.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T141424Z" creationid="Ragnar-F" creationdate="20221119T141424Z">
+        <seg>stoppt auch bei Segmenten mit alternativen Übersetzungen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>alt BACK_SPACE</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T144554Z" creationid="Ragnar-F" creationdate="20221112T144554Z">
@@ -54695,6 +54937,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180827T070133Z" creationid="BVB" creationdate="20180827T070133Z">
         <seg>bitext2tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>both located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T140305Z" creationid="Ragnar-F" creationdate="20221119T140305Z">
+        <seg>die sich beide im &lt;l0/&gt;-Ordner befinden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59020,6 +59270,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T160023Z" creationid="Ragnar-F" creationdate="20210110T194729Z">
         <seg>enthalten die TMX-Dateien im Hauptprojektordner (siehe oben) nun die Übersetzungen in dem ausgewählten Sprachenpaar, und zwar für die Dateien, die Sie in den Quellordner kopiert haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the content of the source part is copied to &lt;l0/&gt;,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T140214Z" creationid="Ragnar-F" creationdate="20221119T140157Z">
+        <seg>wird der Inhalt des Quelltextes nach &lt;l0/&gt; kopiert,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the content of the target part (if any) is copied to &lt;l0/&gt;,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T140206Z" creationid="Ragnar-F" creationdate="20221119T140206Z">
+        <seg>wird der Inhalt des Zieltextes (falls vorhanden) nach &lt;l0/&gt; kopiert,</seg>
       </tuv>
     </tu>
     <tu>
