@@ -6456,6 +6456,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213703Z" creationid="Ragnar-F" creationdate="20221120T213703Z">
+        <seg>Zum Wörterbuch hinzufügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added items are automatically recognized and displayed if they match terms in the current segment.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130147Z" creationid="Ragnar-F" creationdate="20221114T130147Z">
@@ -7100,6 +7108,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T144405Z" creationid="Ragnar-F" creationdate="20221110T144405Z">
         <seg>Alle Tags, die mit &lt;c0&gt;translate="no"&lt;/c0&gt; gekennzeichnet sind, werden ignoriert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the words contained in that list will be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211922Z" creationid="Ragnar-F" creationdate="20221120T211922Z">
+        <seg>Alle Wörter in dieser Liste werden von OmegaT ignoriert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8133,6 +8149,14 @@ korrektem Verhalten kommen kann.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140251Z" creationid="Ragnar-F" creationdate="20221112T140251Z">
         <seg>Wie in der &lt;l0&gt;Bearbeiten-Menü-Tabelle&lt;/l0&gt; unten gezeigt, lautet der Funktionscode für die Funktion &lt;g1&gt;Alternative Übersetzung erstellen&lt;/g1&gt; &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As soon as you have saved your modifications, they will be taken into account by OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212354Z" creationid="Ragnar-F" creationdate="20221120T212354Z">
+        <seg>Sobald Sie Ihre Änderungen speichern, werden sie von OmegaT übernommen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13627,6 +13651,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary terms that match parts of the segment are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211037Z" creationid="Ragnar-F" creationdate="20221120T211037Z">
+        <seg>Wörterbuchbegriffe, die mit Teilen des Segments übereinstimmen, werden im &lt;l0/&gt;-Bereich angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary/Use Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T143700Z" creationid="Ragnar-F" creationdate="20221112T143700Z">
@@ -16011,6 +16043,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T122555Z" creationid="Ragnar-F" creationdate="20221115T122555Z">
         <seg>Jedes Mal, wenn &lt;f0&gt;project_save.tmx&lt;/f0&gt; geändert wurde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time a project is loaded, OmegaT creates a backup of &lt;f0&gt;project_save.tmx&lt;/f0&gt; with the name &lt;f1&gt;project_save.tmx.[time stamp].bak&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213008Z" creationid="Ragnar-F" creationdate="20221120T213008Z">
+        <seg>Jedes Mal, wenn ein Projekt geladen wird, erstellt OmegaT eine Sicherungskopie von &lt;f0&gt;project_save.tmx&lt;/f0&gt; mit dem Namen &lt;f1&gt;project_save.tmx.[Zeitstempel].bak&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18791,6 +18831,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary terms that match parts of the segment are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212046Z" creationid="Ragnar-F" creationdate="20221120T212046Z">
+        <seg>Glossarbegriffe, die mit Teilen des Segments übereinstimmen, werden im &lt;l0/&gt;-Bereich angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary translation</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T083822Z" creationid="Ragnar-F" creationdate="20210113T083441Z">
@@ -21246,6 +21294,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you already have a collection of words you want the spellchecker to ignore or accept, simply save them in text files with the corresponding names, and copy the files to the &lt;l0/&gt; folder of your current project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213809Z" creationid="Ragnar-F" creationdate="20221120T213809Z">
+        <seg>Wenn Sie bereits eine Sammlung von Wörtern haben, die die Rechtschreibprüfung ignorieren oder akzeptieren soll, speichern Sie diese einfach in Textdateien mit den entsprechenden Namen und kopieren Sie die Dateien in den &lt;l0/&gt;-Ordner Ihres aktuellen Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T133923Z">
@@ -21996,6 +22052,14 @@ folgt starten können:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to remove words from potential dictionary matches, add an &lt;f0&gt;ignore.txt&lt;/f0&gt; encoded in UTF-8 to the folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211848Z" creationid="Ragnar-F" creationdate="20221120T211848Z">
+        <seg>Wenn Sie Wörter als potenzielle Treffer ausschließen möchten, fügen Sie eine in UTF-8 kodierte &lt;f0&gt;ignore.txt&lt;/f0&gt;-Datei in den Ordner ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T182415Z" creationid="Ragnar-F" creationdate="20210109T182004Z">
@@ -22650,6 +22714,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T142057Z" creationid="Ragnar-F" creationdate="20221115T142057Z">
         <seg>In manchen Fällen kann die Datei aufgrund fehlender Tags nicht geöffnet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some operating systems, this folder is hidden by default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T214832Z" creationid="Ragnar-F" creationdate="20221120T214832Z">
+        <seg>In einigen Betriebssystemen wird dieser Ordner standardmäßig versteckt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23985,6 +24057,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It constitutes the working translation memory of the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212639Z" creationid="Ragnar-F" creationdate="20221120T212639Z">
+        <seg>Sie repräsentiert den aktiven Translation Memory des Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T133745Z">
@@ -24061,6 +24141,14 @@ Bedienungsanleitung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T113842Z">
         <seg>Es hat somit Zugriff auf eine große Auswahl an kostenlosen Rechtschreibwörterbüchern, welche für die zuvor genannten Anwendungen zur Verfügung stehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is created the first time you use &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212134Z" creationid="Ragnar-F" creationdate="20221120T212134Z">
+        <seg>Es wird erstellt, wenn Sie &lt;l0/&gt; zum ersten Mal verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24209,6 +24297,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is updated each time the project is reloaded.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213041Z" creationid="Ragnar-F" creationdate="20221120T213041Z">
+        <seg>Sie wird jedes Mal aktualisiert, wenn das Projekt neu geladen wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is used for testing purposes.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T133555Z" creationid="Ragnar-F" creationdate="20221114T133555Z">
@@ -24225,10 +24321,26 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is used to store the default writable glossary and any other glossaries you use in the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212030Z" creationid="Ragnar-F" creationdate="20221120T212030Z">
+        <seg>Er wird verwendet, um das beschreibbare Glossar und alle anderen Glossare, die Sie im Projekt verwenden, darin aufzubewahren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T123518Z" creationid="BVB" creationdate="20180826T204625Z">
         <seg>Es können auch Entwicklungen, die bei externen Entwicklern in Auftrag gegeben wurden, in OmegaT implementiert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It may also include several other files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212435Z" creationid="Ragnar-F" creationdate="20221120T212435Z">
+        <seg>Er kann auch mehrere andere Dateien enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30236,6 +30348,14 @@ Klicken Sie auf OK, um das Programm zu beenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT regularly backs-up that file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212654Z" creationid="Ragnar-F" creationdate="20221120T212654Z">
+        <seg>OmegaT erstellt regelmäßig Sicherungskopien von dieser Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT remembers your segment navigation history.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175826Z" creationid="Ragnar-F" creationdate="20221117T175826Z">
@@ -30274,6 +30394,14 @@ höher auf Ihrem System installiert ist.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T091332Z" creationid="Ragnar-F" creationdate="20221111T091332Z">
         <seg>Die Suche in OmegaT bietet die Option &lt;l0/&gt;, mit der Sie Ihre Dateien mit hoher Effizienz durchsuchen können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT supports dictionaries in the StarDict or in the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211112Z" creationid="Ragnar-F" creationdate="20221120T211112Z">
+        <seg>OmegaT unterstützt Wörterbücher im StarDict- oder Lingvo-DSL-Format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31840,8 +31968,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Opens the folder in your file management application</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T184126Z" creationid="Ragnar-F" creationdate="20221117T184126Z">
-        <seg>Öffnet den Ordner in Ihrer Dateiverwaltungsapplikation</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T210756Z" creationid="Ragnar-F" creationdate="20221117T184126Z">
+        <seg>Öffnet den Ordner in Ihrem Dateimanager</seg>
       </tuv>
     </tu>
     <tu>
@@ -37064,6 +37192,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l3/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212911Z" creationid="Ragnar-F" creationdate="20221120T212911Z">
+        <seg>Einzelheiten finden Sie unter &lt;l3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T192431Z" creationid="Ragnar-F" creationdate="20210110T192431Z">
@@ -37076,6 +37212,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T123110Z" creationid="Ragnar-F" creationdate="20221119T123110Z">
         <seg>Einzelheiten finden Sie unter &lt;l3&gt;Rechtschreibprüfungsdateien&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l4/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213735Z" creationid="Ragnar-F" creationdate="20221120T213735Z">
+        <seg>Einzelheiten finden Sie unter &lt;l4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41711,6 +41855,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;omegat&lt;/f0&gt; folder contains, at a minimum, the &lt;l1/&gt; and &lt;l2/&gt; files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212425Z" creationid="Ragnar-F" creationdate="20221120T212425Z">
+        <seg>Der &lt;f0&gt;omegat&lt;/f0&gt;-Ordner enthält mindestens die Dateien &lt;l1/&gt; und &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;plugins&lt;/f0&gt; and &lt;f1&gt;scripts&lt;/f1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141926Z" creationid="Ragnar-F" creationdate="20221114T141926Z">
@@ -43431,6 +43583,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T113130Z" creationid="Ragnar-F" creationdate="20210324T113036Z">
         <seg>Die angegebene Datei muss nicht unbedingt vorhanden sein - sie wird automatisch erstellt, sobald der erste Glossareintrag hinzugefügt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file must have one word per line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211856Z" creationid="Ragnar-F" creationdate="20221120T211856Z">
+        <seg>Die Datei muss ein Wort pro Zeile enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46318,6 +46478,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There should be three files per dictionary, with extensions &lt;f0&gt;dz&lt;/f0&gt;, &lt;f1&gt;idx&lt;/f1&gt; and &lt;f2&gt;ifo&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211501Z" creationid="Ragnar-F" creationdate="20221120T211501Z">
+        <seg>Pro Wörterbuch sollten drei Dateien mit den Endungen &lt;f0&gt;dz&lt;/f0&gt;, &lt;f1&gt;idx&lt;/f1&gt; und &lt;f2&gt;ifo&lt;/f2&gt; vorhanden sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T093316Z">
@@ -46381,6 +46549,14 @@ werden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T151206Z" creationid="Ragnar-F" creationdate="20221111T151206Z">
         <seg>Diese Klassen repräsentieren niemals nur den eigentlichen Buchstaben, mit dem die Kurzform gebildet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These files are created and used by the spellchecker.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213235Z" creationid="Ragnar-F" creationdate="20221120T213235Z">
+        <seg>Diese Dateien werden von der Rechtschreibprüfung erstellt und verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47280,10 +47456,66 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the latest project match statistics by file, which are generated by the &lt;l0/&gt; command in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213221Z" creationid="Ragnar-F" creationdate="20221120T213221Z">
+        <seg>Diese Datei enthält die neuesten Match-Statistiken des Projekts pro Datei, die mit dem Befehl &lt;l0/&gt; im Menü &lt;l1/&gt; erstellt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the latest project match statistics, which are generated by the &lt;l0/&gt; command in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213156Z" creationid="Ragnar-F" creationdate="20221120T213156Z">
+        <seg>Diese Datei enthält die neuesten Match-Statistiken des Projekts, die mit dem Befehl &lt;l0/&gt; im Menü &lt;l1/&gt; erstellt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the login information for your team project repositories.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110447Z" creationid="Ragnar-F" creationdate="20221110T110447Z">
         <seg>Diese Datei enthält die Zugangsdaten für Ihre Teamprojekt-Repositories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project parameters defined in the &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T214657Z" creationid="Ragnar-F" creationdate="20221120T214657Z">
+        <seg>Diese Datei enthält alle Projektparameter, die in der &lt;l0/&gt;-Datei definiert sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213838Z" creationid="Ragnar-F" creationdate="20221120T213838Z">
+        <seg>Diese Datei enthält die projektspezifischen GUI-Einstellungen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific external searches.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213854Z" creationid="Ragnar-F" creationdate="20221120T213854Z">
+        <seg>Diese Datei enthält die projektspezifischen externen Suchvorgänge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213830Z" creationid="Ragnar-F" creationdate="20221120T213830Z">
+        <seg>Diese Datei enthält die projektspezifischen Dateifilter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213819Z" creationid="Ragnar-F" creationdate="20221120T213819Z">
+        <seg>Diese Datei enthält die projektspezifischen Segmentierungsregeln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47324,6 +47556,30 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130206Z" creationid="Ragnar-F" creationdate="20221114T130206Z">
         <seg>Diese Datei befindet sich &lt;e0&gt;immer&lt;/e0&gt; im Ordner &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file is a backup of &lt;f0&gt;project_save.tmx&lt;/f0&gt; and is automatically recreated everytime &lt;f1&gt;project_save.tmx&lt;/f1&gt; has been modified: either after using &lt;l2/&gt;, or as a regular backup every 3 minutes by default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212856Z" creationid="Ragnar-F" creationdate="20221120T212856Z">
+        <seg>Diese Datei ist eine Sicherungskopie von &lt;f0&gt;project_save.tmx&lt;/f0&gt; und wird jedes Mal automatisch neu erstellt, wenn &lt;f1&gt;project_save.tmx&lt;/f1&gt; geändert wurde: entweder nach der Nutzung von &lt;l2/&gt; oder als regelmäßiges Backup standardmäßig alle 3 Minuten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file is created if you manually change the order of the files in the &lt;l0/&gt; window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213916Z" creationid="Ragnar-F" creationdate="20221120T213916Z">
+        <seg>Diese Datei wird erstellt, wenn Sie die Reihenfolge der Dateien im &lt;l0/&gt;-Fenster manuell ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file keeps a record of the last segment you visited, including its number, its source contents, the file name and the date, so that you can come back to it when you reload/relaunch the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T214555Z" creationid="Ragnar-F" creationdate="20221120T214555Z">
+        <seg>Diese Datei protokolliert das zuletzt besuchte Segment, darunter auch dessen Nummer, dessen Quelltext, den Dateinamen und das Datum, damit Sie Ihre Übersetzung nach dem Neuladen/Neustarten des Projekts dort fortsetzen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47400,10 +47656,18 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder is initially empty, and is used to store any dictionaries you add to the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211007Z" creationid="Ragnar-F" creationdate="20221120T211007Z">
+        <seg>Dieser Ordner ist anfangs leer und wird verwendet, um alle Wörterbücher aufzubewahren, die Sie dem Projekt hinzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
-      <tuv lang="de" changeid="hasan" changedate="20130513T092005Z">
-        <seg>Dieser Ordner ist anfänglich leer.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211927Z">
+        <seg>Dieser Ordner ist anfangs leer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47624,6 +47888,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the most important file in the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212447Z" creationid="Ragnar-F" creationdate="20221120T212447Z">
+        <seg>Die wichtigste Datei des Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the project folder that always contains &lt;l0/&gt;, the project translation memory, and &lt;l1/&gt;, the statistics data file for the project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221120T191150Z" creationid="Ragnar-F" creationdate="20221120T191150Z">
@@ -47632,10 +47904,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the project writable glossary.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212109Z" creationid="Ragnar-F" creationdate="20221120T212109Z">
+        <seg>Das ist das projekteigene beschreibbare Glossar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the standard behavior.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130525T080651Z">
         <seg>Das ist das Standardverhalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the statistics file for the whole project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213028Z" creationid="Ragnar-F" creationdate="20221120T213028Z">
+        <seg>Die Statistikdatei für das gesamte Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48946,6 +49234,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To installdictionaries:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211214Z" creationid="Ragnar-F" creationdate="20221120T211214Z">
+        <seg>So installieren Sie Wörterbücher:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To keep the Source Files list window to automatically open when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104033Z" creationid="Ragnar-F" creationdate="20221110T104033Z">
@@ -50034,6 +50330,14 @@ Skript mit ./linux-install.sh aus.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T124125Z" creationid="Ragnar-F" creationdate="20221111T124125Z">
         <seg>Der Versuch, eine runde Klammer ohne ihr Gegenstück zu benutzen, löst einen Fehler aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn on the option to show hidden files in your system to make it visible.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T215121Z" creationid="Ragnar-F" creationdate="20221120T215121Z">
+        <seg>Aktivieren Sie die Option zum Einblenden versteckter Dateien in Ihrem System, um ihn sichtbar zu machen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52950,6 +53254,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create a new profject, the file is empty and is gradually filled with the translations of the text in files located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212531Z" creationid="Ragnar-F" creationdate="20221120T212531Z">
+        <seg>Wenn Sie ein neues Projekt erstellen, ist die Datei leer und wird nach und nach mit den Übersetzungen des Textes aus den Dateien im &lt;l0/&gt;-Ordner gefüllt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T090434Z" creationid="Ragnar-F" creationdate="20210111T090434Z">
@@ -53905,6 +54217,14 @@ Kaptain-Startskript wie folgt starten:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can access it with &lt;l0/&gt;, open it in a text editor, modify it with a text editor.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212323Z" creationid="Ragnar-F" creationdate="20221120T212323Z">
+        <seg>Sie können es mit &lt;l0/&gt; aufrufen, in einem Texteditor öffnen und mit einem Texteditor ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can access the global rules with &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T103752Z" creationid="Ragnar-F" creationdate="20221114T103752Z">
@@ -53981,6 +54301,14 @@ Kaptain-Startskript wie folgt starten:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221120T193605Z" creationid="Ragnar-F" creationdate="20221120T193605Z">
         <seg>Sie können mit Ihrem Dateimanager Ordner hinzufügen oder Dateien entfernen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add terms in the &lt;l0/&gt; pane by right-clicking on a word marked as incorrect and selecting &lt;g1&gt;Ignore All&lt;/g1&gt; (for words to skip during spellchecking), or &lt;g2&gt;Add to Dictionary&lt;/g2&gt; (for words to accept as correct), respectively, from the &lt;l3/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213723Z" creationid="Ragnar-F" creationdate="20221120T213651Z">
+        <seg>Sie können Begriffe im &lt;l0/&gt;-Bereich hinzufügen, indem Sie per Rechtsklick auf ein Wort klicken, das als Fehler markiert ist, und &lt;g1&gt;Alle ignorieren&lt;/g1&gt; (für Wörter, die bei der Rechtschreibprüfung übersprungen werden sollen) oder &lt;g2&gt;Zum Wörterbuch hinzufügen&lt;/g2&gt; (für Wörter, die als korrekt akzeptiert werden sollen) im &lt;l3/&gt; auswählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54226,6 +54554,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T075127Z" creationid="Ragnar-F" creationdate="20210112T075127Z">
         <seg>Sie können die ausgewählten Makros auch über das Hauptmenü starten, indem Sie deren Menüpunkte im &lt;g0&gt;Tools&lt;/g0&gt;-Menü verwenden oder &lt;k1&gt;Strg+Alt+F#&lt;/k1&gt; drücken (# ist eine Zahl von 1 bis 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also update it with the &lt;l0/&gt; command in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213111Z" creationid="Ragnar-F" creationdate="20221120T213111Z">
+        <seg>Sie können sie auch mit dem Befehl &lt;l0/&gt; im Menü &lt;l1/&gt; aktualisieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54600,6 +54936,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can find some dictionaries on the &lt;u0&gt;OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211126Z" creationid="Ragnar-F" creationdate="20221120T211126Z">
+        <seg>Einige Wörterbücher finden Sie im &lt;u0&gt;OmegaT-Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can find the text of the license in
 /docs/OmegaT-license.txt.</seg>
       </tuv>
@@ -54712,6 +55056,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T202012Z" creationid="Ragnar-F" creationdate="20210111T202012Z">
         <seg>Sie können mit diesem Ordner und einem Git- oder SVN-Programm Änderungen an Remote-Dateien vornehmen (z. B. eine Datei löschen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can make changes to the remote files (such as deleting or replacing them) by making your changes in this folder and using a Git or SVN client to synchronize them with the remote server.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T214811Z" creationid="Ragnar-F" creationdate="20221120T214811Z">
+        <seg>Sie können Änderungen an den Remote-Dateien vornehmen (z. B. löschen oder ersetzen), indem Sie Ihre Änderungen in diesem Ordner vornehmen und sie per Git- oder SVN-Client mit dem Remote-Server synchronisieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57085,6 +57437,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;),</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211309Z" creationid="Ragnar-F" creationdate="20221120T211309Z">
+        <seg>Laden Sie die Datei herunter - es müsste ein tarball-Archiv sein (mit der Endung &lt;f0&gt;tar.bz&lt;/f0&gt; oder &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>e-lexica</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T060136Z" creationid="BVB" creationdate="20180829T060136Z">
@@ -57541,6 +57901,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>exported tms folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T210933Z" creationid="Ragnar-F" creationdate="20221120T210933Z">
+        <seg>exported tms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210120T094315Z" creationid="karsten" creationdate="20150919T161600Z">
@@ -57557,6 +57925,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>extract its contents into this folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T211343Z" creationid="Ragnar-F" creationdate="20221120T211343Z">
+        <seg>Entpacken Sie sie in diesen Ordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>file names</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T123439Z" creationid="karsten" creationdate="20150919T123439Z">
@@ -57569,6 +57945,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130503T162235Z">
         <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>files_order.txt</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213857Z" creationid="Ragnar-F" creationdate="20221120T213857Z">
+        <seg>files_order.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -58573,6 +58957,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ignored_words.txt</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213222Z" creationid="Ragnar-F" creationdate="20221120T213222Z">
+        <seg>ignored_words.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ignored_words.txt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T135057Z">
@@ -58868,6 +59260,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130625T115657Z">
         <seg>lan&amp;g (Sprachattribut)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>last_entry.properties</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213916Z" creationid="Ragnar-F" creationdate="20221120T213916Z">
+        <seg>last_entry.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -60224,10 +60624,50 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>project_save.tmx</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212435Z" creationid="Ragnar-F" creationdate="20221120T212435Z">
+        <seg>project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_save.tmx.bak</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212655Z" creationid="Ragnar-F" creationdate="20221120T212655Z">
+        <seg>project_save.tmx.bak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_save.tmx.timestamp.bak</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212931Z" creationid="Ragnar-F" creationdate="20221120T212912Z">
+        <seg>project_save.tmx.Zeitstempel.bak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_stats.txt</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213009Z" creationid="Ragnar-F" creationdate="20221120T213009Z">
+        <seg>project_stats.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>project_stats_match.txt</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130513T093837Z">
         <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>project_stats_match_per_file.txt</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213157Z" creationid="Ragnar-F" creationdate="20221120T213157Z">
+        <seg>project_stats_match_per_file.txt</seg>
       </tuv>
     </tu>
     <tu>
