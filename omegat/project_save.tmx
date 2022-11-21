@@ -2326,6 +2326,54 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T231131Z" creationid="Ragnar-F" creationdate="20221121T231001Z">
+        <seg>- Anthony Baldwin (Lokalisierungsmanager)
+- Vincent Bidaux (Dokumentationsmanager)
+- Didier Briel (Projektmanager)
+- Alex Buloichik (Hauptentwickler)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (Projektmanager)
+- Maxym Mykhalchuk (Hauptentwickler)
+- Samuel Murray
+- Henry Pijffers (Release-Manager)
+- Marc Prior (Projektkoordinator, Webmaster)
+- Vito Smolej (Dokumentationsmanager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T230954Z" creationid="Ragnar-F" creationdate="20221121T230846Z">
+        <seg>- Marco Cevoli (Telegram Community Manager)
+- Jean-Christophe Helary (Twitter Community Manager)
+- Kos Ivantsov (Lokalisierungsmanager)
+- Concepción Martin (Facebook Community Manager)
+- Briac Pilpré (Webmaster)
+- Lucie Vecerova (Facebook Community Manager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Vincent Bidaux (documentation manager)
 - Marco Cevoli (Telegram community manager)
 - Jean-Christophe Helary (Twitter community manager)
@@ -2362,11 +2410,43 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T231436Z" creationid="Ragnar-F" creationdate="20221121T231436Z">
+        <seg>- Dateien per Drag-and-Drop in diesen Bereich ziehen;
+	- "Projekt &gt; Dateien hinzufügen..." nutzen;
+	- "Projekt &gt; Quelldateien..." nutzen und auf "Dateien hinzufügen..." klicken;
+	- via Dateimanager Dateien in den Ordner 'source' kopieren und
+	  mit "Projekt &gt; Neu laden" das Projekt neu laden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- use Options &gt; File Filters... to verify that their format is supported by OmegaT,
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T125126Z" creationid="Ragnar-F" creationdate="20221109T125126Z">
         <seg>- mit "Optionen &gt; Dateifilter..." überprüfen, ob ihr Format von OmegaT unterstützt wird,
+	- oder die Dateien mit der originalen Anwendung öffnen und überprüfen, ob sie leer sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T231913Z" creationid="Ragnar-F" creationdate="20221121T231509Z">
+        <seg>- überprüfen, ob ihr Format von OmegaT unterstützt wird:
+	  Wenn projekteigene Filtereinstellungen aktiviert sind,
+	  nutzen Sie Projekt &gt; Eigenschaften... &gt; Lokale Dateifilter...,
+	  andernfalls nutzen Sie Optionen &gt; Globale Dateifilter...;
 	- oder die Dateien mit der originalen Anwendung öffnen und überprüfen, ob sie leer sind.</seg>
       </tuv>
     </tu>
@@ -2505,6 +2585,17 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T231244Z" creationid="Ragnar-F" creationdate="20221121T231244Z">
+        <seg>--config-dir=&lt;Pfad&gt;
+	  Der Ordner, welcher zum Lesen oder Schreiben von
+	  OmegaT-Konfigurationsdateien verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T103358Z" creationid="Ragnar-F" creationdate="20221116T103354Z">
@@ -2568,6 +2659,17 @@ java.exe.</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T104106Z" creationid="Ragnar-F" creationdate="20221109T104106Z">
         <seg>--disable-location-save
 	  Das zuletzt in der Dateiauswahl geöffnete Verzeichnis wird
+	  nicht gespeichert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T231219Z" creationid="Ragnar-F" creationdate="20221121T231219Z">
+        <seg>--disable-location-save
+	  Der zuletzt in der Dateiauswahl geöffnete Ordner wird
 	  nicht gespeichert.</seg>
       </tuv>
     </tu>
@@ -2928,6 +3030,17 @@ java.exe.</seg>
 	  A Java .properties file to use for the interface text</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T105352Z" creationid="Ragnar-F" creationdate="20221109T104743Z">
+        <seg>--resource-bundle=&lt;path&gt;
+	   Eine Java-.properties-Datei, die für die Texte der
+	   Benutzeroberfläche verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T231253Z" creationid="Ragnar-F" creationdate="20221121T231253Z">
         <seg>--resource-bundle=&lt;path&gt;
 	   Eine Java-.properties-Datei, die für die Texte der
 	   Benutzeroberfläche verwendet wird.</seg>
@@ -30001,6 +30114,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T231146Z" creationid="Ragnar-F" creationdate="20221121T231146Z">
+        <seg>Keine Option: GUI starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No predefined credentials passed.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T221157Z" creationid="Ragnar-F" creationdate="20221109T221157Z">
@@ -35575,6 +35696,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T103224Z" creationid="Ragnar-F" creationdate="20221109T103224Z">
         <seg>Nur Projektpfad: GUI starten und angegebenes Projekt laden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T231153Z" creationid="Ragnar-F" creationdate="20221121T231153Z">
+        <seg>Nur Projektpfad: GUI starten und angegebenes Projekt laden.</seg>
       </tuv>
     </tu>
     <tu>
