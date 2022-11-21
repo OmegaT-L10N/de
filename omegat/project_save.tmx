@@ -2597,6 +2597,18 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135034Z" creationid="Ragnar-F" creationdate="20221121T135025Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;Pfad&gt;
+	    Ein Ordner, der die übersetzten Dateien enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;e1&gt;&lt;path&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T105039Z" creationid="Ragnar-F" creationdate="20221116T105034Z">
@@ -2640,6 +2652,18 @@ java.exe.</seg>
 	    Schreibt in die angegebene Datei, oder in die Standardausgabe,
 	    wenn keine Datei angegeben ist oder die Option
 	    nicht verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135129Z" creationid="Ragnar-F" creationdate="20221121T135129Z">
+        <seg>--mode=console-stats
+	  Projektpfad
+	    Der Pfad zum Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2704,6 +2728,19 @@ java.exe.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110339Z" creationid="Ragnar-F" creationdate="20221116T110315Z">
         <seg>--output-file=[Stats-Ausgabedatei]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135114Z" creationid="Ragnar-F" creationdate="20221121T135114Z">
+        <seg>--output-file=[Stats-Ausgabedatei]
+	    Schreibt in die angegebene Datei, oder in die Standardausgabe,
+	    wenn keine Datei angegeben ist oder die Option
+	    nicht verwendet wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4266,6 +4303,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Character&lt;/g0&gt;: The basic unit used to determine the size of segments in languages that do not use a space to delimit words.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144244Z" creationid="Ragnar-F" creationdate="20221121T144244Z">
+        <seg>&lt;g0&gt;Zeichen&lt;/g0&gt;: Die Grundeinheit zum Bestimmen der Größe von Segmenten in Sprachen, die kein Leerzeichen zur Abgrenzung von Wörtern verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Cycle&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F3&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T142424Z" creationid="Ragnar-F" creationdate="20221117T142418Z">
@@ -4274,10 +4319,42 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Forward-Backward&lt;/g0&gt;: An alternative algorithm that can be used to align the documents.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143506Z" creationid="Ragnar-F" creationdate="20221121T143442Z">
+        <seg>&lt;g0&gt;Forward-Backward&lt;/g0&gt;: Ein alternativer Algorithmus zum Ausrichten der Dokumente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Go To Segment&lt;/g0&gt; (to jump to the segment under the pointer),</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T125920Z" creationid="Ragnar-F" creationdate="20221118T125920Z">
         <seg>&lt;g0&gt;Zum Segment springen&lt;/g0&gt; (das Segment unter dem Mauszeiger),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Heapwise&lt;/g0&gt;: This mode compares the documents globally.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142915Z" creationid="Ragnar-F" creationdate="20221121T142840Z">
+        <seg>&lt;g0&gt;Heapwise&lt;/g0&gt;: Mit diesem Modus werden die Dokumente global verglichen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;ID&lt;/g0&gt;: This mode applies to files consisting of &lt;l1&gt;key = value&lt;/l1&gt; entries.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143123Z" creationid="Ragnar-F" creationdate="20221121T143123Z">
+        <seg>&lt;g0&gt;ID&lt;/g0&gt;: Dieser Modus eignet sich für Dateien, die aus &lt;l1&gt;Schlüssel = Wert&lt;/l1&gt;-Einträgen bestehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Keep&lt;/g0&gt;: The segment pairs in rows that have this box checked are saved to the translation memory file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141944Z" creationid="Ragnar-F" creationdate="20221121T141944Z">
+        <seg>&lt;g0&gt;Behalten&lt;/g0&gt;: Die Segmentpaare einer Zeile, bei der ein Häkchen in diesem Kästchen gesetzt ist, werden in die Translation Memory-Datei gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4294,6 +4371,30 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185510Z" creationid="Ragnar-F" creationdate="20221117T185418Z">
         <seg>&lt;g0&gt;LanguageTool-Probleme&lt;/g0&gt; (optional): Erkennt grammatikalische oder typografische Probleme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Normal&lt;/g0&gt;: The default statistical distribution used to align the documents.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143910Z" creationid="Ragnar-F" creationdate="20221121T143910Z">
+        <seg>&lt;g0&gt;Normal&lt;/g0&gt;: Die statistische Standardverteilung zum Ausrichten der Dokumente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Parsewise&lt;/g0&gt;: This mode compares the documents segment by segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142952Z" creationid="Ragnar-F" creationdate="20221121T142934Z">
+        <seg>&lt;g0&gt;Parsewise&lt;/g0&gt;: Mit diesem Modus werden die Dokumente segmentweise verglichen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Poisson&lt;/g0&gt;: An alternative statistical distribution that can be used to align the documents.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143933Z" creationid="Ragnar-F" creationdate="20221121T143933Z">
+        <seg>&lt;g0&gt;Poisson&lt;/g0&gt;: Eine alternative statistische Verteilung zum Ausrichten der Dokumente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4370,6 +4471,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Source&lt;/g0&gt;: The segments from the original text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142017Z" creationid="Ragnar-F" creationdate="20221121T142017Z">
+        <seg>&lt;g0&gt;Quelle&lt;/g0&gt;: Die Segmente des Originaltextes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T120313Z" creationid="Ragnar-F" creationdate="20210111T143822Z">
@@ -4394,6 +4503,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Target&lt;/g0&gt;: The segments from the translated text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142025Z" creationid="Ragnar-F" creationdate="20221121T142025Z">
+        <seg>&lt;g0&gt;Ziel&lt;/g0&gt;: Die Segmente des übersetzten Textes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T144006Z" creationid="Ragnar-F" creationdate="20210111T143933Z">
@@ -4406,6 +4523,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185415Z" creationid="Ragnar-F" creationdate="20221117T185304Z">
         <seg>&lt;g0&gt;Terminologieprobleme&lt;/g0&gt; (optional): Erkennt alle Glossareinträge, die nicht richtig übersetzt sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Viterbi&lt;/g0&gt;: The default algorithms used to align the documents.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143352Z" creationid="Ragnar-F" creationdate="20221121T143253Z">
+        <seg>&lt;g0&gt;Viterbi&lt;/g0&gt;: Der Standardalgorithmus zum Ausrichten der Dokumente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Word&lt;/g0&gt;: The basic unit used to determine the size of segments in languages that use a space to delimit words.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144304Z" creationid="Ragnar-F" creationdate="20221121T144304Z">
+        <seg>&lt;g0&gt;Wort&lt;/g0&gt;: Die Grundeinheit zum Bestimmen der Größe von Segmenten in Sprachen, die Leerzeichen zur Abgrenzung von Wörtern verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6688,6 +6821,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After selecting the language and files, click &lt;g0&gt;OK&lt;/g0&gt; button to bring up the &lt;g1&gt;Align&lt;/g1&gt; window, which shows the results of the automatic alignment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141718Z" creationid="Ragnar-F" creationdate="20221121T141718Z">
+        <seg>Nachdem Sie die Sprache und die Dateien ausgewählt haben, klicken Sie auf die &lt;g0&gt;OK&lt;/g0&gt;-Schaltfläche, um das &lt;g1&gt;Ausrichten&lt;/g1&gt;-Fenster zu öffnen, wo die Ergebnisse der automatischen Ausrichtung angezeigt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T212546Z" creationid="Ragnar-F" creationdate="20210111T212546Z">
@@ -6920,10 +7061,26 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligning the contents of the files is a four-step process:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T140930Z" creationid="Ragnar-F" creationdate="20221121T140253Z">
+        <seg>Die Ausrichtung von Dateiinhalten erfolgt in vier Schritten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T213004Z" creationid="Ragnar-F" creationdate="20210111T203009Z">
         <seg>Beim Ausrichten wird aus bereits übersetzten einsprachigen Dokumenten ein zweisprachiges Translation Memory erstellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alignment is the process of creating a bilingual translation memory from a pair of already translated monolingual documents.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T140218Z" creationid="Ragnar-F" creationdate="20221121T140218Z">
+        <seg>Beim Ausrichten wird aus zwei bereits übersetzten einsprachigen Dokumenten ein zweisprachiges Translation Memory erstellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8097,6 +8254,14 @@ korrektem Verhalten kommen kann.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a rule of thumb, the lower that score, the more accurate the alignment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142710Z" creationid="Ragnar-F" creationdate="20221121T142710Z">
+        <seg>Als Faustregel gilt: Je niedriger die Bewertung, desto genauer die Ausrichtung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above, but for files that should be part of the mapping.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123837Z" creationid="Ragnar-F" creationdate="20221116T123837Z">
@@ -8213,6 +8378,14 @@ korrektem Verhalten kommen kann.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T123608Z" creationid="BVB" creationdate="20180826T204715Z">
         <seg>Wie bei freien Entwicklungen gilt jedoch auch hier der Grundsatz, dass alle Änderungen an OmegaT der Anwendung und ihren Benutzern zugute kommen müssen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As with the algorithms, there is no hard-and-fast rule on which statistical distribution you should choose.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144025Z" creationid="Ragnar-F" creationdate="20221121T144025Z">
+        <seg>Wie bei den Algorithmen gibt es auch hier keine feste Regel, welche statistische Verteilung am besten geeignet ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9854,6 +10027,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing a parameter immediately recalculates the alignment, allowing you to quickly try different combinations to obtain the best results.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142805Z" creationid="Ragnar-F" creationdate="20221121T142805Z">
+        <seg>Beim Ändern eines Parameters wird die Ausrichtung sofort neu berechnet, so dass Sie schnell verschiedene Kombinationen ausprobieren können, um die besten Ergebnisse zu erzielen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing segmentation rules or file filters</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T094222Z" creationid="Ragnar-F" creationdate="20210111T094222Z">
@@ -11292,6 +11473,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comparison mode</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142829Z" creationid="Ragnar-F" creationdate="20221121T142829Z">
+        <seg>Vergleichsmodus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatibility</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181107T102410Z" creationid="Michael Motzkus" creationdate="20181107T102410Z">
@@ -11504,6 +11693,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T105610Z" creationid="Ragnar-F" creationdate="20221109T105610Z">
         <seg>Konsolenmodusnamen und ihre Optionen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135200Z" creationid="Ragnar-F" creationdate="20221121T135200Z">
+        <seg>Nur-Konsolen-Optionen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14375,6 +14572,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130510T084948Z">
         <seg>Enthält der Ordner drei Dateien mit dem gleichen Namen und Endungen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doing so has the added benefit of reducing mismatches in the initial automatic alignment, making the manual correction step smoother.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T140041Z" creationid="Ragnar-F" creationdate="20221121T140041Z">
+        <seg>Außerdem hat das den Vorteil, dass bei der ersten automatischen Ausrichtung weniger Unstimmigkeiten auftreten, was die manuelle Korrektur vereinfacht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21657,6 +21862,14 @@ angezeigt werden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a translation project open, the aligner will automatically use the languages from that project, as well the project-specific segmentation rules, if any.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141543Z" creationid="Ragnar-F" creationdate="20221121T141543Z">
+        <seg>Wenn Sie ein Übersetzungsprojekt offen haben, wird der Aligner automatisch die Sprachen des Projekts sowie die projektspezifischen Segmentierungsregeln verwenden, falls vorhanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have activated &lt;l0/&gt; in the &lt;l1/&gt; menu, you can right-click on the highlighted word in the source segment to open a pop-up menu listing the translations available in your glossaries.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T134942Z" creationid="Ragnar-F" creationdate="20221118T134942Z">
@@ -23113,8 +23326,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In this mode, OmegaT will align the files in the /source folder of the project with those at the location specified by the &lt;e0&gt;--alignDir&lt;/e0&gt; parameter.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T105755Z" creationid="Ragnar-F" creationdate="20221116T105316Z">
-        <seg>In diesem Modus wird OmegaT die Dateien im Quellordner des Projekts mit denen am via &lt;e0&gt;--alignDir&lt;/e0&gt; angegebenen Speicherort synchronisieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135325Z" creationid="Ragnar-F" creationdate="20221116T105316Z">
+        <seg>In diesem Modus wird OmegaT die Dateien im Quellordner des Projekts an denen im via &lt;e0&gt;--alignDir&lt;/e0&gt; angegebenen Speicherort ausrichten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23123,6 +23336,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183841Z" creationid="Ragnar-F" creationdate="20210111T130517Z">
         <seg>In diesem Modus versucht OmegaT, die Dateien in &lt;f0&gt;/source/&lt;/f0&gt; mit den verfügbaren Translation Memories zu übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this step, the bottom part of the window presents various parameters and options you can change if the initial alignment looks like it could be improved.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142517Z" creationid="Ragnar-F" creationdate="20221121T142517Z">
+        <seg>Im unteren Teil des Fensters werden verschiedene Parameter und Optionen angezeigt, die Sie ändern können, wenn die Ausrichtung optimiert werden muss.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24025,6 +24246,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also shows an &lt;g0&gt;Average score&lt;/g0&gt; result for the alignment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142643Z" creationid="Ragnar-F" creationdate="20221121T142643Z">
+        <seg>Dort wird auch eine &lt;g0&gt;Durchschnittsbewertung&lt;/g0&gt; für die Ausrichtung angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T081343Z">
@@ -24085,6 +24314,14 @@ Bedienungsanleitung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221120T212639Z" creationid="Ragnar-F" creationdate="20221120T212639Z">
         <seg>Sie repräsentiert den aktiven Translation Memory des Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It defaults to &lt;g0&gt;Character&lt;/g0&gt; if at least one of the languages involved does not delimit words with spaces, and to &lt;g1&gt;Word&lt;/g1&gt; otherwise.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144446Z" creationid="Ragnar-F" creationdate="20221121T144446Z">
+        <seg>Er verwendet standardmäßig &lt;g0&gt;Zeichen&lt;/g0&gt;, wenn mindestens eine der beiden Sprachen die Wörter nicht mit Leerzeichen abgrenzt, ansonsten &lt;g1&gt;Wort&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24197,6 +24434,22 @@ Bedienungsanleitung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T132333Z">
         <seg>Es ist oft nützlich, nach Wörtern und Wortgruppen im Quelltext und in Ihrer Übersetzung zu suchen. Drücken Sie &lt;k0&gt;Strg+F&lt;/k0&gt;, um das Dialogfenster &lt;g1&gt;Textsuche&lt;/g1&gt; zu öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is only shown when both selected files are recognized as key=value files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143251Z" creationid="Ragnar-F" creationdate="20221121T143251Z">
+        <seg>Er wird nur angezeigt, wenn beide ausgewählten Dateien als Schlüssel=Wert-Dateien erkannt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is only shown when it is available for the files being aligned.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143019Z" creationid="Ragnar-F" creationdate="20221121T143019Z">
+        <seg>Er wird nur angezeigt, wenn er für die auszurichtenden Dateien verfügbar ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27547,8 +27800,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Modifications made outside OmegaT can be reinserted in OmegaT (and thus in the project translation memory, to keep it up to date) either by entering them manually in the relevant segments, or by aligning the original file and the final translated file to create a new translation memory (TMX) file that will be put in the &lt;l0/&gt; folder of your project folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T121647Z" creationid="Ragnar-F" creationdate="20221117T121647Z">
-        <seg>Änderungen, die außerhalb von OmegaT vorgenommen wurden, können wieder in OmegaT (und damit in das Translation Memory des Projekts, um es auf dem neuesten Stand zu halten) eingefügt werden, indem man sie entweder manuell in die entsprechenden Segmente einträgt oder indem man die ursprüngliche Datei und die übersetzte Datei synchronisiert, um eine neue Translation-Memory-Datei (TMX) zu erstellen, die im &lt;l0/&gt;-Ordner Ihres Projektordners abgelegt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135450Z" creationid="Ragnar-F" creationdate="20221117T121647Z">
+        <seg>Änderungen, die außerhalb von OmegaT vorgenommen wurden, können wieder in OmegaT (und damit in das Translation Memory des Projekts, um es auf dem neuesten Stand zu halten) eingefügt werden, indem man sie entweder manuell in die entsprechenden Segmente einträgt oder indem man die ursprüngliche Datei und die übersetzte Datei aneinander ausrichtet, um eine neue Translation-Memory-Datei (TMX) zu erstellen, die im &lt;l0/&gt;-Ordner Ihres Projektordners abgelegt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29648,6 +29901,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T102840Z" creationid="Ragnar-F" creationdate="20210324T102840Z">
         <seg>OmegaT hat auch die folgenden Mailinglisten und Tracker, die auf SourceForge gehostet werden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT also offers a command line based alignment mode for key-based formats.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135547Z" creationid="Ragnar-F" creationdate="20221121T135547Z">
+        <seg>OmegaT bietet auch einen befehlszeilenbasierten Ausrichtungsmodus für schlüsselbasierte Formate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32575,6 +32836,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141839Z" creationid="Ragnar-F" creationdate="20221114T141839Z">
         <seg>Parameterdateien, die in dem heruntergeladenen OmegaT-Paket enthalten sind (insbesondere die &lt;f0&gt;&gt;OmegaT.l4J.ini&lt;/f0&gt;-Datei für &lt;l1&gt;Windows&lt;/l1&gt; und die &lt;f2&gt;Configuration.properties&lt;/f2&gt;- und &lt;f3&gt;Info.plist&lt;/f3&gt;-Datei für &lt;l4&gt;macOS&lt;/l4&gt;-Pakete), könnten überschrieben oder gelöscht werden. Daher sollten Sie vor der Aktualisierung eine Sicherungskopie erstellen, wenn Sie diese Dateien zur Änderung der Startparameter von OmegaT verwendet haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameters</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142820Z" creationid="Ragnar-F" creationdate="20221121T142817Z">
+        <seg>Parameter</seg>
       </tuv>
     </tu>
     <tu>
@@ -37848,6 +38117,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select &lt;l0/&gt; in the &lt;l1/&gt; menu to access this tool.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T134902Z" creationid="Ragnar-F" creationdate="20221121T134902Z">
+        <seg>Wählen Sie &lt;l0/&gt; im Menü &lt;l1/&gt; aus, um auf dieses Tool zuzugreifen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select &lt;l0/&gt; to activate it.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T180503Z" creationid="Ragnar-F" creationdate="20221117T180503Z">
@@ -38716,6 +38993,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T081102Z" creationid="Ragnar-F" creationdate="20210110T195457Z">
         <seg>Das Einrichten eines Teamprojekts erfordert einige Kenntnisse über Server und Versionsverwaltungssysteme wie SVN oder Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142255Z" creationid="Ragnar-F" creationdate="20221121T142255Z">
+        <seg>Einstellungen</seg>
       </tuv>
     </tu>
     <tu>
@@ -42711,6 +42996,30 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The aligner automatically selects the counter based on the source and target languages of files to align.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144330Z" creationid="Ragnar-F" creationdate="20221121T144330Z">
+        <seg>Der Aligner wählt den Zähler automatisch auf Basis der Quell- und Zielsprache der auszurichtenden Dateien aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The aligner can read all the file formats supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141428Z" creationid="Ragnar-F" creationdate="20221121T141428Z">
+        <seg>Der Aligner kann alle von OmegaT unterstützten Dateiformate lesen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The aligner does not allow you to save you work partway through an alignment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135739Z" creationid="Ragnar-F" creationdate="20221121T135739Z">
+        <seg>Der Aligner erlaubt es Ihnen nicht, Ihre Arbeit während einer Ausrichtung zu speichern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The alternative is to enter a translation that is identical to the source text.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T125939Z">
@@ -42763,6 +43072,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de">
         <seg>Die verfügbaren Optionen sind:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The available parameters and options are:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142813Z" creationid="Ragnar-F" creationdate="20221121T142813Z">
+        <seg>Die verfügbaren Parameter und Optionen sind:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43637,8 +43954,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The file types that can be aligned depend on whether the alignment is supported by the file filter .</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T105852Z" creationid="Ragnar-F" creationdate="20221116T105852Z">
-        <seg>Welche Dateitypen synchronisiert werden können, hängt davon ab, ob die Synchronisierung vom Dateifilter unterstützt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135400Z" creationid="Ragnar-F" creationdate="20221116T105852Z">
+        <seg>Welche Dateitypen ausgerichtet werden können, hängt davon ab, ob die Ausrichtung vom Dateifilter unterstützt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44378,6 +44695,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135906Z" creationid="Ragnar-F" creationdate="20221118T135906Z">
         <seg>Der Maschinelle-Übersetzung-Bereich enthält, sofern geöffnet, Vorschläge, die von einem oder mehreren aktivierten Übersetzungsdiensten für das aktuelle Segment erstellt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main part of the window is divided into three columns:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141730Z" creationid="Ragnar-F" creationdate="20221121T141730Z">
+        <seg>Der Hauptteil des Fensters ist in drei Spalten unterteilt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46478,6 +46803,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is no hard-and-fast rule on which algorithm you should choose.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143546Z" creationid="Ragnar-F" creationdate="20221121T143546Z">
+        <seg>Es gibt keine feste Regel, welcher Algorithmus am besten geeignet ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is no limit to the number of translation memories that can be used as reference in a translation project, and OmegaT makes it very easy to assign different levels of priority to these additional memories.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T100134Z" creationid="Ragnar-F" creationdate="20221117T100134Z">
@@ -46538,6 +46871,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T092502Z" creationid="Ragnar-F" creationdate="20221117T092502Z">
         <seg>Wenn also eine Seite eine solche TMX-Datei mit &lt;l0/&gt; erstellt oder ändert, braucht die andere Seite nichts zu tun, damit diese TMX-Datei lokal erkannt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, it is recommended that you divide the files to align into shorter files that you can comfortably align in a single session.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135905Z" creationid="Ragnar-F" creationdate="20221121T135905Z">
+        <seg>Daher empfiehlt es sich, die auszurichtenden Dateien in kürzere Dateien aufzuteilen, um diese bequem in einer einzigen Sitzung ausrichten zu können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48682,6 +49023,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This works even if the order of the keys differs in each file, and when the files have a different number of entries.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143214Z" creationid="Ragnar-F" creationdate="20221121T143214Z">
+        <seg>Dieser Modus funktioniert auch dann, wenn die Anordnung der Schlüssel in den einzelnen Dateien unterschiedlich ist und wenn die Dateien eine unterschiedliche Anzahl von Einträgen haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T175105Z">
@@ -50366,6 +50715,22 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Try both and use the one that yields the better result for your files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144112Z" creationid="Ragnar-F" creationdate="20221121T144112Z">
+        <seg>Probieren Sie beide aus, und nehmen Sie eins, das das bessere Ergebnis für Ihre Dateien liefert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try both, and use the one that yields the better result for your files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144116Z" creationid="Ragnar-F" creationdate="20221121T143719Z">
+        <seg>Probieren Sie beide aus, und nehmen Sie eins, das das bessere Ergebnis für Ihre Dateien liefert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trying to use only the opening or closing parenthesis on its own will cause an error.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T124125Z" creationid="Ragnar-F" creationdate="20221111T124125Z">
@@ -50804,6 +51169,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T155327Z" creationid="Michael Motzkus" creationdate="20180917T062739Z">
         <seg>Deaktivieren Sie diese Option, um die Tags zu schützen, oder anders gesagt, um zu verhindern, dass der Inhalt der Tags editiert werden kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unchecked rows are discarded.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142004Z" creationid="Ragnar-F" creationdate="20221121T142004Z">
+        <seg>Zeilen ohne Häkchen werden verworfen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51288,6 +51661,16 @@ Dokumentationsdatei und die OmegaT-Anwendung enthält.</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T111252Z" creationid="Ragnar-F" creationdate="20221109T111218Z">
         <seg>Verwendung: team init &lt;Quellsprache&gt; &lt;Zielsprache&gt;
 	Siehe --help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135208Z" creationid="Ragnar-F" creationdate="20221121T135208Z">
+        <seg>Verwendung: team init &lt;Quellsprache&gt; &lt;Zielsprache&gt;
+	Siehe --help.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60848,6 +61231,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>save the result to TMX</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141411Z" creationid="Ragnar-F" creationdate="20221121T141411Z">
+        <seg>Speichern Sie das Ergebnis in eine TMX-Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>save your modifications,</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T104724Z" creationid="Ragnar-F" creationdate="20221117T104724Z">
@@ -61064,6 +61455,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>specify the source and target languages and select the two files you want to align.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141013Z" creationid="Ragnar-F" creationdate="20221121T141013Z">
+        <seg>Geben Sie die Quell- und Zielsprache an und wählen Sie die beiden Dateien aus, die Sie aneinander ausrichten möchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>specify what parts of text should NOT be separated.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T221922Z">
@@ -61218,6 +61617,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the files are read by the aligner, which attempts to match the segments that correspond to one another in the original and translated texts,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141259Z" creationid="Ragnar-F" creationdate="20221121T141259Z">
+        <seg>Der Aligner liest die Dateien und versucht, die Segmente im Originaltext und in der Übersetzung aneinander auszurichten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the list of all translatable files in the project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T144817Z">
@@ -61286,6 +61693,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T231939Z" creationid="Michael Motzkus" creationdate="20180925T090620Z">
         <seg>Die Gesamtzahl aller übersetzbaren Dateien im Projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the translator reviews the results and makes any necessary manual adjustments,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141331Z" creationid="Ragnar-F" creationdate="20221121T141331Z">
+        <seg>Der Übersetzer überprüft die Ergebnisse und nimmt gegebenenfalls manuelle Anpassungen vor.</seg>
       </tuv>
     </tu>
     <tu>
