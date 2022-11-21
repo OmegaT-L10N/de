@@ -6757,6 +6757,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T165517Z" creationid="Ragnar-F" creationdate="20221121T165517Z">
+        <seg>Weitere Skripte können Sie hier finden: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional themes can be added as plugins.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T222720Z" creationid="Ragnar-F" creationdate="20221118T222720Z">
@@ -9607,6 +9615,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T075417Z" creationid="Ragnar-F" creationdate="20210112T075417Z">
         <seg>Standardmäßig werden Skripte im &lt;f0&gt;scripts&lt;/f0&gt;-Ordner gespeichert, der sich im OmegaT-Installationsordner (der Ordner, der die &lt;f1&gt;OmegaT.jar&lt;/f1&gt;-Datei enthält) befindet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, scripts are stored in the &lt;l0/&gt; folder of the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T164704Z" creationid="Ragnar-F" creationdate="20221121T164514Z">
+        <seg>Standardmäßig werden Skripte im &lt;l0/&gt;-Ordner des Applikationsordners von OmegaT aufbewahrt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15336,6 +15352,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each event corresponds to a subfolder under &lt;l1/&gt;:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T165853Z" creationid="Ragnar-F" creationdate="20221121T165853Z">
+        <seg>Jedes Ereignis entspricht einem Unterordner unter &lt;l1/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each mode can be used separately in the &lt;g0&gt;Editor&lt;/g0&gt;, &lt;g1&gt;Fuzzy Matches&lt;/g1&gt;, and &lt;g2&gt;Glossary&lt;/g2&gt; panes by selecting the desired pane and toggling the justification mode.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140532Z" creationid="Ragnar-F" creationdate="20221114T184541Z">
@@ -20582,6 +20606,14 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a list of scripts is not displayed on the left side of the script editor window, use the Scripting window &lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Set Scripts Folder...&lt;/g1&gt; menu to locate the place where scripts are stored.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T165347Z" creationid="Ragnar-F" creationdate="20221121T165347Z">
+        <seg>Wenn auf der linken Seite des Scripting-Fensters keine Skriptliste angezeigt wird, verwenden Sie den Menüpunkt &lt;g0&gt;Datei&lt;/g0&gt; &gt; &lt;g1&gt;Scripts-Ordner setzen...&lt;/g1&gt;, um den Speicherort Ihrer Skripte zu bestimmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T215715Z" creationid="Michael Motzkus" creationdate="20180921T080802Z">
@@ -25370,6 +25402,14 @@ Computer und das Programm selbst installiert.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Just copy the file and put it in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T165721Z" creationid="Ragnar-F" creationdate="20221121T165721Z">
+        <seg>Laden Sie einfach die Datei herunter und kopieren Sie sie in den &lt;l1/&gt;-Ordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Just follow the simple steps described in &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T101434Z" creationid="Ragnar-F" creationdate="20221117T101434Z">
@@ -28841,6 +28881,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T220817Z" creationid="Ragnar-F" creationdate="20210112T220817Z">
         <seg>Neuer lokaler Projektordner:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New scripts added there will appear in the list of available scripts in the left-hand panel of the window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T164745Z" creationid="Ragnar-F" creationdate="20221121T164745Z">
+        <seg>Neue Skripte, die dort hinzugefügt werden, erscheinen in der Liste der verfügbaren Skripte im linken Bereich des Fensters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37373,10 +37421,42 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts are short programs (similar to macros in office applications) that can be used to automate tasks as well as to extend or customize OmegaT functionality.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T163624Z" creationid="Ragnar-F" creationdate="20221121T163624Z">
+        <seg>Skripte sind kurze Programme (ähnlich den Makros in Office-Applikationen), die zur Automatisierung von Aufgaben sowie zur Erweiterung oder Anpassung der OmegaT-Funktionen verwendet werden können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts can be used to set predefined themes.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T101019Z" creationid="Ragnar-F" creationdate="20221119T101019Z">
         <seg>Skripte können verwendet werden, um vordefinierte Farbschemen festzulegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts in this folder will be launched before OmegaT shuts down.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T165918Z" creationid="Ragnar-F" creationdate="20221121T165918Z">
+        <seg>Skripte in diesem Ordner werden gestartet, bevor OmegaT heruntergefahren wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts in this folder will be launched when the scripting engine is available, shortly after OmegaT is launched.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T170227Z" creationid="Ragnar-F" creationdate="20221121T170227Z">
+        <seg>Skripte in diesem Ordner werden gestartet, wenn die Scripting-Engine verfügbar ist, kurz nachdem OmegaT gestartet wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts in this folder will be launched when when editing a new segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T170327Z" creationid="Ragnar-F" creationdate="20221121T170327Z">
+        <seg>Skripte in diesem Ordner werden gestartet, wenn ein neues Segment editiert wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40097,6 +40177,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T182711Z">
         <seg>Scheinbar sind einige Projektordner verschoben worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some scripts are &lt;e0&gt;event&lt;/e0&gt; based and can be made to be triggered automatically when a given event takes place.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T165826Z" creationid="Ragnar-F" creationdate="20221121T165826Z">
+        <seg>Einige Skripte basieren auf &lt;e0&gt;Ereignissen&lt;/e0&gt; und können so programmiert werden, dass sie automatisch ausgelöst werden, wenn ein bestimmtes Ereignis eintritt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43212,6 +43300,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Scripting window allows you to load an existing script and run it on the current project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T164242Z" creationid="Ragnar-F" creationdate="20221121T164242Z">
+        <seg>Das Scripting-Fenster ermöglicht es Ihnen, ein existierendes Skript zu laden und im aktuellen Projekt auszuführen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T064236Z" creationid="BVB" creationdate="20180829T063556Z">
@@ -46003,6 +46099,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The script folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T164716Z" creationid="Ragnar-F" creationdate="20221121T164325Z">
+        <seg>Der Skriptordner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script will quit now.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T131255Z" creationid="Ragnar-F" creationdate="20210112T131255Z">
@@ -46047,6 +46151,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T135613Z" creationid="Ragnar-F" creationdate="20221117T135210Z">
         <seg>Die zweite Möglichkeit ist, Texte in einem der OmegaT-Bereiche zu markieren und das Dialogfenster nach jeder Markierung aufzurufen, damit OmegaT sie automatisch in die verschiedenen Felder einträgt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segment is in the "newEntry" binding.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T170412Z" creationid="Ragnar-F" creationdate="20221121T170412Z">
+        <seg>Das Segment ist im "newEntry"-Binding.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47567,6 +47679,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T123640Z" creationid="Ragnar-F" creationdate="20221111T123640Z">
         <seg>Sie können später im Suchausdruck mit &lt;l1&gt;\&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt; wiederverwendet werden, wobei &lt;o3&gt;n&lt;/o3&gt; die Nummer der Gruppe ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be written by users in any language understood by the underlying Java virtual machine.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T165135Z" creationid="Ragnar-F" creationdate="20221121T164112Z">
+        <seg>Benutzer können zum Schreiben von Skripten nur Skriptsprachen verwenden, die von der verwendeten virtuellen Java-Maschine unterstützt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55312,6 +55432,14 @@ Kaptain-Startskript wie folgt starten:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can access the window from &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T164311Z" creationid="Ragnar-F" creationdate="20221121T164311Z">
+        <seg>Sie können das Fenster über &lt;l0/&gt; im Menü &lt;l1/&gt; aufrufen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can adapt the "standard template" to your needs with the template variables.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T213819Z" creationid="Ragnar-F" creationdate="20221119T213819Z">
@@ -57588,6 +57716,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>application_shutdown</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T165854Z" creationid="Ragnar-F" creationdate="20221121T165854Z">
+        <seg>application_shutdown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>application_startup</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T165918Z" creationid="Ragnar-F" creationdate="20221121T165918Z">
+        <seg>application_startup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>are created and used by the spell checker.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T131237Z">
@@ -58968,6 +59112,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T122640Z" creationid="Ragnar-F" creationdate="20221118T122640Z">
         <seg>das nächste zu übersetzende Segment zu betreten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>entry_activated</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T170228Z" creationid="Ragnar-F" creationdate="20221121T170228Z">
+        <seg>entry_activated</seg>
       </tuv>
     </tu>
     <tu>
