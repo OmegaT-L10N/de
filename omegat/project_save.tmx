@@ -8542,6 +8542,14 @@ korrektem Verhalten kommen kann.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Asks for the page URL and downloads it into the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T182359Z" creationid="Ragnar-F" creationdate="20221121T182359Z">
+        <seg>Fragt nach der URL der Seite und lädt sie in den &lt;l0/&gt;-Ordner herunter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Assign &amp;shortcut</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T223919Z" creationid="Ragnar-F" creationdate="20221109T223919Z">
@@ -11327,6 +11335,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T144810Z" creationid="Michael Motzkus" creationdate="20180925T091606Z">
         <seg>Wenn Sie auf eine Datei klicken, wird sie für die Übersetzung geöffnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on any file will open it in the &lt;l0/&gt; for translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T180824Z" creationid="Ragnar-F" creationdate="20221121T180824Z">
+        <seg>Klicken Sie auf eine beliebige Datei, um sie im &lt;l0/&gt; zu öffnen und zu übersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17646,6 +17662,14 @@ Backup-Dateiendung '.recover'.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T152838Z">
         <seg>Dateinamenvariablen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filenames (in the first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T181239Z" creationid="Ragnar-F" creationdate="20221121T181239Z">
+        <seg>Dateinamen (in der ersten Spalte) können durch Klicken auf die Spaltenüberschrift alphabetisch sortiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24982,6 +25006,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also possible to change the position of a filename, by clicking on it and pressing the &lt;g0&gt;Move ...&lt;/g0&gt; button on the right.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T181345Z" creationid="Ragnar-F" creationdate="20221121T181345Z">
+        <seg>Sie können auch die Position eines Dateinamens ändern, indem Sie ihn anklicken und die Schaltflächen &lt;g0&gt;Nach oben/unten&lt;/g0&gt; auf der rechten Seite drücken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is also possible to use a team project configuration where several translators share the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file, and only a subset of the other files.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T125230Z" creationid="Ragnar-F" creationdate="20221116T125230Z">
@@ -28554,6 +28586,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T140219Z" creationid="Ragnar-F" creationdate="20221115T140219Z">
         <seg>Wenn Sie diese zwischendurch ändern, kann es passieren, dass einige Segmente nicht mehr angezeigt werden oder stattdessen unerwartete neue Segmente auftauchen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifying the segmentation rules may alter the number of segments/unique segments.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T182251Z" creationid="Ragnar-F" creationdate="20221121T182251Z">
+        <seg>Eine Änderung der Segmentierungsregeln kann bewirken, dass sich die Anzahl der Segmente/einmaligen Segmente ändert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37200,6 +37240,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-clicking on a filename opens a popup that allows opening the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T181425Z" creationid="Ragnar-F" creationdate="20221121T181425Z">
+        <seg>Wenn Sie mit der rechten Maustaste auf einen Dateinamen klicken, wird ein Kontextmenü geöffnet, das das Öffnen der Quelldatei und (falls vorhanden) der Zieldatei ermöglicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T150025Z" creationid="Michael Motzkus" creationdate="20180925T092810Z">
@@ -43364,6 +43412,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu will give you more information.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T182120Z" creationid="Ragnar-F" creationdate="20221121T182120Z">
+        <seg>Der Menüpunkt &lt;l0/&gt; im Menü &lt;l1/&gt; liefert Ihnen weitere Informationen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; pane is the place where you type your translation.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T105545Z" creationid="Ragnar-F" creationdate="20221117T105545Z">
@@ -44272,6 +44328,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142535Z" creationid="Ragnar-F" creationdate="20221118T142535Z">
         <seg>Der untere Bereich des Hauptfensters ist die Statusleiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The buttons at the bottom can be used to add files to your project:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T182321Z" creationid="Ragnar-F" creationdate="20221121T182321Z">
+        <seg>Mit den Schaltflächen im unteren Bereich können Sie Dateien zu Ihrem Projekt hinzufügen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46067,6 +46131,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The number of &lt;e0&gt;Unique&lt;/e0&gt; segments is calculated by removing the number of duplicate segments from the total segment number.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T182044Z" creationid="Ragnar-F" creationdate="20221121T182044Z">
+        <seg>Die Anzahl der &lt;e0&gt;eindeutigen&lt;/e0&gt; Segmente errechnet sich durch Abzug der Anzahl der doppelten Segmente von der Gesamtzahl der Segmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143214Z">
@@ -47515,6 +47587,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T180841Z" creationid="Ragnar-F" creationdate="20221121T180841Z">
+        <seg>Direkt darunter wird die Gesamtzahl der Segmente, die Anzahl einmaliger Segmente im gesamten Projekt und die Anzahl bereits übersetzter einmaliger Segmente angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated document will be created in the same display direction as the original.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120421Z" creationid="Ragnar-F" creationdate="20221115T120421Z">
@@ -47627,6 +47707,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The two actions are equivalent to using the &lt;l0/&gt; menu commands &lt;l1/&gt; and &lt;l2/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T182603Z" creationid="Ragnar-F" creationdate="20221121T182603Z">
+        <seg>Die beiden Aktionen sind äquivalent zu den Befehlen &lt;l1/&gt; und &lt;l2/&gt; im Menü &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T175326Z">
@@ -47703,6 +47791,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T133641Z">
         <seg>Der gesamte Ablauf kann über Tck/Tcl-basiertes Scripting gesteuert und kontrolliert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The window displays the following information:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T180537Z" creationid="Ragnar-F" creationdate="20221121T180537Z">
+        <seg>Das Fenster zeigt die folgenden Informationen an:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48114,6 +48210,14 @@ werden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T143223Z" creationid="Michael Motzkus" creationdate="20180925T091051Z">
         <seg>Das sind die Dateien, die sich im /source-Ordner befinden, in einem für OmegaT erkennbaren Format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are the files present in the &lt;l0/&gt; folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T180632Z" creationid="Ragnar-F" creationdate="20221121T180632Z">
+        <seg>Das sind die Dateien, die sich im &lt;l0/&gt;-Ordner befinden, in einem für OmegaT erkennbaren Format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50287,6 +50391,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by using &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T180512Z" creationid="Ragnar-F" creationdate="20221121T180512Z">
+        <seg>Dieses Fenster wird automatisch angezeigt, wenn OmegaT ein Projekt lädt, und kann jederzeit mit &lt;l0/&gt; aufgerufen werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T210205Z" creationid="Ragnar-F" creationdate="20210111T210205Z">
@@ -50915,6 +51027,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T104033Z" creationid="Ragnar-F" creationdate="20221110T104033Z">
         <seg>Um das automatische Öffnen des Quelldateienfensters beim Laden eines Projekts zu verhindern, suchen Sie &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; und ersetzen Sie &lt;t1&gt;true&lt;/t1&gt; mit &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To keep the Source Files list window to automatically open when a project is loaded, manually change &lt;t0&gt;project_files_show_on_load&lt;/t0&gt; to &lt;t1&gt;false&lt;/t1&gt; in the &lt;l2/&gt; configuration file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T183102Z" creationid="Ragnar-F" creationdate="20221121T183102Z">
+        <seg>Um das automatische Öffnen des Quelldateien-Fensters beim Laden eines Projekts zu verhindern, öffnen Sie die &lt;l2/&gt;-Konfigurationsdatei die ändern Sie &lt;t0&gt;project_files_show_on_load&lt;/t0&gt; auf &lt;t1&gt;false&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52113,6 +52233,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T155744Z" creationid="Michael Motzkus" creationdate="20181022T150029Z">
         <seg>Suchmethoden:
 Die exakte Suche sucht den kompletten Suchtext.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field at the bottom of the window where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T180951Z" creationid="Ragnar-F" creationdate="20221121T180951Z">
+        <seg>Wenn Sie einen beliebigen Text eingeben, öffnet sich ein &lt;g0&gt;Filter&lt;/g0&gt;-Feld im unteren Bereich des Fensters, das die Eingabe von Dateinamen ermöglicht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57219,6 +57347,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can use arrows to select a file, and open it for translation by pressing &lt;k1&gt;Enter&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T181219Z" creationid="Ragnar-F" creationdate="20221121T181219Z">
+        <seg>Sie können eine Datei mit den Pfeiltasten auswählen und durch Drücken von &lt;k1&gt;Enter&lt;/k1&gt; öffnen, um sie zu übersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can use it when panes do not appear as expected after an OmegaT upgrade.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T224214Z" creationid="Ragnar-F" creationdate="20221118T224214Z">
@@ -58408,6 +58544,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T131237Z">
         <seg>werden von der Rechtschreibprüfung erstellt und benutzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>as a list: all the translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T180659Z" creationid="Ragnar-F" creationdate="20221121T180659Z">
+        <seg>Als Liste: Alle übersetzbaren Dateien im Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60986,6 +61130,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130529T084725Z">
         <seg>in regulären Ausdrücken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>in the window title: the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T180618Z" creationid="Ragnar-F" creationdate="20221121T180618Z">
+        <seg>Im Fenstertitel: Die Gesamtzahl aller übersetzbaren Dateien im Projekt.</seg>
       </tuv>
     </tu>
     <tu>
