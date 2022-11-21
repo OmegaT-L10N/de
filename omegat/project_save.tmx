@@ -4247,6 +4247,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e1&gt;Use it with caution!&lt;/e1&gt; Clicking this button will discard all your changes and bring you back to the first step.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T160212Z" creationid="Ragnar-F" creationdate="20221121T160212Z">
+        <seg>&lt;e1&gt;Seien Sie damit vorsichtig!&lt;/e1&gt; Wenn Sie auf diese Schaltfläche klicken, werden sämtliche Änderungen verworfen; Sie kehren zum ersten Schritt zurück.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T085434Z" creationid="Ragnar-F" creationdate="20210111T085434Z">
@@ -6921,6 +6929,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T135550Z" creationid="Ragnar-F" creationdate="20221114T135550Z">
         <seg>Nach dem Entpacken oder Installieren können Sie die nicht mehr benötigte heruntergeladene Datei löschen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you finish aligning the two columns, click the &lt;g0&gt;Save TMX...&lt;/g0&gt; button to create the translation memory.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155245Z" creationid="Ragnar-F" creationdate="20221121T155245Z">
+        <seg>Wenn Sie die Ausrichtung der beiden Spalten abgeschlossen haben, klicken Sie auf die Schaltfläche &lt;g0&gt;TMX speichern...&lt;/g0&gt;, um den Translation Memory zu erstellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21147,6 +21163,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the corresponding segments are several rows apart and you want to quickly align them, use this command to set the first segment and then click on the corresponding segment in the other column.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T154931Z" creationid="Ragnar-F" creationdate="20221121T154931Z">
+        <seg>Wenn bestimmte Segmente mehrere Zeilen voneinander entfernt sind und Sie diese schnell ausrichten möchten, verwenden Sie diesen Befehl, um das erste Segment zu setzen und klicken Sie dann auf das zugehörige Segment in der anderen Spalte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T110710Z">
@@ -22867,6 +22891,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition to the &lt;g0&gt;Save TMX...&lt;/g0&gt; button, the bottom part of the &lt;g1&gt;Align&lt;/g1&gt; window in the manual correction step features the same &lt;g2&gt;Highlight&lt;/g2&gt; check box and &lt;g3&gt;Pattern...&lt;/g3&gt; button as in the first step.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155803Z" creationid="Ragnar-F" creationdate="20221121T155803Z">
+        <seg>Zusätzlich zur Schaltfläche &lt;g0&gt;TMX speichern...&lt;/g0&gt; ist im unteren Teil des &lt;g1&gt;Ausrichten&lt;/g1&gt;-Fensters im Manuelle-Korrektur-Schritt das gleiche &lt;g2&gt;Hervorheben&lt;/g2&gt;-Kästchen und die &lt;g3&gt;Muster...&lt;/g3&gt;-Schaltfläche wie im ersten Schritt vorhanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition, the &lt;g0&gt;File&lt;/g0&gt; menu provides the following commands:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T150109Z" creationid="Ragnar-F" creationdate="20221121T150109Z">
@@ -24530,6 +24562,14 @@ Bedienungsanleitung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T101708Z" creationid="BVB" creationdate="20180823T094329Z">
         <seg>Es befindet sich im Ordner "docs" in Ihrem OmegaT-Programmordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can be helpful to run the &lt;g0&gt;Realign Pending&lt;/g0&gt; command after using pinpoint align a few times.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155150Z" creationid="Ragnar-F" creationdate="20221121T155150Z">
+        <seg>Es kann hilfreich sein, den Befehl &lt;g0&gt;Ausstehende neu ausrichten&lt;/g0&gt; auszuführen, nachdem Sie die punktuelle Ausrichtung ein paar Mal verwendet haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28064,8 +28104,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Modifications made outside OmegaT can be reinserted in OmegaT (and thus in the project translation memory, to keep it up to date) either by entering them manually in the relevant segments, or by aligning the original file and the final translated file to create a new translation memory (TMX) file that will be put in the &lt;l0/&gt; folder of your project folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135450Z" creationid="Ragnar-F" creationdate="20221117T121647Z">
-        <seg>Änderungen, die außerhalb von OmegaT vorgenommen wurden, können wieder in OmegaT (und damit in das Translation Memory des Projekts, um es auf dem neuesten Stand zu halten) eingefügt werden, indem man sie entweder manuell in die entsprechenden Segmente einträgt oder indem man die ursprüngliche Datei und die übersetzte Datei aneinander ausrichtet, um eine neue Translation-Memory-Datei (TMX) zu erstellen, die im &lt;l0/&gt;-Ordner Ihres Projektordners abgelegt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155413Z" creationid="Ragnar-F" creationdate="20221117T121647Z">
+        <seg>Änderungen, die außerhalb von OmegaT vorgenommen wurden, können wieder in OmegaT (und damit in den Translation Memory des Projekts, um es auf dem neuesten Stand zu halten) eingefügt werden, indem man sie entweder manuell in die entsprechenden Segmente einträgt oder indem man die ursprüngliche Datei und die übersetzte Datei aneinander ausrichtet, um eine neue Translation-Memory-Datei (TMX) zu erstellen, die im &lt;l0/&gt;-Ordner Ihres Projektordners abgelegt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31871,6 +31911,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T124441Z">
         <seg>Es werden nur ganze Zahlen und einfache Gleitkommazahlen (mit dem Punkt als Dezimalzeichen, z. B. 5.4, aber nicht 5,4 oder 54E-01) berücksichtigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only rows with a checked &lt;g0&gt;Keep&lt;/g0&gt; box in the first column are saved to the translation memory.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155430Z" creationid="Ragnar-F" creationdate="20221121T155405Z">
+        <seg>Nur Zeilen, bei denen in der ersten Spalte ein Häkchen im &lt;g0&gt;Behalten&lt;/g0&gt;-Kästchen gesetzt ist, werden in den Translation Memory gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38341,6 +38389,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments aligned with this method are automatically marked as accepted.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155043Z" creationid="Ragnar-F" creationdate="20221121T155043Z">
+        <seg>Segmente, die mit dieser Methode aneinander ausgerichtet werden, werden automatisch als 'Akzeptiert' markiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments are by default &lt;e0&gt;paragraphs&lt;/e0&gt; defined by the file format itself.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T082543Z" creationid="Ragnar-F" creationdate="20221112T082543Z">
@@ -40811,6 +40867,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T095059Z" creationid="Ragnar-F" creationdate="20210113T094140Z">
         <seg>Punktuelles Ausrichten starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start Pinpoint Align (&lt;k0&gt;Space&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T154722Z" creationid="Ragnar-F" creationdate="20221121T154722Z">
+        <seg>Punktuelles Ausrichten starten (&lt;k0&gt;Space&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47187,6 +47251,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is also a &lt;g0&gt;Reset&lt;/g0&gt; button at the bottom of the window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155853Z" creationid="Ragnar-F" creationdate="20221121T155853Z">
+        <seg>Am unteren Rand des Fensters befindet sich außerdem eine &lt;g0&gt;Zurücksetzen&lt;/g0&gt;-Schaltfläche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T120555Z" creationid="BVB" creationdate="20180826T203317Z">
@@ -49065,6 +49137,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T150715Z" creationid="Ragnar-F" creationdate="20221110T150715Z">
         <seg>Diese Option erzwingt die Kompatibilität mit Java 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is also accessible from the &lt;g4&gt;View&lt;/g4&gt; menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155828Z" creationid="Ragnar-F" creationdate="20221121T155828Z">
+        <seg>Diese Option ist auch über das &lt;g4&gt;Ansicht&lt;/g4&gt;-Menü zugänglich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52959,6 +53039,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this command to switch the &lt;g0&gt;Keep&lt;/g0&gt; check box of the selected row or block of rows from checked to unchecked, or vice versa.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T154753Z" creationid="Ragnar-F" creationdate="20221121T154715Z">
+        <seg>Verwenden Sie diesen Befehl, um bei jedem &lt;g0&gt;Behalten&lt;/g0&gt;-Kästchen einer ausgewählten Zeile ein Häkchen zu setzen oder zu entfernen, oder umgekehrt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this command to uncheck the &lt;g0&gt;Keep&lt;/g0&gt; check box for all rows.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T154324Z" creationid="Ragnar-F" creationdate="20221121T154324Z">
@@ -55601,6 +55689,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T085116Z" creationid="Ragnar-F" creationdate="20221117T085116Z">
         <seg>Sie können auch das Tool &lt;l0/&gt; verwenden, um ein TMX anhand von zwei Dateien in einem von OmegaT unterstützten Format zu erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use the arrow keys and press &lt;k0&gt;Space&lt;/k0&gt; in the corresponding segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155003Z" creationid="Ragnar-F" creationdate="20221121T155003Z">
+        <seg>Sie können auch die Pfeiltasten verwenden und im zugehörigen Segment &lt;k0&gt;Space&lt;/k0&gt; drücken.</seg>
       </tuv>
     </tu>
     <tu>
