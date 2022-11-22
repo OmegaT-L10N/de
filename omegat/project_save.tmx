@@ -1136,8 +1136,8 @@ ${targetText}
       <tuv lang="en">
         <seg>&amp;Install new language...</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T213809Z" creationid="Ragnar-F" creationdate="20221109T213809Z">
-        <seg>Neues Sprache &amp;installieren...</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T121208Z" creationid="Ragnar-F" creationdate="20221109T213809Z">
+        <seg>Neue Sprache &amp;installieren...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7828,8 +7828,8 @@ Dossier de configuration
       <tuv lang="en">
         <seg>All the parameters located in the &lt;l0/&gt; will be shared unless you specify a different configuration folder with the &lt;l1&gt;--config-dir=&lt;path&gt;&lt;/l1&gt; option from the &lt;l2/&gt; on the command line .</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T143714Z" creationid="Ragnar-F" creationdate="20221114T143714Z">
-        <seg>Alle Parameter im &lt;l0/&gt; werden für alle Projekte genutzt, es sei denn, Sie geben einen anderen Konfigurationsordner mit der Option &lt;l1&gt;--config-dir=&lt;path&gt;&lt;/l1&gt; über die &lt;l2/&gt; in der Befehlszeile an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T115835Z" creationid="Ragnar-F" creationdate="20221114T143714Z">
+        <seg>Alle Parameter im &lt;l0/&gt; werden für alle Projekte genutzt, es sei denn, Sie geben einen anderen Konfigurationsordner mit der Option &lt;l1&gt;--config-dir=&lt;Pfad&gt;&lt;/l1&gt; über die &lt;l2/&gt; in der Befehlszeile an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8957,8 +8957,8 @@ korrektem Verhalten kommen kann.</seg>
       <tuv lang="en">
         <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210130T123608Z" creationid="BVB" creationdate="20180826T204715Z">
-        <seg>Wie bei freien Entwicklungen gilt jedoch auch hier der Grundsatz, dass alle Änderungen an OmegaT der Anwendung und ihren Benutzern zugute kommen müssen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T122818Z" creationid="BVB" creationdate="20180826T204715Z">
+        <seg>Wie bei freien Entwicklungen gilt jedoch auch hier der Grundsatz, dass alle Änderungen an OmegaT der Anwendung und ihren Benutzern zugutekommen müssen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20091,8 +20091,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossaries located in nested folders are also recognized.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T123511Z" creationid="Ragnar-F" creationdate="20210324T123511Z">
-        <seg>Glossare, die sich in tiefer liegenden Ordnern befinden, werden ebenfalls erkannt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T115209Z" creationid="Ragnar-F" creationdate="20210324T123511Z">
+        <seg>Glossare in Unterordnern werden ebenfalls erkannt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24266,8 +24266,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In situations where you need to share a TMX that contain only the text from certain specific files and excludes other content, follow the procedure below:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T091301Z" creationid="Ragnar-F" creationdate="20221117T091301Z">
-        <seg>Wenn Sie ein TMX teilen müssen, das nur den Text für bestimmte Dateien enthält und andere Inhalte ausschließt, gehen Sie wie folgt vor:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T120620Z" creationid="Ragnar-F" creationdate="20221117T091301Z">
+        <seg>Wenn Sie eine TMX-Datei mit anderen Übersetzern teilen müssen, die nur den Text für bestimmte Dateien enthält und andere Inhalte ausschließt, gehen Sie wie folgt vor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34010,8 +34010,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Opens a dialog where you can paste the URL of the Mediawiki page you want to translate.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T182705Z" creationid="Ragnar-F" creationdate="20221117T182705Z">
-        <seg>Öffnet ein Dialogfenster, das Sie nutzen können, um die URL der Mediawiki-Seite einzufügen, die Sie übersetzen möchten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T120000Z" creationid="Ragnar-F" creationdate="20221117T182705Z">
+        <seg>Öffnet ein Dialogfenster, das Sie nutzen können, um die URL der MediaWiki-Seite einzufügen, die Sie übersetzen möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37743,8 +37743,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replace a term</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T213039Z" creationid="Ragnar-F" creationdate="20221121T213039Z">
-        <seg>Ein Suchbegriff ersetzen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T121600Z" creationid="Ragnar-F" creationdate="20221121T213039Z">
+        <seg>Einen Suchbegriff ersetzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -56186,8 +56186,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Using a proportional font will break that layout.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T095949Z" creationid="Ragnar-F" creationdate="20221119T095949Z">
-        <seg>Die Nutzung einer proportionalen Schriftart würde dieses Layout zunichte machen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T120817Z" creationid="Ragnar-F" creationdate="20221119T095949Z">
+        <seg>Die Nutzung einer proportionalen Schriftart würde dieses Layout zunichtemachen.</seg>
       </tuv>
     </tu>
     <tu>
