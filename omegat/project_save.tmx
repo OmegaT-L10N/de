@@ -1702,6 +1702,14 @@ ${targetText}
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113231Z" creationid="Ragnar-F" creationdate="20221123T113231Z">
+        <seg>&amp;Blattnamen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show All</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T102949Z" creationid="Ragnar-F" creationdate="20210113T102949Z">
@@ -6714,6 +6722,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T112729Z" creationid="Ragnar-F" creationdate="20221123T112729Z">
+        <seg>&amp;Konfigurationsordner öffnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T131046Z" creationid="Michael Motzkus" creationdate="20190129T070253Z">
@@ -9294,6 +9310,14 @@ korrektem Verhalten kommen kann.</seg>
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T164251Z" creationid="karsten" creationdate="20150919T125540Z">
+        <seg>Mit Editor auto-synchronisieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113157Z" creationid="Ragnar-F" creationdate="20221123T113157Z">
         <seg>Mit Editor auto-synchronisieren</seg>
       </tuv>
     </tu>
@@ -12037,6 +12061,14 @@ Buy another drink</seg>
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203648Z">
+        <seg>Spaltenindex muss 1 sein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113216Z" creationid="Ragnar-F" creationdate="20221123T113216Z">
         <seg>Spaltenindex muss 1 sein</seg>
       </tuv>
     </tu>
@@ -15965,6 +15997,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113249Z" creationid="Ragnar-F" creationdate="20221123T113249Z">
+        <seg>Reser&amp;vetext für Kompatibilität</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T100250Z" creationid="karsten" creationdate="20150919T100250Z">
@@ -16937,6 +16977,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113210Z" creationid="Ragnar-F" creationdate="20221123T113210Z">
+        <seg>Fehler beim Laden des Plugins aus Klasse '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T090345Z">
@@ -17036,6 +17084,14 @@ No one hears your screams</seg>
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203352Z">
+        <seg>Fehler beim Entladen des Plugins aus Klasse '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113213Z" creationid="Ragnar-F" creationdate="20221123T113213Z">
         <seg>Fehler beim Entladen des Plugins aus Klasse '{0}': {1}</seg>
       </tuv>
     </tu>
@@ -17542,6 +17598,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113147Z" creationid="Ragnar-F" creationdate="20221123T113147Z">
+        <seg>Ausschlussmuster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exclusion Patterns</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T151230Z" creationid="Ragnar-F" creationdate="20210113T082702Z">
@@ -17850,6 +17914,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T083037Z" creationid="BVB" creationdate="20180826T083037Z">
         <seg>Externe Dokumentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External lLin&amp;ks</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113404Z" creationid="Ragnar-F" creationdate="20221123T113404Z">
+        <seg>E&amp;xterne Links</seg>
       </tuv>
     </tu>
     <tu>
@@ -24769,6 +24841,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113150Z" creationid="Ragnar-F" creationdate="20221123T113150Z">
+        <seg>Einschlussmuster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T075147Z" creationid="Michael Motzkus" creationdate="20190129T083803Z">
@@ -26895,6 +26975,14 @@ Computer und das Programm selbst installiert.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113658Z" creationid="Ragnar-F" creationdate="20221123T113649Z">
+        <seg>Sprachname</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T191130Z">
@@ -27826,6 +27914,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113142Z" creationid="Ragnar-F" creationdate="20221123T113142Z">
+        <seg>Lokale Datei/Ordner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T193822Z" creationid="Michael Motzkus" creationdate="20190129T090123Z">
@@ -28437,6 +28533,14 @@ online erfolgen.</seg>
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T162311Z" creationid="Michael Motzkus" creationdate="20181022T144007Z">
+        <seg>Lokale Ordner/Dateien mit Remote-Ordnern/Dateien in Repositories verknüpfen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T112949Z" creationid="Ragnar-F" creationdate="20221123T112949Z">
         <seg>Lokale Ordner/Dateien mit Remote-Ordnern/Dateien in Repositories verknüpfen</seg>
       </tuv>
     </tu>
@@ -30774,6 +30878,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113245Z" creationid="Ragnar-F" creationdate="20221123T113245Z">
+        <seg>Un&amp;sichtbare Anweisungstexte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-visible instruction text, comments, footnotes, endnotes, footers, duplicate fallback text, and document properties.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T141735Z" creationid="Ragnar-F" creationdate="20221110T141653Z">
@@ -31201,6 +31313,22 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
         <seg>Note: The Source File Encoding setting only affects HTML files with no encoding declaration.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T175950Z" creationid="Ragnar-F" creationdate="20221109T175950Z">
+        <seg>Hinweis: Die Einstellung 'Kodierung der Quelldatei' betrifft nur HTML-Dateien ohne Kodierungsdeklaration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113434Z" creationid="Ragnar-F" creationdate="20221123T113434Z">
+        <seg>Hinweis: Die Einstellung 'Kodierung der Quelldatei' betrifft nur HHC- und HHK-Dateien ohne Kodierungsdeklaration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113430Z" creationid="Ragnar-F" creationdate="20221123T113430Z">
         <seg>Hinweis: Die Einstellung 'Kodierung der Quelldatei' betrifft nur HTML-Dateien ohne Kodierungsdeklaration.</seg>
       </tuv>
     </tu>
@@ -34424,6 +34552,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other options:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113411Z" creationid="Ragnar-F" creationdate="20221123T113411Z">
+        <seg>Weitere Optionen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T112649Z">
@@ -35482,6 +35618,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T145531Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113254Z" creationid="Ragnar-F" creationdate="20221123T113254Z">
+        <seg>PowerPoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -37285,10 +37429,26 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113144Z" creationid="Ragnar-F" creationdate="20221123T113144Z">
+        <seg>Remote-Datei/Ordner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote location or directory of the files to translate.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T083503Z" creationid="Ragnar-F" creationdate="20210111T083503Z">
         <seg>Remote-Standort oder Verzeichnis der zu übersetzenden Dateien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T112802Z" creationid="Ragnar-F" creationdate="20221123T112802Z">
+        <seg>Remote-Repositories</seg>
       </tuv>
     </tu>
     <tu>
@@ -38680,6 +38840,14 @@ These words: 'Page not found'</seg>
         <seg>S&amp;lide Comments</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210118T111246Z">
+        <seg>Fol&amp;ienkommentare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113300Z" creationid="Ragnar-F" creationdate="20221123T113300Z">
         <seg>Fol&amp;ienkommentare</seg>
       </tuv>
     </tu>
@@ -42026,6 +42194,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113306Z" creationid="Ragnar-F" creationdate="20221123T113306Z">
+        <seg>Fo&amp;lienmasters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slide La&amp;youts</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210118T111256Z">
@@ -42038,6 +42214,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T141813Z" creationid="Ragnar-F" creationdate="20221110T141813Z">
         <seg>Folienkommentare, Folienmasters und Folienlayouts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113308Z" creationid="Ragnar-F" creationdate="20221123T113308Z">
+        <seg>Folienl&amp;ayouts</seg>
       </tuv>
     </tu>
     <tu>
@@ -42490,6 +42674,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113223Z" creationid="Ragnar-F" creationdate="20221123T113223Z">
+        <seg>Kodierung der Quelldatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file encoding:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T234033Z" creationid="Ragnar-F" creationdate="20221121T234033Z">
@@ -42686,6 +42878,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T141747Z">
         <seg>Quelltext des Matches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T112746Z" creationid="Ragnar-F" creationdate="20221123T112746Z">
+        <seg>Quell-/Übersetzungslänge (Zeichen)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43055,6 +43255,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T115901Z" creationid="karsten" creationdate="20150919T142943Z">
+        <seg>&amp;Neuen Absatz bei weichem Zeilenumbruch beginnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113423Z" creationid="Ragnar-F" creationdate="20221123T113423Z">
         <seg>&amp;Neuen Absatz bei weichem Zeilenumbruch beginnen</seg>
       </tuv>
     </tu>
@@ -53474,6 +53682,14 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113227Z" creationid="Ragnar-F" creationdate="20221123T113227Z">
+        <seg>Kodierung der Zieldatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file encoding:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T234036Z" creationid="Ragnar-F" creationdate="20221121T234036Z">
@@ -54237,6 +54453,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195940Z">
+        <seg>Das Lesen der XML-Datei konnte nicht initialisiert werden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T113206Z" creationid="Ragnar-F" creationdate="20221123T113206Z">
         <seg>Das Lesen der XML-Datei konnte nicht initialisiert werden!</seg>
       </tuv>
     </tu>
@@ -57639,6 +57863,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T125122Z" creationid="Ragnar-F" creationdate="20221114T125122Z">
         <seg>Beschreibbare Glossardatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221123T112758Z" creationid="Ragnar-F" creationdate="20221123T112758Z">
+        <seg>Beschreibbare Glossardatei:</seg>
       </tuv>
     </tu>
     <tu>
