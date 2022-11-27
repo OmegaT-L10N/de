@@ -16804,6 +16804,16 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221127T210017Z" creationid="Ragnar-F" creationdate="20221127T210017Z">
+        <seg>Geben Sie einen Sprachcode im Format xx-YY, xxx-YY, xx_YY oder xxx_YY ein,
+wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T213157Z">
@@ -42245,6 +42255,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
         <seg>Skipped translation units for which no source  segment was found.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T233948Z" creationid="Ragnar-F" creationdate="20221121T233948Z">
+        <seg>Translation Units wurden übersprungen, für die kein Quellsegment gefunden wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped translation units for which no source segment was found.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221127T210029Z" creationid="Ragnar-F" creationdate="20221127T210029Z">
         <seg>Translation Units wurden übersprungen, für die kein Quellsegment gefunden wurde.</seg>
       </tuv>
     </tu>
