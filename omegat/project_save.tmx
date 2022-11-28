@@ -10384,6 +10384,22 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, only the current segment is displayed in bold face.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T092442Z" creationid="Ragnar-F" creationdate="20221128T091928Z">
+        <seg>Standardmäßig wird nur der Quelltext des aktiven Segments fett dargestellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, only the second and subsequent non-unique segments are marked when &lt;l0/&gt; is enabled.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T092632Z" creationid="Ragnar-F" creationdate="20221128T092632Z">
+        <seg>Wenn &lt;l0/&gt; aktiviert ist, werden standardmäßig nur das zweite und die nachfolgenden nicht-einmaligen Segmente hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, resources include the project’s translation memory, which is automatically created upon project creation, and the files to translate.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221122T180918Z" creationid="Ragnar-F" creationdate="20221117T095513Z">
@@ -12406,6 +12422,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132038Z" creationid="Ragnar-F" creationdate="20221119T132038Z">
         <seg>Befehle werden in der Befehlszeile geöffnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands specified here are available to all the projects that use the same configuration folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T093457Z" creationid="Ragnar-F" creationdate="20221128T093457Z">
+        <seg>Die hier angegebenen Befehle sind für alle Projekte verfügbar, die denselben Konfigurationsordner verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18000,6 +18024,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export the segment to a text file</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T091828Z" creationid="Ragnar-F" creationdate="20221128T091828Z">
+        <seg>Segment in eine Textdatei exportieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export the segment to text files</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221123T114323Z">
@@ -19223,6 +19255,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T211704Z" creationid="Ragnar-F" creationdate="20210108T211704Z">
         <seg>Aus Datenschutzgründen möchten Sie möglicherweise nicht alle Segmente an einen maschinellen Übersetzungsdienst senden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For content with paired tags (as in HTML) the tooltips can be simplified when you hover on them.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T092954Z" creationid="Ragnar-F" creationdate="20221128T092954Z">
+        <seg>Wenn dieser Inhalt gepaarte Tags (wie in HTML) enthält, können solche Tooltips beim Darüberbewegen des Mauszeigers vereinfacht werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22578,6 +22618,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If source segments are displayed in normal face, you can use this option to display only the current source segment in bold.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T092500Z" creationid="Ragnar-F" creationdate="20221128T092413Z">
+        <seg>Wenn die Quelltexte von den Segmenten in normaler Schrift dargestellt werden, können Sie diese Option verwenden, um nur den Quelltext des aktiven Segments fett darzustellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If such a file is found in the &lt;l2/&gt; folder, the file will be handled by the XHTML filter.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T124317Z" creationid="Ragnar-F" creationdate="20221110T124317Z">
@@ -25420,6 +25468,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidirectional Control Character</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T091727Z" creationid="Ragnar-F" creationdate="20221128T091727Z">
+        <seg>Bidirektionales Steuerzeichen einfügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Linebreak</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T144336Z" creationid="Ragnar-F" creationdate="20221112T144318Z">
@@ -25680,6 +25736,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T142639Z" creationid="Ragnar-F" creationdate="20221117T142639Z">
         <seg>Fügt das ausgewählte Unicode-Steuerzeichen ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the selected bidirectional control character.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T091750Z" creationid="Ragnar-F" creationdate="20221128T091750Z">
+        <seg>Fügt das ausgewählte bidirektionale Steuerzeichen ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40756,6 +40820,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Unicode Bidirectional Algorithm&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T091805Z" creationid="Ragnar-F" creationdate="20221128T091805Z">
+        <seg>Einzelheiten finden Sie unter &lt;u0&gt;Unicode Bidirectional Algorithm&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T133712Z">
@@ -41016,6 +41088,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T155917Z" creationid="Ragnar-F" creationdate="20221119T155917Z">
         <seg>Segmentmodifikationsinfos werden über dem Segment angezeigt und geben standardmäßig an, wann und von wem die Übersetzung geändert wurde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment modification information is displayed over the segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T093028Z" creationid="Ragnar-F" creationdate="20221128T093028Z">
+        <seg>Segmentmodifikationsinfos werden oberhalb des Segments angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42492,6 +42572,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple example of a post-processing command:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T093528Z" creationid="Ragnar-F" creationdate="20221128T093528Z">
+        <seg>Einfaches Beispiel für einen Nachbearbeitungsbefehl:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple examples of post-processing commands:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T114403Z" creationid="Ragnar-F" creationdate="20221114T114403Z">
@@ -43586,6 +43674,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T180416Z" creationid="Ragnar-F" creationdate="20210110T180416Z">
         <seg>Geben Sie Befehle an, die nach dem Befehl &lt;g0&gt;Übersetzte Dokumente erstellen&lt;/g0&gt; ausgeführt werden sollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify commands to run automatically after using &lt;l0/&gt; or &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T093434Z" creationid="Ragnar-F" creationdate="20221128T093434Z">
+        <seg>Geben Sie Befehle an, die automatisch nach &lt;l0/&gt; oder &lt;l1/&gt; ausgeführt werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44770,6 +44866,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T173039Z" creationid="Ragnar-F" creationdate="20221109T173039Z">
         <seg>Tag-Kürzel (gelten nicht für OmegaT-2.6-kompatible Dateien):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag tooltips display the actual content of the tag.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T092822Z" creationid="Ragnar-F" creationdate="20221128T092822Z">
+        <seg>Tag-Tooltips zeigen den tatsächlichen Inhalt des Tags an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56646,6 +56750,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the template variables to adapt this template to your needs.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T093350Z" creationid="Ragnar-F" creationdate="20221128T093350Z">
+        <seg>Verwenden Sie die Variablen, um die Darstellungsweise nach Belieben anzupassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T231131Z">
@@ -56802,6 +56914,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132651Z" creationid="Ragnar-F" creationdate="20221119T132651Z">
         <seg>Verwenden Sie diese Option, um Teile der Übersetzung, die keine große Umwandlung erfordern, vorübergehend einzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to also mark the first such segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T092812Z" creationid="Ragnar-F" creationdate="20221128T092812Z">
+        <seg>Verwenden Sie diese Option, um auch das erste Segment unter ihnen hervorzuheben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63973,6 +64093,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://www.unicode.org/reports/tr9/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T091729Z" creationid="Ragnar-F" creationdate="20221128T091729Z">
+        <seg>https://www.unicode.org/reports/tr9/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://yandex.com/</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215825Z" creationid="Ragnar-F" creationdate="20221118T215825Z">
@@ -66366,6 +66494,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T140206Z" creationid="Ragnar-F" creationdate="20221119T140206Z">
         <seg>wird der Inhalt des Zieltextes (falls vorhanden) nach &lt;l0/&gt; kopiert,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the default setting shows who last modified the translation and when:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T093247Z" creationid="Ragnar-F" creationdate="20221128T093247Z">
+        <seg>Standardmäßig wird angezeigt, von wem und wann die Übersetzung zuletzt geändert wurde:</seg>
       </tuv>
     </tu>
     <tu>
