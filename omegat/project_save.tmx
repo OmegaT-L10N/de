@@ -1142,6 +1142,14 @@ ${targetText}
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221208T185001Z" creationid="Ragnar-F" creationdate="20221208T185001Z">
+        <seg>Plugin von Festplatte &amp;installieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T101736Z" creationid="Ragnar-F" creationdate="20210113T101736Z">
@@ -6210,6 +6218,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="de">
         <seg>Einige einfache Beispiele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A file is not a plugin archive</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221208T190519Z" creationid="Ragnar-F" creationdate="20221208T190519Z">
+        <seg>Eine Datei ist kein Plugin-Archiv</seg>
       </tuv>
     </tu>
     <tu>
@@ -25832,6 +25848,22 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install plugin file</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221208T185038Z" creationid="Ragnar-F" creationdate="20221208T185038Z">
+        <seg>Plugin-Datei installieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin {0} {1}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221208T190411Z" creationid="Ragnar-F" creationdate="20221208T190411Z">
+        <seg>Plugin {0} {1} installieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T161758Z" creationid="BVB" creationdate="20180826T092005Z">
@@ -36092,6 +36124,22 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin Installer</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221208T190548Z" creationid="Ragnar-F" creationdate="20221208T190527Z">
+        <seg>Plugin-Installer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221208T190430Z" creationid="Ragnar-F" creationdate="20221208T190430Z">
+        <seg>Plugin-Installation fehlgeschlagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T125827Z" creationid="karsten" creationdate="20150919T125827Z">
@@ -41620,6 +41668,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220730Z" creationid="Ragnar-F" creationdate="20221118T220730Z">
         <seg>Wählen Sie ein Layout für den Inhalt des Glossarbereichs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a plugin file (*.jar, *.zip)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221208T190637Z" creationid="Ragnar-F" creationdate="20221208T190637Z">
+        <seg>Wählen Sie eine Plugin-Datei (*.jar, *.zip) ein</seg>
       </tuv>
     </tu>
     <tu>
@@ -55918,6 +55974,18 @@ Dokumentationsdatei und die OmegaT-Anwendung enthält.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141117Z" creationid="Ragnar-F" creationdate="20221114T141117Z">
         <seg>Aktualisierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade/override plugin {0}
+current: {1}
+new version: {2}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221208T185543Z" creationid="Ragnar-F" creationdate="20221208T185523Z">
+        <seg>Plugin {0} aktualisieren/überschreiben
+Aktuell: {1}
+Neue Version: {2}</seg>
       </tuv>
     </tu>
     <tu>
