@@ -1342,6 +1342,14 @@ ${targetText}
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221214T173623Z" creationid="Ragnar-F" creationdate="20221214T173623Z">
+        <seg>&amp;Nächstes Segment mit xAUTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;None</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T203732Z" creationid="Ragnar-F" creationdate="20221109T203732Z">
@@ -1434,6 +1442,14 @@ ${targetText}
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T200335Z">
         <seg>Vor&amp;heriges Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221214T173634Z" creationid="Ragnar-F" creationdate="20221214T173634Z">
+        <seg>&amp;Vorheriges Segment mit xAUTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -9411,6 +9427,14 @@ korrektem Verhalten kommen kann.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131135Z" creationid="Michael Motzkus" creationdate="20190129T065524Z">
         <seg>Autovervollständigung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221214T173553Z" creationid="Ragnar-F" creationdate="20221214T173553Z">
+        <seg>Automatisch ausgefü&amp;llte Segmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -30800,6 +30824,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221214T173652Z" creationid="Ragnar-F" creationdate="20221214T173652Z">
+        <seg>Nä&amp;chstes Segment mit xENFORCED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NB:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T150456Z" creationid="Michael Motzkus" creationdate="20180921T080530Z">
@@ -32032,6 +32064,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221128T090611Z" creationid="Ragnar-F" creationdate="20221128T090611Z">
         <seg>Benachrichtigungen gibt es für folgende Fensterbereiche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221214T173951Z" creationid="Ragnar-F" creationdate="20221214T173951Z">
+        <seg>Mich auch benachrichtigen, wenn es keine Suchergebnisse gibt</seg>
       </tuv>
     </tu>
     <tu>
@@ -35290,6 +35330,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T124035Z" creationid="Ragnar-F" creationdate="20221118T124035Z">
         <seg>Überschreiben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221214T173714Z" creationid="Ragnar-F" creationdate="20221214T173714Z">
+        <seg>V&amp;orheriges Segment mit xENFORCED</seg>
       </tuv>
     </tu>
     <tu>
@@ -52080,6 +52128,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is not a plugin archive.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221214T173214Z" creationid="Ragnar-F" creationdate="20221214T173214Z">
+        <seg>Diese Datei ist kein Plugin-Archiv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file keeps a record of the last segment you visited, including its number, its source contents, the file name and the date, so that you can come back to it when you reload/relaunch the project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221120T214555Z" creationid="Ragnar-F" creationdate="20221120T214555Z">
@@ -53174,6 +53230,16 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T111301Z" creationid="Ragnar-F" creationdate="20210111T111301Z">
         <seg>Dies wird OmegaT mit 6 GB Speicher starten; ändern Sie das &lt;l4&gt;6g&lt;/l4&gt; auf die gewünschte Kapazität.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will reset all
+settings to their defaults.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221214T174642Z" creationid="Ragnar-F" creationdate="20221214T174642Z">
+        <seg>Dies wird
+alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60672,6 +60738,16 @@ Finder-Fensters ziehen, um es von jedem Ort aus starten zu können.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142403Z" creationid="Ragnar-F" creationdate="20210111T180912Z">
         <seg>Sie können mit &lt;g0&gt;Strg+2, 3, 4, oder 5&lt;/g0&gt; einen anderen Match auswählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221214T174727Z" creationid="Ragnar-F" creationdate="20221214T174727Z">
+        <seg>Es kann
+daher zu unerwartetem, aber korrektem Verhalten kommen.</seg>
       </tuv>
     </tu>
     <tu>
