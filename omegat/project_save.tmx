@@ -5704,6 +5704,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space (&lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232853Z" creationid="Ragnar-F" creationdate="20221217T232853Z">
+        <seg>&lt;l0&gt;\H&lt;/l0&gt; ist ein beliebiges Zeichen, das &lt;e1&gt;kein&lt;/e1&gt; horizontales Leerraumzeichen ist, und &lt;l2&gt;\V&lt;/l2&gt; ist ein beliebiges Zeichen, das &lt;e3&gt;kein&lt;/e3&gt; vertikales Leerraumzeichen ist (&lt;l4&gt;[^\h]&lt;/l4&gt; bzw. &lt;l5&gt;[^\v]&lt;/l5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;\H &lt;/l0&gt;is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space (&lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T154433Z" creationid="Ragnar-F" creationdate="20221111T154433Z">
@@ -6254,6 +6262,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; followed by the letter “u”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T233101Z" creationid="Ragnar-F" creationdate="20221217T233101Z">
+        <seg>Ein Zeichen, das &lt;e0&gt;nicht&lt;/e0&gt; den Buchstaben "u" dahinter hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; preceded by the letter “q”.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170325Z" creationid="Ragnar-F" creationdate="20221111T170325Z">
@@ -6266,6 +6282,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T115345Z">
         <seg>Ein Befehlszeilenfenster wird auch als "Terminal" oder "Konsole" bezeichnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the application.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235319Z" creationid="Ragnar-F" creationdate="20221217T235319Z">
+        <seg>Eine Kommentarzeile beginnt mit einem &lt;c0&gt;#&lt;/c0&gt;; alles, was danach kommt, wird von der Applikation ignoriert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6305,6 +6329,14 @@ Dossier de configuration
         <seg>A currency symbol, which is also a &lt;u0&gt;Unicode category.&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T155501Z" creationid="Ragnar-F" creationdate="20221111T155501Z">
+        <seg>Ein Währungssymbol, das auch eine &lt;u0&gt;Unicode-Kategorie&lt;/u0&gt; ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A currency symbol, which is also a &lt;u0&gt;Unicode category&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232941Z" creationid="Ragnar-F" creationdate="20221217T232941Z">
         <seg>Ein Währungssymbol, das auch eine &lt;u0&gt;Unicode-Kategorie&lt;/u0&gt; ist.</seg>
       </tuv>
     </tu>
@@ -6486,6 +6518,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A logogram (&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt; character) found in CJK languages (&lt;u3&gt;Unicode script&lt;/u3&gt;)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232927Z" creationid="Ragnar-F" creationdate="20221217T232927Z">
+        <seg>Ein Logogramm (&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;Kanji&lt;/e1&gt;/&lt;e2&gt;Hanja&lt;/e2&gt;-Zeichen), das in CJK-Sprachen vorkommt (&lt;u3&gt;Unicode-Skript&lt;/u3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T120202Z">
@@ -6550,6 +6590,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number between &lt;e0&gt;0.0&lt;/e0&gt; and &lt;e1&gt;0.9&lt;/e1&gt;, or just the final &lt;e2&gt;0.5&lt;/e2&gt; in numbers such as 10.5 or 560.5.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232232Z" creationid="Ragnar-F" creationdate="20221217T232232Z">
+        <seg>Eine Zahl zwischen &lt;e0&gt;0.0&lt;/e0&gt; und &lt;e1&gt;0.9&lt;/e1&gt;, oder eine Zahl, die mit &lt;e2&gt;0.5&lt;/e2&gt; endet, wie z. B. 10.5 oder 560.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of characters or combinations of characters have a special meaning in a regular expression.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T101940Z" creationid="Ragnar-F" creationdate="20221111T101940Z">
@@ -6570,6 +6618,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T224904Z">
         <seg>Zum Entwickeln und Testen von regulären Ausdrücken stehen mehrere interaktive Tools zur Verfügung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A number of issues come from not selecting the right language here, or from not matching it in other preferences.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T000119Z" creationid="Ragnar-F" creationdate="20221218T000119Z">
+        <seg>Viele Probleme entstehen dadurch, dass hier nicht die richtige Sprache ausgewählt wurde oder dass sie nicht zu den anderen Einstellungen passt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8834,6 +8890,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An uppercase letter (&lt;u0&gt;Unicode category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232934Z" creationid="Ragnar-F" creationdate="20221217T232934Z">
+        <seg>Ein Großbuchstabe (&lt;u0&gt;Unicode-Kategorie&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T123125Z">
@@ -9419,6 +9483,14 @@ korrektem Verhalten kommen kann.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T194114Z">
         <seg>Gleichzeitig werden die bisher gültigen Segmente im Translation Memory des Projekts zu verwaisten Segmenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the same time, the translator realized that during her session, she used the &lt;l0/&gt;&lt;l1/&gt; menu and the cursor keys several times, and decides to &lt;l2&gt;add a new shortcut&lt;/l2&gt; to streamline that part of the process as well.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235219Z" creationid="Ragnar-F" creationdate="20221217T235219Z">
+        <seg>Gleichzeitig hat die Übersetzerin festgestellt, dass sie während ihrer Sitzung mehrmals das &lt;l0/&gt;&lt;l1/&gt;-Menü und die Cursortasten verwendet hat, und beschließt, &lt;l2&gt;ein neues Tastenkürzel hinzuzufügen&lt;/l2&gt;, um auch diesen Arbeitsschritt zu beschleunigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12521,6 +12593,14 @@ Buy another drink</seg>
         <seg>Combinations containing three letters that start with “c” and ending with “t” split, but are split across more than one line.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T120722Z" creationid="Ragnar-F" creationdate="20221111T120722Z">
+        <seg>Kombinationen aus drei Buchstaben, die mit "c" beginnen und mit "t" enden, aber auf mehr als eine Zeile verteilt sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combinations containing three letters that start with “c” and ending with “t”, but are split across more than one line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232542Z" creationid="Ragnar-F" creationdate="20221217T232542Z">
         <seg>Kombinationen aus drei Buchstaben, die mit "c" beginnen und mit "t" enden, aber auf mehr als eine Zeile verteilt sind.</seg>
       </tuv>
     </tu>
@@ -16653,6 +16733,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T101859Z" creationid="Ragnar-F" creationdate="20221111T101859Z">
         <seg>Jedes einzelne Zeichen des Ausdrucks ist für die Ermittlung einer Übereinstimmung relevant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each character is briefly described below with examples of regular expressions that rely on the character as well as of text that they do, or do not, match.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232209Z" creationid="Ragnar-F" creationdate="20221217T232209Z">
+        <seg>Nachfolgend wird jedes Zeichen kurz beschrieben, mit entsprechenden RegEx-Beispielen und was damit gefunden oder nicht gefunden wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23206,6 +23294,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending on what the rule defined.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T233154Z" creationid="Ragnar-F" creationdate="20221217T233154Z">
+        <seg>Wenn die Stelle beide Regeln erfüllt, wird der Text an dieser Stelle je nach Regeltyp geteilt oder nicht geteilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T110614Z" creationid="Ragnar-F" creationdate="20210109T105111Z">
@@ -24484,6 +24580,14 @@ folgt starten können:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your language pair calls for the frequent use of &lt;l0&gt;alternative translations&lt;/l0&gt;, you may want to assign a shortcut to that function since it does not have one by default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235557Z" creationid="Ragnar-F" creationdate="20221217T235557Z">
+        <seg>Wenn Ihr Sprachpaar die häufige Nutzung &lt;l0&gt;alternativer Übersetzungen&lt;/l0&gt; erfordert, sollten Sie dieser Funktion ein Tastenkürzel zuweisen, da sie standardmäßig keines hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T225026Z" creationid="Ragnar-F" creationdate="20210109T225026Z">
@@ -25463,6 +25567,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T233515Z" creationid="Ragnar-F" creationdate="20221217T233515Z">
+        <seg>In dieser Bedienungsanleitung: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T184744Z" creationid="Ragnar-F" creationdate="20221117T184744Z">
@@ -26297,6 +26409,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead of reaching for the mouse, she unlocks the cursor with &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, uses the cursor keys and standard system shortcuts to navigate to the term and select it, and then presses &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; to &lt;l6&gt;call up the glossary entry dialog&lt;/l6&gt; to enter the source term, and then switches back to the editor and repeats the process to enter the target term.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T233602Z" creationid="Ragnar-F" creationdate="20221217T233602Z">
+        <seg>Statt zur Maus zu greifen, entsperrt sie den Textcursor mit &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, verwendet die Cursortasten und die regulären Systemkurzbefehle, um zum Begriff zu navigieren und ihn auszuwählen, drückt dann &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt;, um &lt;l6&gt;den Glossareintragsdialogfenster zu öffnen&lt;/l6&gt;, wo sie den Quellbegriff einträgt, wechselt dann zurück zum Editor und wiederholt den Vorgang, um den Zielbegriff einzutragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T083222Z" creationid="Ragnar-F" creationdate="20210111T083222Z">
@@ -27089,6 +27209,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It therefore matches the “q” in “equal” or “question”, but &lt;e1&gt;not&lt;/e1&gt; the one in “qigong” or “Iraq”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T233045Z" creationid="Ragnar-F" creationdate="20221217T233045Z">
+        <seg>Es findet also das "q" in "equal" oder "question", aber &lt;e1&gt;nicht&lt;/e1&gt; in "qigong" oder "Iraq".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It therefore matches the “q” in “qigong” or “Iraq”, but &lt;e2&gt;not&lt;/e2&gt; the one in “equal” or “question”.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T170017Z" creationid="Ragnar-F" creationdate="20221111T170017Z">
@@ -27817,6 +27945,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T100949Z" creationid="Ragnar-F" creationdate="20221114T100617Z">
         <seg>Sprachcodes werden für &lt;l0/&gt;, &lt;l1/&gt;, die &lt;l2/&gt;, &lt;l3/&gt; und so weiter verwendet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language codes are used in various places in OmegaT:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T000215Z" creationid="Ragnar-F" creationdate="20221218T000215Z">
+        <seg>Sprachcodes werden an verschiedenen Stellen in OmegaT verwendet:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30652,6 +30788,14 @@ online erfolgen.</seg>
         <seg>More egregious mispellings such as “licensse” or “lissense”.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T131616Z" creationid="Ragnar-F" creationdate="20221111T131517Z">
+        <seg>Krassere Falschschreibungen wie "licensse" oder "lissense".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More egregious misspellings such as “licensse” or “lissense”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232649Z" creationid="Ragnar-F" creationdate="20221217T232649Z">
         <seg>Krassere Falschschreibungen wie "licensse" oder "lissense".</seg>
       </tuv>
     </tu>
@@ -33622,6 +33766,14 @@ höher auf Ihrem System installiert ist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT synchronises the Editor contents with the selected result, so she can edit the segments right away.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235034Z" creationid="Ragnar-F" creationdate="20221217T235034Z">
+        <seg>OmegaT synchronisiert die Editorinhalte mit dem ausgewählten Ergebnis, so dass sie die Segmente sofort bearbeiten kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT synchronizes a team project when it is opened, reloaded, closed or saved.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T143712Z" creationid="Ragnar-F" creationdate="20221116T143712Z">
@@ -35418,6 +35570,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T125547Z" creationid="Ragnar-F" creationdate="20221111T125534Z">
         <seg>Orangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ordinary OmegaT searches are case insensitive by default: they match both uppercase and lowercase characters, unless you choose to enable the &lt;l0/&gt; option.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232730Z" creationid="Ragnar-F" creationdate="20221217T232730Z">
+        <seg>Die normale OmegaT-Suche ist standardmäßig nicht Groß-/Kleinschreibung-sensitiv: Sie findet sowohl Groß- als auch Kleinbuchstaben, es sei denn, Sie haben die Option &lt;l0/&gt; aktiviert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38263,6 +38423,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T101244Z" creationid="Ragnar-F" creationdate="20221111T101244Z">
         <seg>Reguläre Ausdrücke werden verwendet, um Texte zu finden (einschließlich Zeichen, die auf dem Bildschirm oder beim Ausdruck nicht sichtbar sind, wie z. B. Leerzeichen, Tabulatorzeichen oder Zeilenumbrüche).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions are used to find text, including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T231918Z" creationid="Ragnar-F" creationdate="20221217T231918Z">
+        <seg>Reguläre Ausdrücke werden verwendet, um Texte zu finden, einschließlich Zeichen, die auf dem Bildschirm oder beim Ausdruck nicht sichtbar sind, wie z. B. Leerzeichen, Tabulatorzeichen oder Zeilenumbrüche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41520,6 +41688,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T233502Z" creationid="Ragnar-F" creationdate="20221217T233502Z">
+        <seg>Einzelheiten finden Sie im Abschnitt &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; window for details.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221217T221713Z" creationid="Ragnar-F" creationdate="20221217T221713Z">
@@ -42896,6 +43072,22 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>She now decides to review the annoted segments.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T234429Z" creationid="Ragnar-F" creationdate="20221217T234220Z">
+        <seg>Sie beschließt nun, die mit Notizen versehenen Segmente zu überprüfen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>She uses &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; to find them, and in the search window uses &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;N&lt;/k5&gt;&lt;/k3&gt; and &lt;k6&gt;&lt;k7&gt;C&lt;/k7&gt;&lt;k8&gt;P&lt;/k8&gt;&lt;/k6&gt; to navigate the results.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T234957Z" creationid="Ragnar-F" creationdate="20221217T234957Z">
+        <seg>Sie verwendet &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;, um sie zu finden, und drückt &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;N&lt;/k5&gt;&lt;/k3&gt; und &lt;k6&gt;&lt;k7&gt;C&lt;/k7&gt;&lt;k8&gt;P&lt;/k8&gt;&lt;/k6&gt; im Suchfenster, um durch die Ergebnisse zu navigieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T110016Z" creationid="Ragnar-F" creationdate="20221112T110016Z">
@@ -43107,6 +43299,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
         <seg>Similarly, &lt;l4&gt;\R&lt;/l4&gt; matches &lt;e5&gt;any line break character&lt;/e5&gt;).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T104744Z" creationid="Ragnar-F" creationdate="20221111T104744Z">
+        <seg>&lt;l4&gt;\R&lt;/l4&gt; hingegen findet &lt;e5&gt;ein beliebiges Zeilenumbruchzeichen&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, &lt;l4&gt;\R&lt;/l4&gt; matches &lt;e5&gt;any line break character&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T231927Z" creationid="Ragnar-F" creationdate="20221217T231927Z">
         <seg>&lt;l4&gt;\R&lt;/l4&gt; hingegen findet &lt;e5&gt;ein beliebiges Zeilenumbruchzeichen&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
@@ -43660,6 +43860,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T165826Z" creationid="Ragnar-F" creationdate="20221121T165826Z">
         <seg>Einige Skripte basieren auf &lt;e0&gt;Ereignissen&lt;/e0&gt; und können so programmiert werden, dass sie automatisch ausgelöst werden, wenn ein bestimmtes Ereignis eintritt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some segments will require modifications later on, so she uses &lt;k0&gt;&lt;k1&gt;A&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt; to enter the Notes pane, leave herself a note and comes back to the Editor pane with &lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;C&lt;/k6&gt;&lt;k7&gt;E&lt;/k7&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T234100Z" creationid="Ragnar-F" creationdate="20221217T234100Z">
+        <seg>Einige Segmente müssen später noch geändert werden, also öffnet sie den Notizenbereich mit &lt;k0&gt;&lt;k1&gt;A&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;, erstellt eine Notiz für sich selbst und kehrt mit &lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;C&lt;/k6&gt;&lt;k7&gt;E&lt;/k7&gt;&lt;/k4&gt; in den Editorbereich zurück.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46046,6 +46254,14 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text highlighting in alignments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T231445Z" creationid="Ragnar-F" creationdate="20221217T231445Z">
+        <seg>Texthervorhebung in Ausrichtungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) will not be copied into the translated document.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T145338Z" creationid="Ragnar-F" creationdate="20221110T145338Z">
@@ -46603,6 +46819,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221217T230217Z" creationid="Ragnar-F" creationdate="20221217T230217Z">
         <seg>Der Abschnitt &lt;l0/&gt; am Ende dieser Seite bietet einige Anregungen für fortgeschrittene oder komplexe Anwendungsfälle, die über den Rahmen dieser Dokumentation hinausgehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; setting allows you to define strings that OmegaT will highlight in the aligned documents.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T231717Z" creationid="Ragnar-F" creationdate="20221217T231717Z">
+        <seg>Mit der &lt;l0/&gt;-Einstellung können Sie Zeichenketten festlegen, die OmegaT in den ausgerichteten Dokumenten hervorheben soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47825,6 +48049,14 @@ Konfigurationsordner selbst verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The correct “licence” and “license” spellings, as well as the potential “lisence” and “lisense” misspellings</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232639Z" creationid="Ragnar-F" creationdate="20221217T232639Z">
+        <seg>Die korrekte Schreibweise von "licence" und "license" sowie die möglichen Falschschreibungen von "lisence" und "lisense"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The counters in the lower right corner keep track of the progress of the translation (numbers in the left hand column refer to the figure above):</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T151744Z">
@@ -48023,6 +48255,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T134807Z" creationid="Ragnar-F" creationdate="20221112T134737Z">
         <seg>Das reguläre Tastenkürzel zum &lt;l0&gt;Schließen eines Projekts&lt;/l0&gt; ist definiert als:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default shortcut for &lt;l0&gt;closing a project&lt;/l0&gt; is defined on Windows and Linux as:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235345Z" creationid="Ragnar-F" creationdate="20221217T235345Z">
+        <seg>Das reguläre Tastenkürzel zum &lt;l0&gt;Schließen eines Projekts&lt;/l0&gt; ist in Windows und Linux definiert als:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48678,6 +48918,14 @@ aktuelle Ordner verwendet.</seg>
         <seg>The full list characters is presented &lt;l0&gt;below&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T105613Z" creationid="Ragnar-F" creationdate="20221111T105613Z">
+        <seg>Die vollständige Liste der Zeichen finden Sie &lt;l0&gt;unten&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The full list of characters is presented &lt;l0&gt;below&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T231940Z" creationid="Ragnar-F" creationdate="20221217T231940Z">
         <seg>Die vollständige Liste der Zeichen finden Sie &lt;l0&gt;unten&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
@@ -49385,6 +49633,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
         <seg>The next time you start OmegaT, you your new shortcut should be active and displayed next to the name of the function in the menu.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T140637Z" creationid="Ragnar-F" creationdate="20221112T140637Z">
+        <seg>Wenn Sie OmegaT das nächste Mal starten, sollte Ihr neues Tastenkürzel aktiv sein und neben dem Namen der Funktion im Menü angezeigt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next time you start OmegaT, your new shortcut should be active and displayed next to the name of the function in the menu.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235724Z" creationid="Ragnar-F" creationdate="20221217T235724Z">
         <seg>Wenn Sie OmegaT das nächste Mal starten, sollte Ihr neues Tastenkürzel aktiv sein und neben dem Namen der Funktion im Menü angezeigt werden.</seg>
       </tuv>
     </tu>
@@ -50422,6 +50678,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The simplest regular expression consist of a single character, or combination of a &lt;l0&gt;\&lt;/l0&gt; and a character constituting a unit with a single meaning.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232705Z" creationid="Ragnar-F" creationdate="20221217T232705Z">
+        <seg>Der einfachste reguläre Ausdruck besteht aus einem einzigen Zeichen, oder aus einem &lt;l0&gt;\&lt;/l0&gt; und einem Zeichen, die zusammen eine besondere Bedeutung haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The simplest regular expression simply consist of a single character, or combination of a &lt;l0&gt;\&lt;/l0&gt; and a character constituting a unit with a single meaning.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T141105Z" creationid="Ragnar-F" creationdate="20221111T141105Z">
@@ -50674,6 +50938,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135831Z" creationid="Ragnar-F" creationdate="20221112T135831Z">
         <seg>Die folgenden Schritte zeigen, wie Sie das Tastenkürzel &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; der Funktion &lt;l3/&gt; zuweisen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The steps below demonstrate how to assign the &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; shortcut to the &lt;l3/&gt;&lt;l4/&gt; menu item.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235716Z" creationid="Ragnar-F" creationdate="20221217T235716Z">
+        <seg>Die folgenden Schritte zeigen, wie Sie das Tastenkürzel &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; dem Menüpunkt &lt;l3/&gt;&lt;l4/&gt; zuweisen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51046,6 +51318,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translator has enabled the &lt;l0&gt;auto-completion&lt;/l0&gt; to automatically display not only history predictions, but also glossary terms, and pre-defined short strings, which can be entered with simple arrow navigation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T233720Z" creationid="Ragnar-F" creationdate="20221217T233720Z">
+        <seg>Die Übersetzerin hat die &lt;l0&gt;Autovervollständigung&lt;/l0&gt; in die Lage versetzt, automatisch nicht nur Verlaufsvorhersagen, sondern auch Glossarbegriffe und vordefinierte kurze Zeichenketten anzuzeigen, die mit einfacher Pfeilnavigation eingefügt werden können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translator then reaches a revised section of the text where the &lt;l0/&gt; pane shows a number of similar segments from the previous job.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140429Z" creationid="Ragnar-F" creationdate="20221112T120726Z">
@@ -51066,6 +51346,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124959Z" creationid="Ragnar-F" creationdate="20221116T121552Z">
         <seg>Die Übersetzer müssen ein Konto für den Dienst einrichten und ihren Benutzernamen an den Teamprojektadministrator senden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The twelve special characters are the &lt;e0&gt;backslash&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, the &lt;e2&gt;caret&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, the &lt;e4&gt;dollar sign&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, the &lt;e6&gt;period&lt;/e6&gt; (or &lt;e7&gt;dot&lt;/e7&gt;) &lt;l8&gt;.&lt;/l8&gt;, the &lt;e9&gt;vertical bar&lt;/e9&gt; (or &lt;e10&gt;pipe symbol&lt;/e10&gt;) &lt;l11&gt;|&lt;/l11&gt;, the &lt;e12&gt;question mark&lt;/e12&gt; &lt;l13&gt;?&lt;/l13&gt;, the &lt;e14&gt;asterisk&lt;/e14&gt; (or &lt;e15&gt;star&lt;/e15&gt;) &lt;l16&gt;*&lt;/l16&gt;, the &lt;e17&gt;plus sign&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, the opening &lt;e19&gt;parenthesis&lt;/e19&gt; &lt;l20&gt;(&lt;/l20&gt;, the closing &lt;e21&gt;parenthesis&lt;/e21&gt;, &lt;l22&gt;)&lt;/l22&gt;, the opening &lt;e23&gt;square bracket&lt;/e23&gt; &lt;l24&gt;[&lt;/l24&gt;, and the opening &lt;e25&gt;curly brace&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232149Z" creationid="Ragnar-F" creationdate="20221217T232149Z">
+        <seg>Die zwölf Sonderzeichen sind der &lt;e0&gt;umgekehrte Schrägstrich&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, der &lt;e2&gt;Zirkumflex&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, das &lt;e4&gt;Dollarzeichen&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, der &lt;e6&gt;Punkt&lt;/e6&gt;&lt;e7&gt;&lt;/e7&gt; &lt;l8&gt;.&lt;/l8&gt;, der &lt;e9&gt;senkrechte Strich&lt;/e9&gt; (oder &lt;e10&gt;Pipe&lt;/e10&gt;) &lt;l11&gt;|&lt;/l11&gt;, das &lt;e12&gt;Fragezeichen&lt;/e12&gt; &lt;l13&gt;?&lt;/l13&gt;, das &lt;e14&gt;Sternchen&lt;/e14&gt; (oder &lt;e15&gt;Asterisk&lt;/e15&gt;) &lt;l16&gt;*&lt;/l16&gt;, das &lt;e17&gt;Pluszeichen&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, die öffnende &lt;e19&gt;runde Klammer&lt;/e19&gt; &lt;l20&gt;(&lt;/l20&gt;, die schließende &lt;e21&gt;runde Klammer&lt;/e21&gt; &lt;l22&gt;)&lt;/l22&gt;, die öffnende &lt;e23&gt;eckige Klammer&lt;/e23&gt; &lt;l24&gt;[&lt;/l24&gt;, und die öffnende &lt;e25&gt;geschweifte Klammer&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51910,6 +52198,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They will now be available in OmegaT as long as there are no conflicts with other functions or with system-wide shortcuts.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235727Z" creationid="Ragnar-F" creationdate="20221217T235727Z">
+        <seg>Sie stehen nun in OmegaT zur Verfügung, sofern es keine Konflikte mit anderen Funktionen oder mit systemweiten Tastenkürzeln gibt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Third-party plugin</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T134340Z" creationid="Ragnar-F" creationdate="20221116T134340Z">
@@ -52348,6 +52644,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T145858Z">
         <seg>Dieser Befehl wird nach dem Erstellen der übersetzten Dokumente ausgeführt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This continues, with the occasional sequence of &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2&lt;/k2&gt;&lt;/k0&gt; (or other number) followed by &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k3&gt; when one of the matches from 2 to 5 is more suitable.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T233741Z" creationid="Ragnar-F" creationdate="20221217T233741Z">
+        <seg>Dies setzt sich fort, wobei sie gelegentlich &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2&lt;/k2&gt;&lt;/k0&gt; (oder eine andere Zahl) gefolgt von &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k3&gt; drückt, wenn einen der Treffer von 2 bis 5 besser geeignet ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53228,6 +53532,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T124531Z" creationid="Ragnar-F" creationdate="20221116T124531Z">
         <seg>Dies macht es möglich, die zu übersetzende Datei umzubenennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This manual only describes a small subset of letters that take on a special meaning.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T231932Z" creationid="Ragnar-F" creationdate="20221217T231932Z">
+        <seg>Diese Dokumentation behandelt nur einen kleinen Teil der Buchstaben, die eine besondere Bedeutung haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54352,6 +54664,14 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T142222Z">
         <seg>Um das Schnellstart-Handbuch in der gewünschten Sprache anzuzeigen, müssen Sie sowohl die Sprache als auch das Land angeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do so, modify the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; as follows for Windows or Linux:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235540Z" creationid="Ragnar-F" creationdate="20221217T235500Z">
+        <seg>Um das zu tun, ändern Sie die &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;-Datei wie folgt für Windows und Linux:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57152,6 +57472,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235830Z" creationid="Ragnar-F" creationdate="20221217T235830Z">
+        <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt;, um das Dialogfenster zu öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the file.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221217T222128Z" creationid="Ragnar-F" creationdate="20221217T222128Z">
@@ -57164,6 +57492,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103803Z" creationid="Ragnar-F" creationdate="20221117T103803Z">
         <seg>Verwenden Sie &lt;l1/&gt;, um die Liste der unterstützten Dateiformate zu öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232632Z" creationid="Ragnar-F" creationdate="20221217T232632Z">
+        <seg>Verwenden Sie &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, wobei &lt;o3&gt;n&lt;/o3&gt; die Nummer der Gruppe ist, die in der Suche definiert wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57408,6 +57744,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual expressions.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T231807Z" creationid="Ragnar-F" creationdate="20221217T231807Z">
+        <seg>Verwenden Sie das &lt;c0&gt;|&lt;/c0&gt;-Zeichen (OR), um mehrere Ausdrücke voneinander zu trennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual fragment definitions.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T094618Z" creationid="Ragnar-F" creationdate="20221111T094618Z">
@@ -57476,6 +57820,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T112608Z" creationid="Ragnar-F" creationdate="20221117T112608Z">
         <seg>Verwenden Sie das &lt;l0/&gt;-Menü, um Translation Memory Matches zu verwalten und verschiedene andere nützliche Funktionen auszuführen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to limit the scope of the segmentation rules to the current project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T233306Z" creationid="Ragnar-F" creationdate="20221217T233306Z">
+        <seg>Verwenden Sie die Projekteigenschaft &lt;l0/&gt;, um den Geltungsbereich der Segmentierungsregeln auf das aktuelle Projekt zu beschränken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T233139Z" creationid="Ragnar-F" creationdate="20221217T233139Z">
+        <seg>Verwenden Sie die Projekteigenschaft &lt;l0/&gt;, um die Art der Segmentierung auszuwählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58476,6 +58836,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Visual cues can help verifying that your alignment is correct.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T231536Z" creationid="Ragnar-F" creationdate="20221217T231536Z">
+        <seg>Mithilfe von visuellen Indikatoren können Sie überprüfen, ob Ihre Ausrichtung korrekt ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Viterbi</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T101558Z" creationid="Ragnar-F" creationdate="20210113T101558Z">
@@ -58818,6 +59186,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T115501Z" creationid="Ragnar-F" creationdate="20221111T115501Z">
         <seg>Wird er als erstes Zeichen in einer &lt;l0&gt;mit eckigen Klammern umschlossenen Zeichenklasse&lt;/l0&gt; verwendet, verhindert er, dass die Zeichen dieser Klasse gefunden werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When it is the first character in &lt;l0&gt;a character class enclosed in brackets&lt;/l0&gt;, it matches all the characters that are not part of that class.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232453Z" creationid="Ragnar-F" creationdate="20221217T232453Z">
+        <seg>Wird er als erstes Zeichen in einer &lt;l0&gt;mit eckigen Klammern umschlossenen Zeichenklasse&lt;/l0&gt; verwendet, werden alle Zeichen gefunden, die nicht zu dieser Klasse gehören.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60069,6 +60445,14 @@ Kaptain-Startskript wie folgt starten:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T164311Z" creationid="Ragnar-F" creationdate="20221121T164311Z">
         <seg>Sie können das Fenster über &lt;l0/&gt; im Menü &lt;l1/&gt; aufrufen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can achieve a similar result by starting OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T233430Z" creationid="Ragnar-F" creationdate="20221217T233430Z">
+        <seg>Sie können dasselbe erreichen, wenn Sie OmegaT über die Befehlszeile starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62415,6 +62799,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and on macOS as:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235409Z" creationid="Ragnar-F" creationdate="20221217T235409Z">
+        <seg>und in macOS als:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and other functions available from the &lt;l0/&gt; menu.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T130202Z" creationid="Ragnar-F" creationdate="20221118T130202Z">
@@ -63223,6 +63615,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl alt E</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235752Z" creationid="Ragnar-F" creationdate="20221217T235752Z">
+        <seg>ctrl alt E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt N</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235746Z" creationid="Ragnar-F" creationdate="20221217T235746Z">
+        <seg>ctrl alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift C</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142115Z" creationid="Ragnar-F" creationdate="20221112T142115Z">
@@ -63259,6 +63667,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142107Z" creationid="Ragnar-F" creationdate="20221112T142107Z">
         <seg>ctrl shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift K</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235732Z" creationid="Ragnar-F" creationdate="20221217T235732Z">
+        <seg>ctrl shift K</seg>
       </tuv>
     </tu>
     <tu>
@@ -64161,6 +64577,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gotoEditorPanelMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235751Z" creationid="Ragnar-F" creationdate="20221217T235751Z">
+        <seg>gotoEditorPanelMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>gotoHistoryBackMenuItem</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130504T160659Z">
@@ -64221,6 +64645,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130504T160549Z">
         <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNotesPanelMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235744Z" creationid="Ragnar-F" creationdate="20221217T235744Z">
+        <seg>gotoNotesPanelMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -65868,6 +66300,22 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta alt E</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235753Z" creationid="Ragnar-F" creationdate="20221217T235753Z">
+        <seg>meta alt E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt N</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235748Z" creationid="Ragnar-F" creationdate="20221217T235748Z">
+        <seg>meta alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift C</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142116Z" creationid="Ragnar-F" creationdate="20221112T142116Z">
@@ -65904,6 +66352,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142108Z" creationid="Ragnar-F" creationdate="20221112T142108Z">
         <seg>meta shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift K</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235736Z" creationid="Ragnar-F" creationdate="20221217T235736Z">
+        <seg>meta shift K</seg>
       </tuv>
     </tu>
     <tu>
@@ -66488,6 +66944,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T125219Z" creationid="Ragnar-F" creationdate="20221115T122805Z">
         <seg>oder als regelmäßiges Backup (standardmäßig alle 3 Minuten),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or as follows for macOS:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235527Z" creationid="Ragnar-F" creationdate="20221217T235527Z">
+        <seg>oder wie folgt für macOS:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67958,6 +68422,14 @@ config-dir="Pfad/zum/neuen/Konfigordner"</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T222653Z" creationid="Ragnar-F" creationdate="20221121T222653Z">
         <seg>Wenn Sie die Suchfenster schließen, kehrt der &lt;l0/&gt;-Bereich automatisch zu dem Segment zurück, das er vor dem Start der Suche angezeigt hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235313Z" creationid="Ragnar-F" creationdate="20221217T235313Z">
+        <seg>wobei &lt;c0&gt;Modifikator&lt;/c0&gt; folgendes sein kann: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt; oder &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
