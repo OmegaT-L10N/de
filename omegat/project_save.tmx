@@ -1458,6 +1458,14 @@ ${filePath}&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T111224Z" creationid="Ragnar-F" creationdate="20221222T111224Z">
+        <seg>Nächstes Segment von tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Next Segment with xAUTO</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221214T173623Z" creationid="Ragnar-F" creationdate="20221214T173623Z">
@@ -1558,6 +1566,14 @@ ${filePath}&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T200335Z">
         <seg>Vor&amp;heriges Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T111237Z" creationid="Ragnar-F" creationdate="20221222T111237Z">
+        <seg>Vorheriges Segment von tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -8858,8 +8874,8 @@ Dossier de configuration
       <tuv lang="en">
         <seg>All the parameters located in a &lt;l0&gt;project folder&lt;/l0&gt; will apply to that project regardless of which version of OmegaT opens it.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T095658Z" creationid="Ragnar-F" creationdate="20221218T095658Z">
-        <seg>Alle Parameter im &lt;l0&gt;Projektordner&lt;/l0&gt; gelten für dieses Projekt, egal von welcher OmegaT-Version es geöffnet wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T111051Z" creationid="Ragnar-F" creationdate="20221218T095658Z">
+        <seg>Alle Parameter im &lt;l0&gt;Projektordner&lt;/l0&gt; gelten für dieses Projekt, egal mit welcher OmegaT-Version es geöffnet wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8872,6 +8888,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in a Project Folder will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T111042Z" creationid="Ragnar-F" creationdate="20221222T111042Z">
+        <seg>Alle Parameter im Projektordner gelten für dieses Projekt, egal mit welcher OmegaT-Version es geöffnet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the parameters located in the &lt;l0/&gt; will be shared unless you specify a different configuration folder with the &lt;l1&gt;--config-dir=&lt;path&gt;&lt;/l1&gt; option from the &lt;l2/&gt; on the command line .</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221122T115835Z" creationid="Ragnar-F" creationdate="20221114T143714Z">
@@ -8880,10 +8904,18 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in the Configuration Folder will be shared unless you specify a different configuration folder with the &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; option from the OmegaT options on the command line .</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110921Z" creationid="Ragnar-F" creationdate="20221222T110625Z">
+        <seg>Sämtliche Parameter im Konfigurationsordner werden von allen Projekten gemeinsam genutzt, es sei denn, Sie geben einen anderen Konfigurationsordner mit der Option &lt;c0&gt;--config-dir=&lt;Pfad&gt;&lt;/c0&gt; via Befehlszeile an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the parameters located in the OmegaT configuration folder will be shared unless you specify a different configuration folder with the &lt;l0&gt;--config-dir=&lt;path&gt;&lt;/l0&gt; option on the command line.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T095557Z" creationid="Ragnar-F" creationdate="20221218T095557Z">
-        <seg>Alle Parameter im OmegaT-Konfigurationsordner werden für alle Projekte genutzt, es sei denn, Sie geben einen anderen Konfigurationsordner mit der Option &lt;l0&gt;--config-dir=&lt;Pfad&gt;&lt;/l0&gt; via Befehlszeile an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110926Z" creationid="Ragnar-F" creationdate="20221218T095557Z">
+        <seg>Sämtliche Parameter im OmegaT-Konfigurationsordner werden von allen Projekten gemeinsam genutzt, es sei denn, Sie geben einen anderen Konfigurationsordner mit der Option &lt;l0&gt;--config-dir=&lt;Pfad&gt;&lt;/l0&gt; via Befehlszeile an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9268,6 +9300,14 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T123253Z" creationid="Ragnar-F" creationdate="20221116T123253Z">
         <seg>Obwohl die Zuordnungsfunktion in erster Linie für das Sammeln von Quelldateien aus verschiedenen Speicherorten gedacht ist, kann sie auch für andere Arten von Dateien verwendet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;c0&gt;linux-install.sh&lt;/c0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105925Z" creationid="Ragnar-F" creationdate="20221222T105925Z">
+        <seg>Obwohl Sie OmegaT direkt über die verfügbaren Dateien starten können, haben Sie auch die Möglichkeit, das dort befindliche Skript &lt;c0&gt;linux-install.sh&lt;/c0&gt; auszuführen, um OmegaT woandershin zu installieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14489,6 +14529,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable location (e.g. &lt;c3&gt;Applications&lt;/c3&gt;).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110024Z" creationid="Ragnar-F" creationdate="20221222T110024Z">
+        <seg>Kopieren Sie den Ordner an einen geeigneten Ort (z. B. &lt;c3&gt;Programme&lt;/c3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T135815Z" creationid="Ragnar-F" creationdate="20221114T135815Z">
@@ -17427,6 +17475,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the &lt;s0&gt; &lt;e1&gt;Cross-platform without JRE&lt;/e1&gt; &lt;/s0&gt; version.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110120Z" creationid="Ragnar-F" creationdate="20221222T110120Z">
+        <seg>Laden Sie die Version &lt;s0&gt; &lt;e1&gt;Plattformübergreifend ohne JRE&lt;/e1&gt; &lt;/s0&gt; herunter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the OmegaT project from the URL specified in &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;, and load it.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221128T083539Z" creationid="Ragnar-F" creationdate="20221128T083539Z">
@@ -17607,6 +17663,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T134133Z" creationid="Ragnar-F" creationdate="20221114T134133Z">
         <seg>Aus lizenzrechtlichen Gründen empfiehlt das OmegaT-Team die Java-Laufzeitumgebung Eclipse Temurin, die vom Adoptium-Projekt der Eclipse Foundation bereitgestellt wird, allerdings sollten auch andere Laufzeitumgebungen funktionieren, die mit Java 8 kompatibel sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Java runtime Eclipse Temurin provided by the Eclipse Foundation's Adoptium Project, but any Java {{site.data.versions.standard.java_version}} compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105853Z" creationid="Ragnar-F" creationdate="20221222T105853Z">
+        <seg>Aus lizenzrechtlichen Gründen empfiehlt das OmegaT-Team die Java-Laufzeitumgebung Eclipse Temurin, die vom Adoptium-Projekt der Eclipse Foundation bereitgestellt wird, allerdings sollten auch andere Laufzeitumgebungen funktionieren, die mit Java {{site.data.versions.standard.java_version}} kompatibel sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18989,6 +19053,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T220709Z">
         <seg>Ereignis: Projektänderung - "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eventually, drag and drop &lt;c0&gt;OmegaT.app&lt;/c0&gt; onto the Dock to easily access it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110029Z" creationid="Ragnar-F" creationdate="20221222T110029Z">
+        <seg>Wenn Sie möchten, können &lt;c0&gt;OmegaT.app&lt;/c0&gt; per Drag-and-Drop auf das Dock ziehen, um bequem darauf zugreifen zu können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23454,6 +23526,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110223Z" creationid="Ragnar-F" creationdate="20221222T110223Z">
+        <seg>IBM stellt JREs für Linux PowerPC unter &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt; zur Verfügung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T112636Z" creationid="Ragnar-F" creationdate="20210111T112636Z">
@@ -24832,6 +24912,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; and sets it as the default version (in &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110000Z" creationid="Ragnar-F" creationdate="20221222T110000Z">
+        <seg>Wenn es keine gibt, wird das Programm in &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; installiert und als Standardversion (in &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;) festgelegt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T135435Z" creationid="Ragnar-F" creationdate="20221114T135435Z">
@@ -26010,6 +26098,14 @@ folgt starten können:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T110315Z" creationid="BVB" creationdate="20180826T193840Z">
         <seg>Wenn Sie Programmierer oder Programmiererin sind und sich zufällig mit Java auskennen, schauen Sie bitte in der Dokumentation im &lt;a0&gt;Quellcode&lt;/a0&gt; unter /docs_devel nach, wie Sie loslegen können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you're a programmer, and you happen to know Java, please check the &lt;a0&gt;OmegaT contribution guide&lt;/a0&gt;, or its document source text in the &lt;a1&gt;source code&lt;/a1&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105704Z" creationid="Ragnar-F" creationdate="20221222T105704Z">
+        <seg>Wenn Sie sich mit Programmieren bzw. Java auskennen, schauen Sie sich bitte den &lt;a0&gt;OmegaT Contribution Guide&lt;/a0&gt; oder den Quelltext des Dokuments im &lt;a1&gt;Quellcode&lt;/a1&gt; unter /docs_devel an, um zu erfahren, wie Sie loslegen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32922,6 +33018,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T111244Z" creationid="Ragnar-F" creationdate="20221222T111244Z">
+        <seg>Nächstes Segment von tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>N&amp;ext Segment with xENFORCED</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221214T173652Z" creationid="Ragnar-F" creationdate="20221214T173652Z">
@@ -35444,6 +35548,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT projects are &lt;s2&gt; &lt;e3&gt;not&lt;/e3&gt; &lt;/s2&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110320Z" creationid="Ragnar-F" creationdate="20221222T110320Z">
+        <seg>OmegaT-Projekte werden &lt;s2&gt; &lt;e3&gt;nicht&lt;/e3&gt; &lt;/s2&gt; in OmegaT gespeichert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT provides developers with thorough documentation to create file filter plugins.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T101458Z" creationid="Ragnar-F" creationdate="20221218T101458Z">
@@ -35854,6 +35966,22 @@ enthalten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} and later also support Java 11 Runtime Environment on any platforms.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105842Z" creationid="Ragnar-F" creationdate="20221222T105842Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} und höher unterstützen auch Java 11 Runtime Environment auf allen Plattformen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} requires a Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105815Z" creationid="Ragnar-F" creationdate="20221222T105815Z">
+        <seg>Für die Ausführung von OmegaT {{site.data.versions.standard.name}} ist eine Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) erforderlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T123231Z" creationid="BVB" creationdate="20180826T204349Z">
@@ -35930,6 +36058,14 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141314Z" creationid="Ragnar-F" creationdate="20221114T141305Z">
         <seg>Die Einstellungen von OmegaT sind im Konfigurationsordner und werden von der neuen Version &lt;e0&gt;nicht&lt;/e0&gt; verändert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110251Z" creationid="Ragnar-F" creationdate="20221222T110251Z">
+        <seg>Die Einstellungen von OmegaT sind im Konfigurationsordner und werden von der neuen Version &lt;s0&gt; &lt;e1&gt;nicht&lt;/e1&gt; &lt;/s0&gt; verändert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37744,6 +37880,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T111253Z" creationid="Ragnar-F" creationdate="20221222T111253Z">
+        <seg>Vorheriges Segment von tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>P&amp;revious Segment with xENFORCED</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221214T173714Z" creationid="Ragnar-F" creationdate="20221214T173714Z">
@@ -37852,6 +37996,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T133855Z" creationid="Ragnar-F" creationdate="20221114T133855Z">
         <seg>Pakete ohne Java setzen eine systemweit installierte Java 8 Runtime Environment voraus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packages without Java rely on a Java {{site.data.versions.standard.java_version}} Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105826Z" creationid="Ragnar-F" creationdate="20221222T105826Z">
+        <seg>Pakete ohne Java setzen eine systemweit installierte Java {{site.data.versions.standard.java_version}} Runtime Environment voraus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38009,6 +38161,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120640Z" creationid="Ragnar-F" creationdate="20221115T120640Z">
         <seg>Absätze, Bereiche und Tabellen werden auf bidirektionalen Text umgestellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; for Windows and the &lt;c1&gt;Configuration.properties&lt;/c1&gt; and &lt;c2&gt;Info.plist&lt;/c2&gt; files for macOS packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110404Z" creationid="Ragnar-F" creationdate="20221222T110404Z">
+        <seg>Parameterdateien, die in dem heruntergeladenen OmegaT-Paket enthalten sind (insbesondere die &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;-Datei für Windows und die &lt;c1&gt;Configuration.properties&lt;/c1&gt;- und &lt;c2&gt;Info.plist&lt;/c2&gt;-Datei für macOS-Pakete), könnten überschrieben oder gelöscht werden. Daher sollten Sie vor der Aktualisierung eine Sicherungskopie erstellen, wenn Sie diese Dateien zur Änderung der Startparameter von OmegaT verwendet haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39672,6 +39832,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141353Z" creationid="Ragnar-F" creationdate="20221114T141353Z">
         <seg>Projekte, die Sie in der Vergangenheit erstellt haben oder aktuell verwenden, werden &lt;e0&gt;nicht&lt;/e0&gt; geändert oder gelöscht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified or deleted.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110304Z" creationid="Ragnar-F" creationdate="20221222T110304Z">
+        <seg>Projekte, die Sie in der Vergangenheit erstellt haben oder aktuell verwenden, werden &lt;s0&gt; &lt;e1&gt;nicht&lt;/e1&gt; &lt;/s0&gt; geändert oder gelöscht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42169,6 +42337,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T152440Z" creationid="Michael Motzkus" creationdate="20181018T135647Z">
         <seg>Läuft auf Java {0} ({1}-Bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;c0&gt;sudo&lt;/c0&gt; password.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105931Z" creationid="Ragnar-F" creationdate="20221222T105931Z">
+        <seg>Die Ausführung des Skripts erfordert die Eingabe Ihres &lt;c0&gt;sudo&lt;/c0&gt;-Passworts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47372,6 +47548,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105711Z" creationid="Ragnar-F" creationdate="20221222T105711Z">
+        <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start Pinpoint Align</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T095059Z" creationid="Ragnar-F" creationdate="20210113T094140Z">
@@ -49273,6 +49457,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;plugins&lt;/c0&gt; and &lt;c1&gt;scripts&lt;/c1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110418Z" creationid="Ragnar-F" creationdate="20221222T110418Z">
+        <seg>Die Ordner &lt;c0&gt;plugins&lt;/c0&gt; und &lt;c1&gt;scripts&lt;/c1&gt; könnten überschrieben werden, daher sollten Sie vor der Aktualisierung eine Sicherheitskopie erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221122T151207Z" creationid="Ragnar-F" creationdate="20221112T132005Z">
@@ -49765,6 +49957,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135429Z" creationid="Ragnar-F" creationdate="20221118T135429Z">
         <seg>Der Wörterbuchbereich zeigt Einträge aus Ihren Wörterbüchern an, die mit Begriffen im aktuellen Segment übereinstimmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Eclipse Foundation provides OpenJDK Runtime Environments JREs for many systems at &lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110207Z" creationid="Ragnar-F" creationdate="20221222T110207Z">
+        <seg>Die Eclipse Foundation stellt auf &lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt; OpenJDK Runtime Environments JREs für viele Systeme zur Verfügung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50665,6 +50865,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;a0&gt;changes.txt&lt;/a0&gt; file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110230Z" creationid="Ragnar-F" creationdate="20221222T110230Z">
+        <seg>Die Änderungen zwischen Ihrer Version und der aktuellen Version sind in der Datei &lt;a0&gt;changes.txt&lt;/a0&gt; auf der Entwicklungsseite dokumentiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The changes between your version and the current version are documented in the development site’s &lt;u0&gt;changes.txt&lt;/u0&gt; file.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141200Z" creationid="Ragnar-F" creationdate="20221114T141200Z">
@@ -51549,6 +51757,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105740Z" creationid="Ragnar-F" creationdate="20221222T105740Z">
+        <seg>Die Dateien können direkt von &lt;a0&gt;https://omegat.org&lt;/a0&gt; heruntergeladen werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files are downloadable directly from &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T133620Z" creationid="Ragnar-F" creationdate="20221114T133620Z">
@@ -51729,6 +51945,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T104929Z" creationid="Ragnar-F" creationdate="20210111T104929Z">
         <seg>Der Ordner enthält 2 Dateien: &lt;f2&gt;index.html&lt;/f2&gt; und &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder contains two files: &lt;c1&gt;index.html&lt;/c1&gt; (the user guide index) and &lt;c2&gt;OmegaT.app&lt;/c2&gt; (the application).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110016Z" creationid="Ragnar-F" creationdate="20221222T110016Z">
+        <seg>Der Ordner enthält zwei Dateien: &lt;c1&gt;index.html&lt;/c1&gt; (Index der Bedienungsanleitung) und &lt;c2&gt;OmegaT.app&lt;/c2&gt; (die Applikation).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52072,6 +52296,14 @@ in the quick launch area.</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T103252Z" creationid="Ragnar-F" creationdate="20210112T093933Z">
         <seg>Das Installationsprogramm kann für Sie Verknüpfungen im Startmenü, auf dem
 Desktop und im Schnellstartbereich erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;a0&gt;https://omegat.org&lt;/a0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105916Z" creationid="Ragnar-F" creationdate="20221222T105916Z">
+        <seg>Die hier aufgeführten Anweisungen gelten für Personen, die das Paket von der Website &lt;a0&gt;https://omegat.org&lt;/a0&gt; herunterladen und manuell installieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53396,6 +53628,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T174722Z">
         <seg>Das Skript "{0}" wird ausgeführt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105935Z" creationid="Ragnar-F" creationdate="20221222T105935Z">
+        <seg>Das Skript sucht nach einer bestehenden Installation der gleichen OmegaT-Version in &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55946,6 +56186,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a folder called &lt;c0&gt;OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110008Z" creationid="Ragnar-F" creationdate="20221222T110008Z">
+        <seg>Dies erstellt einen Ordner namens &lt;c0&gt;OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates a folder called &lt;f0&gt;OmegaT&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T135620Z" creationid="Ragnar-F" creationdate="20221114T135620Z">
@@ -56550,6 +56798,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T140508Z" creationid="Ragnar-F" creationdate="20221114T140508Z">
         <seg>Diese Information gilt für alle Systeme mit einer Java-Version, die mit der Java 8 Runtime Environment kompatibel ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to all systems that have a Java version compatible with Java {{site.data.versions.standard.java_version}} Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110037Z" creationid="Ragnar-F" creationdate="20221222T110037Z">
+        <seg>Diese Information gilt für alle Systeme mit einer Java-Version, die mit der Java {{site.data.versions.standard.java_version}} Runtime Environment kompatibel ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64871,6 +65127,14 @@ Kaptain-Startskript wie folgt starten:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T140308Z" creationid="BVB" creationdate="20180823T094241Z">
         <seg>Sie können auch die bereitgestellte Bedienungsanleitung aufrufen, ohne OmegaT selbst zu starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also change this later by editing &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105908Z" creationid="Ragnar-F" creationdate="20221222T105908Z">
+        <seg>Sie können das auch nachträglich ändern, indem Sie die Datei &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; bearbeiten.</seg>
       </tuv>
     </tu>
     <tu>
