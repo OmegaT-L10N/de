@@ -14271,6 +14271,30 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributing</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230101T122544Z" creationid="Ragnar-F" creationdate="20230101T122544Z">
+        <seg>Mitwirken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contribution Guide</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230101T121510Z" creationid="Ragnar-F" creationdate="20230101T121510Z">
+        <seg>Contribution Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contribution Guide source text</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230101T121617Z" creationid="Ragnar-F" creationdate="20230101T121617Z">
+        <seg>Quelltext des Contribution Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T100426Z" creationid="Ragnar-F" creationdate="20210112T100426Z">
@@ -17103,6 +17127,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T191756Z" creationid="BVB" creationdate="20180826T191756Z">
         <seg>Dokumentationserstellung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation for developers</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230101T121332Z" creationid="Ragnar-F" creationdate="20230101T121332Z">
+        <seg>Dokumentation für Entwickler</seg>
       </tuv>
     </tu>
     <tu>
@@ -36680,6 +36712,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only if these changes are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230101T121727Z" creationid="Ragnar-F" creationdate="20230101T121727Z">
+        <seg>Sollten diese Änderungen vorteilhaft für die Nutzer von OmegaT sein, wird das Entwicklungsteam sie in OmegaT aufnehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221122T151354Z" creationid="BVB" creationdate="20180826T203005Z">
@@ -50001,6 +50041,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Contribution Guide source text in the OmegaT repository.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230101T121654Z" creationid="Ragnar-F" creationdate="20230101T121654Z">
+        <seg>Der Quelltext des Contribution Guide im OmegaT-Repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The DOLLAR sign: &lt;l0&gt;$&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T120103Z" creationid="Ragnar-F" creationdate="20221111T120103Z">
@@ -50253,6 +50301,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221219T120933Z" creationid="Ragnar-F" creationdate="20221219T120933Z">
         <seg>Das Okapi Framework kommt mit einer Reihe von Dateifiltern, darunter einige, die von OmegaT nicht nativ unterstützt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT Contribution Guide.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230101T121531Z" creationid="Ragnar-F" creationdate="20230101T121531Z">
+        <seg>Der OmegaT Contribution Guide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50861,6 +50917,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T122529Z">
         <seg>Am besten ist es natürlich, wenn Sie OmegaT-spezifische TMX-Dateien (siehe oben) verwenden, damit die Inline-Formatierung innerhalb des Segments erhalten bleibt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The best way for developers to have a smooth experience when proposing such changes is to follow the guidelines defined on the &lt;a0&gt;Contributing to OmegaT page&lt;/a0&gt;, which is part of the larger &lt;a1&gt;Documentation for developers&lt;/a1&gt; OmegaT offers.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230101T122528Z" creationid="Ragnar-F" creationdate="20230101T122528Z">
+        <seg>Der beste Herangehensweise zum Einreichen solcher Änderungen ist es, die Richtlinien auf der Seite &lt;a0&gt;Contributing to OmegaT&lt;/a0&gt; zu befolgen, die Teil der größeren &lt;a1&gt;Dokumentation für Entwickler&lt;/a1&gt; ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56410,6 +56474,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a2&gt;Softpedia "100% FREE" guarantee&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230101T121738Z" creationid="Ragnar-F" creationdate="20230101T121738Z">
+        <seg>Dadurch wird sichergestellt, dass die Interessen der Nutzer gewahrt werden, was auch dazu geführt hat, dass OmegaT mit dem &lt;a2&gt;"100% FREE"-Gütesiegel von Softpedia&lt;/a2&gt; ausgezeichnet wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This expression finds number and separator patterns matching possible dates, but does not validate them.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T172939Z" creationid="Ragnar-F" creationdate="20221111T172939Z">
@@ -58570,6 +58642,14 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T110109Z" creationid="Ragnar-F" creationdate="20221111T110109Z">
         <seg>Um einen normalen Punkt zu finden, muss diese Bedeutung mithilfe von &lt;l0&gt;\&lt;/l0&gt; aufgehoben werden, wodurch der Ausdruck &lt;l1&gt;\.&lt;/l1&gt; entsteht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To find out how to help, have a look at our documentation for developers:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230101T121446Z" creationid="Ragnar-F" creationdate="20230101T121446Z">
+        <seg>Informationen darüber, wie Sie helfen können, finden Sie in unserer Dokumentation für Entwickler:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63346,6 +63426,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T102027Z" creationid="Ragnar-F" creationdate="20210109T102027Z">
         <seg>Warnung: Wenn in Microsoft Open XML-Formaten (docx, xlsx usw.) alle Tags angezeigt werden, platzieren Sie KEINEN Text vor dem ersten Tag - es handelt sich um ein technisches Tag, das immer das Segment beginnen muss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We always welcome new contributors!</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230101T121358Z" creationid="Ragnar-F" creationdate="20230101T121358Z">
+        <seg>Wir freuen uns immer über neue Mitwirkende!</seg>
       </tuv>
     </tu>
     <tu>
