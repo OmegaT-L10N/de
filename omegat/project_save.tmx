@@ -7840,6 +7840,22 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access to machine translation services</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T194328Z" creationid="Ragnar-F" creationdate="20230108T194328Z">
+        <seg>Zugriff auf maschinelle Übersetzungsdienste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access to team projects</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T194345Z" creationid="Ragnar-F" creationdate="20230108T194345Z">
+        <seg>Zugriff auf Teamprojekte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessing a team project requires the following information:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T121500Z" creationid="Ragnar-F" creationdate="20221116T121500Z">
@@ -10850,6 +10866,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T132330Z" creationid="BVB" creationdate="20180826T100201Z">
         <seg>Basierend auf Ihrer Auswahl empfehlen wir Ihnen die folgende Version:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Basically, that means that you have:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T193657Z" creationid="Ragnar-F" creationdate="20230108T193657Z">
+        <seg>Grundsätzlich bedeutet das, dass Sie die Freiheit haben:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14421,6 +14445,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180827T065013Z" creationid="BVB" creationdate="20180827T065013Z">
         <seg>Konvertiert von Wordfast erzeugte Translation Memories im TMX-Format in ein Format, das von OmegaT gelesen werden kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cookies</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T195556Z" creationid="Ragnar-F" creationdate="20230108T195556Z">
+        <seg>Cookies</seg>
       </tuv>
     </tu>
     <tu>
@@ -25507,6 +25539,14 @@ angezeigt werden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you find through your analysis that OmegaT communicates with an online service that you have not set, that would be a bug and we would ask you to report it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T194847Z" creationid="Ragnar-F" creationdate="20230108T194847Z">
+        <seg>Wenn Sie bei Ihrer Analyse feststellen, dass OmegaT mit einem Online-Dienst kommuniziert, den Sie nicht eingestellt haben, handelt es sich vermutlich um einen Bug und wir bitten Sie, diesen zu melden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you first download the remote project using an &lt;f0&gt;omegat.project&lt;/f0&gt; file provided by the project administrator, OmegaT will use the mappings in that file, if any.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T145332Z" creationid="Ragnar-F" creationdate="20221116T145332Z">
@@ -26916,6 +26956,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T121104Z" creationid="Ragnar-F" creationdate="20221116T121104Z">
         <seg>In Teamprojekten, die eine einfache Zuordnung zwischen dem lokalen Repository und dem Remote-Repository verwenden (die Standardeinstellung), können die Quell- und Zieldateien lokal geändert und mit den Befehlen &lt;l1/&gt; und &lt;l2/&gt; im Menü &lt;l3/&gt; auf den Server hochgeladen werden, &lt;e0&gt;was wohlgemerkt nur in solchen Projekten funktioniert&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that case, OmegaT shares information with online services:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T194303Z" creationid="Ragnar-F" creationdate="20230108T194303Z">
+        <seg>In diesem Fall wird OmegaT bestimmte Daten mit Online-Diensten teilen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30220,6 +30268,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T132534Z" creationid="Ragnar-F" creationdate="20210112T132534Z">
         <seg>Level 9:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T193119Z" creationid="Ragnar-F" creationdate="20230108T193119Z">
+        <seg>Lizenz</seg>
       </tuv>
     </tu>
     <tu>
@@ -34822,6 +34878,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically checks the availability of newer versions on its development server without transmitting any user information, and the user can easily opt out in the Preferences settings.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T194906Z" creationid="Ragnar-F" creationdate="20230108T194712Z">
+        <seg>OmegaT prüft automatisch, ob eine neue Version auf seinem Entwicklungsserver verfügbar ist, ohne dabei irgendwelche Nutzerdaten zu übermitteln. Der Nutzer hat jederzeit die Möglichkeit, diese Überprüfung in den Einstellungen zu deaktivieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T125314Z" creationid="Ragnar-F" creationdate="20221109T125314Z">
@@ -35030,6 +35094,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not collect any user information and does not transmit any information without the explicit consent of the user.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T194131Z" creationid="Ragnar-F" creationdate="20230108T194131Z">
+        <seg>OmegaT sammelt keine Nutzerdaten und übermittelt keine Daten ohne die ausdrückliche Zustimmung des Nutzers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have different statuses for translated segments.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T111746Z" creationid="Ragnar-F" creationdate="20221117T111746Z">
@@ -35050,6 +35122,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T144522Z" creationid="Michael Motzkus" creationdate="20181022T144522Z">
         <seg>OmegaT hat keine Lese- und Schreibrechte für diesen Ordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not store your information online (this is not a "cloud-based" product).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T195555Z" creationid="Ragnar-F" creationdate="20230108T195555Z">
+        <seg>OmegaT speichert Ihre Daten nicht online (es ist kein "cloudbasiertes" Produkt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35403,6 +35483,14 @@ Software Foundation veröffentlicht wurde, entweder in Version 3 der Lizenz oder
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T100435Z" creationid="Ragnar-F" creationdate="20221117T100435Z">
         <seg>OmegaT wurde nicht nur entwickelt, um den Übersetzungsprozess zu vereinfachen, sondern auch, um sicherzustellen, dass der Übersetzer keine Angst vor Datenverlust haben muss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is distributed under the GPL v3 license agreement.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T193349Z" creationid="Ragnar-F" creationdate="20230108T193349Z">
+        <seg>OmegaT unterliegt der "GPL v3"-Lizenzvereinbarung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37936,6 +38024,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Our website only uses cookies that are strictly necessary cookies for its operation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T200042Z" creationid="Ragnar-F" creationdate="20230108T200042Z">
+        <seg>Unsere Webseite verwendet nur Cookies, um einen reibungslosen Betrieb zu gewährleisten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Out-of-order</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210120T100905Z">
@@ -38950,6 +39046,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Policies</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T193115Z" creationid="Ragnar-F" creationdate="20230108T192609Z">
+        <seg>Bestimmungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Polish</seg>
       </tuv>
       <tuv lang="de">
@@ -39438,6 +39542,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110511Z" creationid="Ragnar-F" creationdate="20221116T110511Z">
         <seg>Schreibt in die angegebene Datei, oder in die Standardausgabe, wenn keine Datei angegeben ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Privacy Policy</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T193133Z" creationid="Ragnar-F" creationdate="20230108T192747Z">
+        <seg>Datenschutzbestimmungen</seg>
       </tuv>
     </tu>
     <tu>
@@ -49312,6 +49424,14 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That file is compliant with the TMX specification, which is a standard used by most tools of the same category.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T195506Z" creationid="Ragnar-F" creationdate="20230108T195506Z">
+        <seg>Diese Datei ist konform mit der TMX-Spezifikation, einem Standard, der von den meisten Tools dieser Kategorie verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That folder contains all the files needed to run OmegaT.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T134622Z" creationid="Ragnar-F" creationdate="20221114T134622Z">
@@ -54704,6 +54824,22 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translatable data (ie.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T195056Z" creationid="Ragnar-F" creationdate="20230108T195056Z">
+        <seg>Die übersetzbaren Daten (also</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translated data is stored in a file called project_save.tmx located in the omegat/ folder of any translation project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T195240Z" creationid="Ragnar-F" creationdate="20230108T195240Z">
+        <seg>Die übersetzten Daten werden in eine Datei namens project_save.tmx geschrieben, die sich im Ordner "omegat" eines Übersetzungsprojekts befindet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated document will be created in the same display direction as the original.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120421Z" creationid="Ragnar-F" creationdate="20221115T120421Z">
@@ -54892,6 +55028,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T140325Z" creationid="BVB" creationdate="20180823T094414Z">
         <seg>Die Bedienungsanleitung für OmegaT im PDF-Format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The user or their project manager can set OmegaT to use online services.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T194157Z" creationid="Ragnar-F" creationdate="20230108T194157Z">
+        <seg>Der Nutzer oder sein Projektmanager kann OmegaT für die Nutzung von Online-Diensten einrichten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55399,6 +55543,14 @@ werden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T120128Z" creationid="Ragnar-F" creationdate="20221115T120128Z">
         <seg>Daher sollten Übersetzer, wann immer möglich, Stilinformationen aus dem Originaldokument entfernen, um die Anzahl der im Editor angezeigten Tags zu begrenzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These 4 items are a good summary but you can also read the &lt;a0&gt;whole license&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T194050Z" creationid="Ragnar-F" creationdate="20230108T194050Z">
+        <seg>Diese 4 Punkte vermitteln einen guten Überblick, aber Sie können auch die &lt;a0&gt;komplette Lizenz&lt;/a0&gt; lesen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72900,6 +73052,46 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141259Z" creationid="Ragnar-F" creationdate="20221121T141259Z">
         <seg>Der Aligner liest die Dateien und versucht, die Segmente im Originaltext und in der Übersetzung aneinander auszurichten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the files you are translating) are accessed to display the translatable contents to the user.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T195104Z" creationid="Ragnar-F" creationdate="20230108T195104Z">
+        <seg>die Dateien, die Sie übersetzen) werden abgerufen, um dem Benutzer die übersetzbaren Inhalte anzuzeigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to change the software to suit your needs,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T193735Z" creationid="Ragnar-F" creationdate="20230108T193735Z">
+        <seg>die Software nach Belieben zu verändern,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to share the changes you make.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T193922Z" creationid="Ragnar-F" creationdate="20230108T193922Z">
+        <seg>die von Ihnen vorgenommenen Änderungen mit anderen zu teilen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to share the software with your friends and neighbors, and</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T193904Z" creationid="Ragnar-F" creationdate="20230108T193904Z">
+        <seg>die Software mit Ihren Freunden und Nachbarn zu teilen, und</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to use the software for any purpose,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230108T193742Z" creationid="Ragnar-F" creationdate="20230108T193700Z">
+        <seg>die Software für beliebige Zwecke zu nutzen,</seg>
       </tuv>
     </tu>
     <tu>
