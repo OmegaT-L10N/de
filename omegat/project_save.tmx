@@ -16571,10 +16571,42 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225749Z" creationid="Ragnar-F" creationdate="20230113T225749Z">
+        <seg>B&amp;iDi-Steuerzeichen anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225903Z" creationid="Ragnar-F" creationdate="20230113T225903Z">
+        <seg>&amp;Modifikationsinfo anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225733Z" creationid="Ragnar-F" creationdate="20230113T225733Z">
+        <seg>&amp;Geschützte Leerzeichen anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130630T152757Z">
         <seg>&amp;Keine anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225643Z" creationid="Ragnar-F" creationdate="20230113T225643Z">
+        <seg>&amp;Absatzbegrenzungen anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -23158,10 +23190,42 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225819Z" creationid="Ragnar-F" creationdate="20230113T225819Z">
+        <seg>Aut&amp;omatisch ausgefüllte Segmente hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225430Z" creationid="Ragnar-F" creationdate="20230113T225430Z">
+        <seg>Ü&amp;bersetzte Segmente hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225449Z" creationid="Ragnar-F" creationdate="20230113T225449Z">
+        <seg>&amp;Unübersetzte Segmente hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T102351Z" creationid="Ragnar-F" creationdate="20210113T094307Z">
         <seg>Muster für die Hervorhebung...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225719Z" creationid="Ragnar-F" creationdate="20230113T225719Z">
+        <seg>&amp;Segmente mit Notizen hervorheben</seg>
       </tuv>
     </tu>
     <tu>
@@ -62154,6 +62218,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225849Z" creationid="Ragnar-F" creationdate="20230113T225849Z">
+        <seg>Agg&amp;ressiven Font-Fallback nutzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T205817Z" creationid="Ragnar-F" creationdate="20221109T205817Z">
@@ -69595,6 +69667,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225945Z" creationid="Ragnar-F" creationdate="20230113T225945Z">
+        <seg>&amp;für alle Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130503T162236Z">
@@ -69607,6 +69687,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130503T162239Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225922Z" creationid="Ragnar-F" creationdate="20230113T225922Z">
+        <seg>für ak&amp;tives Segment</seg>
       </tuv>
     </tu>
     <tu>
