@@ -946,6 +946,14 @@ ${filePath}&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230122T210343Z" creationid="Ragnar-F" creationdate="20230122T210343Z">
+        <seg>Quelltext nicht einfügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T204700Z" creationid="Michael Motzkus" creationdate="20190129T073551Z">
@@ -48024,6 +48032,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T103024Z" creationid="Ragnar-F" creationdate="20221112T103024Z">
         <seg>Ein neues Segment nach "。" (japanischer Punkt) beginnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment on:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230122T205439Z" creationid="Ragnar-F" creationdate="20230122T205439Z">
+        <seg>Neues Segment beginnen bei:</seg>
       </tuv>
     </tu>
     <tu>
