@@ -29951,6 +29951,14 @@ Computer und das Programm selbst installiert.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language codes are used in various places in OmegaT to:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233705Z" creationid="Ragnar-F" creationdate="20230126T233705Z">
+        <seg>Sprachcodes werden an verschiedenen Stellen in OmegaT verwendet, um:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language codes are used in various places in OmegaT:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T000215Z" creationid="Ragnar-F" creationdate="20221218T000215Z">
@@ -31806,6 +31814,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T154126Z" creationid="Ragnar-F" creationdate="20210111T154126Z">
         <seg>Absatzbegrenzungen hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Repeated Segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233553Z" creationid="Ragnar-F" creationdate="20230126T233553Z">
+        <seg>Alle mehrmaligen Segmente hervorheben</seg>
       </tuv>
     </tu>
     <tu>
@@ -35210,6 +35226,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T101101Z" creationid="Ragnar-F" creationdate="20221114T101101Z">
         <seg>OmegaT wählt automatisch die Tokenizer aus, die der Quell- und Zielsprache entsprechen, aber Sie können die Einstellungen auch manuell ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically selects the tokenizers that correspond to the source and target languages but you can manually modify those settings.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233816Z" creationid="Ragnar-F" creationdate="20230126T233816Z">
+        <seg>OmegaT wählt automatisch die Tokenizer aus, die der Quell- und Zielsprache entsprechen, aber Sie können solche Einstellungen auch manuell ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56970,6 +56994,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog is used to set the initial project properties when creating a new project or to modify them later, after the project has been created.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233649Z" creationid="Ragnar-F" creationdate="20230126T233649Z">
+        <seg>In diesem Dialogfenster können Sie die anfänglichen Projekteigenschaften beim Erstellen eines neuen Projekts festlegen oder später nachträglich ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog lists the file filters available to projects that do not use local file filters.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T102322Z" creationid="Ragnar-F" creationdate="20221119T102322Z">
@@ -68457,6 +68489,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>apply the segmentation rules defined in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233718Z" creationid="Ragnar-F" creationdate="20230126T233718Z">
+        <seg>Segmentierungsregeln anzuwenden, die in den &lt;l0/&gt;-Einstellungen definiert wurden,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>are created and used by the spell checker.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T131237Z">
@@ -69261,6 +69301,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233419Z" creationid="Ragnar-F" creationdate="20230126T233419Z">
         <seg>ctrl alt shift COMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt shift PERIOD</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233500Z" creationid="Ragnar-F" creationdate="20230126T233500Z">
+        <seg>ctrl alt shift PERIOD</seg>
       </tuv>
     </tu>
     <tu>
@@ -70115,6 +70163,22 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>find grammatical and typographical mistakes from the rules set in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233749Z" creationid="Ragnar-F" creationdate="20230126T233749Z">
+        <seg>grammatikalische und typografische Fehler mittels Regeln zu finden, die in den &lt;l0/&gt;-Einstellungen festgelegt wurden,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>find spelling mistakes from the dictionaries installed in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233725Z" creationid="Ragnar-F" creationdate="20230126T233725Z">
+        <seg>Rechtschreibfehler mittels Wörterbüchern zu finden, die mit den &lt;l0/&gt;-Einstellungen installiert wurden,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>find the location of that space,</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T104556Z" creationid="Ragnar-F" creationdate="20221117T104556Z">
@@ -70207,6 +70271,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221211T094917Z" creationid="Ragnar-F" creationdate="20221211T094917Z">
         <seg>fuzzy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>get results in the &lt;l0/&gt; pane,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233714Z" creationid="Ragnar-F" creationdate="20230126T233714Z">
+        <seg>Übereinstimmungen im &lt;l0/&gt;-Bereich zu finden,</seg>
       </tuv>
     </tu>
     <tu>
@@ -70359,6 +70431,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233418Z" creationid="Ragnar-F" creationdate="20230126T233418Z">
         <seg>gotoPrevXAutoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoPrevXEnforcedMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233458Z" creationid="Ragnar-F" creationdate="20230126T233458Z">
+        <seg>gotoPrevXEnforcedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -72066,6 +72146,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233420Z" creationid="Ragnar-F" creationdate="20230126T233420Z">
         <seg>meta alt shift COMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt shift PERIOD</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233501Z" creationid="Ragnar-F" creationdate="20230126T233501Z">
+        <seg>meta alt shift PERIOD</seg>
       </tuv>
     </tu>
     <tu>
