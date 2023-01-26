@@ -8256,6 +8256,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T231620Z" creationid="Ragnar-F" creationdate="20230126T231620Z">
+        <seg>Zusätzliche Varianten sind für &lt;l0&gt;${nameOnly}&lt;/l0&gt; und &lt;l1&gt;${extension}&lt;/l1&gt; verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T190621Z">
@@ -9844,6 +9852,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T232922Z" creationid="Ragnar-F" creationdate="20230126T232922Z">
+        <seg>Beim Laden werden alle Absätze, die dem regulären Ausdruck entsprechen, ignoriert und nicht zum Übersetzen angeboten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any single digit from 0 to 9.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T084417Z" creationid="Ragnar-F" creationdate="20221111T084417Z">
@@ -11002,6 +11018,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T122952Z" creationid="Ragnar-F" creationdate="20221218T122943Z">
         <seg>BiDi-Steuerzeichen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bidi control characters are available from &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T224045Z" creationid="Ragnar-F" creationdate="20230126T224045Z">
+        <seg>BiDi-Steuerzeichen sind über &lt;l0/&gt;&lt;l1/&gt; zugänglich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13246,6 +13270,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the relevant header to sort them in ascending or descending order.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T231602Z" creationid="Ragnar-F" creationdate="20230126T231602Z">
+        <seg>Klicken Sie auf die entsprechende Spaltenüberschrift, um diese in aufsteigender oder absteigender Reihenfolge zu sortieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click one of the following options:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T213240Z" creationid="Ragnar-F" creationdate="20221121T213240Z">
@@ -14977,6 +15009,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a section of text that flows in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T225143Z" creationid="Ragnar-F" creationdate="20230126T225143Z">
+        <seg>Einen Textabschnitt zu erstellen, der in die entgegengesetzte Richtung des Abschnitts fließt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T073205Z" creationid="Ragnar-F" creationdate="20210111T073205Z">
@@ -16519,6 +16559,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T060131Z" creationid="BVB" creationdate="20180829T060131Z">
         <seg>Diptik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Directional Formatting Characters</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T223607Z" creationid="Ragnar-F" creationdate="20230126T223607Z">
+        <seg>Direktionale Formatierungszeichen</seg>
       </tuv>
     </tu>
     <tu>
@@ -18351,6 +18399,22 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T090640Z" creationid="Michael Motzkus" creationdate="20190129T090640Z">
         <seg>E-Mail:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embeddings</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T225931Z" creationid="Ragnar-F" creationdate="20230126T225931Z">
+        <seg>Einbettungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T225934Z" creationid="Ragnar-F" creationdate="20230126T225934Z">
+        <seg>Einbettungen können verwendet werden, um einen längeren Textabschnitt (mit mehreren Wörtern und Leerzeichen) zu erstellen, der in die entgegengesetzte Richtung des Segments fließen muss.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25032,6 +25096,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T232322Z" creationid="Ragnar-F" creationdate="20230126T232233Z">
+        <seg>Wenn die Nutzung mehrerer Punkte die Identifizierung des Dateinamens und der Dateiendung erschwert, können Sie Variablen in Form von &lt;l0&gt;${nameOnly-&lt;e1&gt;Nummer&lt;/e1&gt;}&lt;/l0&gt; oder &lt;l2&gt;${extension-&lt;e3&gt;Nummer&lt;/e3&gt;}&lt;/l2&gt; verwenden, um anzugeben, welche Teile zum Namen oder zur Endung gehören, wie im folgenden Beispiel gezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T081800Z" creationid="Ragnar-F" creationdate="20210111T081800Z">
@@ -27962,6 +28034,30 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert a LRM after a weak-directionality character that must run left-to-right in a right-to-left segment (e.g. an English excerpt inside Arabic text).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T225742Z" creationid="Ragnar-F" creationdate="20230126T225742Z">
+        <seg>Fügen Sie eine LRM nach einem Zeichen mit schwacher Direktionalität ein, das von links nach rechts in einem Rechts-nach-Links-Segment verlaufen muss (z. B. ein englischer Auszug in einem arabischen Text).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a RLM after a weak-directionality character that must run right-to-left in a left-to-right segment (e.g. an Arabic excerpt inside English text).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T225746Z" creationid="Ragnar-F" creationdate="20230126T225746Z">
+        <seg>Fügen Sie eine RLM nach einem Zeichen mit schwacher Direktionalität ein, das von rechts nach links in einem Links-nach-Rechts-Segment verlaufen muss (z. B. ein arabischer Auszug in einem englischen Text).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T224619Z" creationid="Ragnar-F" creationdate="20230126T224619Z">
+        <seg>Ein unsichtbares Zeichen mit einer starken Direktionalität einzufügen, um eine bestimmte Position für ein Zeichen mit schwacher oder neutraler Direktionalität zu erzwingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143052Z">
@@ -29145,6 +29241,14 @@ Konfigurationsordners zu erstellen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T173014Z" creationid="Ragnar-F" creationdate="20221111T173005Z">
         <seg>Er wird auch Muster wie "5136/36/71" finden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will also find the final “an ” of “Can ” in a sentence such as “Can I help you?”, or the final “a ” of “pasta ” in “We had pasta for lunch.”</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233340Z" creationid="Ragnar-F" creationdate="20230126T233340Z">
+        <seg>Es findet auch das letzte "an " von "Can " in einem Satz wie "Can I help you?" oder das letzte "a " von "pasta " in "We had pasta for lunch."</seg>
       </tuv>
     </tu>
     <tu>
@@ -31770,6 +31874,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Marks</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T225309Z" creationid="Ragnar-F" creationdate="20230126T225309Z">
+        <seg>Markierungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mask</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T180546Z" creationid="karsten" creationdate="20150919T180546Z">
@@ -33582,6 +33694,22 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T174857Z" creationid="Ragnar-F" creationdate="20221117T174854Z">
         <seg>Nächstes Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;N&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233359Z" creationid="Ragnar-F" creationdate="20230126T233359Z">
+        <seg>Nächstes Segment von tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233429Z" creationid="Ragnar-F" creationdate="20230126T233429Z">
+        <seg>Nächstes Segment von tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
@@ -38517,6 +38645,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraphs ignored when loading (regular expression)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T232819Z" creationid="Ragnar-F" creationdate="20230126T232819Z">
+        <seg>Ignorierte Absätze beim Laden (regulärer Ausdruck)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraphs, sections and tables are set to bidi</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T152441Z">
@@ -39692,6 +39828,22 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175203Z" creationid="Ragnar-F" creationdate="20221117T175152Z">
         <seg>Vorheriges Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;P&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233417Z" creationid="Ragnar-F" creationdate="20230126T233417Z">
+        <seg>Vorheriges Segment von tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233457Z" creationid="Ragnar-F" creationdate="20230126T233457Z">
+        <seg>Vorheriges Segment von tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
@@ -49921,6 +50073,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;Microsoft Office Open XML (legacy filter)&lt;/c0&gt; is the original OmegaT filter.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T232437Z" creationid="Ragnar-F" creationdate="20230126T232437Z">
+        <seg>Der Filter &lt;c0&gt;Microsoft Office Open XML (Legacy-Filter)&lt;/c0&gt; ist der originale OmegaT-Filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;c0&gt;plugins&lt;/c0&gt; and &lt;c1&gt;scripts&lt;/c1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110418Z" creationid="Ragnar-F" creationdate="20221222T110418Z">
@@ -55835,6 +55995,14 @@ werden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These control characters change directionality but are invisible.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T225206Z" creationid="Ragnar-F" creationdate="20230126T225206Z">
+        <seg>Diese Steuerzeichen ändern die Richtung, sind aber unsichtbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files are created and used by the spellchecker.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221120T213235Z" creationid="Ragnar-F" creationdate="20221120T213235Z">
@@ -56036,6 +56204,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T123640Z" creationid="Ragnar-F" creationdate="20221111T123640Z">
         <seg>Sie können später im Suchausdruck mit &lt;l1&gt;\&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt; wiederverwendet werden, wobei &lt;o3&gt;n&lt;/o3&gt; die Nummer der Gruppe ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be used to:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T224131Z" creationid="Ragnar-F" creationdate="20230126T224131Z">
+        <seg>Diese können verwendet werden, um:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57126,6 +57302,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105322Z" creationid="Ragnar-F" creationdate="20221110T105322Z">
         <seg>Diese Datei enthält den aktuell markierten Text, wenn der Befehl &lt;l0/&gt; im Menü &lt;l1/&gt; verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This filter is the original OmegaT XLIFF filter.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233005Z" creationid="Ragnar-F" creationdate="20230126T233005Z">
+        <seg>Dieser Filter ist der originale XLIFF-Filter von OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58750,6 +58934,14 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To change the position of a character with weak or neutral directionality (like punctuation symbols), insert an LRM or RLM character after the character, depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T225444Z" creationid="Ragnar-F" creationdate="20230126T225444Z">
+        <seg>Um die Position eines Zeichens mit schwacher oder neutraler Direktionalität (z. B. Interpunktionszeichen) zu ändern, fügen Sie je nach der Direktionalität des Segments ein LRM- oder RLM-Zeichen nach dem Zeichen ein:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T183316Z">
@@ -58790,6 +58982,14 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T230914Z" creationid="Ragnar-F" creationdate="20230126T230738Z">
+        <seg>Um eine Links-nach-Rechts-Einbettung in einem Rechts-nach-Links-Segment zu erstellen, fügen Sie ein Links-nach-Rechts-Einbettungszeichen (LRE) ein, geben oder fügen Sie den Links-nach-Rechts-Text ein, und fügen Sie dann das Einbettung-beenden-Zeichen ("pop directional formatting" oder kurz PDF) ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create a new rule set:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T110053Z" creationid="Ragnar-F" creationdate="20221119T110053Z">
@@ -58802,6 +59002,14 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T150847Z" creationid="Michael Motzkus" creationdate="20180919T070156Z">
         <seg>Um einen Satz von projektspezifischen Filtern zu erstellen, klicken Sie auf die Schaltfläche &lt;g0&gt;Dateifilter... &lt;/g0&gt;, aktivieren Sie dann &lt;g1&gt;Dateifiltereinstellungen projektspezifisch machen&lt;/g1&gt; in dem sich öffnenden Fenster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a right-to-left embedding in a left-to-right segment, insert a right-to-left embedding (RLE) character, type or insert the right-to-left text, and then insert the PDF character.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T230943Z" creationid="Ragnar-F" creationdate="20230126T230850Z">
+        <seg>Um eine Rechts-nach-Links-Einbettung in einem Links-nach-Rechts-Segment zu erstellen, fügen Sie ein Rechts-nach-Links-Einbettungszeichen (RLE) ein, geben oder fügen Sie den Rechts-nach-Links-Text ein, und fügen Sie dann das Einbettung-beenden-Zeichen ("pop directional formatting" oder kurz PDF) ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62318,6 +62526,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T112739Z" creationid="Ragnar-F" creationdate="20221218T112739Z">
         <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt;, um zum Editorbereich zurückzukehren und Ihre Übersetzung fortzusetzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to show a visual indication of their position.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T225250Z" creationid="Ragnar-F" creationdate="20230126T225250Z">
+        <seg>Mit &lt;l0/&gt;&lt;l1/&gt; können Sie deren Position sichtbar machen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66296,6 +66512,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can create two kinds of embeddings depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T230016Z" creationid="Ragnar-F" creationdate="20230126T230016Z">
+        <seg>Sie können je nach Direktionalität des Segments zwei Arten von Einbettungen erstellen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can customize the majority of the shortcuts in OmegaT.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T125343Z" creationid="Ragnar-F" creationdate="20221112T104750Z">
@@ -66782,6 +67006,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can sort the filters by name or by whether they are enabled.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T231515Z" creationid="Ragnar-F" creationdate="20230126T231423Z">
+        <seg>Sie können die Filter nach Namen oder aktiviertem Zustand sortieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110713Z" creationid="Ragnar-F" creationdate="20221110T110713Z">
@@ -67183,6 +67415,22 @@ Methoden zu lösen:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T113628Z" creationid="Ragnar-F" creationdate="20221109T113628Z">
         <seg>Ihr Projekt scheint keine übersetzbaren Dateien zu enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should only use it to avoid compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T232656Z" creationid="Ragnar-F" creationdate="20230126T232656Z">
+        <seg>Sie sollten ihn nur verwenden, um Kompatibilitätsprobleme mit früheren Projekten zu verhindern, die bereits Dateien enthalten, welche Sie mit diesem Filter bearbeitet haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should only use it to avoir compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233023Z" creationid="Ragnar-F" creationdate="20230126T233023Z">
+        <seg>Sie sollten ihn nur verwenden, um Kompatibilitätsprobleme mit früheren Projekten zu verhindern, die bereits Dateien enthalten, welche Sie mit diesem Filter bearbeitet haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68977,6 +69225,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl alt COMMA</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233405Z" creationid="Ragnar-F" creationdate="20230126T233405Z">
+        <seg>ctrl alt COMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl alt E</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235752Z" creationid="Ragnar-F" creationdate="20221217T235752Z">
@@ -68989,6 +69245,22 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235746Z" creationid="Ragnar-F" creationdate="20221217T235746Z">
         <seg>ctrl alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt PERIOD</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233436Z" creationid="Ragnar-F" creationdate="20230126T233436Z">
+        <seg>ctrl alt PERIOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt shift COMMA</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233419Z" creationid="Ragnar-F" creationdate="20230126T233419Z">
+        <seg>ctrl alt shift COMMA</seg>
       </tuv>
     </tu>
     <tu>
@@ -69157,6 +69429,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141755Z" creationid="Ragnar-F" creationdate="20221112T141755Z">
         <seg>ctrl shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift X</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233348Z" creationid="Ragnar-F" creationdate="20230126T233348Z">
+        <seg>ctrl shift X</seg>
       </tuv>
     </tu>
     <tu>
@@ -70051,10 +70331,34 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gotoNextXAutoMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233401Z" creationid="Ragnar-F" creationdate="20230126T233401Z">
+        <seg>gotoNextXAutoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextXEnforcedMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233430Z" creationid="Ragnar-F" creationdate="20230126T233430Z">
+        <seg>gotoNextXEnforcedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>gotoNotesPanelMenuItem</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235744Z" creationid="Ragnar-F" creationdate="20221217T235744Z">
         <seg>gotoNotesPanelMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoPrevXAutoMenuItem</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233418Z" creationid="Ragnar-F" creationdate="20230126T233418Z">
+        <seg>gotoPrevXAutoMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -70871,6 +71175,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130503T162243Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233245Z" creationid="Ragnar-F" creationdate="20230126T233245Z">
+        <seg>Wenn diese Option aktiviert ist, ändert OmegaT den XLIFF-Zielstatus auf "needs-review-translation" anstelle von "translated".</seg>
       </tuv>
     </tu>
     <tu>
@@ -71718,6 +72030,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta alt COMMA</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233406Z" creationid="Ragnar-F" creationdate="20230126T233406Z">
+        <seg>meta alt COMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta alt E</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235753Z" creationid="Ragnar-F" creationdate="20221217T235753Z">
@@ -71730,6 +72050,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221217T235748Z" creationid="Ragnar-F" creationdate="20221217T235748Z">
         <seg>meta alt N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt PERIOD</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233442Z" creationid="Ragnar-F" creationdate="20230126T233442Z">
+        <seg>meta alt PERIOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt shift COMMA</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233420Z" creationid="Ragnar-F" creationdate="20230126T233420Z">
+        <seg>meta alt shift COMMA</seg>
       </tuv>
     </tu>
     <tu>
@@ -71866,6 +72202,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T141757Z" creationid="Ragnar-F" creationdate="20221112T141757Z">
         <seg>meta shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift X</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233349Z" creationid="Ragnar-F" creationdate="20230126T233349Z">
+        <seg>meta shift X</seg>
       </tuv>
     </tu>
     <tu>
