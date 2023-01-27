@@ -4628,6 +4628,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Minimizes&lt;/e0&gt; the pane to a tab at the bottom of the window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T135425Z" creationid="Ragnar-F" creationdate="20230127T135425Z">
+        <seg>&lt;e0&gt;Minimieren&lt;/e0&gt; des Fensterbereichs zu einem Tab am unteren Rand des Fensters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Minimizes&lt;/e0&gt; the pane, so that it only shows as a tab at the bottom of the window.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221128T085458Z" creationid="Ragnar-F" creationdate="20221128T085310Z">
@@ -5012,6 +5020,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Add Glossary Entry&lt;/g0&gt; (equivalent to using &lt;l1/&gt;&lt;l2/&gt;).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T143829Z" creationid="Ragnar-F" creationdate="20230127T143829Z">
+        <seg>&lt;g0&gt;Glossareintrag hinzufügen&lt;/g0&gt; (äquivalent zu &lt;l1/&gt;&lt;l2/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Back in History&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;P&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T120521Z" creationid="Ragnar-F" creationdate="20221218T120515Z">
@@ -5192,6 +5208,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T125920Z" creationid="Ragnar-F" creationdate="20221118T125920Z">
         <seg>&lt;g0&gt;Zum Segment springen&lt;/g0&gt; (das Segment unter dem Mauszeiger),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Go To Segment&lt;/g0&gt; (to jump to the segment under the pointer).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T143817Z" creationid="Ragnar-F" creationdate="20230127T143817Z">
+        <seg>&lt;g0&gt;Zum Segment springen&lt;/g0&gt; (das Segment unter dem Mauszeiger).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5488,6 +5512,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T130023Z" creationid="Ragnar-F" creationdate="20221118T130023Z">
         <seg>&lt;g0&gt;Wörterbücher durchsuchen&lt;/g0&gt; (um nach dem markierten Begriff in einem installierten Wörterbuch zu suchen),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Search Dictionaries&lt;/g0&gt; (to search for the selected term in an installed dictionary).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T143822Z" creationid="Ragnar-F" creationdate="20230127T143822Z">
+        <seg>&lt;g0&gt;Wörterbücher durchsuchen&lt;/g0&gt; (um nach dem markierten Begriff in einem installierten Wörterbuch zu suchen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10849,6 +10881,14 @@ korrektem Verhalten kommen kann.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically inserting the source text in the translation field by disabling the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T142714Z" creationid="Ragnar-F" creationdate="20230127T142714Z">
+        <seg>Automatisches Einfügen des Quelltextes in das Übersetzungsfeld durch Deaktivieren der &lt;l0/&gt;-Einstellung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically open the last used OmegaT project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T172829Z" creationid="Ragnar-F" creationdate="20221121T172829Z">
@@ -11830,6 +11870,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the cursor is locked in the translation field, and the arrow keys cannot be used to move in the source text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T143333Z" creationid="Ragnar-F" creationdate="20230127T143333Z">
+        <seg>Standardmäßig ist der Textcursor auf das Übersetzungsfeld beschränkt; es ist nicht möglich, mit den Pfeiltasten im Quelltext zu navigieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the cursor is locked into the translation field, and the arrow keys cannot be used to move in the source text.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T124635Z" creationid="Ragnar-F" creationdate="20221118T124635Z">
@@ -12354,6 +12402,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T104014Z">
         <seg>Das Ändern der Segmentierungseinstellungen kann dazu führen, dass einige bereits übersetzte Segmente gesplittet oder zusammengeführt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the font as described in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T142322Z" creationid="Ragnar-F" creationdate="20230127T141749Z">
+        <seg>Ändern der Schriftart, wie in der &lt;l0/&gt;-Einstellung beschrieben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the paragraph delimitation format, defined in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T143222Z" creationid="Ragnar-F" creationdate="20230127T142028Z">
+        <seg>Ändern der Darstellung von Absatzbegrenzungen, definiert in der &lt;l0/&gt;-Einstellung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12974,6 +13038,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check this option if OmegaT does not display certain glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133903Z" creationid="Ragnar-F" creationdate="20230127T133903Z">
+        <seg>Aktivieren Sie diese Option, falls OmegaT bestimmte Glyphen nicht korrekt anzeigt (auch wenn die Schriftarten, die die entsprechenden Glyphen enthalten, auf Ihrem Rechner installiert sind).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T161726Z" creationid="Ragnar-F" creationdate="20210111T161726Z">
@@ -13434,6 +13506,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T105443Z" creationid="Ragnar-F" creationdate="20221218T105443Z">
         <seg>Klicken Sie auf &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;g0&gt;Action&lt;/g0&gt; widget at the top right.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T135732Z" creationid="Ragnar-F" creationdate="20230127T135732Z">
+        <seg>Klicken Sie auf das &lt;g0&gt;Aktion&lt;/g0&gt;-Widget oben rechts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16235,6 +16315,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Defining text that you want to leave out of the translation, enabled in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T143200Z" creationid="Ragnar-F" creationdate="20230127T143200Z">
+        <seg>Definieren von Text, der bei der Übersetzung ausgeschlossen werden soll, via &lt;l0/&gt;-Einstellung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T055334Z" creationid="BVB" creationdate="20180829T055334Z">
@@ -16917,8 +17005,8 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T205550Z">
-        <seg>&amp;Quelltexte anzeigen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T142601Z">
+        <seg>&amp;Quellsegmente anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -16935,6 +17023,38 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T114224Z" creationid="Michael Motzkus" creationdate="20190129T083554Z">
         <seg>&amp;Tags darstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133411Z" creationid="Ragnar-F" creationdate="20230127T133411Z">
+        <seg>BiDi-Steuerzeichen anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Modification Info</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133928Z" creationid="Ragnar-F" creationdate="20230127T133928Z">
+        <seg>Modifikationsinfo anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133312Z" creationid="Ragnar-F" creationdate="20230127T133312Z">
+        <seg>Geschützte Leerzeichen anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133028Z" creationid="Ragnar-F" creationdate="20230127T133028Z">
+        <seg>Absatzbegrenzungen anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -16959,6 +17079,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T215901Z" creationid="Ragnar-F" creationdate="20221118T215901Z">
         <seg>Kontextbeschreibung für TBX-Glossare anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Whitespace</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133335Z" creationid="Ragnar-F" creationdate="20230127T133335Z">
+        <seg>Leerraum anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -19032,6 +19160,14 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T114330Z" creationid="Michael Motzkus" creationdate="20180919T073148Z">
         <seg>Geben Sie das neue Wort oder die neue Wortgruppe (reguläre Ausdrücke werden nicht unterstützt) in das Feld &lt;e0&gt;Ersetzen mit&lt;/e0&gt; ein und klicken Sie dann auf eine der folgenden Schaltflächen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T135710Z" creationid="Ragnar-F" creationdate="20230127T135710Z">
+        <seg>Gehen Sie zum Fensterbereich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23598,6 +23734,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133746Z" creationid="Ragnar-F" creationdate="20230127T133746Z">
+        <seg>Automatisch ausgefüllte Segmente hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T102351Z" creationid="Ragnar-F" creationdate="20210113T094307Z">
@@ -23614,10 +23758,50 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight Repeated Segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133216Z" creationid="Ragnar-F" creationdate="20230127T133216Z">
+        <seg>Mehrmalige Segmente hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225719Z" creationid="Ragnar-F" creationdate="20230113T225719Z">
         <seg>&amp;Segmente mit Notizen hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments with Notes</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133250Z" creationid="Ragnar-F" creationdate="20230127T133250Z">
+        <seg>Segmente mit Notizen hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Translated Segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T132946Z" creationid="Ragnar-F" creationdate="20230127T132946Z">
+        <seg>Übersetzte Segmente hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133012Z" creationid="Ragnar-F" creationdate="20230127T133012Z">
+        <seg>Unübersetzte Segmente hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlighting translated segments using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T142446Z" creationid="Ragnar-F" creationdate="20230127T142446Z">
+        <seg>Hervorheben von übersetzten Segmenten via &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24487,10 +24671,26 @@ verwendet, und alle Einstellungen werden auf ihre Standardwerte zurückgesetzt.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, all the source segments are shown and highlighted in green.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133041Z" creationid="Ragnar-F" creationdate="20230127T133041Z">
+        <seg>Wenn aktiviert, werden alle Quelltexte angezeigt und grün hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, all the source segments will be shown and marked in green.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T122846Z" creationid="Ragnar-F" creationdate="20221218T122846Z">
         <seg>Wenn aktiviert, werden alle Quelltexte angezeigt und grün hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, non-breakable spaces are displayed with a gray background.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133323Z" creationid="Ragnar-F" creationdate="20230127T133323Z">
+        <seg>Wenn aktiviert, werden geschützte Leerzeichen mit einem grauen Hintergrund angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24527,6 +24727,14 @@ verwendet, und alle Einstellungen werden auf ihre Standardwerte zurückgesetzt.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, repeated segments are highlighted in pale gray.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133237Z" creationid="Ragnar-F" creationdate="20230127T133237Z">
+        <seg>Wenn aktiviert, werden mehrmalige Segmente hellgrau hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, segments that have been auto-populated (from TMXs placed in &lt;l0/&gt; for example) are marked in various colors.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T110530Z" creationid="Ragnar-F" creationdate="20221118T110002Z">
@@ -24535,10 +24743,26 @@ verwendet, und alle Einstellungen werden auf ihre Standardwerte zurückgesetzt.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, segments that have been auto-populated are highlighted in various colors.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133755Z" creationid="Ragnar-F" creationdate="20230127T133755Z">
+        <seg>Wenn aktiviert, werden automatisch ausgefüllte Segmente mit unterschiedlichen Farben hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, segments that have been auto-populated are marked in various colors.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T123251Z" creationid="Ragnar-F" creationdate="20221218T123251Z">
         <seg>Wenn aktiviert, werden automatisch ausgefüllte Segmente mit unterschiedlichen Farben hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, segments with notes are highlighted in cyan.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133257Z" creationid="Ragnar-F" creationdate="20230127T133257Z">
+        <seg>Wenn aktiviert, werden Segmente mit Notizen türkisfarben hervorgehoben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24615,6 +24839,14 @@ verwendet, und alle Einstellungen werden auf ihre Standardwerte zurückgesetzt.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, translated segments are highlighted in yellow.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133007Z" creationid="Ragnar-F" creationdate="20230127T133007Z">
+        <seg>Wenn aktiviert, werden übersetzte Segmente gelb hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, translated segments will be marked in yellow.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T104721Z" creationid="Ragnar-F" creationdate="20221118T104721Z">
@@ -24623,10 +24855,26 @@ verwendet, und alle Einstellungen werden auf ihre Standardwerte zurückgesetzt.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, untranslated segments are highlighted in violet.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133021Z" creationid="Ragnar-F" creationdate="20230127T133021Z">
+        <seg>Wenn aktiviert, werden unübersetzte Segmente violett hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, untranslated segments will be marked in violet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T104724Z" creationid="Ragnar-F" creationdate="20221118T104724Z">
         <seg>Wenn aktiviert, werden unübersetzte Segmente violett hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, white spaces are displayed as a small dot.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133404Z" creationid="Ragnar-F" creationdate="20230127T133404Z">
+        <seg>Wenn aktiviert, werden Leerräume als kleiner Punkt angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24836,6 +25084,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T123910Z" creationid="Ragnar-F" creationdate="20221119T123910Z">
         <seg>Wenn keine angezeigt werden, bedeutet das entweder, dass Sie noch kein Rechtschreibwörterbuch installiert haben, oder dass Ihr Projekt einen bestimmten Konfigurationsordner verwendet, der noch kein Rechtschreibwörterbuch enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not checked, only the current source segments is shown.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133049Z" creationid="Ragnar-F" creationdate="20230127T133049Z">
+        <seg>Wenn deaktiviert, wird nur der Quelltext des aktiven Segments angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26237,6 +26493,14 @@ unter anderem über Java Web Start installieren.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have selected text and defined entries in the &lt;l0/&gt; preferences, they will also be displayed in this menu (as will local searches).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T143944Z" creationid="Ragnar-F" creationdate="20230127T143944Z">
+        <seg>Wenn Sie einen Text markiert und Einträge in den &lt;l0/&gt;-Einstellungen definiert haben, werden diese auch in diesem Menü angezeigt (ebenso wie lokale Suchvorgänge).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have set local rules in &lt;l0/&gt;, modifications here will not be taken into account.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T104442Z" creationid="Ragnar-F" creationdate="20221119T104442Z">
@@ -27016,6 +27280,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;List View&lt;/g0&gt;, right click on the &lt;g1&gt;Action&lt;/g1&gt; widget at the right-end of the selected property line and select &lt;g2&gt;Notify Me When a Segment Has...&lt;/g2&gt; (where ... varies according to the desired notification).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T141040Z" creationid="Ragnar-F" creationdate="20230127T140355Z">
+        <seg>Wenn die &lt;g0&gt;Listenansicht&lt;/g0&gt; aktiv ist, klicken Sie auf das &lt;g1&gt;Aktion&lt;/g1&gt;-Widget am rechten Ende einer Eigenschaft und wählen Sie &lt;g2&gt;Mich benachrichtigen, wenn ein Segment X hat&lt;/g2&gt; aus, wobei X der Eigenschaftsname ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;List View&lt;/g0&gt;, right click on the &lt;g1&gt;Action&lt;/g1&gt; widget at the right-end of the selected property lineand select &lt;g2&gt;Notify Me When a Segment Has...&lt;/g2&gt; (the ... contents depends on the item that you want notifications from).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221128T091448Z" creationid="Ragnar-F" creationdate="20221128T091014Z">
@@ -27028,6 +27300,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221128T091115Z" creationid="Ragnar-F" creationdate="20221128T090955Z">
         <seg>Wenn die &lt;g0&gt;Tabellenansicht&lt;/g0&gt; aktiv ist, rechtsklicken Sie auf den Eintrag und wählen Sie &lt;g1&gt;Mich benachrichtigen, wenn ein Segment ... hat&lt;/g1&gt; aus ("..." hängt vom Eintrag ab, für den Sie Benachrichtigungen erhalten möchten).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g0&gt;Table View&lt;/g0&gt;, right click on the item and select &lt;g1&gt;Notify Me When a Segment Has...&lt;/g1&gt; (where ... varies according to the desired notification).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T140815Z" creationid="Ragnar-F" creationdate="20230127T140337Z">
+        <seg>Wenn die &lt;g0&gt;Tabellenansicht&lt;/g0&gt; aktiv ist, rechtsklicken Sie auf eine Eigenschaft und wählen Sie &lt;g1&gt;Mich benachrichtigen, wenn ein Segment X hat&lt;/g1&gt; aus, wobei X der Eigenschaftsname ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28478,6 +28758,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T151537Z" creationid="Ragnar-F" creationdate="20210108T221106Z">
         <seg>Quelltext einfügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting the best fuzzy match above the threshold defined in &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T142833Z" creationid="Ragnar-F" creationdate="20230127T142833Z">
+        <seg>Einfügen des besten Fuzzy-Matches oberhalb des definierten Schwellenwertes in der &lt;l0/&gt;-Einstellung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32210,6 +32498,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133813Z" creationid="Ragnar-F" creationdate="20230127T133813Z">
+        <seg>LanguageTool-Probleme hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Needs Review</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T101336Z" creationid="Ragnar-F" creationdate="20210113T093744Z">
@@ -32478,6 +32774,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221219T124649Z" creationid="Ragnar-F" creationdate="20221219T124649Z">
         <seg>Gefundene Glossareinträge, und ihre Kommentare als Tooltip, falls vorhanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matched glossary items, with comments, if any presented as a tooltip.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T143805Z" creationid="Ragnar-F" creationdate="20230127T143805Z">
+        <seg>Gefundene Glossareinträge, mit Kommentaren als Tooltip, falls vorhanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35248,8 +35552,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T084442Z" creationid="Michael Motzkus" creationdate="20190129T084442Z">
-        <seg>Mich benachrichtigen, wenn ein Segment Wörterbucheinträge enthält</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T141104Z" creationid="Michael Motzkus" creationdate="20190129T084442Z">
+        <seg>Mich benachrichtigen, wenn ein Segment Wörterbucheinträge hat</seg>
       </tuv>
     </tu>
     <tu>
@@ -35264,8 +35568,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T084351Z" creationid="Michael Motzkus" creationdate="20190129T084351Z">
-        <seg>Mich benachrichtigen, wenn ein Segment Glossartreffer enthält</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T141049Z" creationid="Michael Motzkus" creationdate="20190129T084351Z">
+        <seg>Mich benachrichtigen, wenn ein Segment Glossartreffer hat</seg>
       </tuv>
     </tu>
     <tu>
@@ -46034,6 +46338,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select &lt;g0&gt;Notify Me When a Segment Has...&lt;/g0&gt; (where ... varies depending on the pane for which you are enabling notifications.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T140041Z" creationid="Ragnar-F" creationdate="20230127T140041Z">
+        <seg>Wählen Sie &lt;g0&gt;Mich benachrichtigen, wenn ein Segment X hat&lt;/g0&gt; aus, wobei X je nach Fensterbereich variiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T193530Z" creationid="Ragnar-F" creationdate="20210111T134413Z">
@@ -47278,6 +47590,30 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T102030Z" creationid="Ragnar-F" creationdate="20221116T102030Z">
         <seg>Informationen zur Verwendung anzeigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Showing or hiding paragraph delimitations using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T141904Z" creationid="Ragnar-F" creationdate="20230127T141904Z">
+        <seg>Ein- oder Ausblenden von Absatzbegrenzungen via &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Showing or hiding source segments using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T142501Z" creationid="Ragnar-F" creationdate="20230127T142302Z">
+        <seg>Ein- oder Ausblenden von Quellsegmenten via &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Showing segment modification information using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T142109Z" creationid="Ragnar-F" creationdate="20230127T142109Z">
+        <seg>Einblenden von Segmentmodifikationsinfos via &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51361,6 +51697,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Editor pane context menu offers various functions available from the &lt;l0/&gt; menu, notably:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T143653Z" creationid="Ragnar-F" creationdate="20230127T143616Z">
+        <seg>Das Kontextmenü des Editorbereichs bietet verschiedene Funktionen, die auch über im &lt;l0/&gt;-Menü verfügbar sind, insbesondere:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Editor pane context menu offers:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T125719Z" creationid="Ragnar-F" creationdate="20221118T125719Z">
@@ -52637,6 +52981,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The cursor is locked into the translation field by default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T141154Z" creationid="Ragnar-F" creationdate="20230127T141154Z">
+        <seg>Der Textcursor ist standardmäßig auf das Übersetzungsfeld beschränkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The cursor status (locked - &lt;g0&gt;LCK&lt;/g0&gt; or unlocked - &lt;g1&gt;UNL&lt;/g1&gt;) is shown at the right of the &lt;l2&gt;status bar&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T125040Z" creationid="Ragnar-F" creationdate="20221218T125040Z">
@@ -52807,8 +53159,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The default value is &lt;g0&gt;Current segment&lt;/g0&gt; and it can be set to &lt;g1&gt;All segments&lt;/g1&gt; or to &lt;g2&gt;None&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T123454Z" creationid="Ragnar-F" creationdate="20221218T123454Z">
-        <seg>Der Standardwert ist &lt;g0&gt;Aktuelles Segment&lt;/g0&gt; und kann auf &lt;g1&gt;Alle Segmente&lt;/g1&gt; oder &lt;g2&gt;Keine&lt;/g2&gt; gesetzt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T134309Z" creationid="Ragnar-F" creationdate="20221218T123454Z">
+        <seg>Der Standardwert ist &lt;g0&gt;Nur für aktives Segment&lt;/g0&gt; und kann auf &lt;g1&gt;Für alle Segmente&lt;/g1&gt; oder &lt;g2&gt;Keine&lt;/g2&gt; gesetzt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53493,6 +53845,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following panes can provide notifications:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T140235Z" creationid="Ragnar-F" creationdate="20230127T140235Z">
+        <seg>Die folgenden Fensterbereiche können Sie benachrichtigen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T194700Z" creationid="Ragnar-F" creationdate="20210110T194700Z">
@@ -54092,6 +54452,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T123644Z" creationid="Ragnar-F" creationdate="20221218T123644Z">
         <seg>Das Hauptfenster besteht aus mehreren Fenstern, die hier beschrieben werden, aus Menüs, die im Kapitel &lt;l0/&gt; beschrieben werden, und aus einer Statusleiste, die weiter &lt;l1&gt;unten&lt;/l1&gt; beschrieben wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main window consists of several panes, described here, menus, described in the &lt;l0/&gt; chapter, and a status bar, described &lt;l1&gt;below&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T135019Z" creationid="Ragnar-F" creationdate="20230127T134800Z">
+        <seg>Das Hauptfenster ist unterteilt in Fensterbereiche (die hier beschrieben werden), Menüs (siehe &lt;l0/&gt;) und eine Statusleiste (siehe &lt;l1&gt;unten&lt;/l1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55084,6 +55452,22 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T144221Z">
         <seg>Dasselbe Dialogfenster wird zum Hinzufügen eines Musters oder zum Bearbeiten eines bestimmten Musters verwendet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same key toggles between each mode.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T143314Z" creationid="Ragnar-F" creationdate="20230127T143314Z">
+        <seg>Mit derselben Taste wird zwischen den einzelnen Modi hin- und hergeschaltet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same key toggles between locking and unlocking the cursor.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T143528Z" creationid="Ragnar-F" creationdate="20230127T143528Z">
+        <seg>Mit derselben Taste wird zwischen dem Fixieren und Lösen des Textcursors hin- und hergeschaltet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56091,6 +56475,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
         <seg>The top right corner of a pane will show different icons depending on the type of pane and its current status:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T113212Z" creationid="Ragnar-F" creationdate="20221118T113212Z">
+        <seg>Die obere rechte Ecke eines Fensterbereichs zeigt je nach Typ und aktuellem Status unterschiedliche Symbole an:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The top right corner of each pane shows different icons depending on the type of pane and its current status:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T135312Z" creationid="Ragnar-F" creationdate="20230127T135312Z">
         <seg>Die obere rechte Ecke eines Fensterbereichs zeigt je nach Typ und aktuellem Status unterschiedliche Symbole an:</seg>
       </tuv>
     </tu>
@@ -58778,6 +59170,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This marking has priority over &lt;g0&gt;Highlight Translated Segments&lt;/g0&gt; and &lt;g1&gt;Highlight Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133306Z" creationid="Ragnar-F" creationdate="20230127T133306Z">
+        <seg>Diese Hervorhebung hat Vorrang vor &lt;g0&gt;Übersetzte Segmente hervorheben&lt;/g0&gt; und &lt;g1&gt;Unübersetzte Segmente hervorheben&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T140109Z" creationid="Ragnar-F" creationdate="20210111T154959Z">
@@ -59030,6 +59430,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T160404Z" creationid="Michael Motzkus" creationdate="20180918T145316Z">
         <seg>Wenn aktiviert, werden &lt;u0&gt;bidirektionale Steuerzeichen&lt;/u0&gt; farblich hervorgehoben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option displays Unicode directional formatting characters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133623Z" creationid="Ragnar-F" creationdate="20230127T133623Z">
+        <seg>Wenn aktiviert, werden bidirektionale Unicode-Formatierungszeichen angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62946,6 +63354,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;k0&gt;F2&lt;/k0&gt; to unlock it and freely move it back and forth between the translation field and other parts of the pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T141442Z" creationid="Ragnar-F" creationdate="20230127T141442Z">
+        <seg>Verwenden Sie &lt;k0&gt;F2&lt;/k0&gt;, um den Textcursor zu lösen und ihn frei zwischen dem Übersetzungsfeld und den anderen Teilen des Fensterbereichs hin und her zu bewegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;k0&gt;F2&lt;/k0&gt; to unlock the cursor and move it beyond the translation field, and to make it come back into the translation field when you are done.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T123809Z" creationid="Ragnar-F" creationdate="20221218T123809Z">
@@ -63474,6 +63890,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to go back to the default layout if you lose track of the changes you made to the user interface and can no longer see certain panes.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T135647Z" creationid="Ragnar-F" creationdate="20230127T135647Z">
+        <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt;, um das Standardlayout wiederherzustellen, wenn Sie den Überblick über Ihre Änderungen an der Benutzeroberfläche verloren haben und/oder bestimmte Fensterbereiche nicht mehr sehen können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to go back to the default layout if you lost track of the changes you made to the user interface, and cannot see some panes.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T123755Z" creationid="Ragnar-F" creationdate="20221218T123755Z">
@@ -63494,6 +63918,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T133227Z" creationid="Ragnar-F" creationdate="20221218T133227Z">
         <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt;, um Segmente zu identifizieren, die zum selben Absatz gehören.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to insert a selection of characters directly from the OmegaT interface.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133740Z" creationid="Ragnar-F" creationdate="20230127T133740Z">
+        <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt;, um eine Auswahl von Zeichen direkt über die OmegaT-Benutzeroberfläche einzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63662,6 +64094,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230113T225849Z" creationid="Ragnar-F" creationdate="20230113T225849Z">
         <seg>Agg&amp;ressiven Font-Fallback nutzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133849Z" creationid="Ragnar-F" creationdate="20230127T133849Z">
+        <seg>Aggressiven Font-Fallback nutzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -67548,6 +67988,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T152932Z" creationid="Ragnar-F" creationdate="20221119T152932Z">
         <seg>Sie können wählen, ob sie dargestellt werden sollen und ob die Standard-XML-Notation für alleinstehende Tags (z. B. &lt;i/&gt;) verwendet werden soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can click and hold the name of a pane to drag it to a new position or even undock it as a separate window.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T135255Z" creationid="Ragnar-F" creationdate="20230127T134923Z">
+        <seg>Sie können den Titel eines Fensterbereichs anklicken und ihn auf eine neue Position verschieben oder als separates Fenster abdocken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74404,6 +74852,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T093852Z" creationid="Ragnar-F" creationdate="20221110T093852Z">
         <seg>readme.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>register the contents of the translation field in the project translation memory, and</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T141649Z" creationid="Ragnar-F" creationdate="20230127T141649Z">
+        <seg>den Inhalt des Übersetzungsfeldes in den Translation Memory des Projekts aufzunehmen, und</seg>
       </tuv>
     </tu>
     <tu>
