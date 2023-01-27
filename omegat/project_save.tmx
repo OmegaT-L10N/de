@@ -13230,6 +13230,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;l0/&gt; to use project-specific (local) segmentation rules rather than the global rules.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T105835Z" creationid="Ragnar-F" creationdate="20230127T105835Z">
+        <seg>Klicken Sie auf &lt;l0/&gt;, um projektspezifische (lokale) Segmentierungsregeln anstelle der globalen Regeln zu verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T105443Z" creationid="Ragnar-F" creationdate="20221218T105443Z">
@@ -18764,6 +18772,14 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the commands you want to run in this field.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111119Z" creationid="Ragnar-F" creationdate="20230127T111119Z">
+        <seg>Geben Sie in diesem Feld die Befehle ein, die Sie ausführen möchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the name of this set:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T215225Z" creationid="Ragnar-F" creationdate="20221109T215225Z">
@@ -23590,6 +23606,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T110209Z" creationid="Ragnar-F" creationdate="20230127T110209Z">
+        <seg>Die Originalübersetzung bleibt jedoch im Translation Memory des Projekts erhalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you may want to remove the &lt;k0&gt;S&lt;/k0&gt; key from the shortcut to make it only &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (or &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; on macOS) to match the shortcut you use in other applications.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T135230Z" creationid="Ragnar-F" creationdate="20221112T135230Z">
@@ -24896,6 +24920,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the folder is empty, none of the files contain translatable content, or there are no files supported by the available file filters, OmegaT will tell you that the folder is empty.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T112752Z" creationid="Ragnar-F" creationdate="20230127T112752Z">
+        <seg>Wenn der Ordner leer ist, alle Dateien keine übersetzbaren Inhalte enthalten oder alle Dateien von den verfügbaren OmegaT-Dateifiltern nicht unterstützt werden, wird OmegaT Ihnen mitteilen, dass der Ordner leer ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the format is not there, use third party plugins or convert the file to a format that is supported.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T103836Z" creationid="Ragnar-F" creationdate="20221117T103836Z">
@@ -25124,6 +25156,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T130731Z">
         <seg>Wenn in anderen Ordnern weitere Dateien mit dem Namen test.html vorhanden sind, werden diese ignoriert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are repeated segments in the source documents, checking this option will set the first translated segment as the default translation and automatically use the same target text in the remaining repeated segments.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T110555Z" creationid="Ragnar-F" creationdate="20230127T110555Z">
+        <seg>Wenn mehrmalige Segmente in den Quelldokumenten vorhanden sind und ein Häkchen bei dieser Option gesetzt ist, wird das erste übersetzte Segment als Standard festgelegt, was zur Folge hat, dass alle Segmente mit demselben Quelltext automatisch den Zieltext der Standardübersetzung erhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25913,6 +25953,14 @@ unter anderem über Java Web Start installieren.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T152617Z" creationid="BVB" creationdate="20180826T104750Z">
         <seg>Wenn Sie die OmegaT-Version mit JRE installieren, obwohl die JRE bereits auf Ihrem Computer installiert ist, wird die JRE von OmegaT separat installiert, ohne in Konflikt mit anderen JRE-Installationen zu geraten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you just need to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111014Z" creationid="Ragnar-F" creationdate="20230127T111014Z">
+        <seg>Wenn Sie die Anzahl der Tags in einem Dokument von &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 oder höher) reduzieren wollen, können Sie das Skript &lt;l1/&gt; verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36240,6 +36288,14 @@ höher auf Ihrem System installiert ist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT tries to read all the files at once, and displays the translatable contents it finds in the editor.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T112501Z" creationid="Ragnar-F" creationdate="20230127T112501Z">
+        <seg>OmegaT versucht, alle Dateien einzulesen, und zeigt alle übersetzbaren Inhalte, die es gefunden hat, im Editor an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT tries to read all the files at once, and matches their contents to the segment you are translating.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T130318Z" creationid="Ragnar-F" creationdate="20221114T130318Z">
@@ -42429,6 +42485,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resource folders can be located anywhere on your system, including on shared disks.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111707Z" creationid="Ragnar-F" creationdate="20230127T111707Z">
+        <seg>Ressourcenordner können sich überall auf Ihrem System befinden, auch auf gemeinsam genutzten Laufwerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resource name</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T092044Z" creationid="Ragnar-F" creationdate="20210113T092044Z">
@@ -42448,6 +42512,14 @@ These words: 'Page not found'</seg>
         <seg>Resources do not have to be contained in the default project folder that OmegaT creates.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T122515Z" creationid="Ragnar-F" creationdate="20221114T122005Z">
+        <seg>Die Ressourcen müssen nicht unbedingt im Projektordner aufbewahrt werden, den OmegaT standardmäßig vorgibt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resources do not have to be stored in the default project folder that OmegaT creates.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T112257Z" creationid="Ragnar-F" creationdate="20230127T112257Z">
         <seg>Die Ressourcen müssen nicht unbedingt im Projektordner aufbewahrt werden, den OmegaT standardmäßig vorgibt.</seg>
       </tuv>
     </tu>
@@ -44634,6 +44706,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for general explanations about segmentation (global or local, paragraph or sentence, settings, and so on).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T110248Z" creationid="Ragnar-F" creationdate="20230127T110248Z">
+        <seg>Allgemeine Erläuterungen zur Segmentierung (global oder lokal, Absatz oder Satz, Einstellungen usw.) finden Sie unter &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; appendix if you want to modify or add shortcuts.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T131157Z" creationid="Ragnar-F" creationdate="20221218T131157Z">
@@ -46094,6 +46174,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085711Z" creationid="Ragnar-F" creationdate="20221112T085711Z">
         <seg>Segmentierung auf Satzebene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence-level segmentation splits paragraphs or other text blocks in the source file into segments based on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T105654Z" creationid="Ragnar-F" creationdate="20230127T105654Z">
+        <seg>Die Satzsegmentierung teilt Absätze oder andere Textblöcke der Quelldatei in mehrere Segmente auf, basierend auf den Segmentierungsregeln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49268,6 +49356,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags are generally useful to reproduce specific layouts or characteristics of the source text in the translated text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T110624Z" creationid="Ragnar-F" creationdate="20230127T110624Z">
+        <seg>Tags sind grundsätzlich nützlich, um bestimmte Layouts oder Eigenschaften des Quelltextes auf den übersetzten Text zu übertragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tags are generally useful to reproduce specific layouts or characteristics of the source text into the translated text.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T112838Z" creationid="Ragnar-F" creationdate="20221114T112838Z">
@@ -50261,6 +50357,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T121819Z" creationid="Ragnar-F" creationdate="20221114T121807Z">
         <seg>Die &lt;g0&gt;Durchsuchen&lt;/g0&gt;-Schaltfläche ist für alle benutzerdefinierten Projektressourcen verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g0&gt;Browse&lt;/g0&gt; button is available for all user-definable project resources.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T112246Z" creationid="Ragnar-F" creationdate="20230127T112135Z">
+        <seg>Die &lt;g0&gt;Durchsuchen&lt;/g0&gt;-Schaltfläche ist für alle benutzerdefinierbaren Projektressourcen verfügbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54032,10 +54136,26 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of external searches in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111354Z" creationid="Ragnar-F" creationdate="20230127T111354Z">
+        <seg>Das Projekt speichert den neuen Satz von externen Suchvorgängen in die Datei &lt;l0/&gt; im Ordner &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of external searches in the &lt;l0/&gt; file of its &lt;l1/&gt; folder, and the settings will supersede the global external searches settings.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T120329Z" creationid="Ragnar-F" creationdate="20221114T120329Z">
         <seg>Das Projekt speichert den neuen Satz von externen Suchvorgängen in die Datei &lt;l0/&gt; im Ordner &lt;l1/&gt;. Diese Einstellungen haben Vorrang vor den globalen externen Suchvorgängen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will store the new set of file filters in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111219Z" creationid="Ragnar-F" creationdate="20230127T111219Z">
+        <seg>Das Projekt speichert den neuen Satz von Dateifiltern in die Datei &lt;l0/&gt; im Ordner &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54060,6 +54180,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T093240Z" creationid="Ragnar-F" creationdate="20221218T093240Z">
         <seg>Das Projekt speichert den neuen Satz von Regeln in die Datei &lt;l0/&gt; im Ordner &lt;l1/&gt;. Diese Regeln haben Vorrang vor den globalen Segmentierungsregeln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will store the new set of rules in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T110430Z" creationid="Ragnar-F" creationdate="20230127T110430Z">
+        <seg>Das Projekt speichert den neuen Satz von Regeln in die Datei &lt;l0/&gt; im Ordner &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54460,6 +54588,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T104937Z">
         <seg>Die Segmentierungsregeln wirken sich grundsätzlich auf alle Projekte aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segmentation rules presented when you open the &lt;l0/&gt; preferences (using &lt;l1/&gt;&lt;l2/&gt;) are the global rules.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T110421Z" creationid="Ragnar-F" creationdate="20230127T110421Z">
+        <seg>Die angezeigten Segmentierungsregeln beim Öffnen der Einstellungen &lt;l0/&gt; (via &lt;l1/&gt;&lt;l2/&gt;) sind globale Regeln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56051,10 +56187,34 @@ werden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These rules will supersede the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T110435Z" creationid="Ragnar-F" creationdate="20230127T110435Z">
+        <seg>Diese Regeln haben Vorrang vor den globalen Segmentierungsregeln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T135303Z" creationid="Ragnar-F" creationdate="20210111T135303Z">
         <seg>Diese Einstellungen sind global; das heißt, sie gelten für alle Projekte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings will supersede the global external searches settings.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111406Z" creationid="Ragnar-F" creationdate="20230127T111406Z">
+        <seg>Diese Einstellungen haben Vorrang vor den globalen externen Suchvorgängen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings will supersede the global file filter settings.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111327Z" creationid="Ragnar-F" creationdate="20230127T111327Z">
+        <seg>Diese Einstellungen haben Vorrang vor den globalen Dateifiltereinstellungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58590,6 +58750,14 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will split or merge some previously translated segments, which will therefore no longer be translated.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T110154Z" creationid="Ragnar-F" creationdate="20230127T110154Z">
+        <seg>Dabei werden einige zuvor übersetzte Segmente geteilt oder zusammengeführt, wodurch sie nicht mehr übersetzt sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will translate a string like “$123,399.99” to “123 399,99 USD”, for example.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T173111Z" creationid="Ragnar-F" creationdate="20221121T173111Z">
@@ -59142,6 +59310,14 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To delete project specific external searches, click on the &lt;g0&gt;Remove&lt;/g0&gt; button or remove that file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T112144Z" creationid="Ragnar-F" creationdate="20230127T111427Z">
+        <seg>Um projektspezifische externe Suchvorgänge zu entfernen, klicken Sie auf die &lt;g0&gt;Entfernen&lt;/g0&gt;-Schaltfläche oder löschen Sie die Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To delete project specific file filters, uncheck the check box.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T111952Z">
@@ -59169,6 +59345,14 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
         <seg>To disable project specific file filters, uncheck the box or remove that file.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T115822Z" creationid="Ragnar-F" creationdate="20221114T115822Z">
+        <seg>Um projektspezifische Dateifilter zu deaktivieren, entfernen Sie das Häkchen bei dieser Option oder löschen Sie die Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable project-specific file filters, uncheck the box or remove that file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111337Z" creationid="Ragnar-F" creationdate="20230127T111337Z">
         <seg>Um projektspezifische Dateifilter zu deaktivieren, entfernen Sie das Häkchen bei dieser Option oder löschen Sie die Datei.</seg>
       </tuv>
     </tu>
@@ -62178,6 +62362,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access the locations of the project resources.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T112123Z" creationid="Ragnar-F" creationdate="20230127T112123Z">
+        <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt; und die Untermenüs, um auf die Speicherorte der Projektressourcen zuzugreifen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; and the &lt;l2/&gt; preferences to manage glossary matches.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T112941Z" creationid="Ragnar-F" creationdate="20221218T112941Z">
@@ -62198,6 +62390,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T093631Z" creationid="Ragnar-F" creationdate="20221218T093631Z">
         <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt; oder &lt;l2/&gt;&lt;l3/&gt;, um die Zieldateien zu erstellen und die Ausführung der Befehle auszulösen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; or &lt;l2/&gt;&lt;l3/&gt; to create the target files and trigger the command.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111203Z" creationid="Ragnar-F" creationdate="20230127T111203Z">
+        <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt; oder &lt;l2/&gt;&lt;l3/&gt;, um die Zieldateien zu erstellen und die Befehle auszulösen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64292,6 +64492,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221120T202823Z" creationid="Ragnar-F" creationdate="20221120T202823Z">
         <seg>Wenn ein Match aus einer TMX-Datei in diesem Ordner eingefügt wird, ändert sich die Hintergrundfarbe des aktiven Segments zu rot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a new project is created, OmegaT proposes a default project folder structure that contains all the resources used in the translation, but that structure is not compulsory.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111645Z" creationid="Ragnar-F" creationdate="20230127T111645Z">
+        <seg>Beim Erstellen eines neuen Projekts schlägt OmegaT eine Standardstruktur für den Projektordner vor, die alle Ressourcen für die Übersetzung enthält, aber diese Struktur ist nicht vorgeschrieben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66878,6 +67086,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can modify the structure of your project by adding or removing files from the folders, or even by changing the folders used by the project at any time, even during the course of the translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T112029Z" creationid="Ragnar-F" creationdate="20230127T112029Z">
+        <seg>Sie können jederzeit die Struktur Ihres Projekts ändern, indem Sie Dateien aus den Ordnern hinzufügen bzw. entfernen oder die vom Projekt verwendeten Ordner ändern, selbst während einer laufenden Übersetzung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify them freely to improve the segmentation of a document or add additional general rules.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T094924Z" creationid="Ragnar-F" creationdate="20221111T094924Z">
@@ -67010,6 +67226,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T122142Z" creationid="Ragnar-F" creationdate="20221114T122142Z">
         <seg>Sie können einen beliebigen Ordner zur Aufbewahrung Ihrer Ressourcen auswählen, auch solche, die sich auf gemeinsam genutzten Laufwerken befinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select any folder you want to hold your resources, including folders on shared disks.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T112417Z" creationid="Ragnar-F" creationdate="20230127T112417Z">
+        <seg>Sie können einen beliebigen Ordner zur Aufbewahrung Ihrer Ressourcen auswählen, inklusive Ordner auf gemeinsam genutzten Laufwerken.</seg>
       </tuv>
     </tu>
     <tu>
