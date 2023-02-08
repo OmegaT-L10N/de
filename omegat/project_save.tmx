@@ -1082,6 +1082,14 @@ ${filePath}&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230208T173644Z" creationid="Ragnar-F" creationdate="20230208T173644Z">
+        <seg>Nächstes &amp;finden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T200104Z" creationid="Ragnar-F" creationdate="20210112T200104Z">
@@ -1690,6 +1698,14 @@ ${filePath}&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230208T173800Z" creationid="Ragnar-F" creationdate="20230208T173800Z">
+        <seg>E&amp;rsetzen und Nächstes finden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Replace...</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T200313Z" creationid="Ragnar-F" creationdate="20210112T200313Z">
@@ -1886,6 +1902,14 @@ ${filePath}&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T131233Z" creationid="karsten" creationdate="20150919T093639Z">
         <seg>Relevante Vorschläge automati&amp;sch anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230208T173152Z" creationid="Ragnar-F" creationdate="20230208T173152Z">
+        <seg>E&amp;rsetzungen anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -30155,6 +30179,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230208T171627Z" creationid="Ragnar-F" creationdate="20230208T171627Z">
+        <seg>Diese wird in der TMX-Datei abgelegt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T130551Z" creationid="BVB" creationdate="20180826T095322Z">
@@ -32402,6 +32434,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230208T170337Z" creationid="Ragnar-F" creationdate="20230208T170337Z">
+        <seg>Maschinelle Übersetzungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine translate highlight</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T234757Z" creationid="Ragnar-F" creationdate="20221121T234757Z">
@@ -32438,6 +32478,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180823T071045Z" creationid="BVB" creationdate="20180823T071045Z">
         <seg>Mailinglisten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230208T174611Z" creationid="Ragnar-F" creationdate="20230208T174611Z">
+        <seg>&amp;Haupt-TM</seg>
       </tuv>
     </tu>
     <tu>
@@ -35970,6 +36018,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T161513Z" creationid="Ragnar-F" creationdate="20210110T161513Z">
         <seg>Hinweis: Beide Ausdrücke können via &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt; kombiniert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230208T171518Z" creationid="Ragnar-F" creationdate="20230208T171518Z">
+        <seg>Notizbuch</seg>
       </tuv>
     </tu>
     <tu>
@@ -42413,6 +42469,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230208T174733Z" creationid="Ragnar-F" creationdate="20230208T174733Z">
+        <seg>Neben-T&amp;Ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference glossaries</seg>
       </tuv>
       <tuv lang="de" changeid="SabineWanner" changedate="20221117T154917Z" creationid="SabineWanner" creationdate="20221117T154917Z">
@@ -48802,6 +48866,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230208T174101Z" creationid="Ragnar-F" creationdate="20230208T174101Z">
+        <seg>Quelldatei {0} wurde übersprungen, da sie nicht geladen werden konnte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped translation unites for which no source  segment was found.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T170802Z" creationid="Ragnar-F" creationdate="20221109T170802Z">
@@ -49526,6 +49598,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T233447Z" creationid="Ragnar-F" creationdate="20221121T233447Z">
         <seg>Sprache der Quelldateien:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230208T174406Z" creationid="Ragnar-F" creationdate="20230208T174406Z">
+        <seg>Quelldateien geladen, aber Datei(en) durch Filterfehler übersprungen</seg>
       </tuv>
     </tu>
     <tu>
