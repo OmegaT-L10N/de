@@ -5724,6 +5724,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Show replacements&lt;/g0&gt; filters the entries in the Editor and highlight the parts that will be replaced.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T121809Z" creationid="Ragnar-F" creationdate="20230223T121809Z">
+        <seg>&lt;g0&gt;Ersetzungen anzeigen&lt;/g0&gt; filtert die Einträge im Editor und hebt die Textbereiche hervor, die ersetzt werden sollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Source Files...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;L&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T121652Z" creationid="Ragnar-F" creationdate="20221218T121647Z">
@@ -10392,6 +10400,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply a different font size to the dictionaries pane</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T115237Z" creationid="Ragnar-F" creationdate="20230223T115237Z">
+        <seg>Eine andere Schriftgröße auf den Wörterbuchbereich anwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apply a different font size to the dictionary pane</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T100011Z" creationid="Ragnar-F" creationdate="20221119T100011Z">
@@ -11097,6 +11113,14 @@ korrektem Verhalten kommen kann.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T122142Z" creationid="Ragnar-F" creationdate="20221115T122001Z">
         <seg>Automatische Sicherheitskopien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatic dark theme detection is available on Linux systems with the Gnome/GTK look and feel for users who run OmegaT on OpenJDK.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T115733Z" creationid="Ragnar-F" creationdate="20230223T115733Z">
+        <seg>Für Benutzer, die OmegaT über OpenJDK ausführen, gibt es eine automatische Dark-Theme-Erkennung auf Linux-Systemen mit dem Gnome/GTK-Look-and-Feel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12150,6 +12174,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T124635Z" creationid="Ragnar-F" creationdate="20221118T124635Z">
         <seg>Standardmäßig ist der Textcursor auf das Übersetzungsfeld beschränkt; es ist nicht möglich, mit den Pfeiltasten im Quelltext zu navigieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the dictionaries pane uses the same font size as the main window panes.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T115245Z" creationid="Ragnar-F" creationdate="20230223T115245Z">
+        <seg>Standardmäßig verwendet der Wörterbuchbereich die gleiche Schriftgröße wie die Hauptfensterbereiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13878,6 +13910,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230127T112904Z" creationid="Ragnar-F" creationdate="20230127T112904Z">
         <seg>Klicken Sie auf die &lt;g0&gt;Ausnahmen...&lt;/g0&gt;-Schaltfläche, um Dateien oder Ordner anzugeben, die von OmegaT ignoriert werden sollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Replace and Find Next&lt;/g0&gt; or &lt;g1&gt;Find Next&lt;/g1&gt; button, and click the &lt;g2&gt;Finish&lt;/g2&gt; button to end the replacement operation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T122032Z" creationid="Ragnar-F" creationdate="20230223T122032Z">
+        <seg>Klicken Sie auf die Schaltfläche &lt;g0&gt;Ersetzen und Nächstes finden&lt;/g0&gt; oder &lt;g1&gt;Nächstes finden&lt;/g1&gt;, oder klicken Sie auf die Schaltfläche &lt;g2&gt;Beenden&lt;/g2&gt;, um den Ersetzungsvorgang zu beenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18871,6 +18911,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T084248Z" creationid="Ragnar-F" creationdate="20221117T084248Z">
         <seg>Jede der drei Dateien repräsentiert einen zweisprachigen Export des aktuellen Inhalts Ihrer Übersetzung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each of the three types of matching percentages presented in the &lt;l0/&gt; pane are taken into account to determine whether a match is displayed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T120715Z" creationid="Ragnar-F" creationdate="20230223T120535Z">
+        <seg>Jeder der drei Matching-Prozentsätze im &lt;l0/&gt;-Bereich wird verwendet, um zu bestimmen, ob eine Übereinstimmung angezeigt wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37270,6 +37318,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT displays the five best fuzzy matches above 30% by default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T115926Z" creationid="Ragnar-F" creationdate="20230223T115926Z">
+        <seg>OmegaT zeigt standardmäßig die fünf besten Fuzzy Matches über 30 Prozent an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not assign different statuses to translated segments.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T112451Z" creationid="Ragnar-F" creationdate="20221218T112451Z">
@@ -37699,6 +37755,14 @@ Software Foundation veröffentlicht wurde, entweder in Version 3 der Lizenz oder
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230108T193349Z" creationid="Ragnar-F" creationdate="20230108T193349Z">
         <seg>OmegaT unterliegt der "GPL v3"-Lizenzvereinbarung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is distributed under the terms of the &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T121615Z" creationid="Ragnar-F" creationdate="20230223T121615Z">
+        <seg>OmegaT wird unter den Bedingungen der &lt;e0&gt;GNU General Public License, Version 3.0&lt;/e0&gt; verteilt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38466,6 +38530,14 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T130545Z" creationid="Ragnar-F" creationdate="20221116T130545Z">
         <seg>Die Dateifilter von OmegaT bieten eine breite Palette an Unterstützung für gängige und weniger gängige Dateiformate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's main purpose is to help you create a good translation the fastest possible by giving you access to your translation ressources in the most reliable way possible.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T121607Z" creationid="Ragnar-F" creationdate="20230223T121607Z">
+        <seg>Der Hauptzweck von OmegaT besteht darin, Ihnen auf möglichst zuverlässige Weise Zugang zu Ihren Übersetzungsressourcen zu verschaffen, damit Sie eine gute Übersetzung so schnell wie möglich erstellen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41430,6 +41502,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are by default installed in the &lt;l0&gt;configuration folder&lt;/l0&gt;, but can also be installed in the &lt;l1/&gt; folder under the &lt;l2&gt;application&lt;/l2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T121143Z" creationid="Ragnar-F" creationdate="20230223T121129Z">
+        <seg>Plugins werden standardmäßig in den &lt;l0&gt;Konfigurationsordner&lt;/l0&gt; installiert, können aber auch in den &lt;l1/&gt;-Ordner im &lt;l2&gt;Applikationsordner&lt;/l2&gt; installiert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugins are installed either in the &lt;l0/&gt; folder under the &lt;l1/&gt;, or in the platform-specific &lt;l2/&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T215555Z" creationid="Ragnar-F" creationdate="20221119T215555Z">
@@ -41562,6 +41642,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T233256Z" creationid="Ragnar-F" creationdate="20221121T233256Z">
         <seg>Nachbearbeitungsbefehle wurden unterbrochen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Potential matches are rejected if all three percentages are below the threshold.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T120804Z" creationid="Ragnar-F" creationdate="20230223T120804Z">
+        <seg>Potenzielle Matches werden abgelehnt, wenn alle drei Prozentwerte unter dem Schwellenwert liegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47994,6 +48082,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a layout for the glossaries pane contents.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T114335Z" creationid="Ragnar-F" creationdate="20230223T114335Z">
+        <seg>Wählen Sie ein Layout für den Inhalt des Glossarbereichs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a layout for the glossary pane contents.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220730Z" creationid="Ragnar-F" creationdate="20221118T220730Z">
@@ -54089,6 +54185,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The background colour is restored to normal when you leave the segment or when you modify the segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T121151Z" creationid="Ragnar-F" creationdate="20230223T121151Z">
+        <seg>Die Hintergrundfarbe wird wieder normal, wenn Sie das Segment verlassen oder modifizieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The background is restored to normal when the segment is left.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T200001Z" creationid="Michael Motzkus" creationdate="20180925T065126Z">
@@ -55343,8 +55447,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The first time you start OmegaT, the main window displays the following default layout:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T112026Z" creationid="Ragnar-F" creationdate="20230223T112026Z">
-        <seg>Wenn Sie OmegaT zum ersten Mal starten, zeigt das Hauptfenster das folgende Standardlayout:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T114315Z" creationid="Ragnar-F" creationdate="20230223T112026Z">
+        <seg>Wenn Sie OmegaT zum ersten Mal starten, hat das Hauptfenster das folgende Standardlayout:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58280,6 +58384,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The themes also provide predefined set of default colours.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T115208Z" creationid="Ragnar-F" creationdate="20230223T115208Z">
+        <seg>Die Designs bieten auch eine Reihe von vordefinierten Standardfarben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The three matching percentages are in the following order:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T182327Z" creationid="Ragnar-F" creationdate="20210111T182327Z">
@@ -60294,6 +60406,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T150416Z" creationid="Michael Motzkus" creationdate="20180919T071043Z">
         <seg>Dieser externe Befehl kann keine "Pipes" usw. enthalten, weshalb der Aufruf eines Skripts empfohlen wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This feature depends on Java functionality that is not yet available on other platforms.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T115903Z" creationid="Ragnar-F" creationdate="20230223T115903Z">
+        <seg>Dieses Feature hängt von einer Java-Funktionalität ab, die auf anderen Plattformen noch nicht verfügbar ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67976,6 +68096,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a match is inserted from a TMX contained in this folder, the background colour of the active segment changes to red.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T121147Z" creationid="Ragnar-F" creationdate="20230223T121147Z">
+        <seg>Wenn ein Match aus einer TMX-Datei in diesem Ordner eingefügt wird, ändert sich die Hintergrundfarbe des aktiven Segments zu rot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a new project is created, OmegaT proposes a default project folder structure that contains all the resources used in the translation, but that structure is not compulsory.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111645Z" creationid="Ragnar-F" creationdate="20230127T111645Z">
@@ -68196,6 +68324,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T135454Z" creationid="Ragnar-F" creationdate="20221119T135454Z">
         <seg>Wenn der Match eingefügt wird, wandelt OmegaT &lt;t0&gt;2003&lt;/t0&gt; in &lt;t1&gt;2001&lt;/t1&gt; um:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the option is enabled, OmegaT automatically searches in all the dictionaries for matches of the terms it identified in the segment, as it enters the segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T115203Z" creationid="Ragnar-F" creationdate="20230223T115203Z">
+        <seg>Wenn die Option aktiviert ist, sucht OmegaT beim Betreten eines Segments automatisch in allen Wörterbüchern nach Übereinstimmungen für die im Segment identifizierten Begriffe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68612,6 +68748,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T085613Z" creationid="Ragnar-F" creationdate="20210113T085613Z">
         <seg>Welche Version möchten Sie behalten?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While the option is disabled, use &lt;l0/&gt;&lt;l1/&gt; to search for matches of the selection or of all the terms in the segment source.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T114714Z" creationid="Ragnar-F" creationdate="20230223T114714Z">
+        <seg>Wenn die Option deaktiviert ist, können Sie &lt;l0/&gt;&lt;l1/&gt; verwenden, um nach Übereinstimmungen für den markierten Text oder für alle Begriffe im Quellsegment zu suchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70080,6 +70224,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can assign different colours for the various parts of the user interface.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T115249Z" creationid="Ragnar-F" creationdate="20230223T115249Z">
+        <seg>Sie können verschiedene Bereiche der Benutzeroberfläche mit unterschiedlichen Farben versehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can automate file name changes using the &lt;l0/&gt; option for the file filter.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T113929Z" creationid="Ragnar-F" creationdate="20221218T113929Z">
@@ -70148,6 +70300,14 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T124458Z" creationid="Ragnar-F" creationdate="20221110T124458Z">
         <seg>Sie können Dateinamensmuster ändern oder hinzufügen, um verschiedene Dateien mit einem Filter zu verknüpfen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change that threshold here.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T120018Z" creationid="Ragnar-F" creationdate="20230223T120018Z">
+        <seg>Sie können diesen Schwellenwert hier ändern.</seg>
       </tuv>
     </tu>
     <tu>
