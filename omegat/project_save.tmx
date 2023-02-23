@@ -17467,6 +17467,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display TBX glossaries context description (TBX 2)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113923Z" creationid="Ragnar-F" creationdate="20230223T113923Z">
+        <seg>Kontextbeschreibung für TBX-Glossare (TBX 2) anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display Whitespace</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133335Z" creationid="Ragnar-F" creationdate="20230127T133335Z">
@@ -26240,6 +26248,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the segment contains only numbers or symbols, this percentage will be the highest.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113502Z" creationid="Ragnar-F" creationdate="20230223T113502Z">
+        <seg>Wenn das Segment nur Zahlen oder Symbole enthält, ist dieser Prozentsatz der höchste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221219T120553Z" creationid="Ragnar-F" creationdate="20221219T120553Z">
@@ -34026,6 +34042,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu items that do not indicate a shortcut do not have one assigned by default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113857Z" creationid="Ragnar-F" creationdate="20230223T113857Z">
+        <seg>Menüpunkte, neben denen kein Tastenkürzel angegeben ist, haben standardmäßig kein Tastenkürzel zugewiesen bekommen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menu items that do not indicate a shortcut do nothave one assigned by default.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230127T151400Z" creationid="Ragnar-F" creationdate="20230127T151400Z">
@@ -34463,6 +34487,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221122T084415Z" creationid="SabineWanner" creationdate="20221117T155048Z">
         <seg>Änderungen an einer beliebigen Glossardatei werden von OmegaT sofort erkannt und im &lt;l0/&gt;-Bereich angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifications to any glossary file in the glossary folder are immediately recognized by OmegaT and displayed in the glossaries pane.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113601Z" creationid="Ragnar-F" creationdate="20230223T113601Z">
+        <seg>Änderungen an einer beliebigen Glossardatei im Glossarordner werden von OmegaT sofort erkannt und im Glossarbereich angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40841,6 +40873,30 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T142730Z" creationid="Ragnar-F" creationdate="20210112T152750Z">
         <seg>Sanktion für Matches anderer Sprachen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated &lt;e0&gt;with stemming&lt;/e0&gt; based on the source language tokenizer, and &lt;e1&gt;ignoring tags and numbers&lt;/e1&gt; (generally the highest).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113324Z" creationid="Ragnar-F" creationdate="20230223T113324Z">
+        <seg>Ein Prozentsatz, der &lt;e0&gt;mit Stammformreduktion&lt;/e0&gt; auf Basis des Tokenizers der Quellsprache &lt;e1&gt;ohne Berücksichtigung von Tags und Zahlen&lt;/e1&gt; berechnet wird (generell der höchste).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated &lt;e0&gt;without stemming&lt;/e0&gt;, while still &lt;e1&gt;ignoring tags and numbers&lt;/e1&gt; (generally slightly lower).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113349Z" creationid="Ragnar-F" creationdate="20230223T113349Z">
+        <seg>Ein Prozentsatz, der &lt;e0&gt;ohne Stammformreduktion&lt;/e0&gt; und &lt;e1&gt;ohne Berücksichtigung von Tags und Zahlen&lt;/e1&gt; berechnet wird (generell etwas niedriger).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated on &lt;e0&gt;the entire text, including tags and numbers&lt;/e0&gt; (generally the lowest).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113436Z" creationid="Ragnar-F" creationdate="20230223T113436Z">
+        <seg>Ein Prozentsatz, der &lt;e0&gt;unter Berücksichtigung des vollständigen Textes, einschließlich Tags und Zahlen&lt;/e0&gt;, berechnet wird (generell der niedrigste).</seg>
       </tuv>
     </tu>
     <tu>
@@ -61458,6 +61514,38 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This pane is an &lt;e0&gt;editable&lt;/e0&gt; space where you can add notes to the currently active segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113852Z" creationid="Ragnar-F" creationdate="20230223T113852Z">
+        <seg>Dieser Fensterbereich ist ein &lt;e0&gt;editierbares&lt;/e0&gt; Feld, mit dem Sie Notizen zu dem gerade aktiven Segment hinzufügen können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This pane shows terms from your dictionary files that correspond to terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113621Z" creationid="Ragnar-F" creationdate="20230223T113621Z">
+        <seg>Dieser Fensterbereich zeigt Einträge aus Ihren Wörterbüchern an, die mit Begriffen im aktuellen Segment übereinstimmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This pane shows terms from your glossary files that correspond to terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113543Z" creationid="Ragnar-F" creationdate="20230223T113543Z">
+        <seg>Dieser Fensterbereich zeigt Einträge aus Ihren Glossardateien an, die mit Begriffen im aktuellen Segment übereinstimmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This pane, when opened, shows the suggestions for the current segment produced by each enabled translation engine .</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113640Z" creationid="Ragnar-F" creationdate="20230223T113640Z">
+        <seg>Dieser Fensterbereich zeigt, sofern vorhanden, Vorschläge für das aktive Segment an, die von jedem aktivierten Übersetzungsdienst erstellt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter combines with the previous user interface language parameter to specify a regional variant.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221128T083109Z" creationid="Ragnar-F" creationdate="20221128T083109Z">
@@ -68891,8 +68979,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>Words missing from the segment you are translating are shown in &lt;e1&gt;blue&lt;/e1&gt;, and adjacent parts in &lt;e2&gt;green&lt;/e2&gt; (when the adjacent part is a space, as above, the part is left uncolored).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113152Z" creationid="Ragnar-F" creationdate="20230223T113152Z">
-        <seg>Wörter, die im Zieltext des Segments fehlen, sind &lt;e1&gt;blau&lt;/e1&gt; gefärbt, während Textbereiche, die an den fehlenden Wörtern angrenzen, grün gefärbt sind (wenn der angrenzende Bereich ein Leerzeichen ist, wie oben, bleibt der Bereich ungefärbt).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113201Z" creationid="Ragnar-F" creationdate="20230223T113152Z">
+        <seg>Wörter, die im Zieltext des Segments fehlen, sind &lt;e1&gt;blau&lt;/e1&gt; gefärbt, während Textbereiche, die an den fehlenden Wörtern angrenzen, &lt;e2&gt;grün&lt;/e2&gt; gefärbt sind (wenn der angrenzende Bereich ein Leerzeichen ist, wie oben, bleibt der Bereich ungefärbt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -70706,6 +70794,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T145627Z" creationid="Ragnar-F" creationdate="20210111T220721Z">
         <seg>Sie können eine Datei mit den Pfeiltasten &lt;k1&gt;Aufwärts&lt;/k1&gt; und &lt;k2&gt;Abwärts&lt;/k2&gt; auswählen und mit &lt;k3&gt;Enter&lt;/k3&gt; für die Übersetzung öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a term in the glossaries pane and right click on it to insert it into the translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T113557Z" creationid="Ragnar-F" creationdate="20230223T113557Z">
+        <seg>Sie können einen Begriff im Glossarbereich auswählen und mit der rechten Maustaste anklicken, um ihn in die Übersetzung einzufügen.</seg>
       </tuv>
     </tu>
     <tu>
