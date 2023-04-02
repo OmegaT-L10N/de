@@ -9638,8 +9638,8 @@ Dossier racine
       <tuv lang="en">
         <seg>Alternatively, put the reference memories from the old project in the &lt;l0/&gt; folder of the new one.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T124503Z" creationid="Ragnar-F" creationdate="20230127T124503Z">
-        <seg>Alternativ können Sie die Translation Memories des alten Projekts in den &lt;l0/&gt;-Ordner des neuen Projekts ablegen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T184430Z" creationid="Ragnar-F" creationdate="20230127T124503Z">
+        <seg>Alternativ können Sie die Referenz-Memories des alten Projekts in den &lt;l0/&gt;-Ordner des neuen Projekts ablegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10617,6 +10617,14 @@ korrektem Verhalten kommen kann.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T200010Z" creationid="Ragnar-F" creationdate="20210110T200010Z">
         <seg>Da zahlreiche Informationen über SVN und Git einfach zu finden sind, werden wir hier nicht ihre Funktionsweise beschreiben, sondern nur, wie OmegaT mit ihnen arbeitet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As reference translations, OmegaT also supports bilingual documents that are not TMX files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T183237Z" creationid="Ragnar-F" creationdate="20230402T183237Z">
+        <seg>Als Referenzübersetzungen unterstützt OmegaT auch zweisprachige Dokumente, die keine TMX-Dateien sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20233,10 +20241,26 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Every time you create the current translated file, OmegaT saves the project (see the &lt;l0/&gt; menu item above) and creates reference memories that include the translated segments of the current source file set.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T184639Z" creationid="Ragnar-F" creationdate="20230402T184639Z">
+        <seg>Jedes Mal, wenn Sie die aktuelle übersetzte Datei erstellen, speichert OmegaT das Projekt (siehe den Menüpunkt &lt;l0/&gt; oben) und erstellt Referenz-Memories, die die übersetzten Segmente des aktuellen Quelldatei-Sets enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Every time you create the translated files (see &lt;l0/&gt;, above), OmegaT creates three translation memories that contain the state of the translation of the files currently in the &lt;l1/&gt; folder.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122050Z" creationid="Ragnar-F" creationdate="20221117T122050Z">
         <seg>Jedes Mal, wenn Sie die übersetzten Dateien erstellen (siehe &lt;l0/&gt; oben), erstellt OmegaT drei Translation Memories, die den aktuellen Übersetzungsstand der Dateien im &lt;l1/&gt;-Ordner enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you create translated files, OmegaT saves the project (see the &lt;l0/&gt; menu item above) and creates reference memories that include the translated segments of the current source file set.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T184420Z" creationid="Ragnar-F" creationdate="20230402T184420Z">
+        <seg>Jedes Mal, wenn Sie die übersetzten Dateien erstellen, speichert OmegaT das Projekt (siehe den Menüpunkt &lt;l0/&gt; oben) und erstellt Referenz-Memories, die die übersetzten Segmente des aktuellen Quelldatei-Sets enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25099,6 +25123,14 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;f0&gt;.jar&lt;/f0&gt; files are properly associated with the Java 11 Runtime Environment and your PATH settings are correct, you can also simply click (or double-click) on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T183006Z" creationid="Ragnar-F" creationdate="20230402T183006Z">
+        <seg>Wenn &lt;f0&gt;.jar&lt;/f0&gt;-Dateien ordnungsgemäß mit der Java 11 Runtime Environment verknüpft sind und Ihre PATH-Einstellungen korrekt sind, können Sie auch einfach auf &lt;f1&gt;OmegaT.jar&lt;/f1&gt; klicken (oder doppelklicken), um es direkt zu starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;f0&gt;.jar&lt;/f0&gt; files are properly associated with the Java 8 Runtime Environment and your PATH settings are correct, you can also simply click (or double-click) on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221219T120442Z" creationid="Ragnar-F" creationdate="20221219T120442Z">
@@ -26548,6 +26580,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T135435Z" creationid="Ragnar-F" creationdate="20221114T135435Z">
         <seg>Wenn es keine gibt, wird das Programm in &lt;f1&gt;/opt/omegat/OmegaT_5.8.0&lt;/f1&gt; installiert und als Standardversion (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;) festgelegt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_6.0.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T182952Z" creationid="Ragnar-F" creationdate="20230402T182952Z">
+        <seg>Wenn es keine gibt, wird das Programm in &lt;f1&gt;/opt/omegat/OmegaT_6.0.0&lt;/f1&gt; installiert und als Standardversion (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;) festgelegt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33002,6 +33042,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main Memory</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T185055Z" creationid="Ragnar-F" creationdate="20230402T184730Z">
+        <seg>Haupt-Memory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Window - counters</seg>
       </tuv>
       <tuv lang="de" changeid="helmut" changedate="20130610T195216Z">
@@ -33980,8 +34028,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Matches from the reference memories are displayed in the &lt;l0/&gt; pane, just like matches from &lt;l1/&gt;, the project translation memory.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T195018Z" creationid="Ragnar-F" creationdate="20221120T195018Z">
-        <seg>Matches aus den externen Translation Memories werden im &lt;l0/&gt;-Bereich angezeigt, zusätzlich zu den Matches aus &lt;l1/&gt;, dem projekteigenen Translation Memory.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T184508Z" creationid="Ragnar-F" creationdate="20221120T195018Z">
+        <seg>Matches aus den Referenz-Memories werden im &lt;l0/&gt;-Bereich angezeigt, zusätzlich zu den Matches aus &lt;l1/&gt;, dem projekteigenen Translation Memory.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37038,6 +37086,30 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.0.0</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T182826Z" creationid="Ragnar-F" creationdate="20230402T182826Z">
+        <seg>OmegaT 6.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 6.0.0 - User Manual</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T184651Z" creationid="Ragnar-F" creationdate="20230402T184651Z">
+        <seg>OmegaT 6.0.0 - Bedienungsanleitung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 6.0.0 requires a Java 11 Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T182913Z" creationid="Ragnar-F" creationdate="20230402T182913Z">
+        <seg>Für die Ausführung von OmegaT 6.0.0 ist eine Java 11 Runtime Environment (JRE) erforderlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T232712Z" creationid="BVB" creationdate="20180826T182444Z">
@@ -40024,6 +40096,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a dialog where you can paste the URL of the MediaWiki page you want to translate.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T183921Z" creationid="Ragnar-F" creationdate="20230402T183921Z">
+        <seg>Öffnet ein Dialogfenster, das Sie nutzen können, um die URL der MediaWiki-Seite einzufügen, die Sie übersetzen möchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a dialog where you can paste the URL of the Mediawiki page you want to translate.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221122T120000Z" creationid="Ragnar-F" creationdate="20221117T182705Z">
@@ -40732,6 +40812,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T150418Z" creationid="Ragnar-F" creationdate="20221110T150418Z">
         <seg>PO-Dateien, die &lt;l0&gt;msgid&lt;/l0&gt; als Quellcontainer verwenden und erwarten, dass die Übersetzung in &lt;l1&gt;msgstr&lt;/l1&gt; abgelegt wird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packages without Java rely on a Java 11 Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T182931Z" creationid="Ragnar-F" creationdate="20230402T182931Z">
+        <seg>Pakete ohne Java setzen eine systemweit installierte Java 11 Runtime Environment voraus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43231,8 +43319,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Reference T&amp;Ms</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230208T174733Z" creationid="Ragnar-F" creationdate="20230208T174733Z">
-        <seg>Neben-T&amp;Ms</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T184812Z" creationid="Ragnar-F" creationdate="20230208T174733Z">
+        <seg>Referenz-T&amp;Ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reference TMs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T184842Z" creationid="Ragnar-F" creationdate="20230402T184842Z">
+        <seg>Referenz-TMs</seg>
       </tuv>
     </tu>
     <tu>
@@ -45485,6 +45581,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDLXLIFF files</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T183347Z" creationid="Ragnar-F" creationdate="20230402T183347Z">
+        <seg>SDLXLIFF-Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SQLJet (GPL License)</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T074216Z" creationid="Michael Motzkus" creationdate="20190129T074216Z">
@@ -45777,6 +45881,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T121453Z" creationid="Ragnar-F" creationdate="20221218T121453Z">
         <seg>Speichert den projekteigenen Translation Memory (&lt;l0/&gt;) und schließt das Projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project translation memory (&lt;l0/&gt;) and synchronizes team projects.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T183908Z" creationid="Ragnar-F" creationdate="20230402T183908Z">
+        <seg>Speichert den projekteigenen Translation Memory (&lt;l0/&gt;) und synchronisiert Teamprojekte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50956,6 +51068,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT 6.0.0</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T182837Z" creationid="Ragnar-F" creationdate="20230402T182837Z">
+        <seg>Standard: OmegaT 6.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105711Z" creationid="Ragnar-F" creationdate="20221222T105711Z">
@@ -51804,6 +51924,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Search Options</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T184849Z" creationid="Ragnar-F" creationdate="20230402T184849Z">
+        <seg>TM-Suchoptionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX Level 1</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T143122Z" creationid="Ragnar-F" creationdate="20221109T143112Z">
@@ -51880,6 +52008,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221128T081405Z" creationid="Ragnar-F" creationdate="20221128T081405Z">
         <seg>TSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TXML files</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T183333Z" creationid="Ragnar-F" creationdate="20230402T183333Z">
+        <seg>TXML-Dateien</seg>
       </tuv>
     </tu>
     <tu>
@@ -54065,6 +54201,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TM search options only apply to the main memory and not to the reference memories.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T185024Z" creationid="Ragnar-F" creationdate="20230402T185024Z">
+        <seg>Die TM-Suchoptionen beziehen sich nur auf den Haupt-Memory, nicht auf die Referenz-Memories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141447Z">
@@ -55441,6 +55585,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210324T113130Z" creationid="Ragnar-F" creationdate="20210324T113036Z">
         <seg>Die angegebene Datei muss nicht unbedingt vorhanden sein - sie wird automatisch erstellt, sobald der erste Glossareintrag hinzugefügt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file formats that OmegaT supports are all the bilingual formats that OmegaT accepts as source files:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T183325Z" creationid="Ragnar-F" creationdate="20230402T183325Z">
+        <seg>Die von OmegaT unterstützten Dateiformate sind alle zweisprachigen Formate, die OmegaT als Quelldateien akzeptiert:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61094,6 +61246,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221222T110037Z" creationid="Ragnar-F" creationdate="20221222T110037Z">
         <seg>Diese Information gilt für alle Systeme mit einer Java-Version, die mit der Java {{site.data.versions.standard.java_version}} Runtime Environment kompatibel ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to any system for a Java version compatible with Java 11 Runtime Environment is available.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T182958Z" creationid="Ragnar-F" creationdate="20230402T182958Z">
+        <seg>Diese Information gilt für jedes System, für das eine Java-Version verfügbar ist, die mit der Java 11 Runtime Environment kompatibel ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69665,6 +69825,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XLIFF files</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T183340Z" creationid="Ragnar-F" creationdate="20230402T183340Z">
+        <seg>XLIFF-Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XML Spreadsheet 2003</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T195707Z" creationid="karsten" creationdate="20150919T140246Z">
@@ -69983,6 +70151,14 @@ Kaptain-Startskript wie folgt starten:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221120T193605Z" creationid="Ragnar-F" creationdate="20221120T193605Z">
         <seg>Sie können mit Ihrem Dateimanager Ordner hinzufügen oder Dateien entfernen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add such files to your project's &lt;l0/&gt; folder or one of its subfolders and the translated data will be immediately be available for matching purposes.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T183808Z" creationid="Ragnar-F" creationdate="20230402T183808Z">
+        <seg>Sie können solche Dateien im &lt;l0/&gt;-Ordner Ihres Projekts oder in einem seiner Unterordner ablegen. Anschließend stehen die übersetzten Daten sofort für Matching-Zwecke zur Verfügung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71821,8 +71997,8 @@ Methoden zu lösen:</seg>
       <tuv lang="en">
         <seg>You will have to fix them if you want to use them as reference memories, otherwise OmegaT will report an error and fail to load them.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T090708Z" creationid="Ragnar-F" creationdate="20221117T090708Z">
-        <seg>Sie müssen diese korrigieren, wenn Sie sie als externe Translation Memories verwenden wollen, da OmegaT sonst einen Fehler meldet und diese nicht laden kann.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T184447Z" creationid="Ragnar-F" creationdate="20221117T090708Z">
+        <seg>Sie müssen diese korrigieren, wenn Sie sie als Referenz-Memories verwenden wollen, da OmegaT sonst einen Fehler meldet und diese nicht laden kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75119,6 +75295,22 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T175713Z" creationid="Ragnar-F" creationdate="20221121T175713Z">
         <seg>https://developer.oracle.com/databases/nashorn-javascript-part1.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T182802Z" creationid="Ragnar-F" creationdate="20230402T182802Z">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230402T182807Z" creationid="Ragnar-F" creationdate="20230402T182807Z">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
