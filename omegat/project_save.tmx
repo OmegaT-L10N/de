@@ -7908,6 +7908,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230415T080928Z" creationid="Ragnar-F" creationdate="20230415T080928Z">
+        <seg>Abbruch...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T121320Z" creationid="Michael Motzkus" creationdate="20181018T130317Z">
@@ -10709,6 +10717,14 @@ korrektem Verhalten kommen kann.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ask again...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230415T080843Z" creationid="Ragnar-F" creationdate="20230415T080843Z">
+        <seg>Frage erneut...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Asks for the URL of the page and downloads it into the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230127T164040Z" creationid="Ragnar-F" creationdate="20230127T164040Z">
@@ -12502,6 +12518,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T224318Z" creationid="Ragnar-F" creationdate="20221109T224318Z">
         <seg>Kann die GPG-EXE-Datei im Bash-$PATH nicht finden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot get correct answer.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230415T080858Z" creationid="Ragnar-F" creationdate="20230415T080858Z">
+        <seg>Kann keine richtige Antwort erhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23965,6 +23989,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090345Z" creationid="Ragnar-F" creationdate="20210701T090345Z">
         <seg>Unerwarteter MIME-TYP {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected input.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230415T080801Z" creationid="Ragnar-F" creationdate="20230415T080801Z">
+        <seg>Unerwartete Eingabe erhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41534,10 +41566,26 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter password for {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230415T080716Z" creationid="Ragnar-F" creationdate="20230415T080716Z">
+        <seg>Bitte Passwort eingeben für {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter the name of this set:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210120T094359Z" creationid="Ragnar-F" creationdate="20210112T202232Z">
         <seg>Bitte geben Sie den Namen dieses Sets ein:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username for {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230415T080709Z" creationid="Ragnar-F" creationdate="20230415T080709Z">
+        <seg>Bitte Benutzername eingeben für {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -64948,6 +64996,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230415T081101Z" creationid="Ragnar-F" creationdate="20230415T081101Z">
+        <seg>Kann keine Sicherungskopie von {0} erstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to create the translated files due to missing or damaged tags.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T135103Z" creationid="Ragnar-F" creationdate="20221109T135103Z">
@@ -69629,6 +69685,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T152629Z" creationid="Ragnar-F" creationdate="20221109T152629Z">
         <seg>Falsche URL im Linkifier erkannt: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong password for {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230415T080730Z" creationid="Ragnar-F" creationdate="20230415T080730Z">
+        <seg>Falsches Passwort für {0}</seg>
       </tuv>
     </tu>
     <tu>
