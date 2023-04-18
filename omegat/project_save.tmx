@@ -32938,10 +32938,26 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MT engine error happened</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230418T073141Z" creationid="Ragnar-F" creationdate="20230418T073141Z">
+        <seg>MT-Engine-Fehler aufgetreten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MT engine error({0}) {1}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T215002Z" creationid="Ragnar-F" creationdate="20221109T215002Z">
         <seg>MT-Engine-Fehler({0}) {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MT({0}) report error {1}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230418T073120Z" creationid="Ragnar-F" creationdate="20230418T072944Z">
+        <seg>MT({0}) meldet Fehler {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -65028,6 +65044,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to get result</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230418T073235Z" creationid="Ragnar-F" creationdate="20230418T073235Z">
+        <seg>Kann Ergebnis nicht abrufen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T195940Z">
@@ -65408,6 +65432,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130701T165013Z">
         <seg>Einmalig:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown language code {0} specified</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230418T072919Z" creationid="Ragnar-F" creationdate="20230418T072919Z">
+        <seg>Unbekannter Sprachcode {0} angegeben</seg>
       </tuv>
     </tu>
     <tu>
