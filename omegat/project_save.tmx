@@ -3049,6 +3049,16 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name] &lt;project path&gt; &lt;mode options&gt;
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230421T070928Z" creationid="Ragnar-F" creationdate="20230421T070841Z">
+        <seg>--mode=[Konsolenmodusname] &lt;Projektpfad&gt; &lt;Modusoptionen&gt;
+	  Einen anderen Modus als den GUI-Standardmodus angeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -3091,6 +3101,18 @@ java.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    The folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230421T070957Z" creationid="Ragnar-F" creationdate="20230421T070957Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;Pfad&gt;
+	    Ein Ordner, der die übersetzten Dateien enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-align &lt;e0&gt;--alignDir=&lt;e1&gt;&lt;path&gt;&lt;/e1&gt;&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T105039Z" creationid="Ragnar-F" creationdate="20221116T105034Z">
@@ -3123,6 +3145,21 @@ java.exe.</seg>
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;Pfad&gt;
 	    Speicherort der pseudoübersetzten TMX-Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230421T071047Z" creationid="Ragnar-F" creationdate="20230421T071047Z">
+        <seg>--mode=console-stats
+	  --output-file=[Stats-Ausgabedatei]
+	    Schreibt in die angegebene Datei, oder in die Standardausgabe,
+	    wenn keine Datei angegeben ist oder die Option
+	    nicht verwendet wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19732,6 +19769,14 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the password for {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230421T070816Z" creationid="Ragnar-F" creationdate="20230421T070816Z">
+        <seg>Geben Sie das Passwort ein für {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T222934Z">
@@ -19744,6 +19789,14 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T212630Z" creationid="Ragnar-F" creationdate="20221121T212630Z">
         <seg>Geben Sie die Zeichenkette, die Sie als Ersatz für Ihren Suchbegriff einfügen möchten, in das Feld &lt;g0&gt;Ersetzen mit:&lt;/g0&gt; ein und klicken Sie auf &lt;g1&gt;Suchen&lt;/g1&gt;, oder drücken Sie &lt;k2&gt;Enter&lt;/k2&gt;, wenn sich der Textcursor noch im Feld befindet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the username for {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230421T070750Z" creationid="Ragnar-F" creationdate="20230421T070750Z">
+        <seg>Geben Sie den Benutzernamen ein für {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21435,6 +21488,14 @@ Backup-Dateiendung '.recover'.</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T103223Z" creationid="karsten" creationdate="20150919T103223Z">
         <seg>Datei {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230421T071108Z" creationid="Ragnar-F" creationdate="20230421T071108Z">
+        <seg>Datei:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42824,6 +42885,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T181512Z" creationid="Ragnar-F" creationdate="20221117T181512Z">
         <seg>Projektspezifische Einstellungen sind über &lt;l0/&gt; zugänglich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230421T071101Z" creationid="Ragnar-F" creationdate="20230421T071101Z">
+        <seg>Projekt:</seg>
       </tuv>
     </tu>
     <tu>
