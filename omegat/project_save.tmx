@@ -13423,6 +13423,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the omegat directory of the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230504T064238Z" creationid="Ragnar-F" creationdate="20230504T064238Z">
+        <seg>Überprüfen Sie das omegat-Verzeichnis des Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the tag issues again.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T145906Z" creationid="Ragnar-F" creationdate="20221109T221702Z">
@@ -20118,6 +20126,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while reading a TMX file in the project: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230504T065306Z" creationid="Ragnar-F" creationdate="20230504T065306Z">
+        <seg>Fehler beim Lesen einer TMX-Datei im Projekt: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while trying to save script.</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130428T143811Z">
@@ -20602,6 +20618,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221122T082536Z">
         <seg>Exception beim Bearbeiten der Optionen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception while parsing "project_save.tmx":</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230504T065040Z" creationid="Ragnar-F" creationdate="20230504T065040Z">
+        <seg>Exception beim Parsen von "project_save.tmx":</seg>
       </tuv>
     </tu>
     <tu>
@@ -21267,10 +21291,42 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project by a file access problem.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230504T064314Z" creationid="Ragnar-F" creationdate="20230504T064314Z">
+        <seg>Das Projekt konnte wegen eines Dateizugriffsproblems nicht geladen werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the project due to file corruption.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230504T064205Z" creationid="Ragnar-F" creationdate="20230504T064205Z">
+        <seg>Das Projekt konnte wegen Dateikorruption nicht geladen werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230504T064013Z" creationid="Ragnar-F" creationdate="20230504T064013Z">
+        <seg>Das angegebene Projekt konnte nicht geladen werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T163642Z">
         <seg>Translation Memory {0} konnte für dieses Projekt nicht geladen werden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230504T063955Z" creationid="Ragnar-F" creationdate="20230504T063955Z">
+        <seg>Translation Memory {0} konnte für das Projekt nicht geladen werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21304,6 +21360,14 @@ Backup-Dateiendung '.recover'.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T172649Z">
         <seg>Fataler Fehler bei Zeile {0}, Spalte {1} während des Parsens:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error while parsing "project_save.tmx" file(line {0}, column {1}):</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230504T065141Z" creationid="Ragnar-F" creationdate="20230504T065141Z">
+        <seg>Fataler Fehler beim Parsen von "project_save.tmx" (Zeile {0}, Spalte {1}):</seg>
       </tuv>
     </tu>
     <tu>
@@ -21360,6 +21424,14 @@ Backup-Dateiendung '.recover'.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T234003Z" creationid="Ragnar-F" creationdate="20221121T234003Z">
         <seg>Datei&amp;format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File (segs):</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230504T065831Z" creationid="Ragnar-F" creationdate="20230504T065831Z">
+        <seg>Datei (Segmente):</seg>
       </tuv>
     </tu>
     <tu>
@@ -41535,6 +41607,14 @@ Sie es.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T210654Z" creationid="BVB" creationdate="20180826T085238Z">
         <seg>Wiedergabeliste mit OmegaT-Videos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please check you have permissions, or you can access files if there are files in cloud storage.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230504T065008Z" creationid="Ragnar-F" creationdate="20230504T065008Z">
+        <seg>Bitte prüfen Sie, ob Sie Zugriffsrechte haben oder auf eventuell vorhandene Cloud-Dateien zugreifen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68381,8 +68461,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210117T172558Z">
-        <seg>Warnung bei Zeile {0}, Spalte {1} während des Parsens:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230504T065210Z">
+        <seg>Warnung bei Zeile {0}, Spalte {1} beim Parsen:</seg>
       </tuv>
     </tu>
     <tu>
