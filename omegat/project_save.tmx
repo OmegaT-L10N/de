@@ -5065,6 +5065,30 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;LL-CC.tmx&lt;/f0&gt;, or</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T064901Z" creationid="Ragnar-F" creationdate="20230508T064854Z">
+        <seg>&lt;f0&gt;LL-CC.tmx&lt;/f0&gt; oder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;LL.tmx&lt;/f0&gt;,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T064902Z" creationid="Ragnar-F" creationdate="20230508T064902Z">
+        <seg>&lt;f0&gt;LL.tmx&lt;/f0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;LL_CC.tmx&lt;/f0&gt;,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T064853Z" creationid="Ragnar-F" creationdate="20230508T064853Z">
+        <seg>&lt;f0&gt;LL_CC.tmx&lt;/f0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T111630Z" creationid="Ragnar-F" creationdate="20210111T111630Z">
@@ -9281,6 +9305,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the letters must be capital letters.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T065243Z" creationid="Ragnar-F" creationdate="20230508T065243Z">
+        <seg>Alle Buchstaben müssen Großbuchstaben sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the parameters located in a &lt;l0&gt;project folder&lt;/l0&gt; will apply to that project regardless of which version of OmegaT opens it.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221222T111051Z" creationid="Ragnar-F" creationdate="20221218T095658Z">
@@ -12291,6 +12323,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130624T144053Z">
         <seg>Standardmäßig sind die Kodierung der Quelldatei und die Kodierung der übersetzten Dateien identisch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, those matches are limited to the source and target languages defined in the &lt;l1/&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T063605Z" creationid="Ragnar-F" creationdate="20230508T063457Z">
+        <seg>Standardmäßig sind diese Matches auf die Quell- und Zielsprache beschränkt, die im &lt;l1/&gt;-Dialogfenster definiert sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15458,6 +15498,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T155956Z">
         <seg>Kopieren Sie die Translation Memories, die die Übersetzungen der obigen Dokumente enthalten, in den &lt;f0&gt;tm/auto&lt;/f0&gt;-Unterordner des neuen Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the translation memory containing the additional reference language into &lt;f0&gt;tmx2source&lt;/f0&gt; in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T064734Z" creationid="Ragnar-F" creationdate="20230508T064734Z">
+        <seg>Kopieren Sie den Translation Memory, der die zusätzliche Referenzsprache enthält, nach &lt;f0&gt;tmx2source&lt;/f0&gt; im &lt;l1/&gt;-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26749,6 +26797,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_5.8.1&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T063151Z" creationid="Ragnar-F" creationdate="20230508T063151Z">
+        <seg>Wenn es keine gibt, wird das Programm in &lt;f1&gt;/opt/omegat/OmegaT_5.8.1&lt;/f1&gt; installiert und als Standardversion (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;) festgelegt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_6.0.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230402T182952Z" creationid="Ragnar-F" creationdate="20230402T182952Z">
@@ -27348,6 +27404,22 @@ angezeigt werden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210124T094227Z" creationid="Michael Motzkus" creationdate="20180917T073703Z">
         <seg>Wenn Sie eine PDF-Datei haben, die aus gescannten Seiten besteht (manchmal werden solche Dateien als "tote" PDFs bezeichnet), müssen Sie ein OCR-Programm (Optical Character Recognition; optische Zeichenerkennung) verwenden, um den Text zu erfassen und ihn in ein Format zu konvertieren, das von OmegaT verarbeitet werden kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have a TMX that contains the Japanese translation of an English document you are translating to French, you can use the Japanese translation as an alternative exact reference by displaying it under the English text to translate.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T065639Z" creationid="Ragnar-F" creationdate="20230508T065639Z">
+        <seg>Wenn Sie eine TMX-Datei haben, die die japanische Übersetzung eines englischen Dokuments enthält, das Sie ins Französische übersetzen, können Sie die japanische Übersetzung als alternative exakte Referenz unter dem zu übersetzenden englischen Text anzeigen lassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have a TMX that corresponds to your source document and contains its translation to a different language, you can also display that language &lt;e0&gt;right below&lt;/e0&gt; the source segment for use as an additional reference language.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T064618Z" creationid="Ragnar-F" creationdate="20230508T064618Z">
+        <seg>Wenn Sie eine TMX-Datei haben, die Ihrem Quelldokument entspricht und eine Übersetzung in eine andere Sprache enthält, können Sie diese Sprache auch &lt;e0&gt;direkt unter&lt;/e0&gt; dem Quellsegment anzeigen lassen, um sie als zusätzliche Referenzsprache zu verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31544,6 +31616,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T103936Z" creationid="Ragnar-F" creationdate="20221218T103936Z">
         <seg>Folgen Sie einfach den Anweisungen in &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just put the English-Japanese file in &lt;f0&gt;tm/tmx2source&lt;/f0&gt; under the name &lt;f1&gt;JA-JP.tmx&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T070022Z" creationid="Ragnar-F" creationdate="20230508T070022Z">
+        <seg>Kopieren oder verschieben Sie die englisch-japanische Datei nach &lt;f0&gt;tm/tmx2source&lt;/f0&gt; und benennen Sie sie in &lt;f1&gt;JA-JP.tmx&lt;/f1&gt; um.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37267,6 +37347,30 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 5.8.1</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T063107Z" creationid="Ragnar-F" creationdate="20230508T063107Z">
+        <seg>OmegaT 5.8.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 5.8.1 - User Manual</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T070452Z" creationid="Ragnar-F" creationdate="20230508T070452Z">
+        <seg>OmegaT 5.8.1 - Bedienungsanleitung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 5.8.1 requires a Java 8 Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T063139Z" creationid="Ragnar-F" creationdate="20230508T063139Z">
+        <seg>Für die Ausführung von OmegaT 5.8.1 ist eine Java 8 Runtime Environment (JRE) erforderlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 6.0.0</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230402T182826Z" creationid="Ragnar-F" creationdate="20230402T182826Z">
@@ -38707,6 +38811,14 @@ enthalten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will now show you the Japanese text corresponding to the English source segment:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T070042Z" creationid="Ragnar-F" creationdate="20230508T070042Z">
+        <seg>OmegaT zeigt Ihnen nun den japanischen Text an, der dem englischen Quellsegment entspricht:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
       <tuv lang="de">
@@ -39617,6 +39729,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183916Z" creationid="Ragnar-F" creationdate="20210111T214135Z">
         <seg>Es werden nur Zeilen mit aktiviertem &lt;g0&gt;Behalten&lt;/g0&gt;-Kontrollkästchen bei der Erstellung des Translation Memory einbezogen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only segments that match the source &lt;e0&gt;exactly&lt;/e0&gt; displayed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T065646Z" creationid="Ragnar-F" creationdate="20230508T065327Z">
+        <seg>Es werden nur Segmente angezeigt, die &lt;e0&gt;genau&lt;/e0&gt; mit der Quelle übereinstimmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44462,6 +44582,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221219T124121Z" creationid="Ragnar-F" creationdate="20221219T124121Z">
         <seg>Benennen Sie den Memory in &lt;f0&gt;LL_CC.tmx&lt;/f0&gt; oder &lt;f1&gt;LL-CC.tmx&lt;/f1&gt; um, wobei &lt;e2&gt;LL&lt;/e2&gt; der interne Code der Sprache ist, die als Referenz angezeigt werden soll, und &lt;e3&gt;CC&lt;/e3&gt; ein beliebiger zweistelliger Code aus Buchstaben ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename the memory file to:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T064852Z" creationid="Ragnar-F" creationdate="20230508T064852Z">
+        <seg>Benennen Sie die TM-Datei um in:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51281,6 +51409,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT 5.8.1</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T063113Z" creationid="Ragnar-F" creationdate="20230508T063113Z">
+        <seg>Standard: OmegaT 5.8.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard: OmegaT 6.0.0</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230402T182837Z" creationid="Ragnar-F" creationdate="20230402T182837Z">
@@ -55974,6 +56110,14 @@ aktuelle Ordner verwendet.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T093755Z" creationid="Ragnar-F" creationdate="20221117T093755Z">
         <seg>Die erste Zeile ist das Original-Englisch, die zweite eine alte französische Version, die dritte die japanische Version und die vierte die aktuelle Übersetzung ins Französische.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first line is the original English, the second line is the bridge language you expect to find useful when you create your translation, and the third line is the current translation to French.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T070441Z" creationid="Ragnar-F" creationdate="20230508T070339Z">
+        <seg>Die erste Zeile ist das originale Englisch, die zweite Zeile ist die Brückensprache, die Ihnen bei der Übersetzung helfen soll, und die dritte Zeile ist die aktuelle Übersetzung ins Französische.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68067,6 +68211,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using a Japanese reference under the English source</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T065356Z" creationid="Ragnar-F" creationdate="20230508T065356Z">
+        <seg>Eine japanische Referenz unter der englischen Quelle verwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using a different language checker on your local machine than the one supplied with OmegaT allows you to customize the verification rules.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T124814Z" creationid="Ragnar-F" creationdate="20221119T124814Z">
@@ -70408,6 +70560,14 @@ Kaptain-Startskript wie folgt starten:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can add matches in languages that are not the target language.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T064159Z" creationid="Ragnar-F" creationdate="20230508T064159Z">
+        <seg>Sie können Matches in anderen Sprachen als der Zielsprache hinzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can add such files to your project's &lt;l0/&gt; folder or one of its subfolders and the translated data will be immediately be available for matching purposes.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230402T183808Z" creationid="Ragnar-F" creationdate="20230402T183808Z">
@@ -71823,6 +71983,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221120T192050Z" creationid="Ragnar-F" creationdate="20221120T192050Z">
         <seg>Sie können &lt;l0/&gt; verwenden, um den verschiedenen Ressourcen entweder bei der Erstellung des Projekts oder zu einem späteren Zeitpunkt auf einfache Weise benutzerdefinierte Speicherorte zuzuweisen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use any number of TMX files containing as many different bridge language pairs as you want.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T070405Z" creationid="Ragnar-F" creationdate="20230508T070405Z">
+        <seg>Sie können eine beliebige Anzahl von TMX-Dateien verwenden, die beliebig viele verschiedene Brückensprachpaare enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79363,6 +79531,14 @@ config-dir="Pfad/zum/neuen/Konfigordner"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>where &lt;e0&gt;LL&lt;/e0&gt; is the internal language code of the langage that you want to display as reference, and &lt;e1&gt;CC&lt;/e1&gt; is an arbitrary 2-letter code.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T065212Z" creationid="Ragnar-F" creationdate="20230508T065212Z">
+        <seg>wobei &lt;e0&gt;LL&lt;/e0&gt; der interne Sprachcode der Sprache ist, die als Referenz angezeigt werden soll, und &lt;e1&gt;CC&lt;/e1&gt; ein beliebiger Code aus zwei Buchstaben ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221122T083702Z" creationid="SabineWanner" creationdate="20221117T154812Z">
@@ -79750,6 +79926,22 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;
 fr-ZB: Un caractère d'espacement (espace, tabulation, etc.) :  [ \t\n\x0B\f\r]
 ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
 Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>— ¶ —————————————————————
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+ja-JP: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230508T070148Z" creationid="Ragnar-F" creationdate="20230508T070044Z">
+        <seg>— ¶ —————————————————————
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+ja-JP: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;Segment 3075 ¶&gt;&lt;/t1&gt;
 — ¶ —————————————————————</seg>
       </tuv>
     </tu>
