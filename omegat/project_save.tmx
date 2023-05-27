@@ -21737,9 +21737,25 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230527T100903Z" creationid="Ragnar-F" creationdate="20230527T100903Z">
+        <seg>Das Projekt konnte nicht geladen werden, weil der angegebene Quellordner einen symbolischen oder harten Link enthält, der auf sich selbst oder einen seiner Unterordner verweist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project by a file access problem.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230504T064314Z" creationid="Ragnar-F" creationdate="20230504T064314Z">
+        <seg>Das Projekt konnte wegen eines Dateizugriffsproblems nicht geladen werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230527T100333Z" creationid="Ragnar-F" creationdate="20230527T100333Z">
         <seg>Das Projekt konnte wegen eines Dateizugriffsproblems nicht geladen werden.</seg>
       </tuv>
     </tu>
@@ -21749,6 +21765,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230504T064205Z" creationid="Ragnar-F" creationdate="20230504T064205Z">
         <seg>Das Projekt konnte wegen Dateikorruption nicht geladen werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230527T100310Z" creationid="Ragnar-F" creationdate="20230527T100310Z">
+        <seg>Das angegebene Projekt konnte nicht geladen werden!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21765,6 +21789,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T163642Z">
         <seg>Translation Memory {0} konnte für dieses Projekt nicht geladen werden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230527T100258Z" creationid="Ragnar-F" creationdate="20230527T100258Z">
+        <seg>Translation Memory {0} konnte für das Projekt nicht geladen werden!</seg>
       </tuv>
     </tu>
     <tu>
@@ -33901,6 +33933,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230527T101045Z" creationid="Ragnar-F" creationdate="20230527T101045Z">
+        <seg>Stellen Sie sicher, dass alle Links außerhalb des Quellordners und der Unterordner liegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that the files are identical.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230223T094911Z" creationid="Ragnar-F" creationdate="20230223T094911Z">
@@ -33969,6 +34009,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230223T092135Z" creationid="Ragnar-F" creationdate="20230223T092135Z">
         <seg>Achten Sie darauf, dass Sie die richtigen Sprachcodes eingeben und dass alle anderen Orte, die einen solchen Code erfordern, genau mit dem Code übereinstimmen, den Sie hier eingegeben haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20230527T100702Z" creationid="Ragnar-F" creationdate="20230527T100702Z">
+        <seg>Stellen Sie sicher, dass Sie die richtigen Zugriffsrechte haben oder dass Sie auf die Dateien zugreifen können, wenn sie in der Cloud gespeichert sind.</seg>
       </tuv>
     </tu>
     <tu>
