@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5871,10 +5871,26 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Select Next Match&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;↓&lt;/k3&gt;&lt;/k1&gt; (&lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;↓&lt;/k6&gt;&lt;/k4&gt; on macOS)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T145503Z" creationid="Ragnar-F" creationdate="20240617T145503Z">
+        <seg>&lt;g0&gt;Nächsten Match auswählen&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;↓&lt;/k3&gt;&lt;/k1&gt; (&lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;↓&lt;/k6&gt;&lt;/k4&gt; auf macOS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Select Previous Match&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T142525Z" creationid="Ragnar-F" creationdate="20221117T142514Z">
         <seg>&lt;g0&gt;Vorherigen Match auswählen&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Previous Match&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt; (&lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;↑&lt;/k6&gt;&lt;/k4&gt; on mac OS)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T145431Z" creationid="Ragnar-F" creationdate="20240617T145431Z">
+        <seg>&lt;g0&gt;Vorherigen Match auswählen&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt; (&lt;k4&gt;&lt;k5&gt;A&lt;/k5&gt;&lt;k6&gt;↑&lt;/k6&gt;&lt;/k4&gt; auf macOS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6107,6 +6123,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T134259Z" creationid="Ragnar-F" creationdate="20210112T134259Z">
         <seg>&lt;i1&gt;OmegaT kann auf jedem Betriebssystem installiert werden, das die Java Runtime Environment Version 1.8 ausführen kann.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 11 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164138Z" creationid="Ragnar-F" creationdate="20240617T164138Z">
+        <seg>&lt;i1&gt;OmegaT kann auf jedem Betriebssystem installiert werden, das die Java Runtime Environment Version 11 ausführen kann.&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7131,6 +7155,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T185909Z" creationid="BVB" creationdate="20180826T185909Z">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Neueste Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164404Z" creationid="Ragnar-F" creationdate="20240617T164346Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Neueste Version</seg>
       </tuv>
     </tu>
     <tu>
@@ -8207,6 +8239,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort restart, because launcher or java executable is not found.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T172105Z" creationid="Ragnar-F" creationdate="20240617T172105Z">
+        <seg>Neustart abgebrochen, da Launcher oder Java-EXE nicht gefunden wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort...</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230415T080928Z" creationid="Ragnar-F" creationdate="20230415T080928Z">
@@ -8843,6 +8883,14 @@ Dossier racine
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T215620Z" creationid="Ragnar-F" creationdate="20221119T215620Z">
         <seg>Weitere Plugins können auf der &lt;u0&gt;OmegaT-Entwicklungsseite&lt;/u0&gt; gefunden werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional plugins can be found on the &lt;u0&gt;OmegaT wiki site&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T163300Z" creationid="Ragnar-F" creationdate="20240617T163300Z">
+        <seg>Weitere Plugins können auf der &lt;u0&gt;OmegaT-Wiki-Seite&lt;/u0&gt; gefunden werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9775,6 +9823,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows you to activate or deactivate enabled and properly configured machine translation engines.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T153254Z" creationid="Ragnar-F" creationdate="20240617T153254Z">
+        <seg>Ermöglicht es Ihnen, maschinelle Übersetzungsdienste zu aktivieren oder zu deaktivieren, die eingeschaltet und korrekt konfiguriert sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows you to activate or deactivate fuzzy matching for dictionary maches.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230127T181950Z" creationid="Ragnar-F" creationdate="20230127T181950Z">
@@ -9783,9 +9839,25 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows you to activate or deactivate fuzzy matching for dictionary matches.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T153414Z" creationid="Ragnar-F" creationdate="20240617T153414Z">
+        <seg>Ermöglicht es Ihnen, Fuzzy-Matching für Wörterbuch-Matches zu aktivieren oder deaktivieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows you to activate or deactivate fuzzy matching for glossary maches.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230127T181944Z" creationid="Ragnar-F" creationdate="20230127T181944Z">
+        <seg>Ermöglicht es Ihnen, Fuzzy-Matching für Glossar-Matches zu aktivieren oder deaktivieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows you to activate or deactivate fuzzy matching for glossary matches.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T153323Z" creationid="Ragnar-F" creationdate="20240617T153323Z">
         <seg>Ermöglicht es Ihnen, Fuzzy-Matching für Glossar-Matches zu aktivieren oder deaktivieren.</seg>
       </tuv>
     </tu>
@@ -9919,6 +9991,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also, consider testing &lt;a0&gt;weekly builds&lt;/a0&gt; of OmegaT that may contain even more new and fascinating bugs!</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164431Z" creationid="Ragnar-F" creationdate="20240617T164431Z">
+        <seg>Testen Sie auch die &lt;a0&gt;Weekly Builds&lt;/a0&gt; von OmegaT, die noch mehr neue und faszinierende Bugs enthalten können!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T175211Z" creationid="Ragnar-F" creationdate="20221117T175211Z">
@@ -10003,6 +10083,14 @@ Dossier racine
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210128T123933Z" creationid="Michael Motzkus" creationdate="20180921T063015Z">
         <seg>Alternativ können Sie ein Wort oder eine Wortgruppe im Editor-, Fuzzy-Matches- oder Glossarbereich markieren und &lt;k0&gt; &lt;k1&gt;Strg&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; drücken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, you can use &lt;l9/&gt; &lt;l10/&gt; to select a different match.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T160308Z" creationid="Ragnar-F" creationdate="20240617T160308Z">
+        <seg>Alternativ können Sie auch &lt;l9/&gt; &lt;l10/&gt; verwenden, um einen anderen Match auszuwählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10783,6 +10871,14 @@ Dossier racine
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T095021Z" creationid="Ragnar-F" creationdate="20221119T095021Z">
         <seg>Diese Schriftart auf tabellarische Daten (Projektdateien, Statistiken usw.) anwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply to all repositories on host {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175423Z" creationid="Ragnar-F" creationdate="20240617T175423Z">
+        <seg>Auf alle Repositories anwenden auf Host {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11821,6 +11917,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Based on your choices, we recommend you use:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164240Z" creationid="Ragnar-F" creationdate="20240617T164240Z">
+        <seg>Basierend auf Ihrer Auswahl empfehlen wir Ihnen die folgende Version:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Basically, that means that you have:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230108T193657Z" creationid="Ragnar-F" creationdate="20230108T193657Z">
@@ -12837,6 +12941,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't read spelling dictionary: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181232Z" creationid="Ragnar-F" creationdate="20240617T181232Z">
+        <seg>Rechtschreibwörterbuch kann nicht gelesen werden: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T091345Z" creationid="Michael Motzkus" creationdate="20190129T091345Z">
@@ -12928,6 +13040,14 @@ Buy another drink</seg>
         <seg>Cannot get correct answer.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230415T080858Z" creationid="Ragnar-F" creationdate="20230415T080858Z">
+        <seg>Kann keine richtige Antwort erhalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot get the correct answer.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175334Z" creationid="Ragnar-F" creationdate="20240617T175334Z">
         <seg>Kann keine richtige Antwort erhalten.</seg>
       </tuv>
     </tu>
@@ -13793,6 +13913,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230504T064238Z" creationid="Ragnar-F" creationdate="20230504T064238Z">
         <seg>Überprüfen Sie das omegat-Verzeichnis des Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the permissions of {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T165847Z" creationid="Ragnar-F" creationdate="20240617T165847Z">
+        <seg>Prüfen Sie die Berechtigungen von {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -15247,6 +15375,14 @@ Dossier de configuration
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console alignment mode</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T173842Z" creationid="Ragnar-F" creationdate="20240617T173842Z">
+        <seg>Konsolenausrichtungsmodus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console mode names and their options:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T105610Z" creationid="Ragnar-F" creationdate="20221109T105610Z">
@@ -15259,6 +15395,30 @@ Dossier de configuration
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135200Z" creationid="Ragnar-F" creationdate="20221121T135200Z">
         <seg>Nur-Konsolen-Optionen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console project stats mode</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T173022Z" creationid="Ragnar-F" creationdate="20240617T173022Z">
+        <seg>Konsolenprojektstatistikmodus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console pseudo-translate mode</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T173817Z" creationid="Ragnar-F" creationdate="20240617T173817Z">
+        <seg>Konsolenpseudoübersetzungsmodus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console translation mode</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T172905Z" creationid="Ragnar-F" creationdate="20240617T172905Z">
+        <seg>Konsolenübersetzungsmodus</seg>
       </tuv>
     </tu>
     <tu>
@@ -16814,6 +16974,24 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current version: {1}
+New version: {2}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175942Z" creationid="Ragnar-F" creationdate="20240617T175942Z">
+        <seg>Aktuelle Version: {1}
+Neue Version: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Currently, we offer only a Standard version.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164118Z" creationid="Ragnar-F" creationdate="20240617T164118Z">
+        <seg>Derzeit bieten wir nur eine Standardversion an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cursor lock</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T124510Z" creationid="Ragnar-F" creationdate="20221118T124510Z">
@@ -17010,6 +17188,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T145419Z" creationid="Ragnar-F" creationdate="20221112T145419Z">
         <seg>DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dark theme:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164938Z" creationid="Ragnar-F" creationdate="20240617T164938Z">
+        <seg>Dunkles Design:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17526,6 +17712,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detect a wrong character encoding or wrong character in specified encoding when output to translation file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T171431Z" creationid="Ragnar-F" creationdate="20240617T171431Z">
+        <seg>Falsche Zeichenkodierung oder falsches Zeichen in der angegebenen Kodierung bei der Erzeugung einer Übersetzungsdatei erkannt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detecting...</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T163651Z" creationid="karsten" creationdate="20150919T163651Z">
@@ -17562,6 +17756,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T133413Z" creationid="Ragnar-F" creationdate="20221114T133413Z">
         <seg>Developer: OmegaT Nightly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developer: OmegaT Weekly</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T144633Z" creationid="Ragnar-F" creationdate="20240617T144633Z">
+        <seg>Developer: OmegaT Weekly</seg>
       </tuv>
     </tu>
     <tu>
@@ -18462,6 +18664,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not translate property if it has a NOI18N comment</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T171627Z" creationid="Ragnar-F" creationdate="20240617T171627Z">
+        <seg>Eigenschaft nicht übersetzen, wenn sie einen NOI18N-Kommentar hat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T125308Z">
@@ -18598,6 +18808,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Docking Framework version: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T172829Z" creationid="Ragnar-F" creationdate="20240617T172829Z">
+        <seg>Docking Framework Version: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181107T102040Z" creationid="Michael Motzkus" creationdate="20181107T102040Z">
@@ -18674,6 +18892,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T114420Z" creationid="Ragnar-F" creationdate="20221111T114420Z">
         <seg>Findet nicht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does specified directory exist?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T173607Z" creationid="Ragnar-F" creationdate="20240617T173607Z">
+        <seg>Existiert das angegebene Verzeichnis?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19178,6 +19404,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120129Z" creationid="Ragnar-F" creationdate="20221118T120129Z">
         <seg>Wenn Sie andere Dateien ablegen, werden diese in den &lt;f0&gt;source&lt;/f0&gt;-Ordner kopiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 11 compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T145256Z" creationid="Ragnar-F" creationdate="20240617T145256Z">
+        <seg>Aus lizenzrechtlichen Gründen empfiehlt das OmegaT-Team die Java-Laufzeitumgebung Eclipse Temurin, die vom Adoptium-Projekt der Eclipse Foundation bereitgestellt wird, allerdings sollten auch andere Laufzeitumgebungen funktionieren, die mit Java 11 kompatibel sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19939,6 +20173,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable this option to automatically fetch machine translations from the providers you have enabled and configured.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T161132Z" creationid="Ragnar-F" creationdate="20240617T161132Z">
+        <seg>Aktivieren Sie diese Option, um automatisch maschinelle Übersetzungen von den eingeschalteten und korrekt konfigurierten Diensten abzurufen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="de">
@@ -20215,10 +20457,18 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the passphrase for SSH key {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175016Z" creationid="Ragnar-F" creationdate="20240617T175016Z">
+        <seg>Passphrase eingeben für SSH-Schlüssel {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the password for {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230421T070816Z" creationid="Ragnar-F" creationdate="20230421T070816Z">
-        <seg>Geben Sie das Passwort ein für {0}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T174852Z" creationid="Ragnar-F" creationdate="20230421T070816Z">
+        <seg>Passwort eingeben für {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20241,8 +20491,8 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
       <tuv lang="en">
         <seg>Enter the username for {0}</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230421T070750Z" creationid="Ragnar-F" creationdate="20230421T070750Z">
-        <seg>Geben Sie den Benutzernamen ein für {0}</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T174837Z" creationid="Ragnar-F" creationdate="20230421T070750Z">
+        <seg>Benutzername eingeben für {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20251,6 +20501,14 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T220616Z" creationid="Ragnar-F" creationdate="20221109T220616Z">
         <seg>Geben Sie Benutzername/Passwort ein für {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your credentials for {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T174621Z" creationid="Ragnar-F" creationdate="20240617T174621Z">
+        <seg>Zugangsdaten eingeben für {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20396,6 +20654,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error load dictionary from '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181921Z" creationid="Ragnar-F" creationdate="20240617T181921Z">
+        <seg>Fehler beim Laden des Wörterbuchs von '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T203335Z">
@@ -20408,6 +20674,22 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230305T102836Z" creationid="Ragnar-F" creationdate="20230305T102836Z">
         <seg>Fehler beim Laden: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading hunspell: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180819Z" creationid="Ragnar-F" creationdate="20240617T180819Z">
+        <seg>Fehler beim Laden von Hunspell: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading jmyspell: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181015Z" creationid="Ragnar-F" creationdate="20240617T181015Z">
+        <seg>Fehler beim Laden von JMySpell: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20464,6 +20746,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T221218Z" creationid="Ragnar-F" creationdate="20221109T221218Z">
         <seg>Fehler beim Abrufen von {0} als Remote-Projektdatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving ignore words"</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T182154Z" creationid="Ragnar-F" creationdate="20240617T182154Z">
+        <seg>Fehler beim Speichern der ignorierten Wörter"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20544,6 +20834,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183726Z" creationid="Ragnar-F" creationdate="20210112T221822Z">
         <seg>Fehler beim Aktualisieren des Repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while autosaving: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T174328Z" creationid="Ragnar-F" creationdate="20240617T174328Z">
+        <seg>Fehler beim automatischen Speichern: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21137,6 +21435,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Excluding old version of '{0}' ({1}), keeping {2}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T170811Z" creationid="Ragnar-F" creationdate="20240617T170811Z">
+        <seg>Schließe alte Version von '{0}' ({1}) aus, behalte {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exclusion Patterns</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T151230Z" creationid="Ragnar-F" creationdate="20210113T082702Z">
@@ -21149,6 +21455,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T123135Z" creationid="Ragnar-F" creationdate="20221114T123135Z">
         <seg>Ausnahmen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing command: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181758Z" creationid="Ragnar-F" creationdate="20240617T181758Z">
+        <seg>Führe Befehl aus: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21373,6 +21687,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T225139Z" creationid="Ragnar-F" creationdate="20221109T225139Z">
         <seg>Externer GPG hat keine gültige Signatur zurückgegeben; erhielt: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External GPG returns an invalid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180457Z" creationid="Ragnar-F" creationdate="20240617T180457Z">
+        <seg>Externer GPG gibt eine ungültige Signatur zurück; erhielt: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21665,10 +21987,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit source files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T170209Z" creationid="Ragnar-F" creationdate="20240617T170209Z">
+        <seg>Quelldateien konnten nicht committet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T141345Z" creationid="Michael Motzkus" creationdate="20181022T140601Z">
         <seg>Zieldateien konnten nicht committet werden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T170217Z" creationid="Ragnar-F" creationdate="20240617T170217Z">
+        <seg>Zieldateien konnten nicht committet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21705,6 +22043,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to create the translated files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T170203Z" creationid="Ragnar-F" creationdate="20240617T170203Z">
+        <seg>Die übersetzten Dateien konnten nicht erstellt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to decrypt for SSH key {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175307Z" creationid="Ragnar-F" creationdate="20240617T175307Z">
+        <seg>Entschlüsselung fehlgeschlagen für SSH-Schlüssel {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to download Mediawiki page</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T130727Z" creationid="Ragnar-F" creationdate="20221109T130727Z">
@@ -21725,6 +22079,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T123420Z" creationid="Ragnar-F" creationdate="20210113T123420Z">
         <seg>Abrufen der neuesten Version fehlgeschlagen: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to instantiate filter: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T171043Z" creationid="Ragnar-F" creationdate="20240617T171043Z">
+        <seg>Filter konnte nicht instanziiert werden: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21805,6 +22167,16 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230504T063955Z" creationid="Ragnar-F" creationdate="20230504T063955Z">
         <seg>Translation Memory {0} konnte für das Projekt nicht geladen werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory: {0}
+Some attributes have invalid values.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T170148Z" creationid="Ragnar-F" creationdate="20240617T165921Z">
+        <seg>Translation Memory konnte nicht geladen werden: {0}
+Einige Attribute haben ungültige Werte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23764,6 +24136,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GO</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164732Z" creationid="Ragnar-F" creationdate="20240617T164732Z">
+        <seg>LOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T130436Z" creationid="BVB" creationdate="20180827T070209Z">
@@ -23880,6 +24260,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T215634Z" creationid="Ragnar-F" creationdate="20221109T215634Z">
         <seg>Git-Benachrichtigung: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git: Ignore credentials query: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175603Z" creationid="Ragnar-F" creationdate="20240617T175603Z">
+        <seg>Git: Ignoriere Zugangsdatenabfrage: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24616,6 +25004,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130428T142732Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got directory/file open error.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T173553Z" creationid="Ragnar-F" creationdate="20240617T173553Z">
+        <seg>Fehler beim Öffnen eines Verzeichnisses oder einer Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25974,6 +26370,14 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a glossary item has multiple definitions, sort by a length of definition text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T163158Z" creationid="Ragnar-F" creationdate="20240617T163158Z">
+        <seg>Wenn ein Glossareintrag mehrere Definitionen enthält, werden diese nach der Länge des Definitionstextes sortiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a glossary item has multiple definitions, they will be displayed on the same line.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T221113Z" creationid="Ragnar-F" creationdate="20221118T221113Z">
@@ -26651,6 +27055,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If some glossary items are similar in a source term text, and one contains another term text, sort by a length of source text.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T163224Z" creationid="Ragnar-F" creationdate="20240617T162954Z">
+        <seg>Wenn einige Glossareinträge in einem Quellbegriffstext ähnlich sind und einer einen anderen Begriffstext enthält, werden diese nach der Länge des Quelltextes sortiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T151314Z" creationid="Michael Motzkus" creationdate="20180918T083618Z">
@@ -26967,6 +27379,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T131407Z" creationid="Ragnar-F" creationdate="20221116T131407Z">
         <seg>Wenn das Format, die Sie übersetzen möchten, strukturell einem bereits unterstützten Format ähnelt, fügen Sie einfach dessen Dateiendung zur Liste der unterstützten Formatendungen hinzu, oder ändern Sie die Dateiendung in eine Endung, die vom gewünschten Dateifilter akzeptiert wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the identical segments also have identical preceding and following segments, you will not be able to translate them differently and make one of them an alternative translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T152554Z" creationid="Ragnar-F" creationdate="20240617T150713Z">
+        <seg>Wenn es mehrere identische Segmente gibt, die dieselben angrenzenden Segmente haben, ist es nicht möglich, sie unterschiedlich zu übersetzen und eines davon zu einer alternativen Übersetzung in OmegaT zu machen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27976,6 +28396,14 @@ unter anderem über Java Web Start installieren.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have enabled and configured at least one machine translation engine this pane shows the suggestions for the current segment produced by the available engines.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T160934Z" creationid="Ragnar-F" creationdate="20240617T160622Z">
+        <seg>Wenn Sie mindestens einen maschinellen Übersetzungsdienst eingeschaltet und korrekt konfiguriert haben, zeigt dieser Fensterbereich Vorschläge für das aktuelle Segment an, die von den verfügbaren Übersetzungsdiensten erzeugt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T105233Z" creationid="BVB" creationdate="20180826T193507Z">
@@ -28116,6 +28544,14 @@ unter anderem über Java Web Start installieren.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T123144Z" creationid="Ragnar-F" creationdate="20221118T123144Z">
         <seg>Wenn Sie das Übersetzungsfeld leer lassen, behandelt OmegaT das Segment als unübersetzt und belässt es beim Erstellen der übersetzten Dokumente in der Originalsprache.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you leave this option disabled, machine translations are only fetched when you use &lt;l0/&gt; &lt;l1/&gt; in the current segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T161232Z" creationid="Ragnar-F" creationdate="20240617T161232Z">
+        <seg>Wenn Sie diese Option deaktiviert lassen, werden maschinelle Übersetzungen nur abgerufen, wenn Sie &lt;l0/&gt; &lt;l1/&gt; im aktuellen Segment verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28308,6 +28744,14 @@ unter anderem über Java Web Start installieren.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T093948Z" creationid="Ragnar-F" creationdate="20210109T093948Z">
         <seg>Wenn Sie es vorziehen, OmegaT nicht für die Übersetzung von Dateien eines bestimmten Typs zu verwenden, können Sie den entsprechenden Filter ausschalten, indem Sie das Häkchen neben dem Filternamen entfernen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you press down ALT key during selecting the menu item, opens a folder enclosing the file, by OS standard file manager such as finder or file explorer, instead of opening the file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T155422Z" creationid="Ragnar-F" creationdate="20240617T155225Z">
+        <seg>Wenn Sie während des Anklickens des Menüpunkts die ALT-Taste gedrückt halten, wird die Datei im Standard-Dateimanager des Betriebssystems (z.B. Finder oder Datei-Explorer) geöffnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29339,6 +29783,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In such cases, alternative translations relies on the identical segments having different preceding or following segments.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T152638Z" creationid="Ragnar-F" creationdate="20240617T150138Z">
+        <seg>In solchen Fällen verlassen sich die alternativen Übersetzungen darauf, dass identische Segmente unterschiedliche angrenzende Segmente haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In such cases, options defined in the config file take precedence over any option with duplicate functionality also passed on the command line.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221128T084854Z" creationid="Ragnar-F" creationdate="20221128T084854Z">
@@ -29948,10 +30400,26 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password for {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175141Z" creationid="Ragnar-F" creationdate="20240617T175141Z">
+        <seg>Passwort inkorrekt für {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Incorrect password.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T222752Z" creationid="Ragnar-F" creationdate="20221109T222752Z">
         <seg>Falsches Passwort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect username/password for {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T174646Z" creationid="Ragnar-F" creationdate="20240617T174646Z">
+        <seg>Benutzername/Passwort inkorrekt für {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -30073,6 +30541,22 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T102731Z" creationid="Ragnar-F" creationdate="20221116T102712Z">
         <seg>Initialisieren Sie ein Teamprojekt, indem Sie &lt;e0&gt;QS&lt;/e0&gt; und &lt;e1&gt;ZS&lt;/e1&gt; als zweibuchstabigen Sprachcode für die Quell- bzw. Zielsprache verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialized JMySpell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180934Z" creationid="Ragnar-F" creationdate="20240617T180934Z">
+        <seg>JMySpell-Rechtschreibprüfung initialisiert für Sprache '{0}' Wörterbuch {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialized LanguageTool Hunspell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181002Z" creationid="Ragnar-F" creationdate="20240617T180716Z">
+        <seg>LanguageTool-Hunspell-Rechtschreibprüfung initialisiert für Sprache '{0}' Wörterbuch {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -30573,6 +31057,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install Plugin</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175840Z" creationid="Ragnar-F" creationdate="20240617T175840Z">
+        <seg>Plugin installieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install failed</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T214144Z" creationid="Ragnar-F" creationdate="20221109T214144Z">
@@ -30605,10 +31097,26 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install the {0} {1} plugin?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180208Z" creationid="Ragnar-F" creationdate="20240617T180208Z">
+        <seg>Plugin '{0} {1}' installieren?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T161758Z" creationid="BVB" creationdate="20180826T092005Z">
         <seg>Installationstyp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installed</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180312Z" creationid="Ragnar-F" creationdate="20240617T180312Z">
+        <seg>Installiert</seg>
       </tuv>
     </tu>
     <tu>
@@ -30866,6 +31374,14 @@ Bedienungsanleitung.</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130427T143642Z">
         <seg>Ungültiges Dateiformat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid link: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T165441Z" creationid="Ragnar-F" creationdate="20240617T165441Z">
+        <seg>Ungültiger Link: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31166,6 +31682,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It does not recognize plugin files renamed with a &lt;f0&gt;.zip&lt;/f0&gt; extension.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T163934Z" creationid="Ragnar-F" creationdate="20240617T163934Z">
+        <seg>Er erkennt keine Plugin-Dateien, deren Dateiendung in &lt;f0&gt;.zip&lt;/f0&gt; umbenannt wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It does not translate for you!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210130T092116Z" creationid="BVB" creationdate="20180826T183116Z">
@@ -31258,6 +31782,14 @@ Bedienungsanleitung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T095000Z" creationid="Ragnar-F" creationdate="20221218T095000Z">
         <seg>Diese wird automatisch erstellt, wenn ein Begriff zum ersten Mal hinzugefügt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is automatically generated every week, and serves as a beta version for testing purposes.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T145127Z" creationid="Ragnar-F" creationdate="20240617T145127Z">
+        <seg>Sie wird wöchentlich automatisch generiert und dient als Betaversion zu Testzwecken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31886,6 +32418,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T103828Z" creationid="BVB" creationdate="20180826T103828Z">
         <seg>JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T170529Z" creationid="Ragnar-F" creationdate="20240617T170529Z">
+        <seg>JSON</seg>
       </tuv>
     </tu>
     <tu>
@@ -33085,6 +33625,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Light theme:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164933Z" creationid="Ragnar-F" creationdate="20240617T164933Z">
+        <seg>Helles Design:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line break, followed by anything.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T102348Z" creationid="Ragnar-F" creationdate="20221112T102348Z">
@@ -33297,6 +33845,22 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T064505Z" creationid="Ragnar-F" creationdate="20210112T064505Z">
         <seg>Klicken Sie auf den Namen eines Skripts in der Liste im linken Bereich, um es in den Editor zu laden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load project source files: {0} ms</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T170523Z" creationid="Ragnar-F" creationdate="20240617T170523Z">
+        <seg>Quelldateien des Projekts geladen: {0} ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loaded dictionary from '{0}': {1} ms</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181836Z" creationid="Ragnar-F" creationdate="20240617T181836Z">
+        <seg>Wörterbuch geladen von '{0}': {1} ms</seg>
       </tuv>
     </tu>
     <tu>
@@ -36317,6 +36881,22 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Negotiated LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181450Z" creationid="Ragnar-F" creationdate="20240617T181450Z">
+        <seg>Vereinbarte LanguageTool-Quellsprache: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negotiated LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181458Z" creationid="Ragnar-F" creationdate="20240617T181458Z">
+        <seg>Vereinbarte LanguageTool-Zielsprache: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Neither the “a” nor the “an” in:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221111T121452Z" creationid="Ragnar-F" creationdate="20221111T121452Z">
@@ -36717,10 +37297,26 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No active spell checker engine found</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T171807Z" creationid="Ragnar-F" creationdate="20240617T171807Z">
+        <seg>Keinen aktiven Rechtschreibprüfungsdienst gefunden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210120T095712Z">
         <seg>Keine Verbindung verfügbar. Das Projekt befindet sich im Offline-Modus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No console found.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T174422Z" creationid="Ragnar-F" creationdate="20240617T174422Z">
+        <seg>Keine Konsole gefunden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36833,6 +37429,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130428T143907Z">
         <seg>Kein Skript festgelegt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No spell checker found for language {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180522Z" creationid="Ragnar-F" creationdate="20240617T180522Z">
+        <seg>Keine Rechtschreibprüfung gefunden für Sprache {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -37961,6 +38565,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.1.0 and later can also run with a Java 17 Runtime Environment on any platform.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T145244Z" creationid="Ragnar-F" creationdate="20240617T145244Z">
+        <seg>OmegaT 6.1.0 oder höher kann auch mit einer Java 17 Runtime Environment auf beliebigen Plattformen ausgeführt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 6.1.0 requires a Java 11 Runtime Environment (JRE) to run.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230509T193028Z" creationid="Ragnar-F" creationdate="20230509T193028Z">
@@ -37981,6 +38593,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090535Z" creationid="Ragnar-F" creationdate="20210701T090535Z">
         <seg>OmegaT Klassisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Contribution Guide</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T163939Z" creationid="Ragnar-F" creationdate="20240617T163939Z">
+        <seg>OmegaT Contribution Guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -38053,6 +38673,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T201757Z">
         <seg>Benutzeroberflächensprache für OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT also accepts zip archives that contain a JAR plugin file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T163523Z" creationid="Ragnar-F" creationdate="20240617T163523Z">
+        <seg>OmegaT akzeptiert auch ZIP-Archive, die eine JAR-Plugin-Datei enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38275,8 +38903,8 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>OmegaT comes in two editions:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T133347Z" creationid="Ragnar-F" creationdate="20221114T133216Z">
-        <seg>OmegaT gibt es in zwei Varianten:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T144823Z" creationid="Ragnar-F" creationdate="20221114T133216Z">
+        <seg>OmegaT gibt es in zwei Editionen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38329,10 +38957,26 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT currently requires version 11 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164147Z" creationid="Ragnar-F" creationdate="20240617T164147Z">
+        <seg>OmegaT benötigt derzeit JRE Version 11 oder höher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT default theme</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T102000Z" creationid="Ragnar-F" creationdate="20210701T090522Z">
         <seg>Standarddesign von OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT differentiates between identical segments using either an internal identifier provided by the file type, or by referring to their preceding and following segments.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T145725Z" creationid="Ragnar-F" creationdate="20240617T145725Z">
+        <seg>OmegaT unterscheidet zwischen identischen Segmenten, indem es entweder einen internen Identifikator verwendet, der durch den Dateityp bereitgestellt wird, oder indem es sich auf ihr vorheriges und nächstes Segment bezieht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38581,6 +39225,14 @@ Ordner an einen geeigneten Ort, z. B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221222T112144Z" creationid="Ragnar-F" creationdate="20221222T112144Z">
         <seg>OmegaT wurde erfolgreich unter Windows (alle Versionen ab 98), macOS und Linux installiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has been successfully installed on Windows (all versions from Windows 8 onwards), macOS and Linux.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164315Z" creationid="Ragnar-F" creationdate="20240617T164315Z">
+        <seg>OmegaT wurde erfolgreich unter Windows (alle Versionen ab Windows 8), macOS und Linux installiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42321,6 +42973,14 @@ committen Sie dann alles.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please check your project configuration and translations.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T171454Z" creationid="Ragnar-F" creationdate="20240617T171454Z">
+        <seg>Bitte überprüfen Sie Ihre Projektkonfiguration und Ihre Übersetzungen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T141413Z">
@@ -42593,10 +43253,34 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin Name</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180307Z" creationid="Ragnar-F" creationdate="20240617T180307Z">
+        <seg>Plugin-Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin files are JAR files with a &lt;f1&gt;.jar&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T163434Z" creationid="Ragnar-F" creationdate="20240617T163434Z">
+        <seg>Plugins sind JAR-Dateien mit der Dateiendung &lt;f1&gt;.jar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin installation failed.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221208T190430Z" creationid="Ragnar-F" creationdate="20221208T190430Z">
         <seg>Plugin-Installation fehlgeschlagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation successful.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180215Z" creationid="Ragnar-F" creationdate="20240617T180215Z">
+        <seg>Plugin-Installation erfolgreich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43543,6 +44227,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project files:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164622Z" creationid="Ragnar-F" creationdate="20240617T164622Z">
+        <seg>Projektdateien:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project folder</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T193732Z" creationid="Ragnar-F" creationdate="20210111T193732Z">
@@ -43751,6 +44443,14 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T183516Z" creationid="Ragnar-F" creationdate="20221117T183455Z">
         <seg>Eigenschaften... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provided URL is invalid.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164813Z" creationid="Ragnar-F" creationdate="20240617T164813Z">
+        <seg>Die angegebene URL ist ungültig.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44556,6 +45256,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221115T143831Z" creationid="Ragnar-F" creationdate="20221115T143831Z">
         <seg>Praktizieren Sie regelmäßig "Notfallmaßnahmen", z. B. die Wiederherstellung von Übersetzungen aus einem Projekt, um sicherzustellen, dass Sie an dem Tag, an dem Sie diese Fähigkeiten benötigen, nicht zu viel Zeit verlieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reinstall the {0} plugin?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180028Z" creationid="Ragnar-F" creationdate="20240617T180028Z">
+        <seg>Plugin '{0}' neu installieren?</seg>
       </tuv>
     </tu>
     <tu>
@@ -45876,6 +46584,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T142040Z" creationid="Ragnar-F" creationdate="20221112T142040Z">
         <seg>Neu starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT to activate it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180253Z" creationid="Ragnar-F" creationdate="20240617T180253Z">
+        <seg>Starten Sie OmegaT neu, um es zu aktivieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49293,6 +50009,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Project</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164551Z" creationid="Ragnar-F" creationdate="20240617T164551Z">
+        <seg>Projekt auswählen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Scripts Folder</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210120T093832Z" creationid="Michael Motzkus" creationdate="20190129T091454Z">
@@ -49377,6 +50101,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T220730Z" creationid="Ragnar-F" creationdate="20221118T220730Z">
         <seg>Wählen Sie ein Layout für den Inhalt des Glossarbereichs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a plugin file (*.jar) or a zip archive (*.zip) that contains a plugin jar file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T172332Z" creationid="Ragnar-F" creationdate="20240617T172332Z">
+        <seg>Wählen Sie eine Plugin-Datei (*.jar) oder ein ZIP-Archiv (*.zip) mit einer Plugin-JAR-Datei aus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49717,10 +50449,34 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selected</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180348Z" creationid="Ragnar-F" creationdate="20240617T180348Z">
+        <seg>Ausgewählt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected Engine: {0}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210120T094058Z">
         <seg>Ausgewählte Sprache: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181414Z" creationid="Ragnar-F" creationdate="20240617T181414Z">
+        <seg>Ausgewählte LanguageTool-Quellsprache: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181423Z" creationid="Ragnar-F" creationdate="20240617T181423Z">
+        <seg>Ausgewählte LanguageTool-Zielsprache: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -50485,6 +51241,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similar versions of '{0}' are present ({1} and {2}), keeping the latter</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T170847Z" creationid="Ragnar-F" creationdate="20240617T170847Z">
+        <seg>Ähnliche Versionen von '{0}' vorhanden ({1} und {2}), behalte letzteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly add any relevant lists of spellchecker files you want to make available to everyone working on the project.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T120006Z" creationid="Ragnar-F" creationdate="20221116T120006Z">
@@ -50825,6 +51589,26 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210109T130807Z">
         <seg>Text anhand eines regulären Ausdrucks überspringen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped one or more source files
+because the specified source folder contains a symbolic or hard link
+that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T165422Z" creationid="Ragnar-F" creationdate="20240617T165422Z">
+        <seg>Eine oder mehrere Quelldateien wurden übersprungen,
+weil der angegebene Quellordner einen symbolischen oder harten Link enthält,
+der auf sich selbst oder einen seiner Unterordner verweist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped one or more source files due to an access permission error in the source folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T165816Z" creationid="Ragnar-F" creationdate="20240617T165816Z">
+        <seg>Eine oder mehrere Quelldateien wurden aufgrund eines Zugriffsberechtigungsfehlers im Quellordner übersprungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51229,6 +52013,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by Source Term Length</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T171857Z" creationid="Ragnar-F" creationdate="20240617T171857Z">
+        <seg>Sortieren nach Länge des Quellbegriffs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort by Target Term Length</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221123T114341Z" creationid="Ragnar-F" creationdate="20221123T114341Z">
@@ -51249,6 +52041,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T223410Z" creationid="Ragnar-F" creationdate="20210112T223410Z">
         <seg>&amp;Alphabetisch nach Quellbegriffen sortieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by source text term length</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T162809Z" creationid="Ragnar-F" creationdate="20240617T162216Z">
+        <seg>Nach Länge des Quelltextbegriffs sortieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -51693,6 +52493,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181703Z" creationid="Ragnar-F" creationdate="20240617T181703Z">
+        <seg>Quelle-Tokenizer: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation length (characters)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221123T112746Z" creationid="Ragnar-F" creationdate="20221123T112746Z">
@@ -51755,6 +52563,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T184004Z" creationid="Ragnar-F" creationdate="20221109T183720Z">
         <seg>Spezifische Regelsätze sollten über allgemeinen Regelsätzen stehen:
 "FR-CA" sollte über "FR.*" stehen, das wiederum über ".*" stehen sollte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specified UNKNOWN file type for statistics.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T173202Z" creationid="Ragnar-F" creationdate="20240617T173202Z">
+        <seg>UNKNOWN-Dateityp für Statistik angegeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52003,6 +52819,22 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180827T065904Z" creationid="BVB" creationdate="20180827T065904Z">
         <seg>Rechtschreibwörterbücher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary appears to be empty: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181334Z" creationid="Ragnar-F" creationdate="20240617T181334Z">
+        <seg>Rechtschreibwörterbuch scheint leer zu sein: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary exists but is not a file: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181158Z" creationid="Ragnar-F" creationdate="20240617T181158Z">
+        <seg>Rechtschreibwörterbuch existiert, aber ist keine Datei: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -52267,6 +53099,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130504T161033Z">
         <seg>Statistiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statistics output formats</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175826Z" creationid="Ragnar-F" creationdate="20240617T175826Z">
+        <seg>Statistikausgabeformate</seg>
       </tuv>
     </tu>
     <tu>
@@ -52875,6 +53715,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T191832Z" creationid="Michael Motzkus" creationdate="20190129T085729Z">
         <seg>Wechsle zur integrierten Version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sync with OS colour preference</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T165110Z" creationid="Ragnar-F" creationdate="20240617T165110Z">
+        <seg>Mit OS-Farbeinstellungen synchronisieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -53535,6 +54383,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181711Z" creationid="Ragnar-F" creationdate="20240617T181711Z">
+        <seg>Ziel-Tokenizer: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T121659Z" creationid="Ragnar-F" creationdate="20210113T121659Z">
@@ -54040,6 +54896,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T140450Z" creationid="Ragnar-F" creationdate="20221118T140450Z">
         <seg>Die Eigenschaft "Herkunft" des aktuellen Segments wird auf den ausgewählten Dienstnamen gesetzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will have usually been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164227Z" creationid="Ragnar-F" creationdate="20240617T164227Z">
+        <seg>Die "Standard"-Version von OmegaT enthält eine vollständige Bedienungsanleitung (zumindest in englischer Sprache) und wurde in der Regel bereits einige Zeit getestet, um jegliche Bugs zu beseitigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57101,6 +57965,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following plugins won't be loaded because newer versions are installed, consider deleting them: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T170959Z" creationid="Ragnar-F" creationdate="20240617T170959Z">
+        <seg>Die folgenden Plugins werden nicht geladen, da neuere Versionen installiert sind. Erwägen Sie, diese zu löschen: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T194700Z" creationid="Ragnar-F" creationdate="20210110T194700Z">
@@ -58316,6 +59188,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T150211Z" creationid="BVB" creationdate="20180822T160629Z">
         <seg>Die Philosophie des Projekts wird &lt;a0&gt;hier&lt;/a0&gt; beschrieben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The plugin installer only accepts archives containing a JAR plugin.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T163739Z" creationid="Ragnar-F" creationdate="20240617T163739Z">
+        <seg>Der Plugin-Installer akzeptiert nur Archive, die eine JAR-Plugin-Datei enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61136,6 +62016,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Third party plugins are typically distributed as zip archives that contain the plugin file itself, as well as README and LICENSE files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T163701Z" creationid="Ragnar-F" creationdate="20240617T163701Z">
+        <seg>Plugins von Drittanbietern werden in der Regel als ZIP-Archive bereitgestellt, die die eigentliche Plugin-Datei sowie eine README- und LICENSE-Datei enthalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Third-party plugin</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T134340Z" creationid="Ragnar-F" creationdate="20221116T134340Z">
@@ -61868,8 +62756,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This edition is recommended for everyday use.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T133411Z" creationid="Ragnar-F" creationdate="20221114T133411Z">
-        <seg>Diese Variante wird für den täglichen Gebrauch empfohlen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T144850Z" creationid="Ragnar-F" creationdate="20221114T133411Z">
+        <seg>Diese Edition wird für den täglichen Gebrauch empfohlen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62522,6 +63410,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the edition of OmegaT in active development.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T145015Z" creationid="Ragnar-F" creationdate="20240617T145015Z">
+        <seg>Diese Edition befindet sich in aktiver Entwicklung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the folder where OmegaT copies the current state of the translation in the form of TMX files when you create the translated files.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221128T082440Z" creationid="Ragnar-F" creationdate="20221128T082440Z">
@@ -63118,6 +64014,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T103012Z" creationid="Ragnar-F" creationdate="20221116T103012Z">
         <seg>Diese Option verhindert diesen Fehler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option sets the project data saving interval, which also applies to team data synchronization.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175742Z" creationid="Ragnar-F" creationdate="20240617T175742Z">
+        <seg>Diese Option bestimmt das Intervall für die Speicherung der Projektdaten, das auch für die Synchronisierung der Teamdaten gilt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65908,6 +66812,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UI Style</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164904Z" creationid="Ragnar-F" creationdate="20240617T164904Z">
+        <seg>UI-Stil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>UNL</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T144518Z" creationid="Ragnar-F" creationdate="20210112T144518Z">
@@ -65944,6 +66856,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T143653Z" creationid="Michael Motzkus" creationdate="20181022T143653Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL Error</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164841Z" creationid="Ragnar-F" creationdate="20240617T164841Z">
+        <seg>URL-Fehler</seg>
       </tuv>
     </tu>
     <tu>
@@ -66136,6 +67056,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T135733Z" creationid="Michael Motzkus" creationdate="20181022T143605Z">
         <seg>Teamprojekt kann nicht heruntergeladen werden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to get exclusive lock for autosave.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T174408Z" creationid="Ragnar-F" creationdate="20240617T173948Z">
+        <seg>Keine exklusive Sperre für automatische Speicherung erhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66754,6 +67682,22 @@ Dokumentationsdatei und der OmegaT-Anwendung zu erhalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T141117Z" creationid="Ragnar-F" creationdate="20221114T141117Z">
         <seg>Aktualisierung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade Plugin</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175855Z" creationid="Ragnar-F" creationdate="20240617T175855Z">
+        <seg>Plugin aktualisieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade the {0} plugin?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175920Z" creationid="Ragnar-F" creationdate="20240617T175920Z">
+        <seg>Plugin '{0}' aktualisieren?</seg>
       </tuv>
     </tu>
     <tu>
@@ -67954,6 +68898,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use a TMX validator to find and fix them.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T170007Z" creationid="Ragnar-F" creationdate="20240617T170007Z">
+        <seg>Verwenden Sie einen TMX-Validator, um sie zu finden und zu korrigieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use a Team Project</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T092806Z" creationid="Ragnar-F" creationdate="20210111T092806Z">
@@ -68214,6 +69166,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210205T140157Z" creationid="Ragnar-F" creationdate="20210205T140157Z">
         <seg>Verwenden Sie den &lt;g0&gt;ID&lt;/g0&gt;-Vergleichsmodus, um "Schlüssel=Wert"-Texte auszurichten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Install plugin from disk&lt;/g0&gt; button to install or upgrade your plugin.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T163353Z" creationid="Ragnar-F" creationdate="20240617T163353Z">
+        <seg>Verwenden Sie die Schaltfläche &lt;g0&gt;Plugin von Festplatte installieren&lt;/g0&gt;, um ein Plugin zu installieren oder zu aktualisieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68806,8 +69766,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>User canceled signing (no passphrase provided)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T151144Z" creationid="Ragnar-F" creationdate="20221109T224849Z">
-        <seg>Nutzer hat die Signierung abgebrochen (kein Passwort bereitgestellt)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T175105Z" creationid="Ragnar-F" creationdate="20221109T224849Z">
+        <seg>Nutzer hat die Signierung abgebrochen (keine Passphrase bereitgestellt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -68944,6 +69904,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T215102Z" creationid="Ragnar-F" creationdate="20221109T215102Z">
         <seg>Benutzername oder API-Schlüssel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or password has extra space character(s)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T174743Z" creationid="Ragnar-F" creationdate="20240617T174743Z">
+        <seg>Benutzername oder Passwort enthält überflüssige Leerzeichen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T171828Z" creationid="Ragnar-F" creationdate="20240617T171828Z">
+        <seg>Benutzername:</seg>
       </tuv>
     </tu>
     <tu>
@@ -69286,6 +70262,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Version {1} is already installed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T180002Z" creationid="Ragnar-F" creationdate="20240617T180002Z">
+        <seg>Version {1} bereits installiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Version: {0}</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T135528Z">
@@ -69564,6 +70548,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130510T083808Z">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weekly Builds</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T164319Z" creationid="Ragnar-F" creationdate="20240617T164319Z">
+        <seg>Weekly Builds</seg>
       </tuv>
     </tu>
     <tu>
@@ -69892,6 +70884,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135929Z" creationid="Ragnar-F" creationdate="20221118T135929Z">
         <seg>Wenn Vorschläge von mehr als einem Dienst verfügbar sind,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When suggestions from more than one translation engine are available,</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T160736Z" creationid="Ragnar-F" creationdate="20240617T160736Z">
+        <seg>Wenn Vorschläge von mehr als einem Übersetzungsdienst verfügbar sind,</seg>
       </tuv>
     </tu>
     <tu>
@@ -71045,6 +72045,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230402T183340Z" creationid="Ragnar-F" creationdate="20230402T183340Z">
         <seg>XLIFF-Dateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T170525Z" creationid="Ragnar-F" creationdate="20240617T170525Z">
+        <seg>XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -72510,6 +73518,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2, 3, 4, or 5&lt;/k2&gt; &lt;/k0&gt; to select a specific match, or cycle through the available matches with &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;↑ or ↓&lt;/k5&gt;&lt;/k3&gt; (&lt;k6&gt;&lt;k7&gt;A&lt;/k7&gt;&lt;k8&gt;↑ or ↓&lt;/k8&gt;&lt;/k6&gt; on macOS).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T160121Z" creationid="Ragnar-F" creationdate="20240617T160121Z">
+        <seg>Sie können &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2, 3, 4, 5&lt;/k2&gt;&lt;/k0&gt; drücken, um einen bestimmten Match auszuwählen, oder mit &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;↑ oder ↓&lt;/k5&gt;&lt;/k3&gt; (&lt;k6&gt;&lt;k7&gt;A&lt;/k7&gt;&lt;k8&gt;↑ oder ↓&lt;/k8&gt;&lt;/k6&gt; unter macOS) durch die verfügbaren Matches schalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2, 3, 4, or 5&lt;/k2&gt; &lt;/k0&gt;, or use &lt;l3/&gt;&lt;l4/&gt;, to select a different match .</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230127T144221Z" creationid="Ragnar-F" creationdate="20230127T144221Z">
@@ -72918,6 +73934,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can work around this issue by introducing a small change to one of the preceding or following segments in the source file to distinguish between the various instances of the same preceding or following segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T152452Z" creationid="Ragnar-F" creationdate="20240617T152452Z">
+        <seg>Um dieses Problem zu umgehen, können Sie z.B. eines der angrenzenden Segmente in der Quelldatei geringfügig verändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221122T084240Z" creationid="SabineWanner" creationdate="20221117T155022Z">
@@ -73175,6 +74199,14 @@ Methoden zu lösen:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T124334Z">
         <seg>Sie geben die TMX-Datei an, mit der erstellt werden soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You then have to press that combination again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T161338Z" creationid="Ragnar-F" creationdate="20240617T161338Z">
+        <seg>Sie müssen dann dieses Tastenkürzel erneut drücken, um den Vorschlag einzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74017,6 +75049,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>aborted."</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T173331Z" creationid="Ragnar-F" creationdate="20240617T173331Z">
+        <seg>abgebrochen."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>above and continue until you are satisfied.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221219T112934Z" creationid="Ragnar-F" creationdate="20221219T112934Z">
@@ -74429,6 +75469,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T145022Z" creationid="Ragnar-F" creationdate="20221112T145022Z">
         <seg>autocompleterTrigger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>bad location exception when changing case</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T182923Z" creationid="Ragnar-F" creationdate="20240617T182923Z">
+        <seg>Fehlerhafte-Position-Ausnahme beim Ändern von Groß-/Kleinschreibung</seg>
       </tuv>
     </tu>
     <tu>
@@ -76783,6 +77831,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T101431Z" creationid="Ragnar-F" creationdate="20210108T132335Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.readthedocs.io/en/latest/</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T163942Z" creationid="Ragnar-F" creationdate="20240617T163942Z">
+        <seg>https://omegat.readthedocs.io/en/latest/</seg>
       </tuv>
     </tu>
     <tu>
@@ -80202,6 +81258,14 @@ config-dir="Pfad/zum/neuen/Konfigordner"</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221122T151154Z" creationid="Ragnar-F" creationdate="20221110T133441Z">
         <seg>Anmeldename des Nutzers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>using segmentation rules from {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T181620Z" creationid="Ragnar-F" creationdate="20240617T181558Z">
+        <seg>benutze Segmentierungsregeln von {0}</seg>
       </tuv>
     </tu>
     <tu>
