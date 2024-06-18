@@ -12527,8 +12527,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, each project contains a &lt;l0/&gt; folder to store the writable glossary and any reference glossaries you want to add to the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T084856Z" creationid="SabineWanner" creationdate="20221117T155231Z">
-        <seg>Standardmäßig enthält jedes Projekt einen &lt;l0/&gt;-Ordner, wo das beschreibbare Glossar aufbewahrt wird, sowie alle Referenzglossare, die Sie dem Projekt hinzufügen möchten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T124322Z" creationid="SabineWanner" creationdate="20221117T155231Z">
+        <seg>Standardmäßig enthält jedes Projekt einen &lt;l0/&gt;-Ordner, in dem das beschreibbare Glossar sowie alle Referenzglossare, die Sie dem Projekt hinzufügen möchten, gespeichert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28140,8 +28140,8 @@ angezeigt werden.</seg>
       <tuv lang="en">
         <seg>If you choose to use an existing file as the default glossary, all new entries will be recorded in tab-separated format and saved in UTF-8 by default.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T083337Z" creationid="SabineWanner" creationdate="20221117T154129Z">
-        <seg>Wenn Sie eine vorhandene Datei als Standardglossar verwenden, werden alle neuen Einträge standardmäßig im tabulatorgetrennten Format und in UTF-8 gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T120513Z" creationid="SabineWanner" creationdate="20221117T154129Z">
+        <seg>Wenn Sie eine vorhandene Datei als Standardglossar verwenden, werden alle neuen Einträge standardmäßig im tabulatorgetrennten Format gelesen und in UTF-8 gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28959,8 +28959,8 @@ folgt starten können:</seg>
       <tuv lang="en">
         <seg>If you want to specify a different encoding, you can do so by adding a “magic” comment that takes the following form:</seg>
       </tuv>
-      <tuv lang="de" changeid="SabineWanner" changedate="20221117T154202Z" creationid="SabineWanner" creationdate="20221117T154202Z">
-        <seg>Wenn Sie eine andere Kodierung angeben möchten, können Sie einen "magischen" Kommentar hinzufügen, der die folgende Form hat:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T120557Z" creationid="SabineWanner" creationdate="20221117T154202Z">
+        <seg>Wenn Sie eine andere Kodierung angeben möchten, können Sie einen "magischen" Kommentar in folgender Form hinzufügen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32278,8 +32278,8 @@ Konfigurationsordners zu erstellen.</seg>
       <tuv lang="en">
         <seg>It will be created the first time you add an entry to the glossary.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T083308Z" creationid="SabineWanner" creationdate="20221117T154004Z">
-        <seg>Sie wird erstellt, wenn Sie das erste Mal einen Eintrag zum Glossar hinzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T120408Z" creationid="SabineWanner" creationdate="20221117T154004Z">
+        <seg>Die Datei wird automatisch erstellt, sobald Sie den ersten Glossareintrag hinzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44245,8 +44245,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Project glossary</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T090017Z" creationid="SabineWanner" creationdate="20221117T180546Z">
-        <seg>Projekteigenes Glossar</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T124549Z" creationid="SabineWanner" creationdate="20221117T180546Z">
+        <seg>Projektglossar</seg>
       </tuv>
     </tu>
     <tu>
@@ -73944,8 +73944,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T084240Z" creationid="SabineWanner" creationdate="20221117T155022Z">
-        <seg>Sie können diese nicht über die Benutzeroberfläche von OmegaT ändern, wie es beim projekteigenen Glossar der Fall ist, aber Sie können stattdessen einen Texteditor verwenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T121716Z" creationid="SabineWanner" creationdate="20221117T155022Z">
+        <seg>Im Gegensatz zum Projektglossar können solche Glossare nicht mit der Benutzeroberfläche von OmegaT geändert werden. Verwenden Sie stattdessen einen Texteditor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81456,8 +81456,8 @@ config-dir="Pfad/zum/neuen/Konfigordner"</seg>
       <tuv lang="en">
         <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221122T083702Z" creationid="SabineWanner" creationdate="20221117T154812Z">
-        <seg>wobei &lt;p0&gt;&lt;Zeichensatz&gt;&lt;/p0&gt; in der Regel einer der Zeichensätze ist, die in &lt;u1&gt;IANA Charset Registry&lt;/u1&gt; aufgelistet sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T120717Z" creationid="SabineWanner" creationdate="20221117T154812Z">
+        <seg>wobei &lt;p0&gt;&lt;Zeichensatz&gt;&lt;/p0&gt; üblicherweise einer der Zeichensätze ist, die in der &lt;u1&gt;IANA Charset Registry&lt;/u1&gt; aufgelistet sind.</seg>
       </tuv>
     </tu>
     <tu>
