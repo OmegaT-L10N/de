@@ -11194,8 +11194,8 @@ korrektem Verhalten kommen kann.</seg>
       <tuv lang="en">
         <seg>Associating a file extension to a filter is not sufficient to have the filter properly handle the file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T125052Z" creationid="Ragnar-F" creationdate="20221110T125052Z">
-        <seg>Die Verknüpfung einer Dateiendung mit einem Filter ist kein Garant dafür, dass der Filter die Datei ordnungsgemäß erfasst und bearbeitet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T093404Z" creationid="Ragnar-F" creationdate="20221110T125052Z">
+        <seg>Die Verknüpfung einer Dateiendung mit einem Filter ist kein Garant dafür, dass der Filter die Datei korrekt erfasst und verarbeitet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12151,8 +12151,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Both dialogs allow you to customize the filename patterns for the source and target files associated to this the filter, and select their respective encoding.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T123354Z" creationid="Ragnar-F" creationdate="20221110T123354Z">
-        <seg>Beide Dialogfenster bieten Ihnen die Möglichkeit, die Namensmuster für die Quell- und Zieldateien, die mit diesem Filter verbunden sind, anzupassen und ihre jeweilige Kodierung auszuwählen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T092401Z" creationid="Ragnar-F" creationdate="20221110T123354Z">
+        <seg>Beide Dialogfenster bieten Ihnen die Möglichkeit, die Namensmuster für die Quell- und Zieldateien, die mit diesem Filter verknüpft sind, anzupassen und ihre jeweilige Kodierung auszuwählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12503,8 +12503,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T115619Z" creationid="Ragnar-F" creationdate="20221110T115619Z">
-        <seg>Standardmäßig entfernt OmegaT alle führenden und nachfolgenden Leerzeichen aus den übersetzbaren Inhalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T090209Z" creationid="Ragnar-F" creationdate="20221110T115619Z">
+        <seg>Standardmäßig entfernt OmegaT alle führenden und nachfolgenden Leer- und Tabulatorzeichen aus den übersetzbaren Inhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23402,8 +23402,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T130420Z" creationid="Ragnar-F" creationdate="20221110T130420Z">
-        <seg>Zum Beispiel können Sie das Muster &lt;l0&gt;read*&lt;/l0&gt; verwenden, um den Textfilter Readme-Dateien (&lt;l1&gt;readme, read.me&lt;/l1&gt; oder &lt;l2&gt;readme.txt&lt;/l2&gt;) erfassen und bearbeiten zu lassen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T094552Z" creationid="Ragnar-F" creationdate="20221110T130420Z">
+        <seg>Zum Beispiel können Sie das Muster &lt;l0&gt;read*&lt;/l0&gt; für den Textfilter verwenden, um Readme-Dateien (&lt;l1&gt;readme, read.me&lt;/l1&gt; oder &lt;l2&gt;readme.txt&lt;/l2&gt;) zu erfassen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25471,8 +25471,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Hiding them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T090201Z" creationid="Ragnar-F" creationdate="20230223T090201Z">
-        <seg>Die Tags im übersetzbaren Inhalt zu verstecken, stellt sicher, dass Sie sie nicht versehentlich löschen oder verändern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T084921Z" creationid="Ragnar-F" creationdate="20230223T090201Z">
+        <seg>Das Verstecken dieser Tags im übersetzbaren Inhalt stellt sicher, dass sie nicht versehentlich gelöscht oder geändert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27089,8 +27089,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If such a file is found in the &lt;l2/&gt; folder, the file will be handled by the XHTML filter.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T124317Z" creationid="Ragnar-F" creationdate="20221110T124317Z">
-        <seg>Wenn eine solche Datei im Ordner &lt;l2/&gt; gefunden wird, wird sie vom XHTML-Filter erfasst und bearbeitet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T093334Z" creationid="Ragnar-F" creationdate="20221110T124317Z">
+        <seg>Wenn eine solche Datei im Ordner &lt;l2/&gt; gefunden wird, wird sie vom XHTML-Filter erfasst und verarbeitet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27545,8 +27545,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T121100Z" creationid="Ragnar-F" creationdate="20221110T121100Z">
-        <seg>Wenn die Quelldokumente Leerräume zur Gestaltung des Layouts enthalten, werden die Leerräume im übersetzten Dokument beibehalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T091039Z" creationid="Ragnar-F" creationdate="20221110T121100Z">
+        <seg>Wenn die Quelldokumente Leer- oder Tabulatorzeichen zur Gestaltung des Layouts enthalten, werden diese im übersetzten Dokument beibehalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27793,8 +27793,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T121641Z" creationid="Ragnar-F" creationdate="20221110T121621Z">
-        <seg>Wenn diese Option aktiviert ist, werden nur die vorherigen/nächsten Segmente oder ein Segmentidentifikator verwendet, um eine alternative Übersetzung zu kennzeichnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T091855Z" creationid="Ragnar-F" creationdate="20221110T121621Z">
+        <seg>Wenn diese Option aktiviert ist, werden nur die vorherigen/nächsten Segmente oder ein Segmentidentifikator verwendet, um eine alternative Übersetzung zu identifizieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28534,8 +28534,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you keep the leading and trailing tags, make sure you also include them in the translated text.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T090626Z" creationid="Ragnar-F" creationdate="20230223T090626Z">
-        <seg>Wenn Sie die führenden und nachfolgenden Tags nicht verstecken, müssen Sie darauf achten, die Tags auch in den übersetzten Text einzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T085104Z" creationid="Ragnar-F" creationdate="20230223T090626Z">
+        <seg>Wenn die führenden und nachfolgenden Tags nicht versteckt werden, muss darauf geachtet werden, dass sie auch in den übersetzten Text eingefügt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29617,8 +29617,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In non-segmented projects, disable this option to make leading and trailing whitespace modifiable in the translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T120247Z" creationid="Ragnar-F" creationdate="20221110T120247Z">
-        <seg>Wenn ein Projekt nicht segmentiert ist, bewirkt die Deaktivierung dieser Option, dass führende und nachfolgende Leerräume in der Übersetzung geändert werden können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T091114Z" creationid="Ragnar-F" creationdate="20221110T120247Z">
+        <seg>In unsegmentierten Projekten bewirkt das Deaktivieren dieser Option, dass führende und nachfolgende Leer- und Tabulatorzeichen in der Übersetzung veränderbar sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57575,8 +57575,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T125303Z" creationid="Ragnar-F" creationdate="20221110T125253Z">
-        <seg>Die Dateistruktur muss ebenfalls mit dem Filter kompatibel sein: Selbst wenn Sie &lt;l0&gt;.odt&lt;/l0&gt; mit dem XHMTL-Filter verknüpfen, kann der Filter den Inhalt einer LibreOffice Writer-Datei nicht verstehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T094008Z" creationid="Ragnar-F" creationdate="20221110T125253Z">
+        <seg>Auch die Dateistruktur muss mit dem Filter kompatibel sein: Selbst wenn Sie &lt;l0&gt;.odt&lt;/l0&gt; mit dem XHMTL-Filter verknüpfen, kann der Filter den Inhalt einer LibreOffice Writer-Datei nicht verstehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60322,8 +60322,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The source file name is one of the elements that characterize an alternative translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T121416Z" creationid="Ragnar-F" creationdate="20221110T121416Z">
-        <seg>Der Name der Quelldatei ist eines der Elemente, die eine alternative Übersetzung kennzeichnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T091529Z" creationid="Ragnar-F" creationdate="20221110T121416Z">
+        <seg>Standardmäßig ist der Name der Quelldatei eines der Elemente zur Identifizierung einer alternativen Übersetzung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64736,8 +64736,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T123717Z" creationid="Ragnar-F" creationdate="20221110T123717Z">
-        <seg>Um einen Filter mit einer Datei zu verknüpfen, überprüft OmegaT die Dateiendung und versucht, sie mit einem Quelldateinamensmuster in einem Filter abzugleichen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T092554Z" creationid="Ragnar-F" creationdate="20221110T123717Z">
+        <seg>Um einen Filter mit einer Datei zu verknüpfen, prüft OmegaT die Dateiendung und versucht, diese mit einem Quelldateinamensmuster in einem Filter abzugleichen.</seg>
       </tuv>
     </tu>
     <tu>
