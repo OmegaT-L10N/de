@@ -14471,8 +14471,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Click on the relevant header to sort them in ascending or descending order.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T231602Z" creationid="Ragnar-F" creationdate="20230126T231602Z">
-        <seg>Klicken Sie auf die entsprechende Spaltenüberschrift, um diese in aufsteigender oder absteigender Reihenfolge zu sortieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T080524Z" creationid="Ragnar-F" creationdate="20230126T231602Z">
+        <seg>Klicken Sie auf die entsprechende Spaltenüberschrift, um auf- oder absteigend zu sortieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17506,16 +17506,16 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T114741Z" creationid="Ragnar-F" creationdate="20221110T114741Z">
-        <seg>Löscht man diese Datei, werden auch die Filtereinstellungen zurückgesetzt und das Projekt wird wieder auf globale Dateifilter umgestellt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T081508Z" creationid="Ragnar-F" creationdate="20221110T114741Z">
+        <seg>Wird diese Datei gelöscht, werden die Filtereinstellungen zurückgesetzt und das Projekt verwendet wieder globale Dateifilter.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Deleting that file also resets the filter preferences.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T114633Z" creationid="Ragnar-F" creationdate="20221110T114633Z">
-        <seg>Löscht man diese Datei, werden auch die Filtereinstellungen zurückgesetzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T081518Z" creationid="Ragnar-F" creationdate="20221110T114633Z">
+        <seg>Wird diese Datei gelöscht, werden die Filtereinstellungen zurückgesetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18018,8 +18018,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Disable a filter by unchecking its box if you prefer not to translate the files that are associated to it.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T113201Z" creationid="Ragnar-F" creationdate="20221110T113201Z">
-        <seg>Deaktivieren Sie einen Filter durch Entfernen des Häkchens, wenn Sie die mit ihm verknüpften Dateien nicht übersetzen möchten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T080325Z" creationid="Ragnar-F" creationdate="20221110T113201Z">
+        <seg>Deaktivieren Sie einen Filter durch Entfernen des Häkchens, wenn Sie Dateien, die mit dem Filter verknüpft sind, nicht übersetzen möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22360,8 +22360,8 @@ Backup-Dateiendung '.recover'.</seg>
       <tuv lang="en">
         <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T112548Z" creationid="Ragnar-F" creationdate="20221110T112548Z">
-        <seg>Dateifilter sind entweder lokal und spezifisch für ein bestimmtes Projekt, oder global und für alle Projekte verfügbar, die sich einen Konfigurationsordner teilen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T080147Z" creationid="Ragnar-F" creationdate="20221110T112548Z">
+        <seg>Dateifilter sind entweder lokal und spezifisch für ein bestimmtes Projekt oder global und für alle Projekte, die sich einen Konfigurationsordner teilen, verfügbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51815,8 +51815,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T114016Z" creationid="Ragnar-F" creationdate="20221110T114016Z">
-        <seg>Einige Filter lassen sich mit der Schaltfläche &lt;g0&gt;Optionen...&lt;/g0&gt; weiter anpassen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T080727Z" creationid="Ragnar-F" creationdate="20221110T114016Z">
+        <seg>Einige Filter können über die Schaltfläche &lt;g0&gt;Optionen...&lt;/g0&gt; weiter angepasst werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57543,8 +57543,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The file contents are not encrypted.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110506Z" creationid="Ragnar-F" creationdate="20221110T110506Z">
-        <seg>Der Inhalt der Datei ist nicht verschlüsselt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T075258Z" creationid="Ragnar-F" creationdate="20221110T110506Z">
+        <seg>Der Inhalt der Datei ist unverschlüsselt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61250,8 +61250,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>Their contents will not be displayed for translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T113333Z" creationid="Ragnar-F" creationdate="20221110T113333Z">
-        <seg>Der Inhalt dieser Dateien wird bei der Übersetzung nicht angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T080501Z" creationid="Ragnar-F" creationdate="20221110T113333Z">
+        <seg>Der Inhalt dieser Dateien wird während der Übersetzung nicht angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65416,8 +65416,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T165011Z" creationid="Ragnar-F" creationdate="20221217T222040Z">
-        <seg>Um das automatische Öffnen des Projektdateien-Fensters beim Laden eines Projekts zu verhindern, suchen Sie &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; und ersetzen Sie &lt;t1&gt;true&lt;/t1&gt; mit &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T075119Z" creationid="Ragnar-F" creationdate="20221217T222040Z">
+        <seg>Um das automatische Öffnen des Projektdateien-Fensters beim Laden eines Projekts zu verhindern, suchen Sie nach &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; und ersetzen Sie &lt;t1&gt;true&lt;/t1&gt; mit &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -73672,8 +73672,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You can sort the filters by name or by whether they are enabled.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T231515Z" creationid="Ragnar-F" creationdate="20230126T231423Z">
-        <seg>Sie können die Filter nach Namen oder aktiviertem Zustand sortieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T080608Z" creationid="Ragnar-F" creationdate="20230126T231423Z">
+        <seg>Sie können die Filter nach Namen oder Aktivierungsstatus sortieren.</seg>
       </tuv>
     </tu>
     <tu>
