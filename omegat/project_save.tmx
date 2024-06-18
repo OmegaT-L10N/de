@@ -8001,8 +8001,8 @@ Dossier racine
       <tuv lang="en">
         <seg>A value of 0 sets no limits.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140717Z" creationid="Ragnar-F" creationdate="20221110T140600Z">
-        <seg>0 bedeutet unlimitiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T104109Z" creationid="Ragnar-F" creationdate="20221110T140600Z">
+        <seg>0 bedeutet unbegrenzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12743,8 +12743,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T130531Z" creationid="Ragnar-F" creationdate="20221110T130531Z">
-        <seg>Standardmäßig sind die Kodierung der Quelldatei und die Kodierung der übersetzten Dateien identisch.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T094928Z" creationid="Ragnar-F" creationdate="20221110T130531Z">
+        <seg>Standardmäßig sind die Kodierungen der Quell- und Zieldateien identisch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14087,8 +14087,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Choose here the way OmegaT creates paragraphs in your text files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140400Z" creationid="Ragnar-F" creationdate="20221110T140400Z">
-        <seg>Wählen Sie hier, wie OmegaT Absätze in Ihren Textdateien erzeugt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T104016Z" creationid="Ragnar-F" creationdate="20221110T140400Z">
+        <seg>Wählen Sie hier, wie OmegaT Absätze in Ihren Textdateien erzeugen soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22536,8 +22536,8 @@ Backup-Dateiendung '.recover'.</seg>
       <tuv lang="en">
         <seg>Files in the &lt;l0/&gt; folder are overwritten every time you create them if they are created with the same name.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T222647Z" creationid="Ragnar-F" creationdate="20221217T222647Z">
-        <seg>Dateien im Ordner &lt;l0/&gt; werden bei jeder Erstellung überschrieben, wenn sie mit demselben Namen erstellt wurden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T095706Z" creationid="Ragnar-F" creationdate="20221217T222647Z">
+        <seg>Dateien im Ordner &lt;l0/&gt; werden jedes Mal überschrieben, wenn sie generiert werden (sofern sie denselben Namen haben).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23010,8 +23010,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T134905Z" creationid="Ragnar-F" creationdate="20221110T134905Z">
-        <seg>Handelt es sich zum Beispiel um eine Quelldatei namens Dokument.xx.docx, würde die Nutzung folgender Variablenvarianten zu folgenden Ergebnissen führen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T103655Z" creationid="Ragnar-F" creationdate="20221110T134905Z">
+        <seg>Für eine Quelldatei mit dem Namen Dokument.xx.docx würde die Verwendung der folgenden Variablenvarianten zu den folgenden Ergebnissen führen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27585,8 +27585,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T232322Z" creationid="Ragnar-F" creationdate="20230126T232233Z">
-        <seg>Wenn die Nutzung mehrerer Punkte die Identifizierung des Dateinamens und der Dateiendung erschwert, können Sie Variablen in Form von &lt;l0&gt;${nameOnly-&lt;e1&gt;Nummer&lt;/e1&gt;}&lt;/l0&gt; oder &lt;l2&gt;${extension-&lt;e3&gt;Nummer&lt;/e3&gt;}&lt;/l2&gt; verwenden, um anzugeben, welche Teile zum Namen oder zur Endung gehören, wie im folgenden Beispiel gezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T102449Z" creationid="Ragnar-F" creationdate="20230126T232233Z">
+        <seg>Wenn die Verwendung von mehreren Punkten die Identifizierung des Dateinamens und der Dateiendung erschwert, können Sie Variablen in Form von &lt;l0&gt;${nameOnly-&lt;e1&gt;Nummer&lt;/e1&gt;}&lt;/l0&gt; oder &lt;l2&gt;${extension-&lt;e3&gt;Nummer&lt;/e3&gt;}&lt;/l2&gt; verwenden, um anzugeben, welche Teile zum Namen oder zur Endung gehören, wie im folgenden Beispiel gezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33651,8 +33651,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Line length in target files (0 = no limit)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T172223Z" creationid="Ragnar-F" creationdate="20221109T172223Z">
-        <seg>Zeilenlänge in Zieldateien (0 = unlimitiert)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T104038Z" creationid="Ragnar-F" creationdate="20221109T172223Z">
+        <seg>Zeilenlänge in Zieldateien (0 = unbegrenzt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36324,8 +36324,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Most file formats allow various possible encodings.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T130506Z" creationid="Ragnar-F" creationdate="20221110T130506Z">
-        <seg>Die meisten Dateiformate lassen verschiedene Kodierungen zu.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T094635Z" creationid="Ragnar-F" creationdate="20221110T130506Z">
+        <seg>Die meisten Dateiformate erlauben verschiedene Kodierungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38807,8 +38807,8 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>OmegaT can automatically create new file names for the files you create, by adding a language code or a time stamp, for example.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071552Z" creationid="Ragnar-F" creationdate="20221110T131715Z">
-        <seg>OmegaT kann automatisch neue Namen für Dateien vergeben, die Sie erstellen, indem es z.B. einen Sprachcode oder einen Zeitstempel hinzufügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T095704Z" creationid="Ragnar-F" creationdate="20221110T131715Z">
+        <seg>OmegaT kann automatisch neue Namen für die generierten Dateien vergeben, z.B. durch Anfügen eines Sprachcodes oder eines Zeitstempels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39488,8 +39488,8 @@ Software Foundation veröffentlicht wurde, entweder in Version 3 der Lizenz oder
       <tuv lang="en">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties, for example).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071549Z" creationid="Ragnar-F" creationdate="20221110T131032Z">
-        <seg>OmegaT erzwingt für einige Dateiformate (z.B. Java-Eigenschaften) eine bestimmte Kodierung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T095146Z" creationid="Ragnar-F" creationdate="20221110T131032Z">
+        <seg>OmegaT erzwingt eine bestimmte Kodierung für einige Dateiformate (z.B. Java-Eigenschaften).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50523,8 +50523,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T130904Z" creationid="Ragnar-F" creationdate="20221110T130849Z">
-        <seg>Die Auswahloption &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; überlässt OmegaT die Wahl der Kodierung, basierend auf folgenden Kriterien:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T095015Z" creationid="Ragnar-F" creationdate="20221110T130849Z">
+        <seg>Die Auswahloption &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; überlässt OmegaT die Wahl der Kodierung, basierend auf den folgenden Kriterien:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50955,8 +50955,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Several filters offer options.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T135019Z" creationid="Ragnar-F" creationdate="20221110T135019Z">
-        <seg>Mehrere Filter bieten zusätzliche Optionen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T103745Z" creationid="Ragnar-F" creationdate="20221110T135019Z">
+        <seg>Einige Filter bieten zusätzliche Optionen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54645,8 +54645,8 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
       <tuv lang="en">
         <seg>Text files do not have generic paragraph markers.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140344Z" creationid="Ragnar-F" creationdate="20221110T140344Z">
-        <seg>Textdateien haben keine generischen Absatzmarkierungen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T103945Z" creationid="Ragnar-F" creationdate="20221110T140344Z">
+        <seg>Textdateien haben keine generischen Absatzmarken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61970,8 +61970,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They will appear as separate segments in the editor.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140828Z" creationid="Ragnar-F" creationdate="20221110T140828Z">
-        <seg>Die Elemente werden im Editor als separate Segmente angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T104446Z" creationid="Ragnar-F" creationdate="20221110T140828Z">
+        <seg>Diese Elemente werden im Editor als separate Segmente angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70112,8 +70112,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Using this pattern assigns the translated file the exact same name as the source file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132642Z" creationid="Ragnar-F" creationdate="20221110T132500Z">
-        <seg>Dieses Muster bewirkt, dass der Zieldatei der Name der Quelldatei zugewiesen wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T102331Z" creationid="Ragnar-F" creationdate="20221110T132500Z">
+        <seg>Dieses Muster bewirkt, dass die Zieldatei den Namen der Quelldatei zugewiesen bekommt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80546,16 +80546,16 @@ for (i in 0 ..&lt; files.size())
       <tuv lang="en">
         <seg>specifies the maximum number of characters before breaking a long line.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140520Z" creationid="Ragnar-F" creationdate="20221110T140520Z">
-        <seg>spezifiziert die maximale Anzahl von Zeichen, bevor eine lange Zeile umgebrochen wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T104053Z" creationid="Ragnar-F" creationdate="20221110T140520Z">
+        <seg>gibt die maximale Anzahl von Zeichen an, bevor eine lange Zeile umgebrochen wird.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>specifies the maximum number of characters before cutting a line and ignoring the rest.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T140714Z" creationid="Ragnar-F" creationdate="20221110T140714Z">
-        <seg>spezifiziert die maximale Anzahl von Zeichen, bevor eine Zeile abgeschnitten und der Rest ignoriert wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T104124Z" creationid="Ragnar-F" creationdate="20221110T140714Z">
+        <seg>gibt die maximale Anzahl von Zeichen an, bevor eine Zeile abgeschnitten und der Rest ignoriert wird.</seg>
       </tuv>
     </tu>
     <tu>
