@@ -10709,8 +10709,8 @@ Dossier racine
       <tuv lang="en">
         <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T232922Z" creationid="Ragnar-F" creationdate="20230126T232922Z">
-        <seg>Beim Laden werden alle Absätze, die dem regulären Ausdruck entsprechen, ignoriert und nicht zum Übersetzen angeboten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T105657Z" creationid="Ragnar-F" creationdate="20230126T232922Z">
+        <seg>Beim Laden werden alle Absätze, die dem regulären Ausdruck entsprechen, ignoriert und nicht zur Übersetzung angeboten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12071,8 +12071,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Blank source segments sometimes act as placeholders for parts that do not exist in the source language but are necessary in the target language.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T205702Z" creationid="Ragnar-F" creationdate="20221110T150101Z">
-        <seg>Leere Quelltexte dienen manchmal als Platzhalter für Abschnitte, die es in der Quellsprache nicht gibt, die aber in der Zielsprache notwendig sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T113356Z" creationid="Ragnar-F" creationdate="20221110T150101Z">
+        <seg>Leere Quelltexte agieren manchmal als Platzhalter für Abschnitte, die in der Quellsprache nicht vorhanden sind, aber in der Zielsprache benötigt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12503,8 +12503,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T090209Z" creationid="Ragnar-F" creationdate="20221110T115619Z">
-        <seg>Standardmäßig entfernt OmegaT alle führenden und nachfolgenden Leer- und Tabulatorzeichen aus den übersetzbaren Inhalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T104538Z" creationid="Ragnar-F" creationdate="20221110T115619Z">
+        <seg>Standardmäßig entfernt OmegaT alle führenden und nachfolgenden Leerräume (Leerzeichen, Zeilenumbrüche usw.) aus den übersetzbaren Inhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15029,8 +15029,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Comments in an HTML file are generally addressed to developers.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T090641Z" creationid="Ragnar-F" creationdate="20230223T090641Z">
-        <seg>Kommentare in einer HTML-Datei sind in der Regel nur für Entwickler interessant.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T111438Z" creationid="Ragnar-F" creationdate="20230223T090641Z">
+        <seg>Kommentare in einer HTML-Datei sind normalerweise nur für Entwickler von Interesse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25391,8 +25391,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Here, you can decide whether to add or modify the declaration of the target file</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T144641Z" creationid="Ragnar-F" creationdate="20221110T144641Z">
-        <seg>Hier können Sie einstellen, ob die Deklaration der Zieldatei hinzugefügt oder geändert werden soll</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T110709Z" creationid="Ragnar-F" creationdate="20221110T144641Z">
+        <seg>Hier können Sie festlegen, ob die Deklaration der Zieldatei hinzugefügt oder geändert werden soll</seg>
       </tuv>
     </tu>
     <tu>
@@ -27545,8 +27545,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T091039Z" creationid="Ragnar-F" creationdate="20221110T121100Z">
-        <seg>Wenn die Quelldokumente Leer- oder Tabulatorzeichen zur Gestaltung des Layouts enthalten, werden diese im übersetzten Dokument beibehalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T104607Z" creationid="Ragnar-F" creationdate="20221110T121100Z">
+        <seg>Wenn die Quelldokumente Leerräume (Leerzeichen, Zeilenumbrüche usw.) zur Gestaltung des Layouts enthalten, werden diese im übersetzten Dokument beibehalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29617,8 +29617,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In non-segmented projects, disable this option to make leading and trailing whitespace modifiable in the translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T091114Z" creationid="Ragnar-F" creationdate="20221110T120247Z">
-        <seg>In unsegmentierten Projekten bewirkt das Deaktivieren dieser Option, dass führende und nachfolgende Leer- und Tabulatorzeichen in der Übersetzung veränderbar sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T104553Z" creationid="Ragnar-F" creationdate="20221110T120247Z">
+        <seg>In unsegmentierten Projekten bewirkt das Deaktivieren dieser Option, dass führende und nachfolgende Leerräume in der Übersetzung veränderbar sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31804,8 +31804,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It is called the &lt;e2&gt;writable&lt;/e2&gt; glossary for this reason.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T223030Z" creationid="Ragnar-F" creationdate="20221217T223030Z">
-        <seg>Deshalb wird es auch als &lt;e2&gt;beschreibbares&lt;/e2&gt; Glossar bezeichnet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T115203Z" creationid="Ragnar-F" creationdate="20221217T223030Z">
+        <seg>Es wird daher auch als &lt;e2&gt;beschreibbares&lt;/e2&gt; Glossar bezeichnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32464,8 +32464,8 @@ Computer und das Programm selbst installiert.</seg>
       <tuv lang="en">
         <seg>Java 9 and above requires UTF-8 encoding.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T150704Z" creationid="Ragnar-F" creationdate="20221110T150704Z">
-        <seg>Java 9 und höher benötigt die UTF-8-Kodierung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T113606Z" creationid="Ragnar-F" creationdate="20221110T150704Z">
+        <seg>Java 9 oder höher benötigt die UTF-8-Kodierung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42218,8 +42218,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Override the plural specification in the header and use the target language default.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T150328Z" creationid="Ragnar-F" creationdate="20221110T150328Z">
-        <seg>Überschreiben Sie die Pluralspezifikation im Header und verwenden Sie den Zielsprachenstandard.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T113516Z" creationid="Ragnar-F" creationdate="20221110T150328Z">
+        <seg>Überschreibt die Pluralspezifikation im Header und verwendet den Zielsprachenstandard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51767,8 +51767,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Some applications require some Unicode literals to be kept.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T150754Z" creationid="Ragnar-F" creationdate="20221110T150754Z">
-        <seg>Einige Applikationen erfordern die Beibehaltung einiger Unicode-Literale.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T113616Z" creationid="Ragnar-F" creationdate="20221110T150754Z">
+        <seg>Einige Applikationen erfordern die Beibehaltung bestimmter Unicode-Literale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54669,8 +54669,8 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
       <tuv lang="en">
         <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) are not copied into the translated document.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T091004Z" creationid="Ragnar-F" creationdate="20230223T091004Z">
-        <seg>Texte in den HTML-Kommentaren (zwischen &lt;l0&gt;&lt;!--&lt;/l0&gt; und &lt;l1&gt;--&gt;&lt;/l1&gt;) werden nicht in das übersetzte Dokument kopiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T112326Z" creationid="Ragnar-F" creationdate="20230223T091004Z">
+        <seg>Der Text in den HTML-Kommentaren (zwischen &lt;l0&gt;&lt;!--&lt;/l0&gt; und &lt;l1&gt;--&gt;&lt;/l1&gt;) wird nicht in das übersetzte Dokument übernommen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57671,16 +57671,16 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071556Z" creationid="Ragnar-F" creationdate="20221110T150600Z">
-        <seg>Der Filter überprüft standardmäßig Java-MessageFormat-Muster (z.B. \{0\}).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T113541Z" creationid="Ragnar-F" creationdate="20221110T150600Z">
+        <seg>Der Filter prüft standardmäßig Java-MessageFormat-Muster (z.B. \{0\}).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The filter checks printf variables ('%s', etc.) by default.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071553Z" creationid="Ragnar-F" creationdate="20221110T145529Z">
-        <seg>Der Filter überprüft standardmäßig printf-Variablen (z.B. %s).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T112351Z" creationid="Ragnar-F" creationdate="20221110T145529Z">
+        <seg>Der Filter prüft standardmäßig printf-Variablen (z.B. %s).</seg>
       </tuv>
     </tu>
     <tu>
@@ -63860,8 +63860,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This option allows for that.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T150810Z" creationid="Ragnar-F" creationdate="20221110T150810Z">
-        <seg>Diese Option ermöglicht das.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T113713Z" creationid="Ragnar-F" creationdate="20221110T150810Z">
+        <seg>Diese Option ermöglicht dies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63956,8 +63956,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This option is convenient when dealing with HTML parts that only contain non translatable text.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T143400Z" creationid="Ragnar-F" creationdate="20221110T143400Z">
-        <seg>Diese Option ist praktisch, wenn Sie mit HTML-Abschnitten arbeiten, die unübersetzbare Texte enthalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T110431Z" creationid="Ragnar-F" creationdate="20221110T143400Z">
+        <seg>Diese Option ist nützlich, wenn Sie mit HTML-Abschnitten arbeiten, die unübersetzbaren Text enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69750,8 +69750,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T065618Z" creationid="Ragnar-F" creationdate="20221217T222933Z">
-        <seg>Der Benutzer kann zwischen drei Optionen wählen: vorheriger und nächster Absatz, &lt;trans-unit&gt;-ID, oder &lt;trans-unit&gt;-resname-Attribut, sofern verfügbar (ist es nicht verfügbar, wird die ID als Fallback verwendet).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T113931Z" creationid="Ragnar-F" creationdate="20221217T222933Z">
+        <seg>Der Benutzer kann zwischen drei Optionen wählen: vorheriger und nächster Absatz, &lt;trans-unit&gt;-ID, oder &lt;trans-unit&gt;-resname-Attribut sofern verfügbar (wenn nicht verfügbar, wird die ID als Fallback verwendet).</seg>
       </tuv>
     </tu>
     <tu>
@@ -71362,8 +71362,8 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       <tuv lang="en">
         <seg>Whitespace (i.e., spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T142524Z" creationid="Ragnar-F" creationdate="20221110T142524Z">
-        <seg>Leerräume (Leerzeichen, Zeilenumbrüche usw.) werden beibehalten, selbst wenn diese Option im Dokument nicht definiert ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T104808Z" creationid="Ragnar-F" creationdate="20221110T142524Z">
+        <seg>Leerräume (Leerzeichen, Zeilenumbrüche usw.) werden beibehalten, auch wenn diese Option im Dokument nicht definiert ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71386,8 +71386,8 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       <tuv lang="en">
         <seg>Whitespace outside the tags is considered non significant in HTML/XHTML.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T144942Z" creationid="Ragnar-F" creationdate="20221110T144942Z">
-        <seg>Leerräume außerhalb der Tags werden in HTML/XHTML als unbedeutend angesehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T111405Z" creationid="Ragnar-F" creationdate="20221110T144942Z">
+        <seg>Leerräume (Leerzeichen, Zeilenumbrüche usw.) außerhalb von Tags werden in HTML/XHTML als unbedeutend angesehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75163,8 +75163,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>always, based on the file filter settings,</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T144708Z" creationid="Ragnar-F" creationdate="20221110T144708Z">
-        <seg>immer, basierend auf den Einstellungen des Dateifilters,</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T110950Z" creationid="Ragnar-F" creationdate="20221110T144708Z">
+        <seg>immer, abhängig von den Dateifiltereinstellungen,</seg>
       </tuv>
     </tu>
     <tu>
@@ -81220,8 +81220,8 @@ for (i in 0 ..&lt; files.size())
       <tuv lang="en">
         <seg>use:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221110T144112Z" creationid="Ragnar-F" creationdate="20221110T143943Z">
-        <seg>können Sie Folgendes nutzen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T110612Z" creationid="Ragnar-F" creationdate="20221110T143943Z">
+        <seg>können Sie folgendes verwenden:</seg>
       </tuv>
     </tu>
     <tu>
