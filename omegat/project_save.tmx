@@ -8065,8 +8065,8 @@ Dossier racine
       <tuv lang="en">
         <seg>A writable glossary created for the project by OmegaT will be a TSV file saved in UTF-8.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T235335Z" creationid="Ragnar-F" creationdate="20221121T235335Z">
-        <seg>Ein beschreibbares Glossar, das von OmegaT für das Projekt erstellt wird, wird als UTF-8-kodierte TSV-Datei gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T135954Z" creationid="Ragnar-F" creationdate="20221121T235335Z">
+        <seg>Das von OmegaT erstellte beschreibbare Glossar ist eine TSV-Datei mit UTF-8-Kodierung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24474,8 +24474,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX 2) format.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T091029Z" creationid="Ragnar-F" creationdate="20230223T091029Z">
-        <seg>Glossare können Dateien mit tabulatorgetrennten Werten (TSV) oder kommagetrennten Werten (CSV) sein oder auch das TermBase-eXchange-Format (TBX 2) verwenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T135648Z" creationid="Ragnar-F" creationdate="20230223T091029Z">
+        <seg>Glossare können TSV-Dateien (TSV = tab-separated values), CSV-Dateien (CSV = comma-separated values) oder im TermBase-eXchange-Format (TBX 2) sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57407,8 +57407,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The encoding used to read reference glossaries depends on their file extension:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T235556Z" creationid="Ragnar-F" creationdate="20221121T235556Z">
-        <seg>Die Kodierung, die zum Lesen von Referenzglossaren verwendet wird, hängt von deren Dateiendung ab:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T140442Z" creationid="Ragnar-F" creationdate="20221121T235556Z">
+        <seg>Die zum Lesen von Referenzglossaren verwendete Kodierung hängt von der Dateiendung ab:</seg>
       </tuv>
     </tu>
     <tu>
@@ -69878,8 +69878,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>User-created files that use only latin characters may be recognized and treated as ISO-8859-1 if it does not contain non-ASCII characters or other characters interpreted as UTF-8.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T235524Z" creationid="Ragnar-F" creationdate="20221121T235524Z">
-        <seg>Benutzerdefinierte Dateien, die nur lateinische Zeichen verwenden, werden eventuell erkannt und als ISO-8859-1 behandelt, wenn sie keine ASCII-fremden Zeichen oder andere Zeichen enthalten, die als UTF-8 interpretiert werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T140246Z" creationid="Ragnar-F" creationdate="20221121T235524Z">
+        <seg>Vom Benutzer erstellte Dateien, die nur lateinische Zeichen verwenden, können als ISO-8859-1 erkannt und behandelt werden, wenn sie keine ASCII-fremden oder andere als UTF-8 interpretierte Zeichen enthalten.</seg>
       </tuv>
     </tu>
     <tu>
