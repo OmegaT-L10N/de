@@ -2495,8 +2495,8 @@ java.exe.</seg>
       <tuv lang="en">
         <seg>(You can still add it, but it will have no effect on the expression or the result.)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T132704Z" creationid="Ragnar-F" creationdate="20221111T131131Z">
-        <seg>(Sie können den Schrägstrich trotzdem hinzufügen, aber er hat keine Auswirkungen auf den Ausdruck oder das Ergebnis).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T132708Z" creationid="Ragnar-F" creationdate="20221111T131131Z">
+        <seg>(Sie können den Schrägstrich trotzdem hinzufügen, aber er hat keinen Einfluss auf den Ausdruck oder das Ergebnis.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19114,8 +19114,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Doubled up words separated by a space, such as the consecutive “an” in the following sentence:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071611Z" creationid="Ragnar-F" creationdate="20221111T124324Z">
-        <seg>Doppelte Wörter, die mit einem Leerzeichen voneinander getrennt sind, wie z.B. das doppelte "an" im folgenden Satz:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T131150Z" creationid="Ragnar-F" creationdate="20221111T124324Z">
+        <seg>Doppelte Wörter, die mit einem Leerzeichen voneinander getrennt sind, z.B. das doppelte "an" im folgenden Satz:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28702,16 +28702,16 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you only want to match the closing brace as itself, you do not need to precede it with a backslash.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T132640Z" creationid="Ragnar-F" creationdate="20221111T132640Z">
-        <seg>Wenn Sie nur die schließende geschweifte Klammer finden wollen, müssen Sie ihr keinen umgekehrten Schrägstrich voranstellen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T135313Z" creationid="Ragnar-F" creationdate="20221111T132640Z">
+        <seg>Um die schließende geschweifte Klammer selbst zu finden, muss ihr kein umgekehrter Schrägstrich vorangestellt werden.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If you only want to match the closing bracket as itself, you do not need to precede it with a backslash.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T131115Z" creationid="Ragnar-F" creationdate="20221111T131115Z">
-        <seg>Wenn Sie nur die schließende eckige Klammer finden wollen, müssen Sie ihr keinen umgekehrten Schrägstrich voranstellen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T132650Z" creationid="Ragnar-F" creationdate="20221111T131115Z">
+        <seg>Um die schließende eckige Klammer selbst zu finden, muss ihr kein umgekehrter Schrägstrich vorangestellt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31996,8 +31996,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It is special because it can never be used on its own.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T124856Z" creationid="Ragnar-F" creationdate="20221111T124856Z">
-        <seg>Es ist besonders, weil es niemals allein verwendet werden kann.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T131320Z" creationid="Ragnar-F" creationdate="20221111T124856Z">
+        <seg>Es ist besonders, weil es nie allein verwendet werden kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32100,8 +32100,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It must be preceded by the &lt;l0&gt;\&lt;/l0&gt; if you need to match the closing parenthesis character itself.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T125050Z" creationid="Ragnar-F" creationdate="20221111T125050Z">
-        <seg>Um die schließende runde Klammer selbst zu finden, müssen Sie ihr das Zeichen &lt;l0&gt;\&lt;/l0&gt; voranstellen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T131634Z" creationid="Ragnar-F" creationdate="20221111T125050Z">
+        <seg>Um die schließende runde Klammer selbst zu finden, muss ihr ein &lt;l0&gt;\&lt;/l0&gt; vorangestellt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36260,8 +36260,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>More egregious misspellings such as “licensse” or “lissense”.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232649Z" creationid="Ragnar-F" creationdate="20221217T232649Z">
-        <seg>Krassere Falschschreibungen wie "licensse" oder "lissense".</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T134031Z" creationid="Ragnar-F" creationdate="20221217T232649Z">
+        <seg>Grobe Falschschreibungen wie "licensse" oder "lissense".</seg>
       </tuv>
     </tu>
     <tu>
@@ -38311,8 +38311,8 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Numbers such as “1.5”, “23.2” or “5235.8” with a single decimal place and any number of digits before the decimal point.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T123012Z" creationid="Ragnar-F" creationdate="20221111T123012Z">
-        <seg>Zahlen wie "1.5", "23.2" oder "5235.8" mit einer Dezimalstelle und einer beliebigen Anzahl von Ziffern vor dem Dezimalpunkt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T130704Z" creationid="Ragnar-F" creationdate="20221111T123012Z">
+        <seg>Zahlen wie "1.5", "23.2" oder "5235.8" mit einer Dezimalstelle und beliebig vielen Ziffern vor dem Dezimalpunkt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41026,8 +41026,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Only the initial “run” in those phrases is matched.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T122744Z" creationid="Ragnar-F" creationdate="20221111T122744Z">
-        <seg>Nur das initiale "run" in diesen Sätzen wird gefunden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T125902Z" creationid="Ragnar-F" creationdate="20221111T122744Z">
+        <seg>Nur das anfängliche "run" in diesen Sätzen wird gefunden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41042,16 +41042,16 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Only the opening brace is special and needs to be preceded by a backslash to search for the brace character itself.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T132618Z" creationid="Ragnar-F" creationdate="20221111T132618Z">
-        <seg>Nur die öffnende geschweifte Klammer ist besonders und muss mit einem umgekehrten Schrägstrich vorangestellt werden, wenn sie gefunden werden soll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T134742Z" creationid="Ragnar-F" creationdate="20221111T132618Z">
+        <seg>Nur die öffnende geschweifte Klammer ist besonders und muss einen umgekehrten Schrägstrich davor haben, um gefunden zu werden.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Only the opening bracket is special and needs to be preceded by a backslash to search for the bracket character itself.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T130933Z" creationid="Ragnar-F" creationdate="20221111T130834Z">
-        <seg>Nur die öffnende eckige Klammer ist besonders und muss mit einem umgekehrten Schrägstrich vorangestellt werden, wenn sie gefunden werden soll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T132216Z" creationid="Ragnar-F" creationdate="20221111T130834Z">
+        <seg>Nur die öffnende eckige Klammer ist besonders und muss einen umgekehrten Schrägstrich davor haben, um gefunden zu werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56811,8 +56811,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The complete phrase in “run-on” or “run'n'gun”, because the hyphen and apostrophe are not included in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T122542Z" creationid="Ragnar-F" creationdate="20221111T122542Z">
-        <seg>Den vollständigen Satz in "run-on" oder "run'n'gun", weil der Bindestrich und Apostroph nicht in &lt;l0&gt;\w&lt;/l0&gt; enthalten sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T125952Z" creationid="Ragnar-F" creationdate="20221111T122542Z">
+        <seg>Den vollständigen Satz in "run-on" oder "run'n'gun", da der Bindestrich und der Apostroph nicht in &lt;l0&gt;\w&lt;/l0&gt; enthalten sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56957,8 +56957,8 @@ Konfigurationsordner selbst verwendet.</seg>
       <tuv lang="en">
         <seg>The correct “licence” and “license” spellings, as well as the potential “lisence” and “lisense” misspellings</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232639Z" creationid="Ragnar-F" creationdate="20221217T232639Z">
-        <seg>Die korrekte Schreibweise von "licence" und "license" sowie die möglichen Falschschreibungen von "lisence" und "lisense"</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T134013Z" creationid="Ragnar-F" creationdate="20221217T232639Z">
+        <seg>Die korrekte Schreibweise von "licence" und "license" sowie mögliche Falschschreibungen wie "lisence" oder "lisense"</seg>
       </tuv>
     </tu>
     <tu>
@@ -60106,8 +60106,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The sequence number (including the parenthesis) at the beginning of each line in a list such as:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071628Z" creationid="Ragnar-F" creationdate="20221111T125525Z">
-        <seg>Die Ordnungszahlen (einschließlich der runden Klammern) am Anfang jeder Zeile einer Liste wie zum Beispiel:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T131714Z" creationid="Ragnar-F" creationdate="20221111T125525Z">
+        <seg>Die Ordnungszahlen (einschließlich der runden Klammern) am Anfang jeder Zeile einer Liste, zum Beispiel:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62372,8 +62372,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This character closes a group.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T124822Z" creationid="Ragnar-F" creationdate="20221111T124822Z">
-        <seg>Dieses Zeichen schließt eine Gruppe.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T131303Z" creationid="Ragnar-F" creationdate="20221111T124822Z">
+        <seg>Dieses Zeichen beendet eine Gruppe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62396,16 +62396,16 @@ the server.</seg>
       <tuv lang="en">
         <seg>This character must be paired with the closing curly brace to encloses an &lt;e0&gt;exact number&lt;/e0&gt;, &lt;e1&gt;minimum&lt;/e1&gt;, &lt;e2&gt;maximum&lt;/e2&gt;, or &lt;e3&gt;range&lt;/e3&gt; specifying how many instances of the preceding character or group should be matched.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T132555Z" creationid="Ragnar-F" creationdate="20221111T132555Z">
-        <seg>Dieses Zeichen muss mit der schließenden geschweiften Klammer kombiniert werden, um eine &lt;e0&gt;genaue Anzahl&lt;/e0&gt;, ein &lt;e1&gt;Minimum&lt;/e1&gt;, ein &lt;e2&gt;Maximum&lt;/e2&gt; oder einen &lt;e3&gt;Zahlenbereich&lt;/e3&gt; zu umschließen. Diese geben an, wie viele Instanzen des vorherigen Zeichens oder der vorherigen Gruppe gefunden werden sollen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T134200Z" creationid="Ragnar-F" creationdate="20221111T132555Z">
+        <seg>Dieses Zeichen muss zusammen mit der schließenden geschweiften Klammer verwendet werden, um eine &lt;e0&gt;genaue Anzahl&lt;/e0&gt;, ein &lt;e1&gt;Minimum&lt;/e1&gt;, ein &lt;e2&gt;Maximum&lt;/e2&gt; oder einen &lt;e3&gt;Zahlenbereich&lt;/e3&gt; zu umschließen. Diese geben an, wie viele Instanzen des vorherigen Zeichens oder der vorherigen Gruppe gefunden werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This character must be paired with the closing square bracket to enclose a set of individual characters that each represent a valid potential match.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T130726Z" creationid="Ragnar-F" creationdate="20221111T130726Z">
-        <seg>Dieses Zeichen muss mit der schließenden eckigen Klammer kombiniert werden, um eine Reihe von einzelnen Zeichen zu umschließen, die jeweils eine potenzielle Übereinstimmung darstellen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T131918Z" creationid="Ragnar-F" creationdate="20221111T130726Z">
+        <seg>Dieses Zeichen muss zusammen mit der schließenden eckigen Klammer verwendet werden, um mehrere einzelne Zeichen zu umschließen, von denen jedes eine potenzielle Übereinstimmung darstellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62420,8 +62420,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This character specifies that one or more instances of the preceding character or expression should be matched.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T122819Z" creationid="Ragnar-F" creationdate="20221111T122819Z">
-        <seg>Dieses Zeichen bewirkt, dass entweder eine oder mehrere Instanzen des vorangehenden Zeichens oder Ausdrucks gefunden werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T130020Z" creationid="Ragnar-F" creationdate="20221111T122819Z">
+        <seg>Dieses Zeichen bewirkt, dass eine oder mehrere Instanzen des vorherigen Zeichens oder Ausdrucks gefunden werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62436,8 +62436,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This character starts a &lt;e0&gt;group&lt;/e0&gt;, which is a set of characters treated as a single unit.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T123513Z" creationid="Ragnar-F" creationdate="20221111T123513Z">
-        <seg>Dieses Zeichen leitet eine &lt;e0&gt;Gruppe&lt;/e0&gt; ein; also eine Gruppe von Zeichen, die als eine Einheit behandelt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T130946Z" creationid="Ragnar-F" creationdate="20221111T123513Z">
+        <seg>Dieses Zeichen beginnt eine &lt;e0&gt;Gruppe&lt;/e0&gt;, d.h. mehrere Zeichen, die als eine Einheit behandelt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66668,8 +66668,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Trying to use only the opening or closing parenthesis on its own will cause an error.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T124125Z" creationid="Ragnar-F" creationdate="20221111T124125Z">
-        <seg>Der Versuch, eine runde Klammer ohne ihr Gegenstück zu benutzen, löst einen Fehler aus.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T131058Z" creationid="Ragnar-F" creationdate="20221111T124125Z">
+        <seg>Der Versuch, eine runde Klammer ohne ihr Gegenstück zu verwenden, löst einen Fehler aus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68828,8 +68828,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232632Z" creationid="Ragnar-F" creationdate="20221217T232632Z">
-        <seg>Verwenden Sie &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, wobei &lt;o3&gt;n&lt;/o3&gt; die Nummer der Gruppe ist, die in der Suche definiert wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T131027Z" creationid="Ragnar-F" creationdate="20221217T232632Z">
+        <seg>Verwenden Sie &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, wobei &lt;o3&gt;n&lt;/o3&gt; die Nummer der in der Suche definierten Gruppe ist.</seg>
       </tuv>
     </tu>
     <tu>
