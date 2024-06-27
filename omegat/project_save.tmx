@@ -7785,8 +7785,8 @@ Dossier racine
       <tuv lang="en">
         <seg>A number of characters or combinations of characters have a special meaning in a regular expression.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T101940Z" creationid="Ragnar-F" creationdate="20221111T101940Z">
-        <seg>Eine Vielzahl von Zeichen oder Zeichenkombinationen haben eine besondere Bedeutung in regulären Ausdrücken.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T114419Z" creationid="Ragnar-F" creationdate="20221111T101940Z">
+        <seg>Eine Vielzahl von Zeichen oder Zeichenkombinationen haben in regulären Ausdrücken eine besondere Bedeutung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23362,8 +23362,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, the seven letters spelling out the word “&lt;e0&gt;example&lt;/e0&gt;” simply tell the search function to match exactly those letters, in that order.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T103405Z" creationid="Ragnar-F" creationdate="20221111T103405Z">
-        <seg>Die acht Buchstaben des Wortes "&lt;e0&gt;Beispiel&lt;/e0&gt;" bewirken zum Beispiel, dass die Suchfunktion genau diese Buchstaben in dieser Reihenfolge finden soll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T114834Z" creationid="Ragnar-F" creationdate="20221111T103405Z">
+        <seg>Zum Beispiel bewirken die acht Buchstaben des Wortes "&lt;e0&gt;Beispiel&lt;/e0&gt;", dass die Suchfunktion genau diese Buchstaben in dieser Reihenfolge versucht zu finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34715,8 +34715,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Many OmegaT functions rely on regular expressions or make them available as an option:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T085636Z" creationid="Ragnar-F" creationdate="20221111T085636Z">
-        <seg>Viele OmegaT-Funktionen verwenden reguläre Ausdrücke oder stellen sie als Option zur Verfügung:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T113156Z" creationid="Ragnar-F" creationdate="20221111T085636Z">
+        <seg>Viele OmegaT-Funktionen verwenden reguläre Ausdrücke oder bieten diese als Option an:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45222,16 +45222,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regular expressions are used to find text, including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071606Z" creationid="Ragnar-F" creationdate="20221217T231918Z">
-        <seg>Reguläre Ausdrücke werden verwendet, um Texte zu finden, einschließlich Zeichen, die auf dem Bildschirm oder beim Ausdruck nicht sichtbar sind, wie z.B. Leerzeichen, Tabulatorzeichen oder Zeilenumbrüche.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T114311Z" creationid="Ragnar-F" creationdate="20221217T231918Z">
+        <seg>Reguläre Ausdrücke werden verwendet, um Texte zu finden, einschließlich Zeichen, die auf dem Bildschirm oder im Ausdruck nicht sichtbar sind, wie z.B. Leerzeichen, Tabulatorzeichen oder Zeilenumbrüche.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regular expressions only match text.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T101958Z" creationid="Ragnar-F" creationdate="20221111T101958Z">
-        <seg>Reguläre Ausdrücke finden nur Text.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T114429Z" creationid="Ragnar-F" creationdate="20221111T101958Z">
+        <seg>Reguläre Ausdrücke finden ausschließlich Text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48307,8 +48307,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Searches include a &lt;l0/&gt; option that allows you to make extremely powerful searches across your files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230516T143721Z" creationid="Ragnar-F" creationdate="20230516T143721Z">
-        <seg>Die Suche bietet die Option &lt;l0/&gt;, mit der Sie Ihre Dateien mit hoher Effizienz durchsuchen können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T113346Z" creationid="Ragnar-F" creationdate="20230516T143721Z">
+        <seg>Die Suche bietet die Option &lt;l0/&gt;, mit der Sie Ihre Dateien effizient durchsuchen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51411,8 +51411,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Simply put, the search just looks for the word “&lt;e1&gt;example&lt;/e1&gt;”.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T103608Z" creationid="Ragnar-F" creationdate="20221111T103608Z">
-        <seg>Es wird einfach nach dem Wort "&lt;e1&gt;Beispiel&lt;/e1&gt;" gesucht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T114856Z" creationid="Ragnar-F" creationdate="20221111T103608Z">
+        <seg>Das heißt, es wird einfach nach dem Wort "&lt;e1&gt;Beispiel&lt;/e1&gt;" gesucht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55398,8 +55398,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; preference allows you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T230315Z" creationid="Ragnar-F" creationdate="20221217T230315Z">
-        <seg>Die &lt;l0/&gt;-Einstellung ermöglicht es Ihnen, Zeichenketten zu definieren, die OmegaT standardmäßig rot markiert und zu Validierungszwecken als überschüssige Tags behandelt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T113625Z" creationid="Ragnar-F" creationdate="20221217T230315Z">
+        <seg>Mit der Einstellung &lt;l0/&gt; können Sie Zeichenketten definieren, die OmegaT standardmäßig rot markiert und für Validierungszwecke als überflüssige Tags behandelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55438,8 +55438,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; setting allows you to define strings that OmegaT will highlight in the aligned documents.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T231717Z" creationid="Ragnar-F" creationdate="20221217T231717Z">
-        <seg>Mit der &lt;l0/&gt;-Einstellung können Sie Zeichenketten festlegen, die OmegaT in den ausgerichteten Dokumenten hervorheben soll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T114015Z" creationid="Ragnar-F" creationdate="20221217T231717Z">
+        <seg>Mit der Einstellung&lt;l0/&gt; können Sie Zeichenketten festlegen, die OmegaT in den ausgerichteten Dokumenten hervorheben soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59722,8 +59722,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The same option in the &lt;l0/&gt; dialog allows you to apply regular expressions to both the search and replaced text.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T091632Z" creationid="Ragnar-F" creationdate="20221111T091632Z">
-        <seg>Das Dialogfenster &lt;l0/&gt; besitzt dieselbe Option, mit der Sie reguläre Ausdrücke sowohl auf den gesuchten als auch auf den ersetzten Text anwenden können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T113528Z" creationid="Ragnar-F" creationdate="20221111T091632Z">
+        <seg>Das Dialogfenster &lt;l0/&gt; bietet die gleiche Option, mit der Sie reguläre Ausdrücke sowohl auf den gesuchten als auch auf den ersetzten Text anwenden können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61898,8 +61898,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They cannot match decorations such as &lt;e0&gt;bold&lt;/e0&gt;, &lt;e1&gt;italics&lt;/e1&gt;, or other &lt;e2&gt;stylistic effects&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T102653Z" creationid="Ragnar-F" creationdate="20221111T102653Z">
-        <seg>Sie können keine Schriftauszeichnungen wie &lt;e0&gt;fett&lt;/e0&gt;, &lt;e1&gt;kursiv&lt;/e1&gt; oder &lt;e2&gt;andere stilistische Effekte&lt;/e2&gt; finden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T114641Z" creationid="Ragnar-F" creationdate="20221111T102653Z">
+        <seg>Sie finden keine Schriftauszeichnungen wie &lt;e0&gt;fett&lt;/e0&gt;, &lt;e1&gt;kursiv&lt;/e1&gt; oder &lt;e2&gt;andere stilistische Effekte&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66716,8 +66716,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Two regular expressions are required to define that position: a “before” expression to define the text pattern ahead of where the rule should apply, and an “after” expression to define the text pattern following that position.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T095315Z" creationid="Ragnar-F" creationdate="20221111T095315Z">
-        <seg>Um diese Position zu definieren, sind zwei reguläre Ausdrücke erforderlich: ein "davor"-Ausdruck, um das Textmuster vor der Position zu definieren, auf die die Regel angewendet werden soll, und ein "danach"-Ausdruck, um das Textmuster nach dieser Position zu definieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T114217Z" creationid="Ragnar-F" creationdate="20221111T095315Z">
+        <seg>Um diese Position zu definieren, werden zwei reguläre Ausdrücke benötigt: ein "davor"-Ausdruck, um das Textmuster vor der Position zu definieren, auf die die Regel angewendet werden soll, und ein "danach"-Ausdruck, um das Textmuster nach dieser Position zu definieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73472,8 +73472,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You can modify them freely to improve the segmentation of a document or add additional general rules.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T094924Z" creationid="Ragnar-F" creationdate="20221111T094924Z">
-        <seg>Sie können diese nach Belieben ändern, um die Segmentierung eines Dokuments zu verbessern oder zusätzliche Grundregeln hinzuzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T114100Z" creationid="Ragnar-F" creationdate="20221111T094924Z">
+        <seg>Sie können diese nach Belieben ändern, um die Segmentierung eines Dokuments zu verbessern oder um weitere Grundregeln hinzuzufügen.</seg>
       </tuv>
     </tu>
     <tu>
