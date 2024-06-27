@@ -6669,8 +6669,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T121246Z" creationid="Ragnar-F" creationdate="20221111T121202Z">
-        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (wobei "␣" ein einzelnes Leerzeichen repräsentiert).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T124333Z" creationid="Ragnar-F" creationdate="20221111T121202Z">
+        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (wobei "␣" für ein einzelnes Leerzeichen steht).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7641,16 +7641,16 @@ Dossier racine
       <tuv lang="en">
         <seg>A line that consists of a single word and ends with a colon:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T120247Z" creationid="Ragnar-F" creationdate="20221111T120247Z">
-        <seg>Eine Zeile, die aus einem einzigen Wort besteht und mit einem Doppelpunkt endet:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T122850Z" creationid="Ragnar-F" creationdate="20221111T120247Z">
+        <seg>Eine Zeile, die nur aus einem einzigen Wort besteht und mit einem Doppelpunkt endet:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>A line that consists of a single word, but does not end in a colon:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T120307Z" creationid="Ragnar-F" creationdate="20221111T120307Z">
-        <seg>Eine Zeile, die aus einem einzigen Wort besteht, aber nicht mit einem Doppelpunkt endet:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T122932Z" creationid="Ragnar-F" creationdate="20221111T120307Z">
+        <seg>Eine Zeile, die nur aus einem einzigen Wort besteht, aber nicht mit einem Doppelpunkt endet:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7777,8 +7777,8 @@ Dossier racine
       <tuv lang="en">
         <seg>A number between &lt;e0&gt;0.0&lt;/e0&gt; and &lt;e1&gt;0.9&lt;/e1&gt;, or just the final &lt;e2&gt;0.5&lt;/e2&gt; in numbers such as 10.5 or 560.5.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071609Z" creationid="Ragnar-F" creationdate="20221217T232232Z">
-        <seg>Eine Zahl zwischen &lt;e0&gt;0.0&lt;/e0&gt; und &lt;e1&gt;0.9&lt;/e1&gt;, oder eine Zahl, die mit &lt;e2&gt;0.5&lt;/e2&gt; endet, wie z.B. 10.5 oder 560.5.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T121804Z" creationid="Ragnar-F" creationdate="20221217T232232Z">
+        <seg>Eine Zahl zwischen &lt;e0&gt;0.0&lt;/e0&gt; und &lt;e1&gt;0.9&lt;/e1&gt; oder eine Zahl, die mit &lt;e2&gt;0.5&lt;/e2&gt; endet, z.B. 10.5 oder 560.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10653,8 +10653,8 @@ Dossier racine
       <tuv lang="en">
         <seg>Any combinations of three letters starting with “c” and ending with “t”: “&lt;e0&gt;cat&lt;/e0&gt;”, “&lt;e1&gt;cut&lt;/e1&gt;”, “&lt;e2&gt;cot&lt;/e2&gt;”, or even nonsensical combinations such as “&lt;e3&gt;czt&lt;/e3&gt;” or “&lt;e4&gt;cqt&lt;/e4&gt;”.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T120446Z" creationid="Ragnar-F" creationdate="20221111T120446Z">
-        <seg>Beliebige Kombinationen aus drei Buchstaben, die mit "c" beginnen und mit "t" enden: "&lt;e0&gt;cat&lt;/e0&gt;", "&lt;e1&gt;cut&lt;/e1&gt;", "&lt;e2&gt;cot&lt;/e2&gt;", oder auch absurde Kombinationen wie "&lt;e3&gt;czt&lt;/e3&gt;" oder "&lt;e4&gt;cqt&lt;/e4&gt;".</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T123020Z" creationid="Ragnar-F" creationdate="20221111T120446Z">
+        <seg>Beliebige Kombinationen aus drei Buchstaben, die mit "c" beginnen und mit "t" enden: "&lt;e0&gt;cat&lt;/e0&gt;", "&lt;e1&gt;cut&lt;/e1&gt;", "&lt;e2&gt;cot&lt;/e2&gt;", oder auch sinnlose Kombinationen wie "&lt;e3&gt;czt&lt;/e3&gt;" oder "&lt;e4&gt;cqt&lt;/e4&gt;".</seg>
       </tuv>
     </tu>
     <tu>
@@ -11114,8 +11114,8 @@ korrektem Verhalten kommen kann.</seg>
       <tuv lang="en">
         <seg>As stated above, the &lt;l0&gt;\&lt;/l0&gt; character has the default special meaning of either cancelling or activating the special meaning of other characters.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T110335Z" creationid="Ragnar-F" creationdate="20221111T110335Z">
-        <seg>Wie bereits erwähnt, hat das &lt;l0&gt;\&lt;/l0&gt;-Zeichen standardmäßig die besondere Bedeutung, die besondere Bedeutung der anderen Zeichen entweder aufzuheben oder zu aktivieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T121247Z" creationid="Ragnar-F" creationdate="20221111T110335Z">
+        <seg>Wie bereits erwähnt, hat das &lt;l0&gt;\&lt;/l0&gt;-Zeichen standardmäßig den Effekt, die Sonderbedeutung der anderen Zeichen entweder aufzuheben oder zu aktivieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14833,8 +14833,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Combinations containing three letters that start with “c” and ending with “t”, but are split across more than one line.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232542Z" creationid="Ragnar-F" creationdate="20221217T232542Z">
-        <seg>Kombinationen aus drei Buchstaben, die mit "c" beginnen und mit "t" enden, aber auf mehr als eine Zeile verteilt sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T123356Z" creationid="Ragnar-F" creationdate="20221217T232542Z">
+        <seg>Kombinationen aus drei Buchstaben, die mit "c" beginnen und mit "t" enden, aber auf mehrere Zeilen verteilt sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15490,8 +15490,8 @@ Fehler entstanden ist, an den Softwarehersteller.</seg>
       <tuv lang="en">
         <seg>Consult the sites in the &lt;l0/&gt; section below for information on combinations not covered here.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T105308Z" creationid="Ragnar-F" creationdate="20221111T105308Z">
-        <seg>Informieren Sie sich auf den Seiten im Abschnitt &lt;l0/&gt; über Kombinationen, die hier nicht aufgeführt sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T120334Z" creationid="Ragnar-F" creationdate="20221111T105308Z">
+        <seg>Andere hier nicht aufgelistete Kombinationen finden Sie auf den Seiten im Abschnitt &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17994,8 +17994,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Digits and letters of the alphabet preceded by a backslash (&lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230509T192644Z" creationid="Ragnar-F" creationdate="20230509T192644Z">
-        <seg>Ziffern und Buchstaben mit einem umgekehrten Schrägstrich (&lt;l0&gt;\&lt;/l0&gt;) davor haben eine besondere Bedeutung</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T114958Z" creationid="Ragnar-F" creationdate="20230509T192644Z">
+        <seg>Ziffern und Buchstaben, denen ein umgekehrter Schrägstrich (&lt;l0&gt;\&lt;/l0&gt;) vorangestellt ist, haben eine besondere Bedeutung</seg>
       </tuv>
     </tu>
     <tu>
@@ -23138,8 +23138,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, &lt;e0&gt;r&lt;/e0&gt; is just a normal character but preceding it with &lt;l1&gt;\&lt;/l1&gt; to make it &lt;l2&gt;\r&lt;/l2&gt; turns it into a special combination that matches a &lt;e3&gt;carriage return character&lt;/e3&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T104320Z" creationid="Ragnar-F" creationdate="20221111T104320Z">
-        <seg>&lt;e0&gt;r&lt;/e0&gt; ist zum Beispiel ein normales Zeichen, aber wenn ein &lt;l1&gt;\&lt;/l1&gt; vorangestellt wird, um es zu einem &lt;l2&gt;\r&lt;/l2&gt; zu machen, wird daraus eine spezielle Kombination, die ein &lt;e3&gt;Wagenrücklaufzeichen (CR)&lt;/e3&gt; findet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T115619Z" creationid="Ragnar-F" creationdate="20221111T104320Z">
+        <seg>Zum Beispiel ist &lt;e0&gt;r&lt;/e0&gt; ein normales Zeichen, aber wenn &lt;l1&gt;\&lt;/l1&gt; vorangestellt wird, um es zu &lt;l2&gt;\r&lt;/l2&gt; zu machen, wird daraus eine spezielle Kombination, die ein &lt;e3&gt;Wagenrücklaufzeichen (CR)&lt;/e3&gt; findet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31700,8 +31700,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It has no effect if placed before a character with no special meaning (either by default or by addition).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T110419Z" creationid="Ragnar-F" creationdate="20221111T110419Z">
-        <seg>Es hat keine Wirkung, wenn es vor einem Zeichen ohne besondere Bedeutung steht (entweder standardmäßig oder durch Hinzufügen).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T121336Z" creationid="Ragnar-F" creationdate="20221111T110419Z">
+        <seg>Es hat keine Wirkung, wenn es vor einem Zeichen ohne Sonderbedeutung steht (entweder standardmäßig oder durch Hinzufügen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40792,8 +40792,8 @@ enthalten.</seg>
       <tuv lang="en">
         <seg>One example is &lt;l1&gt;.&lt;/l1&gt;: on its own, it has the special meaning of matching &lt;e2&gt;any single character&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T105939Z" creationid="Ragnar-F" creationdate="20221111T105811Z">
-        <seg>Ein Beispiel ist &lt;l1&gt;.&lt;/l1&gt;: Alleinstehend hat es die besondere Bedeutung, &lt;e2&gt;ein beliebiges Zeichen&lt;/e2&gt; zu finden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T120545Z" creationid="Ragnar-F" creationdate="20221111T105811Z">
+        <seg>Ein Beispiel ist &lt;l1&gt;.&lt;/l1&gt;: Allein hat es die Sonderbedeutung, &lt;e2&gt;ein beliebiges Zeichen&lt;/e2&gt; zu finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54861,8 +54861,8 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
       <tuv lang="en">
         <seg>That special meaning has to be cancelled by another character to match the character itself.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T105437Z" creationid="Ragnar-F" creationdate="20221111T105437Z">
-        <seg>Diese besondere Bedeutung muss durch ein anderes Zeichen aufgehoben werden, um das Zeichen selbst zu finden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T120449Z" creationid="Ragnar-F" creationdate="20221111T105437Z">
+        <seg>Diese Sonderbedeutung muss durch ein anderes Zeichen aufgehoben werden, wenn das Zeichen selbst gefunden werden soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55462,16 +55462,16 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l0&gt;\.&lt;/l0&gt; cancels the “any character” meaning of the period to match the decimal point, while the &lt;l1&gt;\d&lt;/l1&gt; turns the ordinarily lowercase “d” letter into an expression that matches any digit between 0 and 9.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T114416Z" creationid="Ragnar-F" creationdate="20221111T114416Z">
-        <seg>&lt;l0&gt;\.&lt;/l0&gt; hebt die "beliebiges Zeichen"-Bedeutung des Punktes auf, um den Dezimalpunkt zu finden, während &lt;l1&gt;\d&lt;/l1&gt; den normalen Kleinbuchstaben "d" in einen Ausdruck verwandelt, der eine beliebige Ziffer zwischen 0 und 9 findet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T122049Z" creationid="Ragnar-F" creationdate="20221111T114416Z">
+        <seg>&lt;l0&gt;\.&lt;/l0&gt; hebt die Bedeutung des Punktes als "beliebiges Zeichen" auf, um den Dezimalpunkt zu finden, während &lt;l1&gt;\d&lt;/l1&gt; den normalen Kleinbuchstaben "d" in einen Ausdruck umwandelt, der eine beliebige Ziffer zwischen 0 und 9 findet.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The &lt;l0&gt;\&lt;/l0&gt; can cancel its own special meaning by doubling up to form &lt;l1&gt;\\&lt;/l1&gt;, which simply matches the &lt;e2&gt;backslash&lt;/e2&gt; character itself.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T111055Z" creationid="Ragnar-F" creationdate="20221111T111055Z">
-        <seg>&lt;l0&gt;\&lt;/l0&gt; kann seine eigene besondere Bedeutung aufheben, indem man es verdoppelt, um &lt;l1&gt;\\&lt;/l1&gt; zu erhalten. Auf diese Wiese kann ein &lt;e2&gt;umgekehrter Schrägstrich&lt;/e2&gt; gefunden werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T121438Z" creationid="Ragnar-F" creationdate="20221111T111055Z">
+        <seg>&lt;l0&gt;\&lt;/l0&gt; kann seine eigene Sonderbedeutung aufheben, indem man es verdoppelt, also &lt;l1&gt;\\&lt;/l1&gt;. Auf diese Weise kann ein &lt;e2&gt;umgekehrter Schrägstrich&lt;/e2&gt; gefunden werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61106,8 +61106,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The word “run”, as well as “runs”, “runner”, “runway”, “runt” in “grunt” or “brunt”, and any other word or sequence of characters containing “run” followed by zero or more “&lt;e0&gt;word characters&lt;/e0&gt;” (which include digits and the underscore, so the part before the “@” in an email address such as run_123@example.email.org is also a match).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T122427Z" creationid="Ragnar-F" creationdate="20221111T122427Z">
-        <seg>Das Wort "run" sowie auch "runs", "runner", "runway", "runt" in "grunt" oder "brunt" und jede andere Zeichenkette, die "run" enthält, gefolgt von null oder mehr "&lt;e0&gt;Wortzeichen&lt;/e0&gt;" (zu denen auch Ziffern und der Unterstrich gehören, so dass der Teil vor dem "@" in einer E-Mail-Adresse wie run_123@example.email.org ebenfalls gefunden werden kann).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T125652Z" creationid="Ragnar-F" creationdate="20221111T122427Z">
+        <seg>Das Wort "run" sowie "runs", "runner", "runway", "runt" in "grunt" oder "brunt" und jede andere Zeichenkette, die "run" gefolgt von null oder mehr "&lt;e0&gt;Wortzeichen&lt;/e0&gt;" enthält (dazu gehören auch Ziffern und der Unterstrich, so dass z.B. auch der Teil vor dem "@" in einer E-Mail-Adresse wie run_123@example.email.org gefunden wird).</seg>
       </tuv>
     </tu>
     <tu>
@@ -62380,16 +62380,16 @@ the server.</seg>
       <tuv lang="en">
         <seg>This character either cancels or activates the special meaning of the following character.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T113540Z" creationid="Ragnar-F" creationdate="20221111T113540Z">
-        <seg>Dieses Zeichen hebt die besondere Bedeutung des nächsten Zeichens entweder auf oder aktiviert sie.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T121755Z" creationid="Ragnar-F" creationdate="20221111T113540Z">
+        <seg>Dieses Zeichen bewirkt, dass die Sonderbedeutung des nächsten Zeichens aufgehoben oder deaktiviert wird.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This character functions as an “OR” and matches either of the expressions that precede or follow it.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T120907Z" creationid="Ragnar-F" creationdate="20221111T120907Z">
-        <seg>Dieses Zeichen fungiert als "ODER" und findet entweder den vorangehenden oder den nachfolgenden Ausdruck.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T123628Z" creationid="Ragnar-F" creationdate="20221111T120907Z">
+        <seg>Dieses Zeichen fungiert als "ODER" und findet entweder den vorherigen oder nächsten Ausdruck.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62412,8 +62412,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This character specifies that either zero or one instance of the preceding character or expression should be matched.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T121157Z" creationid="Ragnar-F" creationdate="20221111T121157Z">
-        <seg>Dieses Zeichen bewirkt, dass entweder keine oder eine Instanz des vorangehenden Zeichens oder Ausdrucks gefunden wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T124012Z" creationid="Ragnar-F" creationdate="20221111T121157Z">
+        <seg>Dieses Zeichen bewirkt, dass keine oder eine Instanz des vorherigen Zeichens oder Ausdrucks gefunden wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62428,8 +62428,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This character specifies that zero or more instances of the preceding character or expression should be matched.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T121827Z" creationid="Ragnar-F" creationdate="20221111T121827Z">
-        <seg>Dieses Zeichen bewirkt, dass entweder keine oder mehrere Instanzen des vorangehenden Zeichens oder Ausdrucks gefunden werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T124636Z" creationid="Ragnar-F" creationdate="20221111T121827Z">
+        <seg>Dieses Zeichen bewirkt, dass keine oder mehrere Instanzen des vorherigen Zeichens oder Ausdrucks gefunden werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65168,8 +65168,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To find a normal period, that meaning has to be cancelled using the &lt;l0&gt;\&lt;/l0&gt;, to make the expression &lt;l1&gt;\.&lt;/l1&gt;, which just matches a period.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T110109Z" creationid="Ragnar-F" creationdate="20221111T110109Z">
-        <seg>Um einen normalen Punkt zu finden, muss diese Bedeutung mithilfe von &lt;l0&gt;\&lt;/l0&gt; aufgehoben werden, wodurch der Ausdruck &lt;l1&gt;\.&lt;/l1&gt; entsteht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T121158Z" creationid="Ragnar-F" creationdate="20221111T110109Z">
+        <seg>Um einen normalen Punkt zu finden, muss ihm ein &lt;l0&gt;\&lt;/l0&gt; vorangestellt werden, also &lt;l1&gt;\.&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67510,8 +67510,8 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
       <tuv lang="en">
         <seg>Unlike a letter on its own, which simply represents itself as noted above, a letter preceded by a &lt;l0&gt;\&lt;/l0&gt; has a special function in a regular expression.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T103929Z" creationid="Ragnar-F" creationdate="20221111T103929Z">
-        <seg>Im Gegensatz zu einem einzelnen Buchstaben, der wie oben erwähnt einfach nur sich selbst repräsentiert, hat ein Buchstabe, dem ein &lt;l0&gt;\&lt;/l0&gt; vorangestellt ist, eine spezielle Funktion in einem regulären Ausdruck.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T115040Z" creationid="Ragnar-F" creationdate="20221111T103929Z">
+        <seg>Im Gegensatz zu einem einzelnen Buchstaben, der, wie oben beschrieben, nur für sich selbst steht, hat ein Buchstabe mit einem vorangestelltem &lt;l0&gt;\&lt;/l0&gt; eine spezielle Funktion in einem regulären Ausdruck.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70810,24 +70810,24 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       <tuv lang="en">
         <seg>When it is the first character in &lt;l0&gt;a character class enclosed in brackets&lt;/l0&gt;, it matches all the characters that are not part of that class.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T232453Z" creationid="Ragnar-F" creationdate="20221217T232453Z">
-        <seg>Wird er als erstes Zeichen in einer &lt;l0&gt;mit eckigen Klammern umschlossenen Zeichenklasse&lt;/l0&gt; verwendet, werden alle Zeichen gefunden, die nicht zu dieser Klasse gehören.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T122531Z" creationid="Ragnar-F" creationdate="20221217T232453Z">
+        <seg>Wenn der Zirkumflex als erstes Zeichen in einer &lt;l0&gt;mit eckigen Klammern umschlossenen Zeichenklasse&lt;/l0&gt; verwendet wird, findet die Zeichenklasse alle Zeichen, die nicht Teil dieser Klasse sind.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>When it is the first character in the expression, the &lt;e0&gt;caret&lt;/e0&gt; character matches the beginning of a line.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T115142Z" creationid="Ragnar-F" creationdate="20221111T115134Z">
-        <seg>Wird er als erstes Zeichen in einem Ausdruck verwendet, findet der &lt;e0&gt;Zirkumflex&lt;/e0&gt; den Anfang einer Zeile.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T122209Z" creationid="Ragnar-F" creationdate="20221111T115134Z">
+        <seg>Wenn der &lt;e0&gt;Zirkumflex&lt;/e0&gt; als erstes Zeichen in einem Ausdruck verwendet, findet er den Anfang einer Zeile.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>When it is the last character in an expression, the &lt;e0&gt;dollar&lt;/e0&gt; sign matches the end of a line.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T120212Z" creationid="Ragnar-F" creationdate="20221111T120212Z">
-        <seg>Wird es als erstes Zeichen in einem Ausdruck verwendet, findet das &lt;e0&gt;Dollarzeichen&lt;/e0&gt; das Ende einer Zeile.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T122824Z" creationid="Ragnar-F" creationdate="20221111T120212Z">
+        <seg>Wenn das &lt;e0&gt;Dollarzeichen&lt;/e0&gt; als erstes Zeichen in einem Ausdruck verwendet wird, findet es das Ende einer Zeile.</seg>
       </tuv>
     </tu>
     <tu>
