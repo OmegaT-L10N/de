@@ -10113,8 +10113,8 @@ Dossier racine
       <tuv lang="en">
         <seg>Although seen as daunting and complex, even the simplest regular expressions (often abbreviated &lt;e0&gt;regex&lt;/e0&gt; or &lt;e1&gt;regexp&lt;/e1&gt;) are extremely useful, not only in OmegaT, but in many other applications you might use on a day-to-day basis, with some variations.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221111T083615Z" creationid="Ragnar-F" creationdate="20221111T080800Z">
-        <seg>Obwohl reguläre Ausdrücke (oft mit &lt;e0&gt;regex&lt;/e0&gt; oder &lt;e1&gt;regexp&lt;/e1&gt; abgekürzt) als abschreckend und komplex angesehen werden, sind die einfachsten unter ihnen äußerst nützlich - sowohl in OmegaT als auch in vielen anderen Applikationen, die Sie tagtäglich verwenden, mit einigen Variationen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T070414Z" creationid="Ragnar-F" creationdate="20221111T080800Z">
+        <seg>Obwohl reguläre Ausdrücke (oft mit &lt;e0&gt;regex&lt;/e0&gt; oder &lt;e1&gt;regexp&lt;/e1&gt; abgekürzt) als abschreckend und komplex empfunden werden, sind die einfachsten unter ihnen äußerst nützlich - sowohl in OmegaT als auch in vielen anderen Applikationen, die Sie tagtäglich verwenden, mit einigen Variationen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10589,8 +10589,8 @@ Dossier racine
       <tuv lang="en">
         <seg>And the script must be executable.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T230014Z" creationid="Ragnar-F" creationdate="20221217T230014Z">
-        <seg>Und das Skript muss ausführbar sein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T070043Z" creationid="Ragnar-F" creationdate="20221217T230014Z">
+        <seg>Das Skript muss ausführbar sein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13135,8 +13135,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Chaining commands with &lt;l2&gt;&amp;&amp;&lt;/l2&gt; or &lt;l3&gt;||&lt;/l3&gt; or pipes &lt;l4&gt;|&lt;/l4&gt; will not work here.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T230105Z" creationid="Ragnar-F" creationdate="20221217T230105Z">
-        <seg>Die Verkettung von Befehlen mit &lt;l2&gt;&amp;&amp;&lt;/l2&gt; oder &lt;l3&gt;||&lt;/l3&gt; oder Pipes &lt;l4&gt;|&lt;/l4&gt; wird hier nicht funktionieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T070102Z" creationid="Ragnar-F" creationdate="20221217T230105Z">
+        <seg>Die Verkettung von Befehlen mit &lt;l2&gt;&amp;&amp;&lt;/l2&gt; oder &lt;l3&gt;||&lt;/l3&gt; oder Pipes &lt;l4&gt;|&lt;/l4&gt; funktioniert hier nicht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19434,8 +19434,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Due to licensing considerations, the OmegaT team recommends the Java runtime Eclipse Temurin provided by the Eclipse Foundation's Adoptium Project, but any Java {{site.data.versions.standard.java_version}} compatible runtime environment should work.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T105853Z" creationid="Ragnar-F" creationdate="20221222T105853Z">
-        <seg>Aus lizenzrechtlichen Gründen empfiehlt das OmegaT-Team die Java-Laufzeitumgebung Eclipse Temurin, die vom Adoptium-Projekt der Eclipse Foundation bereitgestellt wird, allerdings sollten auch andere Laufzeitumgebungen funktionieren, die mit Java {{site.data.versions.standard.java_version}} kompatibel sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T065201Z" creationid="Ragnar-F" creationdate="20221222T105853Z">
+        <seg>Aus lizenzrechtlichen Gründen empfiehlt das OmegaT-Team die Java Runtime Eclipse Temurin, die vom Adoptium-Projekt der Eclipse Foundation bereitgestellt wird, allerdings sollten auch andere Laufzeitumgebungen funktionieren, die mit Java {{site.data.versions.standard.java_version}} kompatibel sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23970,7 +23970,7 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Full path to the glossary folder</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T224838Z" creationid="Ragnar-F" creationdate="20221217T224838Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T065608Z" creationid="Ragnar-F" creationdate="20221217T224838Z">
         <seg>Vollständiger Pfad des Glossarordners</seg>
       </tuv>
     </tu>
@@ -23986,7 +23986,7 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Full path to the source folder</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T224810Z" creationid="Ragnar-F" creationdate="20221217T224810Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T065502Z" creationid="Ragnar-F" creationdate="20221217T224810Z">
         <seg>Vollständiger Pfad des Quellordners</seg>
       </tuv>
     </tu>
@@ -23994,7 +23994,7 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Full path to the target folder</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T224823Z" creationid="Ragnar-F" creationdate="20221217T224823Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T065514Z" creationid="Ragnar-F" creationdate="20221217T224823Z">
         <seg>Vollständiger Pfad des Zielordners</seg>
       </tuv>
     </tu>
@@ -39786,8 +39786,8 @@ auf Ihrem System installiert sein.</seg>
       <tuv lang="en">
         <seg>OmegaT runs on any platform that runs a Java Runtime Environment (Windows, macOS, and Linux being the most mainstream).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T104905Z" creationid="Ragnar-F" creationdate="20221112T104905Z">
-        <seg>OmegaT läuft auf jeder Plattform, auf der eine Java-Laufzeitumgebung installiert ist (Windows, macOS und Linux sind die gängigsten).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T065111Z" creationid="Ragnar-F" creationdate="20221112T104905Z">
+        <seg>OmegaT läuft auf jeder Plattform, auf der eine Java Runtime installiert ist (Windows, macOS und Linux sind die gängigsten).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41490,24 +41490,24 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Open the target folder in Linux</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T114434Z" creationid="Ragnar-F" creationdate="20221114T114428Z">
-        <seg>Den Zielordner in Linux öffnen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T070116Z" creationid="Ragnar-F" creationdate="20221114T114428Z">
+        <seg>Zielordner unter Linux öffnen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Open the target folder in Windows Powershell</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T114523Z" creationid="Ragnar-F" creationdate="20221114T114523Z">
-        <seg>Den Zielordner via Windows Powershell öffnen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T070147Z" creationid="Ragnar-F" creationdate="20221114T114523Z">
+        <seg>Zielordner mit Windows Powershell öffnen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Open the target folder in macOS</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T114447Z" creationid="Ragnar-F" creationdate="20221114T114447Z">
-        <seg>Den Zielordner in macOS öffnen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T070132Z" creationid="Ragnar-F" creationdate="20221114T114447Z">
+        <seg>Zielordner unter macOS öffnen</seg>
       </tuv>
     </tu>
     <tu>
@@ -47262,8 +47262,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>STDOUT and STDERR are written to the &lt;l0&gt;omegat.log&lt;/l0&gt; file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T225713Z" creationid="Ragnar-F" creationdate="20221217T225713Z">
-        <seg>STDOUT und STDERR werden in die &lt;l0&gt;omegat.log&lt;/l0&gt;-Datei geschrieben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T070019Z" creationid="Ragnar-F" creationdate="20221217T225713Z">
+        <seg>STDOUT und STDERR werden in die Datei &lt;l0&gt;omegat.log&lt;/l0&gt; geschrieben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55430,8 +55430,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this manual.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T230217Z" creationid="Ragnar-F" creationdate="20221217T230217Z">
-        <seg>Der Abschnitt &lt;l0/&gt; am Ende dieser Seite bietet einige Anregungen für fortgeschrittene oder komplexe Anwendungsfälle, die über den Rahmen dieser Dokumentation hinausgehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T112548Z" creationid="Ragnar-F" creationdate="20221217T230217Z">
+        <seg>Der Abschnitt &lt;l0/&gt; am Ende dieser Seite enthält einige Beispiele für fortgeschrittene oder komplexe Anwendungsfälle, die den Rahmen dieser Dokumentation sprengen würden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55995,8 +55995,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The PATH OmegaT uses may not be the same as the current user’s PATH.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T225645Z" creationid="Ragnar-F" creationdate="20221217T225645Z">
-        <seg>Der PATH, den OmegaT verwendet, ist möglicherweise nicht derselbe wie der PATH des aktuellen Benutzers.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T065907Z" creationid="Ragnar-F" creationdate="20221217T225645Z">
+        <seg>Der von OmegaT verwendete PATH kann von dem des aktuellen Benutzers abweichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56755,8 +56755,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The command is passed to Java runtime exec as a string with the template values expanded.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221217T224351Z" creationid="Ragnar-F" creationdate="20221217T224351Z">
-        <seg>Der Befehl wird an die Java-Laufzeitausführung als Zeichenkette übergeben, wobei die Variablen in ihre Werte aufgelöst werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240627T065101Z" creationid="Ragnar-F" creationdate="20221217T224351Z">
+        <seg>Der Befehl wird an die Java Runtime als Zeichenkette übergeben, wobei die Variablen in ihre Werte aufgelöst werden.</seg>
       </tuv>
     </tu>
     <tu>
