@@ -4833,8 +4833,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Paragraph segmentation&lt;/e0&gt; works well with more literary or creative texts, as well as, more generally, with documents for which translation memory matches are not so important.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T084807Z" creationid="Ragnar-F" creationdate="20221112T084807Z">
-        <seg>&lt;e0&gt;Absatzsegmentierung&lt;/e0&gt; funktioniert gut bei eher literarischen oder kreativen Texten sowie generell bei Dokumenten, bei denen Translation-Memory-Matches nicht so wichtig sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T073603Z" creationid="Ragnar-F" creationdate="20221112T084807Z">
+        <seg>&lt;e0&gt;Absatzsegmentierung&lt;/e0&gt; eignet sich gut für eher literarische oder kreative Texte und generell für Dokumente, bei denen Translation-Memory-Matches nicht so wichtig sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8993,8 +8993,8 @@ Dossier racine
       <tuv lang="en">
         <seg>After dividing the source file into structural units, OmegaT further divides those units into segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T091530Z" creationid="Ragnar-F" creationdate="20221112T091432Z">
-        <seg>Nach der Unterteilung der Quelldatei in Struktureinheiten teilt OmegaT diese Einheiten weiter in Segmente auf.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T074714Z" creationid="Ragnar-F" creationdate="20221112T091432Z">
+        <seg>Nachdem OmegaT die Quelldatei in Struktureinheiten zerlegt hat, werden diese weiter in Segmente zerlegt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12639,8 +12639,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, segmentation settings are global and shared by all projects.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T114848Z" creationid="Ragnar-F" creationdate="20221112T100800Z">
-        <seg>Standardmäßig sind Segmentierungseinstellungen global und werden für alle Projekte verwendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T075207Z" creationid="Ragnar-F" creationdate="20221112T100800Z">
+        <seg>Standardmäßig sind Segmentierungseinstellungen global und werden von allen Projekten gemeinsam genutzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22504,8 +22504,8 @@ Backup-Dateiendung '.recover'.</seg>
       <tuv lang="en">
         <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085636Z" creationid="Ragnar-F" creationdate="20221112T085636Z">
-        <seg>Dateien, die Formatierungen enthalten (ODF-, HTML- oder andere Dokumente), werden bei Block-Elementen (Paragraph-Tags) geteilt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T074622Z" creationid="Ragnar-F" creationdate="20221112T085636Z">
+        <seg>Dateien mit Formatierungen (z.B. ODF- oder HTML-Dokumente) werden an Blockelementen (Paragraph-Tags) segmentiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23314,8 +23314,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, text files may be segmented on line breaks, empty lines, or not at all.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085408Z" creationid="Ragnar-F" creationdate="20221112T085408Z">
-        <seg>Textdateien können zum Beispiel an Zeilenumbrüchen, Leerzeilen oder überhaupt nicht segmentiert werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T074402Z" creationid="Ragnar-F" creationdate="20221112T085408Z">
+        <seg>Textdateien können zum Beispiel an Zeilenumbrüchen, Leerzeilen oder gar nicht segmentiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28862,8 +28862,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you use local rules, you can still access the global rules, but modifying them will have no effect on your project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T101428Z" creationid="Ragnar-F" creationdate="20221112T101428Z">
-        <seg>Wenn Sie lokale Regeln verwenden, können Sie zwar immer noch auf die globalen Regeln zugreifen, aber diese zu ändern, wirkt sich nicht auf Ihr Projekt aus.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T075354Z" creationid="Ragnar-F" creationdate="20221112T101428Z">
+        <seg>Wenn Sie lokale Regeln verwenden, können Sie zwar immer noch auf die globalen Regeln zugreifen, aber eine Änderung der globalen Regeln wirkt sich nicht auf Ihr Projekt aus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29849,8 +29849,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T084605Z" creationid="Ragnar-F" creationdate="20221112T084605Z">
-        <seg>In diesem Fall wird jeder Absatz (wie vom Format des Originaldokuments vorgegeben) als ein einzelnes Segment angezeigt, wodurch es dem Übersetzer freisteht, die Sätze innerhalb des Segments nach Belieben neu anzuordnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T073455Z" creationid="Ragnar-F" creationdate="20221112T084605Z">
+        <seg>In diesem Fall wird jeder Absatz (abhängig vom Format des Originaldokuments) als ein einzelnes Segment angezeigt. Dem Übersetzer ist es somit freigestellt, die Sätze innerhalb des Segments beliebig anzuordnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37599,8 +37599,8 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Nonetheless, their original translation will still be in the project memory.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T102020Z" creationid="Ragnar-F" creationdate="20221112T102020Z">
-        <seg>Die Originalübersetzung bleibt jedoch im Translation Memory des Projekts erhalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T080130Z" creationid="Ragnar-F" creationdate="20221112T102020Z">
+        <seg>Die ursprüngliche Übersetzung bleibt jedoch im Translation Memory des Projekts erhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49659,8 +49659,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Segments are by default &lt;e0&gt;paragraphs&lt;/e0&gt; defined by the file format itself.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T082543Z" creationid="Ragnar-F" creationdate="20221112T082543Z">
-        <seg>Segmente sind standardmäßig &lt;e0&gt;Absätze&lt;/e0&gt;, die vom Dateiformat selbst vorgegeben werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T072251Z" creationid="Ragnar-F" creationdate="20221112T082543Z">
+        <seg>Segmente sind standardmäßig &lt;e0&gt;Absätze&lt;/e0&gt;, die durch das Dateiformat selbst vorgegeben sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53025,16 +53025,16 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Start a new segment after a period followed by a space, tab, or other whitespace.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230509T192732Z" creationid="Ragnar-F" creationdate="20230509T192732Z">
-        <seg>Ein neues Segment nach einem Punkt, gefolgt von einem Leer-, Tabulator- oder sonstigem Leerraumzeichen, beginnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T080252Z" creationid="Ragnar-F" creationdate="20230509T192732Z">
+        <seg>Beginn eines neuen Segments nach einem Punkt, gefolgt von einem Leerraum wie z.B. Leer- oder Tabulatorzeichen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Start a new segment after “。” (Japanese period).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T103024Z" creationid="Ragnar-F" creationdate="20221112T103024Z">
-        <seg>Ein neues Segment nach "。" (japanischer Punkt) beginnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T080330Z" creationid="Ragnar-F" creationdate="20221112T103024Z">
+        <seg>Beginn eines neuen Segments nach "。" (japanischer Punkt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54797,8 +54797,8 @@ Das Ersetzen von Text erfolgt in den Zieltexten der Segmente im Projekt, egal ob
       <tuv lang="en">
         <seg>That is the reason why exception rules must come before segmentation rules.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T101707Z" creationid="Ragnar-F" creationdate="20221112T101707Z">
-        <seg>Das ist der Grund, warum Ausnahmeregeln vor Segmentierungsregeln erfolgen müssen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T075628Z" creationid="Ragnar-F" creationdate="20221112T101707Z">
+        <seg>Aus diesem Grund müssen Ausnahmeregeln vor Segmentierungsregeln definiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59714,8 +59714,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The same mechanisms and dialogs are used to define global and local segmentation rules.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T100724Z" creationid="Ragnar-F" creationdate="20221112T100724Z">
-        <seg>Die gleichen Mechanismen und Dialogfenster werden verwendet, um globale und lokale Segmentierungsregeln zu definieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T075120Z" creationid="Ragnar-F" creationdate="20221112T100724Z">
+        <seg>Für die Definition von globalen und lokalen Segmentierungsregeln werden die gleichen Mechanismen und Dialogfenster verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64148,8 +64148,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This process relies only on the structure of the source file to produce segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T085320Z" creationid="Ragnar-F" creationdate="20221112T085320Z">
-        <seg>Dieser Vorgang verlässt sich nur auf die Struktur der Quelldatei, um Segmente zu erzeugen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T074311Z" creationid="Ragnar-F" creationdate="20221112T085320Z">
+        <seg>Dieses Verfahren verwendet ausschließlich die Struktur der Quelldatei zur Segmentgenerierung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64416,8 +64416,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>This will split or merge some previously translated segments, which will therefore no longer be considered translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T101945Z" creationid="Ragnar-F" creationdate="20221112T101945Z">
-        <seg>Dabei werden einige zuvor übersetzte Segmente geteilt oder zusammengeführt, so dass sie nicht mehr als übersetzt gelten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T075835Z" creationid="Ragnar-F" creationdate="20221112T101945Z">
+        <seg>Dabei kann es vorkommen, dass einige bereits übersetzte Segmente geteilt oder zusammengeführt werden, wodurch sie nicht mehr übersetzt sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70738,8 +70738,8 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       <tuv lang="en">
         <seg>When a translation is entered, the segment containing the source text is stored with its translation in the project memory, and subsequently used to match other source segments in the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T205724Z" creationid="Ragnar-F" creationdate="20221112T082031Z">
-        <seg>Nachdem eine Übersetzung eingegeben wurde, wird das Segment, das den Quelltext enthält, zusammen mit seiner Übersetzung in den Translation Memory des Projekts gespeichert und anschließend mit anderen Quelltexten im Projekt abgeglichen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T072155Z" creationid="Ragnar-F" creationdate="20221112T082031Z">
+        <seg>Nachdem eine Übersetzung eingegeben wurde, wird das Segment, das den Quelltext enthält, zusammen mit seiner Übersetzung in den Translation Memory des Projekts gespeichert und anschließend mit anderen Quelltexten im Projekt verglichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73928,8 +73928,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You can visualize segmentation as the process of moving the cursor along the text, one character at a time, and looking for the position where a break will occur, or where a break will not be allowed.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221112T095202Z" creationid="Ragnar-F" creationdate="20221112T095202Z">
-        <seg>Sie können sich die Segmentierung auch so vorstellen, dass der Textcursor zeichenweise entlang des Textes bewegt wird und nach der Stelle gesucht wird, an der ein Umbruch erfolgen oder nicht erfolgen soll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240629T075016Z" creationid="Ragnar-F" creationdate="20221112T095202Z">
+        <seg>Sie können sich die Segmentierung so vorstellen, dass Sie den Textcursor zeichenweise über den Text bewegen und nach der Stelle suchen, an der ein Umbruch erfolgen oder nicht erfolgen soll.</seg>
       </tuv>
     </tu>
     <tu>
