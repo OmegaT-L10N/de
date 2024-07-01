@@ -12535,8 +12535,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, external searches are global and are shared by all projects.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T120006Z" creationid="Ragnar-F" creationdate="20221114T120006Z">
-        <seg>Standardmäßig sind externe Suchvorgänge global und werden für alle Projekte verwendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T095818Z" creationid="Ragnar-F" creationdate="20221114T120006Z">
+        <seg>Standardmäßig sind externe Suchvorgänge global und werden von allen Projekten gemeinsam genutzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13887,16 +13887,16 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Check the &lt;o0&gt;Use local file filter settings&lt;/o0&gt; box, and adjust the settings as desired.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T093843Z" creationid="Ragnar-F" creationdate="20221218T093843Z">
-        <seg>Setzen Sie ein Häkchen bei &lt;o0&gt;Lokale Dateifiltereinstellungen verwenden&lt;/o0&gt;, und passen Sie die Einstellungen nach Belieben an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T095556Z" creationid="Ragnar-F" creationdate="20221218T093843Z">
+        <seg>Aktivieren Sie die Option &lt;o0&gt;Lokale Dateifiltereinstellungen verwenden&lt;/o0&gt; und passen Sie die Einstellungen nach Bedarf an.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Check the &lt;o0&gt;Use local segmentation rules&lt;/o0&gt; box, and adjust the segmentation rules as desired.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T093209Z" creationid="Ragnar-F" creationdate="20221218T093209Z">
-        <seg>Setzen Sie ein Häkchen bei &lt;o0&gt;Lokale Segmentierungsregeln verwenden&lt;/o0&gt;, und passen Sie die Segmentierungsregeln nach Belieben an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T094051Z" creationid="Ragnar-F" creationdate="20221218T093209Z">
+        <seg>Aktivieren Sie die Option &lt;o0&gt;Lokale Segmentierungsregeln verwenden&lt;/o0&gt; und passen Sie die Segmentierungsregeln nach Bedarf an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20427,8 +20427,8 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
       <tuv lang="en">
         <seg>Enter the commands you want to run in this field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111119Z" creationid="Ragnar-F" creationdate="20230127T111119Z">
-        <seg>Geben Sie in diesem Feld die Befehle ein, die Sie ausführen möchten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T095045Z" creationid="Ragnar-F" creationdate="20230127T111119Z">
+        <seg>Tragen Sie in diesem Feld die Befehle ein, die ausgeführt werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23586,8 +23586,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For security purposes, local project-based external searches are disabled by default.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T120531Z" creationid="Ragnar-F" creationdate="20221114T120531Z">
-        <seg>Aus Sicherheitsgründen sind lokale projektbasierte externe Suchvorgänge standardmäßig deaktiviert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T101245Z" creationid="Ragnar-F" creationdate="20221114T120531Z">
+        <seg>Aus Sicherheitsgründen sind lokale projektspezifische externe Suchvorgänge standardmäßig deaktiviert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25863,8 +25863,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>However, their original translation will still be in the project memory.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T110209Z" creationid="Ragnar-F" creationdate="20230127T110209Z">
-        <seg>Die Originalübersetzung bleibt jedoch im Translation Memory des Projekts erhalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T091609Z" creationid="Ragnar-F" creationdate="20230127T110209Z">
+        <seg>Die ursprüngliche Übersetzung bleibt jedoch im Translation Memory des Projekts erhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27617,8 +27617,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If there are repeated segments in the source documents, checking this option will set the first translated segment as the default translation and automatically use the same target text in the remaining repeated segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T110555Z" creationid="Ragnar-F" creationdate="20230127T110555Z">
-        <seg>Wenn mehrmalige Segmente in den Quelldokumenten vorhanden sind und ein Häkchen bei dieser Option gesetzt ist, wird das erste übersetzte Segment als Standard festgelegt, was zur Folge hat, dass alle Segmente mit demselben Quelltext automatisch den Zieltext der Standardübersetzung erhalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T093641Z" creationid="Ragnar-F" creationdate="20230127T110555Z">
+        <seg>Wenn die Quelldokumente wiederkehrende Segmente aufweisen, wird durch Aktivieren dieser Option das erste übersetzte Segment als Standardübersetzung festgelegt und in den übrigen wiederkehrenden Segmenten automatisch der gleiche Zieltext verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28220,8 +28220,8 @@ angezeigt werden.</seg>
       <tuv lang="en">
         <seg>If you do not activate this option, all segments can be assigned a different translation, even if they are duplicated in the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T112647Z" creationid="Ragnar-F" creationdate="20221114T112647Z">
-        <seg>Wenn Sie kein Häkchen bei dieser Option setzen, können Sie allen Segmenten eine andere Übersetzung zuweisen, auch wenn sie im Projekt doppelt vorhanden sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T094530Z" creationid="Ragnar-F" creationdate="20221114T112647Z">
+        <seg>Wenn Sie diese Option nicht aktivieren, können Sie allen Segmenten eine andere Übersetzung zuweisen, auch wenn sie im Projekt doppelt vorhanden sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28814,8 +28814,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you simply want to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T093413Z" creationid="Ragnar-F" creationdate="20230223T093413Z">
-        <seg>Wenn Sie einfach nur die Anzahl der Tags in einem Dokument von &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 oder höher) reduzieren möchten, können Sie das Skript &lt;l1/&gt; verwenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T094830Z" creationid="Ragnar-F" creationdate="20230223T093413Z">
+        <seg>Wenn Sie lediglich die Anzahl der Tags in einem Dokument von &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 oder höher) reduzieren möchten, können Sie das Skript &lt;l1/&gt; verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38815,8 +38815,8 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>OmegaT can automatically run commands after the target files have been created.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T093528Z" creationid="Ragnar-F" creationdate="20221218T093528Z">
-        <seg>OmegaT kann automatisch Befehle ausführen, nachdem die Zieldateien erstellt worden sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T094950Z" creationid="Ragnar-F" creationdate="20221218T093528Z">
+        <seg>OmegaT kann Befehle automatisch ausführen, nachdem die Zieldateien erzeugt wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40882,8 +40882,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Only enable local post-processing commands if you trust the source of that file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130250Z" creationid="Ragnar-F" creationdate="20221114T114209Z">
-        <seg>Lokale Nachbearbeitungsbefehle sollten Sie nur aktivieren, wenn Sie der Quelle dieser Datei vertrauen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T095214Z" creationid="Ragnar-F" creationdate="20221114T114209Z">
+        <seg>Lokale Nachbearbeitungsbefehle sollten nur aktiviert werden, wenn Sie der Quelle dieser Datei vertrauen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49091,8 +49091,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T122839Z" creationid="Ragnar-F" creationdate="20221118T122839Z">
-        <seg>Siehe die &lt;l0/&gt;-Einstellungen für weitere Informationen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T100956Z" creationid="Ragnar-F" creationdate="20221118T122839Z">
+        <seg>Einzelheiten finden Sie in den Einstellungen &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49203,8 +49203,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>See the &lt;l1/&gt; preferences for details.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T135518Z" creationid="Ragnar-F" creationdate="20221118T135518Z">
-        <seg>Siehe die &lt;l1/&gt;-Einstellungen für weitere Informationen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T101016Z" creationid="Ragnar-F" creationdate="20221118T135518Z">
+        <seg>Einzelheiten finden Sie in den Einstellungen &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49283,8 +49283,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>See the &lt;l2/&gt; preferences for details.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T115711Z" creationid="Ragnar-F" creationdate="20221218T115711Z">
-        <seg>Siehe die &lt;l2/&gt;-Einstellungen für weitere Informationen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T101008Z" creationid="Ragnar-F" creationdate="20221218T115711Z">
+        <seg>Einzelheiten finden Sie in den Einstellungen &lt;l2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49315,24 +49315,24 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>See the &lt;l3/&gt; preferences for details.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T120919Z" creationid="Ragnar-F" creationdate="20221218T120919Z">
-        <seg>Siehe die &lt;l3/&gt;-Einstellungen für weitere Informationen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T101033Z" creationid="Ragnar-F" creationdate="20221218T120919Z">
+        <seg>Einzelheiten finden Sie in den Einstellungen &lt;l3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>See the &lt;l4/&gt; preference for details.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T134956Z" creationid="Ragnar-F" creationdate="20221218T134956Z">
-        <seg>Siehe die &lt;l4/&gt;-Einstellung für weitere Informationen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T101059Z" creationid="Ragnar-F" creationdate="20221218T134956Z">
+        <seg>Einzelheiten finden Sie in der Einstellung &lt;l4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>See the &lt;l4/&gt; preferences for details.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T135142Z" creationid="Ragnar-F" creationdate="20221218T135142Z">
-        <seg>Siehe die &lt;l4/&gt;-Einstellungen für weitere Informationen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T101044Z" creationid="Ragnar-F" creationdate="20221218T135142Z">
+        <seg>Einzelheiten finden Sie in den Einstellungen &lt;l4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53377,8 +53377,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Such commands are defined in the &lt;l0/&gt; preference.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T093801Z" creationid="Ragnar-F" creationdate="20221218T093801Z">
-        <seg>Solche Befehle sind in der &lt;l0/&gt;-Einstellung definiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T095238Z" creationid="Ragnar-F" creationdate="20221218T093801Z">
+        <seg>Solche Befehle sind in der Einstellung &lt;l0/&gt; definiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59418,8 +59418,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The project will store the new set of external searches in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111354Z" creationid="Ragnar-F" creationdate="20230127T111354Z">
-        <seg>Das Projekt speichert den neuen Satz von externen Suchvorgängen in die Datei &lt;l0/&gt; im Ordner &lt;l1/&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T100022Z" creationid="Ragnar-F" creationdate="20230127T111354Z">
+        <seg>Das Projekt speichert den neuen Satz externer Suchvorgänge in die Datei &lt;l0/&gt; im Ordner &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61754,8 +61754,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They are defined in the &lt;l0/&gt; preferences.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T094004Z" creationid="Ragnar-F" creationdate="20221218T094004Z">
-        <seg>Diese sind in den &lt;l0/&gt;-Einstellungen definiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T095938Z" creationid="Ragnar-F" creationdate="20221218T094004Z">
+        <seg>Diese sind in den Einstellungen &lt;l0/&gt; definiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61786,8 +61786,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They are found in the &lt;l0/&gt; preferences.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T093816Z" creationid="Ragnar-F" creationdate="20221218T093816Z">
-        <seg>Sie können diese in den &lt;l0/&gt;-Einstellungen finden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T095416Z" creationid="Ragnar-F" creationdate="20221218T093816Z">
+        <seg>Sie können diese in den Einstellungen &lt;l0/&gt; finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61826,8 +61826,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They are saved in the &lt;l0/&gt; file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T093719Z" creationid="Ragnar-F" creationdate="20221218T093719Z">
-        <seg>Diese werden in der &lt;l0/&gt;-Datei gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T095136Z" creationid="Ragnar-F" creationdate="20221218T093719Z">
+        <seg>Diese werden in die Datei &lt;l0/&gt; gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63348,8 +63348,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This is especially useful when dealing with texts where inline formatting is not particularly useful (e.g., OCRed PDF, or poorly converted .odt or .docx files.)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071641Z" creationid="Ragnar-F" creationdate="20221114T113110Z">
-        <seg>Dies ist vor allem dann nützlich, wenn es sich um Texte handelt, bei denen eine Inline-Formatierung nicht besonders sinnvoll ist (z.B. OCRed-PDF-Dateien oder schlecht konvertierte .odt- oder .docx-Dateien).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T094654Z" creationid="Ragnar-F" creationdate="20221114T113110Z">
+        <seg>Dies ist besonders nützlich, wenn es sich um Texte handelt, bei denen eine Inline-Formatierung nicht besonders sinnvoll ist (z.B. OCRed-PDF-Dateien oder schlecht konvertierte .odt- oder .docx-Dateien).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64424,8 +64424,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>This will split or merge some previously translated segments, which will therefore no longer be translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T110154Z" creationid="Ragnar-F" creationdate="20230127T110154Z">
-        <seg>Dabei werden einige zuvor übersetzte Segmente geteilt oder zusammengeführt, wodurch sie nicht mehr übersetzt sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T091559Z" creationid="Ragnar-F" creationdate="20230127T110154Z">
+        <seg>Dabei kann es vorkommen, dass einige bereits übersetzte Segmente geteilt oder zusammengeführt werden, wodurch sie nicht mehr übersetzt sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65008,8 +65008,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To delete project specific external searches, click on the &lt;g0&gt;Remove&lt;/g0&gt; button or remove that file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T112144Z" creationid="Ragnar-F" creationdate="20230127T111427Z">
-        <seg>Um projektspezifische externe Suchvorgänge zu entfernen, klicken Sie auf die &lt;g0&gt;Entfernen&lt;/g0&gt;-Schaltfläche oder löschen Sie die Datei.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T100852Z" creationid="Ragnar-F" creationdate="20230127T111427Z">
+        <seg>Um projektspezifische externe Suchvorgänge zu entfernen, klicken Sie auf die Schaltfläche &lt;g0&gt;Entfernen&lt;/g0&gt; oder löschen Sie die Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65032,8 +65032,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To disable local segmentation rules, disable this option or remove that file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T110910Z" creationid="Ragnar-F" creationdate="20221114T110910Z">
-        <seg>Um lokale Segmentierungsregeln zu deaktivieren, entfernen Sie das Häkchen bei dieser Option oder löschen Sie die Datei.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T094343Z" creationid="Ragnar-F" creationdate="20221114T110910Z">
+        <seg>Um lokale Segmentierungsregeln zu deaktivieren, deaktivieren Sie diese Option oder löschen Sie die Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65048,8 +65048,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To disable project-specific file filters, uncheck the box or remove that file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T111337Z" creationid="Ragnar-F" creationdate="20230127T111337Z">
-        <seg>Um projektspezifische Dateifilter zu deaktivieren, entfernen Sie das Häkchen bei dieser Option oder löschen Sie die Datei.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T095701Z" creationid="Ragnar-F" creationdate="20230127T111337Z">
+        <seg>Um projektspezifische Dateifilter zu deaktivieren, deaktivieren Sie diese Option oder löschen Sie die Datei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65152,8 +65152,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To enable them, check &lt;l0/&gt; in the &lt;l1/&gt; preferences.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T094222Z" creationid="Ragnar-F" creationdate="20221218T094222Z">
-        <seg>Um diese zu aktivieren, setzen Sie ein Häkchen bei &lt;l0/&gt; in den Einstellungen &lt;l1/&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T102200Z" creationid="Ragnar-F" creationdate="20221218T094222Z">
+        <seg>Um sie zu aktivieren, aktivieren Sie die Option &lt;l0/&gt; in den Einstellungen &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69452,8 +69452,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use this button to create local external searches specific to your project and adjust the settings as desired.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T120152Z" creationid="Ragnar-F" creationdate="20221114T120152Z">
-        <seg>Verwenden Sie diese Schaltfläche, um externe Suchvorgänge für Ihr Projekt festzulegen, und passen Sie die Einstellungen nach Belieben an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T100003Z" creationid="Ragnar-F" creationdate="20221114T120152Z">
+        <seg>Verwenden Sie diese Schaltfläche, um externe Suchvorgänge für Ihr Projekt festzulegen, und passen Sie die Einstellungen nach Bedarf an.</seg>
       </tuv>
     </tu>
     <tu>
