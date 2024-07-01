@@ -13311,8 +13311,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Changing the segmentation rules settings during a translation does not modify the segments registered in the project translation memory.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T105026Z" creationid="Ragnar-F" creationdate="20221114T105026Z">
-        <seg>Wenn Sie die Segmentierungsregeln während einer laufenden Übersetzung ändern, werden die registrierten Segmente im Translation Memory des Projekts nicht verändert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T091103Z" creationid="Ragnar-F" creationdate="20221114T105026Z">
+        <seg>Eine Änderung der Segmentierungsregeln während einer laufenden Übersetzung hat keine Auswirkungen auf die im Translation Memory des Projekts registrierten Segmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18042,8 +18042,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Disable this option if you prefer not to further segment the paragraphs.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T103610Z" creationid="Ragnar-F" creationdate="20221114T103331Z">
-        <seg>Deaktivieren Sie diese Option, wenn die Absätze nicht weiter aufgeteilt werden sollen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T090246Z" creationid="Ragnar-F" creationdate="20221114T103331Z">
+        <seg>Deaktivieren Sie diese Option, wenn die Absätze nicht weiter segmentiert werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34571,8 +34571,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Make sure you enter the correct language codes and that all other locations requiring such a code match the one you assign here exactly.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T092135Z" creationid="Ragnar-F" creationdate="20230223T092135Z">
-        <seg>Achten Sie darauf, dass Sie die richtigen Sprachcodes eingeben und dass alle anderen Orte, die einen solchen Code erfordern, genau mit dem Code übereinstimmen, den Sie hier eingegeben haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T090053Z" creationid="Ragnar-F" creationdate="20230223T092135Z">
+        <seg>Vergewissern Sie sich, dass Sie die richtigen Sprachcodes eingetragen haben und dass alle anderen Stellen, an denen ein Code erforderlich ist, genau diesen Codes entsprechen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38791,8 +38791,8 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>OmegaT automatically selects the tokenizers that correspond to the source and target languages but you can manually modify those settings.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233816Z" creationid="Ragnar-F" creationdate="20230126T233816Z">
-        <seg>OmegaT wählt automatisch die Tokenizer aus, die der Quell- und Zielsprache entsprechen, aber Sie können solche Einstellungen auch manuell ändern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T090229Z" creationid="Ragnar-F" creationdate="20230126T233816Z">
+        <seg>OmegaT wählt automatisch die Tokenizer aus, die der Quell- und Zielsprache entsprechen, aber Sie können diese auch manuell ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53705,8 +53705,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Switching from &lt;e0&gt;sentence&lt;/e0&gt; to &lt;e1&gt;paragraph&lt;/e1&gt; segmentation mid-translation may force OmegaT to upgrade old translation memories that did not use sentence segmentation, but not vice versa.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T105506Z" creationid="Ragnar-F" creationdate="20221114T105329Z">
-        <seg>Der Wechsel von &lt;e0&gt;Satz&lt;/e0&gt;- zu &lt;e1&gt;Absatz&lt;/e1&gt;-Segmentierung mitten in der Übersetzung könnte OmegaT dazu zwingen, alte Translation Memories zu aktualisieren, die keine Satzsegmentierung verwenden, aber nicht umgekehrt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T091424Z" creationid="Ragnar-F" creationdate="20221114T105329Z">
+        <seg>Das Umschalten von &lt;e0&gt;Satzsegmentierung&lt;/e0&gt; auf &lt;e1&gt;Absatzsegmentierung&lt;/e1&gt; während einer laufenden Übersetzung kann OmegaT dazu zwingen, alte Translation Memories zu aktualisieren, die keine Satzsegmentierung verwendet haben, aber nicht umgekehrt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75283,8 +75283,8 @@ Konfigurationsordner erstellen zu lassen.</seg>
       <tuv lang="en">
         <seg>apply the segmentation rules defined in the &lt;l0/&gt; preferences,</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233718Z" creationid="Ragnar-F" creationdate="20230126T233718Z">
-        <seg>Segmentierungsregeln anzuwenden, die in den &lt;l0/&gt;-Einstellungen definiert wurden,</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T084816Z" creationid="Ragnar-F" creationdate="20230126T233718Z">
+        <seg>Segmentierungsregeln gemäß den Einstellungen &lt;l0/&gt; anzuwenden,</seg>
       </tuv>
     </tu>
     <tu>
@@ -76989,16 +76989,16 @@ for (i in 0 ..&lt; files.size())
       <tuv lang="en">
         <seg>find grammatical and typographical mistakes from the rules set in the &lt;l0/&gt; preferences,</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233749Z" creationid="Ragnar-F" creationdate="20230126T233749Z">
-        <seg>grammatikalische und typografische Fehler mittels Regeln zu finden, die in den &lt;l0/&gt;-Einstellungen festgelegt wurden,</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T085529Z" creationid="Ragnar-F" creationdate="20230126T233749Z">
+        <seg>grammatikalische und typografische Fehler mittels Regeln gemäß den Einstellungen &lt;l0/&gt; zu finden,</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>find spelling mistakes from the dictionaries installed in the &lt;l0/&gt; preferences,</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233725Z" creationid="Ragnar-F" creationdate="20230126T233725Z">
-        <seg>Rechtschreibfehler mittels Wörterbüchern zu finden, die mit den &lt;l0/&gt;-Einstellungen installiert wurden,</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T084922Z" creationid="Ragnar-F" creationdate="20230126T233725Z">
+        <seg>Rechtschreibfehler mittels Wörterbüchern gemäß den Einstellungen &lt;l0/&gt; zu finden,</seg>
       </tuv>
     </tu>
     <tu>
@@ -77101,8 +77101,8 @@ for (i in 0 ..&lt; files.size())
       <tuv lang="en">
         <seg>get results in the &lt;l0/&gt; pane,</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230126T233714Z" creationid="Ragnar-F" creationdate="20230126T233714Z">
-        <seg>Übereinstimmungen im &lt;l0/&gt;-Bereich zu finden,</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T084725Z" creationid="Ragnar-F" creationdate="20230126T233714Z">
+        <seg>Übereinstimmungen im Fensterbereich &lt;l0/&gt; zu finden,</seg>
       </tuv>
     </tu>
     <tu>
