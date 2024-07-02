@@ -9617,8 +9617,8 @@ Dossier racine
       <tuv lang="en">
         <seg>All the parameters located in a &lt;l0&gt;project folder&lt;/l0&gt; will apply to that project regardless of which version of OmegaT opens it.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221222T111051Z" creationid="Ragnar-F" creationdate="20221218T095658Z">
-        <seg>Alle Parameter im &lt;l0&gt;Projektordner&lt;/l0&gt; gelten für dieses Projekt, egal mit welcher OmegaT-Version es geöffnet wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240702T093041Z" creationid="Ragnar-F" creationdate="20221218T095658Z">
+        <seg>Die Parameter im &lt;l0&gt;Projektordner&lt;/l0&gt; gelten nur für dieses Projekt, egal mit welcher OmegaT-Version es geöffnet wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17682,8 +17682,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Detailed instructions on building OmegaT can be found in the &lt;u0&gt;README.txt&lt;/u0&gt; file located in the &lt;f1&gt;docs_devel&lt;/f1&gt; subfolder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T151916Z" creationid="Ragnar-F" creationdate="20221114T151916Z">
-        <seg>Detaillierte Anweisungen zur Erstellung von OmegaT via Code finden Sie in der &lt;u0&gt;README.txt&lt;/u0&gt;-Datei im Unterordner &lt;f1&gt;docs_devel&lt;/f1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240702T093954Z" creationid="Ragnar-F" creationdate="20221114T151916Z">
+        <seg>Detaillierte Anweisungen zur Erstellung von OmegaT via Code finden Sie in der Datei &lt;u0&gt;README.txt&lt;/u0&gt; im Unterordner &lt;f1&gt;docs_devel&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28718,8 +28718,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you performed a manual installation on Linux, you will have to manually delete the OmegaT folders in &lt;f0&gt;opt/&lt;/f0&gt;, as well as the symlinks placed in &lt;f1&gt;/usr/local/bin/&lt;/f1&gt; by the installation script.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T150515Z" creationid="Ragnar-F" creationdate="20221114T150515Z">
-        <seg>Wenn Sie eine manuelle Installation unter Linux durchgeführt haben, müssen Sie die OmegaT-Ordner in &lt;f0&gt;opt/&lt;/f0&gt; sowie die Symlinks, die das Installationsskript in &lt;f1&gt;/usr/local/bin/&lt;/f1&gt; platziert hat, manuell löschen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240702T093425Z" creationid="Ragnar-F" creationdate="20221114T150515Z">
+        <seg>Wenn Sie eine manuelle Installation unter Linux durchgeführt haben, müssen Sie die OmegaT-Ordner in &lt;f0&gt;opt/&lt;/f0&gt; sowie die Symlinks, die das Installationsskript in &lt;f1&gt;/usr/local/bin/&lt;/f1&gt; angelegt hat, manuell löschen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28935,8 +28935,8 @@ folgt starten können:</seg>
       <tuv lang="en">
         <seg>If you want to remove OmegaT completely, you will also have to delete the configuration folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T150157Z" creationid="Ragnar-F" creationdate="20221114T150157Z">
-        <seg>Wenn Sie OmegaT vollständig entfernen möchten, müssen Sie auch den Konfigurationsordner löschen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240702T093356Z" creationid="Ragnar-F" creationdate="20221114T150157Z">
+        <seg>Um OmegaT vollständig zu entfernen, müssen Sie auch den Konfigurationsordner löschen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40672,8 +40672,8 @@ enthalten.</seg>
       <tuv lang="en">
         <seg>Once the code is downloaded, open a terminal in the source folder (&lt;f0&gt;omegat-code/&lt;/f0&gt; if you cloned from Sourceforge, or &lt;f1&gt;/omegat&lt;/f1&gt; if you cloned from GitHub) and type:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T151543Z" creationid="Ragnar-F" creationdate="20221114T151543Z">
-        <seg>Sobald der Code heruntergeladen ist, öffnen Sie ein Terminal im Quellordner (&lt;f0&gt;omegat-code/&lt;/f0&gt;, wenn Sie es von Sourceforge geklont haben, oder &lt;f1&gt;/omegat&lt;/f1&gt;, wenn Sie es von GitHub geklont haben) und geben Sie Folgendes ein:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240702T093812Z" creationid="Ragnar-F" creationdate="20221114T151543Z">
+        <seg>Sobald Sie den Code heruntergeladen haben, öffnen Sie ein Terminal im Quellordner (&lt;f0&gt;omegat-code/&lt;/f0&gt;, wenn Sie von Sourceforge geklont haben, oder &lt;f1&gt;/omegat&lt;/f1&gt;, wenn Sie von GitHub geklont haben) und geben Sie folgendes ein:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60290,8 +60290,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The source code for the current version can either be downloaded directly from the OmegaT &lt;u0&gt;download page&lt;/u0&gt;, or cloned from the &lt;u1&gt;Sourceforge&lt;/u1&gt; or &lt;u2&gt;GitHub&lt;/u2&gt; repositories.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221219T104753Z" creationid="Ragnar-F" creationdate="20221219T104753Z">
-        <seg>Der Quellcode der aktuellen Version kann entweder direkt von der OmegaT-&lt;u0&gt;Download-Seite&lt;/u0&gt; heruntergeladen oder aus den &lt;u1&gt;Sourceforge&lt;/u1&gt;- oder &lt;u2&gt;GitHub&lt;/u2&gt;-Repositories geklont werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240702T093503Z" creationid="Ragnar-F" creationdate="20221219T104753Z">
+        <seg>Der Quellcode der aktuellen Version kann entweder direkt von der OmegaT-&lt;u0&gt;Downloadseite&lt;/u0&gt; heruntergeladen oder aus den &lt;u1&gt;Sourceforge&lt;/u1&gt;- oder &lt;u2&gt;GitHub&lt;/u2&gt;-Repositories geklont werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64350,8 +64350,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This will create a full, ready to launch distribution of OmegaT in the &lt;f0&gt;build/install/OmegaT&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221219T104941Z" creationid="Ragnar-F" creationdate="20221219T104941Z">
-        <seg>Dies wird eine vollständige, startfähige OmegaT-Distribution im Ordner &lt;f0&gt;build/install/OmegaT&lt;/f0&gt; erstellen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240702T093831Z" creationid="Ragnar-F" creationdate="20221219T104941Z">
+        <seg>Dies erstellt eine vollständige, startfähige OmegaT-Distribution im Ordner &lt;f0&gt;build/install/OmegaT&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69676,8 +69676,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use your operating system’s standard procedure to remove OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T150142Z" creationid="Ragnar-F" creationdate="20221114T150142Z">
-        <seg>Verwenden Sie das Standardverfahren Ihres Betriebssystems, um OmegaT zu entfernen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240702T093305Z" creationid="Ragnar-F" creationdate="20221114T150142Z">
+        <seg>Verwenden Sie das Standardverfahren Ihres Betriebssystems zum Entfernen von OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72706,8 +72706,8 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       <tuv lang="en">
         <seg>You can also run the application directly with the following command:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T151706Z" creationid="Ragnar-F" creationdate="20221114T151706Z">
-        <seg>Sie können die Applikation auch direkt mit dem folgenden Befehl ausführen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240702T093858Z" creationid="Ragnar-F" creationdate="20221114T151706Z">
+        <seg>Sie können die Applikation auch direkt mit folgendem Befehl ausführen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -73286,8 +73286,8 @@ Lizenz finden Sie in /docs/OmegaT-license.txt.</seg>
       <tuv lang="en">
         <seg>You can get a list of all available tasks by typing:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221114T151743Z" creationid="Ragnar-F" creationdate="20221114T151743Z">
-        <seg>Eine Liste aller verfügbaren Aufgaben erhalten Sie, wenn Sie Folgendes eingeben:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240702T093931Z" creationid="Ragnar-F" creationdate="20221114T151743Z">
+        <seg>Eine Liste aller verfügbaren Tasks erhalten Sie durch Eingabe von:</seg>
       </tuv>
     </tu>
     <tu>
