@@ -7881,8 +7881,8 @@ Dossier racine
       <tuv lang="en">
         <seg>A script file to run when a project event is triggered.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T111013Z" creationid="Ragnar-F" creationdate="20221116T111013Z">
-        <seg>Eine Skriptdatei, die ausgeführt werden soll, wenn ein Projektereignis ausgelöst wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T102150Z" creationid="Ragnar-F" creationdate="20221116T111013Z">
+        <seg>Eine Skriptdatei, die beim Auslösen eines Projektereignisses ausgeführt werden soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8273,8 +8273,8 @@ Dossier racine
       <tuv lang="en">
         <seg>Abort: Exit with an error if there are tag issues.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T111140Z" creationid="Ragnar-F" creationdate="20221116T111140Z">
-        <seg>Abort: Bei Tag-Problemen mit einem Fehler beenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T102216Z" creationid="Ragnar-F" creationdate="20221116T111140Z">
+        <seg>Abort: Bei Tag-Problemen mit einem Fehler abbrechen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23538,8 +23538,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance, if the project is EN-to-FR, the specified folder must contain a bundle ending with &lt;f0&gt;_fr&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230509T194713Z" creationid="Ragnar-F" creationdate="20230509T194713Z">
-        <seg>Wenn es sich beispielsweise um ein EN-nach-FR-Projekt handelt, muss der angegebene Ordner ein Bundle enthalten, das mit &lt;f0&gt;_fr&lt;/f0&gt; endet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T100804Z" creationid="Ragnar-F" creationdate="20230509T194713Z">
+        <seg>Wenn es sich z.B. um ein EN-nach-FR-Projekt handelt, muss der angegebene Ordner ein Bundle enthalten, das mit &lt;f0&gt;_fr&lt;/f0&gt; endet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30242,8 +30242,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In this mode, OmegaT will align the files in the /source folder of the project with those at the location specified by the &lt;e0&gt;--alignDir&lt;/e0&gt; parameter below.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230509T194351Z" creationid="Ragnar-F" creationdate="20230509T194351Z">
-        <seg>In diesem Modus wird OmegaT die Dateien im /source-Ordner des Projekts an die Dateien im Speicherort, angegeben durch den Parameter &lt;e0&gt;--alignDir&lt;/e0&gt; unten, ausrichten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T100325Z" creationid="Ragnar-F" creationdate="20230509T194351Z">
+        <seg>In diesem Modus gleicht OmegaT die Dateien im /source-Ordner des Projekts mit denen im via &lt;e0&gt;--alignDir&lt;/e0&gt; angegebenen Speicherort an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35860,8 +35860,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Minimize the output shown on the command line.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110907Z" creationid="Ragnar-F" creationdate="20221116T110907Z">
-        <seg>Ausgabe der Befehlszeile reduzieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T102029Z" creationid="Ragnar-F" creationdate="20221116T110907Z">
+        <seg>Reduziert die in der Befehlszeile angezeigte Ausgabe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43867,8 +43867,8 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
       <tuv lang="en">
         <seg>Prints to that file, or to standard output if absent.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110511Z" creationid="Ragnar-F" creationdate="20221116T110511Z">
-        <seg>Schreibt in die angegebene Datei, oder in die Standardausgabe, wenn keine Datei angegeben ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T101820Z" creationid="Ragnar-F" creationdate="20221116T110511Z">
+        <seg>Schreibt die Ausgabe in die angegebene Datei. Wenn keine angegeben ist, wird die Ausgabe in die Standardausgabe (stdout) geschrieben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52577,8 +52577,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Specifies the output format.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110732Z" creationid="Ragnar-F" creationdate="20221116T110732Z">
-        <seg>Spezifiziert das Ausgabeformat.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T102025Z" creationid="Ragnar-F" creationdate="20221116T110732Z">
+        <seg>Gibt das Ausgabeformat an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53553,8 +53553,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Supported filters include: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, and Windows Resources.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T105939Z" creationid="Ragnar-F" creationdate="20221116T105939Z">
-        <seg>Zu den unterstützten Filtern gehören: ILIAS Language File, Java(TM) Resource Bundles, Schlüssel=Wert-Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles und Windows Resources.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T101609Z" creationid="Ragnar-F" creationdate="20221116T105939Z">
+        <seg>Unterstützte Filter sind ILIAS Language File, Java(TM) Resource Bundles, Schlüssel=Wert-Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles und Windows Resources.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59050,8 +59050,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The output defaults to xml.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110651Z" creationid="Ragnar-F" creationdate="20221116T110651Z">
-        <seg>Für die Ausgabe wird standardmäßig xml verwendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T101926Z" creationid="Ragnar-F" creationdate="20221116T110651Z">
+        <seg>Standardmäßig wird xml für die Ausgabe verwendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59138,8 +59138,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The path containing the files translated in the target language.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230509T194546Z" creationid="Ragnar-F" creationdate="20230509T194546Z">
-        <seg>Der Pfad mit den Dateien, die in die Zielsprache übersetzt wurden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T100723Z" creationid="Ragnar-F" creationdate="20230509T194546Z">
+        <seg>Der Pfad zu den Dateien, die in die Zielsprache übersetzt wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59594,8 +59594,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The resulting TMX file is saved in the &lt;f0&gt;omegat/&lt;/f0&gt; folder as &lt;f1&gt;align.tmx&lt;/f1&gt; The file types that can be aligned depend on whether the alignment is supported by the file filter.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230509T194920Z" creationid="Ragnar-F" creationdate="20230509T194920Z">
-        <seg>Die resultierende TMX-Datei wird im &lt;f0&gt;omegat/&lt;/f0&gt;-Ordner unter &lt;f1&gt;align.tmx&lt;/f1&gt; gespeichert. Welche Dateitypen ausgerichtet werden können, hängt davon ab, ob die Ausrichtung vom Dateifilter unterstützt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T101516Z" creationid="Ragnar-F" creationdate="20230509T194920Z">
+        <seg>Die resultierende TMX-Datei wird im &lt;f0&gt;omegat/&lt;/f0&gt;-Ordner unter &lt;f1&gt;align.tmx&lt;/f1&gt; gespeichert. Welche Dateitypen angeglichen werden können, hängt von der Unterstützung des jeweiligen Dateifilters ab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71635,8 +71635,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>Without &lt;e0&gt;--stats-type&lt;/e0&gt;, detects format from file extension.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T110549Z" creationid="Ragnar-F" creationdate="20221116T110549Z">
-        <seg>Wenn &lt;e0&gt;--stats-type&lt;/e0&gt; nicht angegeben ist, wird das Format via Dateiendung ermittelt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T101902Z" creationid="Ragnar-F" creationdate="20221116T110549Z">
+        <seg>Wenn &lt;e0&gt;--stats-type&lt;/e0&gt; nicht angegeben ist, wird das Format über die Dateiendung bestimmt.</seg>
       </tuv>
     </tu>
     <tu>
