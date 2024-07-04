@@ -9121,8 +9121,8 @@ Dossier racine
       <tuv lang="en">
         <seg>After you generate the target files use &lt;l0/&gt;&lt;l1/&gt; to add them to the server, if the project administrator has requested you to do so.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221219T122738Z" creationid="Ragnar-F" creationdate="20221219T122738Z">
-        <seg>Nachdem Sie die Zieldateien erstellt haben, verwenden Sie &lt;l0/&gt;&lt;l1/&gt;, um sie auf dem Server hochzuladen, sofern der Projektadministrator Sie dazu aufgefordert hat.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T084528Z" creationid="Ragnar-F" creationdate="20221219T122738Z">
+        <seg>Nachdem Sie die Zieldateien erstellt haben, können Sie sie mit &lt;l0/&gt;&lt;l1/&gt; auf den Server hochladen, sofern der Projektadministrator Sie darum gebeten hat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9417,8 +9417,8 @@ Dossier racine
       <tuv lang="en">
         <seg>All changes will be synchronized the next time a connection is available.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150136Z" creationid="Ragnar-F" creationdate="20221116T150136Z">
-        <seg>Alle Änderungen werden synchronisiert, wenn das nächste Mal eine Verbindung verfügbar ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T084705Z" creationid="Ragnar-F" creationdate="20221116T150136Z">
+        <seg>Alle Änderungen werden bei der nächsten verfügbaren Verbindung synchronisiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22520,8 +22520,8 @@ Backup-Dateiendung '.recover'.</seg>
       <tuv lang="en">
         <seg>Files in a team project cannot be deleted from OmegaT or the local file system.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150005Z" creationid="Ragnar-F" creationdate="20221116T145919Z">
-        <seg>Dateien in einem Teamprojekt können nicht via OmegaT oder via lokalem Dateisystem gelöscht werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T084642Z" creationid="Ragnar-F" creationdate="20221116T145919Z">
+        <seg>Dateien in einem Teamprojekt können weder über OmegaT noch über das lokale Dateisystem gelöscht werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23298,8 +23298,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, many hosting services support access to the same repository using either the SSH +Git or https protocol.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T145147Z" creationid="Ragnar-F" creationdate="20221116T145147Z">
-        <seg>Zum Beispiel unterstützen viele Hosting-Dienste den Zugriff auf dasselbe Repository entweder über das SSH +Git- oder das https-Protokoll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T083901Z" creationid="Ragnar-F" creationdate="20221116T145147Z">
+        <seg>Zum Beispiel unterstützen viele Hosting-Dienste den Zugriff auf dasselbe Repository via SSH +Git- oder https-Protokoll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27481,16 +27481,16 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If the remote project contains custom mappings, but the local project does not, the mappings from the server are applied to the local project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T145016Z" creationid="Ragnar-F" creationdate="20221116T145016Z">
-        <seg>Wenn das Remote-Projekt benutzerdefinierte Zuordnungen enthält, aber nicht das lokale Projekt, werden die Zuordnungen des Servers auf das lokale Projekt angewendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T083448Z" creationid="Ragnar-F" creationdate="20221116T145016Z">
+        <seg>Wenn das Remote-Projekt benutzerdefinierte Zuordnungen enthält, das lokale Projekt jedoch nicht, werden die Zuordnungen des Servers auf das lokale Projekt angewendet.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If the remote project specifies a URL protocol and you download it using a different protocol, your local configuration will be preserved.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T145052Z" creationid="Ragnar-F" creationdate="20221116T145052Z">
-        <seg>Wenn das Remote-Projekt ein URL-Protokoll vorgibt und Sie es mit einem anderen Protokoll herunterladen, bleibt Ihre lokale Konfiguration erhalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T083756Z" creationid="Ragnar-F" creationdate="20221116T145052Z">
+        <seg>Wenn das Remote-Projekt ein URL-Protokoll vorgibt, aber das Projekt mit einem anderen Protokoll heruntergeladen wird, bleibt die lokale Konfiguration erhalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27633,8 +27633,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If there is a conflict between the remote and local versions of the &lt;f0&gt;omegat.project&lt;/f0&gt; file and the local version is overwritten, OmegaT creates a backup file called &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230509T195028Z" creationid="Ragnar-F" creationdate="20230509T195028Z">
-        <seg>Wenn es einen Konflikt zwischen der Lokal- und Remote-Version der &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei gibt und die lokale Version überschrieben wird, erstellt OmegaT eine Sicherungskopie namens &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T084109Z" creationid="Ragnar-F" creationdate="20230509T195028Z">
+        <seg>Wenn es einen Konflikt zwischen der lokalen und der Remote-Version der &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei gibt und die lokale Version überschrieben wird, erstellt OmegaT eine Sicherungskopie namens &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28284,8 +28284,8 @@ angezeigt werden.</seg>
       <tuv lang="en">
         <seg>If you first download the remote project using an &lt;f0&gt;omegat.project&lt;/f0&gt; file provided by the project administrator, OmegaT will use the mappings in that file, if any.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T145332Z" creationid="Ragnar-F" creationdate="20221116T145332Z">
-        <seg>Wenn Sie das Remote-Projekt zunächst mit einer vom Projektadministrator bereitgestellten &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei herunterladen, verwendet OmegaT die Zuordnungen in dieser Datei, sofern vorhanden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T084024Z" creationid="Ragnar-F" creationdate="20221116T145332Z">
+        <seg>Wenn Sie das Remote-Projekt zunächst mit einer vom Projektadministrator bereitgestellten &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei herunterladen, wird OmegaT die Zuordnungen in dieser Datei verwenden, sofern vorhanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38943,8 +38943,8 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>OmegaT creates up to ten backup files, and older backups are automatically deleted in turn.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230306T171548Z" creationid="Ragnar-F" creationdate="20230306T171548Z">
-        <seg>OmegaT erstellt bis zu zehn Sicherungskopien. Ältere Sicherungskopien werden wiederum automatisch gelöscht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T084122Z" creationid="Ragnar-F" creationdate="20230306T171548Z">
+        <seg>OmegaT erstellt bis zu zehn Sicherungskopien. Ältere Sicherungskopien werden automatisch gelöscht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40064,8 +40064,8 @@ enthalten.</seg>
       <tuv lang="en">
         <seg>OmegaT will respect the local protocol selection.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T145229Z" creationid="Ragnar-F" creationdate="20221116T145229Z">
-        <seg>OmegaT wird die lokale Protokollauswahl respektieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T083921Z" creationid="Ragnar-F" creationdate="20221116T145229Z">
+        <seg>OmegaT respektiert die lokale Protokollauswahl.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45374,8 +45374,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remember that any modifications to the local project configuration files will be overwritten by the versions on the server when the project is synchronized.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T145619Z" creationid="Ragnar-F" creationdate="20221116T145619Z">
-        <seg>Denken Sie daran, dass alle Änderungen an den lokalen Projektkonfigurationsdateien mit den Versionen auf dem Server überschrieben werden, wenn das Projekt synchronisiert wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T084145Z" creationid="Ragnar-F" creationdate="20221116T145619Z">
+        <seg>Beachten Sie, dass alle Änderungen an den lokalen Projektkonfigurationsdateien mit den Versionen auf dem Server überschrieben werden, wenn das Projekt synchronisiert wird.</seg>
       </tuv>
     </tu>
     <tu>
