@@ -6557,16 +6557,16 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;Develop&lt;/l0&gt; a filter for the format.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T124029Z" creationid="Ragnar-F" creationdate="20230127T124029Z">
-        <seg>&lt;l0&gt;Entwickeln&lt;/l0&gt; Sie ein Filter für das Format.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T071642Z" creationid="Ragnar-F" creationdate="20230127T124029Z">
+        <seg>&lt;l0&gt;Entwickeln&lt;/l0&gt; Sie einen Filter für das Format.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;Extend&lt;/l0&gt; OmegaT with third-party plugins that support the format.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T124016Z" creationid="Ragnar-F" creationdate="20230127T124016Z">
-        <seg>&lt;l0&gt;Erweitern&lt;/l0&gt; Sie OmegaT mit Plugins von Drittanbietern, die das Format unterstützen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T071553Z" creationid="Ragnar-F" creationdate="20230127T124016Z">
+        <seg>&lt;l0&gt;Erweitern&lt;/l0&gt; Sie OmegaT um Plugins von Drittanbietern, die das Format unterstützen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7801,8 +7801,8 @@ Dossier racine
       <tuv lang="en">
         <seg>A number of free software third party utilities provide such “round-trip” conversion, including:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071719Z" creationid="Ragnar-F" creationdate="20221219T120913Z">
-        <seg>Es gibt eine Vielzahl von kostenlosen Dienstprogrammen von Drittanbietern, die eine solche Hin-und-Her-Konvertierung ermöglichen, wie zum Beispiel:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T072216Z" creationid="Ragnar-F" creationdate="20221219T120913Z">
+        <seg>Es gibt eine Reihe von kostenlosen Dienstprogrammen von Drittanbietern, die eine solche Hin- und Rückkonvertierung ermöglichen, zum Beispiel:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27377,8 +27377,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If the format you want to translate is structurally close to an already supported format, just add its file extension to the supported format extension list, or change the file extension to one that is accepted by the file filter that you want to use.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T131407Z" creationid="Ragnar-F" creationdate="20221116T131407Z">
-        <seg>Wenn das Format, die Sie übersetzen möchten, strukturell einem bereits unterstützten Format ähnelt, fügen Sie einfach dessen Dateiendung zur Liste der unterstützten Formatendungen hinzu, oder ändern Sie die Dateiendung in eine Endung, die vom gewünschten Dateifilter akzeptiert wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T071919Z" creationid="Ragnar-F" creationdate="20221116T131407Z">
+        <seg>Wenn ein Format, das Sie übersetzen möchten, strukturell einem bereits unterstützten Format ähnelt, fügen Sie einfach seine Dateiendung zur Liste der unterstützten Formatendungen hinzu oder ändern Sie die Dateiendung in eine, die vom gewünschten Dateifilter akzeptiert wird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28662,8 +28662,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you need to support formats that are not covered by OmegaT, there are four ways to do so:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221219T120626Z" creationid="Ragnar-F" creationdate="20221219T120626Z">
-        <seg>Wenn Sie Formate unterstützen müssen, die nicht von OmegaT abgedeckt werden, gibt es vier Möglichkeiten, dies zu tun:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T071454Z" creationid="Ragnar-F" creationdate="20221219T120626Z">
+        <seg>Wenn Sie Formate benötigen, die OmegaT nicht unterstützt, können Sie das auf vier Arten tun:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32246,8 +32246,8 @@ Konfigurationsordners zu erstellen.</seg>
       <tuv lang="en">
         <seg>It will also create an empty translation memory that it will fill in the background, one segment at as time as you type your translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240702T074631Z" creationid="Ragnar-F" creationdate="20230127T115925Z">
-        <seg>Außerdem erstellt OmegaT einen leeren Übersetzungsspeicher (engl. translation memory, kurz TM), den es im Hintergrund Segment für Segment füllt, während Sie Ihre Übersetzung eingeben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T070749Z" creationid="Ragnar-F" creationdate="20230127T115925Z">
+        <seg>Außerdem erstellt OmegaT einen leeren Übersetzungsspeicher (engl. Translation Memory, kurz TM), den es im Hintergrund Segment für Segment füllt, während Sie Ihre Übersetzung eingeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40240,8 +40240,8 @@ enthalten.</seg>
       <tuv lang="en">
         <seg>OmegaT's file filters provide a wide range of support for common and less common file formats.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T130545Z" creationid="Ragnar-F" creationdate="20221116T130545Z">
-        <seg>Die Dateifilter von OmegaT bieten eine breite Palette an Unterstützung für gängige und weniger gängige Dateiformate.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T071406Z" creationid="Ragnar-F" creationdate="20221116T130545Z">
+        <seg>Die Dateifilter von OmegaT unterstützen eine Vielzahl gängiger und weniger gängiger Dateiformate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41602,8 +41602,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>OpenXLIFF supports a number of file filters, including some not supported natively by OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221219T121038Z" creationid="Ragnar-F" creationdate="20221219T121038Z">
-        <seg>OpenXLIFF unterstützt eine Reihe von Dateifiltern, darunter einige, die von OmegaT nicht nativ unterstützt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T072708Z" creationid="Ragnar-F" creationdate="20221219T121038Z">
+        <seg>OpenXLIFF unterstützt eine Reihe von Dateifiltern, die nicht alle von OmegaT nativ unterstützt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51831,8 +51831,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Some formats, like PDF, cannot be properly handled through “round trip” conversions.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071725Z" creationid="Ragnar-F" creationdate="20221219T121240Z">
-        <seg>Einige Formate, wie z.B. PDF, können nicht ordnungsgemäß durch Hin-und-Her-Konvertierungen verarbeitet werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T072811Z" creationid="Ragnar-F" creationdate="20221219T121240Z">
+        <seg>Einige Formate, wie z.B. PDF, können durch Hin- und Rückkonvertierung nicht korrekt verarbeitet werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55907,8 +55907,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The Okapi Framework comes with a number of file filters, including some not supported natively by OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221219T120933Z" creationid="Ragnar-F" creationdate="20221219T120933Z">
-        <seg>Das Okapi Framework kommt mit einer Reihe von Dateifiltern, darunter einige, die von OmegaT nicht nativ unterstützt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T072333Z" creationid="Ragnar-F" creationdate="20221219T120933Z">
+        <seg>Das Okapi Framework kommt mit einer Reihe von Dateifiltern, die nicht alle von OmegaT nativ unterstützt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61962,8 +61962,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They require an intermediate conversion to a supported format that serves as a base to manually create a proper target language document.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221219T121547Z" creationid="Ragnar-F" creationdate="20221219T121547Z">
-        <seg>Diese müssen zunächst in ein unterstütztes Format konvertiert werden, das als Grundlage für die manuelle Erstellung eines geeigneten Dokuments in der Zielsprache dient.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T072855Z" creationid="Ragnar-F" creationdate="20221219T121547Z">
+        <seg>Diese Formate müssen zunächst in ein unterstütztes Format konvertiert werden, das als Grundlage für die manuelle Erstellung eines geeigneten Dokuments in der Zielsprache dient.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62034,8 +62034,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>Third-party plugins</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221219T121846Z" creationid="Ragnar-F" creationdate="20221219T121846Z">
-        <seg>Drittanbieter-Plugins</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T073131Z" creationid="Ragnar-F" creationdate="20221219T121846Z">
+        <seg>Plugins von Drittanbietern</seg>
       </tuv>
     </tu>
     <tu>
@@ -65160,8 +65160,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To ensure that all the properties of a format are properly taken into account, it is sometimes preferable to convert the file to a supported format and then convert the translated file back to the original format.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221116T132106Z" creationid="Ragnar-F" creationdate="20221116T131933Z">
-        <seg>Um sicherzustellen, dass alle Eigenschaften eines Formats ordnungsgemäß berücksichtigt werden, ist es manchmal besser, die Datei in ein unterstütztes Format zu konvertieren und dann die übersetzte Datei wieder in das ursprüngliche Format zu konvertieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T072041Z" creationid="Ragnar-F" creationdate="20221116T131933Z">
+        <seg>Um sicherzustellen, dass alle Eigenschaften eines Formats korrekt berücksichtigt werden, ist es manchmal besser, die Datei in ein unterstütztes Format zu konvertieren und dann die übersetzte Datei wieder in das Originalformat zurückzukonvertieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70786,8 +70786,8 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       <tuv lang="en">
         <seg>When installed, the plugin offers direct access to the added formats and also allows you to associate a custom filter parameters file created in Rainbow.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221219T121951Z" creationid="Ragnar-F" creationdate="20221219T121951Z">
-        <seg>Wenn das Plugin installiert ist, bietet es direkten Zugriff auf die hinzugefügten Formate und gibt Ihnen außerdem die Möglichkeit, eine in Rainbow erstellte benutzerdefinierte Filterparameterdatei zu verknüpfen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T073307Z" creationid="Ragnar-F" creationdate="20221219T121951Z">
+        <seg>Wenn das Plugin installiert ist, bietet es direkten Zugriff auf die hinzugefügten Formate und ermöglicht es, eine in Rainbow erstellte benutzerdefinierte Filterparameterdatei zu verknüpfen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73226,8 +73226,8 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       <tuv lang="en">
         <seg>You can find a number of online or offline utilities that convert PDF to common office formats, but the conversion will always require extensive manual adjustments to the target document before a proper PDF document can be produced.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221219T121839Z" creationid="Ragnar-F" creationdate="20221219T121839Z">
-        <seg>Es gibt eine Reihe von Online- oder Offline-Dienstprogrammen, die PDF in gängige Office-Formate konvertieren, allerdings erfordert die Konvertierung immer umfassende manuelle Anpassungen des Zieldokuments, bevor daraus ein ordentliches PDF-Dokument wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T073057Z" creationid="Ragnar-F" creationdate="20221219T121839Z">
+        <seg>Es gibt eine Reihe von Online- und Offline-Dienstprogrammen, die PDF in gängige Office-Formate konvertieren können, allerdings erfordert die Konvertierung immer eine umfassende manuelle Anpassung des Zieldokuments, bevor daraus ein ordentliches PDF-Dokument wird.</seg>
       </tuv>
     </tu>
     <tu>
