@@ -5353,8 +5353,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Export Selection&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230516T145957Z" creationid="Ragnar-F" creationdate="20230516T145943Z">
-        <seg>&lt;g0&gt;Auswahl exportieren&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;/k1&gt;</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T130245Z" creationid="Ragnar-F" creationdate="20230516T145943Z">
+        <seg>&lt;g0&gt;Markierten Text exportieren&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19570,8 +19570,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>E&amp;xport Selection</seg>
       </tuv>
-      <tuv lang="de" changeid="eugenie" changedate="20130611T235936Z">
-        <seg>Auswahl e&amp;xportieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T130217Z">
+        <seg>Markierten Text e&amp;xportieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -21549,8 +21549,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Export Selection</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210114T181318Z">
-        <seg>Auswahl exportieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T130231Z">
+        <seg>Markierten Text exportieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -21637,8 +21637,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Exports the current selection to a text file for processing.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152626Z">
-        <seg>Exportiert die aktuelle Auswahl in eine Textdatei, damit sie extern verarbeitet werden kann.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T130346Z">
+        <seg>Exportiert den aktuell markierten Text in eine Textdatei zur externen Weiterverarbeitung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26897,8 +26897,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If no text has been selected, the current source segment is written to this file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210125T152652Z" creationid="Ragnar-F" creationdate="20210114T181902Z">
-        <seg>Wenn kein Text markiert wurde, wird der aktuelle Quelltext in diese Datei geschrieben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T154351Z" creationid="Ragnar-F" creationdate="20210114T181902Z">
+        <seg>Wenn kein Text markiert ist, wird das aktuelle Quellsegment in diese Datei geschrieben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30979,8 +30979,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>Inserts the remaining missing source tags at the cursor position.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T131539Z" creationid="Ragnar-F" creationdate="20221117T131422Z">
-        <seg>Fügt die restlichen fehlenden Tags aus dem Quelltext an der Position des Textcursors ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T130154Z" creationid="Ragnar-F" creationdate="20221117T131422Z">
+        <seg>Fügt die restlichen fehlenden Tags an der Position des Textcursors ein.</seg>
       </tuv>
     </tu>
     <tu>
