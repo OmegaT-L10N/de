@@ -12999,8 +12999,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Cancels modifications made to the segment while it is current.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T172726Z" creationid="Ragnar-F" creationdate="20230127T172726Z">
-        <seg>Macht die Änderungen rückgängig, die am aktiven Segment vorgenommen wurden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T115534Z" creationid="Ragnar-F" creationdate="20230127T172726Z">
+        <seg>Macht Änderungen rückgängig, die am aktiven Segment vorgenommen wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27145,8 +27145,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If the &lt;l0/&gt; preference is disabled, use this action once to fetch the translation, and a second time to insert it.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T173908Z" creationid="Ragnar-F" creationdate="20230127T173908Z">
-        <seg>Wenn die &lt;l0/&gt;-Einstellung deaktiviert ist, verwenden Sie diese Aktion das erste Mal, um die Übersetzung zu holen, und ein zweites Mal, um sie einzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T124917Z" creationid="Ragnar-F" creationdate="20230127T173908Z">
+        <seg>Wenn die Einstellung &lt;l0/&gt; deaktiviert ist, muss dieser Menüpunkt zweimal verwendet werden: Beim ersten Mal wird die Übersetzung abgerufen, beim zweiten Mal wird sie eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30963,8 +30963,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match or the text selected in the &lt;l0/&gt; pane at the cursor position.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T115422Z" creationid="Ragnar-F" creationdate="20221218T115422Z">
-        <seg>Fügt den aktuell ausgewählten Fuzzy Match oder den im &lt;l0/&gt;-Bereich markierten Text an der Position des Textcursors ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T121110Z" creationid="Ragnar-F" creationdate="20221218T115422Z">
+        <seg>Fügt den aktuell ausgewählten Fuzzy Match oder den markierten Text im Fensterbereich &lt;l0/&gt; an der Position des Textcursors ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37283,8 +37283,8 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>No action is taken if no machine translation service has been activated in the &lt;l0/&gt;&lt;l1/&gt; menu.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T115704Z" creationid="Ragnar-F" creationdate="20221218T115704Z">
-        <seg>Es wird keine Aktion durchgeführt, wenn kein maschineller Übersetzungsdienst im &lt;l0/&gt;&lt;l1/&gt;-Menü aktiviert wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T125630Z" creationid="Ragnar-F" creationdate="20221218T115704Z">
+        <seg>Es wird keine Aktion ausgeführt, wenn im Menü &lt;l0/&gt;&lt;l1/&gt; kein maschineller Übersetzungsdienst aktiviert wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40640,8 +40640,8 @@ enthalten.</seg>
       <tuv lang="en">
         <seg>Once copied to the OS clipboard, it can also be used in web searches and elsewhere.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T173437Z" creationid="Ragnar-F" creationdate="20230127T173437Z">
-        <seg>Einmal in die Zwischenablage des Betriebssystems kopiert, kann es auch für die Websuche und andere Zwecke verwendet werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T122452Z" creationid="Ragnar-F" creationdate="20230127T173437Z">
+        <seg>Der Text kann auch in die Zwischenablage des Betriebssystems kopiert werden, um ihn z.B. im Internet zu suchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46278,15 +46278,15 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replaces the target segment with the currently selected fuzzy match (the first match by default) or with the text selected in the &lt;l0/&gt; pane.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T173037Z" creationid="Ragnar-F" creationdate="20230127T173037Z">
-        <seg>Ersetzt den Zieltext mit dem aktuell ausgewählten Fuzzy Match (standardmäßig der erste Match) oder mit dem markierten Text im &lt;l0/&gt;-Bereich.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T115735Z" creationid="Ragnar-F" creationdate="20230127T173037Z">
+        <seg>Ersetzt den Zieltext mit dem aktuell ausgewählten Fuzzy Match (standardmäßig der erste Match) oder mit dem markierten Text im Fensterbereich &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Replaces the target segment with the translation provided by the selected machine translation service.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T173442Z" creationid="Ragnar-F" creationdate="20230127T173442Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T125105Z" creationid="Ragnar-F" creationdate="20230127T173442Z">
         <seg>Ersetzt den Zieltext mit der Übersetzung, die vom ausgewählten maschinellen Übersetzungsdienst bereitgestellt wird.</seg>
       </tuv>
     </tu>
@@ -50491,8 +50491,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Selected text has priority over the selected match.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T173147Z" creationid="Ragnar-F" creationdate="20230127T173147Z">
-        <seg>Der markierte Text hat Vorrang vor dem ausgewählten Match.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T115752Z" creationid="Ragnar-F" creationdate="20230127T173147Z">
+        <seg>Markierter Text hat Vorrang vor dem ausgewählten Match.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60034,8 +60034,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The selection can be used directly in OmegaT for &lt;l0&gt;internal searches&lt;/l0&gt;, &lt;l1&gt;replacements&lt;/l1&gt;, &lt;l2&gt;entering glossary terms&lt;/l2&gt;, &lt;l3&gt;external searches&lt;/l3&gt;, and so on.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T173404Z" creationid="Ragnar-F" creationdate="20230127T173404Z">
-        <seg>Die Auswahl kann direkt in OmegaT für &lt;l0&gt;interne Suchvorgänge&lt;/l0&gt;, &lt;l1&gt;Ersetzungen&lt;/l1&gt;, &lt;l2&gt;Eintragen von Glossarbegriffen&lt;/l2&gt;, &lt;l3&gt;externe Suchvorgänge&lt;/l3&gt; usw. verwendet werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T121635Z" creationid="Ragnar-F" creationdate="20230127T173404Z">
+        <seg>Der markierte Text kann direkt in OmegaT für &lt;l0&gt;interne Suchvorgänge&lt;/l0&gt;, &lt;l1&gt;Ersetzungen&lt;/l1&gt;, &lt;l2&gt;Hinzufügen von Glossareinträgen&lt;/l2&gt;, &lt;l3&gt;externe Suchvorgänge&lt;/l3&gt; usw. verwendet werden.</seg>
       </tuv>
     </tu>
     <tu>
