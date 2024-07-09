@@ -26913,8 +26913,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If no text is selected, OmegaT selects the word starting with the character immediately to the right of the cursor.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T142417Z" creationid="Ragnar-F" creationdate="20221117T142417Z">
-        <seg>Wenn kein Text markiert ist, wird OmegaT die Groß-/Kleinschreibung des Wortes ändern, das mit dem Zeichen unmittelbar rechts vom Textcursor beginnt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T162606Z" creationid="Ragnar-F" creationdate="20221117T142417Z">
+        <seg>Wenn kein Text markiert ist, ändert OmegaT die Groß-/Kleinschreibung des Wortes direkt rechts vom Textcursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27025,8 +27025,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If several alternative translations are available for the active segment, you can label the alternative selected as the default translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T142653Z" creationid="Ragnar-F" creationdate="20221117T142653Z">
-        <seg>Wenn mehrere alternative Übersetzungen für das aktive Segment verfügbar sind, können Sie die ausgewählte Alternative als Standardübersetzung kennzeichnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T163403Z" creationid="Ragnar-F" creationdate="20221117T142653Z">
+        <seg>Wenn für das aktive Segment mehrere alternative Übersetzungen verfügbar sind, können Sie die ausgewählte Alternative als Standardübersetzung festlegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27129,8 +27129,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If the &lt;l0/&gt; preference is disabled, this function allows you to search for the selected word or for the whole segment terms in the dictionaries.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T111516Z" creationid="Ragnar-F" creationdate="20230223T111516Z">
-        <seg>Wenn die &lt;l0/&gt;-Einstellung deaktiviert ist, können Sie mit diesem Befehl nach dem markierten Wort oder nach allen Segmentbegriffen in den Wörterbüchern suchen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T162130Z" creationid="Ragnar-F" creationdate="20230223T111516Z">
+        <seg>Wenn die Einstellung &lt;l0/&gt; deaktiviert ist, können Sie mit dieser Funktion nach dem markierten Wort oder nach allen Segmentbegriffen in den Wörterbüchern suchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27217,8 +27217,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If the current translation does not apply, select this menu item and enter the alternative translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T142849Z" creationid="Ragnar-F" creationdate="20221117T142849Z">
-        <seg>Wenn die derzeitige Übersetzung nicht zutrifft, wählen Sie diesen Menüpunkt aus und geben Sie die alternative Übersetzung ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T163717Z" creationid="Ragnar-F" creationdate="20221117T142849Z">
+        <seg>Wenn die aktuelle Übersetzung nicht passend ist, wählen Sie diesen Menüpunkt aus und geben Sie die alternative Übersetzung ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28782,8 +28782,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before calling the function, the text will be pasted by default in the &lt;g0&gt;Search for:&lt;/g0&gt; field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T140750Z" creationid="Ragnar-F" creationdate="20221117T140401Z">
-        <seg>Wenn Sie einen Text (in einem beliebigen Fensterbereich) markieren, bevor Sie die Funktion aufrufen, wird der Text standardmäßig in das Feld &lt;g0&gt;Suche nach:&lt;/g0&gt; eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T162251Z" creationid="Ragnar-F" creationdate="20221117T140401Z">
+        <seg>Wenn Sie vor dem Aufruf der Funktion einen Text (in einem beliebigen Fensterbereich) markieren, wird dieser Text standardmäßig in das Feld "&lt;g0&gt;Suche nach:&lt;/g0&gt;" eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38975,8 +38975,8 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>OmegaT differentiates between identical segments using either an internal identifier provided by the file type, or by referring to their preceding and following segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T145725Z" creationid="Ragnar-F" creationdate="20240617T145725Z">
-        <seg>OmegaT unterscheidet zwischen identischen Segmenten, indem es entweder einen internen Identifikator verwendet, der durch den Dateityp bereitgestellt wird, oder indem es sich auf ihr vorheriges und nächstes Segment bezieht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T163742Z" creationid="Ragnar-F" creationdate="20240617T145725Z">
+        <seg>OmegaT unterscheidet zwischen identischen Segmenten, indem es entweder einen internen Identifikator verwendet, der durch den Dateityp bereitgestellt wird, oder indem es auf das vorherige und nächste Segment Bezug nimmt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40480,8 +40480,8 @@ enthalten.</seg>
       <tuv lang="en">
         <seg>On macOS, the &lt;k0&gt;&lt;k1&gt;F3&lt;/k1&gt;&lt;/k0&gt; key enables the &lt;e2&gt;overwrite&lt;/e2&gt; mode in the editor.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240708T084720Z" creationid="Ragnar-F" creationdate="20230223T111631Z">
-        <seg>Unter macOS aktiviert die &lt;k0&gt;&lt;k1&gt;F3&lt;/k1&gt;&lt;/k0&gt;-Taste den &lt;e2&gt;Überschreibmodus&lt;/e2&gt; im Editor.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T162737Z" creationid="Ragnar-F" creationdate="20230223T111631Z">
+        <seg>Unter macOS aktiviert die Taste &lt;k0&gt;&lt;k1&gt;F3&lt;/k1&gt;&lt;/k0&gt; den &lt;e2&gt;Überschreibmodus&lt;/e2&gt; im Editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49667,8 +49667,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Segments that are one and the same segment may, depending on the context, require different translations.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T142804Z" creationid="Ragnar-F" creationdate="20221117T142804Z">
-        <seg>Segmente, die ein und dasselbe Segment sind, können je nach Kontext verschiedene Übersetzungen erfordern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T163606Z" creationid="Ragnar-F" creationdate="20221117T142804Z">
+        <seg>Identische Segmente können je nach Kontext verschiedene Übersetzungen erfordern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50547,8 +50547,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Selects the previous, next or &lt;v0&gt;n&lt;/v0&gt;th fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T142508Z" creationid="Ragnar-F" creationdate="20221117T142508Z">
-        <seg>Wählt den vorherigen, den nächsten oder den &lt;v0&gt;n&lt;/v0&gt;-ten gefundenen Match im Fuzzy-Matches-Bereich aus, um ihn in das Segment einzufügen oder um das Segment zu ersetzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T163319Z" creationid="Ragnar-F" creationdate="20221117T142508Z">
+        <seg>Wählt den vorherigen, nächsten oder &lt;v0&gt;n&lt;/v0&gt;-ten Match im Fensterbereich "Fuzzy Matches" aus, um ihn in das Segment einzufügen oder um das Segment zu ersetzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55246,8 +55246,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; combination reuses the most recent still open Search window instead of opening a new one.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T174735Z" creationid="Ragnar-F" creationdate="20230127T174735Z">
-        <seg>Die Tastenkombination &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; verwendet das zuletzt geöffnete Suchfenster wieder, anstatt ein neues zu öffnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T161942Z" creationid="Ragnar-F" creationdate="20230127T174735Z">
+        <seg>Die Tastenkombination &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; verwendet das zuletzt geöffnete Suchfenster, anstatt ein neues zu öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57447,8 +57447,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The entry will be grayed if only one translation is available.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T175755Z" creationid="Ragnar-F" creationdate="20230127T175755Z">
-        <seg>Der Menüpunkt ist ausgegraut, wenn nur eine Übersetzung vorhanden ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T163516Z" creationid="Ragnar-F" creationdate="20230127T175755Z">
+        <seg>Der Menüpunkt ist ausgegraut, wenn nur eine Übersetzung verfügbar ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69516,8 +69516,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use this command to register a translation as identical to the source, even if the &lt;l0/&gt; preference is not enabled.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T120150Z" creationid="Ragnar-F" creationdate="20221218T120150Z">
-        <seg>Verwenden Sie diesen Befehl, um eine Übersetzung mit dem Kennzeichen zu versehen, dass sie identisch mit der Quelle ist, sogar wenn die &lt;l0/&gt;-Einstellung deaktiviert ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T170257Z" creationid="Ragnar-F" creationdate="20221218T120150Z">
+        <seg>Verwenden Sie diese Funktion, um eine Übersetzung mit dem Kennzeichen zu versehen, dass sie identisch mit der Quelle ist, sogar wenn die Einstellung &lt;l0/&gt; deaktiviert ist.</seg>
       </tuv>
     </tu>
     <tu>
