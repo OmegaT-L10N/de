@@ -28750,8 +28750,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you press down ALT key during selecting the menu item, opens a folder enclosing the file, by OS standard file manager such as finder or file explorer, instead of opening the file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240617T155422Z" creationid="Ragnar-F" creationdate="20240617T155225Z">
-        <seg>Wenn Sie während des Anklickens des Menüpunkts die ALT-Taste gedrückt halten, wird die Datei im Standard-Dateimanager des Betriebssystems (z.B. Finder oder Datei-Explorer) geöffnet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240710T161524Z" creationid="Ragnar-F" creationdate="20240617T155225Z">
+        <seg>Wenn Sie beim Anklicken des Menüpunkts die ALT-Taste gedrückt halten, wird die Datei in Ihrem Dateimanager (z.B. Finder oder Datei-Explorer) geöffnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41850,8 +41850,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Opens the file in the associated application if the file exists.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T182619Z" creationid="Ragnar-F" creationdate="20230127T182619Z">
-        <seg>Öffnet die Datei in der zugeordneten Applikation, sofern die Datei vorhanden ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240710T161334Z" creationid="Ragnar-F" creationdate="20230127T182619Z">
+        <seg>Öffnet die Datei in der zugeordneten Applikation, sofern vorhanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41866,8 +41866,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Opens the folder in your default file manager.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T182512Z" creationid="Ragnar-F" creationdate="20230127T182512Z">
-        <seg>Öffnet den Projektordner in Ihrem Standard-Dateimanager.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240710T160400Z" creationid="Ragnar-F" creationdate="20230127T182512Z">
+        <seg>Öffnet den Projektordner in Ihrem Dateimanager.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47526,8 +47526,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Saves the project and quits OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T184722Z" creationid="Ragnar-F" creationdate="20221117T184722Z">
-        <seg>Speichert das Projekt und schließt OmegaT.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240710T161739Z" creationid="Ragnar-F" creationdate="20221117T184722Z">
+        <seg>Speichert das Projekt und beendet OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57007,16 +57007,16 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The current source file is located in the &lt;l0/&gt; folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T184224Z" creationid="Ragnar-F" creationdate="20221117T184224Z">
-        <seg>Die aktuelle Quelldatei befinden sich im Ordner &lt;l0/&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240710T161121Z" creationid="Ragnar-F" creationdate="20221117T184224Z">
+        <seg>Die aktuelle Quelldatei befindet sich im Ordner &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The current target file is located in the &lt;l0/&gt; folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T184318Z" creationid="Ragnar-F" creationdate="20221117T184318Z">
-        <seg>Die aktuelle Zieldatei befinden sich im Ordner &lt;l0/&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240710T161329Z" creationid="Ragnar-F" creationdate="20221117T184318Z">
+        <seg>Die aktuelle Zieldatei befindet sich im Ordner &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57623,8 +57623,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The files are opened in the default application set by the operating system.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T184029Z" creationid="Ragnar-F" creationdate="20221117T184029Z">
-        <seg>Die Dateien werden in der vom Betriebssystem vorgegebenen Standardapplikation geöffnet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240710T160058Z" creationid="Ragnar-F" creationdate="20221117T184029Z">
+        <seg>Die Dateien werden mit der im System eingestellten Standardapplikation geöffnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58994,8 +58994,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The options are grayed out if the files do not exist.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T184044Z" creationid="Ragnar-F" creationdate="20221117T184044Z">
-        <seg>Die Optionen sind ausgegraut, wenn die Dateien nicht vorhanden sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240710T160335Z" creationid="Ragnar-F" creationdate="20221117T184044Z">
+        <seg>Die Menüpunkte sind ausgegraut, wenn die Dateien nicht verfügbar sind.</seg>
       </tuv>
     </tu>
     <tu>
