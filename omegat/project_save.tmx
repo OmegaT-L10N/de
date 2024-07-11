@@ -9569,8 +9569,8 @@ Dossier racine
       <tuv lang="en">
         <seg>All the colours indicated in the descriptions can be modified in the &lt;l0/&gt; preference.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T111918Z" creationid="Ragnar-F" creationdate="20230223T111918Z">
-        <seg>Alle angegebenen Farben in den Beschreibungen können in der &lt;l0/&gt;-Einstellung geändert werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T091420Z" creationid="Ragnar-F" creationdate="20230223T111918Z">
+        <seg>Alle angegebenen Farben in den Beschreibungen können in der Einstellung &lt;l0/&gt; geändert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10035,6 +10035,14 @@ Dossier racine
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T222642Z" creationid="Ragnar-F" creationdate="20221109T222642Z">
         <seg>Alternativ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternative translation highlight</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T090826Z" creationid="Ragnar-F" creationdate="20240711T090826Z">
+        <seg>Alternative-Übersetzung-Hervorhebung</seg>
       </tuv>
     </tu>
     <tu>
@@ -13943,8 +13951,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Check this option if OmegaT does not display certain glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133903Z" creationid="Ragnar-F" creationdate="20230127T133903Z">
-        <seg>Aktivieren Sie diese Option, falls OmegaT bestimmte Glyphen nicht korrekt anzeigt (auch wenn die Schriftarten, die die entsprechenden Glyphen enthalten, auf Ihrem Rechner installiert sind).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T094837Z" creationid="Ragnar-F" creationdate="20230127T133903Z">
+        <seg>Aktivieren Sie diese Option, wenn OmegaT bestimmte Glyphen nicht korrekt anzeigt (auch wenn die Schriftarten mit den entsprechenden Glyphen auf Ihrem Computer installiert sind).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17098,8 +17106,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Custom tags and flagged text: as with OmegaT tags, they are not counted by default in the statistics, but you can have OmegaT count them as words.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T084108Z" creationid="Ragnar-F" creationdate="20230127T183208Z">
-        <seg>Benutzerdefinierte Tags und geschützte Texte: Genau wie die OmegaT-Tags werden diese standardmäßig in den Statistiken ignoriert, aber Sie können OmegaT so einstellen, dass sie als Wörter gezählt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T090258Z" creationid="Ragnar-F" creationdate="20230127T183208Z">
+        <seg>Benutzerdefinierte Tags und geschützte Texte: Genau wie die OmegaT-Tags werden diese standardmäßig in den Statistiken ignoriert, aber Sie können OmegaT so einstellen, dass sie mitgezählt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18074,8 +18082,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230113T230850Z" creationid="Ragnar-F" creationdate="20230113T230850Z">
-        <seg>L&amp;eerraum anzeigen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T090446Z" creationid="Ragnar-F" creationdate="20230113T230850Z">
+        <seg>L&amp;eerräume anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -18258,8 +18266,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Display Whitespace</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133335Z" creationid="Ragnar-F" creationdate="20230127T133335Z">
-        <seg>Leerraum anzeigen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T090457Z" creationid="Ragnar-F" creationdate="20230127T133335Z">
+        <seg>Leerräume anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -18522,8 +18530,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Displays the time and the author of the last change made to a segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T123347Z" creationid="Ragnar-F" creationdate="20221218T123347Z">
-        <seg>Zeigt die Uhrzeit und den Autor der letzten Änderung an einem Segment an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T095032Z" creationid="Ragnar-F" creationdate="20221218T123347Z">
+        <seg>Zeigt den Zeitpunkt und den Autor der letzten Änderung eines Segments an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23658,8 +23666,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For that reason, it is OFF by default.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T162100Z" creationid="Michael Motzkus" creationdate="20180918T151731Z">
-        <seg>Aus diesem Grund ist dieser Mechanismus standardmäßig ausgeschaltet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T094950Z" creationid="Michael Motzkus" creationdate="20180918T151731Z">
+        <seg>Aus diesem Grund ist dieser Mechanismus standardmäßig deaktiviert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25549,6 +25557,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight Segments with Alternative Translation</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T090753Z" creationid="Ragnar-F" creationdate="20240711T090753Z">
+        <seg>Segmente mit alternativer Übersetzung hervorheben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Segments with Notes</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133250Z" creationid="Ragnar-F" creationdate="20230127T133250Z">
@@ -25703,7 +25719,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Hovering on an underlined term displays the matching target term.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T110855Z" creationid="Ragnar-F" creationdate="20221118T110855Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T094406Z" creationid="Ragnar-F" creationdate="20221118T110855Z">
         <seg>Wenn Sie den Mauszeiger über einen unterstrichenen Begriff bewegen, wird der zugehörige Zielbegriff angezeigt.</seg>
       </tuv>
     </tu>
@@ -26576,8 +26592,8 @@ verwendet, und alle Einstellungen werden auf ihre Standardwerte zurückgesetzt.<
       <tuv lang="en">
         <seg>If checked, segments that have been auto-populated are highlighted in various colours.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T111922Z" creationid="Ragnar-F" creationdate="20230223T111922Z">
-        <seg>Wenn aktiviert, werden automatisch ausgefüllte Segmente mit unterschiedlichen Farben hervorgehoben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T094048Z" creationid="Ragnar-F" creationdate="20230223T111922Z">
+        <seg>Wenn aktiviert, werden automatisch ausgefüllte Segmente in verschiedenen Farben hervorgehoben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26608,8 +26624,8 @@ verwendet, und alle Einstellungen werden auf ihre Standardwerte zurückgesetzt.<
       <tuv lang="en">
         <seg>If checked, separations between paragraphs in the source document are indicated visually.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T104729Z" creationid="Ragnar-F" creationdate="20221118T104729Z">
-        <seg>Wenn aktiviert, werden die Begrenzungen zwischen den Absätzen im Quelldokument visuell kenntlich gemacht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T091604Z" creationid="Ragnar-F" creationdate="20221118T104729Z">
+        <seg>Wenn aktiviert, wird visuell kenntlich gemacht, wann ein Absatz beginnt und endet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26704,8 +26720,8 @@ verwendet, und alle Einstellungen werden auf ihre Standardwerte zurückgesetzt.<
       <tuv lang="en">
         <seg>If checked, white spaces are displayed as a small dot.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133404Z" creationid="Ragnar-F" creationdate="20230127T133404Z">
-        <seg>Wenn aktiviert, werden Leerräume als kleiner Punkt angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T093548Z" creationid="Ragnar-F" creationdate="20230127T133404Z">
+        <seg>Wenn aktiviert, werden Leerräume als kleine Punkte dargestellt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40432,8 +40448,8 @@ enthalten.</seg>
       <tuv lang="en">
         <seg>On Windows this manual font fallback mechanism has been known to interfere with the standard font fallback, causing undesirable font substitutions.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T111438Z" creationid="Ragnar-F" creationdate="20221118T111438Z">
-        <seg>In Windows wurde festgestellt, dass dieser manuelle Font-Fallback-Mechanismus mit dem Standard-Font-Fallback interferiert, was zu unerwünschten Font-Substitutionen führen kann.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T094937Z" creationid="Ragnar-F" creationdate="20221118T111438Z">
+        <seg>Unter Windows hat sich gezeigt, dass dieser manuelle Font-Fallback-Mechanismus mit dem Standard-Font-Fallback interferiert, was zu unerwünschten Font-Ersetzungen führen kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42455,8 +42471,8 @@ Vanishing like mist</seg>
       <tuv lang="en">
         <seg>Paragraph delimitation format</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T144706Z" creationid="Ragnar-F" creationdate="20221119T144706Z">
-        <seg>Format der Absatzbegrenzung</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T093006Z" creationid="Ragnar-F" creationdate="20221119T144706Z">
+        <seg>Darstellungsweise der Absatzbegrenzung</seg>
       </tuv>
     </tu>
     <tu>
@@ -42479,8 +42495,8 @@ Vanishing like mist</seg>
       <tuv lang="en">
         <seg>Paragraph delimiter:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T185911Z" creationid="Ragnar-F" creationdate="20221109T185911Z">
-        <seg>Absatzbegrenzung:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T092455Z" creationid="Ragnar-F" creationdate="20221109T185911Z">
+        <seg>Darstellungsweise der Absatzbegrenzung:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46686,8 +46702,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Restores the OmegaT window layout to its default values.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230516T150114Z" creationid="Ragnar-F" creationdate="20230516T150114Z">
-        <seg>Setzt das Layout des OmegaT-Fensters auf seine Standardwerte zurück.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T101255Z" creationid="Ragnar-F" creationdate="20230516T150114Z">
+        <seg>Stellt das Standardfensterlayout von OmegaT wieder her.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46942,8 +46958,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Right-clicking on an underlined term displays the matching target term, which can be selected and inserted at the cursor position in the target text.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T111107Z" creationid="Ragnar-F" creationdate="20221118T111107Z">
-        <seg>Wenn Sie mit der rechten Maustaste auf einen unterstrichenen Begriff klicken, wird der zugehörige Zielbegriff angezeigt, der ausgewählt und an der Position des Textcursors im Zieltext eingefügt werden kann.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T094349Z" creationid="Ragnar-F" creationdate="20221118T111107Z">
+        <seg>Wenn Sie mit der rechten Maustaste auf einen unterstrichenen Begriff klicken, können Sie den zugehörigen Zielbegriff auswählen und an der Position des Textcursors im Zieltext einfügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57223,8 +57239,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The default value is &lt;g0&gt;Current segment&lt;/g0&gt; and it can be set to &lt;g1&gt;All segments&lt;/g1&gt; or to &lt;g2&gt;None&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T134309Z" creationid="Ragnar-F" creationdate="20221218T123454Z">
-        <seg>Der Standardwert ist &lt;g0&gt;Nur für aktives Segment&lt;/g0&gt; und kann auf &lt;g1&gt;Für alle Segmente&lt;/g1&gt; oder &lt;g2&gt;Keine&lt;/g2&gt; gesetzt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T095303Z" creationid="Ragnar-F" creationdate="20221218T123454Z">
+        <seg>Der Standardeinstellung ist "&lt;g0&gt;Nur für aktives Segment&lt;/g0&gt;" und kann auf "&lt;g1&gt;Für alle Segmente&lt;/g1&gt;" oder "&lt;g2&gt;Keine&lt;/g2&gt;" gesetzt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63628,8 +63644,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This marking has priority over &lt;g0&gt;Highlight Translated Segments&lt;/g0&gt; and &lt;g1&gt;Highlight Untranslated Segments&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133306Z" creationid="Ragnar-F" creationdate="20230127T133306Z">
-        <seg>Diese Hervorhebung hat Vorrang vor &lt;g0&gt;Übersetzte Segmente hervorheben&lt;/g0&gt; und &lt;g1&gt;Unübersetzte Segmente hervorheben&lt;/g1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T093507Z" creationid="Ragnar-F" creationdate="20230127T133306Z">
+        <seg>Diese Hervorhebung hat Vorrang vor "&lt;g0&gt;Übersetzte Segmente hervorheben&lt;/g0&gt;" und "&lt;g1&gt;Unübersetzte Segmente hervorheben&lt;/g1&gt;".</seg>
       </tuv>
     </tu>
     <tu>
@@ -63692,8 +63708,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This menu allows you to select the information you want to OmegaT to display.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T122707Z" creationid="Ragnar-F" creationdate="20221218T122707Z">
-        <seg>Über dieses Menü können Sie Informationen auswählen, die OmegaT anzeigen soll.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T090437Z" creationid="Ragnar-F" creationdate="20221218T122707Z">
+        <seg>Über dieses Menü können Sie auswählen, welche Informationen OmegaT anzeigen soll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68652,8 +68668,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to insert a selection of characters directly from the OmegaT interface.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T133740Z" creationid="Ragnar-F" creationdate="20230127T133740Z">
-        <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt;, um eine Auswahl von Zeichen direkt über die OmegaT-Benutzeroberfläche einzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T094011Z" creationid="Ragnar-F" creationdate="20230127T133740Z">
+        <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt;, um diese Zeichen direkt über die OmegaT-Benutzeroberfläche einzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72970,8 +72986,8 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       <tuv lang="en">
         <seg>You can change the paragraph delimitation string in the &lt;l0/&gt; preference.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T122815Z" creationid="Ragnar-F" creationdate="20221218T122815Z">
-        <seg>Sie können die Absatzbegrenzung in der &lt;l0/&gt;-Einstellung ändern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T093349Z" creationid="Ragnar-F" creationdate="20221218T122815Z">
+        <seg>Sie können die &lt;l0/&gt; ändern.</seg>
       </tuv>
     </tu>
     <tu>
