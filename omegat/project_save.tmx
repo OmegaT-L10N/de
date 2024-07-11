@@ -5961,8 +5961,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Tag Issues&lt;/g0&gt; (always selected): detects missing or misplaced tags, including custom tags and flagged text.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T182750Z" creationid="Ragnar-F" creationdate="20230127T182750Z">
-        <seg>&lt;g0&gt;Tag-Probleme&lt;/g0&gt; (immer ausgewählt): Erkennt fehlende oder falsch platzierte Tags, einschließlich benutzerdefinierter Tags und geschütztem Text.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T074420Z" creationid="Ragnar-F" creationdate="20230127T182750Z">
+        <seg>&lt;g0&gt;Tag-Probleme&lt;/g0&gt; (immer ausgewählt): Erkennt fehlende oder falsch platzierte Tags, einschließlich benutzerdefinierter Tags und geschützter Texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5985,8 +5985,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional): detects all the glossary items that are not properly translated.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185415Z" creationid="Ragnar-F" creationdate="20221117T185304Z">
-        <seg>&lt;g0&gt;Terminologieprobleme&lt;/g0&gt; (optional): Erkennt alle Glossareinträge, die nicht richtig übersetzt sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T074621Z" creationid="Ragnar-F" creationdate="20221117T185304Z">
+        <seg>&lt;g0&gt;Terminologieprobleme&lt;/g0&gt; (optional): Erkennt alle Glossareinträge, die möglicherweise nicht korrekt übersetzt wurden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14583,8 +14583,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Clicking a column header changes the sort order for that column.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T182826Z" creationid="Ragnar-F" creationdate="20230127T182826Z">
-        <seg>Klicken Sie auf eine Spaltenüberschrift, um die Sortierreihenfolge der Spalte zu ändern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T074928Z" creationid="Ragnar-F" creationdate="20230127T182826Z">
+        <seg>Eine Spaltenüberschrift anklicken, um die Sortierreihenfolge der Spalte zu ändern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17098,8 +17098,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Custom tags and flagged text: as with OmegaT tags, they are not counted by default in the statistics, but you can have OmegaT count them as words.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T183208Z" creationid="Ragnar-F" creationdate="20230127T183208Z">
-        <seg>Benutzerdefinierte Tags und geschützter Text: Genau wie die OmegaT-Tags werden diese standardmäßig nicht in den Statistiken gezählt, aber Sie können OmegaT veranlassen, sie als Wörter zu zählen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T084108Z" creationid="Ragnar-F" creationdate="20230127T183208Z">
+        <seg>Benutzerdefinierte Tags und geschützte Texte: Genau wie die OmegaT-Tags werden diese standardmäßig in den Statistiken ignoriert, aber Sie können OmegaT so einstellen, dass sie als Wörter gezählt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19090,8 +19090,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Double-clicking a row activates the corresponding segment in the Editor pane.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T182820Z" creationid="Ragnar-F" creationdate="20230127T182820Z">
-        <seg>Doppelklicken Sie auf eine Zeile, um das entsprechende Segment im Editorbereich zu öffnen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T074902Z" creationid="Ragnar-F" creationdate="20230127T182820Z">
+        <seg>Eine Zeile doppelt anklicken, um das entsprechende Segment im Editorbereich zu öffnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22352,8 +22352,8 @@ Backup-Dateiendung '.recover'.</seg>
       <tuv lang="en">
         <seg>File filter settings: some filters allow for extra parts to be considered for translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T190637Z" creationid="Ragnar-F" creationdate="20221117T190637Z">
-        <seg>Dateifiltereinstellungen: Einige Filter erlauben es, dass zusätzliche Teile für die Übersetzung herangezogen werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T083432Z" creationid="Ragnar-F" creationdate="20221117T190637Z">
+        <seg>Dateifiltereinstellungen: Bei einigen Filtern können zusätzliche Teile für die Übersetzung herangezogen werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41682,8 +41682,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Opens a new window and displays project statistics such as the overall project word count or segment totals, and totals for every file in the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071731Z" creationid="Ragnar-F" creationdate="20221117T190422Z">
-        <seg>Öffnet ein neues Fenster und zeigt projektspezifische Statistiken an, wie z.B. die Gesamtwortzahl des Projekts oder die Gesamtzahl der Segmente, und Gesamtzahlen für jede Datei im Projekt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T082640Z" creationid="Ragnar-F" creationdate="20221117T190422Z">
+        <seg>Öffnet ein neues Fenster und zeigt Statistiken für das gesamte Projekt oder pro Datei an, wie z.B. die Anzahl der Wörter oder Segmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50515,8 +50515,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Selecting or mousing over a row displays a context menu icon in the last column.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T182909Z" creationid="Ragnar-F" creationdate="20230127T182909Z">
-        <seg>Wählen Sie eine Zeile aus oder bewegen Sie den Mauszeiger über eine Zeile, um in der letzten Spalte ein Kontextmenü-Symbol anzuzeigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T075149Z" creationid="Ragnar-F" creationdate="20230127T182909Z">
+        <seg>Eine Zeile auswählen oder den Mauszeiger darüber bewegen, um ein Kontextmenü-Symbol in der letzten Spalte anzuzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54209,8 +54209,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Tags: OmegaT tags are never counted in the statistics but in some cases can split terms and create discrepancies in the way OmegaT counts them.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T122439Z" creationid="Ragnar-F" creationdate="20221218T122439Z">
-        <seg>Tags: OmegaT-Tags werden in den Statistiken nie gezählt, können aber in manchen Fällen Begriffe splitten und zu Diskrepanzen in der Zählweise von OmegaT führen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T083456Z" creationid="Ragnar-F" creationdate="20221218T122439Z">
+        <seg>Tags: OmegaT-Tags werden in den Statistiken nie gezählt, können aber in einigen Fällen Begriffe splitten und zu Diskrepanzen in der Zählweise von OmegaT führen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57071,8 +57071,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The data is saved in the &lt;l0/&gt; file located in the &lt;l1/&gt; folder of the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T122316Z" creationid="Ragnar-F" creationdate="20221218T122316Z">
-        <seg>Die Daten werden in die &lt;l0/&gt;-Datei im Projektordner &lt;l1/&gt; gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T082944Z" creationid="Ragnar-F" creationdate="20221218T122316Z">
+        <seg>Die Daten werden in die Datei &lt;l0/&gt; im Ordner &lt;l1/&gt; Ihres Projekts gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59626,8 +59626,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The results are presented as a table in which:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185630Z" creationid="Ragnar-F" creationdate="20221117T185630Z">
-        <seg>Die Ergebnisse werden in Form einer Tabelle dargestellt, in der Sie Folgendes tun können:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T074745Z" creationid="Ragnar-F" creationdate="20221117T185630Z">
+        <seg>Die Ergebnisse werden in einer Tabelle angezeigt, in der Sie folgendes tun können:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64180,8 +64180,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This quality assurance tool carries out all automatic checks in one go and displays the results in a window.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T185024Z" creationid="Ragnar-F" creationdate="20221117T185024Z">
-        <seg>Dieses Tool zur Qualitätssicherung führt alle automatischen Überprüfungen in einem Rutsch durch und zeigt die Ergebnisse in einem Fenster an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T074156Z" creationid="Ragnar-F" creationdate="20221117T185024Z">
+        <seg>Dieses Qualitätssicherungstool führt alle automatischen Prüfungen auf einmal durch und zeigt die Ergebnisse in einem Fenster an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65192,8 +65192,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To force issue checking each time you leave a segment, enable the &lt;l0/&gt; preference.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T122124Z" creationid="Ragnar-F" creationdate="20221218T122124Z">
-        <seg>Um jedes Mal, wenn Sie ein Segment verlassen, eine Problemprüfung zu erzwingen, aktivieren Sie die &lt;l0/&gt;-Einstellung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T075729Z" creationid="Ragnar-F" creationdate="20221218T122124Z">
+        <seg>Um jedes Mal, wenn Sie ein Segment verlassen, eine Problemprüfung durchzuführen, aktivieren Sie die Einstellung &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65424,8 +65424,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To prevent the creation of translated files if tag issues are found, enable the &lt;l0/&gt; preference.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T183025Z" creationid="Ragnar-F" creationdate="20230127T183025Z">
-        <seg>Um die Erstellung übersetzter Dateien bei Tag-Problemen zu verhindern, aktivieren Sie die &lt;l0/&gt;-Einstellung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T081520Z" creationid="Ragnar-F" creationdate="20230127T183025Z">
+        <seg>Um die Erstellung der übersetzten Dateien bei Tag-Problemen zu verhindern, aktivieren Sie die Einstellung &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71659,8 +71659,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>Word count, segment total and other items can be influenced by the following factors:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221117T190538Z" creationid="Ragnar-F" creationdate="20221117T190538Z">
-        <seg>Wortzahl, Gesamtzahl der Segmente und andere Elemente hängen von den folgenden Faktoren ab:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240711T083334Z" creationid="Ragnar-F" creationdate="20221117T190538Z">
+        <seg>Die Anzahl der Wörter, Segmente usw. hängt von den folgenden Faktoren ab:</seg>
       </tuv>
     </tu>
     <tu>
