@@ -12679,8 +12679,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, the &lt;g0&gt;Comments&lt;/g0&gt; and &lt;g1&gt;Notepad&lt;/g1&gt; panes have notifications enabled.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T112121Z" creationid="Ragnar-F" creationdate="20230223T112121Z">
-        <seg>Die Fensterbereiche &lt;g0&gt;Kommentare&lt;/g0&gt; und &lt;g1&gt;Notizblock&lt;/g1&gt; haben standardmäßig Benachrichtigungen aktiviert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240714T130002Z" creationid="Ragnar-F" creationdate="20230223T112121Z">
+        <seg>Für die Fensterbereiche "&lt;g0&gt;Kommentare&lt;/g0&gt;" und "&lt;g1&gt;Notizblock&lt;/g1&gt;" sind Benachrichtigungen standardmäßig aktiviert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19394,8 +19394,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Dropping an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) or a full project here will open the corresponding project after closing the currently open project, if any.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120050Z" creationid="Ragnar-F" creationdate="20221118T120050Z">
-        <seg>Wenn Sie hier eine OmegaT-Projektdatei (&lt;f0&gt;omegat.project&lt;/f0&gt;) oder ein komplettes Projekt ablegen, wird das aktuell geöffnete Projekt, sofern vorhanden, geschlossen und das neue Projekt geöffnet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240714T124805Z" creationid="Ragnar-F" creationdate="20221118T120050Z">
+        <seg>Wenn Sie hier eine OmegaT-Projektdatei (&lt;f0&gt;omegat.project&lt;/f0&gt;) oder ein komplettes Projekt ablegen, wird das aktuell geöffnete Projekt (sofern vorhanden) geschlossen und das neue Projekt geöffnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19410,7 +19410,7 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Dropping other files will copy them to the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120129Z" creationid="Ragnar-F" creationdate="20221118T120129Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240714T125531Z" creationid="Ragnar-F" creationdate="20221118T120129Z">
         <seg>Wenn Sie andere Dateien ablegen, werden diese in den &lt;f0&gt;source&lt;/f0&gt;-Ordner kopiert.</seg>
       </tuv>
     </tu>
@@ -22496,8 +22496,8 @@ Backup-Dateiendung '.recover'.</seg>
       <tuv lang="en">
         <seg>Files can be dragged and dropped on certain panes, with the following results:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T115848Z" creationid="Ragnar-F" creationdate="20221118T115848Z">
-        <seg>Dateien können auf bestimmte Fensterbereiche gezogen und abgelegt werden, was Folgendes bewirkt:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240714T124652Z" creationid="Ragnar-F" creationdate="20221118T115848Z">
+        <seg>Dateien können auf bestimmte Fensterbereiche gezogen und abgelegt werden, was folgendes bewirkt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29321,8 +29321,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In &lt;g0&gt;List View&lt;/g0&gt;, right click on the &lt;g1&gt;Action&lt;/g1&gt; widget at the right-end of the selected property line and select &lt;g2&gt;Notify Me When a Segment Has...&lt;/g2&gt; (where ... varies according to the desired notification).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T141040Z" creationid="Ragnar-F" creationdate="20230127T140355Z">
-        <seg>Wenn die &lt;g0&gt;Listenansicht&lt;/g0&gt; aktiv ist, klicken Sie auf das &lt;g1&gt;Aktion&lt;/g1&gt;-Widget am rechten Ende einer Eigenschaft und wählen Sie &lt;g2&gt;Mich benachrichtigen, wenn ein Segment X hat&lt;/g2&gt; aus, wobei X der Eigenschaftsname ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240714T131420Z" creationid="Ragnar-F" creationdate="20230127T140355Z">
+        <seg>Wenn die &lt;g0&gt;Listenansicht&lt;/g0&gt; aktiv ist, klicken Sie auf das &lt;g1&gt;Aktion&lt;/g1&gt;-Widget rechts neben einer Eigenschaft und wählen Sie "&lt;g2&gt;Mich benachrichtigen, wenn ein Segment X hat&lt;/g2&gt;" aus, wobei X der Name der Eigenschaft ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29345,8 +29345,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In &lt;g0&gt;Table View&lt;/g0&gt;, right click on the item and select &lt;g1&gt;Notify Me When a Segment Has...&lt;/g1&gt; (where ... varies according to the desired notification).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T140815Z" creationid="Ragnar-F" creationdate="20230127T140337Z">
-        <seg>Wenn die &lt;g0&gt;Tabellenansicht&lt;/g0&gt; aktiv ist, rechtsklicken Sie auf eine Eigenschaft und wählen Sie &lt;g1&gt;Mich benachrichtigen, wenn ein Segment X hat&lt;/g1&gt; aus, wobei X der Eigenschaftsname ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240714T131423Z" creationid="Ragnar-F" creationdate="20230127T140337Z">
+        <seg>Wenn die &lt;g0&gt;Tabellenansicht&lt;/g0&gt; aktiv ist, rechtsklicken Sie auf eine Eigenschaft und wählen Sie "&lt;g1&gt;Mich benachrichtigen, wenn ein Segment X hat&lt;/g1&gt;" aus, wobei X der Name der Eigenschaft ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49803,8 +49803,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Select &lt;g0&gt;Notify Me When a Segment Has...&lt;/g0&gt; (where ... varies depending on the pane for which you are enabling notifications.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T140041Z" creationid="Ragnar-F" creationdate="20230127T140041Z">
-        <seg>Wählen Sie &lt;g0&gt;Mich benachrichtigen, wenn ein Segment X hat&lt;/g0&gt; aus, wobei X je nach Fensterbereich variiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240714T130700Z" creationid="Ragnar-F" creationdate="20230127T140041Z">
+        <seg>Wählen Sie "&lt;g0&gt;Mich benachrichtigen, wenn ein Segment X hat&lt;/g0&gt;" aus, wobei X je nach Fensterbereich variiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55230,8 +55230,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;g0&gt;Segment Properties&lt;/g0&gt; pane allows notification settings for each of its item.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221128T090732Z" creationid="Ragnar-F" creationdate="20221128T090732Z">
-        <seg>Der &lt;g0&gt;Segmenteigenschaften&lt;/g0&gt;-Bereich ermöglicht Benachrichtigungseinstellungen für jeden seiner Einträge.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240714T131211Z" creationid="Ragnar-F" creationdate="20221128T090732Z">
+        <seg>Im Fensterbereich "&lt;g0&gt;Segmenteigenschaften&lt;/g0&gt;" können Sie die Benachrichtigungseinstellungen für jeden seiner Einträge festlegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62188,8 +62188,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This also applies to the &lt;l1/&gt; window.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T120303Z" creationid="Ragnar-F" creationdate="20221118T120303Z">
-        <seg>Das gilt auch für das &lt;l1/&gt;-Fenster.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240714T125517Z" creationid="Ragnar-F" creationdate="20221118T120303Z">
+        <seg>Dies gilt auch für das Fenster &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
