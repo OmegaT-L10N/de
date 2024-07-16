@@ -6581,16 +6581,16 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;LCK&lt;/l0&gt; indicates that the cursor is locked inside the segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T130807Z" creationid="Ragnar-F" creationdate="20221218T130647Z">
-        <seg>&lt;l0&gt;LCK&lt;/l0&gt; zeigt an, dass der Textcursor nur innerhalb des Übersetzungsfeldes verwendet werden darf.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T195322Z" creationid="Ragnar-F" creationdate="20221218T130647Z">
+        <seg>&lt;l0&gt;LCK&lt;/l0&gt; bedeutet, dass der Textcursor auf das Segment beschränkt ist.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;OVR&lt;/l0&gt; indicates that the cursor overwrites the existing text.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T130715Z" creationid="Ragnar-F" creationdate="20221218T130715Z">
-        <seg>&lt;l0&gt;OVR&lt;/l0&gt; zeigt an, dass der Textcursor den vorhandenen Text überschreibt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T195539Z" creationid="Ragnar-F" creationdate="20221218T130715Z">
+        <seg>&lt;l0&gt;OVR&lt;/l0&gt; bedeutet, dass der Textcursor den vorhandenen Text überschreibt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14455,8 +14455,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Click on the figures to alternate between displaying progress as numbers or percentages.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T143630Z" creationid="Ragnar-F" creationdate="20221118T143630Z">
-        <seg>Klicken Sie auf die Zahlen, um zwischen der Zahlen- und Prozentanzeige des Fortschritts zu wechseln.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T194807Z" creationid="Ragnar-F" creationdate="20221118T143630Z">
+        <seg>Klicken Sie auf die Zahlen, um zwischen der numerischen und der prozentualen Fortschrittsanzeige umzuschalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31548,8 +31548,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It also displays progress information.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T151001Z" creationid="Ragnar-F" creationdate="20230127T151001Z">
-        <seg>Außerdem werden Informationen zum Fortschritt angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T194730Z" creationid="Ragnar-F" creationdate="20230127T151001Z">
+        <seg>Außerdem werden Fortschrittsinformationen angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32148,8 +32148,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It only displays information that is related to the segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142516Z" creationid="Ragnar-F" creationdate="20221118T142516Z">
-        <seg>Er zeigt nur Informationen an, die sich auf das Segment beziehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T193242Z" creationid="Ragnar-F" creationdate="20221118T142516Z">
+        <seg>Er zeigt nur Informationen über das Segment an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56611,8 +56611,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The bottom of the main window is the status bar.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142535Z" creationid="Ragnar-F" creationdate="20221118T142535Z">
-        <seg>Der untere Bereich des Hauptfensters ist die Statusleiste.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T193318Z" creationid="Ragnar-F" creationdate="20221118T142535Z">
+        <seg>Der untere Teil des Hauptfensters ist die Statusleiste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58344,8 +58344,8 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode ist (optional).</seg>
       <tuv lang="en">
         <seg>The left side of the status bar displays information on project actions or error messages.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T150834Z" creationid="Ragnar-F" creationdate="20230127T150834Z">
-        <seg>Links in der Statusleiste werden Fehlermeldungen oder Informationen über projektbezogene Aktionen angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T194523Z" creationid="Ragnar-F" creationdate="20230127T150834Z">
+        <seg>Die linke Seite der Statusleiste zeigt Fehlermeldungen oder projektbezogene Aktionen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59666,8 +59666,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The right side of the status bar indicates whether the cursor is locked within the segment (see the &lt;l0/&gt; setting) and whether the cursor overwrites the existing text (see the &lt;l1/&gt; setting).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T150913Z" creationid="Ragnar-F" creationdate="20230127T150913Z">
-        <seg>Rechts in der Statusleiste wird angezeigt, ob der Textcursor nur innerhalb des Übersetzungsfeldes verwendet werden darf (siehe die &lt;l0/&gt;-Einstellung) und ob der Textcursor den vorhandenen Text überschreibt (siehe die &lt;l1/&gt;-Einstellung).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T195315Z" creationid="Ragnar-F" creationdate="20230127T150913Z">
+        <seg>Die rechte Seite der Statusleiste gibt an, ob der Textcursor auf das Segment beschränkt ist (siehe die Einstellung &lt;l0/&gt;) und ob der Textcursor den vorhandenen Text überschreibt (siehe die Einstellung &lt;l1/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
