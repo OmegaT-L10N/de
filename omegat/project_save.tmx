@@ -30466,16 +30466,16 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>Indicates that a segment is a repetition and specifies whether it is the FIRST instance.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T150549Z" creationid="Ragnar-F" creationdate="20230127T150549Z">
-        <seg>Kennzeichnet, dass ein Segment mehrmalig vorkommt, und gibt an, ob es das erste Segment ist (FIRST).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T192608Z" creationid="Ragnar-F" creationdate="20230127T150549Z">
+        <seg>Gibt an, dass ein Segment mehrfach vorkommt und ob es das erste Segment (FIRST) ist.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Indicates which file contains the segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T150723Z" creationid="Ragnar-F" creationdate="20230127T150723Z">
-        <seg>Kennzeichnet, welche Datei das Segment enthält.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T192616Z" creationid="Ragnar-F" creationdate="20230127T150723Z">
+        <seg>Gibt an, in welcher Datei das Segment enthalten ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32156,8 +32156,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It only displays the information contained in the file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T150039Z" creationid="Ragnar-F" creationdate="20230127T150039Z">
-        <seg>Er zeigt nur Informationen an, die in der Datei enthalten sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T192103Z" creationid="Ragnar-F" creationdate="20230127T150039Z">
+        <seg>Er zeigt nur die in der Datei enthaltenen Informationen an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51807,8 +51807,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Some file formats, such as the PO format, can contain comments for the translator to add context to the translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071740Z" creationid="Ragnar-F" creationdate="20230127T150008Z">
-        <seg>Einige Dateiformate, wie z.B. das PO-Format, können Kommentare enthalten, die den Übersetzer befähigen, der Übersetzung Kontext hinzuzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T191625Z" creationid="Ragnar-F" creationdate="20230127T150008Z">
+        <seg>Einige Dateiformate, wie z.B. das PO-Format, können Kommentare enthalten, mit denen der Übersetzer Kontext für die Übersetzung hinzufügen kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53409,8 +53409,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Such comments are displayed here.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141855Z" creationid="Ragnar-F" creationdate="20221118T141855Z">
-        <seg>Solche Kommentare werden hier angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T191658Z" creationid="Ragnar-F" creationdate="20221118T141855Z">
+        <seg>Diese Kommentare werden hier angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55206,8 +55206,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;g0&gt;Comments&lt;/g0&gt; pane is &lt;e1&gt;not&lt;/e1&gt; editable.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T150019Z" creationid="Ragnar-F" creationdate="20230127T150019Z">
-        <seg>Der &lt;g0&gt;Kommentare&lt;/g0&gt;-Bereich ist &lt;e1&gt;nicht&lt;/e1&gt; editierbar.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T191759Z" creationid="Ragnar-F" creationdate="20230127T150019Z">
+        <seg>Der Fensterbereich "&lt;g0&gt;Kommentare&lt;/g0&gt;" ist &lt;e1&gt;nicht&lt;/e1&gt; editierbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56091,8 +56091,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The Properties pane is &lt;e0&gt;not&lt;/e0&gt; editable.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T142443Z" creationid="Ragnar-F" creationdate="20221118T142443Z">
-        <seg>Der Segmenteigenschaften-Bereich ist &lt;e0&gt;nicht&lt;/e0&gt; editierbar.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T193123Z" creationid="Ragnar-F" creationdate="20221118T142443Z">
+        <seg>Der Fensterbereich "Segmenteigenschaften" ist &lt;e0&gt;nicht&lt;/e0&gt; editierbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58922,8 +58922,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The notes are stored in the translation memory of the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221118T141556Z" creationid="Ragnar-F" creationdate="20221118T141556Z">
-        <seg>Die Notizen werden im Translation Memory des Projekts gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T191017Z" creationid="Ragnar-F" creationdate="20221118T141556Z">
+        <seg>Die Notizen werden in den Translation Memory des Projekts gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69236,8 +69236,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use the &lt;l0/&gt; pane to enter your own comments about a translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T150236Z" creationid="Ragnar-F" creationdate="20230127T150236Z">
-        <seg>Verwenden Sie den &lt;l0/&gt;-Bereich, um eigene Kommentare zu einer Übersetzung einzutragen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T192547Z" creationid="Ragnar-F" creationdate="20230127T150236Z">
+        <seg>Verwenden Sie den Fensterbereich &lt;l0/&gt;, um eigene Kommentare zu einer Übersetzung hinzuzufügen.</seg>
       </tuv>
     </tu>
     <tu>
