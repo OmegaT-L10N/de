@@ -14865,8 +14865,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Command delimiter is empty</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T120844Z" creationid="Ragnar-F" creationdate="20210113T120844Z">
-        <seg>Befehlstrennzeichen ist leer</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T140934Z" creationid="Ragnar-F" creationdate="20210113T120844Z">
+        <seg>Befehlsseparator ist leer</seg>
       </tuv>
     </tu>
     <tu>
@@ -14897,8 +14897,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Command is missing delimiter</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T120818Z" creationid="Ragnar-F" creationdate="20210113T120818Z">
-        <seg>Befehl hat kein Trennzeichen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T140922Z" creationid="Ragnar-F" creationdate="20210113T120818Z">
+        <seg>Befehl hat keinen Separator</seg>
       </tuv>
     </tu>
     <tu>
@@ -14953,8 +14953,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Commands are opened on the command line.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132038Z" creationid="Ragnar-F" creationdate="20221119T132038Z">
-        <seg>Befehle werden in der Befehlszeile geöffnet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T140755Z" creationid="Ragnar-F" creationdate="20221119T132038Z">
+        <seg>Befehle werden über die Befehlszeile ausgeführt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17562,16 +17562,16 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Delimiter</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T121139Z" creationid="Ragnar-F" creationdate="20210113T121139Z">
-        <seg>Trennzeichen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T140944Z" creationid="Ragnar-F" creationdate="20210113T121139Z">
+        <seg>Separator</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Delimiter:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T121708Z" creationid="Ragnar-F" creationdate="20210113T121708Z">
-        <seg>Trennzeichen:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T140950Z" creationid="Ragnar-F" creationdate="20210113T121708Z">
+        <seg>Separator:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28140,8 +28140,8 @@ angezeigt werden.</seg>
       <tuv lang="en">
         <seg>If you check &lt;g0&gt;Show in Editor context menu&lt;/g0&gt;, the set name will also be displayed in the &lt;l1&gt;context menu&lt;/l1&gt; if a string is selected.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T132833Z" creationid="Ragnar-F" creationdate="20221218T132833Z">
-        <seg>Wenn Sie &lt;g0&gt;Im Kontextmenü des Editors anzeigen&lt;/g0&gt; aktivieren, wird der Name des Sets auch im &lt;l1&gt;Kontextmenü&lt;/l1&gt; angezeigt, wenn ein Text markiert wurde.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T134728Z" creationid="Ragnar-F" creationdate="20221218T132833Z">
+        <seg>Wenn Sie "&lt;g0&gt;Im Kontextmenü des Editors anzeigen&lt;/g0&gt;" aktivieren, wird der Name des Sets auch im &lt;l1&gt;Kontextmenü&lt;/l1&gt; angezeigt, sofern Sie Text markiert haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34059,8 +34059,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Local external search commands are saved in the &lt;l0/&gt; file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T132723Z" creationid="Ragnar-F" creationdate="20221218T132723Z">
-        <seg>Lokale externe Suchbefehle werden in die &lt;l0/&gt;-Datei gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T131311Z" creationid="Ragnar-F" creationdate="20221218T132723Z">
+        <seg>Lokale externe Suchbefehle werden in die Datei &lt;l0/&gt; gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45302,8 +45302,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Reload the current project to apply these changes</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210915T124923Z" creationid="Ragnar-F" creationdate="20210915T121944Z">
-        <seg>Laden Sie das aktuelle Projekt neu, um diese Änderungen anzuwenden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T133306Z" creationid="Ragnar-F" creationdate="20210915T121944Z">
+        <seg>Laden Sie das aktuelle Projekt neu, um diese Änderungen zu übernehmen</seg>
       </tuv>
     </tu>
     <tu>
@@ -46614,16 +46614,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210915T124903Z" creationid="Ragnar-F" creationdate="20210915T120444Z">
-        <seg>Starten Sie OmegaT neu, um diese Änderungen anzuwenden</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T133259Z" creationid="Ragnar-F" creationdate="20210915T120444Z">
+        <seg>Starten Sie OmegaT neu, um diese Änderungen zu übernehmen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Restart OmegaT to apply this change.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130524Z" creationid="Ragnar-F" creationdate="20221119T130524Z">
-        <seg>Starten Sie OmegaT neu, um diese Änderung anzuwenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T133235Z" creationid="Ragnar-F" creationdate="20221119T130524Z">
+        <seg>Starten Sie OmegaT neu, um diese Änderung zu übernehmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55214,8 +55214,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;g0&gt;Delimiter&lt;/g0&gt;defines the delimiter between command parameters.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132207Z" creationid="Ragnar-F" creationdate="20221119T132207Z">
-        <seg>Das &lt;g0&gt;Trennzeichen&lt;/g0&gt; definiert das Trennzeichen zwischen Befehlsparametern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T141302Z" creationid="Ragnar-F" creationdate="20221119T132207Z">
+        <seg>Im Eingabefeld "&lt;g0&gt;Separator&lt;/g0&gt;" können Sie eine Zeichenkette eintragen, die als Trennung zwischen den Befehlsparametern dient.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55510,8 +55510,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l1&gt;{target}&lt;/l1&gt; placeholder will be replaced by the string that was selected in the Editor.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T131035Z" creationid="Ragnar-F" creationdate="20221119T131035Z">
-        <seg>Der &lt;l1&gt;{target}&lt;/l1&gt;-Platzhalter wird mit dem im Editor markierten Text ersetzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T134847Z" creationid="Ragnar-F" creationdate="20221119T131035Z">
+        <seg>&lt;l1&gt;{target}&lt;/l1&gt; wird mit dem im Editor markierten Text ersetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63844,8 +63844,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This opens a search for the {target} term on DuckDuckGo with a number of search parameters.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T132026Z" creationid="Ragnar-F" creationdate="20221119T132026Z">
-        <seg>Dies öffnet eine Suche nach dem {target}-Begriff auf DuckDuckGo mit einer Reihe von Suchparametern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T135118Z" creationid="Ragnar-F" creationdate="20221119T132026Z">
+        <seg>Dies sucht {target} (den markierten Text) auf DuckDuckGo mit einer Reihe von Suchparametern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63948,8 +63948,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This option enables you to change the order of the commands in the Editor pane &lt;l0&gt;context menu&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T132811Z" creationid="Ragnar-F" creationdate="20221218T132811Z">
-        <seg>Diese Option ermöglicht es Ihnen, die Reihenfolge der Befehle im &lt;l0&gt;Kontextmenü&lt;/l0&gt; des Editorbereichs zu ändern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T133106Z" creationid="Ragnar-F" creationdate="20221218T132811Z">
+        <seg>Mit dieser Option können Sie die Menüpunkte im &lt;l0&gt;Kontextmenü&lt;/l0&gt; des Editorbereichs anders anordnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66950,8 +66950,8 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
       <tuv lang="en">
         <seg>URL searches as well as commands must contain the string &lt;l0&gt;{target}&lt;/l0&gt; to be accepted.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130947Z" creationid="Ragnar-F" creationdate="20221119T130947Z">
-        <seg>URL-Suchvorgänge und Befehle müssen die Zeichenkette &lt;l0&gt;{target}&lt;/l0&gt; enthalten, um akzeptiert zu werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T134821Z" creationid="Ragnar-F" creationdate="20221119T130947Z">
+        <seg>URL-Suchvorgänge und Befehle müssen den Platzhalter &lt;l0&gt;{target}&lt;/l0&gt; enthalten, um akzeptiert zu werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70232,8 +70232,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221119T130504Z" creationid="Ragnar-F" creationdate="20210110T120147Z">
-        <seg>Werte rund um 100 zeigen die Befehle weiter oben an, während Werte rund um 900 diese weiter unten anzeigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T133216Z" creationid="Ragnar-F" creationdate="20210110T120147Z">
+        <seg>Werte rund um 100 zeigen die Menüpunkte weiter oben an, während Werte rund um 900 die Menüpunkte weiter unten anzeigen.</seg>
       </tuv>
     </tu>
     <tu>
