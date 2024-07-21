@@ -7833,8 +7833,8 @@ Dossier racine
       <tuv lang="en">
         <seg>A project is a folder containing, at a minimum, the following:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T190605Z" creationid="Ragnar-F" creationdate="20221120T190605Z">
-        <seg>Ein Projekt ist ein Ordner, der mindestens das Folgende enthält:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T093901Z" creationid="Ragnar-F" creationdate="20221120T190605Z">
+        <seg>Ein Projekt ist ein Ordner, der mindestens folgendes enthält:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16526,8 +16526,8 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       <tuv lang="en">
         <seg>Creating a project gives it a core hierarchy, but its final structure is not fixed.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T192557Z" creationid="Ragnar-F" creationdate="20221120T192557Z">
-        <seg>Beim Erstellen eines Projekts erhält es eine grundlegende Hierarchie, aber die endgültige Struktur ist nicht in Stein gemeißelt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T093414Z" creationid="Ragnar-F" creationdate="20221120T192557Z">
+        <seg>Bei seiner Erstellung erhält das Projekt eine grundlegende Hierarchie, aber die endgültige Struktur ist nicht in Stein gemeißelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31532,8 +31532,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It also acts as an &lt;e0&gt;address book&lt;/e0&gt; that specifies where project resources are located.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T152949Z" creationid="Ragnar-F" creationdate="20230127T152949Z">
-        <seg>Es dient auch als &lt;e0&gt;Adressbuch&lt;/e0&gt;, das angibt, wo sich die Projektressourcen befinden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T094715Z" creationid="Ragnar-F" creationdate="20230127T152949Z">
+        <seg>Die Datei dient auch als &lt;e0&gt;Adressbuch&lt;/e0&gt;, das angibt, wo sich die Projektressourcen befinden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42138,8 +42138,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Other files will be added over the course of the translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T191202Z" creationid="Ragnar-F" creationdate="20221120T191202Z">
-        <seg>Weitere Dateien werden im Laufe der Übersetzung hinzugefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T094238Z" creationid="Ragnar-F" creationdate="20221120T191202Z">
+        <seg>Weitere Dateien werden während der Übersetzung hinzugefügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56909,8 +56909,8 @@ Konfigurationsordner selbst verwendet.</seg>
       <tuv lang="en">
         <seg>The contents of the files in a format that OmegaT supports will be displayed in the &lt;l0/&gt; pane for translation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T193516Z" creationid="Ragnar-F" creationdate="20221120T193516Z">
-        <seg>Wenn die Inhalte der Dateien in einem von OmegaT unterstützten Format sind, werden sie im &lt;l0/&gt;-Fenster zur Übersetzung angezeigt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T095359Z" creationid="Ragnar-F" creationdate="20221120T193516Z">
+        <seg>Wenn der Inhalt der Dateien in einem von OmegaT unterstützten Format ist, wird er im Fensterbereich &lt;l0/&gt; zur Übersetzung angezeigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60354,8 +60354,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The source folder contains the files to translate.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T193231Z" creationid="Ragnar-F" creationdate="20221120T193231Z">
-        <seg>Der Quellordner enthält Dateien, die übersetzt werden sollen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T094846Z" creationid="Ragnar-F" creationdate="20221120T193231Z">
+        <seg>Der Quellordner enthält die zu übersetzenden Dateien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63468,8 +63468,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This is the project folder that always contains &lt;l0/&gt;, the project translation memory, and &lt;l1/&gt;, the statistics data file for the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T191150Z" creationid="Ragnar-F" creationdate="20221120T191150Z">
-        <seg>Der Projektordner, der immer &lt;l0/&gt; (das projekteigene Translation Memory) und &lt;l1/&gt; (die Statistikdatei für das Projekt) enthält.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T094001Z" creationid="Ragnar-F" creationdate="20221120T191150Z">
+        <seg>Der Projektordner, der immer &lt;l0/&gt; (das Translation Memory des Projekts) und &lt;l1/&gt; (die Statistikdatei für das Projekt) enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68356,8 +68356,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; or drop files on the &lt;l2/&gt; pane to add files any time you want.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T134334Z" creationid="Ragnar-F" creationdate="20221218T134334Z">
-        <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt; oder ziehen Sie Dateien auf den &lt;l2/&gt;-Bereich, um Dateien hinzuzufügen, wann immer Sie möchten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T095049Z" creationid="Ragnar-F" creationdate="20221218T134334Z">
+        <seg>Verwenden Sie &lt;l0/&gt;&lt;l1/&gt; oder ziehen Sie Dateien auf den Fensterbereich &lt;l2/&gt;, um neue Dateien hinzuzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72850,8 +72850,8 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       <tuv lang="en">
         <seg>You can always remove or add files and folders to the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T192658Z" creationid="Ragnar-F" creationdate="20221120T192658Z">
-        <seg>Sie können jederzeit Dateien und Ordner zum Projekt hinzufügen oder aus ihm entfernen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T093738Z" creationid="Ragnar-F" creationdate="20221120T192658Z">
+        <seg>Sie können jederzeit Dateien und Ordner hinzufügen oder entfernen.</seg>
       </tuv>
     </tu>
     <tu>
