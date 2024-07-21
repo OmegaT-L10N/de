@@ -6685,8 +6685,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;xxx&lt;/l0&gt; is a number from 0 to 100 that will act as a penalty subtracted from the match percentage of segments coming from this folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T204548Z" creationid="Ragnar-F" creationdate="20221120T203914Z">
-        <seg>&lt;l0&gt;xxx&lt;/l0&gt; ist eine Zahl zwischen 0 und 100, die als Sanktion behandelt wird; diese Zahl wird automatisch von den Match-Prozentsätzen der Segmente, die aus diesem Ordner stammen, abgezogen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T113853Z" creationid="Ragnar-F" creationdate="20221120T203914Z">
+        <seg>&lt;l0&gt;xxx&lt;/l0&gt; ist eine Zahl zwischen 0 und 100, die als Sanktion behandelt wird; diese Zahl wird automatisch von den Match-Prozentsätzen der Segmente aus diesem Ordner abgezogen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10701,8 +10701,8 @@ Dossier racine
       <tuv lang="en">
         <seg>Any modification to the segments that come from these memories will &lt;e2&gt;not&lt;/e2&gt; be taken into account.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T202558Z" creationid="Ragnar-F" creationdate="20221120T202558Z">
-        <seg>Jegliche Änderungen an den Segmenten, die aus diesen Translation Memories stammen, werden &lt;e2&gt;nicht&lt;/e2&gt; übernommen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T112941Z" creationid="Ragnar-F" creationdate="20221120T202558Z">
+        <seg>Änderungen an den Segmenten aus diesen Translation Memories werden &lt;e2&gt;nicht&lt;/e2&gt; berücksichtigt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12663,8 +12663,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, that folder is the project folder itself but you can change its location to make it more practical to share exported TM files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240701T105535Z" creationid="Ragnar-F" creationdate="20221114T132129Z">
-        <seg>Standardmäßig ist dieser Ordner der Projektordner selbst, aber Sie können den Speicherort ändern, um die gemeinsame Nutzung der exportierten TM-Dateien zu erleichtern.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T115456Z" creationid="Ragnar-F" creationdate="20221114T132129Z">
+        <seg>Standardmäßig der Projektordner selbst, aber Sie können seinen Speicherort ändern, um die gemeinsame Nutzung exportierter TM-Dateien zu erleichtern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23218,16 +23218,16 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, a 10% penalty folder within the machine translation folder: &lt;f0&gt;tm/mt/penalty-010&lt;/f0&gt; would never generate 100% matches that could otherwise be automatically inserted by OmegaT, and would always set a red background to the match whenever it is inserted.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T210440Z" creationid="Ragnar-F" creationdate="20221120T210440Z">
-        <seg>Zum Beispiel ein Ordner mit einer 10%igen Sanktion innerhalb des Ordners für die maschinelle Übersetzung: &lt;f0&gt;tm/mt/penalty-010&lt;/f0&gt; würde niemals 100%ige Matches erzeugen, die sonst automatisch von OmegaT eingefügt werden könnten, und würde immer einen roten Hintergrund für das Match setzen, wenn es eingefügt wird.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T115125Z" creationid="Ragnar-F" creationdate="20221120T210440Z">
+        <seg>Zum Beispiel eine 10%ige Sanktion im MT-Ordner: &lt;f0&gt;tm/mt/penalty-010&lt;/f0&gt; würde niemals 100%ige Matches erzeugen, die sonst automatisch von OmegaT eingefügt werden könnten, und würde immer einen roten Hintergrund für das Match setzen, wenn es eingefügt wird.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>For example, a 100% match in a TMX, stored in a folder called &lt;f0&gt;penalty-30&lt;/f0&gt; becomes a 70% match.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T204049Z" creationid="Ragnar-F" creationdate="20221120T204049Z">
-        <seg>Zum Beispiel wird ein 100%iger Match in einer TMX-Datei, die in einem Ordner namens &lt;f0&gt;penalty-30&lt;/f0&gt; enthalten ist, zu einem 70%igen Match.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T113936Z" creationid="Ragnar-F" creationdate="20221120T204049Z">
+        <seg>Zum Beispiel wird ein 100%iger Match aus einer TMX-Datei, die in einem Ordner namens &lt;f0&gt;penalty-30&lt;/f0&gt; enthalten ist, zu einem 70%igen Match.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27745,16 +27745,16 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If they &lt;e0&gt;do need&lt;/e0&gt; to remain immutable to further changes, leave the TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T202512Z" creationid="Ragnar-F" creationdate="20221120T202420Z">
-        <seg>&lt;e0&gt;Müssen die Segmente&lt;/e0&gt; für weitere Änderungen unveränderlich bleiben, lassen Sie die TMX-Datei in &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T112721Z" creationid="Ragnar-F" creationdate="20221120T202420Z">
+        <seg>Wenn die Segmente für spätere Änderungen unveränderlich bleiben sollen&lt;e0&gt;&lt;/e0&gt;, belassen Sie die TMX-Datei im &lt;f1&gt;tm/enforce&lt;/f1&gt;-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to remain immutable to further changes, remove the TMX from &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T202504Z" creationid="Ragnar-F" creationdate="20221120T201823Z">
-        <seg>&lt;e0&gt;Müssen die Segmente nicht&lt;/e0&gt; für weitere Änderungen unveränderlich bleiben, entfernen Sie die TMX-Datei aus &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T112745Z" creationid="Ragnar-F" creationdate="20221120T201823Z">
+        <seg>Wenn die Segmente für spätere Änderungen &lt;e0&gt;nicht&lt;/e0&gt; unveränderlich bleiben sollen, löschen Sie die TMX-Datei im &lt;f1&gt;tm/enforce&lt;/f1&gt;-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28446,8 +28446,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you have no doubt that a given TMX contains more accurate translations than the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file, put that TMX in the &lt;f1&gt;tm/enforce&lt;/f1&gt; folder to overwrite the existing translations unconditionally.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T201553Z" creationid="Ragnar-F" creationdate="20221120T201553Z">
-        <seg>Wenn Sie keinen Zweifel daran haben, dass eine bestimmte TMX-Datei genauere Übersetzungen als die aktuelle &lt;f0&gt;project_save.tmx&lt;/f0&gt;-Datei enthält, legen Sie diese TMX-Datei in den &lt;f1&gt;tm/enforce&lt;/f1&gt;-Ordner, um bestehende Übersetzungen bedingungslos zu überschreiben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T111512Z" creationid="Ragnar-F" creationdate="20221120T201553Z">
+        <seg>Wenn Sie keinen Zweifel daran haben, dass eine bestimmte TMX-Datei passendere Übersetzungen enthält als die aktuelle Datei &lt;f0&gt;project_save.tmx&lt;/f0&gt;, kopieren oder verschieben Sie diese TMX-Datei in den &lt;f1&gt;tm/enforce&lt;/f1&gt;-Ordner, um vorhandene Übersetzungen bedingungslos zu überschreiben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28774,16 +28774,16 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you remove a TMX file from &lt;f0&gt;tm/auto&lt;/f0&gt; before Step 3, its content will not be kept.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T200815Z" creationid="Ragnar-F" creationdate="20221120T200815Z">
-        <seg>Wenn Sie eine TMX-Datei aus &lt;f0&gt;tm/auto&lt;/f0&gt; entfernen, bevor Sie Schritt 3 ausführen, wird ihr Inhalt nicht beibehalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T110437Z" creationid="Ragnar-F" creationdate="20221120T200815Z">
+        <seg>Wenn Sie eine TMX-Datei im &lt;f0&gt;tm/auto&lt;/f0&gt;-Ordner löschen, bevor Sie Schritt 3 ausführen, wird ihr Inhalt nicht übernommen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If you remove a TMX file from &lt;f0&gt;tm/enforce&lt;/f0&gt; before Step 3, none of the enforced translations will be kept.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T202719Z" creationid="Ragnar-F" creationdate="20221120T202719Z">
-        <seg>Wenn Sie eine TMX-Datei aus &lt;f0&gt;tm/enforce&lt;/f0&gt; entfernen, bevor Sie Schritt 3 ausführen, wird keine der erzwungenen Übersetzungen beibehalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T113541Z" creationid="Ragnar-F" creationdate="20221120T202719Z">
+        <seg>Wenn Sie eine TMX-Datei im &lt;f0&gt;tm/enforce&lt;/f0&gt;-Ordner löschen, bevor Sie Schritt 3 ausführen, wird keine der erzwungenen Übersetzungen übernommen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34475,8 +34475,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>Make a minor change anywhere in the project and save.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T201626Z" creationid="Ragnar-F" creationdate="20221120T201626Z">
-        <seg>Nehmen Sie irgendwo im Projekt eine kleine Änderung vor und speichern Sie es ab.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T111535Z" creationid="Ragnar-F" creationdate="20221120T201626Z">
+        <seg>Nehmen Sie irgendwo im Projekt eine kleine Änderung vor und speichern Sie das Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59162,8 +59162,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The penalty applies to all three match percentages.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T204607Z" creationid="Ragnar-F" creationdate="20221120T204607Z">
-        <seg>Die Sanktion bezieht sich auf alle drei Match-Prozentsätze.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T114756Z" creationid="Ragnar-F" creationdate="20221120T204607Z">
+        <seg>Die Sanktion wird auf alle drei Match-Prozentsätze angewendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63164,8 +63164,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This folder is made for reliable references files that are also meant to automatically overwrite previously translated contents.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T134728Z" creationid="Ragnar-F" creationdate="20221218T134728Z">
-        <seg>Dieser Ordner ist für zuverlässige Referenzdateien gedacht, die auch dazu dienen, bereits übersetzte Inhalte automatisch zu überschreiben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T110956Z" creationid="Ragnar-F" creationdate="20221218T134728Z">
+        <seg>Dieser Ordner ist für zuverlässige Referenzdateien gedacht, die zusätzlich bereits übersetzte Inhalte automatisch überschreiben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64284,8 +64284,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This updates the project translation memory.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T201656Z" creationid="Ragnar-F" creationdate="20221120T201656Z">
-        <seg>Dadurch wird das projekteigene Translation Memory aktualisiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T112458Z" creationid="Ragnar-F" creationdate="20221120T201656Z">
+        <seg>Dies aktualisiert den Translation Memory Ihres Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66564,8 +66564,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translations coming from this folder are considered to be &lt;e0&gt;more&lt;/e0&gt; reliable than the current project memory.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T201317Z" creationid="Ragnar-F" creationdate="20221120T201317Z">
-        <seg>Übersetzungen, die aus diesem Ordner stammen, gelten als &lt;e0&gt;zuverlässiger&lt;/e0&gt; als der projekteigene Translation Memory.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T111242Z" creationid="Ragnar-F" creationdate="20221120T201317Z">
+        <seg>Übersetzungen, die aus diesem Ordner stammen, werden als &lt;e0&gt;zuverlässiger&lt;/e0&gt; angesehen als die Übersetzungen aus dem Translation Memory des Projekts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66588,8 +66588,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translations from TMX files placed in this folder are automatically inserted in matching segments without the fuzzy match prefix, making it unnecessary to confirm these segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T153217Z" creationid="Ragnar-F" creationdate="20230127T153217Z">
-        <seg>Übersetzungen von TMX-Dateien, die in diesem Ordner abgelegt werden, werden automatisch in übereinstimmende Segmente ohne das Fuzzy-Match-Präfix eingefügt, sodass diese Segmente nicht bestätigt werden müssen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T111052Z" creationid="Ragnar-F" creationdate="20230127T153217Z">
+        <seg>In diesem Ordner abgelegte TMX-Dateien bewirken, dass die Übersetzungen automatisch in passende Segmente ohne das Fuzzy-Match-Präfix eingefügt werden, d.h. diese Segmente müssen nicht bestätigt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69348,24 +69348,24 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to an automatically inserted segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240707T083237Z" creationid="Ragnar-F" creationdate="20230127T124956Z">
-        <seg>Verwenden Sie die Menüpunkte in &lt;l0/&gt;&lt;l1/&gt;, um zu einem automatisch ausgefüllten Segment zu navigieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T110038Z" creationid="Ragnar-F" creationdate="20230127T124956Z">
+        <seg>Verwenden Sie die Menüpunkte in &lt;l0/&gt;&lt;l1/&gt;, um zu einem automatisch gefüllten Segment zu navigieren.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to the inserted segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T153148Z" creationid="Ragnar-F" creationdate="20230127T153148Z">
-        <seg>Verwenden Sie die Navigationsbefehle im &lt;l0/&gt;&lt;l1/&gt;-Menü, um zu automatisch ausgefüllten Segmenten zu navigieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T110029Z" creationid="Ragnar-F" creationdate="20230127T153148Z">
+        <seg>Verwenden Sie die Menüpunkte in &lt;l0/&gt;&lt;l1/&gt;, um zu einem automatisch gefüllten Segment zu navigieren.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to the segments that have been inserted.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T153345Z" creationid="Ragnar-F" creationdate="20230127T153345Z">
-        <seg>Verwenden Sie die Navigationsbefehle im &lt;l0/&gt;&lt;l1/&gt;-Menü, um zu Segmenten zu navigieren, die automatisch ausgefüllt wurden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T105934Z" creationid="Ragnar-F" creationdate="20230127T153345Z">
+        <seg>Verwenden Sie die Menüpunkte in &lt;l0/&gt;&lt;l1/&gt;, um zu einem automatisch gefüllten Segment zu navigieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70698,8 +70698,8 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       <tuv lang="en">
         <seg>When a match is inserted from a TMX contained in this folder, the background colour of the active segment changes to red.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T121147Z" creationid="Ragnar-F" creationdate="20230223T121147Z">
-        <seg>Wenn ein Match aus einer TMX-Datei in diesem Ordner eingefügt wird, ändert sich die Hintergrundfarbe des aktiven Segments zu rot.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T113752Z" creationid="Ragnar-F" creationdate="20230223T121147Z">
+        <seg>Wenn ein Match aus einer TMX-Datei aus diesem Ordner eingefügt wird, ändert sich die Hintergrundfarbe des aktiven Segments auf rot.</seg>
       </tuv>
     </tu>
     <tu>
