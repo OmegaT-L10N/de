@@ -5089,8 +5089,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e1&gt;Use it with caution!&lt;/e1&gt; Clicking this button will discard all your changes and bring you back to the first step.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T160326Z" creationid="Ragnar-F" creationdate="20221121T160212Z">
-        <seg>&lt;e1&gt;Seien Sie damit vorsichtig!&lt;/e1&gt; Wenn Sie auf diese Schaltfläche klicken, werden sämtliche Änderungen verworfen, außerdem kehren Sie zum ersten Schritt zurück.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T113937Z" creationid="Ragnar-F" creationdate="20221121T160212Z">
+        <seg>&lt;e1&gt;Seien Sie vorsichtig damit!&lt;/e1&gt; Wenn Sie auf diese Schaltfläche klicken, werden alle Änderungen verworfen und Sie kehren zum ersten Schritt zurück.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26496,8 +26496,8 @@ verwendet, und alle Einstellungen werden auf ihre Standardwerte zurückgesetzt.<
       <tuv lang="en">
         <seg>If any rows have been marked as accepted, use this command to update the alignment for the remaining rows.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T154156Z" creationid="Ragnar-F" creationdate="20221121T154156Z">
-        <seg>Wenn Zeilen als 'Akzeptiert' markiert wurden, verwenden Sie diesen Befehl, um die Ausrichtung für die übrigen Zeilen zu aktualisieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T111623Z" creationid="Ragnar-F" creationdate="20221121T154156Z">
+        <seg>Wenn Zeilen als 'Akzeptiert' markiert wurden, verwenden Sie diesen Befehl, um die Ausrichtung für die verbleibenden Zeilen zu aktualisieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27201,8 +27201,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If the corresponding segments are several rows apart and you want to quickly align them, use this command to select the first segment and then click on the corresponding segment in the other column.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T154351Z" creationid="Ragnar-F" creationdate="20230127T154351Z">
-        <seg>Wenn bestimmte Segmente mehrere Zeilen voneinander entfernt sind und Sie diese schnell ausrichten möchten, verwenden Sie diesen Befehl, um das erste Segment auszuwählen, und klicken Sie dann auf das zugehörige Segment in der anderen Spalte.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T112939Z" creationid="Ragnar-F" creationdate="20230127T154351Z">
+        <seg>Wenn bestimmte Segmente mehrere Zeilen voneinander entfernt sind und Sie diese schnell ausrichten möchten, verwenden Sie diesen Befehl, um das erste Segment auszuwählen und dann auf das zugehörige Segment in der anderen Spalte zu klicken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29441,8 +29441,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In addition to the &lt;g0&gt;Save TMX...&lt;/g0&gt; button, the bottom part of the &lt;g1&gt;Align&lt;/g1&gt; window in the manual correction step features the same &lt;g2&gt;Highlight&lt;/g2&gt; check box and &lt;g3&gt;Pattern...&lt;/g3&gt; button as in the first step.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155803Z" creationid="Ragnar-F" creationdate="20221121T155803Z">
-        <seg>Zusätzlich zur Schaltfläche &lt;g0&gt;TMX speichern...&lt;/g0&gt; ist im unteren Teil des &lt;g1&gt;Ausrichten&lt;/g1&gt;-Fensters im Manuelle-Korrektur-Schritt das gleiche &lt;g2&gt;Hervorheben&lt;/g2&gt;-Kästchen und die &lt;g3&gt;Muster...&lt;/g3&gt;-Schaltfläche wie im ersten Schritt vorhanden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T113749Z" creationid="Ragnar-F" creationdate="20221121T155803Z">
+        <seg>Zusätzlich zur Schaltfläche &lt;g0&gt;TMX speichern...&lt;/g0&gt; gibt es im unteren Teil des Fensters "&lt;g1&gt;Ausrichten&lt;/g1&gt;" wie im ersten Schritt die Option &lt;g2&gt;Hervorheben&lt;/g2&gt; und die Schaltfläche &lt;g3&gt;Muster...&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31652,8 +31652,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It can be helpful to run the &lt;g0&gt;Realign Pending&lt;/g0&gt; command after using the pinpoint align command a few times.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T154450Z" creationid="Ragnar-F" creationdate="20230127T154450Z">
-        <seg>Es kann hilfreich sein, den Befehl &lt;g0&gt;Ausstehende neu ausrichten&lt;/g0&gt; auszuführen, nachdem Sie die punktuelle Ausrichtung ein paar Mal verwendet haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T113229Z" creationid="Ragnar-F" creationdate="20230127T154450Z">
+        <seg>Es kann hilfreich sein, nach mehrmaliger Verwendung der punktuellen Ausrichtung den Befehl &lt;g0&gt;Ausstehende neu ausrichten&lt;/g0&gt; auszuführen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40962,8 +40962,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Only rows with a checked &lt;g0&gt;Keep&lt;/g0&gt; box in the first column are saved to the translation memory.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155430Z" creationid="Ragnar-F" creationdate="20221121T155405Z">
-        <seg>Nur Zeilen, bei denen in der ersten Spalte ein Häkchen im &lt;g0&gt;Behalten&lt;/g0&gt;-Kästchen gesetzt ist, werden in den Translation Memory gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T113418Z" creationid="Ragnar-F" creationdate="20221121T155405Z">
+        <seg>Es werden nur die Zeilen in den Translation Memory gespeichert, bei denen in der ersten Spalte die &lt;g0&gt;Behalten&lt;/g0&gt;-Option aktiviert ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49659,8 +49659,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Segments aligned using this method are automatically marked as accepted.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T154419Z" creationid="Ragnar-F" creationdate="20230127T154419Z">
-        <seg>Segmente, die mit dieser Methode aneinander ausgerichtet werden, werden automatisch als 'Akzeptiert' markiert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T113115Z" creationid="Ragnar-F" creationdate="20230127T154419Z">
+        <seg>Auf diese Weise ausgerichtete Segmente werden automatisch als 'Akzeptiert' markiert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61450,8 +61450,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>There is also a &lt;g0&gt;Reset&lt;/g0&gt; button at the bottom of the window.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155853Z" creationid="Ragnar-F" creationdate="20221121T155853Z">
-        <seg>Am unteren Rand des Fensters befindet sich außerdem eine &lt;g0&gt;Zurücksetzen&lt;/g0&gt;-Schaltfläche.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T113911Z" creationid="Ragnar-F" creationdate="20221121T155853Z">
+        <seg>Am unteren Rand des Fensters befindet sich außerdem die Schaltfläche &lt;g0&gt;Zurücksetzen&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69500,8 +69500,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use this command to check the &lt;g0&gt;Keep&lt;/g0&gt; box for all rows.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T154305Z" creationid="Ragnar-F" creationdate="20221121T154305Z">
-        <seg>Verwenden Sie diesen Befehl, um bei jedem &lt;g0&gt;Behalten&lt;/g0&gt;-Kästchen ein Häkchen zu setzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T112315Z" creationid="Ragnar-F" creationdate="20221121T154305Z">
+        <seg>Verwenden Sie diesen Befehl, um die &lt;g0&gt;Behalten&lt;/g0&gt;-Option bei allen Zeilen zu aktivieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69556,16 +69556,16 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use this command to switch the &lt;g0&gt;Keep&lt;/g0&gt; check box of the selected row or block of rows from checked to unchecked, or vice versa.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T154753Z" creationid="Ragnar-F" creationdate="20221121T154715Z">
-        <seg>Verwenden Sie diesen Befehl, um bei jedem &lt;g0&gt;Behalten&lt;/g0&gt;-Kästchen einer ausgewählten Zeile ein Häkchen zu setzen oder zu entfernen, oder umgekehrt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T112809Z" creationid="Ragnar-F" creationdate="20221121T154715Z">
+        <seg>Verwenden Sie diesen Befehl, um die &lt;g0&gt;Behalten&lt;/g0&gt;-Option bei der ausgewählten Zeile oder Gruppe von Zeilen auf den entgegengesetzten Status zu setzen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Use this command to uncheck the &lt;g0&gt;Keep&lt;/g0&gt; check box for all rows.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T154324Z" creationid="Ragnar-F" creationdate="20221121T154324Z">
-        <seg>Verwenden Sie diesen Befehl, um bei jedem &lt;g0&gt;Behalten&lt;/g0&gt;-Kästchen das Häkchen zu entfernen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T112004Z" creationid="Ragnar-F" creationdate="20221121T154324Z">
+        <seg>Verwenden Sie diesen Befehl, um die &lt;g0&gt;Behalten&lt;/g0&gt;-Option bei allen Zeilen zu deaktivieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72826,8 +72826,8 @@ ziehen, um sie von dort aus zu verknüpfen.</seg>
       <tuv lang="en">
         <seg>You can also use the arrow keys and press &lt;k0&gt;Space&lt;/k0&gt; in the corresponding segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T155003Z" creationid="Ragnar-F" creationdate="20221121T155003Z">
-        <seg>Sie können auch die Pfeiltasten verwenden und im zugehörigen Segment &lt;k0&gt;Space&lt;/k0&gt; drücken.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T112958Z" creationid="Ragnar-F" creationdate="20221121T155003Z">
+        <seg>Sie können auch die Pfeiltasten verwenden und &lt;k0&gt;Space&lt;/k0&gt; im zugehörigen Segment drücken.</seg>
       </tuv>
     </tu>
     <tu>
