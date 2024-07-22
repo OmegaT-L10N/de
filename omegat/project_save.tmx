@@ -5233,8 +5233,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Close&lt;/g0&gt;: This closes the &lt;g1&gt;Align&lt;/g1&gt; dialog.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T150610Z" creationid="Ragnar-F" creationdate="20221121T150610Z">
-        <seg>&lt;g0&gt;Schließen&lt;/g0&gt;: Schließt das &lt;g1&gt;Ausrichten&lt;/g1&gt;-Dialogfenster.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T085756Z" creationid="Ragnar-F" creationdate="20221121T150610Z">
+        <seg>&lt;g0&gt;Schließen&lt;/g0&gt;: Schließt das Dialogfenster "&lt;g1&gt;Ausrichten&lt;/g1&gt;".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5697,8 +5697,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Reload&lt;/g0&gt;: This command reloads the file from the disk.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T150444Z" creationid="Ragnar-F" creationdate="20221121T150444Z">
-        <seg>&lt;g0&gt;Neu laden&lt;/g0&gt;: Dieser Befehl lädt die Datei erneut von der Festplatte.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T084310Z" creationid="Ragnar-F" creationdate="20221121T150444Z">
+        <seg>&lt;g0&gt;Neu laden&lt;/g0&gt;: Dieser Menüpunkt lädt die Datei erneut von der Festplatte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5761,8 +5761,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Reset&lt;/g0&gt;: This command restores all parameters to their default value.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T150245Z" creationid="Ragnar-F" creationdate="20221121T150245Z">
-        <seg>&lt;g0&gt;Zurücksetzen&lt;/g0&gt;: Dieser Befehl setzt alle Parameter auf ihre Standardwerte zurück.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T084106Z" creationid="Ragnar-F" creationdate="20221121T150245Z">
+        <seg>&lt;g0&gt;Zurücksetzen&lt;/g0&gt;: Dieser Menüpunkt setzt alle Parameter auf ihre Standardwerte zurück.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18930,8 +18930,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Doing so in this step cancels the alignment without saving any data to a translation memory file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T150717Z" creationid="Ragnar-F" creationdate="20221121T150717Z">
-        <seg>Wenn Sie das in diesem Schritt tun, wird die Ausrichtung abgebrochen, ohne dass Daten in eine Translation-Memory-Datei gespeichert werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T100101Z" creationid="Ragnar-F" creationdate="20221121T150717Z">
+        <seg>Die Ausrichtung wird abgebrochen, ohne die Daten in eine Translation-Memory-Datei zu speichern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28049,8 +28049,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If you are working with one of each, you can try to switch between the two to see which one yields better results.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144519Z" creationid="Ragnar-F" creationdate="20221121T144519Z">
-        <seg>Wenn Sie mit einem von beiden arbeiten, können Sie versuchen, zwischen den beiden zu wechseln, um zu sehen, welches von beiden die besseren Ergebnisse liefert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T082719Z" creationid="Ragnar-F" creationdate="20221121T144519Z">
+        <seg>Wenn beide Optionen zutreffen, können Sie versuchen, zwischen ihnen zu wechseln, um zu sehen, welche das bessere Ergebnis liefert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28590,16 +28590,16 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you modify the file filters, you will be asked if you want to save those changes when you exit the aligner.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T145110Z" creationid="Ragnar-F" creationdate="20221121T145110Z">
-        <seg>Wenn Sie die Dateifilter ändern, werden Sie beim Beenden des Aligners gefragt, ob Sie diese Änderungen speichern möchten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T083236Z" creationid="Ragnar-F" creationdate="20221121T145110Z">
+        <seg>Wenn Sie die Dateifilter ändern, werden Sie beim Beenden des Aligners gefragt, ob Sie die Änderungen speichern möchten.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If you modify the segmentation rules, you will be asked if you want to save those changes when you exit the aligner.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144956Z" creationid="Ragnar-F" creationdate="20221121T144956Z">
-        <seg>Wenn Sie die Segmentierungsregeln ändern, werden Sie beim Beenden des Aligners gefragt, ob Sie diese Änderungen speichern möchten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T083143Z" creationid="Ragnar-F" creationdate="20221121T144956Z">
+        <seg>Wenn Sie die Segmentierungsregeln ändern, werden Sie beim Beenden des Aligners gefragt, ob Sie die Änderungen speichern möchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29103,8 +29103,8 @@ folgt starten können:</seg>
       <tuv lang="en">
         <seg>If your texts contain other elements that would be useful to highlight, modify the regular expression to include those elements, using the &lt;l1&gt;|&lt;/l1&gt; symbol to separate each element.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T153805Z" creationid="Ragnar-F" creationdate="20230127T153805Z">
-        <seg>Wenn Ihre Texte andere Elemente enthalten, die eine Hervorhebung rechtfertigen, ändern Sie den regulären Ausdruck so, dass er auch diese Elemente enthält, unter Nutzung des &lt;l1&gt;|&lt;/l1&gt;-Symbols zum Trennen der Elemente.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T083707Z" creationid="Ragnar-F" creationdate="20230127T153805Z">
+        <seg>Wenn Ihr Text andere Elemente enthält, die eine Hervorhebung rechtfertigen, ändern Sie den regulären Ausdruck so, dass er auch diese Elemente enthält, indem Sie die Elemente mit dem &lt;l1&gt;|&lt;/l1&gt;-Symbol trennen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29449,8 +29449,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In addition, the &lt;g0&gt;File&lt;/g0&gt; menu provides the following commands:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T150109Z" creationid="Ragnar-F" creationdate="20221121T150109Z">
-        <seg>Darüber hinaus bietet das &lt;g0&gt;Datei&lt;/g0&gt;-Menü die folgenden Befehle:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T084001Z" creationid="Ragnar-F" creationdate="20221121T150109Z">
+        <seg>Zusätzlich bietet das &lt;g0&gt;Datei&lt;/g0&gt;-Menü die folgenden Menüpunkte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31596,8 +31596,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It can also be called by clicking the &lt;g1&gt;Reset&lt;/g1&gt; at the bottom right of the window or pressing &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;R&lt;/k5&gt;&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T150350Z" creationid="Ragnar-F" creationdate="20221121T150350Z">
-        <seg>Er kann auch durch Anklicken von &lt;g1&gt;Zurücksetzen&lt;/g1&gt; unten rechts im Fenster oder durch Drücken von &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;R&lt;/k5&gt;&lt;/k2&gt; aufgerufen werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T084250Z" creationid="Ragnar-F" creationdate="20221121T150350Z">
+        <seg>Entspricht der Schaltfläche &lt;g1&gt;Zurücksetzen&lt;/g1&gt; unten rechts im Fenster oder dem Tastenkürzel &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;R&lt;/k5&gt;&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31684,8 +31684,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It defaults to &lt;g0&gt;Character&lt;/g0&gt; if at least one of the languages involved does not delimit words with spaces, and to &lt;g1&gt;Word&lt;/g1&gt; otherwise.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T082426Z" creationid="Ragnar-F" creationdate="20221121T144446Z">
-        <seg>Wenn bei mindestens einer der beteiligten Sprachen die Worttrennung ohne Leerzeichen erfolgt, verwendet der Aligner standardmäßig "&lt;g0&gt;Zeichen&lt;/g0&gt;", andernfalls "&lt;g1&gt;Wort&lt;/g1&gt;".</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T082912Z" creationid="Ragnar-F" creationdate="20221121T144446Z">
+        <seg>Standardmäßig verwendet der Aligner "&lt;g0&gt;Zeichen&lt;/g0&gt;", wenn bei mindestens einer der beteiligten Sprachen die Worttrennung ohne Leerzeichen erfolgt, andernfalls "&lt;g1&gt;Wort&lt;/g1&gt;".</seg>
       </tuv>
     </tu>
     <tu>
@@ -56403,8 +56403,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The aligner includes tags in the segments by default.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144642Z" creationid="Ragnar-F" creationdate="20221121T144642Z">
-        <seg>Der Aligner fügt standardmäßig Tags in die Segmente ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T082806Z" creationid="Ragnar-F" creationdate="20221121T144642Z">
+        <seg>Standardmäßig fügt der Aligner Tags in die Segmente ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56419,8 +56419,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The aligner uses sentence segmentation by default.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144539Z" creationid="Ragnar-F" creationdate="20221121T144539Z">
-        <seg>Der Aligner verwendet standardmäßig die Satzsegmentierung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T082742Z" creationid="Ragnar-F" creationdate="20221121T144539Z">
+        <seg>Standardmäßig verwendet der Aligner die Satzsegmentierung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57167,16 +57167,16 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The default choice is &lt;g0&gt;Yes&lt;/g0&gt;, which may not be what you want if you edited the global OmegaT file filters.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T153554Z" creationid="Ragnar-F" creationdate="20230127T153554Z">
-        <seg>Die Standardauswahl ist &lt;g0&gt;Ja&lt;/g0&gt;, was möglicherweise nicht das ist, was Sie wollen, wenn Sie die globalen OmegaT-Dateifilter bearbeitet haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T083419Z" creationid="Ragnar-F" creationdate="20230127T153554Z">
+        <seg>Die Standardauswahl ist &lt;g0&gt;Ja&lt;/g0&gt;, was möglicherweise nicht das ist, was Sie wollen, wenn Sie die globalen Dateifilter von OmegaT bearbeitet haben.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The default choice is &lt;g0&gt;Yes&lt;/g0&gt;, which may not be what you want if you edited the global OmegaT segmentation rules.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T153545Z" creationid="Ragnar-F" creationdate="20230127T153545Z">
-        <seg>Die Standardauswahl ist &lt;g0&gt;Ja&lt;/g0&gt;, was möglicherweise nicht das ist, was Sie wollen, wenn Sie die globalen OmegaT-Segmentierungsregeln bearbeitet haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T083223Z" creationid="Ragnar-F" creationdate="20230127T153545Z">
+        <seg>Die Standardauswahl ist &lt;g0&gt;Ja&lt;/g0&gt;, was möglicherweise nicht das ist, was Sie wollen, wenn Sie die globalen Segmentierungsregeln von OmegaT bearbeitet haben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64012,8 +64012,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This option lets you enter a regular expression to define the pattern used to highlight text in the source and target segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T153608Z" creationid="Ragnar-F" creationdate="20230127T153608Z">
-        <seg>Mit dieser Option können Sie einen regulären Ausdruck eingeben, um das Muster für die Hervorhebung von Text in den Quell- und Zielsegmenten zu definieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T083516Z" creationid="Ragnar-F" creationdate="20230127T153608Z">
+        <seg>Mit dieser Option können Sie einen regulären Ausdruck für die Hervorhebung von Text in den Quell- und Zielsegmenten eingeben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72453,8 +72453,8 @@ Kaptain-Startskript wie folgt starten:</seg>
       <tuv lang="en">
         <seg>You can also access the &lt;g0&gt;Highlight&lt;/g0&gt; option and the dialog to modify the pattern from the &lt;g1&gt;View&lt;/g1&gt; menu, and the other options from the &lt;g2&gt;Options&lt;/g2&gt; menu.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T135809Z" creationid="Ragnar-F" creationdate="20221218T135809Z">
-        <seg>Die &lt;g0&gt;Hervorheben&lt;/g0&gt;-Option und das Dialogfenster zum Ändern des Musters ist auch über das &lt;g1&gt;Ansicht&lt;/g1&gt;-Menü zugänglich, sowie weitere Optionen über das &lt;g2&gt;Optionen&lt;/g2&gt;-Menü.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T083855Z" creationid="Ragnar-F" creationdate="20221218T135809Z">
+        <seg>Die &lt;g0&gt;Hervorheben&lt;/g0&gt;-Option und das Dialogfenster zum Ändern des Musters sind auch über das &lt;g1&gt;Ansicht&lt;/g1&gt;-Menü zugänglich. Weitere Optionen finden Sie im &lt;g2&gt;Optionen&lt;/g2&gt;-Menü.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73456,8 +73456,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You can modify the regular expression to add highlighted parts.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T135456Z" creationid="Ragnar-F" creationdate="20221218T135456Z">
-        <seg>Sie können den regulären Ausdruck ändern, um hervorgehobene Teile hinzuzufügen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T083112Z" creationid="Ragnar-F" creationdate="20221218T135456Z">
+        <seg>Sie können den regulären Ausdruck ändern, um weitere Teile hervorzuheben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73920,8 +73920,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You can use this command to parse and align the files again if you had to modify their contents.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T150516Z" creationid="Ragnar-F" creationdate="20221121T150516Z">
-        <seg>Sie können diesen Befehl verwenden, um die Dateien erneut zu parsen und auszurichten, wenn Sie ihre Inhalte ändern mussten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T085809Z" creationid="Ragnar-F" creationdate="20221121T150516Z">
+        <seg>Sie können ihn verwenden, um die Dateien erneut zu parsen und auszurichten, z.B. wenn Sie deren Inhalt geändert haben.</seg>
       </tuv>
     </tu>
     <tu>
