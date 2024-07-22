@@ -10081,8 +10081,8 @@ Dossier racine
       <tuv lang="en">
         <seg>Alternatively, you can press the arrow keys while holding &lt;k0&gt;Shift&lt;/k0&gt; to select consecutive segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T151937Z" creationid="Ragnar-F" creationdate="20221121T151937Z">
-        <seg>Alternativ können Sie auch die Pfeiltasten drücken, während Sie &lt;k0&gt;Umschalt&lt;/k0&gt; gedrückt halten, um angrenzende Segmente auszuwählen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T103106Z" creationid="Ragnar-F" creationdate="20221121T151937Z">
+        <seg>Alternativ können Sie auch die Pfeiltasten verwenden, während Sie &lt;k0&gt;Umschalt&lt;/k0&gt; gedrückt halten, um benachbarte Segmente auszuwählen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12927,16 +12927,16 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Calling the command on the same selection one more time merges the contents of all selected cells into a single cell.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T152937Z" creationid="Ragnar-F" creationdate="20221121T152937Z">
-        <seg>Wenn Sie den Befehl ein weiteres Mal für dieselbe Auswahl aufrufen, werden die Inhalte aller ausgewählten Zellen zu einer einzigen Zelle zusammengeführt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T105922Z" creationid="Ragnar-F" creationdate="20221121T152937Z">
+        <seg>Wenn Sie den Befehl erneut für dieselbe Auswahl aufrufen, werden die Inhalte aller ausgewählten Zellen zu einer einzigen Zelle zusammengeführt.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Calling this command opens the &lt;g0&gt;Edit Text&lt;/g0&gt; dialog, which allows you to make changes to the text of the segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T153259Z" creationid="Ragnar-F" creationdate="20221121T153259Z">
-        <seg>Wenn Sie diesen Befehl ausführen, wird das Dialogfenster &lt;g0&gt;Text bearbeiten&lt;/g0&gt; geöffnet, wo Sie Änderungen am Text des Segments vornehmen können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T110045Z" creationid="Ragnar-F" creationdate="20221121T153259Z">
+        <seg>Wenn Sie diesen Befehl ausführen, wird das Dialogfenster "&lt;g0&gt;Text bearbeiten&lt;/g0&gt;" geöffnet, wo Sie Änderungen am Text des Segments vornehmen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26444,8 +26444,8 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
       <tuv lang="en">
         <seg>If a single segment is selected, this command opens the &lt;g0&gt;Split Text&lt;/g0&gt; dialog.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T152426Z" creationid="Ragnar-F" creationdate="20221121T152426Z">
-        <seg>Wenn ein einzelnes Segment ausgewählt ist, öffnet dieser Befehl das Dialogfenster &lt;g0&gt;Text splitten&lt;/g0&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T104558Z" creationid="Ragnar-F" creationdate="20221121T152426Z">
+        <seg>Wenn ein einzelnes Segment ausgewählt ist, wird das Dialogfenster "&lt;g0&gt;Text teilen&lt;/g0&gt;" geöffnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27849,16 +27849,16 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If two or more segments are selected, they will all be merged, but remain in separate cells.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T152856Z" creationid="Ragnar-F" creationdate="20221121T152856Z">
-        <seg>Wenn zwei oder mehr Segmente ausgewählt sind, werden sie alle zusammengeführt, bleiben aber in separaten Zellen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T105841Z" creationid="Ragnar-F" creationdate="20221121T152856Z">
+        <seg>Wenn zwei oder mehr Segmente ausgewählt sind, werden sie zusammengeführt, bleiben aber in separaten Zellen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If two or more segments occupying separate cells in the same row (multi-cell segments containing lines without a &lt;g0&gt;Keep&lt;/g0&gt; check box) are selected, this command will split the selected cells back into separate rows (with a &lt;g1&gt;Keep&lt;/g1&gt; check box).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T154306Z" creationid="Ragnar-F" creationdate="20230127T154306Z">
-        <seg>Wenn zwei oder mehr Segmente, die separate Zellen in derselben Zeile belegen (mehrzellige Segmente mit Zeilen ohne &lt;g0&gt;Behalten&lt;/g0&gt;-Kästchen), ausgewählt sind, teilt dieser Befehl die ausgewählten Zellen wieder in separate Zeilen auf (mit einem &lt;g1&gt;Behalten&lt;/g1&gt;-Kästchen).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T105603Z" creationid="Ragnar-F" creationdate="20230127T154306Z">
+        <seg>Wenn zwei oder mehr Segmente ausgewählt sind, die separate Zellen in derselben Zeile belegen (mehrzellige Segmente mit Zeilen ohne &lt;g0&gt;Behalten&lt;/g0&gt;-Kästchen), werden die ausgewählten Zellen wieder in separate Zeilen geteilt (mit &lt;g1&gt;Behalten&lt;/g1&gt;-Kästchen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30162,8 +30162,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In this dialog, the &lt;k2&gt;Enter&lt;/k2&gt; enters a line break in the text.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T135818Z" creationid="Ragnar-F" creationdate="20221218T135818Z">
-        <seg>In diesem Dialogfenster wird beim Drücken von &lt;k2&gt;Enter&lt;/k2&gt; ein Zeilenumbruch in den Text eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T110200Z" creationid="Ragnar-F" creationdate="20221218T135818Z">
+        <seg>Wenn Sie in diesem Dialogfenster &lt;k2&gt;Enter&lt;/k2&gt; drücken, wird ein Zeilenumbruch in den Text eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36523,16 +36523,16 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>Moves the selected segment, or block of consecutive segments, down one row.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T152320Z" creationid="Ragnar-F" creationdate="20221121T152320Z">
-        <seg>Verschiebt das ausgewählte Segment oder den Block angrenzender Segmente um eine Zeile nach unten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T103404Z" creationid="Ragnar-F" creationdate="20221121T152320Z">
+        <seg>Verschiebt das ausgewählte Segment oder die Gruppe benachbarter Segmente um eine Zeile nach unten.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Moves the selected segment, or block of consecutive segments, up one row.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T152231Z" creationid="Ragnar-F" creationdate="20221121T152231Z">
-        <seg>Verschiebt das ausgewählte Segment oder den Block angrenzender Segmente um eine Zeile nach oben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T103209Z" creationid="Ragnar-F" creationdate="20221121T152231Z">
+        <seg>Verschiebt das ausgewählte Segment oder die Gruppe benachbarter Segmente um eine Zeile nach oben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40744,8 +40744,8 @@ enthalten.</seg>
       <tuv lang="en">
         <seg>Once you are satisfied with the results of this step, click the &lt;g0&gt;Continue&lt;/g0&gt; button to proceed to the next one.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T150916Z" creationid="Ragnar-F" creationdate="20221121T150916Z">
-        <seg>Wenn Sie mit den Ergebnissen in diesem Schritt zufrieden sind, klicken Sie auf die &lt;g0&gt;Weiter&lt;/g0&gt;-Schaltfläche, um zum nächsten Schritt überzugehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T101654Z" creationid="Ragnar-F" creationdate="20221121T150916Z">
+        <seg>Wenn Sie mit dem Ergebnis dieses Schrittes zufrieden sind, klicken Sie auf die Schaltfläche &lt;g0&gt;Weiter&lt;/g0&gt;, um mit dem nächsten Schritt fortzufahren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49451,8 +49451,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Segment blocks can be selected with the mouse by clicking the first segment, and holding the &lt;k0&gt;Shift&lt;/k0&gt; key while clicking the last segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T151835Z" creationid="Ragnar-F" creationdate="20221121T151835Z">
-        <seg>Um einen Block von Segmenten auszuwählen, klicken Sie mit der Maus auf das erste Segment und halten die &lt;k0&gt;Umschalt&lt;/k0&gt;-Taste gedrückt, während Sie das letzte Segment anklicken.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T103027Z" creationid="Ragnar-F" creationdate="20221121T151835Z">
+        <seg>Um eine Gruppe von Segmenten auszuwählen, klicken Sie zuerst auf das erste Segment und dann auf das letzte Segment, während Sie &lt;k0&gt;Umschalt&lt;/k0&gt; gedrückt halten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52865,24 +52865,24 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Split</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T093512Z" creationid="Ragnar-F" creationdate="20210113T093512Z">
-        <seg>Splitten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T103824Z" creationid="Ragnar-F" creationdate="20210113T093512Z">
+        <seg>Teilen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Split (&lt;k0&gt;S&lt;/k0&gt;)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T152323Z" creationid="Ragnar-F" creationdate="20221121T152321Z">
-        <seg>Splitten (&lt;k0&gt;S&lt;/k0&gt;)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T104151Z" creationid="Ragnar-F" creationdate="20221121T152321Z">
+        <seg>Teilen (&lt;k0&gt;S&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Split Text</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210113T095951Z" creationid="Ragnar-F" creationdate="20210113T095951Z">
-        <seg>Text splitten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T103843Z" creationid="Ragnar-F" creationdate="20210113T095951Z">
+        <seg>Text teilen</seg>
       </tuv>
     </tu>
     <tu>
@@ -56355,8 +56355,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The aligner also allows you to edit the contents of a segment, which can be useful if you notice errors such as a spelling mistake in a segment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071810Z" creationid="Ragnar-F" creationdate="20221121T151443Z">
-        <seg>Der Aligner bietet auch die Möglichkeit, den Inhalt eines Segments zu editieren, was nützlich sein kann, wenn Sie Fehler wie z.B. einen Rechtschreibfehler in einem Segment entdecken.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T101937Z" creationid="Ragnar-F" creationdate="20221121T151443Z">
+        <seg>Der Aligner bietet auch die Möglichkeit, den Inhalt eines Segments zu editieren, was nützlich sein kann, wenn Sie Fehler entdecken, z.B. einen Rechtschreibfehler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56491,8 +56491,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The available actions are presented below.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T152036Z" creationid="Ragnar-F" creationdate="20221121T152036Z">
-        <seg>Die verfügbaren Aktionen werden unten aufgeführt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T103142Z" creationid="Ragnar-F" creationdate="20221121T152036Z">
+        <seg>Die möglichen Aktionen sind unten aufgelistet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57215,8 +57215,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The default setting for a translation project is to create &lt;e0&gt;sentences&lt;/e0&gt; by splitting the &lt;e1&gt;paragraph blocks&lt;/e1&gt; found in the document.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240708T100058Z" creationid="Ragnar-F" creationdate="20221117T104135Z">
-        <seg>Standardmäßig werden bei einem Übersetzungsprojekt &lt;e0&gt;Sätze&lt;/e0&gt; durch Aufteilung der &lt;e1&gt;Absatzblöcke&lt;/e1&gt; im Dokument erstellt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T104116Z" creationid="Ragnar-F" creationdate="20221117T104135Z">
+        <seg>Standardmäßig werden bei einem Übersetzungsprojekt &lt;e0&gt;Sätze&lt;/e0&gt; erstellt, indem die &lt;e1&gt;Absatzblöcke&lt;/e1&gt; des Dokuments geteilt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58722,8 +58722,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The most common actions are also accessible from the buttons at the right of the main pane.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T153909Z" creationid="Ragnar-F" creationdate="20230127T153843Z">
-        <seg>Die gängigsten Aktionen sind auch über die Schaltflächen rechts neben dem Hauptfensterbereich zugänglich.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T102111Z" creationid="Ragnar-F" creationdate="20230127T153843Z">
+        <seg>Die am häufigsten verwendeten Aktionen sind auch über die Schaltflächen rechts neben dem Hauptbereich zugänglich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60186,8 +60186,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The shortcut keys are well worth remembering if you use the aligner often or work on large documents, as they allow you to carry out actions very quickly.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T151620Z" creationid="Ragnar-F" creationdate="20221121T151620Z">
-        <seg>Die Tastenkürzel sollten Sie sich merken, wenn Sie den Aligner häufig benutzen oder an umfangreichen Dokumenten arbeiten, da Sie mit ihnen sehr schnell Aktionen durchführen können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T102147Z" creationid="Ragnar-F" creationdate="20221121T151620Z">
+        <seg>Wenn Sie den Aligner häufig verwenden oder mit umfangreichen Dokumenten arbeiten, sollten Sie sich die Tastenkürzel merken, da Sie damit sehr schnell Aktionen ausführen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62572,8 +62572,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This command is also available from the button at the right of the main window pane.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T153852Z" creationid="Ragnar-F" creationdate="20230127T153852Z">
-        <seg>Dieser Befehl ist auch über die Schaltfläche rechts neben dem Hauptfensterbereich zugänglich.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T110020Z" creationid="Ragnar-F" creationdate="20230127T153852Z">
+        <seg>Dieser Befehl ist auch über eine Schaltfläche rechts neben dem Hauptbereich verfügbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63228,8 +63228,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This generally involves moving segments up or down to align them with the correct segments in the other language, as well as splitting or merging segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T151348Z" creationid="Ragnar-F" creationdate="20221121T151231Z">
-        <seg>Hierbei ist es meist notwendig, ein Segment nach oben oder nach unten zu verschieben, um es an die richtigen Segmente der anderen Sprache auszurichten, und Segmente zu splitten oder zusammenzuführen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T104143Z" creationid="Ragnar-F" creationdate="20221121T151231Z">
+        <seg>Hierbei ist es meist notwendig, ein Segment nach oben oder nach unten zu verschieben, um es mit den richtigen Segmenten der anderen Sprache auszurichten, oder Segmente zu teilen oder zusammenzuführen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63252,16 +63252,16 @@ the server.</seg>
       <tuv lang="en">
         <seg>This highlights the corresponding &lt;g0&gt;Keep&lt;/g0&gt; column in green.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T153801Z" creationid="Ragnar-F" creationdate="20221121T153801Z">
-        <seg>Dabei wird die zugehörige &lt;g0&gt;Behalten&lt;/g0&gt;-Spalte grün hervorgehoben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T110513Z" creationid="Ragnar-F" creationdate="20221121T153801Z">
+        <seg>Dadurch wird die zugehörige &lt;g0&gt;Behalten&lt;/g0&gt;-Spalte grün gefärbt.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This highlights the corresponding &lt;g0&gt;Keep&lt;/g0&gt; column in red.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T153913Z" creationid="Ragnar-F" creationdate="20221121T153913Z">
-        <seg>Dabei wird die zugehörige &lt;g0&gt;Behalten&lt;/g0&gt;-Spalte rot hervorgehoben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T110635Z" creationid="Ragnar-F" creationdate="20221121T153913Z">
+        <seg>Dadurch wird die zugehörige &lt;g0&gt;Behalten&lt;/g0&gt;-Spalte rot gefärbt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65424,8 +65424,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To perform an action, select the applicable segment or block of consecutive segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T151719Z" creationid="Ragnar-F" creationdate="20221121T151719Z">
-        <seg>Um eine Aktion durchzuführen, wählen Sie das entsprechende Segment oder einen Block mehrerer angrenzender Segmente aus.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T102303Z" creationid="Ragnar-F" creationdate="20221121T151719Z">
+        <seg>Um eine Aktion auszuführen, wählen Sie das entsprechende Segment oder eine Gruppe mehrerer benachbarter Segmente aus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68060,8 +68060,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt; to close it without using the mouse.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T153539Z" creationid="Ragnar-F" creationdate="20221121T153539Z">
-        <seg>Verwenden Sie &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;, um es ohne Mausklick zu schließen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T110301Z" creationid="Ragnar-F" creationdate="20221121T153539Z">
+        <seg>Verwenden Sie &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;, um das Dialogfenster ohne Maus zu schließen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69212,8 +69212,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use the &lt;g1&gt;OK&lt;/g1&gt; button to close the dialog when finished.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T153338Z" creationid="Ragnar-F" creationdate="20221121T153338Z">
-        <seg>Verwenden Sie die &lt;g1&gt;OK&lt;/g1&gt;-Schaltfläche, um das Dialogfenster zu schließen, wenn Sie fertig sind.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T110123Z" creationid="Ragnar-F" creationdate="20221121T153338Z">
+        <seg>Wenn Sie fertig sind, klicken Sie auf die Schaltfläche &lt;g1&gt;OK&lt;/g1&gt;, um das Dialogfenster zu schließen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69340,8 +69340,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use the mouse or arrow keys to place the cursor at the location where you want to split the text, and click the &lt;g1&gt;OK&lt;/g1&gt; button or press &lt;k2&gt;Enter&lt;/k2&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T153954Z" creationid="Ragnar-F" creationdate="20230127T153954Z">
-        <seg>Verwenden Sie die Maus oder die Pfeiltasten, um den Textcursor auf eine Stelle zu setzen, an der Sie den Text teilen möchten, und klicken Sie auf die &lt;g1&gt;OK&lt;/g1&gt;-Schaltfläche oder drücken Sie &lt;k2&gt;Enter&lt;/k2&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T105141Z" creationid="Ragnar-F" creationdate="20230127T153954Z">
+        <seg>Verwenden Sie die Maus oder die Pfeiltasten, um den Textcursor an die Stelle zu bewegen, an der der Text geteilt werden soll, und klicken Sie auf die Schaltfläche &lt;g1&gt;OK&lt;/g1&gt; oder drücken Sie &lt;k2&gt;Enter&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69508,16 +69508,16 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use this command to confirm that the alignment of the segments in the selected row or block of rows is correct.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T153658Z" creationid="Ragnar-F" creationdate="20221121T153658Z">
-        <seg>Verwenden Sie diesen Befehl, um zu bestätigen, dass die Ausrichtung der Segmente in der ausgewählten Zeile oder dem ausgewählten Zeilenblock korrekt ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T110435Z" creationid="Ragnar-F" creationdate="20221121T153658Z">
+        <seg>Verwenden Sie diesen Befehl, um zu bestätigen, dass die Ausrichtung der Segmente in der ausgewählten Zeile oder Gruppe von Zeilen korrekt ist.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Use this command to identify a row or block of rows for which the alignment of the segments is in doubt.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T153906Z" creationid="Ragnar-F" creationdate="20221121T153906Z">
-        <seg>Verwenden Sie diesen Befehl, um eine Zeile oder einen Zeilenblock zu kennzeichnen, bei der bzw. dem die Ausrichtung der Segmente fragwürdig ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T110617Z" creationid="Ragnar-F" creationdate="20221121T153906Z">
+        <seg>Verwenden Sie diesen Befehl, um eine Zeile oder Gruppe von Zeilen zu kennzeichnen, bei der die Ausrichtung der Segmente fraglich ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69548,8 +69548,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use this command to remove one or more marks set by the &lt;g0&gt;Mark Accepted&lt;/g0&gt; or &lt;g1&gt;Mark Needs Review&lt;/g1&gt; commands.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T154044Z" creationid="Ragnar-F" creationdate="20221121T154044Z">
-        <seg>Verwenden Sie diesen Befehl, um eine oder mehrere Markierungen zu entfernen, die mit den Befehlen &lt;g0&gt;Als 'Akzeptiert' markieren&lt;/g0&gt; oder &lt;g1&gt;Als 'Benötigt Review' markieren&lt;/g1&gt; gesetzt wurden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T111543Z" creationid="Ragnar-F" creationdate="20221121T154044Z">
+        <seg>Verwenden Sie diesen Befehl, um eine oder mehrere Markierungen zu entfernen, die mit den Befehlen "&lt;g0&gt;Als 'Akzeptiert' markieren&lt;/g0&gt;" oder "&lt;g1&gt;Als 'Benötigt Review' markieren&lt;/g1&gt;" gesetzt wurden.</seg>
       </tuv>
     </tu>
     <tu>
