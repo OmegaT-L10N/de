@@ -5209,8 +5209,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Character&lt;/g0&gt;: The basic unit used to determine the size of segments in languages that do not use a space to delimit words.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144244Z" creationid="Ragnar-F" creationdate="20221121T144244Z">
-        <seg>&lt;g0&gt;Zeichen&lt;/g0&gt;: Die Grundeinheit zum Bestimmen der Größe von Segmenten in Sprachen, die kein Leerzeichen zur Abgrenzung von Wörtern verwenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T075150Z" creationid="Ragnar-F" creationdate="20221121T144244Z">
+        <seg>&lt;g0&gt;Zeichen&lt;/g0&gt;: Die Grundeinheit zur Bestimmung der Größe von Segmenten in Sprachen, die keine Leerzeichen zur Trennung von Wörtern verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5417,8 +5417,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;ID&lt;/g0&gt;: This mode applies to files consisting of &lt;l1&gt;key = value&lt;/l1&gt; entries.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143123Z" creationid="Ragnar-F" creationdate="20221121T143123Z">
-        <seg>&lt;g0&gt;ID&lt;/g0&gt;: Dieser Modus eignet sich für Dateien, die aus &lt;l1&gt;Schlüssel = Wert&lt;/l1&gt;-Einträgen bestehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T074310Z" creationid="Ragnar-F" creationdate="20221121T143123Z">
+        <seg>&lt;g0&gt;ID&lt;/g0&gt;: Dieser Modus ist für Dateien geeignet, die aus &lt;l1&gt;Schlüssel = Wert&lt;/l1&gt;-Einträgen bestehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5465,8 +5465,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Keep&lt;/g0&gt;: The segment pairs in rows that have this box checked are saved to the translation memory file.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141944Z" creationid="Ragnar-F" creationdate="20221121T141944Z">
-        <seg>&lt;g0&gt;Behalten&lt;/g0&gt;: Die Segmentpaare einer Zeile, bei der ein Häkchen in diesem Kästchen gesetzt ist, werden in die Translation Memory-Datei gespeichert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T073832Z" creationid="Ragnar-F" creationdate="20221121T141944Z">
+        <seg>&lt;g0&gt;Behalten&lt;/g0&gt;: Die Segmentpaare einer Zeile, bei der ein Häkchen in diesem Kästchen gesetzt ist, werden in die Translation-Memory-Datei gespeichert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5561,8 +5561,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Normal&lt;/g0&gt;: The default statistical distribution used to align the documents.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143910Z" creationid="Ragnar-F" creationdate="20221121T143910Z">
-        <seg>&lt;g0&gt;Normal&lt;/g0&gt;: Die statistische Standardverteilung zum Ausrichten der Dokumente.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T074518Z" creationid="Ragnar-F" creationdate="20221121T143910Z">
+        <seg>&lt;g0&gt;Normal&lt;/g0&gt;: Die reguläre statistische Verteilung für die Ausrichtung der Dokumente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5601,8 +5601,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Poisson&lt;/g0&gt;: An alternative statistical distribution that can be used to align the documents.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143933Z" creationid="Ragnar-F" creationdate="20221121T143933Z">
-        <seg>&lt;g0&gt;Poisson&lt;/g0&gt;: Eine alternative statistische Verteilung zum Ausrichten der Dokumente.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T074551Z" creationid="Ragnar-F" creationdate="20221121T143933Z">
+        <seg>&lt;g0&gt;Poisson&lt;/g0&gt;: Eine alternative statistische Verteilung für die Ausrichtung der Dokumente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6025,8 +6025,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Word&lt;/g0&gt;: The basic unit used to determine the size of segments in languages that use a space to delimit words.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144304Z" creationid="Ragnar-F" creationdate="20221121T144304Z">
-        <seg>&lt;g0&gt;Wort&lt;/g0&gt;: Die Grundeinheit zum Bestimmen der Größe von Segmenten in Sprachen, die Leerzeichen zur Abgrenzung von Wörtern verwenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T075246Z" creationid="Ragnar-F" creationdate="20221121T144304Z">
+        <seg>&lt;g0&gt;Wort&lt;/g0&gt;: Die Grundeinheit zur Bestimmung der Größe von Segmenten in Sprachen, die Leerzeichen zur Trennung von Wörtern verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7345,16 +7345,16 @@ Dossier racine
       <tuv lang="en">
         <seg>A &lt;e0&gt;dialog&lt;/e0&gt; requires you to take action and close it before you can go back to translating.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T220117Z" creationid="Ragnar-F" creationdate="20221120T220107Z">
-        <seg>Ein &lt;e0&gt;Dialogfenster&lt;/e0&gt; verlangt eine Aktion von Ihnen und muss geschlossen werden, bevor Sie mit dem Übersetzen weitermachen können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T071727Z" creationid="Ragnar-F" creationdate="20221120T220107Z">
+        <seg>Ein &lt;e0&gt;Dialogfenster&lt;/e0&gt; verlangt eine Aktion von Ihnen und muss geschlossen werden, bevor Sie mit der Übersetzung fortfahren können.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>A &lt;e0&gt;window&lt;/e0&gt; can be kept open next to the editor and lets you interact with both.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T215527Z" creationid="Ragnar-F" creationdate="20221120T215527Z">
-        <seg>Ein &lt;e0&gt;Fenster&lt;/e0&gt; kann parallel zum Editor offen sein und lässt Sie mit beiden interagieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T071652Z" creationid="Ragnar-F" creationdate="20221120T215527Z">
+        <seg>Ein &lt;e0&gt;Fenster&lt;/e0&gt; kann parallel zum Editor geöffnet sein und ermöglicht die Interaktion mit beiden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9041,8 +9041,8 @@ Dossier racine
       <tuv lang="en">
         <seg>After selecting the language and files, click &lt;g0&gt;OK&lt;/g0&gt; button to bring up the &lt;g1&gt;Align&lt;/g1&gt; window, which shows the results of the automatic alignment.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141718Z" creationid="Ragnar-F" creationdate="20221121T141718Z">
-        <seg>Nachdem Sie die Sprache und die Dateien ausgewählt haben, klicken Sie auf die &lt;g0&gt;OK&lt;/g0&gt;-Schaltfläche, um das &lt;g1&gt;Ausrichten&lt;/g1&gt;-Fenster zu öffnen, wo die Ergebnisse der automatischen Ausrichtung angezeigt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T073518Z" creationid="Ragnar-F" creationdate="20221121T141718Z">
+        <seg>Nachdem Sie die Sprache und die Dateien ausgewählt haben, klicken Sie auf die Schaltfläche &lt;g0&gt;OK&lt;/g0&gt;, um das Fenster "&lt;g1&gt;Ausrichten&lt;/g1&gt;" zu öffnen und das Ergebnis der automatischen Ausrichtung anzuzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9265,8 +9265,8 @@ Dossier racine
       <tuv lang="en">
         <seg>Align Files</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210111T212645Z" creationid="Ragnar-F" creationdate="20210111T212645Z">
-        <seg>Dateien ausrichten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T072540Z" creationid="Ragnar-F" creationdate="20210111T212645Z">
+        <seg>Dateien ausrichten (Aligner)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11146,8 +11146,8 @@ korrektem Verhalten kommen kann.</seg>
       <tuv lang="en">
         <seg>As with the algorithms, there is no hard-and-fast rule on which statistical distribution you should choose.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144025Z" creationid="Ragnar-F" creationdate="20221121T144025Z">
-        <seg>Wie bei den Algorithmen gibt es auch hier keine feste Regel, welche statistische Verteilung am besten geeignet ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T074647Z" creationid="Ragnar-F" creationdate="20221121T144025Z">
+        <seg>Wie bei den Algorithmen gibt es keine feste Regel, welche statistische Verteilung am besten geeignet ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13279,8 +13279,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Changing a parameter immediately recalculates the alignment, allowing you to quickly try different combinations to obtain the best results.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142805Z" creationid="Ragnar-F" creationdate="20221121T142805Z">
-        <seg>Beim Ändern eines Parameters wird die Ausrichtung sofort neu berechnet, so dass Sie schnell verschiedene Kombinationen ausprobieren können, um die besten Ergebnisse zu erzielen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T074021Z" creationid="Ragnar-F" creationdate="20221121T142805Z">
+        <seg>Wenn Sie einen Parameter ändern, wird die Ausrichtung sofort neu berechnet, so dass Sie schnell verschiedene Kombinationen ausprobieren können, um die besten Ergebnisse zu erzielen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18922,8 +18922,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Doing so has the added benefit of reducing mismatches in the initial automatic alignment, making the manual correction step smoother.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T140041Z" creationid="Ragnar-F" creationdate="20221121T140041Z">
-        <seg>Außerdem hat das den Vorteil, dass bei der ersten automatischen Ausrichtung weniger Unstimmigkeiten auftreten, was die manuelle Korrektur vereinfacht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T073040Z" creationid="Ragnar-F" creationdate="20221121T140041Z">
+        <seg>Dies hat auch den Vorteil, dass bei der ersten automatischen Ausrichtung weniger Mismatches auftreten, was die manuelle Korrektur erleichtert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28356,8 +28356,8 @@ angezeigt werden.</seg>
       <tuv lang="en">
         <seg>If you have a translation project open, the aligner will automatically use the languages from that project, as well the project-specific segmentation rules, if any.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141543Z" creationid="Ragnar-F" creationdate="20221121T141543Z">
-        <seg>Wenn Sie ein Übersetzungsprojekt offen haben, wird der Aligner automatisch die Sprachen des Projekts sowie die projektspezifischen Segmentierungsregeln verwenden, falls vorhanden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T073225Z" creationid="Ragnar-F" creationdate="20221121T141543Z">
+        <seg>Wenn Sie ein Übersetzungsprojekt geöffnet haben, verwendet der Aligner automatisch die Sprachen des Projekts und die projektspezifischen Segmentierungsregeln verwenden, sofern vorhanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30282,8 +30282,8 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>In this step, the bottom part of the window presents various parameters and options you can change if the initial alignment looks like it could be improved.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142517Z" creationid="Ragnar-F" creationdate="20221121T142517Z">
-        <seg>Im unteren Teil des Fensters werden verschiedene Parameter und Optionen angezeigt, die Sie ändern können, wenn die Ausrichtung optimiert werden muss.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T073956Z" creationid="Ragnar-F" creationdate="20221121T142517Z">
+        <seg>Im unteren Teil des Fensters werden verschiedene Parameter und Optionen angezeigt. Sie können diese ändern, um die Ausrichtung zu optimieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31684,8 +31684,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It defaults to &lt;g0&gt;Character&lt;/g0&gt; if at least one of the languages involved does not delimit words with spaces, and to &lt;g1&gt;Word&lt;/g1&gt; otherwise.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144446Z" creationid="Ragnar-F" creationdate="20221121T144446Z">
-        <seg>Er verwendet standardmäßig &lt;g0&gt;Zeichen&lt;/g0&gt;, wenn mindestens eine der beiden Sprachen die Wörter nicht mit Leerzeichen abgrenzt, ansonsten &lt;g1&gt;Wort&lt;/g1&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T082426Z" creationid="Ragnar-F" creationdate="20221121T144446Z">
+        <seg>Wenn bei mindestens einer der beteiligten Sprachen die Worttrennung ohne Leerzeichen erfolgt, verwendet der Aligner standardmäßig "&lt;g0&gt;Zeichen&lt;/g0&gt;", andernfalls "&lt;g1&gt;Wort&lt;/g1&gt;".</seg>
       </tuv>
     </tu>
     <tu>
@@ -31908,8 +31908,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It is only shown when it is available for the files being aligned.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T143019Z" creationid="Ragnar-F" creationdate="20221121T143019Z">
-        <seg>Er wird nur angezeigt, wenn er für die auszurichtenden Dateien verfügbar ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T074135Z" creationid="Ragnar-F" creationdate="20221121T143019Z">
+        <seg>Er wird nur angezeigt, wenn er für die zu vergleichenden Dateien verfügbar ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40264,8 +40264,8 @@ enthalten.</seg>
       <tuv lang="en">
         <seg>OmegaT's main purpose is to help you create a good translation the fastest possible by giving you access to your translation ressources in the most reliable way possible.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T121607Z" creationid="Ragnar-F" creationdate="20230223T121607Z">
-        <seg>Der Hauptzweck von OmegaT besteht darin, Ihnen auf möglichst zuverlässige Weise Zugang zu Ihren Übersetzungsressourcen zu verschaffen, damit Sie eine gute Übersetzung so schnell wie möglich erstellen können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T072028Z" creationid="Ragnar-F" creationdate="20230223T121607Z">
+        <seg>Der Hauptzweck von OmegaT besteht darin, Ihnen einen möglichst zuverlässigen Zugriff auf Ihre Übersetzungsressourcen zu ermöglichen, damit Sie so schnell wie möglich eine gute Übersetzung anfertigen können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46870,8 +46870,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Review the results and makes any necessary manual adjustments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240718T170146Z" creationid="Ragnar-F" creationdate="20230127T153456Z">
-        <seg>Prüfen Sie die Ergebnisse und nehmen Sie gegebenenfalls manuelle Anpassungen vor.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T073129Z" creationid="Ragnar-F" creationdate="20230127T153456Z">
+        <seg>Prüfen Sie das Ergebnis und nehmen Sie gegebenenfalls manuelle Anpassungen vor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56363,8 +56363,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The aligner automatically selects the counter based on the source and target languages of files to align.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144330Z" creationid="Ragnar-F" creationdate="20221121T144330Z">
-        <seg>Der Aligner wählt den Zähler automatisch auf Basis der Quell- und Zielsprache der auszurichtenden Dateien aus.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T075348Z" creationid="Ragnar-F" creationdate="20221121T144330Z">
+        <seg>Der Aligner wählt den Zähler automatisch anhand der Quell- und Zielsprache der auszurichtenden Dateien aus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56507,8 +56507,8 @@ Sabine Wanner</seg>
       <tuv lang="en">
         <seg>The available parameters and options are:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T142813Z" creationid="Ragnar-F" creationdate="20221121T142813Z">
-        <seg>Die verfügbaren Parameter und Optionen sind:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T074114Z" creationid="Ragnar-F" creationdate="20221121T142813Z">
+        <seg>Folgende Parameter und Optionen stehen zur Verfügung:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58063,8 +58063,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The freedom to run OmegaT as you wish, for any purpose.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T123045Z" creationid="Ragnar-F" creationdate="20230127T123045Z">
-        <seg>Die Freiheit, die Software für beliebige Zwecke zu nutzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T072224Z" creationid="Ragnar-F" creationdate="20230127T123045Z">
+        <seg>Die Freiheit, die Software für jeden Zweck zu verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58368,8 +58368,8 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode ist (optional).</seg>
       <tuv lang="en">
         <seg>The license grants you the following freedoms:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T122704Z" creationid="Ragnar-F" creationdate="20230127T122704Z">
-        <seg>Die Lizenz gewährt Ihnen die folgenden Freiheiten:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T072053Z" creationid="Ragnar-F" creationdate="20230127T122704Z">
+        <seg>Diese Lizenz gibt Ihnen die folgenden Freiheiten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58594,8 +58594,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The main part of the window is divided into three columns:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T141730Z" creationid="Ragnar-F" creationdate="20221121T141730Z">
-        <seg>Der Hauptteil des Fensters ist in drei Spalten unterteilt:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T073601Z" creationid="Ragnar-F" creationdate="20221121T141730Z">
+        <seg>Der Hauptteil des Fensters ist in drei Spalten aufgeteilt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61554,8 +61554,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>Therefore, it is recommended that you divide the files to align into shorter files that you can comfortably align in a single session.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T135905Z" creationid="Ragnar-F" creationdate="20221121T135905Z">
-        <seg>Daher empfiehlt es sich, die auszurichtenden Dateien in kürzere Dateien aufzuteilen, um diese bequem in einer einzigen Sitzung ausrichten zu können.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T072802Z" creationid="Ragnar-F" creationdate="20221121T135905Z">
+        <seg>Daher ist es ratsam, die auszurichtenden Dateien in kürzere Dateien aufzuteilen, um sie bequem in einer einzigen Sitzung auszurichten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62748,8 +62748,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This document is the official user manual to OmegaT, the free Computer-Assisted Translation tool.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T135231Z" creationid="Ragnar-F" creationdate="20221218T135231Z">
-        <seg>Dieses Dokument ist die offizielle Bedienungsanleitung für OmegaT, dem kostenlosen Tool für computergestützte Übersetzung.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T071955Z" creationid="Ragnar-F" creationdate="20221218T135231Z">
+        <seg>Dieses Dokument ist die offizielle Bedienungsanleitung für OmegaT, ein kostenloses Tool für computergestützte Übersetzung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66668,16 +66668,16 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Try both and use the one that yields the better result for your files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144112Z" creationid="Ragnar-F" creationdate="20221121T144112Z">
-        <seg>Probieren Sie beide aus, und nehmen Sie eins, das das bessere Ergebnis für Ihre Dateien liefert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T075049Z" creationid="Ragnar-F" creationdate="20221121T144112Z">
+        <seg>Probieren Sie beide Optionen aus und wählen Sie diejenige, die für Ihre Dateien das beste Ergebnis liefert.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Try both, and use the one that yields the better result for your files.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T144116Z" creationid="Ragnar-F" creationdate="20221121T143719Z">
-        <seg>Probieren Sie beide aus, und nehmen Sie eins, das das bessere Ergebnis für Ihre Dateien liefert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240722T075059Z" creationid="Ragnar-F" creationdate="20221121T143719Z">
+        <seg>Probieren Sie beide Optionen aus und wählen Sie diejenige, die für Ihre Dateien das beste Ergebnis liefert.</seg>
       </tuv>
     </tu>
     <tu>
