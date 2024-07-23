@@ -4385,8 +4385,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;c0&gt;*&lt;/c0&gt; matches zero or more characters, from the current position up to the end of a word.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T223700Z" creationid="Ragnar-F" creationdate="20221121T223700Z">
-        <seg>&lt;c0&gt;*&lt;/c0&gt; findet null oder mehr Zeichen, von der aktuellen Position bis zum Ende eines Wortes.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T105456Z" creationid="Ragnar-F" creationdate="20221121T223700Z">
+        <seg>&lt;c0&gt;*&lt;/c0&gt; findet null oder mehr Zeichen ab der aktuellen Position bis zum Ende eines Wortes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14431,8 +14431,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Click on the &lt;g0&gt;Filter&lt;/g0&gt; button to show only the matching search result segments in the &lt;l1/&gt; pane.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T172441Z" creationid="Ragnar-F" creationdate="20230127T172441Z">
-        <seg>Klicken Sie auf die &lt;g0&gt;Filter&lt;/g0&gt;-Schaltfläche, um nur die gefundenen Segmente im &lt;l1/&gt;-Bereich anzuzeigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T113934Z" creationid="Ragnar-F" creationdate="20230127T172441Z">
+        <seg>Klicken Sie auf die Schaltfläche &lt;g0&gt;Filter&lt;/g0&gt;, um nur die gefundenen Segmente im Fensterbereich &lt;l1/&gt; anzuzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14551,8 +14551,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Click the drop-down arrow of the &lt;g0&gt;Search for:&lt;/g0&gt; field to access the last ten searches.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T074135Z" creationid="Ragnar-F" creationdate="20221121T222831Z">
-        <seg>Klicken Sie auf die Pfeilschaltfläche im Feld &lt;g0&gt;Suchen nach:&lt;/g0&gt;, um die letzten zehn Suchvorgänge anzuzeigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T104745Z" creationid="Ragnar-F" creationdate="20221121T222831Z">
+        <seg>Klicken Sie auf die Pfeilschaltfläche im Feld "&lt;g0&gt;Suchen nach:&lt;/g0&gt;", um die letzten zehn Suchvorgänge anzuzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21056,8 +21056,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Every segment is displayed individually, even if it is a repetition found in either the same document or a different document in the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T171301Z" creationid="Ragnar-F" creationdate="20230127T171301Z">
-        <seg>Jedes Segment wird einzeln angezeigt, auch mehrmalig vorkommende, entweder im selben Dokument oder in einem anderen Dokument des Projekts.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T111049Z" creationid="Ragnar-F" creationdate="20230127T171301Z">
+        <seg>Jedes Segment wird einzeln angezeigt, auch wenn es im selben Dokument oder in einem anderen Dokument des Projekts mehrfach vorkommt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23514,8 +23514,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance, &lt;l0&gt;run?&lt;/l0&gt; matches &lt;l1&gt;runs&lt;/l1&gt;, as well as the &lt;l2&gt;runn&lt;/l2&gt; portion of &lt;l3&gt;running&lt;/l3&gt; or &lt;l4&gt;runner&lt;/l4&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T223846Z" creationid="Ragnar-F" creationdate="20221121T223846Z">
-        <seg>&lt;l0&gt;run?&lt;/l0&gt; beispielsweise findet &lt;l1&gt;runs&lt;/l1&gt;, aber auch den &lt;l2&gt;runn&lt;/l2&gt;-Teil von &lt;l3&gt;running&lt;/l3&gt; oder &lt;l4&gt;runner&lt;/l4&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T105554Z" creationid="Ragnar-F" creationdate="20221121T223846Z">
+        <seg>&lt;l0&gt;run?&lt;/l0&gt; findet z.B. &lt;l1&gt;runs&lt;/l1&gt;, aber auch den &lt;l2&gt;runn&lt;/l2&gt;-Teil von &lt;l3&gt;running&lt;/l3&gt; oder &lt;l4&gt;runner&lt;/l4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30378,24 +30378,24 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       <tuv lang="en">
         <seg>Include the glossaries located in the &lt;l0/&gt; folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T171611Z" creationid="Ragnar-F" creationdate="20230127T171611Z">
-        <seg>Die Glossare im &lt;l0/&gt;-Ordner einbeziehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T111520Z" creationid="Ragnar-F" creationdate="20230127T171611Z">
+        <seg>Die Glossare aus dem Ordner &lt;l0/&gt; einbeziehen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Include the project memory (&lt;l0/&gt;).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T171523Z" creationid="Ragnar-F" creationdate="20230127T171523Z">
-        <seg>Projekteigenen Translation Memory einbeziehen (&lt;l0/&gt;).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T111348Z" creationid="Ragnar-F" creationdate="20230127T171523Z">
+        <seg>Den Translation Memory Ihres Projekts einbeziehen (&lt;l0/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Include the translation memories located in the &lt;l0/&gt; folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T171546Z" creationid="Ragnar-F" creationdate="20230127T171546Z">
-        <seg>Externe Translation Memories im &lt;l0/&gt;-Ordner einbeziehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T111456Z" creationid="Ragnar-F" creationdate="20230127T171546Z">
+        <seg>Die Translation Memories aus dem Ordner &lt;l0/&gt; einbeziehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31860,8 +31860,8 @@ Bedienungsanleitung.</seg>
       <tuv lang="en">
         <seg>It is equivalent to a web search without quotation marks.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T223356Z" creationid="Ragnar-F" creationdate="20221121T223356Z">
-        <seg>Das entspricht einer Websuche ohne Anführungszeichen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T105413Z" creationid="Ragnar-F" creationdate="20221121T223356Z">
+        <seg>Entspricht einer Websuche ohne Anführungszeichen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48051,8 +48051,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Search for segments containing each of the search terms separated by a space.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T170317Z" creationid="Ragnar-F" creationdate="20221121T223348Z">
-        <seg>Nach Segmenten suchen, die jeden der angegebenen Suchbegriffe, die mit Leerzeichen voneinander getrennt sind, enthalten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T105343Z" creationid="Ragnar-F" creationdate="20221121T223348Z">
+        <seg>Nach Segmenten suchen, die alle angegebenen Suchbegriffe, durch Leerzeichen getrennt, enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50331,8 +50331,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Select the scope of the search:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T225438Z" creationid="Ragnar-F" creationdate="20221121T225438Z">
-        <seg>Wählen Sie den Suchbereich aus:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T111317Z" creationid="Ragnar-F" creationdate="20221121T225438Z">
+        <seg>Sie können den Suchbereich auswählen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55006,16 +55006,16 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;c0&gt;*&lt;/c0&gt; and &lt;c1&gt;?&lt;/c1&gt; characters can be used in both exact and keyword searches:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T223925Z" creationid="Ragnar-F" creationdate="20221121T223614Z">
-        <seg>Die Platzhalterzeichen &lt;c0&gt;*&lt;/c0&gt; und &lt;c1&gt;?&lt;/c1&gt; können sowohl für die exakte Suche als auch Stichwortsuche verwendet werden:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T105439Z" creationid="Ragnar-F" creationdate="20221121T223614Z">
+        <seg>Die Platzhalterzeichen &lt;c0&gt;*&lt;/c0&gt; und &lt;c1&gt;?&lt;/c1&gt; können sowohl für die exakte Suche als auch für die Stichwortsuche verwendet werden:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The &lt;c0&gt;*&lt;/c0&gt; and &lt;c1&gt;?&lt;/c1&gt; characters have a special meaning in regular expressions.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T224139Z" creationid="Ragnar-F" creationdate="20221121T223913Z">
-        <seg>Die Zeichen &lt;c0&gt;*&lt;/c0&gt; und &lt;c1&gt;?&lt;/c1&gt; haben eine andere Bedeutung in regulären Ausdrücken.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T105658Z" creationid="Ragnar-F" creationdate="20221121T223913Z">
+        <seg>Die Zeichen &lt;c0&gt;*&lt;/c0&gt; und &lt;c1&gt;?&lt;/c1&gt; haben eine Sonderbedeutung in regulären Ausdrücken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59850,8 +59850,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The search term &lt;l0&gt;run*&lt;/l0&gt;, for example, matches &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; and &lt;l3&gt;running&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T223724Z" creationid="Ragnar-F" creationdate="20221121T223724Z">
-        <seg>Der Suchbegriff &lt;l0&gt;run*&lt;/l0&gt; beispielsweise findet &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; und &lt;l3&gt;running&lt;/l3&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T105534Z" creationid="Ragnar-F" creationdate="20221121T223724Z">
+        <seg>Der Suchbegriff &lt;l0&gt;run*&lt;/l0&gt; findet z.B. &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; und &lt;l3&gt;running&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61589,8 +61589,8 @@ werden.</seg>
       <tuv lang="en">
         <seg>Therefore, the wild card searches described above only apply to exact and keyword searches.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T224142Z" creationid="Ragnar-F" creationdate="20221121T224142Z">
-        <seg>Daher gelten die oben genannten Platzhalterzeichen nur für die exakte Suche und die Stichwortsuche.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T110029Z" creationid="Ragnar-F" creationdate="20221121T224142Z">
+        <seg>Daher sind die oben beschriebenen Platzhalterzeichen nur für die exakte Suche und die Stichwortsuche gültig.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65512,8 +65512,8 @@ alle Einstellungen auf ihre Standardwerte zurücksetzen.</seg>
       <tuv lang="en">
         <seg>To remove the filter, click on the &lt;g2&gt;Remove Filter&lt;/g2&gt; button at the top of the &lt;l3/&gt; pane, or reload the project.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T172616Z" creationid="Ragnar-F" creationdate="20230127T172616Z">
-        <seg>Um den Filter wieder zu entfernen, klicken Sie oben im &lt;l3/&gt;-Bereich auf die Schaltfläche &lt;g2&gt;Filter entfernen&lt;/g2&gt; oder laden Sie das Projekt neu.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T114052Z" creationid="Ragnar-F" creationdate="20230127T172616Z">
+        <seg>Um den Filter wieder zu entfernen, klicken Sie auf die Schaltfläche &lt;g2&gt;Filter entfernen&lt;/g2&gt; ganz oben im Fensterbereich &lt;l3/&gt; oder laden Sie das Projekt neu.</seg>
       </tuv>
     </tu>
     <tu>
