@@ -2264,8 +2264,8 @@ ${filePath}&gt;</seg>
       <tuv lang="en">
         <seg>'*' matches zero or more characters, from the current position up to the end of a word.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T215657Z" creationid="Ragnar-F" creationdate="20221121T215657Z">
-        <seg>'*' findet null oder mehr Zeichen, von der aktuellen Position bis zum Ende eines Wortes.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T075352Z" creationid="Ragnar-F" creationdate="20221121T215657Z">
+        <seg>'*' findet null oder mehr Zeichen ab der aktuellen Position bis zum Ende eines Wortes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5369,8 +5369,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Search for Selection&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;F&lt;/k4&gt;&lt;/k2&gt;): the current selection is inserted in the search field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T214241Z" creationid="Ragnar-F" creationdate="20221121T214103Z">
-        <seg>&lt;g0&gt;Datei&lt;/g0&gt; &gt; &lt;g1&gt;Markierten Text suchen&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;F&lt;/k4&gt;&lt;/k2&gt;): Fügt den aktuell markierten Text in das Suchfeld ein.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T074926Z" creationid="Ragnar-F" creationdate="20221121T214103Z">
+        <seg>&lt;g0&gt;Datei&lt;/g0&gt; &gt; &lt;g1&gt;Markiertes suchen&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;F&lt;/k4&gt;&lt;/k2&gt;): Fügt den aktuell markierten Text in das Suchfeld ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5713,8 +5713,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: replace every occurrence (after displaying a confirmation window showing the number of occurrences).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T214219Z" creationid="Ragnar-F" creationdate="20221121T213444Z">
-        <seg>&lt;g0&gt;Alle ersetzen&lt;/g0&gt;: Ersetzt jedes Vorkommen (nach Anzeige eines Bestätigungsfensters mit der Anzahl der Vorkommen).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T074726Z" creationid="Ragnar-F" creationdate="20221121T213444Z">
+        <seg>&lt;g0&gt;Alle ersetzen&lt;/g0&gt;: Ersetzt alle Vorkommen (nach einem Bestätigungsfenster mit der Anzahl der Vorkommen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9977,8 +9977,8 @@ Dossier racine
       <tuv lang="en">
         <seg>Also search in untranslated segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T221245Z" creationid="Ragnar-F" creationdate="20221121T221245Z">
-        <seg>Sucht auch in unübersetzten Segmenten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T081010Z" creationid="Ragnar-F" creationdate="20221121T221245Z">
+        <seg>Auch in unübersetzten Segmenten suchen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10073,8 +10073,8 @@ Dossier racine
       <tuv lang="en">
         <seg>Alternatively, select a word or phrase in the &lt;l0/&gt;, &lt;l1/&gt;, or &lt;l2/&gt; pane and use &lt;l3/&gt;&lt;l4/&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T140605Z" creationid="Ragnar-F" creationdate="20221218T140605Z">
-        <seg>Alternativ können Sie ein Wort oder eine Wortgruppe im &lt;l0/&gt;-, &lt;l1/&gt;- oder &lt;l2/&gt;-Bereich markieren und &lt;l3/&gt;&lt;l4/&gt; verwenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T073811Z" creationid="Ragnar-F" creationdate="20221218T140605Z">
+        <seg>Alternativ können Sie auch ein Wort oder eine Wortgruppe im Fensterbereich &lt;l0/&gt;, &lt;l1/&gt; oder &lt;l2/&gt; markieren und &lt;l3/&gt;&lt;l4/&gt; verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11314,8 +11314,8 @@ korrektem Verhalten kommen kann.</seg>
       <tuv lang="en">
         <seg>At this stage, no replacements have been made yet.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T213232Z" creationid="Ragnar-F" creationdate="20221121T213232Z">
-        <seg>Zu diesem Zeitpunkt wurden noch nichts ersetzt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T074527Z" creationid="Ragnar-F" creationdate="20221121T213232Z">
+        <seg>Zu jetzigen Zeitpunkt wurden noch nichts ersetzt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14519,8 +14519,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Click the &lt;g0&gt;Replace and Find Next&lt;/g0&gt; or &lt;g1&gt;Find Next&lt;/g1&gt; button, and click the &lt;g2&gt;Finish&lt;/g2&gt; button to end the replacement operation.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230223T122032Z" creationid="Ragnar-F" creationdate="20230223T122032Z">
-        <seg>Klicken Sie auf die Schaltfläche &lt;g0&gt;Ersetzen und Nächstes finden&lt;/g0&gt; oder &lt;g1&gt;Nächstes finden&lt;/g1&gt;, oder klicken Sie auf die Schaltfläche &lt;g2&gt;Beenden&lt;/g2&gt;, um den Ersetzungsvorgang zu beenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T074808Z" creationid="Ragnar-F" creationdate="20230223T122032Z">
+        <seg>Klicken Sie auf die Schaltfläche &lt;g0&gt;Ersetzen und Nächstes finden&lt;/g0&gt; oder &lt;g1&gt;Nächstes finden&lt;/g1&gt;, oder auf die Schaltfläche &lt;g2&gt;Beenden&lt;/g2&gt;, um den Ersetzungsvorgang zu beenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14551,16 +14551,16 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Click the drop-down arrow of the &lt;g0&gt;Search for:&lt;/g0&gt; field to access the last ten searches.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T222831Z" creationid="Ragnar-F" creationdate="20221121T222831Z">
-        <seg>Klicken Sie auf die Pfeilschaltfläche im Feld &lt;g0&gt;Suche nach:&lt;/g0&gt;, um die letzten zehn Suchvorgänge anzuzeigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T074135Z" creationid="Ragnar-F" creationdate="20221121T222831Z">
+        <seg>Klicken Sie auf die Pfeilschaltfläche im Feld &lt;g0&gt;Suchen nach:&lt;/g0&gt;, um die letzten zehn Suchvorgänge anzuzeigen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Click the drop-down arrow of the &lt;g0&gt;Search for:&lt;/g0&gt; or &lt;g1&gt;Replace with:&lt;/g1&gt; fields to access the last ten items.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T212256Z" creationid="Ragnar-F" creationdate="20221121T212256Z">
-        <seg>Klicken Sie auf die Pfeilschaltfläche im Feld &lt;g0&gt;Suche nach:&lt;/g0&gt; oder &lt;g1&gt;Ersetzen mit:&lt;/g1&gt;, um die letzten zehn Einträge anzuzeigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T074131Z" creationid="Ragnar-F" creationdate="20221121T212256Z">
+        <seg>Klicken Sie auf die Pfeilschaltfläche im Feld "&lt;g0&gt;Suchen nach:&lt;/g0&gt;" oder "&lt;g1&gt;Ersetzen mit:&lt;/g1&gt;", um die letzten zehn Einträge anzuzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20491,8 +20491,8 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
       <tuv lang="en">
         <seg>Enter the string you want to insert to replace your search term in the &lt;g0&gt;Replace with:&lt;/g0&gt; field and click on &lt;g1&gt;Search&lt;/g1&gt;, or hit &lt;k2&gt;Enter&lt;/k2&gt; if the cursor is still in the field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T212630Z" creationid="Ragnar-F" creationdate="20221121T212630Z">
-        <seg>Geben Sie die Zeichenkette, die Sie als Ersatz für Ihren Suchbegriff einfügen möchten, in das Feld &lt;g0&gt;Ersetzen mit:&lt;/g0&gt; ein und klicken Sie auf &lt;g1&gt;Suchen&lt;/g1&gt;, oder drücken Sie &lt;k2&gt;Enter&lt;/k2&gt;, wenn sich der Textcursor noch im Feld befindet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T081759Z" creationid="Ragnar-F" creationdate="20221121T212630Z">
+        <seg>Geben Sie die Zeichenkette, die Sie als Ersatz für Ihren Suchtext einfügen möchten, in das Feld &lt;g0&gt;Ersetzen mit:&lt;/g0&gt; ein und klicken Sie auf &lt;g1&gt;Suchen&lt;/g1&gt;, oder drücken Sie &lt;k2&gt;Enter&lt;/k2&gt;, wenn sich der Textcursor noch im Feld befindet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23498,8 +23498,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; matches &lt;l1&gt;'runs'&lt;/l1&gt;, as well as the &lt;l2&gt;'runn'&lt;/l2&gt; portion of &lt;l3&gt;'running'&lt;/l3&gt; or &lt;l4&gt;'runner'&lt;/l4&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221218T140654Z" creationid="Ragnar-F" creationdate="20221218T140654Z">
-        <seg>&lt;l0&gt;'run?'&lt;/l0&gt; beispielsweise findet &lt;l1&gt;'runs'&lt;/l1&gt;, aber auch den &lt;l2&gt;'runn'&lt;/l2&gt;-Teil von &lt;l3&gt;'running'&lt;/l3&gt; oder &lt;l4&gt;'runner'&lt;/l4&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T075618Z" creationid="Ragnar-F" creationdate="20221218T140654Z">
+        <seg>&lt;l0&gt;'run?'&lt;/l0&gt; findet z.B. &lt;l1&gt;'runs'&lt;/l1&gt;, aber auch den &lt;l2&gt;'runn'&lt;/l2&gt;-Teil von &lt;l3&gt;'running'&lt;/l3&gt; oder &lt;l4&gt;'runner'&lt;/l4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28798,8 +28798,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before calling the function, the text will be pasted by default in the &lt;g0&gt;Search for:&lt;/g0&gt; field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240709T162251Z" creationid="Ragnar-F" creationdate="20221117T140401Z">
-        <seg>Wenn Sie vor dem Aufruf der Funktion einen Text (in einem beliebigen Fensterbereich) markieren, wird dieser Text standardmäßig in das Feld "&lt;g0&gt;Suche nach:&lt;/g0&gt;" eingefügt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T074123Z" creationid="Ragnar-F" creationdate="20221117T140401Z">
+        <seg>Wenn Sie vor dem Aufruf der Funktion einen Text (in einem beliebigen Fensterbereich) markieren, wird dieser Text standardmäßig in das Feld "&lt;g0&gt;Suchen nach:&lt;/g0&gt;" eingefügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40954,8 +40954,8 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
       <tuv lang="en">
         <seg>Only returns results with the same letter case as the search terms.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T220916Z" creationid="Ragnar-F" creationdate="20221121T220916Z">
-        <seg>Zeigt nur Ergebnisse an, die dieselbe Groß-/Kleinschreibung wie die Suchbegriffe aufweisen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T081829Z" creationid="Ragnar-F" creationdate="20221121T220916Z">
+        <seg>Zeigt nur Ergebnisse an, die die gleiche Groß-/Kleinschreibung wie der Suchtext aufweisen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45214,8 +45214,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regular expressions are a very powerful way to search for general or complex patterns rather than exact strings.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T220515Z" creationid="Ragnar-F" creationdate="20221121T220515Z">
-        <seg>Reguläre Ausdrücke sind eine äußerst effiziente Methode, um nach allgemeinen oder komplexen Mustern zu suchen, statt nach exakten Zeichenketten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T075749Z" creationid="Ragnar-F" creationdate="20221121T220515Z">
+        <seg>Reguläre Ausdrücke sind eine sehr effiziente Methode, um nach allgemeinen oder komplexen Mustern zu suchen, anstatt nach exakten Zeichenketten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46790,8 +46790,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Returns results that match both the full- and half-width forms (CJK characters) of the characters in the search terms.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T171625Z" creationid="Ragnar-F" creationdate="20230127T171625Z">
-        <seg>Zeigt Ergebnisse an, die sowohl mit den voll- als auch halbbreiten Formen (CJK-Zeichen) der Zeichen in den Suchbegriffen übereinstimmen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T081753Z" creationid="Ragnar-F" creationdate="20230127T171625Z">
+        <seg>Zeigt Ergebnisse an, die sowohl mit den voll- als auch halbbreiten Formen (CJK-Zeichen) der Zeichen im Suchtext übereinstimmen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48099,8 +48099,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Search for:</seg>
       </tuv>
-      <tuv lang="de">
-        <seg>Suche nach:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T074104Z">
+        <seg>Suchen nach:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48211,8 +48211,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Search matches are displayed in bold blue characters, and the modified strings are displayed in orange to show the result of the replacement.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T213015Z" creationid="Ragnar-F" creationdate="20221121T213015Z">
-        <seg>Suchtreffer werden in blauer fetter Schrift dargestellt, und die modifizierten Zeichenketten werden in orange dargestellt, um das Ergebnis der Ersetzung anzuzeigen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T074454Z" creationid="Ragnar-F" creationdate="20221121T213015Z">
+        <seg>Suchtreffer werden in blauer fetter Schrift dargestellt. Die geänderten Zeichenketten werden in orange dargestellt, um das Ergebnis der Ersetzung anzuzeigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50163,8 +50163,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Select additional criteria such as the person who authored or changed the translation, the date and time of translation (modification), or whether to exclude orphan segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071814Z" creationid="Ragnar-F" creationdate="20221121T221448Z">
-        <seg>Wählen Sie zusätzliche Kriterien aus, wie z.B. die Person, die die Übersetzung erstellt oder geändert hat, das Datum und die Uhrzeit der Übersetzung (Modifikation) oder ob verwaiste Segmente ausgeschlossen werden sollen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T081717Z" creationid="Ragnar-F" creationdate="20221121T221448Z">
+        <seg>Sie können zusätzliche Kriterien auswählen, z.B. wer die Übersetzung erstellt oder geändert hat, wann die Übersetzung geändert wurde oder ob verwaiste Segmente ausgeschlossen werden sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52535,8 +52535,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Space characters in search terms will match both a normal space and a non-breaking space (\u00A) character.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T221114Z" creationid="Ragnar-F" creationdate="20221121T221114Z">
-        <seg>Leerzeichen in Suchbegriffen finden sowohl normale Leerzeichen als auch geschützte Leerzeichen (\u00A).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T080824Z" creationid="Ragnar-F" creationdate="20221121T221114Z">
+        <seg>Leerzeichen im Suchtext finden sowohl normale Leerzeichen als auch geschützte Leerzeichen (\u00A).</seg>
       </tuv>
     </tu>
     <tu>
@@ -58015,8 +58015,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The following search types are available:</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T215119Z" creationid="Ragnar-F" creationdate="20221121T215119Z">
-        <seg>Folgende Suchmethoden stehen zur Verfügung:</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T075247Z" creationid="Ragnar-F" creationdate="20221121T215119Z">
+        <seg>Es gibt folgende Suchmethoden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59586,8 +59586,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T220704Z" creationid="Ragnar-F" creationdate="20221121T220617Z">
-        <seg>Das Ersetzungsfeld unterstützt sogenannte Rückreferenzen, die auf die gefundenen Texte von im Suchfeld definierten Gruppen verweisen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T080001Z" creationid="Ragnar-F" creationdate="20221121T220617Z">
+        <seg>Der Ersatztext unterstützt sogenannte Rückreferenzen, die auf die im Suchtext definierten Gruppen verweisen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59842,8 +59842,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt;, for example, matches &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T215742Z" creationid="Ragnar-F" creationdate="20221121T215742Z">
-        <seg>Der Suchbegriff &lt;l0&gt;'run*'&lt;/l0&gt; beispielsweise findet &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; und &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T081811Z" creationid="Ragnar-F" creationdate="20221121T215742Z">
+        <seg>Der Suchtext &lt;l0&gt;'run*'&lt;/l0&gt; findet z.B. &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; und &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61002,8 +61002,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The two actions are equivalent to using the &lt;l0/&gt;&lt;l1/&gt; and &lt;l2/&gt;&lt;l3/&gt; menu items.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T072715Z" creationid="Ragnar-F" creationdate="20221218T140338Z">
-        <seg>Die beiden Aktionen entsprechen der Verwendung der Menüpunkte &lt;l0/&gt;&lt;l1/&gt; und &lt;l2/&gt;&lt;l3/&gt;.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T073039Z" creationid="Ragnar-F" creationdate="20221218T140338Z">
+        <seg>Beide Aktionen entsprechen der Verwendung der Menüpunkte &lt;l0/&gt;&lt;l1/&gt; und &lt;l2/&gt;&lt;l3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66636,8 +66636,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Treat the search string as a regular expression.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T170232Z" creationid="Ragnar-F" creationdate="20221121T220345Z">
-        <seg>Die Suchzeichenkette als einen regulären Ausdruck behandeln.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T075648Z" creationid="Ragnar-F" creationdate="20221121T220345Z">
+        <seg>Die Suchzeichenkette als regulären Ausdruck behandeln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67996,8 +67996,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use &lt;c0&gt;$n&lt;/c0&gt; (where &lt;c1&gt;n&lt;/c1&gt; is a digit from 1 to 9) in the replacement field to refer to the &lt;c2&gt;nth&lt;/c2&gt;group in the search field.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T183700Z" creationid="Ragnar-F" creationdate="20230127T183700Z">
-        <seg>Verwenden Sie &lt;c0&gt;$n&lt;/c0&gt; (wobei &lt;c1&gt;n&lt;/c1&gt; eine Ziffer von 1 bis 9 ist) im Ersetzungsfeld, um auf die &lt;c2&gt;n-te&lt;/c2&gt; Gruppe im Suchfeld zu verweisen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T080621Z" creationid="Ragnar-F" creationdate="20230127T183700Z">
+        <seg>Verwenden Sie &lt;c0&gt;$n&lt;/c0&gt; (wobei &lt;c1&gt;n&lt;/c1&gt; eine Ziffer von 1 bis 9 ist) im Ersatztext, um auf die &lt;c2&gt;n-te&lt;/c2&gt; Gruppe im Suchtext zu verweisen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69172,8 +69172,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use the &lt;g0&gt;Hide Advanced Options&lt;/g0&gt; button to stop showing the advanced options.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20230127T172404Z" creationid="Ragnar-F" creationdate="20230127T172404Z">
-        <seg>Verwenden Sie die Schaltfläche &lt;g0&gt;Erweiterte Optionen verstecken&lt;/g0&gt;, um die zusätzlichen Optionen auszublenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T083400Z" creationid="Ragnar-F" creationdate="20230127T172404Z">
+        <seg>Verwenden Sie die Schaltfläche &lt;g0&gt;Optionen verstecken&lt;/g0&gt;, um die zusätzlichen Optionen auszublenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73334,16 +73334,16 @@ Lizenz finden Sie in /docs/OmegaT-license.txt.</seg>
       <tuv lang="en">
         <seg>You can have several replacement windows opened at the same time.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T211914Z" creationid="Ragnar-F" creationdate="20221121T211914Z">
-        <seg>Sie können mehrere Ersetzungsfenster gleichzeitig offen haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T073839Z" creationid="Ragnar-F" creationdate="20221121T211914Z">
+        <seg>Es können mehrere Ersetzungsfenster gleichzeitig geöffnet sein.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>You can have several search windows opened at the same time.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221121T222731Z" creationid="Ragnar-F" creationdate="20221121T222731Z">
-        <seg>Sie können mehrere Suchfenster gleichzeitig offen haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T073859Z" creationid="Ragnar-F" creationdate="20221121T222731Z">
+        <seg>Es können mehrere Suchfenster gleichzeitig geöffnet sein.</seg>
       </tuv>
     </tu>
     <tu>
