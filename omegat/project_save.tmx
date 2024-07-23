@@ -7177,8 +7177,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T065804Z" creationid="BVB" creationdate="20180826T105408Z">
-        <seg>&lt;s0&gt;Linux-Benutzer&lt;/s0&gt;: Die meisten Linux-Distributionen werden zusammen mit einer Java Runtime Environment bereitgestellt, doch einige Open-Source-Implementierungen kommen mit OmegaT nicht richtig zurecht (auch wenn dies vielleicht nicht sofort ersichtlich ist).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T125727Z" creationid="BVB" creationdate="20180826T105408Z">
+        <seg>&lt;s0&gt;Linux-Benutzer&lt;/s0&gt;: Die meisten Linux-Distributionen werden mit einer Java Runtime Environment ausgeliefert, aber es gibt Open-Source-Implementierungen, die nicht korrekt mit OmegaT funktionieren (auch wenn dies nicht sofort ersichtlich ist).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25839,8 +25839,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T065801Z" creationid="BVB" creationdate="20180826T104328Z">
-        <seg>Einige Benutzer könnten jedoch auf Hindernisse stoßen (auferlegt durch ihr Betriebssystem oder ihre Java-Version), wodurch sie gezwungen sind, eine ältere Version zu verwenden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T124253Z" creationid="BVB" creationdate="20180826T104328Z">
+        <seg>Einige Benutzer könnten jedoch auf Hindernisse stoßen (durch ihr Betriebssystem oder ihre Java-Version), die die Verwendung einer älteren Version erforderlich machen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28009,8 +28009,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T153303Z" creationid="BVB" creationdate="20180826T105533Z">
-        <seg>Wenn Sie sich noch nicht so gut mit Linux auskennen, raten wir Ihnen, eine OmegaT-Version zu wählen, die die JRE enthält.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T125809Z" creationid="BVB" creationdate="20180826T105533Z">
+        <seg>Wenn Sie mit Linux nicht vertraut sind, empfehlen wir Ihnen, eine OmegaT-Version zu wählen, die die JRE enthält.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28033,8 +28033,8 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       <tuv lang="en">
         <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T152900Z" creationid="BVB" creationdate="20180826T105146Z">
-        <seg>Wenn Sie sich nicht sicher sind, ob Sie eine geeignete Version der JRE haben, wählen Sie eine Version "mit JRE" (oder die Standardversion).</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T125431Z" creationid="BVB" creationdate="20180826T105146Z">
+        <seg>Wenn Sie sich nicht sicher sind, ob Sie eine geeignete JRE-Version haben, wählen Sie eine Version "mit JRE" (oder die Standardversion).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28518,8 +28518,8 @@ unter anderem über Java Web Start installieren.</seg>
       <tuv lang="en">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T152617Z" creationid="BVB" creationdate="20180826T104750Z">
-        <seg>Wenn Sie die OmegaT-Version mit JRE installieren, obwohl die JRE bereits auf Ihrem Computer installiert ist, wird die JRE von OmegaT separat installiert, ohne in Konflikt mit anderen JRE-Installationen zu geraten.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T125316Z" creationid="BVB" creationdate="20180826T104750Z">
+        <seg>Wenn Sie die OmegaT-Version mit JRE installieren, obwohl die JRE bereits auf Ihrem Computer installiert ist, wird die JRE von OmegaT separat installiert, ohne mit anderen JRE-Installationen in Konflikt zu geraten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36292,8 +36292,8 @@ online erfolgen.</seg>
       <tuv lang="en">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T065806Z" creationid="BVB" creationdate="20180826T105626Z">
-        <seg>Erfahrene Linux-Benutzer bevorzugen es eher, die JRE von Oracle (früher Sun) direkt auf Ihr System zu installieren.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T125910Z" creationid="BVB" creationdate="20180826T105626Z">
+        <seg>Erfahrene Linux-Benutzer können bei Bedarf die JRE von Oracle (ehemals Sun) direkt auf ihrem System installieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42847,8 +42847,8 @@ Vanishing like mist</seg>
       <tuv lang="en">
         <seg>Periodic builds are available on SourceForge.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T110013Z" creationid="Ragnar-F" creationdate="20210324T110013Z">
-        <seg>Regelmäßig erscheinende Builds sind auf SourceForge verfügbar.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T132427Z" creationid="Ragnar-F" creationdate="20210324T110013Z">
+        <seg>Regelmäßige Builds sind auf SourceForge verfügbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52239,8 +52239,8 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       <tuv lang="en">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T111945Z" creationid="BVB" creationdate="20180826T111945Z">
-        <seg>Quellcode-Pakete werden von Benutzern nicht benötigt und sind nur für Entwickler gedacht.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T132447Z" creationid="BVB" creationdate="20180826T111945Z">
+        <seg>Quellcodepakete werden von Benutzern nicht benötigt und sind nur für Entwickler gedacht.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54942,8 +54942,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T135005Z" creationid="Ragnar-F" creationdate="20210112T135005Z">
-        <seg>Die Master- bzw. Alpha-Version spiegelt den neuesten Stand der Entwicklung wider.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T132412Z" creationid="Ragnar-F" creationdate="20210112T135005Z">
+        <seg>Die Master- bzw. Alpha-Version spiegelt den aktuellen Entwicklungsstand wider.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57383,8 +57383,8 @@ aktuelle Ordner verwendet.</seg>
       <tuv lang="en">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T143829Z" creationid="BVB" creationdate="20180826T104539Z">
-        <seg>Der Download geht schneller vonstatten, und die Installation benötigt weniger Speicherplatz auf Ihrer Festplatte.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T125156Z" creationid="BVB" creationdate="20180826T104539Z">
+        <seg>Der Download geht dann schneller und die Installation benötigt weniger Speicherplatz auf Ihrer Festplatte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61498,8 +61498,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>There may be a delay in publishing the Notarized version.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T105702Z" creationid="Ragnar-F" creationdate="20210324T105702Z">
-        <seg>Es kann zu einer Verzögerung bei der Veröffentlichung der notarisierten Version kommen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T130138Z" creationid="Ragnar-F" creationdate="20210324T105702Z">
+        <seg>Die Veröffentlichung der notarisierten Version kann sich verzögern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61882,8 +61882,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They can be found in the folders of the corresponding compiled versions.</seg>
       </tuv>
-      <tuv lang="de" changeid="BVB" changedate="20180826T112008Z" creationid="BVB" creationdate="20180826T112008Z">
-        <seg>Sie finden sie in den Ordnern der entsprechenden kompilierten Versionen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T132504Z" creationid="BVB" creationdate="20180826T112008Z">
+        <seg>Sie sind in den Ordnern der jeweiligen kompilierten Versionen zu finden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69950,8 +69950,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T065850Z" creationid="Ragnar-F" creationdate="20210324T105810Z">
-        <seg>Ungeduldige Benutzer können stattdessen die unsignierte Version verwenden; wenn Sie Schwierigkeiten mit dem Starten der App haben, schauen Sie sich &lt;a0&gt;Wie man eine App von einem unbekannten Entwickler öffnet&lt;/a0&gt; an.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T132151Z" creationid="Ragnar-F" creationdate="20210324T105810Z">
+        <seg>Ungeduldige Benutzer können stattdessen die unsignierte Version verwenden; wenn Sie Probleme beim Starten der App haben, lesen Sie &lt;a0&gt;Öffnen der Mac-App eines nicht verifizierten Entwicklers&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73704,8 +73704,8 @@ Installationsskript (linux-install.sh) verwenden.</seg>
       <tuv lang="en">
         <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210129T143054Z" creationid="BVB" creationdate="20180826T104003Z">
-        <seg>Notfalls können Sie immer noch &lt;a0&gt;veraltete Versionen von OmegaT&lt;/a0&gt; beziehen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T124213Z" creationid="BVB" creationdate="20180826T104003Z">
+        <seg>Bei Bedarf können Sie auch weiterhin &lt;a0&gt;veraltete Versionen von OmegaT&lt;/a0&gt; beziehen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78744,8 +78744,8 @@ for (i in 0 ..&lt; files.size())
       <tuv lang="en">
         <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210324T103003Z" creationid="Ragnar-F" creationdate="20210324T103003Z">
-        <seg>macOS versucht, die Sicherheit zu erhöhen, indem es die Ausführung nicht verifizierter Programme erschwert.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240723T130050Z" creationid="Ragnar-F" creationdate="20210324T103003Z">
+        <seg>macOS versucht die Sicherheit zu erhöhen, indem es die Ausführung von nicht verifizierten Programmen erschwert.</seg>
       </tuv>
     </tu>
     <tu>
