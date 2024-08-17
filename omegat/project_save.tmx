@@ -25024,6 +25024,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got error during autosaving: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240817T213309Z" creationid="Ragnar-F" creationdate="20240817T213309Z">
+        <seg>Fehler beim automatischen Speichern: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Got unexpected HTTP response {0}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210701T090415Z" creationid="Ragnar-F" creationdate="20210701T090415Z">
@@ -34189,6 +34197,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T102742Z">
         <seg>Speicherort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lock trying timeout during autosave</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240817T213302Z" creationid="Ragnar-F" creationdate="20240817T213235Z">
+        <seg>Sperrversuch-Zeitüberschreitung beim automatischen Speichern</seg>
       </tuv>
     </tu>
     <tu>
@@ -47520,6 +47536,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210121T124043Z">
         <seg>Speichern Sie dann die Datei und starten Sie &lt;a0&gt;OmegaT&lt;/a0&gt; neu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save thread interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20240817T213415Z" creationid="Ragnar-F" creationdate="20240817T213415Z">
+        <seg>Speichern-Thread unterbrochen: {0}</seg>
       </tuv>
     </tu>
     <tu>
