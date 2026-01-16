@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28676,6 +28676,14 @@ unter anderem über Java Web Start installieren.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to edit the segment, use an alternative translation instead.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T095939Z" creationid="Ragnar-F" creationdate="20260116T095939Z">
+        <seg>Wenn Sie das Segment bearbeiten müssen, verwenden Sie stattdessen eine alternative Übersetzung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need to perform translation or review tasks on that project, use OmegaT to download a separate copy of the team project and work from there.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T111852Z" creationid="Ragnar-F" creationdate="20221116T114236Z">
@@ -46844,6 +46852,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reverting enforced segment.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T095916Z" creationid="Ragnar-F" creationdate="20260116T095916Z">
+        <seg>Erzwungenes Segment wird zurückgesetzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Review of OmegaT 1.6 RC5.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240724T134514Z" creationid="BVB" creationdate="20180829T054749Z">
@@ -52065,6 +52081,14 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240617T171857Z" creationid="Ragnar-F" creationdate="20240617T171857Z">
         <seg>Sortieren nach Länge des Quellbegriffs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by Source Term Length when two or more terms start with the same characters</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T112528Z" creationid="Ragnar-F" creationdate="20260116T112528Z">
+        <seg>Sortieren nach Länge des Quellbegriffs, wenn zwei oder mehr Begriffe mit denselben Zeichen beginnen</seg>
       </tuv>
     </tu>
     <tu>
@@ -67212,6 +67236,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to set custom colour for {0}, defaulting to {1}.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T095600Z" creationid="Ragnar-F" creationdate="20260116T095600Z">
+        <seg>Benutzerdefinierte Farbe für {0} kann nicht gesetzt werden, verwende standardmäßig {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to uninstall the selected dictionary</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T185158Z">
@@ -67360,6 +67392,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T114100Z" creationid="Ragnar-F" creationdate="20221118T114100Z">
         <seg>Dockt den Fensterbereich vom Hauptfenster ab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unexpected caret location detected</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T101708Z" creationid="Ragnar-F" creationdate="20260116T101708Z">
+        <seg>Unerwartete Textcursorposition erkannt</seg>
       </tuv>
     </tu>
     <tu>
@@ -67982,6 +68022,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071453Z" creationid="Ragnar-F" creationdate="20221109T190047Z">
         <seg>&amp;XML-Notation für alleinstehende Tags (z.B. &lt;i/&gt;) verwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;full stemming</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T103001Z" creationid="Ragnar-F" creationdate="20260116T103001Z">
+        <seg>&amp;Volle Stammformreduktion verwenden</seg>
       </tuv>
     </tu>
     <tu>
