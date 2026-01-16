@@ -4091,6 +4091,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>99999 part is 5 digit session id from 00000 to 99999.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T124911Z" creationid="Ragnar-F" creationdate="20260116T124911Z">
+        <seg>99999 ist eine 5-stellige Sitzungs-ID von 00000 bis 99999.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T090924Z" creationid="Ragnar-F" creationdate="20221116T090924Z">
@@ -11917,6 +11925,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Base</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T120018Z" creationid="Ragnar-F" creationdate="20260116T120018Z">
+        <seg>Basis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Based on your choices, we recommand you use:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T132330Z" creationid="BVB" creationdate="20180826T100201Z">
@@ -12345,6 +12361,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T132146Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; anhand des Quellcodes kompilieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bundled</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T115554Z" creationid="Ragnar-F" creationdate="20260116T115554Z">
+        <seg>Gebündelt</seg>
       </tuv>
     </tu>
     <tu>
@@ -20846,6 +20870,38 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error when loading the ignore_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T121609Z" creationid="Ragnar-F" creationdate="20260116T121609Z">
+        <seg>Fehler beim Laden der Datei ignore_list.txt: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error when loading the learned_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T121617Z" creationid="Ragnar-F" creationdate="20260116T121617Z">
+        <seg>Fehler beim Laden der Datei learned_list.txt: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error when writing the ignore_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T121655Z" creationid="Ragnar-F" creationdate="20260116T121655Z">
+        <seg>Fehler beim Schreiben der Datei ignore_list.txt: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error when writing the learned_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T121707Z" creationid="Ragnar-F" creationdate="20260116T121707Z">
+        <seg>Fehler beim Schreiben der Datei learned_list.txt: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while autosaving: {0}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240617T174328Z" creationid="Ragnar-F" creationdate="20240617T174328Z">
@@ -21891,6 +21947,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ExternalFinder: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T115302Z" creationid="Ragnar-F" creationdate="20260116T115302Z">
+        <seg>ExternalFinder: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Extract Text Content</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T174628Z" creationid="Ragnar-F" creationdate="20221121T173816Z">
@@ -21975,6 +22039,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T133455Z" creationid="Ragnar-F" creationdate="20210112T133455Z">
         <seg>Facebook-Gruppe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to access the spelling dictionary {0} with a reason {1}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T121503Z" creationid="Ragnar-F" creationdate="20260116T121503Z">
+        <seg>Zugriff auf Rechtschreibwörterbuch {0} fehlgeschlagen. Grund: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31386,6 +31458,14 @@ Bedienungsanleitung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Internal match</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T122243Z" creationid="Ragnar-F" creationdate="20260116T122243Z">
+        <seg>Interner Match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Introduction to OmegaT</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T094426Z" creationid="Ragnar-F" creationdate="20221117T094426Z">
@@ -32986,6 +33066,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T141524Z">
         <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T120258Z" creationid="Ragnar-F" creationdate="20260116T120258Z">
+        <seg>Sprache</seg>
       </tuv>
     </tu>
     <tu>
@@ -35145,6 +35233,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Marker</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T120209Z" creationid="Ragnar-F" creationdate="20260116T120209Z">
+        <seg>Marker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Marks</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230126T225309Z" creationid="Ragnar-F" creationdate="20230126T225309Z">
@@ -35753,6 +35849,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merged segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T122325Z" creationid="Ragnar-F" creationdate="20260116T122325Z">
+        <seg>Zusammengeführte Segmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130510T084637Z">
@@ -35926,6 +36030,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="helm" changedate="20130428T153306Z">
         <seg>Minuten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Miscellaneous</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T120029Z" creationid="Ragnar-F" creationdate="20260116T120029Z">
+        <seg>Sonstiges</seg>
       </tuv>
     </tu>
     <tu>
@@ -43333,6 +43445,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin is successfully installed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T120742Z" creationid="Ragnar-F" creationdate="20260116T120742Z">
+        <seg>Plugin-Installation erfolgreich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="de" changeid="karsten" changedate="20150919T125827Z" creationid="karsten" creationdate="20150919T125827Z">
@@ -44992,6 +45112,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230402T184812Z" creationid="Ragnar-F" creationdate="20230208T174733Z">
         <seg>Referenz-T&amp;Ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reference TM</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T121744Z" creationid="Ragnar-F" creationdate="20260116T121744Z">
+        <seg>Referenz-TM</seg>
       </tuv>
     </tu>
     <tu>
@@ -51253,6 +51381,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T174839Z" creationid="Ragnar-F" creationdate="20221121T174824Z">
         <seg>Show Same Segments (Identische Segmente anzeigen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show plugin details</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T115517Z" creationid="Ragnar-F" creationdate="20260116T115517Z">
+        <seg>Plugin-Details anzeigen</seg>
       </tuv>
     </tu>
     <tu>
@@ -57645,6 +57781,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file name format is &lt;f0&gt;OmegaT_99999_yyyyMMdd-hhmmss.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T123807Z" creationid="Ragnar-F" creationdate="20260116T123807Z">
+        <seg>Das Dateinamenformat ist &lt;f0&gt;OmegaT_99999_yyyyMMdd-hhmmss.log&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240618T094008Z" creationid="Ragnar-F" creationdate="20221110T125253Z">
@@ -61659,6 +61803,14 @@ werden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These 3rd party plugins are installed.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T115838Z" creationid="Ragnar-F" creationdate="20260116T115838Z">
+        <seg>Diese Plugins von Drittanbietern sind installiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These 4 items are a good summary but you can also read the &lt;a0&gt;whole license&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240724T130619Z" creationid="Ragnar-F" creationdate="20230108T194050Z">
@@ -61735,6 +61887,14 @@ werden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230127T144527Z" creationid="Ragnar-F" creationdate="20230127T144504Z">
         <seg>Diese Prozentsätze haben die folgende Bedeutung und sind wie folgt angeordnet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These plugins are included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T115741Z" creationid="Ragnar-F" creationdate="20260116T115741Z">
+        <seg>Diese Plugins sind in OmegaT enthalten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65836,6 +65996,14 @@ Skript mit ./linux-install.sh aus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tokenizer</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T120232Z" creationid="Ragnar-F" creationdate="20260116T120232Z">
+        <seg>Tokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tokenizers allow OmegaT to provide better matches.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T102712Z" creationid="Ragnar-F" creationdate="20221114T102712Z">
@@ -67436,6 +67604,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uninstalled</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T115711Z" creationid="Ragnar-F" creationdate="20260116T115711Z">
+        <seg>Deinstalliert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uninstalling failed</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130630T151413Z">
@@ -67564,6 +67740,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T120307Z" creationid="Ragnar-F" creationdate="20260116T120307Z">
+        <seg>Unbekannt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unknown language code {0} specified</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230418T072919Z" creationid="Ragnar-F" creationdate="20230418T072919Z">
@@ -67584,6 +67768,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T222515Z" creationid="Ragnar-F" creationdate="20221109T222515Z">
         <seg>Unbekannt/Manuell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unkown</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T120621Z" creationid="Ragnar-F" creationdate="20260116T120621Z">
+        <seg>Unbekannt</seg>
       </tuv>
     </tu>
     <tu>
@@ -67746,6 +67938,14 @@ Dokumentationsdatei und der OmegaT-Anwendung zu erhalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221120T194246Z" creationid="Ragnar-F" creationdate="20221120T194246Z">
         <seg>Unübersetzte Segmente werden in der Quellsprache belassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Update available</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T115644Z" creationid="Ragnar-F" creationdate="20260116T115644Z">
+        <seg>Update verfügbar</seg>
       </tuv>
     </tu>
     <tu>
@@ -70466,6 +70666,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T142421Z">
         <seg>Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visit the homepage</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T120654Z" creationid="Ragnar-F" creationdate="20260116T120654Z">
+        <seg>Homepage besuchen</seg>
       </tuv>
     </tu>
     <tu>
