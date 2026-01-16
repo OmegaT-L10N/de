@@ -28506,6 +28506,14 @@ angezeigt werden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you created the project from the OmegaT GUI, you then have to explicitly add it to the version control system (&lt;c0&gt;add&lt;/c0&gt; in both Git and SVN).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T134835Z" creationid="Ragnar-F" creationdate="20260116T134835Z">
+        <seg>Wenn Sie das Projekt über die OmegaT-GUI erstellt haben, müssen Sie es anschließend explizit zum Versionskontrollsystem hinzufügen (&lt;c0&gt;add&lt;/c0&gt; in Git und SVN).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T143251Z" creationid="Ragnar-F" creationdate="20210110T190935Z">
@@ -30051,6 +30059,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T112311Z">
         <seg>In der Praxis wird dieser Befehl also etwa wie folgt aussehen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In projects that use more complex mapping, &lt;e0&gt;adding&lt;/e0&gt;, &lt;e1&gt;modifying&lt;/e1&gt;, or &lt;e2&gt;deleting&lt;/e2&gt; files must &lt;e3&gt;all&lt;/e3&gt; be performed through the VCS.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T134633Z" creationid="Ragnar-F" creationdate="20260116T134633Z">
+        <seg>Bei Projekten mit komplexeren Zuordnungen muss das &lt;e0&gt;Hinzufügen&lt;/e0&gt;, &lt;e1&gt;Bearbeiten&lt;/e1&gt; oder &lt;e2&gt;Löschen&lt;/e2&gt; von &lt;e3&gt;allen&lt;/e3&gt; Dateien über das VKS erfolgen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45057,8 +45073,8 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       <tuv lang="en">
         <seg>Put the registered files on the hosting server</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T130446Z" creationid="Ragnar-F" creationdate="20221116T112440Z">
-        <seg>Die registrierten Dateien auf den Hosting-Server hochladen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T134904Z" creationid="Ragnar-F" creationdate="20221116T112440Z">
+        <seg>Laden Sie die registrierten Dateien auf den Hosting-Server hoch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45592,6 +45608,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T130513Z" creationid="Ragnar-F" creationdate="20221116T112412Z">
         <seg>Die Projektdateien im lokalen VKS registrieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Register the project files into the local repository.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T134710Z" creationid="Ragnar-F" creationdate="20260116T134710Z">
+        <seg>Registrieren Sie die Projektdateien im lokalen Repository.</seg>
       </tuv>
     </tu>
     <tu>
