@@ -4110,6 +4110,20 @@ Die aktuelle Einstellung ist {0}MB;</seg>
         <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
 [NEW]▷ ${diff}
 			
+[OLD]◀ ${diffReversed}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T134155Z" creationid="Ragnar-F" creationdate="20260117T133946Z">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NEU]▷ ${diff}
+			
+[ALT]◀ ${diffReversed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;${score}/${noStemScore}/${adjustedScore}%&gt; ${fuzzyFlag} ${fileNameOnly}
+[NEW]▷ ${diff}
+			
 [OLD]◀ ${diffReversed}
 ◀ ${targetText}</seg>
       </tuv>
@@ -6883,6 +6897,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Plugins&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135421Z" creationid="Ragnar-F" creationdate="20260117T135421Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Plugins&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Preferences&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T115604Z" creationid="Ragnar-F" creationdate="20260117T115604Z">
@@ -6899,10 +6921,34 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Proxy Login&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135413Z" creationid="Ragnar-F" creationdate="20260117T135413Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Proxy-Login&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Repository Mapping...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260116T130359Z" creationid="Ragnar-F" creationdate="20260116T130359Z">
         <seg>&lt;l0&gt;&lt;/l0&gt;&lt;g1&gt;Repository-Zuordnung...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Saving and Output&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135348Z" creationid="Ragnar-F" creationdate="20260117T135348Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Speichern und Ausgabe&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Secure store&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135419Z" creationid="Ragnar-F" creationdate="20260117T135419Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Sichere Datenspeicherung&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6923,6 +6969,38 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Tag Processing&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133101Z" creationid="Ragnar-F" creationdate="20260117T133101Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Tag-Verarbeitung&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Team&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133800Z" creationid="Ragnar-F" creationdate="20260117T133800Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Team&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Updates&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135426Z" creationid="Ragnar-F" creationdate="20260117T135426Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Updates&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;View&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135248Z" creationid="Ragnar-F" creationdate="20260117T135248Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;g1&gt;Ansicht&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Access Configuration Folder&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T115740Z" creationid="Ragnar-F" creationdate="20260117T115740Z">
@@ -6939,10 +7017,42 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;All variables (e.g., %s, %-s)&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133210Z" creationid="Ragnar-F" creationdate="20260117T133210Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Alle Variablen (z.B. %s, %-s)&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Allow local external search commands&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T125028Z" creationid="Ragnar-F" creationdate="20260117T125028Z">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Lokale externe Suchbefehle erlauben&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Allow local post-processing commands&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135408Z" creationid="Ragnar-F" creationdate="20260117T135408Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Lokale Nachbearbeitungsbefehle erlauben&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Allow tag editing&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133018Z" creationid="Ragnar-F" creationdate="20260117T133018Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Tag-Bearbeitung zulassen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Allow translated tags to be in a different order&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133652Z" creationid="Ragnar-F" creationdate="20260117T133652Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Übersetzte Tags dürfen anders angeordnet sein&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7011,6 +7121,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Block the creation of translated files with tag issues&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133657Z" creationid="Ragnar-F" creationdate="20260117T133657Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Erstellen von übersetzten Dateien mit Tag-Problemen blockieren&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Breaks&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T124243Z" creationid="Ragnar-F" creationdate="20260117T124243Z">
@@ -7019,10 +7137,58 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Check issues when leaving a segment&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133023Z" creationid="Ragnar-F" creationdate="20260117T133023Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Probleme untersuchen beim Verlassen eines Segments&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Check printf function variables&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133106Z" creationid="Ragnar-F" creationdate="20260117T133106Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Variablen der printf-Funktion prüfen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Check simple Java MessageFormat placeholders&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133645Z" creationid="Ragnar-F" creationdate="20260117T133645Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Einfache Java-MessageFormat-Platzhalter prüfen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Context Menu Priority&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T125032Z" creationid="Ragnar-F" creationdate="20260117T125032Z">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Kontextmenüpriorität&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Count flagged text and custom tags in statistics&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133719Z" creationid="Ragnar-F" creationdate="20260117T133719Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Geschützte Texte und benutzerdefinierte Tags in die Statistik einbeziehen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Custom tags&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133748Z" creationid="Ragnar-F" creationdate="20260117T133748Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Benutzerdefinierte Tags&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Customize segment modification information&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135325Z" creationid="Ragnar-F" creationdate="20260117T135325Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Segmentmodifikationsinfos anpassen&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7043,6 +7209,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Display active source segment in bold&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135302Z" creationid="Ragnar-F" creationdate="20260117T135302Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Quelle des aktiven Segments fett darstellen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Display all source segments in bold&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135256Z" creationid="Ragnar-F" creationdate="20260117T135256Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Quelle aller Segmente fett darstellen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Exceptions&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T124236Z" creationid="Ragnar-F" creationdate="20260117T124236Z">
@@ -7051,10 +7233,34 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Export the segment to a text file&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133010Z" creationid="Ragnar-F" creationdate="20260117T133010Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Segment in eine Textdatei exportieren&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Exported translation memories folder&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260116T130858Z" creationid="Ragnar-F" creationdate="20260116T130845Z">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Ordner für exportierte Translation-Memory-Dateien&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Flagged text&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133753Z" creationid="Ragnar-F" creationdate="20260117T133753Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Geschützte Texte&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Global post-processing commands&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135403Z" creationid="Ragnar-F" creationdate="20260117T135403Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Globale Nachbearbeitungsbefehle&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7079,6 +7285,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T121241Z" creationid="Ragnar-F" creationdate="20260117T121241Z">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Treffer mit stark abweichender Groß-/Kleinschreibung ignorieren (z.B. USER vs. user)&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Include matches from other languages&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133912Z" creationid="Ragnar-F" creationdate="20260117T133912Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Matches aus anderen Sprachen einbeziehen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Initial number of loaded segments&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133054Z" creationid="Ragnar-F" creationdate="20260117T133054Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Zu Beginn diese Anzahl von Segmenten laden&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7123,6 +7345,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Mark all repeated segments&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135310Z" creationid="Ragnar-F" creationdate="20260117T135310Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Alle mehrmaligen Segmente hervorheben&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Match display template&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133922Z" creationid="Ragnar-F" creationdate="20260117T133922Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Darstellungsweise von Matches&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Match term groups even if the terms appear separately&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T121207Z" creationid="Ragnar-F" creationdate="20260117T121207Z">
@@ -7139,10 +7377,42 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Minimal threshold to show a fuzzy match&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133850Z" creationid="Ragnar-F" creationdate="20260117T133850Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Mindestschwelle zum Anzeigen eines Fuzzy Matches&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;None&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133123Z" creationid="Ragnar-F" creationdate="20260117T133123Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Keine&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;OmegaT&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260116T130918Z" creationid="Ragnar-F" creationdate="20260116T130918Z">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;OmegaT&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Paragraph delimitation format&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133057Z" creationid="Ragnar-F" creationdate="20260117T133057Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Darstellungsweise der Absatzbegrenzung&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Project data saving interval&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135358Z" creationid="Ragnar-F" creationdate="20260117T135358Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Projektdaten-Speicherintervall&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7163,6 +7433,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Repository Credentials&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133807Z" creationid="Ragnar-F" creationdate="20260117T133807Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Repository-Zugangsdaten&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Restore Main Window&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T124025Z" creationid="Ragnar-F" creationdate="20260117T124025Z">
@@ -7179,10 +7457,34 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Save auto-populated status&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133042Z" creationid="Ragnar-F" creationdate="20260117T133042Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Zustand "automatisch gefüllt" speichern&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Save origin of translation&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133048Z" creationid="Ragnar-F" creationdate="20260117T133048Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Herkunft der Übersetzung speichern&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Search automatically&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T123952Z" creationid="Ragnar-F" creationdate="20260117T123952Z">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Automatisch suchen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Select how tags of non-OmegaT TMXs should be displayed&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133904Z" creationid="Ragnar-F" creationdate="20260117T133904Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Auswählen, wie Tags von OmegaT-fremden TMX-Dateien dargestellt werden&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7211,10 +7513,34 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Simple variables (e.g., %s, %d)&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133132Z" creationid="Ragnar-F" creationdate="20260117T133132Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Einfache Variablen (z.B. %s, %d)&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Simplify tag tooltips&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135316Z" creationid="Ragnar-F" creationdate="20260117T135316Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Tag-Tooltips vereinfachen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Sort by source text term length&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T123938Z" creationid="Ragnar-F" creationdate="20260117T121303Z">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Nach Länge des Quelltextbegriffs sortieren&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Sort fuzzy matches by:&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133837Z" creationid="Ragnar-F" creationdate="20260117T133837Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Fuzzy Matches sortieren nach:&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7243,6 +7569,30 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Standard template&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135335Z" creationid="Ragnar-F" creationdate="20260117T135335Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Standard-Darstellungsweise&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Stop at untranslated and alternatives translations&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133014Z" creationid="Ragnar-F" creationdate="20260117T133014Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Bei unübersetzten und alternativen Übersetzungen stoppen&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;TM Matches&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133812Z" creationid="Ragnar-F" creationdate="20260117T133812Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;TM-Matches&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;TMX Level 1&lt;/o1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260116T130933Z" creationid="Ragnar-F" creationdate="20260116T130926Z">
@@ -7255,6 +7605,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260116T130940Z" creationid="Ragnar-F" creationdate="20260116T130933Z">
         <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;TMX-Level 2&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Template for segments without date&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135343Z" creationid="Ragnar-F" creationdate="20260117T135343Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;&lt;o1&gt;Darstellungsweise für Segmente ohne Datum&lt;/o1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7399,6 +7757,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T113256Z" creationid="Ragnar-F" creationdate="20260117T113256Z">
         <seg>&lt;l0&gt; &lt;/l0&gt;TMs verwalten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Match template variables</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T134340Z" creationid="Ragnar-F" creationdate="20260117T134340Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Match-Variablen</seg>
       </tuv>
     </tu>
     <tu>
@@ -10521,8 +10887,8 @@ Dossier racine
       <tuv lang="en">
         <seg>All variables (e.g., %s, %-s)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240618T071500Z" creationid="Ragnar-F" creationdate="20221109T204350Z">
-        <seg>&amp;Alle Variablen (z.B. %s, %-s)</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133501Z" creationid="Ragnar-F" creationdate="20221109T204350Z">
+        <seg>Alle Variablen (z.B. %s, %-s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21053,6 +21419,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable matches for paragraphs assembled from matches found in segmented memory entries from a segmented source text in a project that uses paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135239Z" creationid="Ragnar-F" creationdate="20260117T135239Z">
+        <seg>Aktivieren Sie Matches für Absätze, die aus Matches zusammengesetzt sind, die in segmentierten TM-Einträgen aus einem segmentierten Quelltext in einem Projekt gefunden wurden, das Absatzsegmentierung verwendet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable project-specific commands</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T115221Z" creationid="Ragnar-F" creationdate="20210110T115221Z">
@@ -26012,6 +26386,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230316T212747Z">
         <seg>Gehe zu-Menü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google API key is not available.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135522Z" creationid="Ragnar-F" creationdate="20260117T135522Z">
+        <seg>Google-API-Schlüssel ist nicht verfügbar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50553,6 +50935,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; setting.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T132845Z" creationid="Ragnar-F" creationdate="20260117T132845Z">
+        <seg>Siehe Einstellung &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; window for details.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T114644Z" creationid="Ragnar-F" creationdate="20221217T221713Z">
@@ -52581,6 +52971,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T174839Z" creationid="Ragnar-F" creationdate="20221121T174824Z">
         <seg>Show Same Segments (Identische Segmente anzeigen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show matches assembled from multiple segments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T134650Z" creationid="Ragnar-F" creationdate="20260117T134650Z">
+        <seg>Matches anzeigen, die aus mehreren Segmenten zusammengesetzt sind</seg>
       </tuv>
     </tu>
     <tu>
@@ -65738,6 +66136,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters in the &lt;u0&gt;SRX 2.0&lt;/u0&gt; format.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T145052Z" creationid="Ragnar-F" creationdate="20260117T145052Z">
+        <seg>Diese Parameterdatei enthält benutzerdefinierte Segmentierungsparameter im Format &lt;u0&gt;SRX 2.0&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized segmentation parameters.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T110524Z" creationid="Ragnar-F" creationdate="20221110T110524Z">
@@ -68644,6 +69050,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to connect to belazar server.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135500Z" creationid="Ragnar-F" creationdate="20260117T135500Z">
+        <seg>Verbindung zum Belazar-Server kann nicht hergestellt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to connect to server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T194114Z" creationid="Ragnar-F" creationdate="20210112T194114Z">
@@ -71300,8 +71714,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use this option if you prefer to enter segments with a single-click.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T130923Z" creationid="Ragnar-F" creationdate="20260117T130923Z">
-        <seg>Verwenden Sie diese Option, wenn Sie das mit einem Klick machen wollen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133006Z" creationid="Ragnar-F" creationdate="20260117T130923Z">
+        <seg>Verwenden Sie diese Option, um dies mit einem einfachen Klick zu tun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79843,6 +80257,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://www.gala-global.org/srx-20-april-7-2008</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135532Z" creationid="Ragnar-F" creationdate="20260117T135532Z">
+        <seg>https://www.gala-global.org/srx-20-april-7-2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221114T132832Z" creationid="Ragnar-F" creationdate="20221114T132832Z">
@@ -82176,6 +82598,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>segmentation.srx</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T135526Z" creationid="Ragnar-F" creationdate="20260117T135526Z">
+        <seg>segmentation.srx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T102530Z">
@@ -83870,6 +84300,26 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;Segment 3075 ¶&gt;
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">5.8/Bundle.properties</prop>
+      <prop type="id">TV_OPTION_FULL_CHECK</prop>
+      <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133515Z" creationid="Ragnar-F" creationdate="20260117T133515Z">
+        <seg>&amp;Alle Variablen (z.B. %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">6.0/Bundle.properties</prop>
+      <prop type="id">TV_OPTION_FULL_CHECK</prop>
+      <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133526Z" creationid="Ragnar-F" creationdate="20260117T133526Z">
+        <seg>&amp;Alle Variablen (z.B. %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">CONFLICT_DIALOG_LABEL_MINE</prop>
       <tuv lang="en">
@@ -83927,6 +84377,16 @@ Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;Segment 3075 ¶&gt;
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T092229Z" creationid="Ragnar-F" creationdate="20210113T092229Z">
         <seg>Notiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">TV_OPTION_FULL_CHECK</prop>
+      <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T133546Z" creationid="Ragnar-F" creationdate="20260117T133546Z">
+        <seg>&amp;Alle Variablen (z.B. %s, %-s)</seg>
       </tuv>
     </tu>
     <tu>
