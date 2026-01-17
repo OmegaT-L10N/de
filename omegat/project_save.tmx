@@ -6899,6 +6899,86 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Bridge two languages</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T114753Z" creationid="Ragnar-F" creationdate="20260117T114753Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Zwei Sprachen überbrücken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Create your own TMs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T104828Z" creationid="Ragnar-F" creationdate="20260117T104828Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Eigene TMs erstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Creating a TM specific to selected documents</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T113304Z" creationid="Ragnar-F" creationdate="20260117T113304Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;TM für bestimmte Dokumente erstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Managing your TMs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T113256Z" creationid="Ragnar-F" creationdate="20260117T113256Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;TMs verwalten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Reading TMs from other tools</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T113248Z" creationid="Ragnar-F" creationdate="20260117T113248Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;TMs von anderen Tools lesen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Reuse TMs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T104834Z" creationid="Ragnar-F" creationdate="20260117T104834Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;TMs wiederverwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Share TMs</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T113311Z" creationid="Ragnar-F" creationdate="20260117T113311Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;TMs gemeinsam nutzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;The good enough way</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T113320Z" creationid="Ragnar-F" creationdate="20260117T113320Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Der "gut genug"-Weg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;The technical approach</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T113326Z" creationid="Ragnar-F" creationdate="20260117T113326Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Der technische Ansatz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Use translation memories</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T104817Z" creationid="Ragnar-F" creationdate="20260117T104817Z">
+        <seg>&lt;l0&gt; &lt;/l0&gt;Translation Memories (TM) verwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="" repository=""/&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T081350Z" creationid="Ragnar-F" creationdate="20210111T081350Z">
@@ -29380,6 +29460,14 @@ unter anderem über Java Web Start installieren.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you switch to paragraph segmentation in a project that originally used &lt;l0/&gt;, you can have OmegaT present matches assembled from existing segments by enabling the &lt;l1/&gt; option in addition to showing regular fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T112818Z" creationid="Ragnar-F" creationdate="20260117T112818Z">
+        <seg>Wenn Sie in einem Projekt, das ursprünglich &lt;l0/&gt; verwendet hat, zur Absatzsegmentierung wechseln, können Sie OmegaT mithilfe der Option &lt;l1/&gt; dazu veranlassen, neben den regulären Fuzzy Matches auch Matches anzuzeigen, die aus bestehenden Segmenten zusammengesetzt sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you try to create the translated files, OmegaT will display the issues dialog until no issues are found.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T150056Z" creationid="Ragnar-F" creationdate="20221119T150056Z">
@@ -40830,6 +40918,14 @@ enthalten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will try to segment the source text into sentences, apply fuzzy matching on the segmented memory entries, and then assemble a paragraph from those matches.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T113029Z" creationid="Ragnar-F" creationdate="20260117T113029Z">
+        <seg>OmegaT wird versuchen, den Quelltext in Sätze zu segmentieren, Fuzzy Matching auf die segmentierten TM-Einträge anzuwenden und dann einen Absatz aus diesen Matches zusammenzustellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will underline spelling mistakes with red wavy-lines.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240718T124405Z" creationid="Ragnar-F" creationdate="20221119T122221Z">
@@ -45640,6 +45736,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T122658Z" creationid="Ragnar-F" creationdate="20221117T122653Z">
         <seg>Letzte Aktion wiederholen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Y&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refer to the &lt;l0/&gt; section for more information on the benefits and drawbacks of the different types of segmentation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T113239Z" creationid="Ragnar-F" creationdate="20260117T113239Z">
+        <seg>Im Abschnitt &lt;l0/&gt; finden Sie weitere Informationen zu den Vor- und Nachteilen der verschiedenen Segmentierungsarten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59876,6 +59980,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T145632Z" creationid="Ragnar-F" creationdate="20221109T145632Z">
         <seg>Ein Backup der Originaldatei wurde angelegt unter: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The origins of the matches can be multiple files or memories because the assembled paragraph may not exist in the translation memories.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T113157Z" creationid="Ragnar-F" creationdate="20260117T113157Z">
+        <seg>Der Ursprung der Matches kann aus mehreren Dateien oder TMs stammen, da der zusammengesetzte Absatz möglicherweise nicht in den TMs vorhanden ist.</seg>
       </tuv>
     </tu>
     <tu>
