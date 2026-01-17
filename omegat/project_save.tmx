@@ -8047,6 +8047,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A project manager who also works on the project as a translator must download a separate translation copy of the project to a local location other than the one used to create and manage that project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T144010Z" creationid="Ragnar-F" creationdate="20260116T144010Z">
+        <seg>Ein Projektmanager, der auch als Übersetzer an dem Projekt arbeitet, muss eine separate Übersetzungskopie des Projekts herunterladen. Das bedeutet, dass er nicht den Ordner verwenden sollte, den er zum Erstellen und Verwalten des Projekts genutzt hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221121T175855Z" creationid="Ragnar-F" creationdate="20221121T175855Z">
@@ -9199,6 +9207,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After creating the accounts, the project manager must send the translators their individual credentials.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T141542Z" creationid="Ragnar-F" creationdate="20260116T141542Z">
+        <seg>Nach der Einrichtung der Konten muss der Projektmanager den Übersetzern ihre individuellen Zugangsdaten mitteilen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After dividing the source file into structural units, OmegaT further divides those units into segments.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240629T074714Z" creationid="Ragnar-F" creationdate="20221112T091432Z">
@@ -9287,10 +9303,26 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the project is ready and has been uploaded to the server, the project manager will require the following information to set up access for the translators:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T141038Z" creationid="Ragnar-F" creationdate="20260116T141038Z">
+        <seg>Nachdem das Projekt fertig eingerichtet und auf den Server hochgeladen wurde, muss der Projektmanager den Zugriff für die Übersetzer freigeben:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the project is ready and has been uploaded to the server, the team project administrator has to set up access for the translators.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T125718Z" creationid="Ragnar-F" creationdate="20221116T121433Z">
         <seg>Nachdem das Projekt fertig eingerichtet und auf den Server hochgeladen wurde, muss der Administrator des Teamprojekts den Zugriff für die Übersetzer freigeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the project manager confirms that a translator has been able to open the team project, it is a good idea to make sure that the &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the project manager (on the server) and the translator (locally).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T141839Z" creationid="Ragnar-F" creationdate="20260116T141839Z">
+        <seg>Wenn ein Übersetzer das Teamprojekt öffnen konnte, sollten Sie prüfen, ob die &lt;l0&gt;Projektstatistiken&lt;/l0&gt; für den Projektmanager (auf dem Server) und den Übersetzer (lokal) identisch sind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22950,6 +22982,14 @@ Backup-Dateiendung '.recover'.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finally, publish your project to the remote server (&lt;c0&gt;commit&lt;/c0&gt; &lt;c1&gt;push&lt;/c1&gt; in Git, and &lt;c2&gt;commit&lt;/c2&gt; in SVN).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T140314Z" creationid="Ragnar-F" creationdate="20260116T140314Z">
+        <seg>Veröffentlichen Sie schließlich Ihr Projekt auf dem Remote-Server (&lt;c0&gt;commit&lt;/c0&gt; &lt;c1&gt;push&lt;/c1&gt; in Git und &lt;c2&gt;commit&lt;/c2&gt; in SVN).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finally, publish your project to the remote server (&lt;c0&gt;commit&lt;/c0&gt; in SVN, &lt;c1&gt;commit&lt;/c1&gt; and &lt;c2&gt;push&lt;/c2&gt; in Git).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T121338Z" creationid="Ragnar-F" creationdate="20221116T121338Z">
@@ -23888,6 +23928,22 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For projects on a hosting service</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T141050Z" creationid="Ragnar-F" creationdate="20260116T141050Z">
+        <seg>Für Projekte auf einem Hosting-Dienst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For projects on a self-hosted server</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T141242Z" creationid="Ragnar-F" creationdate="20260116T141242Z">
+        <seg>Für Projekte auf einem selbst gehosteten Server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For security purposes, local project-based external searches are disabled by default.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240701T101245Z" creationid="Ragnar-F" creationdate="20221114T120531Z">
@@ -24586,8 +24642,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Give access rights to your team</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T130429Z" creationid="Ragnar-F" creationdate="20221116T112452Z">
-        <seg>Ihrem Team Zugriffsrechte erteilen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T135726Z" creationid="Ragnar-F" creationdate="20221116T112452Z">
+        <seg>Erteilen Sie Ihrem Team Zugriffsrechte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25530,8 +25586,8 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Have everybody download the project from OmegaT</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T130413Z" creationid="Ragnar-F" creationdate="20221116T112538Z">
-        <seg>Alle dazu bringen, das Projekt über OmegaT herunterzuladen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T135753Z" creationid="Ragnar-F" creationdate="20221116T112538Z">
+        <seg>Bringen Sie alle dazu, das Projekt über OmegaT herunterzuladen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27847,6 +27903,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server does not have a provision for translators to register an account themselves, the project manager must create accounts with write access for the translators.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T141522Z" creationid="Ragnar-F" creationdate="20260116T141522Z">
+        <seg>Wenn der Server den Übersetzern keine Möglichkeit zur Registrierung eines eigenen Kontos bietet, muss der Projektmanager für jeden Übersetzer ein Konto mit Schreibzugriff einrichten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T130113Z" creationid="Ragnar-F" creationdate="20221219T120553Z">
@@ -28123,6 +28187,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T131854Z" creationid="Ragnar-F" creationdate="20221116T122638Z">
         <seg>Wenn sie nicht identisch sind, stellen Sie sicher, dass die Dateien &lt;f0&gt;filters.xml&lt;/f0&gt; und &lt;f1&gt;segmentation.conf&lt;/f1&gt; korrekt freigegeben sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they do not match, make sure the two projects use the same filters and segmentation settings by checking that &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; are properly shared.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T142341Z" creationid="Ragnar-F" creationdate="20260116T142341Z">
+        <seg>Wenn sie nicht identisch sind, stellen Sie sicher, dass die beiden Projekte dieselben Filter- und Segmentierungseinstellungen verwenden, indem Sie prüfen, ob die Dateien &lt;f0&gt;filters.xml&lt;/f0&gt; und &lt;f1&gt;segmentation.conf&lt;/f1&gt; ordnungsgemäß geteilt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35053,6 +35125,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T141433Z" creationid="Ragnar-F" creationdate="20210110T193037Z">
         <seg>Rechts-nach-Links-Sprachen verwalten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage a team project</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T144039Z" creationid="Ragnar-F" creationdate="20260116T144039Z">
+        <seg>Ein Teamprojekt verwalten</seg>
       </tuv>
     </tu>
     <tu>
@@ -45606,8 +45686,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Register the project files into the local VCS</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T130513Z" creationid="Ragnar-F" creationdate="20221116T112412Z">
-        <seg>Die Projektdateien im lokalen VKS registrieren</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T135648Z" creationid="Ragnar-F" creationdate="20221116T112412Z">
+        <seg>Registrieren Sie die Projektdateien im lokalen VKS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54943,6 +55023,14 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team projects involve a number of management tasks not directly related to translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T144353Z" creationid="Ragnar-F" creationdate="20260116T144353Z">
+        <seg>Teamprojekte erfordern eine Reihe von Verwaltungsaufgaben, die nicht direkt mit der Übersetzung zusammenhängen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team projects use synchronization mechanisms between project members.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240704T075019Z" creationid="Ragnar-F" creationdate="20221116T135832Z">
@@ -59912,6 +60000,30 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project manager has two options for sending the location of the project to the translators:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T141617Z" creationid="Ragnar-F" creationdate="20260116T141617Z">
+        <seg>Der Projektmanager hat zwei Möglichkeiten, den Übersetzern den Standort des Projekts mitzuteilen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project manager may find it advantageous—even necessary—to handle such tasks directly through the VCS, particularly in cases where that project manager only acts as a coordinator and is not involved in the translation process itself.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T085923Z" creationid="Ragnar-F" creationdate="20260117T085923Z">
+        <seg>Der Projektleiter kann es als vorteilhaft oder sogar notwendig erachten, solche Aufgaben direkt über das VKS abzuwickeln, insbesondere dann, wenn der Projektleiter nur als Koordinator fungiert und nicht in den eigentlichen Übersetzungsprozess eingebunden ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project manager will then grant write access to the repository to those accounts.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T141217Z" creationid="Ragnar-F" creationdate="20260116T141217Z">
+        <seg>Der Projektmanager gewährt diesen Konten dann Schreibzugriff auf das Repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project was converted successfully.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T215844Z" creationid="Ragnar-F" creationdate="20210112T215844Z">
@@ -61484,6 +61596,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210123T200426Z">
         <seg>Die Übersetzerin wird englische Übersetzungen für niederländische Quellsegmente sehen und diese zur Erstellung der chinesischen Übersetzung verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translators will have to create an account for the service, and send their user name to the project manager.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T141156Z" creationid="Ragnar-F" creationdate="20260116T141156Z">
+        <seg>Die Übersetzer müssen ein Konto für den Dienst erstellen und ihren Benutzernamen an den Projektmanager senden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69956,8 +70076,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>Use the local VCS to make a local copy (clone)</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240703T130558Z" creationid="Ragnar-F" creationdate="20221116T112216Z">
-        <seg>Das lokale VKS verwenden, um eine lokale Kopie (Klon) zu erstellen</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260116T135632Z" creationid="Ragnar-F" creationdate="20221116T112216Z">
+        <seg>Verwenden Sie das lokale VKS, um eine lokale Kopie (Klon) zu erstellen.</seg>
       </tuv>
     </tu>
     <tu>
