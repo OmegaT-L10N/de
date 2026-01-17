@@ -22700,6 +22700,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception rule, &lt;g0&gt;Break&lt;/g0&gt; box unchecked, higher in the list</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T152748Z" creationid="Ragnar-F" creationdate="20260117T152748Z">
+        <seg>Ausnahmeregel, Häkchen nicht gesetzt, weiter oben in der Liste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception rule, box unchecked, higher in the list</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T102438Z" creationid="Ragnar-F" creationdate="20221112T102203Z">
@@ -29161,6 +29169,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T180045Z" creationid="Ragnar-F" creationdate="20221109T180045Z">
         <seg>Gibt es eine Deklaration, wird diese unabhängig von der hier angegebenen Einstellung verwendet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is an existing &lt;f0&gt;segmentation.conf&lt;/f0&gt; file from earlier versions, OmegaT converts it automatically.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T151826Z" creationid="Ragnar-F" creationdate="20260117T151826Z">
+        <seg>Wenn eine &lt;f0&gt;segmentation.conf&lt;/f0&gt;-Datei aus früheren Versionen vorhanden ist, konvertiert OmegaT sie automatisch.</seg>
       </tuv>
     </tu>
     <tu>
