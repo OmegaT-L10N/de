@@ -9407,6 +9407,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you generate the target, files use the &lt;l0/&gt;&lt;l1/&gt; command to add them to the server if the project manager has requested you to do so.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T103634Z" creationid="Ragnar-F" creationdate="20260117T103634Z">
+        <seg>Nachdem Sie die Zieldateien erstellt haben, können Sie sie mit dem Befehl &lt;l0/&gt;&lt;l1/&gt; auf den Server hochladen, sofern der Projektmanager Sie darum gebeten hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T110211Z">
@@ -15395,6 +15403,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Committing the target files also uploads the statistics files to the server.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T103809Z" creationid="Ragnar-F" creationdate="20260117T103809Z">
+        <seg>Beim Committen der Zieldateien werden auch die Statistikdateien auf den Server hochgeladen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commodity12</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180829T060124Z" creationid="BVB" creationdate="20180829T060124Z">
@@ -19624,6 +19640,14 @@ Neue Version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading the project creates a copy on the translator's computer that only needs to be opened locally to synchronize with the server.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T095445Z" creationid="Ragnar-F" creationdate="20260117T095445Z">
+        <seg>Beim Herunterladen des Projekts wird eine Kopie auf dem Computer des Übersetzers erstellt. Es muss nur noch lokal geöffnet werden, um es mit dem Server zu synchronisieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading the right package</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130524T185453Z">
@@ -19812,6 +19836,14 @@ Neue Version: {2}</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T110259Z" creationid="BVB" creationdate="20180826T110259Z">
         <seg>Je nach Betriebssystem erhalten Sie während der Installation möglicherweise mehrere Sicherheitswarnungen.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During synchronization, all other local files are overwritten with the versions on the remote server, except for &lt;f0&gt;omegat.project&lt;/f0&gt; (see below).</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T101000Z" creationid="Ragnar-F" creationdate="20260117T101000Z">
+        <seg>Während der Synchronisation werden alle anderen lokalen Dateien mit den Versionen auf dem Remote-Server überschrieben, mit Ausnahme von &lt;f0&gt;omegat.project&lt;/f0&gt; (siehe unten).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20733,6 +20765,14 @@ wobei xx oder xxx der Sprachcode und YY der Ländercode (optional) ist.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230223T111910Z" creationid="Ragnar-F" creationdate="20230223T111814Z">
         <seg>Wechselt zum &lt;l0/&gt;, um eine Notiz für das aktive Segment zu schreiben oder zu ändern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the URL provided by the project manager in the &lt;g0&gt;Repository URL:&lt;/g0&gt; field at the top of the dialog, and specify a folder for the project in the &lt;g1&gt;New Local Project Folder:&lt;/g1&gt; field.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T100143Z" creationid="Ragnar-F" creationdate="20260117T100143Z">
+        <seg>Fügen Sie die vom Projektmanager bereitgestellte URL in das Feld &lt;g0&gt;Repository-URL:&lt;/g0&gt; am Anfang des Dialogfensters ein, und geben Sie einen Ordner für das Projekt im Feld &lt;g1&gt;Neuer lokaler Projektordner:&lt;/g1&gt; an.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23684,6 +23724,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240704T083901Z" creationid="Ragnar-F" creationdate="20221116T145147Z">
         <seg>Zum Beispiel unterstützen viele Hosting-Dienste den Zugriff auf dasselbe Repository via SSH +Git- oder https-Protokoll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, members can have the Editor pane show translations made by a given person, or contents translated before or after a given time, or combinations thereof.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T100128Z" creationid="Ragnar-F" creationdate="20260117T100128Z">
+        <seg>Im Editorbereich können sich die Mitglieder beispielsweise anzeigen lassen, welche Übersetzungen von einer bestimmten Person angefertigt wurden, welche Inhalte vor oder nach einem bestimmten Zeitpunkt übersetzt wurden oder eine Kombination aus beidem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28039,6 +28087,14 @@ Speicherortänderung auf ihre Standardwerte zurückgesetzt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are any conflicts at that time, OmegaT will present a dialog to let you choose the correct version.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T104806Z" creationid="Ragnar-F" creationdate="20260117T104806Z">
+        <seg>Sollte es zu diesem Zeitpunkt zu Konflikten kommen, zeigt OmegaT ein Dialogfenster an, das Ihnen die Wahl der richtigen Version ermöglicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T081800Z" creationid="Ragnar-F" creationdate="20210111T081800Z">
@@ -28762,6 +28818,14 @@ angezeigt werden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you first download the remote project using an &lt;f0&gt;omegat.project&lt;/f0&gt; file provided by the project manager, OmegaT will use the mappings in that file, if any.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T101036Z" creationid="Ragnar-F" creationdate="20260117T101036Z">
+        <seg>Wenn Sie das Remote-Projekt zunächst mit einer vom Projektmanager bereitgestellten &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei herunterladen, wird OmegaT die Zuordnungen in dieser Datei verwenden, sofern vorhanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T143743Z">
@@ -29356,6 +29420,14 @@ unter anderem über Java Web Start installieren.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you use multiple projects on the same server, you will only be asked to enter your credentials once for that server.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T100950Z" creationid="Ragnar-F" creationdate="20260117T100950Z">
+        <seg>Wenn Sie mehrere Projekte auf demselben Server verwenden, müssen Sie Ihre Zugangsdaten für diesen Server nur einmal eingeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T103410Z" creationid="Ragnar-F" creationdate="20210112T094751Z">
@@ -29879,6 +29951,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In a team project, the basic configuration parameters of the local project are always overridden by the configuration on the server originally set by the project manager.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T101016Z" creationid="Ragnar-F" creationdate="20260117T101016Z">
+        <seg>In einem Teamprojekt werden die grundlegenden Konfigurationsparameter des lokalen Projekts immer von der Konfiguration auf dem Server überschrieben, die ursprünglich vom Projektmanager festgelegt wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In a team project, the basic configuration parameters of the local project are always overridden by the configuration on the server that was set by the project administrator.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T144759Z" creationid="Ragnar-F" creationdate="20221116T144759Z">
@@ -30275,6 +30355,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240617T152638Z" creationid="Ragnar-F" creationdate="20240617T150138Z">
         <seg>In solchen Fällen verlassen sich die alternativen Übersetzungen darauf, dass identische Segmente unterschiedliche angrenzende Segmente haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In such cases, enter that passphrase or token when OmegaT asks for your password.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T100834Z" creationid="Ragnar-F" creationdate="20260117T100834Z">
+        <seg>Geben Sie in solchen Fällen die Passphrase oder das Token ein, wenn OmegaT Sie nach Ihrem Passwort fragt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33931,6 +34019,14 @@ online erfolgen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240704T080157Z" creationid="Ragnar-F" creationdate="20221116T141755Z">
         <seg>Lassen Sie die Option &lt;g2&gt;Standard-Branch&lt;/g2&gt; aktiviert, es sei denn, der Projektadministrator hat Sie angewiesen, einen anderen Branch zu verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave the &lt;g2&gt;Default branch&lt;/g2&gt; option checked unless the project manager has provided instructions for using a custom branch.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T100202Z" creationid="Ragnar-F" creationdate="20260117T100202Z">
+        <seg>Lassen Sie die Option &lt;g2&gt;Standard-Branch&lt;/g2&gt; aktiviert, es sei denn, der Projektmanager hat Sie angewiesen, einen anderen Branch zu verwenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45996,6 +46092,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remember that any modifications to local project configuration files will be overwritten by the versions on the server when the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T101334Z" creationid="Ragnar-F" creationdate="20260117T101334Z">
+        <seg>Beachten Sie, dass alle Änderungen an lokalen Projektkonfigurationsdateien mit den Versionen auf dem Server überschrieben werden, wenn das Projekt synchronisiert wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remember that any modifications to the local project configuration files will be overwritten by the versions on the server when the project is synchronized.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240704T084145Z" creationid="Ragnar-F" creationdate="20221116T145619Z">
@@ -52113,6 +52217,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since changes to the source files affect &lt;e0&gt;all&lt;/e0&gt; members, use that command with caution and only in accordance with the guidelines and workflow established for the project by the project manager.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T103525Z" creationid="Ragnar-F" creationdate="20260117T103514Z">
+        <seg>Da Änderungen an den Quelldateien Auswirkungen auf &lt;e0&gt;alle&lt;/e0&gt; Mitglieder haben, sollten Sie diesen Befehl nur mit Vorsicht und gemäß den vom Projektmanager festgelegten Richtlinien und Arbeitsabläufen verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since files are included by default unless specifically excluded, this option is only necessary to specify exceptions to an exclusion pattern.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T133117Z" creationid="Ragnar-F" creationdate="20221116T123929Z">
@@ -52133,6 +52245,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221219T122306Z" creationid="Ragnar-F" creationdate="20221219T122306Z">
         <seg>Da die Synchronisierung standardmäßig alle drei Minuten erfolgt, kann es vorkommen, dass Projektmitglieder ein Segment übersetzen oder ändern, das bereits von einem anderen Mitglied übersetzt, aber noch nicht synchronisiert wurde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since synchronization takes place every three minutes by default, one project member may translate or modify a segment that has already been translated by another member, but not yet synchronized.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T095702Z" creationid="Ragnar-F" creationdate="20260117T095702Z">
+        <seg>Da die Synchronisierung standardmäßig alle drei Minuten erfolgt, kann es vorkommen, dass ein Projektmitglied ein Segment übersetzt oder ändert, das bereits von einem anderen Mitglied übersetzt, aber noch nicht synchronisiert wurde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52489,6 +52609,14 @@ der auf sich selbst oder einen seiner Unterordner verweist.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240704T072811Z" creationid="Ragnar-F" creationdate="20221219T121240Z">
         <seg>Einige Formate, wie z.B. PDF, können durch Hin- und Rückkonvertierung nicht korrekt verarbeitet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some hosting services require you to generate a passphrase or other form of access token in addition to your password.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T100630Z" creationid="Ragnar-F" creationdate="20260117T100630Z">
+        <seg>Bei einigen Hosting-Diensten muss neben dem Passwort auch eine Passphrase oder eine andere Form eines Zugangstokens generiert werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56797,6 +56925,14 @@ Sabine Wanner</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221219T122413Z" creationid="Ragnar-F" creationdate="20221219T122413Z">
         <seg>Mit der Suchfunktion können sie den Editorbereich zum Beispiel nach Inhalten filtern, die von einer bestimmten Person übersetzt wurden, oder nach Inhalten, die nach oder vor einer bestimmten Zeit übersetzt wurden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Search function offers a number of useful options to filter the content of the files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T095745Z" creationid="Ragnar-F" creationdate="20260117T095745Z">
+        <seg>Die Suchfunktion bietet eine Reihe von nützlichen Optionen, um den Inhalt der Dateien zu filtern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63042,6 +63178,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be a URL giving the location of the project, or an &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T095108Z" creationid="Ragnar-F" creationdate="20260117T095108Z">
+        <seg>Man verwendet dafür entweder eine URL, die den Ort des Projekts angibt, oder eine &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be achieved in two ways:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210125T121836Z">
@@ -64466,6 +64610,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This means users cannot delete from OmegaT or the local file system unless the project manager removes them from the server.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T104651Z" creationid="Ragnar-F" creationdate="20260117T104651Z">
+        <seg>Das bedeutet, dass Benutzer keine Dateien von OmegaT oder dem lokalen Dateisystem löschen können, es sei denn, der Projektmanager entfernt sie zuvor vom Server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This memory is gradually filled as your translation progresses.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221218T102406Z" creationid="Ragnar-F" creationdate="20221117T083524Z">
@@ -65062,6 +65214,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T150055Z" creationid="Ragnar-F" creationdate="20221116T150055Z">
         <seg>Diese Aufgabe ist normalerweise dem Projektadministrator vorbehalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This task normally has to be performed by the project manager, since files in a team project are restored the next time the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T104221Z" creationid="Ragnar-F" creationdate="20260117T104221Z">
+        <seg>Normalerweise muss diese Aufgabe vom Projektmanager durchgeführt werden, da lokal gelöschte Dateien bei der nächsten Synchronisierung des Teamprojekts automatisch wiederhergestellt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68344,6 +68504,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260116T120621Z" creationid="Ragnar-F" creationdate="20260116T120621Z">
         <seg>Unbekannt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unless special mappings or &lt;l0/&gt;, have been set up all source files are shared by all team members, and any changes made to the local source files are overwritten the next time the project is synchronized, unless they are committed to the server using the &lt;l1/&gt;&lt;l2/&gt; command.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T103328Z" creationid="Ragnar-F" creationdate="20260117T103328Z">
+        <seg>Sofern keine speziellen Zuordnungen oder &lt;l0/&gt; eingerichtet wurden, nutzen alle Teammitglieder die gleichen Quelldateien. Alle Änderungen an den lokalen Quelldateien werden bei der nächsten Synchronisierung des Projekts überschrieben, es sei denn, sie werden mithilfe des Befehls &lt;l1/&gt;&lt;l2/&gt; auf den Server übertragen.</seg>
       </tuv>
     </tu>
     <tu>
