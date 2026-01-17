@@ -8381,6 +8381,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;tm/auto&lt;/s0&gt; folder is intended for reliable references files that can automatically fill exactly matching and not yet translated segments.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T202123Z" creationid="Ragnar-F" creationdate="20260117T202123Z">
+        <seg>Der &lt;s0&gt;tm/auto&lt;/s0&gt;-Ordner ist für zuverlässige Referenzdateien gedacht, die automatisch passende und unübersetzte Segmente füllen können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210129T161853Z" creationid="BVB" creationdate="20180826T092534Z">
@@ -10169,6 +10177,14 @@ Dossier racine
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T092502Z">
         <seg>Danach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After a crash, the &lt;c0&gt;omegat.project&lt;/c0&gt; file may be locked and prevent opening the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T205625Z" creationid="Ragnar-F" creationdate="20260117T205625Z">
+        <seg>Nach einem System- oder Programmabsturz kann es vorkommen, dass die Datei &lt;c0&gt;omegat.project&lt;/c0&gt; gesperrt ist, wodurch das Projekt nicht mehr geöffnet werden kann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17290,6 +17306,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy or rename the best backup TM (&lt;c0&gt;project_save.tmx&lt;/c0&gt; or a backup) into the new project's omegat folder, then open the new project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T205229Z" creationid="Ragnar-F" creationdate="20260117T205229Z">
+        <seg>Kopieren Sie den besten Backup-TM (&lt;c0&gt;project_save.tmx&lt;/c0&gt; oder ein Backup) in den omegat-Ordner des neuen Projekts und öffnen Sie dann das neue Projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T140047Z" creationid="Ragnar-F" creationdate="20210111T140047Z">
@@ -17718,6 +17742,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221117T102657Z" creationid="Ragnar-F" creationdate="20221117T102657Z">
         <seg>Ein neues Projekt erstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new project with the same settings and copy the source, glossary and reference TM files from the old project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T205238Z" creationid="Ragnar-F" creationdate="20260117T204956Z">
+        <seg>Erstellen Sie ein neues Projekt mit denselben Einstellungen und kopieren Sie die Quell-, Glossar- und Referenz-TM-Dateien aus dem alten Projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20776,8 +20808,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>Drag pane titles to rearrange or undock them.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T201203Z" creationid="Ragnar-F" creationdate="20260117T201203Z">
-        <seg>Klicken Sie mit der linken Maustaste auf den Titel eines Fensterbereichs, halten Sie die Taste gedrückt und ziehen Sie ihn irgendwo hin, um den Fensterbereich zu verschieben oder abzudocken.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T201554Z" creationid="Ragnar-F" creationdate="20260117T201203Z">
+        <seg>Klicken Sie mit der linken Maustaste auf den Titel eines Fensterbereichs und halten Sie die Taste gedrückt, während Sie den Bereich irgendwohin ziehen, um ihn zu verschieben oder abzudocken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26662,6 +26694,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Group panes into tabs to save space.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T201721Z" creationid="Ragnar-F" creationdate="20260117T201721Z">
+        <seg>Gruppieren Sie Fensterbereiche via Tabs, um Platz zu sparen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T072731Z" creationid="Michael Motzkus" creationdate="20190129T072731Z">
@@ -27896,6 +27936,14 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT behaves oddly, try resetting it: access the configuration folder from &lt;s0&gt;Options&lt;/s0&gt; &lt;s1&gt;Access Configuration Folder&lt;/s1&gt;, back it up, delete it, then restart OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T210114Z" creationid="Ragnar-F" creationdate="20260117T210114Z">
+        <seg>Wenn OmegaT sich seltsam verhält, versuchen Sie, das Programm zurückzusetzen. Öffnen Sie dazu den Konfigurationsordner über &lt;s0&gt;Optionen&lt;/s0&gt; &lt;s1&gt;Konfigurationsordner öffnen&lt;/s1&gt;, erstellen Sie ein Backup, löschen Sie den Ordner und starten Sie OmegaT anschließend neu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT detects an update, it will display a link to the download page.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221119T215659Z" creationid="Ragnar-F" creationdate="20221119T215659Z">
@@ -28036,6 +28084,22 @@ befindet, muss der vollständige Pfad nicht eingegeben werden.)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240709T172155Z" creationid="Ragnar-F" creationdate="20230127T173158Z">
         <seg>Wenn ein Teil des Zieltextes markiert ist, wird nur dieser Teil überschrieben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a project is locked</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T205331Z" creationid="Ragnar-F" creationdate="20260117T205331Z">
+        <seg>Wenn ein Projekt gesperrt ist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a project won't open</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T204646Z" creationid="Ragnar-F" creationdate="20260117T204646Z">
+        <seg>Wenn sich ein Projekt nicht öffnen lässt</seg>
       </tuv>
     </tu>
     <tu>
@@ -29988,6 +30052,14 @@ angezeigt werden.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210122T112449Z">
         <seg>Wenn Sie Namen von Ordnern eingeben, die noch nicht existieren, wird &lt;a0&gt;OmegaT&lt;/a0&gt; diese für Sie erstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you fear you lost work, close the project and use the automatic backups of &lt;c0&gt;project_save.tmx&lt;/c0&gt; in the project’s omegat folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T211203Z" creationid="Ragnar-F" creationdate="20260117T211203Z">
+        <seg>Wenn Sie befürchten, Übersetzungen verloren zu haben, schließen Sie das Projekt und verwenden Sie die automatisch angelegten Sicherungskopien von &lt;c0&gt;project_save.tmx&lt;/c0&gt; im Projektordner "omegat".</seg>
       </tuv>
     </tu>
     <tu>
@@ -34676,6 +34748,14 @@ Computer und das Programm selbst installiert.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep it safe, it is the heart of your project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T204631Z" creationid="Ragnar-F" creationdate="20260117T204631Z">
+        <seg>Achten Sie gut auf den Ordner, denn er ist das Herzstück Ihres Projekts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep tags in translated text</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210126T134912Z" creationid="Ragnar-F" creationdate="20210126T134912Z">
@@ -38971,6 +39051,14 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221123T114229Z" creationid="Ragnar-F" creationdate="20221123T114229Z">
         <seg>Neue Sprache und Land</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New projects include standard folders such as source, target, glossary, tm, dictionary and the omegat folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T201812Z" creationid="Ragnar-F" creationdate="20260117T201812Z">
+        <seg>Neue Projekte enthalten Standardordner wie source, target, glossary, tm, dictionary und omegat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46433,6 +46521,22 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project folder: default structure</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T201734Z" creationid="Ragnar-F" creationdate="20260117T201734Z">
+        <seg>Projektordner: Standardstruktur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project folders</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T202226Z" creationid="Ragnar-F" creationdate="20260117T202226Z">
+        <seg>Projektordner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project glossary</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240618T124549Z" creationid="SabineWanner" creationdate="20221117T180546Z">
@@ -48058,6 +48162,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename &lt;c0&gt;omegat.project&lt;/c0&gt; to &lt;c1&gt;omegat.project.locked&lt;/c1&gt; and rename &lt;c2&gt;omegat.project.bak&lt;/c2&gt; to &lt;c3&gt;omegat.project&lt;/c3&gt;, then open the project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T205714Z" creationid="Ragnar-F" creationdate="20260117T205714Z">
+        <seg>Benennen Sie &lt;c0&gt;omegat.project&lt;/c0&gt; in &lt;c1&gt;omegat.project.locked&lt;/c1&gt; und &lt;c2&gt;omegat.project.bak&lt;/c2&gt; in &lt;c3&gt;omegat.project&lt;/c3&gt; um und öffnen Sie dann das Projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename a suitable backup (e.g., &lt;c0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/c0&gt;) to &lt;c1&gt;project_save.tmx&lt;/c1&gt; and reopen the project to restore that state.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T211516Z" creationid="Ragnar-F" creationdate="20260117T211516Z">
+        <seg>Benennen Sie eine geeignete Sicherungskopie (z.B. &lt;c0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/c0&gt;) in &lt;c1&gt;project_save.tmx&lt;/c1&gt; um und öffnen Sie das Projekt wieder, um diesen Stand der Übersetzung wiederherzustellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename any files you want to prevent from being overwritten after you create them.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240708T110934Z" creationid="Ragnar-F" creationdate="20230127T130701Z">
@@ -48754,6 +48874,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reset configuration to defaults</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T205729Z" creationid="Ragnar-F" creationdate="20260117T205729Z">
+        <seg>Konfiguration auf Standardwerte zurücksetzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T085514Z" creationid="Ragnar-F" creationdate="20210113T085514Z">
@@ -48894,6 +49022,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230516T145247Z" creationid="Ragnar-F" creationdate="20230516T145247Z">
         <seg>OmegaT-Fenster wiederherstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore lost translations</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T210150Z" creationid="Ragnar-F" creationdate="20260117T210150Z">
+        <seg>Verlorene Übersetzungen wiederherstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -59635,6 +59771,14 @@ aktuelle Ordner verwendet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default names are as belows.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T202755Z" creationid="Ragnar-F" creationdate="20260117T202755Z">
+        <seg>Die Standardnamen lauten wie folgt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default pattern.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132208Z" creationid="Ragnar-F" creationdate="20221110T132208Z">
@@ -61418,6 +61562,22 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240627T150446Z" creationid="Ragnar-F" creationdate="20221111T174400Z">
         <seg>Die offizielle Referenz für reguläre Ausdrücke in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The omegat folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T204430Z" creationid="Ragnar-F" creationdate="20260117T204430Z">
+        <seg>Der omegat-Ordner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The omegat folder stores the project TM (&lt;c0&gt;project_save.tmx&lt;/c0&gt;), statistics and settings.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T204519Z" creationid="Ragnar-F" creationdate="20260117T204519Z">
+        <seg>Der Ordner "omegat" enthält den Projekt-TM (&lt;c0&gt;project_save.tmx&lt;/c0&gt;), Statistiken und Einstellungen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69298,8 +69458,8 @@ Skript mit ./linux-install.sh aus.</seg>
       <tuv lang="en">
         <seg>Translations from TMX files placed in this folder are automatically inserted in matching segments without the automatic prefix, making it unnecessary to confirm these segments.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T103840Z" creationid="Ragnar-F" creationdate="20221120T195736Z">
-        <seg>In diesem Ordner abgelegte TMX-Dateien bewirken, dass die Übersetzungen automatisch in passende Segmente ohne das automatische Präfix eingefügt werden, d.h. diese Segmente müssen nicht bestätigt werden.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T202215Z" creationid="Ragnar-F" creationdate="20221120T195736Z">
+        <seg>TMX-Dateien, die dort abgelegt werden, bewirken, dass die Übersetzungen automatisch in passende Segmente ohne das automatische Präfix eingefügt werden, d.h. diese Segmente müssen nicht bestätigt werden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76500,6 +76660,14 @@ Installationsskript (linux-install.sh) verwenden.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can reassign their locations in &lt;s0&gt;Project&lt;/s0&gt; &lt;s1&gt;Properties&lt;/s1&gt;, or access them via &lt;s2&gt;Project&lt;/s2&gt; &lt;s3&gt;Access Project Contents&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T202037Z" creationid="Ragnar-F" creationdate="20260117T202037Z">
+        <seg>Sie können ihre Standorte in &lt;s0&gt;Projekt&lt;/s0&gt; &lt;s1&gt;Eigenschaften&lt;/s1&gt; ändern oder sie über &lt;s2&gt;Projekt&lt;/s2&gt; &lt;s3&gt;Auf Projektinhalte zugreifen&lt;/s3&gt; öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can refer to the &lt;l1&gt;table presenting the different editor shortcuts&lt;/l1&gt; to find the values for keys such as &lt;l2&gt;Home&lt;/l2&gt;, &lt;l3&gt;Page Up&lt;/l3&gt;, or the arrow keys.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T133748Z" creationid="Ragnar-F" creationdate="20221112T133748Z">
@@ -79351,6 +79519,14 @@ Konfigurationsordner erstellen zu lassen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>dictionary contains the reference dictionaries</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T204102Z" creationid="Ragnar-F" creationdate="20260117T204102Z">
+        <seg>dictionary enthält die externen Wörterbücher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dir-10\\test\.html</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130525T095217Z">
@@ -80153,10 +80329,26 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>glossary contains the glossaries</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T203014Z" creationid="Ragnar-F" creationdate="20260117T203014Z">
+        <seg>glossary enthält die Glossare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>glossary.txt</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221116T143607Z" creationid="Ragnar-F" creationdate="20221116T143607Z">
         <seg>glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary.txt is the project writable glossary</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T203037Z" creationid="Ragnar-F" creationdate="20260117T203037Z">
+        <seg>glossary.txt ist das beschreibbare Glossar Ihres Projekts</seg>
       </tuv>
     </tu>
     <tu>
@@ -81478,8 +81670,8 @@ for (i in 0 ..&lt; files.size())
       <tuv lang="en">
         <seg>is the location where the target files are created</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T075544Z" creationid="Ragnar-F" creationdate="20221120T191516Z">
-        <seg> ist der Speicherort für die Zieldaten</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T204306Z" creationid="Ragnar-F" creationdate="20221120T191516Z">
+        <seg> ist der Speicherort für die Zieldateien</seg>
       </tuv>
     </tu>
     <tu>
@@ -83590,6 +83782,14 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source contains the source files</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T202802Z" creationid="Ragnar-F" creationdate="20260117T202802Z">
+        <seg>source enthält die Quelldateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source.txt</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T105354Z" creationid="Ragnar-F" creationdate="20221110T105354Z">
@@ -83730,6 +83930,14 @@ for (i in 0 ..&lt; files.size())
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T132913Z" creationid="Ragnar-F" creationdate="20221110T132913Z">
         <seg>Code der Zielregion (YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target target files are created</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T204256Z" creationid="Ragnar-F" creationdate="20260117T204256Z">
+        <seg>target ist der Speicherort für die Zieldateien</seg>
       </tuv>
     </tu>
     <tu>
@@ -84000,10 +84208,26 @@ for (i in 0 ..&lt; files.size())
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tm contains the reference translation memories</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T203132Z" creationid="Ragnar-F" creationdate="20260117T203132Z">
+        <seg>tm enthält die externen Translation Memories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tm/auto</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T195706Z" creationid="Ragnar-F" creationdate="20210111T195706Z">
         <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/auto folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T202047Z" creationid="Ragnar-F" creationdate="20260117T202042Z">
+        <seg>tm/auto-Ordner</seg>
       </tuv>
     </tu>
     <tu>
