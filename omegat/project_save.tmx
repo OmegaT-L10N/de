@@ -7259,6 +7259,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T094332Z" creationid="Ragnar-F" creationdate="20260117T094332Z">
+        <seg>&lt;repository type="git" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T094304Z" creationid="Ragnar-F" creationdate="20260117T094304Z">
+        <seg>&lt;repository type="git" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T081348Z" creationid="Ragnar-F" creationdate="20210111T081348Z">
@@ -9063,6 +9079,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding files</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T090131Z" creationid="Ragnar-F" creationdate="20260117T090131Z">
+        <seg>Dateien hinzufügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adding new source files</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T093950Z" creationid="Ragnar-F" creationdate="20210111T093950Z">
@@ -10347,6 +10371,14 @@ Dossier racine
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240627T150353Z" creationid="Ragnar-F" creationdate="20221111T173810Z">
         <seg>Obwohl OmegaT keine ausgefallene Syntaxhervorhebung für Ihre regulären Ausdrücke bietet, können Sie durch Nutzung des Fensters &lt;l0/&gt; viel Übung bekommen, da OmegaT die passenden Ergebnisse einfärbt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although OmegaT provides a mechanism for adding translation source and target files to the repository, the project manager must add any other files, such as dictionaries, glossaries or reference translation memories, from the VCS client.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T092234Z" creationid="Ragnar-F" creationdate="20260117T091349Z">
+        <seg>Obwohl OmegaT einen Mechanismus bietet, übersetzungsrelevante Quell- und Zieldateien zum Repository hinzuzufügen, muss der Projektmanager alle anderen Dateien, wie z. B. Wörterbücher, Glossare oder Referenz-TMs, über den VKS-Client hinzufügen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15780,6 +15812,14 @@ Fehler entstanden ist, an den Softwarehersteller.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240627T144809Z" creationid="Ragnar-F" creationdate="20221111T155815Z">
         <seg>Weitere Informationen finden Sie auf den Seiten im Abschnitt &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consulting project statistics</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T091849Z" creationid="Ragnar-F" creationdate="20260117T091849Z">
+        <seg>Projektstatistiken konsultieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -26874,6 +26914,14 @@ verwendet, und alle Einstellungen werden auf ihre Standardwerte zurückgesetzt.<
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240722T111623Z" creationid="Ragnar-F" creationdate="20221121T154156Z">
         <seg>Wenn Zeilen als 'Akzeptiert' markiert wurden, verwenden Sie diesen Befehl, um die Ausrichtung für die verbleibenden Zeilen zu aktualisieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If any shared team project files have become unnecessary, the project manager &lt;e0&gt;must&lt;/e0&gt; use the VCS to delete them from the repository.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T094020Z" creationid="Ragnar-F" creationdate="20260117T091631Z">
+        <seg>Wenn geteilte Teamprojektdateien nicht mehr benötigt werden, &lt;e0&gt;muss&lt;/e0&gt; der Projektmanager sie mithilfe des VKS aus dem Repository entfernen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39597,6 +39645,14 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not provide a mechanism to delete files from a team project.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T091421Z" creationid="Ragnar-F" creationdate="20260117T091421Z">
+        <seg>OmegaT bietet keinen Mechanismus, Dateien aus einem Teamprojekt zu löschen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not recognize languages automatically, and only uses a dictionary if its name matches the target language code.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240708T094704Z" creationid="Ragnar-F" creationdate="20230223T105636Z">
@@ -41170,6 +41226,14 @@ enthalten.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240708T100927Z" creationid="Ragnar-F" creationdate="20221117T105003Z">
         <seg>Wenn alles fertig ist, erscheinen die Quelldateien in OmegaT in einem Layout, das wie folgt aussieht:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once an OmegaT team project has been set up on a server, the project manager sends members the information they need to access it.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T094838Z" creationid="Ragnar-F" creationdate="20260117T094838Z">
+        <seg>Sobald ein OmegaT-Teamprojekt auf einem Server eingerichtet ist, schickt der Projektmanager den Mitgliedern die erforderlichen Informationen, um darauf zugreifen zu können.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56913,6 +56977,14 @@ Sabine Wanner</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The above process describes the most common scenario, in which the project manager has full control of the project and all files (and statistics) are identical in all instances of the project, both on the server and the local systems of the translators.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T094401Z" creationid="Ragnar-F" creationdate="20260117T094401Z">
+        <seg>Die obige Vorgehensweise beschreibt das häufigste Szenario, bei dem der Projektmanager die volle Kontrolle über das Projekt hat und bei dem alle Dateien (und Statistiken) in allen Projektinstanzen sowohl auf dem Server als auch auf den lokalen Systemen der Übersetzer identisch sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The above process describes the most common scenario, in which the team project administrator has full control of the project and all files (and statistics) are identical in all instances of the project, both on the server and the local systems of the translators.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T134035Z" creationid="Ragnar-F" creationdate="20221116T125125Z">
@@ -57157,6 +57229,14 @@ Sabine Wanner</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T134245Z" creationid="Ragnar-F" creationdate="20221218T101434Z">
         <seg>Die Prozedur ist grundsätzlich dieselbe, außer dass der Administrator des Teamprojekts nicht alle Dateien zum versionierten Projekt auf dem Server hinzufügt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The basic procedure is essentially the same, except that the team project manager does not add every file to the version-controlled project on the server.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T094511Z" creationid="Ragnar-F" creationdate="20260117T094511Z">
+        <seg>Die Prozedur ist grundsätzlich dieselbe, außer dass der Projektmanager nicht alle Dateien zum versionierten Projekt auf dem Server hinzufügt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60010,8 +60090,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The project manager may find it advantageous—even necessary—to handle such tasks directly through the VCS, particularly in cases where that project manager only acts as a coordinator and is not involved in the translation process itself.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T085923Z" creationid="Ragnar-F" creationdate="20260117T085923Z">
-        <seg>Der Projektleiter kann es als vorteilhaft oder sogar notwendig erachten, solche Aufgaben direkt über das VKS abzuwickeln, insbesondere dann, wenn der Projektleiter nur als Koordinator fungiert und nicht in den eigentlichen Übersetzungsprozess eingebunden ist.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T093922Z" creationid="Ragnar-F" creationdate="20260117T085923Z">
+        <seg>Der Projektmanager kann es als vorteilhaft oder sogar notwendig erachten, solche Aufgaben direkt über das VKS abzuwickeln, insbesondere dann, wenn der Projektmanager nur als Koordinator fungiert und nicht in den eigentlichen Übersetzungsprozess eingebunden ist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62978,6 +63058,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either &lt;e0&gt;http&lt;/e0&gt; (which includes https), &lt;e1&gt;git&lt;/e1&gt;, &lt;e2&gt;svn&lt;/e2&gt;, or &lt;e3&gt;file&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T094230Z" creationid="Ragnar-F" creationdate="20260117T094230Z">
+        <seg>Dies kann entweder &lt;e0&gt;http&lt;/e0&gt; (das https mit einbezieht), &lt;e1&gt;git&lt;/e1&gt;, &lt;e2&gt;svn&lt;/e2&gt; oder &lt;e3&gt;file&lt;/e3&gt; sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be either &lt;e0&gt;http&lt;/e0&gt; (which includes https), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt;, or &lt;e3&gt;file&lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T132417Z" creationid="Ragnar-F" creationdate="20221116T123650Z">
@@ -63438,6 +63526,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240724T123122Z" creationid="Ragnar-F" creationdate="20221114T133411Z">
         <seg>Diese Edition ist für den täglichen Gebrauch empfohlen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This enable the project manager to consult the statistics, and possibly automate their processing, without the need to open OmegaT.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T093911Z" creationid="Ragnar-F" creationdate="20260117T093911Z">
+        <seg>So kann der Projektmanager die Statistiken einsehen und ggf. deren Auswertung automatisieren, ohne dass er OmegaT öffnen muss.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64510,6 +64606,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T144627Z" creationid="Michael Motzkus" creationdate="20180925T091519Z">
         <seg>Diese Nummer wird in Klammern dargestellt, neben dem Titel "Projektdateien".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This only applies to workflows that ask translators to commit the translated target files to the repository as deliverables.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T092201Z" creationid="Ragnar-F" creationdate="20260117T092201Z">
+        <seg>Dies gilt nur für Arbeitsabläufe, bei denen Übersetzer dazu aufgefordert werden, ihre übersetzten Dateien in das Repository zu committen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71404,6 +71508,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210115T194128Z" creationid="Michael Motzkus" creationdate="20180921T074818Z">
         <seg>Wenn die Option &lt;e1&gt;Zeichen unabhängig von voller/halber Breite)&lt;/e1&gt; aktiviert ist, werden bei der Suche nach vollbreiten Formen (chinesische, japanische und koreanische Schriftzeichen) auch halbbreite Zeichen gefunden und umgekehrt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When OmegaT commits the target files, it also commits the project statistics in &lt;f0&gt;.txt&lt;/f0&gt; and &lt;f1&gt;.json&lt;/f1&gt; format.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T092418Z" creationid="Ragnar-F" creationdate="20260117T092418Z">
+        <seg>Beim Committen der Zieldateien committet OmegaT auch die Projektstatistiken im &lt;f0&gt;.txt&lt;/f0&gt;- und &lt;f1&gt;.json&lt;/f1&gt;-Format.</seg>
       </tuv>
     </tu>
     <tu>
