@@ -36583,6 +36583,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make a small change and save to add inserted translations to &lt;c0&gt;project_save.tmx&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T082048Z" creationid="Ragnar-F" creationdate="20260118T082048Z">
+        <seg>Nehmen Sie eine kleine Änderung vor und speichern Sie, um eingefügte Übersetzungen zu &lt;c0&gt;project_save.tmx&lt;/c0&gt; hinzuzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make decision about immunity of the enforced segments:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T123437Z" creationid="Michael Motzkus" creationdate="20180925T063622Z">
@@ -45251,6 +45259,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place a reliable TMX in the &lt;c0&gt;tm/enforce&lt;/c0&gt; folder to overwrite existing translations automatically.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T082237Z" creationid="Ragnar-F" creationdate="20260118T082237Z">
+        <seg>Platzieren Sie eine zuverlässige TMX-Datei in den Ordner &lt;c0&gt;tm/enforce&lt;/c0&gt;, um vorhandene Übersetzungen automatisch zu überschreiben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place shared TMX files in the &lt;c0&gt;tm&lt;/c0&gt; folder, or exchange exported TMs created for delivery.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T212618Z" creationid="Ragnar-F" creationdate="20260117T212618Z">
@@ -47007,16 +47023,24 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       <tuv lang="en">
         <seg>Put reference TMX files in the project's tm folder to leverage previous work.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20260117T211719Z" creationid="Ragnar-F" creationdate="20260117T211719Z">
-        <seg>Kopieren Sie Referenz-TMX-Dateien in den Projektordner "tm", um frühere Übersetzungen zu nutzen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T082459Z" creationid="Ragnar-F" creationdate="20260117T211719Z">
+        <seg>Platzieren Sie Referenz-TMX-Dateien in den Projektordner "tm", um frühere Übersetzungen zu nutzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put reliable TMX files in the &lt;c0&gt;tm/auto&lt;/c0&gt; folder to automatically fill exact, untranslated segments without the automatic prefix.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T082520Z" creationid="Ragnar-F" creationdate="20260118T081805Z">
+        <seg>Platzieren Sie zuverlässige TMX-Dateien in den Ordner &lt;c0&gt;tm/auto&lt;/c0&gt;, um automatisch exakte, unübersetzte Segmente ohne das automatische Präfix zu füllen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Put the &lt;f0&gt;omegat.project&lt;/f0&gt; file in an empty folder, and open it in OmegaT.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240704T080339Z" creationid="Ragnar-F" creationdate="20221116T141945Z">
-        <seg>Verschieben oder kopieren Sie die &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei in einen leeren Ordner und öffnen Sie sie mit OmegaT.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T082359Z" creationid="Ragnar-F" creationdate="20221116T141945Z">
+        <seg>Platzieren Sie die &lt;f0&gt;omegat.project&lt;/f0&gt;-Datei in einen leeren Ordner und öffnen Sie sie mit OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47039,16 +47063,16 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       <tuv lang="en">
         <seg>Put the applicable memories in the &lt;f0&gt;tm/auto&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T131847Z" creationid="Ragnar-F" creationdate="20221120T200213Z">
-        <seg>Kopieren oder verschieben Sie die entsprechenden TM-Dateien in den &lt;f0&gt;tm/auto&lt;/f0&gt;-Ordner.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T082415Z" creationid="Ragnar-F" creationdate="20221120T200213Z">
+        <seg>Platzieren Sie die entsprechenden TM-Dateien in den &lt;f0&gt;tm/auto&lt;/f0&gt;-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Put the applicable memories in the &lt;f0&gt;tm/enforce&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T132911Z" creationid="Ragnar-F" creationdate="20221120T201613Z">
-        <seg>Kopieren oder verschieben Sie die entsprechenden TM-Dateien in den &lt;f0&gt;tm/enforce&lt;/f0&gt;-Ordner.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T082423Z" creationid="Ragnar-F" creationdate="20221120T201613Z">
+        <seg>Platzieren Sie die entsprechenden TM-Dateien in den &lt;f0&gt;tm/enforce&lt;/f0&gt;-Ordner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48262,6 +48286,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210114T083348Z" creationid="karsten" creationdate="20150922T164319Z">
         <seg>Zu löschender Text im Zieltext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove the TMX after updating if you don't need to keep segments immutable.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T083223Z" creationid="Ragnar-F" creationdate="20260118T083223Z">
+        <seg>Löschen Sie die TMX-Datei nach der Aktualisierung, wenn die Segmente nicht unveränderlich bleiben sollen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66612,6 +66644,14 @@ the server.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T135857Z" creationid="Ragnar-F" creationdate="20221116T124531Z">
         <seg>Dies ermöglicht eine Umbenennung der zu übersetzenden Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes the enforced TM more reliable than the project memory.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T082736Z" creationid="Ragnar-F" creationdate="20260118T082736Z">
+        <seg>Dies macht den erzwungenen TM zuverlässiger als den projektinternen TM.</seg>
       </tuv>
     </tu>
     <tu>
