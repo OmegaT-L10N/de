@@ -6723,8 +6723,8 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;xxx&lt;/l0&gt; is a number from 0 to 100 that will act as a penalty subtracted from the match percentage of segments coming from this folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T113853Z" creationid="Ragnar-F" creationdate="20221120T203914Z">
-        <seg>&lt;l0&gt;xxx&lt;/l0&gt; ist eine Zahl zwischen 0 und 100, die als Sanktion behandelt wird; diese Zahl wird automatisch von den Match-Prozentsätzen der Segmente aus diesem Ordner abgezogen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T113115Z" creationid="Ragnar-F" creationdate="20221120T203914Z">
+        <seg>&lt;l0&gt;xxx&lt;/l0&gt; ist eine Zahl zwischen 0 und 100, die als Sanktion behandelt wird; diese Zahl wird automatisch von den Trefferquoten der Segmente aus diesem Ordner abgezogen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13118,6 +13118,14 @@ korrektem Verhalten kommen kann.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Azure Translate plugin</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T115532Z" creationid="Ragnar-F" creationdate="20260118T115528Z">
+        <seg>Azure Translate Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T161022Z">
@@ -17834,6 +17842,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a subfolder under tm named &lt;c0&gt;penalty-XXX&lt;/c0&gt; (e.g., penalty-30) to reduce match scores from those TMs. A 100% match becomes 70% with &lt;c1&gt;penalty-30&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T113847Z" creationid="Ragnar-F" creationdate="20260118T113847Z">
+        <seg>Erstellen Sie im tm-Ordner einen Unterordner namens &lt;c0&gt;penalty-XXX&lt;/c0&gt; (z.B. penalty-30), um die Trefferquoten bei diesen TMs zu verringern. Ein 100%iger Match wird mit &lt;c1&gt;penalty-30&lt;/c1&gt; zu einem 70%igen Match.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210111T073205Z" creationid="Ragnar-F" creationdate="20210111T073205Z">
@@ -18678,6 +18694,22 @@ Neue Version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DLTranslator API connector plugin</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120453Z" creationid="Ragnar-F" creationdate="20260118T120448Z">
+        <seg>DLTranslator API Connector Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DLTranslator is a python project that runs AI translation server on PC.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120619Z" creationid="Ragnar-F" creationdate="20260118T120619Z">
+        <seg>DLTranslator ist ein Python-Projekt, das einen AI-Übersetzungsserver auf dem PC ausführt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DOWN</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221112T145419Z" creationid="Ragnar-F" creationdate="20221112T145419Z">
@@ -18718,6 +18750,14 @@ Neue Version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL API Free plugin</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T115525Z" creationid="Ragnar-F" creationdate="20260118T115014Z">
+        <seg>DeepL API Free Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL API key not available.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T215058Z" creationid="Ragnar-F" creationdate="20221109T215058Z">
@@ -18730,6 +18770,14 @@ Neue Version: {2}</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T090721Z" creationid="Michael Motzkus" creationdate="20190129T090721Z">
         <seg>DeepL-API-Schlüssel nicht verfügbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepL connector plugin</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120231Z" creationid="Ragnar-F" creationdate="20260118T120047Z">
+        <seg>DeepL Connector Plugin</seg>
       </tuv>
     </tu>
     <tu>
@@ -20494,6 +20542,14 @@ Neue Version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Donate</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T114854Z" creationid="Ragnar-F" creationdate="20260118T114854Z">
+        <seg>Spenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Donations</seg>
       </tuv>
       <tuv lang="de" changeid="BVB" changedate="20180826T193243Z" creationid="BVB" creationdate="20180826T193243Z">
@@ -21152,8 +21208,8 @@ Neue Version: {2}</seg>
       <tuv lang="en">
         <seg>EPWING plugin</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210112T141523Z" creationid="Ragnar-F" creationdate="20210112T141517Z">
-        <seg>EPWING-Plugin</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T115501Z" creationid="Ragnar-F" creationdate="20210112T141517Z">
+        <seg>EPWING Plugin</seg>
       </tuv>
     </tu>
     <tu>
@@ -36351,6 +36407,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MDict dictionary lookup plugin</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120425Z" creationid="Ragnar-F" creationdate="20260118T120425Z">
+        <seg>MDict Dictionary Lookup Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MT engine error happened</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230418T073141Z" creationid="Ragnar-F" creationdate="20230418T073141Z">
@@ -38488,6 +38552,14 @@ online erfolgen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moses MT connector plugin</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T115512Z" creationid="Ragnar-F" creationdate="20260118T115219Z">
+        <seg>Moses MT Connector Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moses Server URL:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210120T093223Z" creationid="Michael Motzkus" creationdate="20190129T091101Z">
@@ -38995,6 +39067,14 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T154039Z" creationid="Ragnar-F" creationdate="20210112T154039Z">
         <seg>Hinweis: Der Filter "Java™ Resource Bundles" erkennt diese bereits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NICT TexTra plugin</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T115456Z" creationid="Ragnar-F" creationdate="20260118T114949Z">
+        <seg>NICT TexTra Plugin</seg>
       </tuv>
     </tu>
     <tu>
@@ -40611,6 +40691,14 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Office files often contain tags that must be preserved in the translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T114153Z" creationid="Ragnar-F" creationdate="20260118T114153Z">
+        <seg>Office-Dateien enthalten oft Tags, die bei der Übersetzung nicht fehlen dürfen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210108T115754Z">
@@ -41573,8 +41661,8 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       <tuv lang="en">
         <seg>OmegaT inserts the translation with the highest match percentage above the value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T142401Z" creationid="Ragnar-F" creationdate="20221119T134019Z">
-        <seg>OmegaT fügt die Übersetzung mit dem höchsten Match-Prozentsatz ein, der größer gleich dem Wert ist, den Sie in diesem Dialogfenster festgelegt haben.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T113235Z" creationid="Ragnar-F" creationdate="20221119T134019Z">
+        <seg>OmegaT fügt die Übersetzung mit der höchsten Trefferquote größer gleich dem Wert, den Sie in diesem Dialogfenster festgelegt haben, ein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44702,6 +44790,14 @@ Translated to: If a suggestion is not accepted, it may be because the desired fu
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDIC dictionary lookup plugin</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120330Z" creationid="Ragnar-F" creationdate="20260118T120319Z">
+        <seg>PDIC Dictionary Lookup Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PO</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T141526Z">
@@ -46937,6 +47033,62 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221118T212735Z" creationid="Ragnar-F" creationdate="20221118T212735Z">
         <seg>Anbieterliste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides Azure Translate V2/V3 connector for OmagaT</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120242Z" creationid="Ragnar-F" creationdate="20260118T115620Z">
+        <seg>Bietet einen Azure Translate V2/V3 Connector für OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides DLTranslator connector.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120550Z" creationid="Ragnar-F" creationdate="20260118T120550Z">
+        <seg>Bietet einen DLTranslator Connector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides DeepL MT connector (via Pro V1 API)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120313Z" creationid="Ragnar-F" creationdate="20260118T120313Z">
+        <seg>Bietet einen DeepL MT Connector (via Pro V1 API)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides MDict bilingual dictionary lookup feature</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120444Z" creationid="Ragnar-F" creationdate="20260118T120444Z">
+        <seg>Bietet ein MDict Bilingual Dictionary Lookup Feature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides Moses Machine Translator plugin for OmegaT</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120254Z" creationid="Ragnar-F" creationdate="20260118T115430Z">
+        <seg>Bietet ein Moses Machine Translator Plugin für OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides PDIC bilingual dictionary lookup feature</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120414Z" creationid="Ragnar-F" creationdate="20260118T120414Z">
+        <seg>Bietet ein PDIC Bilingual Dictionary Lookup Feature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides connector for DeepL machine translation (via Free API)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120043Z" creationid="Ragnar-F" creationdate="20260118T115157Z">
+        <seg>Bietet einen Connector für maschinelle DeepL-Übersetzung (via Free API)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50240,8 +50392,8 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Scores of 75, 80 and 90 for a match are lowered to 45, 50 and 60.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221120T204854Z" creationid="Ragnar-F" creationdate="20221120T204623Z">
-        <seg>Match-Prozentsätze von 75, 80 und 90 werden auf 45, 50 und 60 herabgestuft.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T112851Z" creationid="Ragnar-F" creationdate="20221120T204623Z">
+        <seg>Trefferquoten von 75, 80 und 90 werden auf 45, 50 und 60 herabgestuft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50979,6 +51131,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T174437Z" creationid="Ragnar-F" creationdate="20221109T174428Z">
         <seg>Siehe /docs/libraries.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;a0&gt;DLTranslator&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T130945Z" creationid="Ragnar-F" creationdate="20260118T120620Z">
+        <seg>Siehe &lt;a0&gt;DLTranslator&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62008,8 +62168,8 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       <tuv lang="en">
         <seg>The penalty applies to all three match percentages.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240721T114756Z" creationid="Ragnar-F" creationdate="20221120T204607Z">
-        <seg>Die Sanktion wird auf alle drei Match-Prozentsätze angewendet.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T112830Z" creationid="Ragnar-F" creationdate="20221120T204607Z">
+        <seg>Die Sanktion wird auf alle drei Trefferquoten angewendet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70122,6 +70282,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>USD</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T114846Z" creationid="Ragnar-F" creationdate="20260118T114846Z">
+        <seg>USD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T134755Z" creationid="Ragnar-F" creationdate="20210112T134541Z">
@@ -72116,6 +72284,22 @@ Die aktuelle Einstellung ist {0}MB;</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260117T213802Z" creationid="Ragnar-F" creationdate="20260117T213802Z">
         <seg>Verwenden Sie &lt;s0&gt;Projekt&lt;/s0&gt; &lt;s1&gt;Dateien hinzufügen...&lt;/s1&gt; oder ziehen Sie Dateien auf den Fensterbereich &lt;s2&gt;Editor&lt;/s2&gt;, um Dokumente zur Übersetzung hinzuzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Tools&lt;/s0&gt; &lt;s1&gt;Check Issues... (Ctrl+Shift+V)&lt;/s1&gt; and focus on Tag issues to detect missing or misplaced tags that may break exported files.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T114839Z" creationid="Ragnar-F" creationdate="20260118T114839Z">
+        <seg>Verwenden Sie &lt;s0&gt;Tools&lt;/s0&gt; &lt;s1&gt;Probleme untersuchen... (Strg+Umschalt+V)&lt;/s1&gt;, um fehlende oder falsch platzierte Tags zu finden, die exportierte Dateien unbrauchbar machen könnten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;s0&gt;Tools&lt;/s0&gt;&lt;s1&gt;Check Issues...&lt;/s1&gt; and focus on Tag issues, fix all tag problems, then create translated files again.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T114448Z" creationid="Ragnar-F" creationdate="20260118T114448Z">
+        <seg>Verwenden Sie &lt;s0&gt;Tools&lt;/s0&gt;&lt;s1&gt;Probleme untersuchen...&lt;/s1&gt;, beheben Sie alle Tag-Probleme und erstellen Sie die übersetzten Dateien erneut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74544,8 +74728,8 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       <tuv lang="en">
         <seg>When you enter a segment, the first fuzzy match (the one with the highest match percentage) is automatically selected.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20240716T142321Z" creationid="Ragnar-F" creationdate="20221118T132235Z">
-        <seg>Wenn Sie ein Segment betreten, wird automatisch der erste Fuzzy Match (der mit dem höchsten Match-Prozentsatz) ausgewählt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T112509Z" creationid="Ragnar-F" creationdate="20221118T132235Z">
+        <seg>Wenn Sie ein Segment betreten, wird automatisch der erste Fuzzy Match (der mit der höchsten Trefferquote) ausgewählt.</seg>
       </tuv>
     </tu>
     <tu>
