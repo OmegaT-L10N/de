@@ -18702,10 +18702,18 @@ Neue Version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DLTranslator Deep Learning translator server/client</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T131445Z" creationid="Ragnar-F" creationdate="20260118T131445Z">
+        <seg>DLTranslator Deep Learning Translator Server/Client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DLTranslator is a python project that runs AI translation server on PC.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120619Z" creationid="Ragnar-F" creationdate="20260118T120619Z">
-        <seg>DLTranslator ist ein Python-Projekt, das einen AI-Übersetzungsserver auf dem PC ausführt.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T130956Z" creationid="Ragnar-F" creationdate="20260118T120619Z">
+        <seg>DLTranslator ist ein Python-Projekt, das einen KI-Übersetzungsserver auf dem PC ausführt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47085,6 +47093,14 @@ Folder = &lt;t1&gt;Dossier&lt;/t1&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides a translation API server built on dl-translate library powered by Hugging Face transformers.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T132027Z" creationid="Ragnar-F" creationdate="20260118T132027Z">
+        <seg>Bietet einen Übersetzungs-API-Server, der auf der DL-Translate-Bibliothek basiert, unterstützt von Hugging Face Transformers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides connector for DeepL machine translation (via Free API)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20260118T120043Z" creationid="Ragnar-F" creationdate="20260118T115157Z">
@@ -63162,6 +63178,14 @@ in /lib/licenses/Licenses.txt aufgeführt.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240627T131714Z" creationid="Ragnar-F" creationdate="20221111T125525Z">
         <seg>Die Ordnungszahlen (einschließlich der runden Klammern) am Anfang jeder Zeile einer Liste, zum Beispiel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The server accepts a request in JSON form and return a translation result by pre-trained transformer model.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T132756Z" creationid="Ragnar-F" creationdate="20260118T132756Z">
+        <seg>Der Server akzeptiert einen Request in JSON-Form und gibt ein Übersetzungsergebnis von einem vortrainierten Transformer-Modell zurück.</seg>
       </tuv>
     </tu>
     <tu>
