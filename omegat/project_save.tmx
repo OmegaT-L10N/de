@@ -9677,6 +9677,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access to {0} is forbidden.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T184421Z" creationid="Ragnar-F" creationdate="20260118T184421Z">
+        <seg>Der Zugriff auf {0} ist verboten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessing a team project requires the following information:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T125916Z" creationid="Ragnar-F" creationdate="20221116T121500Z">
@@ -12726,6 +12734,14 @@ korrektem Verhalten kommen kann.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authentication error when trying to access {0}.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T184503Z" creationid="Ragnar-F" creationdate="20260118T184503Z">
+        <seg>Authentifizierungsfehler beim Zugriff auf {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Author</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T113054Z" creationid="Ragnar-F" creationdate="20210113T113054Z">
@@ -15547,6 +15563,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose ngram dir</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T184000Z" creationid="Ragnar-F" creationdate="20260118T184000Z">
+        <seg>ngram-Ordner wählen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose the appropriate settings</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240703T112020Z" creationid="Ragnar-F" creationdate="20221116T114844Z">
@@ -17538,6 +17562,14 @@ erfahren, ob weitere Schritte erforderlich sind.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Corresponding plural source:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T184153Z" creationid="Ragnar-F" creationdate="20260118T184153Z">
+        <seg>Zugehörige Pluralquelle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20181022T142148Z" creationid="Michael Motzkus" creationdate="20181022T142148Z">
@@ -18582,6 +18614,14 @@ Neue Version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom Spelling Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T183008Z" creationid="Ragnar-F" creationdate="20260118T183008Z">
+        <seg>Benutzerdefinierter Ordner für Rechtschreibwörterbuchdateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom branch</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T220853Z" creationid="Ragnar-F" creationdate="20221109T220853Z">
@@ -18594,6 +18634,14 @@ Neue Version: {2}</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210112T192620Z" creationid="Ragnar-F" creationdate="20210112T192620Z">
         <seg>Benutzerdefinierte Server-URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom spell checking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T154339Z" creationid="Ragnar-F" creationdate="20260118T154339Z">
+        <seg>Benutzerdefinierter Ort für Rechtschreibwörterbücher:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23060,6 +23108,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception when validating tags on leave</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T154018Z" creationid="Ragnar-F" creationdate="20260118T154018Z">
+        <seg>Ausnahmefehler beim Validieren von Tags bei Programmende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221122T082536Z">
@@ -23749,6 +23805,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T130754Z" creationid="Ragnar-F" creationdate="20221109T130754Z">
         <seg>Dateien konnten nicht kopiert werden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create .repositories subdirectory for team project: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T184334Z" creationid="Ragnar-F" creationdate="20260118T184334Z">
+        <seg>Unterverzeichnis .repositories konnte nicht erstellt werden für Teamprojekt : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26986,6 +27050,14 @@ enthaltene Kaptain-Skript verwenden (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T211059Z">
         <seg>HTMLParser 1.6 von Somik Raha, Derrick Oswald und andere (LGPL-Lizenz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTTP connection {1} responded with code: {2}.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T184649Z" creationid="Ragnar-F" creationdate="20260118T184649Z">
+        <seg>HTTP-Verbindung {1} antwortet mit Code: {2}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35324,6 +35396,14 @@ Computer und das Programm selbst installiert.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool ngrams model</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T183636Z" creationid="Ragnar-F" creationdate="20260118T183636Z">
+        <seg>LanguageTool-ngrams-Modell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool plug-in</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210110T113015Z" creationid="BVB" creationdate="20180827T061417Z">
@@ -35344,6 +35424,14 @@ Computer und das Programm selbst installiert.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210119T191112Z" creationid="Michael Motzkus" creationdate="20190129T085655Z">
         <seg>LanguageTool-Server terminiert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool server: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T183024Z" creationid="Ragnar-F" creationdate="20260118T183024Z">
+        <seg>LanguageTool-Server: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39715,6 +39803,14 @@ Ordner an einen geeigneten Ort, z.B. in den Programme-Ordner.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240617T174422Z" creationid="Ragnar-F" creationdate="20240617T174422Z">
         <seg>Keine Konsole gefunden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No content found at {0}.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T184533Z" creationid="Ragnar-F" creationdate="20260118T184533Z">
+        <seg>Kein Inhalt gefunden bei {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46921,6 +47017,14 @@ werden und der Projektinhalt erneut vom Server heruntergeladen wird.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project loading error: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T154207Z" creationid="Ragnar-F" creationdate="20260118T154207Z">
+        <seg>Fehler beim Laden des Projekts: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project loading start</seg>
       </tuv>
       <tuv lang="de" changeid="eugenie" changedate="20130702T171951Z">
@@ -49974,6 +50078,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T152440Z" creationid="Michael Motzkus" creationdate="20181018T135647Z">
         <seg>Läuft auf Java {0} ({1}-Bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running the script of scripting editor...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T184110Z" creationid="Ragnar-F" creationdate="20260118T184110Z">
+        <seg>Führe das Skript des Scripting-Editors aus...</seg>
       </tuv>
     </tu>
     <tu>
@@ -53097,8 +53209,16 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       <tuv lang="en">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
-      <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T085934Z" creationid="Michael Motzkus" creationdate="20190129T085934Z">
-        <seg>Wählen Sie languagetool-server.jar aus</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T183505Z" creationid="Michael Motzkus" creationdate="20190129T085934Z">
+        <seg>languagetool-server.jar auswählen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select ngrams folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T183610Z" creationid="Ragnar-F" creationdate="20260118T183610Z">
+        <seg>ngrams-Ordner auswählen</seg>
       </tuv>
     </tu>
     <tu>
@@ -53987,6 +54107,14 @@ Standardmäßig wird das Projekt durchsucht, aber es gibt auch die Möglichkeit,
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240701T065404Z" creationid="Ragnar-F" creationdate="20221112T141536Z">
         <seg>Die Tastenkürzel in Klammern sind Alternativen für dieselbe Funktion in &lt;f1&gt;EditorShortcuts.properties&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shorter definitions appear first.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T184733Z" creationid="Ragnar-F" creationdate="20260118T184733Z">
+        <seg>Kürzere Definitionen erscheinen zuerst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70634,6 +70762,14 @@ Die exakte Suche sucht den kompletten Suchtext.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncaught exception in thread [{0}]</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T153820Z" creationid="Ragnar-F" creationdate="20260118T153820Z">
+        <seg>Unerwarteter Ausnahmefehler in Thread [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uncheck the box to disable it.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T175550Z" creationid="Ragnar-F" creationdate="20221109T175550Z">
@@ -78262,9 +78398,9 @@ Konfigurationsordner erstellen zu lassen.</seg>
         <seg>Your operating system refused to let OmegaT
 create the configuration folder.</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20221109T213035Z" creationid="Ragnar-F" creationdate="20221109T213035Z">
-        <seg>Ihr Betriebssystem hat sich geweigert, OmegaT den
-Konfigurationsordner erstellen zu lassen.</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T153619Z" creationid="Ragnar-F" creationdate="20221109T213035Z">
+        <seg>Ihr Betriebssystem hat OmegaT daran gehindert,
+den Konfigurationsordner zu erstellen.</seg>
       </tuv>
     </tu>
     <tu>
