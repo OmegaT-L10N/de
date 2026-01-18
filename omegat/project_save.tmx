@@ -9693,6 +9693,14 @@ Dossier racine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Activate segment with single click.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T152758Z" creationid="Ragnar-F" creationdate="20260118T152758Z">
+        <seg>Segment mit einem Klick aktivieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Activate the "Show hidden files" option to make it visible.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210127T132213Z" creationid="Ragnar-F" creationdate="20210111T202200Z">
@@ -14559,6 +14567,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20240627T070102Z" creationid="Ragnar-F" creationdate="20221217T230105Z">
         <seg>Die Verkettung von Befehlen mit &lt;l2&gt;&amp;&amp;&lt;/l2&gt; oder &lt;l3&gt;||&lt;/l3&gt; oder Pipes &lt;l4&gt;|&lt;/l4&gt; funktioniert hier nicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change Writable Glossary</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T153030Z" creationid="Ragnar-F" creationdate="20260118T153030Z">
+        <seg>Beschreibbares Glossar ändern</seg>
       </tuv>
     </tu>
     <tu>
@@ -21518,6 +21534,14 @@ Neue Version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor - LOADING NOW...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T153218Z" creationid="Ragnar-F" creationdate="20260118T153218Z">
+        <seg>Editor - LADE JETZT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="de">
@@ -22464,6 +22488,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T183726Z" creationid="Ragnar-F" creationdate="20210112T221822Z">
         <seg>Fehler beim Aktualisieren des Repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error when loading project {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T151251Z" creationid="Ragnar-F" creationdate="20260118T151251Z">
+        <seg>Fehler beim Laden des Projekts {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23633,6 +23665,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FATAL: There is no language registerd</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T150423Z" creationid="Ragnar-F" creationdate="20260118T150423Z">
+        <seg>FATAL: Es ist keine Sprache registriert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Facebook</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20230402T073652Z" creationid="Ragnar-F" creationdate="20230402T073652Z">
@@ -23777,6 +23817,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load last changes file</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T151456Z" creationid="Ragnar-F" creationdate="20260118T151456Z">
+        <seg>Letzte-Änderungen-Datei konnte nicht geladen werden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T221806Z">
@@ -23867,10 +23915,26 @@ Einige Attribute haben ungültige Werte.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to parse YAML: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T151401Z" creationid="Ragnar-F" creationdate="20260118T151401Z">
+        <seg>YAML konnte nicht geparst werden: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to update project properties</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210116T221928Z" creationid="Michael Motzkus" creationdate="20181022T140747Z">
         <seg>Aktualisierung der Projekteigenschaften fehlgeschlagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to write YAML: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T151410Z" creationid="Ragnar-F" creationdate="20260118T151410Z">
+        <seg>YAML konnte nicht geschrieben werden: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31177,6 +31241,14 @@ haben, doppelklicken Sie auf diese Verknüpfung.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221110T150136Z" creationid="Ragnar-F" creationdate="20221110T150136Z">
         <seg>PO-Header ignorieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore a bad DOCTYPE without DTD</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T151804Z" creationid="Ragnar-F" creationdate="20260118T151804Z">
+        <seg>Schlechten DOCTYPE ohne DTD ignorieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -50030,6 +50102,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="de" changeid="Michael Motzkus" changedate="20190129T074216Z" creationid="Michael Motzkus" creationdate="20190129T074216Z">
         <seg>SQLJet (GPL-Lizenz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SSH Agent connection issue: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T143600Z" creationid="Ragnar-F" creationdate="20260118T143550Z">
+        <seg>SSH-Agent-Verbindungsproblem: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -73788,6 +73868,14 @@ Die aktuelle Einstellung ist {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Validating TMX file {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T151327Z" creationid="Ragnar-F" creationdate="20260118T151327Z">
+        <seg>Validiere TMX-Datei {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Validating tags</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210113T223417Z">
@@ -74634,6 +74722,14 @@ um Ihnen die Suche, Beschaffung und Installation der JRE zu ersparen.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210117T200511Z" creationid="karsten" creationdate="20150919T141246Z">
         <seg>Falls nicht verfügbar, wird die ID als Fallback genutzt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using paragraph segmentation:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T152836Z" creationid="Ragnar-F" creationdate="20260118T152836Z">
+        <seg>Wenn Absatzsegmentierung verwendet wird:</seg>
       </tuv>
     </tu>
     <tu>
@@ -75755,6 +75851,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="de" changeid="hasan" changedate="20130528T131352Z">
         <seg>X|Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T151329Z" creationid="Ragnar-F" creationdate="20260118T151329Z">
+        <seg>YAML</seg>
       </tuv>
     </tu>
     <tu>
@@ -78161,6 +78265,15 @@ create the configuration folder.</seg>
       <tuv lang="de" changeid="Ragnar-F" changedate="20221109T213035Z" creationid="Ragnar-F" creationdate="20221109T213035Z">
         <seg>Ihr Betriebssystem hat sich geweigert, OmegaT den
 Konfigurationsordner erstellen zu lassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT create the application data folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20260118T153519Z" creationid="Ragnar-F" creationdate="20260118T153244Z">
+        <seg>Ihr Betriebssystem hat OmegaT daran gehindert,
+den Applikationsdatenordner zu erstellen.</seg>
       </tuv>
     </tu>
     <tu>
